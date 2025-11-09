@@ -1,0 +1,80 @@
+name: Fetch SteamDB Achievements
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-achievements:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 20
+
+    - name: Install dependencies
+      run: |
+        npm install axios fs-extra
+
+    - name: Fetch game data from SteamDB
+      env:
+        STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        STEAM_ID: ${{ secrets.STEAM_ID }}
+      run: |
+        node -e "
+        const axios = require('axios');
+        const fs = require('fs-extra');
+
+        async function fetchGame(appId) {
+          try {
+            const storeData = await axios.get(`https://store.steampowered.com/api/appdetails?appids=${appId}`);
+            const game = storeData.data[appId].data;
+
+            const achievementsData = await axios.get(`https://steamdb.info/api/GetAchievements/?appid=${appId}`);
+            const achievements = achievementsData.data || [];
+
+            const htmlData = achievements.map(a => `
+              <div class=\"achievement ${a.achieved ? 'unlocked' : 'locked'}\">
+                <img src=\"${a.icon_url}\" class=\"achievement-icon\" />
+                <div class=\"achievement-info\">
+                  <div class=\"achievement-name\">${a.name}</div>
+                  <div class=\"achievement-desc\">${a.description}</div>
+                </div>
+              </div>
+            `).join('');
+
+            const gameHtml = `
+            <div class=\"game-card\">
+              <div class=\"game-header\">
+                <img src=\"${game.header_image}\" class=\"game-icon\" />
+                <div class=\"game-info\">
+                  <div class=\"game-title\">${game.name}</div>
+                  <div class=\"game-appid\">AppID: ${appId}</div>
+                </div>
+              </div>
+              <div class=\"achievements-list\">${htmlData}</div>
+            </div>`;
+
+            await fs.ensureDir('output');
+            await fs.writeFile(`output/game-${appId}.html`, gameHtml);
+          } catch(e) {
+            console.error('Error fetching', appId, e.message);
+          }
+        }
+
+        // Add your AppIDs here
+        const appIds = [730, 570, 440];
+        Promise.all(appIds.map(id => fetchGame(id))).then(() => console.log('All games fetched'));
+        "
+
+    - name: Commit and push generated HTML
+      run: |
+        git config user.name 'github-actions'
+        git config user.email 'github-actions@github.com'
+        git add output/*.html
+        git commit -m 'Add updated SteamDB achievement data' || echo 'No changes to commit'
+        git push
