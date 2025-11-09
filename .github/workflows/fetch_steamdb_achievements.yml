@@ -25,51 +25,71 @@ jobs:
         STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         STEAM_ID: ${{ secrets.STEAM_ID }}
       run: |
-        node -e "
-        const axios = require('axios');
         const fs = require('fs-extra');
+        const axios = require('axios');
 
-        async function fetchGame(appId) {
+        (async () => {
           try {
-            const storeData = await axios.get(`https://store.steampowered.com/api/appdetails?appids=${appId}`);
-            const game = storeData.data[appId].data;
+            // Read AppIDs from manifest.json
+            const manifestPath = 'AppID/manifest.json';
+            if (!fs.existsSync(manifestPath)) {
+              console.error('manifest.json not found in AppID/');
+              process.exit(1);
+            }
 
-            const achievementsData = await axios.get(`https://steamdb.info/api/GetAchievements/?appid=${appId}`);
-            const achievements = achievementsData.data || [];
+            const manifest = await fs.readJson(manifestPath);
+            const appIds = manifest.appids || [];
 
-            const htmlData = achievements.map(a => `
-              <div class=\"achievement ${a.achieved ? 'unlocked' : 'locked'}\">
-                <img src=\"${a.icon_url}\" class=\"achievement-icon\" />
-                <div class=\"achievement-info\">
-                  <div class=\"achievement-name\">${a.name}</div>
-                  <div class=\"achievement-desc\">${a.description}</div>
-                </div>
-              </div>
-            `).join('');
+            if (appIds.length === 0) {
+              console.error('No AppIDs found in manifest.json');
+              process.exit(1);
+            }
 
-            const gameHtml = `
-            <div class=\"game-card\">
-              <div class=\"game-header\">
-                <img src=\"${game.header_image}\" class=\"game-icon\" />
-                <div class=\"game-info\">
-                  <div class=\"game-title\">${game.name}</div>
-                  <div class=\"game-appid\">AppID: ${appId}</div>
-                </div>
-              </div>
-              <div class=\"achievements-list\">${htmlData}</div>
-            </div>`;
+            for (let appId of appIds) {
+              try {
+                const storeData = await axios.get(`https://store.steampowered.com/api/appdetails?appids=${appId}`);
+                const game = storeData.data[appId].data;
 
-            await fs.ensureDir('output');
-            await fs.writeFile(`output/game-${appId}.html`, gameHtml);
-          } catch(e) {
-            console.error('Error fetching', appId, e.message);
+                const achievementsData = await axios.get(`https://steamdb.info/api/GetAchievements/?appid=${appId}`);
+                const achievements = achievementsData.data || [];
+
+                const htmlData = achievements.map(a => `
+                  <div class=\"achievement ${a.achieved ? 'unlocked' : 'locked'}\">
+                    <img src=\"${a.icon_url}\" class=\"achievement-icon\" />
+                    <div class=\"achievement-info\">
+                      <div class=\"achievement-name\">${a.name}</div>
+                      <div class=\"achievement-desc\">${a.description}</div>
+                    </div>
+                  </div>
+                `).join('');
+
+                const gameHtml = `
+                <div class=\"game-card\">
+                  <div class=\"game-header\">
+                    <img src=\"${game.header_image}\" class=\"game-icon\" />
+                    <div class=\"game-info\">
+                      <div class=\"game-title\">${game.name}</div>
+                      <div class=\"game-appid\">AppID: ${appId}</div>
+                    </div>
+                  </div>
+                  <div class=\"achievements-list\">${htmlData}</div>
+                </div>`;
+
+                await fs.ensureDir('output');
+                await fs.writeFile(`output/game-${appId}.html`, gameHtml);
+
+              } catch (e) {
+                console.error('Error fetching AppID', appId, e.message);
+              }
+            }
+
+            console.log('All games fetched successfully');
+
+          } catch (err) {
+            console.error('Error reading manifest.json or fetching data:', err.message);
+            process.exit(1);
           }
-        }
-
-        // Add your AppIDs here
-        const appIds = [730, 570, 440];
-        Promise.all(appIds.map(id => fetchGame(id))).then(() => console.log('All games fetched'));
-        "
+        })();
 
     - name: Commit and push generated HTML
       run: |
