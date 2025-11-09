@@ -27,6 +27,10 @@ jobs:
       run: |
         git config user.name 'github-actions'
         git config user.email 'github-actions@github.com'
-        git add output/*.html
-        git commit -m 'Add updated SteamDB achievement data' || echo 'No changes to commit'
-        git push
+        if compgen -G "output/*.html" > /dev/null; then
+          git add output/*.html
+          git commit -m 'Add updated SteamDB achievement data' || echo 'No changes to commit'
+          git push
+        else
+          echo "No output files to commit, skipping."
+        fi
