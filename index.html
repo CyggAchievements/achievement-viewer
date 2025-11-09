@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Roschach96's GBE achievements Viewer</title>
+    <title>GBE achievement viewer</title>
     <style>
         * {
             margin: 0;
@@ -97,6 +97,10 @@
             margin-top: 30px;
         }
 
+        .games-grid.hidden {
+            display: none;
+        }
+
         .game-card {
             background: rgba(0, 0, 0, 0.4);
             border: 1px solid #3d5a6c;
@@ -177,16 +181,12 @@
         }
 
         .stats {
-            display: none;
+            display: flex;
             justify-content: space-around;
             margin: 0;
             padding: 20px;
             border-top: 1px solid #3d5a6c;
-            border-bottom: none;
-        }
-
-        .stats.visible {
-            display: flex;
+            border-bottom: 1px solid #3d5a6c;
         }
 
         .stat-item {
@@ -205,21 +205,74 @@
             margin-top: 5px;
         }
 
-        .toggle-achievements {
+        .game-detail-view {
             display: none;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .game-detail-view.active {
+            display: block;
+        }
+
+        .back-button {
+            background: rgba(102, 192, 244, 0.1);
+            color: #66c0f4;
+            border: 1px solid #66c0f4;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-bottom: 30px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .back-button:hover {
+            background: rgba(102, 192, 244, 0.2);
+            transform: translateX(-5px);
+        }
+
+        .detail-header {
+            background: rgba(0, 0, 0, 0.4);
+            border: 1px solid #3d5a6c;
+            border-radius: 8px;
+            padding: 0;
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
+
+        .detail-game-icon {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .detail-game-info {
+            padding: 25px;
+        }
+
+        .detail-game-title {
+            color: #fff;
+            font-size: 2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .detail-game-appid {
+            color: #8f98a0;
+            font-size: 1em;
+            margin-bottom: 20px;
         }
 
         .achievements-list {
             margin-top: 0;
-            max-height: 500px;
-            overflow-y: auto;
-            transition: max-height 0.3s ease;
-            padding: 15px;
-        }
-
-        .achievements-list.collapsed {
-            max-height: 0;
-            overflow: hidden;
+            max-height: none;
+            overflow-y: visible;
+            padding: 0;
         }
 
         .achievements-list::-webkit-scrollbar {
@@ -300,6 +353,10 @@
             position: relative;
         }
 
+        .summary.hidden {
+            display: none;
+        }
+
         .summary-header {
             display: flex;
             align-items: center;
@@ -331,7 +388,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>🎮 Roschach96's GBE achievements Viewer</h1>
+            <h1>🎮 GBE achievement viewer</h1>
         </header>
 
         <div id="info" class="info" style="display: none;">
@@ -348,6 +405,7 @@
 
         <div id="summary" style="display: none;"></div>
         <div id="results"></div>
+        <div id="detail-view" class="game-detail-view"></div>
     </div>
 
     <script>
@@ -528,14 +586,14 @@
             // Display summary
             summaryDiv.style.display = 'block';
             summaryDiv.innerHTML = `
-                <div class="summary">
+                <div class="summary" id="summary-box">
                     <div class="summary-header">
                         <a href="https://steamcommunity.com" target="_blank">
                             <img src="https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg" 
                                  alt="Steam Profile" 
                                  class="profile-icon">
                         </a>
-                        <h2 style="color: #66c0f4; margin: 0;">Achievement Summary</h2>
+                        <h2 style="color: #66c0f4; margin: 0;">Roschach96's summary</h2>
                     </div>
                     <div class="progress-bar" style="max-width: 600px; margin: 0 auto; border-radius: 12px;">
                         <div class="progress-fill" style="width: ${overallPercentage}%">${overallPercentage}%</div>
@@ -558,7 +616,7 @@
             `;
 
             // Display games
-            let html = '<div class="games-grid">';
+            let html = '<div class="games-grid" id="games-grid">';
 
             // Sort games by completion percentage
             const sortedGames = Array.from(gamesData.values()).sort((a, b) => {
@@ -574,10 +632,8 @@
                 const total = game.achievements.length;
                 const percentage = total > 0 ? Math.round((unlocked / total) * 100) : 0;
 
-                const cardId = `game-${game.appId}`;
-
                 html += `
-                    <div class="game-card" onclick="toggleGame('${cardId}')">
+                    <div class="game-card" onclick="showGameDetail('${game.appId}')">
                         <div class="game-card-main">
                             <div class="game-header">
                                 ${game.icon ? 
@@ -593,8 +649,46 @@
                                 <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
                             </div>
                         </div>
+                    </div>
+                `;
+            }
+
+            html += '</div>';
+            resultsDiv.innerHTML = html;
+        }
+
+        function showGameDetail(appId) {
+            const game = gamesData.get(appId);
+            if (!game) return;
+
+            const unlocked = game.achievements.filter(a => a.unlocked).length;
+            const total = game.achievements.length;
+            const percentage = total > 0 ? Math.round((unlocked / total) * 100) : 0;
+
+            // Hide grid and summary
+            document.getElementById('games-grid').classList.add('hidden');
+            document.getElementById('summary-box').classList.add('hidden');
+
+            // Show detail view
+            const detailView = document.getElementById('detail-view');
+            detailView.innerHTML = `
+                <button class="back-button" onclick="hideGameDetail()">
+                    ← Back to Games
+                </button>
+                
+                <div class="detail-header">
+                    ${game.icon ? 
+                        `<img src="${game.icon}" alt="${game.name}" class="detail-game-icon" onerror="this.src='https://via.placeholder.com/900x420/3d5a6c/ffffff?text=No+Image'">` : 
+                        '<img src="https://via.placeholder.com/900x420/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">'}
+                    <div class="detail-game-info">
+                        <div class="detail-game-title">${game.name}</div>
+                        <div class="detail-game-appid">AppID: ${game.appId}</div>
                         
-                        <div id="${cardId}-stats" class="stats">
+                        <div class="progress-bar" style="border-radius: 12px;">
+                            <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
+                        </div>
+                        
+                        <div class="stats">
                             <div class="stat-item">
                                 <div class="stat-value">${unlocked}/${total}</div>
                                 <div class="stat-label">Unlocked</div>
@@ -604,44 +698,38 @@
                                 <div class="stat-label">Remaining</div>
                             </div>
                         </div>
-                        
-                        <div id="${cardId}" class="achievements-list collapsed">
-                            ${game.achievements
-                                .sort((a, b) => b.unlocked - a.unlocked)
-                                .map(ach => `
-                                <div class="achievement ${ach.unlocked ? 'unlocked' : 'locked'}">
-                                    ${ach.icon || ach.icongray ? 
-                                        `<img src="${ach.unlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon" onerror="this.style.display='none'">` : 
-                                        '<div class="achievement-icon"></div>'}
-                                    <div class="achievement-info">
-                                        <div class="achievement-name">${ach.name}</div>
-                                        <div class="achievement-desc">${ach.description}</div>
-                                        ${ach.unlocked && ach.unlocktime ? 
-                                            `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
-                                            ''}
-                                    </div>
-                                </div>
-                            `).join('')}
-                        </div>
                     </div>
-                `;
-            }
-
-            html += '</div>';
-            resultsDiv.innerHTML = html;
+                </div>
+                
+                <div class="achievements-list">
+                    ${game.achievements
+                        .sort((a, b) => b.unlocked - a.unlocked)
+                        .map(ach => `
+                        <div class="achievement ${ach.unlocked ? 'unlocked' : 'locked'}">
+                            ${ach.icon || ach.icongray ? 
+                                `<img src="${ach.unlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon" onerror="this.style.display='none'">` : 
+                                '<div class="achievement-icon"></div>'}
+                            <div class="achievement-info">
+                                <div class="achievement-name">${ach.name}</div>
+                                <div class="achievement-desc">${ach.description}</div>
+                                ${ach.unlocked && ach.unlocktime ? 
+                                    `<div class="achievement-unlock-time">Unlocked: ${new Date(ach.unlocktime * 1000).toLocaleDateString()}</div>` : 
+                                    ''}
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+            
+            detailView.classList.add('active');
+            window.scrollTo(0, 0);
         }
 
-        function toggleGame(cardId) {
-            const list = document.getElementById(cardId);
-            const stats = document.getElementById(`${cardId}-stats`);
-            
-            if (list.classList.contains('collapsed')) {
-                list.classList.remove('collapsed');
-                stats.classList.add('visible');
-            } else {
-                list.classList.add('collapsed');
-                stats.classList.remove('visible');
-            }
+        function hideGameDetail() {
+            document.getElementById('detail-view').classList.remove('active');
+            document.getElementById('games-grid').classList.remove('hidden');
+            document.getElementById('summary-box').classList.remove('hidden');
+            window.scrollTo(0, 0);
         }
 
         // Start loading on page load
