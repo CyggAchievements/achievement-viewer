@@ -159,10 +159,10 @@
 
         .progress-bar {
             width: 100%;
-            height: 24px;
+            height: 32px;
             background: rgba(0, 0, 0, 0.5);
             border-radius: 0;
-            overflow: hidden;
+            overflow: visible;
             margin: 0;
             position: relative;
         }
@@ -174,10 +174,26 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 13px;
+            font-size: 14px;
             font-weight: bold;
             color: #fff;
             text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+            position: relative;
+        }
+
+        .progress-text {
+            position: absolute;
+            width: 100%;
+            text-align: center;
+            left: 0;
+            pointer-events: none;
+        }
+
+        .progress-text.low-percentage {
+            left: auto;
+            right: 10px;
+            text-align: right;
+            width: auto;
         }
 
         .stats {
@@ -596,7 +612,8 @@
                         <h2 style="color: #66c0f4; margin: 0;">Roschach96's summary</h2>
                     </div>
                     <div class="progress-bar" style="max-width: 600px; margin: 0 auto; border-radius: 12px;">
-                        <div class="progress-fill" style="width: ${overallPercentage}%">${overallPercentage}%</div>
+                        <div class="progress-fill" style="width: ${overallPercentage}%"></div>
+                        <div class="progress-text ${overallPercentage < 10 ? 'low-percentage' : ''}">${overallPercentage}%</div>
                     </div>
                     <div class="summary-stats">
                         <div class="stat-item">
@@ -646,7 +663,8 @@
                             </div>
                             
                             <div class="progress-bar">
-                                <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
+                                <div class="progress-fill" style="width: ${percentage}%"></div>
+                                <div class="progress-text ${percentage < 10 ? 'low-percentage' : ''}">${percentage}%</div>
                             </div>
                         </div>
                     </div>
@@ -685,7 +703,8 @@
                         <div class="detail-game-appid">AppID: ${game.appId}</div>
                         
                         <div class="progress-bar" style="border-radius: 12px;">
-                            <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
+                            <div class="progress-fill" style="width: ${percentage}%"></div>
+                            <div class="progress-text ${percentage < 10 ? 'low-percentage' : ''}">${percentage}%</div>
                         </div>
                         
                         <div class="stats">
