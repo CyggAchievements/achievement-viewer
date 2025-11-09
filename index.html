@@ -748,6 +748,7 @@
                 </div>
                 
                 <div class="achievements-list">
+                    ${game.achievements
                         .sort((a, b) => b.unlocked - a.unlocked)
                         .map(ach => {
                             const rarityNum = ach.rarity !== null ? parseFloat(ach.rarity) : null;
