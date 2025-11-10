@@ -11,6 +11,7 @@
           "description": "Take control of the nautiloid and escape the Hells.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0cb31fd9ec036550a374aa702a37464a98da3bfa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0950821dd57b97eb5ce309530dd61f0e3f2e3a6d.jpg",
+          "hidden": false,
           "percent": "89.9"
         },
         "BG3_Quest02": {
@@ -18,6 +19,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/628cdbbfd2e731735e4817252ce6633bf3bcd8ed.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/4127925c4aeb79134a98de629e7918ceb776b4fb.jpg",
+          "hidden": true,
           "percent": "51.3"
         },
         "BG3_Quest03": {
@@ -25,6 +27,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/3c6d05ff648b66925238963a658ee307e31ff870.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/092cc30e865fbb0158afe43fb343d6362e9292fa.jpg",
+          "hidden": true,
           "percent": "40.2"
         },
         "BG3_Quest04": {
@@ -32,13 +35,15 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/ecd435323119579216ebcffebae690ae2e5c13eb.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/c4307d65a1d8c9776f71e73494248b546e4135d8.jpg",
-          "percent": "23.4"
+          "hidden": true,
+          "percent": "23.5"
         },
         "BG3_Quest05": {
           "name": "Absolute Power Corrupts",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/265327d387174ee2160946bcde392352ce635b88.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/749d41e10cac54dbeb2b377d8bc69b2afdfbae62.jpg",
+          "hidden": true,
           "percent": "6.4"
         },
         "BG3_Quest06": {
@@ -46,6 +51,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/7648f980938af51c9f1378ec1171673fc8d8d0b4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/2cb77366c957e8fa3c5eff4fdd7c59ddc5d3c3e4.jpg",
+          "hidden": true,
           "percent": "24.7"
         },
         "BG3_Quest07": {
@@ -53,13 +59,15 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/8a149aacb554742ac673bf2531955ce27f4e234c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/99ab472e0b521c17d3988f54c687635f05bfcabb.jpg",
-          "percent": "3.2"
+          "hidden": true,
+          "percent": "3.3"
         },
         "BG3_Quest08": {
           "name": "Ceremorphosis",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/25eb31d566013ab216bb033cdbea1851d43db6fb.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/a1cb2cc9657751c204666c9e81f74eaabf48d6ee.jpg",
+          "hidden": true,
           "percent": "9.6"
         },
         "BG3_Quest09": {
@@ -67,6 +75,7 @@
           "description": "Complete ten background goals in a single playthrough - you are one with your character.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/9c1231f530788d9aa21e1a858fbb9e85e0cb64f8.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/6b55d2fb4ef8fbf7fe7605b561b95a762ea74ded.jpg",
+          "hidden": false,
           "percent": "58.3"
         },
         "BG3_Quest10": {
@@ -74,6 +83,7 @@
           "description": "Take four full Long Rests in a single playthrough - adventuring's tiring work.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/47daa8cf213809978d0f2ba9b514942c864ce452.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/042a397825694c4147bf6fc9bd580890b71573e7.jpg",
+          "hidden": false,
           "percent": "66.7"
         },
         "BG3_Quest11": {
@@ -81,6 +91,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/279a9b7a2d50b65b6b30a939bbceffd556bb10ff.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/e7a5d4f01f2cb3a85931c5eb62fc22e4c06dc7e6.jpg",
+          "hidden": true,
           "percent": "55.5"
         },
         "BG3_Quest12": {
@@ -88,6 +99,7 @@
           "description": "Dig up five buried chests in a single playthrough - treasure! ",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0dfd51a7ae1c5e122d1b46051d23234f5c5f681d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/6ed09414918b95892c3c26558c800de7e79de03c.jpg",
+          "hidden": false,
           "percent": "59.1"
         },
         "BG3_Quest13": {
@@ -95,6 +107,7 @@
           "description": "Successfully use Detect Thoughts to pry into someone's thoughts. ",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/c77588e8a25741098ac71ae64f4b08d84e357310.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/b2c45774e06a96ac4c091aa6525d1f3b389c499c.jpg",
+          "hidden": false,
           "percent": "63.9"
         },
         "BG3_Quest14": {
@@ -102,6 +115,7 @@
           "description": "Break out of prison after being arrested - aren't you daring?",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/c182dd661aaf764f1eb3c008c9c9d8720540c19e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/59291415e026f667b59aabca48692c6c94846021.jpg",
+          "hidden": false,
           "percent": "29.9"
         },
         "BG3_Quest15": {
@@ -109,6 +123,7 @@
           "description": "Recruit a hireling. You can befriend them or use them as cannon-fodder - we won't judge.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/72946052dfb7db04018e90e43fa239a1f1855e67.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/03158bd6dfa768f111c3666c46b39f77b2d3ca61.jpg",
+          "hidden": false,
           "percent": "18.4"
         },
         "BG3_Quest16": {
@@ -116,6 +131,7 @@
           "description": "Multiclass into every class in one playthrough without asking Withers to change your character.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/5f62e2f146d67732fe8a8dc02a322cf1f3a2c600.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/6ebc28450f801a7ef77ba241f98d01c2a2951696.jpg",
+          "hidden": false,
           "percent": "3.1"
         },
         "BG3_Quest17": {
@@ -123,6 +139,7 @@
           "description": "Create three unique alchemical solutions in a single playthrough - bottoms up! ",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/6d417ad8e5789c17018533c40471d29a73d2228b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/164437109bd5008a106201a03e166702e5e00fcd.jpg",
+          "hidden": false,
           "percent": "29.9"
         },
         "BG3_Quest18": {
@@ -130,6 +147,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/8418d590e2386af37de617f855acce42c1b9d1bc.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/eb31bf50dd62c7c0a6d0092bee088559e47c61fd.jpg",
+          "hidden": true,
           "percent": "24.7"
         },
         "BG3_Quest19": {
@@ -137,6 +155,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/9a4fe5d73069cbde1bc75bfaf9d296591de13701.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/15c53648c4aa9f05bef567e84a3fa0d8e5d5f2a1.jpg",
+          "hidden": true,
           "percent": "16.9"
         },
         "BG3_Quest20": {
@@ -144,6 +163,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/a00e6ad2d3d84c4649654ce74a82cc2fa96cf3cf.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0db20ed8095106be54f7ced1c60f3540c77b8941.jpg",
+          "hidden": true,
           "percent": "39.9"
         },
         "BG3_Quest21": {
@@ -151,6 +171,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/fa32d7bc3e9a30744f2a9b66c2fed4d9246b68a0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/68b09cd38809a0ac26bf7f9eac5e35e7fbd92e92.jpg",
+          "hidden": true,
           "percent": "26.0"
         },
         "BG3_Quest22": {
@@ -158,6 +179,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f533118fcd650c20ef740d6440ed4b766c36352c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/938724ca2cca38728e1243a024091fdaf8346c1c.jpg",
+          "hidden": true,
           "percent": "3.4"
         },
         "BG3_Quest23": {
@@ -165,6 +187,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cc1a63fce03ab5580530c8efcef4a86a46708a39.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f3231abe1436a3b8211233dfb2e1e116e8e79fd5.jpg",
+          "hidden": true,
           "percent": "36.8"
         },
         "BG3_Quest24": {
@@ -172,6 +195,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cca40bc98c6fb9c7a84e10256866157d5157e060.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/5a90e4f09835d714c8da82374a450d116b3d272f.jpg",
+          "hidden": true,
           "percent": "5.8"
         },
         "BG3_Quest25": {
@@ -179,6 +203,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f700d8870a67e86b69c9fa66e02b805735e18e36.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/d367f18a90c4ebd5f5ba852042be6a01adab68ab.jpg",
+          "hidden": true,
           "percent": "9.1"
         },
         "BG3_Quest26": {
@@ -186,6 +211,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/815c476427127cf4fed9cfb4bf7a0b0290e01733.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f87a62accfa59fb5f968cceacf189eee7497f7fd.jpg",
+          "hidden": true,
           "percent": "13.0"
         },
         "BG3_Quest27": {
@@ -193,6 +219,7 @@
           "description": "Use one enemy as an improvised weapon against another. ",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/4d651ac095d988353bb73662b37b4c9f049a8ea2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f0124a5113d5c20c48e80a4deb5994d2be348966.jpg",
+          "hidden": false,
           "percent": "10.9"
         },
         "BG3_Quest28": {
@@ -200,6 +227,7 @@
           "description": "Earn a hundred gold from playing sweet, sweet music in a single playthrough. ",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/edfa43e6937d245c903c51d91826fa1ce6f7bcd6.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/dffac3c431ff07d705ae86cfad147f1a490b39be.jpg",
+          "hidden": false,
           "percent": "2.5"
         },
         "BG3_Quest29": {
@@ -207,6 +235,7 @@
           "description": "Perform five attacks in one turn. Your enemies won't know what hit them (literally).",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/701e6a0e4e6cdc8c1b246963bf81d51b05f08974.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/3a9cc6e18cfd7ebf7d4d94d7d1091d27329bcfb4.jpg",
+          "hidden": false,
           "percent": "57.9"
         },
         "BG3_Quest30": {
@@ -214,6 +243,7 @@
           "description": "Kill a character with an Unarmed Strike.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/1b5f21f0b5669fe05af00532d548e203a8cddd92.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/5d6a1f80a5e816ee90bab4d96656219e30903fb5.jpg",
+          "hidden": false,
           "percent": "42.6"
         },
         "BG3_Quest31": {
@@ -221,6 +251,7 @@
           "description": "Defeat Commander Zhalk on the nautiloid.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/bbceefbcd994db5b4f7367e3fcb46fe0facd4ffb.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/26156176d423eafd2e71feebda09c85a842d84d5.jpg",
+          "hidden": false,
           "percent": "40.4"
         },
         "BG3_Quest32": {
@@ -228,6 +259,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f9353502a5d66c5160f1474c50c86c521e0481fa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/94cf2cb0837eec87af76d5e6a0833f6f6746145a.jpg",
+          "hidden": true,
           "percent": "15.4"
         },
         "BG3_Quest33": {
@@ -235,6 +267,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/9566097d88eea8346c15e9287b6747738966b71b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f457149dde2aae87e15e32bcbf06e5b25b20184b.jpg",
+          "hidden": true,
           "percent": "21.4"
         },
         "BG3_Quest34": {
@@ -242,13 +275,15 @@
           "description": "Kill the Surgeon before he performs surgery on you in combat.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/1b13d21263e349b19a82788b63fed05e5b3c5877.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/30544be3da4df4a803371dfee3bf211abae8f5a5.jpg",
-          "percent": "23.3"
+          "hidden": false,
+          "percent": "23.4"
         },
         "BG3_Quest35": {
           "name": "Penny Pincher",
           "description": "Defeat the Toll Collector without her using gold against you - excellent budgeting. ",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/969cc50dcb65bc3993966fba3b732227db209472.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/486641391fb2de3cdfa41598c1e90fc3bf621200.jpg",
+          "hidden": false,
           "percent": "27.8"
         },
         "BG3_Quest36": {
@@ -256,6 +291,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/dadbc866606e4b4464fcdbf6684e3f2ec207ad73.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/fc9dba1e459a3b8596ab348856ccd2d7ce1c3ed7.jpg",
+          "hidden": true,
           "percent": "32.5"
         },
         "BG3_Quest37": {
@@ -263,6 +299,7 @@
           "description": "Defeat Gortash in Wyrm's Rock without activating any traps.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/ae3adaf3d6f530e91b33975acdd30e7f7031437a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/c5549e2df862671ed14db87d3650f9f91907438e.jpg",
+          "hidden": false,
           "percent": "5.1"
         },
         "BG3_Quest38": {
@@ -270,6 +307,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/bd574766f04f7d47c4bc0639344ef0561e0cc310.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/8cf23079ac8380b485509a0b9be4a8192739b7c1.jpg",
+          "hidden": true,
           "percent": "19.7"
         },
         "BG3_Quest39": {
@@ -277,6 +315,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/3d7168b924848191b7914dfef2116d96e249bbf0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/4276fdf528e2b315c7569f174dfde3ce27dbfabf.jpg",
+          "hidden": true,
           "percent": "17.3"
         },
         "BG3_Quest40": {
@@ -284,6 +323,7 @@
           "description": "In the Wyrmway, wait until the dragon is mid-flight, then knock it out of the sky - KAPOW.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/92eff966f9b0d8eb71b9529a0b74e6c075bff2f9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/2b0e8ab079a7685f97242ad57017ea366e72a53a.jpg",
+          "hidden": false,
           "percent": "7.4"
         },
         "BG3_Quest41": {
@@ -291,13 +331,15 @@
           "description": "Long Rest using only alcohol - a time-honoured dwarven tradition. ",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/a9ee13ee9d602b4f3b3957546e3df09117050eae.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/6036bb70d5b47b414c6412bdb4f893ccfa5238a4.jpg",
-          "percent": "30.4"
+          "hidden": false,
+          "percent": "30.5"
         },
         "BG3_Quest42": {
           "name": "Shove Off",
           "description": "Kill a creature with falling damage.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/fc95da156e92c9d6f0955236d77bbe07e36f06e9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/80d10c6bd718fa0222d5c149ca25511dca67798d.jpg",
+          "hidden": false,
           "percent": "48.7"
         },
         "BG3_Quest43": {
@@ -305,6 +347,7 @@
           "description": "Read 100 different books in a single playthrough. Adventuring isn't just daring quests, you know.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/b668429392fd2600ae86857e11eef003b78c411f.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/44a9e19248d43300515c3575f0c5bd0a9813ee97.jpg",
+          "hidden": false,
           "percent": "39.8"
         },
         "BG3_Quest44": {
@@ -312,6 +355,7 @@
           "description": "Defeat twenty opponents while drunk - down them.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/9910e006d713e405320082f4a9f576cabdc7e6c0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/72d53386ef52ab6412d935ec89de7c1565474924.jpg",
+          "hidden": false,
           "percent": "2.8"
         },
         "BG3_Quest45": {
@@ -319,6 +363,7 @@
           "description": "Play fetch with Scratch - the best boy in the Realms.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/86a026938f983aa2e170f106e5b7d9eee3b7b3e7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0128504fc4ae9e6c812338ce0569c0c3330f61cb.jpg",
+          "hidden": false,
           "percent": "39.2"
         },
         "BG3_Quest46": {
@@ -326,6 +371,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f202f039116ecee22d8aaacee24370a55f1983dd.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/b1dd3bd0aefbcab6e7c7de016bbed582ca6ec91f.jpg",
+          "hidden": true,
           "percent": "45.4"
         },
         "BG3_Quest47": {
@@ -333,6 +379,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/7944771c84a4ee57b9332b25dfeb9a7c0dea1cb8.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/9de27a7ba09b51e6e167626e76d66c98a3a7b33a.jpg",
+          "hidden": true,
           "percent": "37.5"
         },
         "BG3_Quest48": {
@@ -340,6 +387,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f074708db163ec1cf253953b7fe4cc32e929657c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/2f32c004f552e9bc735ddb7d11b477e01152ab5a.jpg",
+          "hidden": true,
           "percent": "27.2"
         },
         "BG3_Quest49": {
@@ -347,6 +395,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/821fec5fcfe5336a83f02d966ae5fded0a66af3a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/156eb6ece98b877ab0bbe8fb72a84022ba3b9b90.jpg",
+          "hidden": true,
           "percent": "5.8"
         },
         "BG3_Quest50": {
@@ -354,6 +403,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/884c0f57453132979551b5053fd3f03bb8176038.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/730ac43eb4f804a75356884351ad5dbe1f22fca0.jpg",
+          "hidden": true,
           "percent": "50.8"
         },
         "BG3_Quest51": {
@@ -361,6 +411,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/70972fff002e080bdd5b86295f0241448bfe2481.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/44deee9d0a5a22a45be261cff52fa97b140d33c9.jpg",
+          "hidden": true,
           "percent": "24.4"
         },
         "BG3_Quest52": {
@@ -368,6 +419,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/db2318b9069c2c5210b8a5e7e9b9bfb1d4772133.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/e4c865a4a82aa1b049a782e349009664f4634d65.jpg",
+          "hidden": true,
           "percent": "7.5"
         },
         "BG3_Quest53": {
@@ -375,6 +427,7 @@
           "description": "Complete the game in Tactician mode.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/12f42b79f0e7e7c534f2aafe360a3247f4bd8df4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/d92b5372fbf62e667c33d109edc0a28a6aa12383.jpg",
+          "hidden": false,
           "percent": "5.9"
         },
         "BG3_Quest54": {
@@ -382,6 +435,7 @@
           "description": "Complete the game in Honour mode.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cfa3488b4ac501d846b14948b801c93c361a98fe.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0812cb6a6b9da0a844295409c1baaef2e0a69c4d.jpg",
+          "hidden": false,
           "percent": "2.8"
         }
       }
@@ -631,6 +685,7 @@
           "description": "Collect 500 Scrap",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/c022373fe66b27b56dc6a564f127450fa5fc7241.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7492b9bab5c6a18e606cfabc2d54083155a64d83.jpg",
+          "hidden": false,
           "percent": "97.2"
         },
         "ACH_CollectScrap50000": {
@@ -638,6 +693,7 @@
           "description": "Collect 50,000 Scrap",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ee7062f32b0615aaf12f5e9a0e51b3b4e6076df7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373.jpg",
+          "hidden": false,
           "percent": "66.8"
         },
         "ACH_CollectScrap100000": {
@@ -645,6 +701,7 @@
           "description": "Collect 100,000 Scrap",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/22e1fa4cc7158380070fd0b066103c738415a8e4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b4637714b137b3dbb81e49ec1eb95e0312d08296.jpg",
+          "hidden": false,
           "percent": "53.1"
         },
         "ACH_CollectTech100": {
@@ -652,6 +709,7 @@
           "description": "Collect 100 Tech",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/3afcad96d7e1f028abcc319d5d0faa290a8f4ec4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/323155ee0faac720d57e3035eb424bae914cb70a.jpg",
+          "hidden": false,
           "percent": "94.0"
         },
         "ACH_CollectTech1000": {
@@ -659,6 +717,7 @@
           "description": "Collect 1,000 Tech",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b94e8f3ce34e69ea35eaabb84a58379aeab42a48.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/6c797a28f26edc3a3c0ad003ea378d41e2a0c7b7.jpg",
+          "hidden": false,
           "percent": "81.5"
         },
         "ACH_CollectTech5000": {
@@ -666,13 +725,15 @@
           "description": "Collect 5,000 Tech",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4022d562abd180b43db64961c7b04deaeb1bd63c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4531ef4d420d82a667ef996ac04826c85dd9d595.jpg",
-          "percent": "55.3"
+          "hidden": false,
+          "percent": "55.2"
         },
         "ACH_KillAndroids1": {
           "name": "What Are These?",
           "description": "Kill your first Android",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9b47dc0361ec4e568b2b5603a951f73c84bc109c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/88bfcce5e5d1ea69345d013c71fb6d49fdadb494.jpg",
+          "hidden": false,
           "percent": "98.9"
         },
         "ACH_KillAndroids500": {
@@ -680,6 +741,7 @@
           "description": "Kill 500 Androids",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/33790fd6f93bcd72b289fa885bd34faac9df00d4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/3d6fef7c011e6e7c7fd78dd483dbe41ce9a3e1f6.jpg",
+          "hidden": false,
           "percent": "78.3"
         },
         "ACH_KillAndroids1000": {
@@ -687,6 +749,7 @@
           "description": "Kill 1,000 Androids",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/187ef98db9eeff5c3fed7349ad33cdbeb2127a15.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/e14f4f9244ecefc1dd63b5daa6b1db4c6a21aff4.jpg",
+          "hidden": false,
           "percent": "68.0"
         },
         "ACH_KillAndroidsWithBarrel1": {
@@ -694,6 +757,7 @@
           "description": "Kill an enemy with an Explosive Barrel",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a0fe7caa78fbb9fe21a51bbb9945f93ddd582a40.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a0cb3a7e422195d502c541b600ebf8d913b50862.jpg",
+          "hidden": false,
           "percent": "95.8"
         },
         "ACH_KillAndroidsWithBarrel100": {
@@ -701,6 +765,7 @@
           "description": "Kill 100 enemies with Explosive Barrels",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/311068a82bc32f713d207e4eb3f79a962a38c428.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ab13fd5fbf467d4e5618c35f8dd315c827e8dd61.jpg",
+          "hidden": false,
           "percent": "22.0"
         },
         "ACH_Die1": {
@@ -708,6 +773,7 @@
           "description": "Die for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4ee3defdb9f9c15acf9fc3492c5223715de964e5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/37f4bbf6fe131f2585f3e6868419d8d949727fe6.jpg",
+          "hidden": false,
           "percent": "95.2"
         },
         "ACH_Die10": {
@@ -715,6 +781,7 @@
           "description": "Die 10 times",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a88a344d9542b95f12ccb411731052972141aa24.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/226e8f1250edf2c07eeb7fa2acc68859c06dda76.jpg",
+          "hidden": false,
           "percent": "62.6"
         },
         "ACH_StartMission": {
@@ -722,6 +789,7 @@
           "description": "Start your first Mission",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/60467a9819690db9fc0e98f78adba2a45266e6a5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fd0635bad48fdcc98f419c00e85b276845776dc1.jpg",
+          "hidden": false,
           "percent": "98.7"
         },
         "ACH_CompleteMission": {
@@ -729,6 +797,7 @@
           "description": "Complete your first Mission",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bd08fdcd07553435eaca35cbd5e8fff21ae5f115.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
+          "hidden": false,
           "percent": "85.7"
         },
         "ACH_CompleteSpecialty": {
@@ -736,6 +805,7 @@
           "description": "Complete your first Specialty Mission",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/e03fb79cbada60a67b0a29c150a7081fab138413.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/80f6771e34eeb33cbba4d38e4770a8babfef5caa.jpg",
+          "hidden": false,
           "percent": "68.6"
         },
         "ACH_CompleteStory1": {
@@ -743,6 +813,7 @@
           "description": "Complete the Story of Zone 1",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/546ce09b8e3b3bc7693bcbb75d8831d0ffc4fb65.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ae8cdad5e46d16e66a325693acc4922fbf1e7e98.jpg",
+          "hidden": false,
           "percent": "84.1"
         },
         "ACH_CompleteZone1": {
@@ -750,6 +821,7 @@
           "description": "Complete all Zone 1 Missions",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/460c996b2731daf2bb4718188edfed6c01f2f44f.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
+          "hidden": false,
           "percent": "51.2"
         },
         "ACH_CompleteStory2": {
@@ -757,13 +829,15 @@
           "description": "Complete the Story of Zone 2",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/1231abcfe315006e8d62525167726e36ed395659.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
-          "percent": "58.2"
+          "hidden": false,
+          "percent": "58.1"
         },
         "ACH_CompleteZone2": {
           "name": "Executive Dysfunction",
           "description": "Complete all Zone 2 Missions",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/279a87259d789637d377bb0efa1bf36679db3cc0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
+          "hidden": false,
           "percent": "19.8"
         },
         "ACH_CompleteMission_Hard": {
@@ -771,20 +845,23 @@
           "description": "Complete a Mission on at least Hard Difficulty",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/5a379e5354ecede049bef230bbe79ec4097d5647.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
-          "percent": "57.7"
+          "hidden": false,
+          "percent": "57.6"
         },
         "ACH_CompleteMission_Expert": {
           "name": "Express Elevator to Hell",
           "description": "Complete a Mission on at least Expert Difficulty",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/0767eb0e7867e84715780fcd3d822269a59871fd.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
-          "percent": "29.3"
+          "hidden": false,
+          "percent": "29.2"
         },
         "ACH_CompleteMission_Nightmare": {
           "name": "Bad Dreams",
           "description": "Complete a Mission on Nightmare Difficulty",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/19059b894148359e05072342af15c81d7a02650b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/978345de72614124311d149b1c429c72d7467711.jpg",
+          "hidden": false,
           "percent": "13.2"
         },
         "ACH_MadeAFriend": {
@@ -792,6 +869,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/242626c3503f965417b96ad585a1c2b1354b0664.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
+          "hidden": true,
           "percent": "72.9"
         },
         "ACH_ReadDataLog1": {
@@ -799,6 +877,7 @@
           "description": "Read your first Data Log",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/112ff1483125a02afc953a63123d6bc564a9cad1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2aea7e9c7ad6961429eb98587ff6de4c52a49c61.jpg",
+          "hidden": false,
           "percent": "95.0"
         },
         "ACH_TechUpgrades1": {
@@ -806,6 +885,7 @@
           "description": "Upgrade a Tech Mastery for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34902bf45344076296781546fd412aa979b508ce.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ecd5641a60c333a13f9ef00d2b5cefd929894282.jpg",
+          "hidden": false,
           "percent": "94.5"
         },
         "ACH_TechUpgrades2": {
@@ -813,6 +893,7 @@
           "description": "Upgrade at least 3 Tech Masteries to Tier 5",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ad666328f4e8fb66ec0c7667c43056063d1aabae.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/242ae0e837e39f954f66ade0588e4e1972cac984.jpg",
+          "hidden": false,
           "percent": "70.4"
         },
         "ACH_TechUpgrades3": {
@@ -820,41 +901,47 @@
           "description": "Upgrade all of your Tech Masteries to MAX Tier",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ac13cac1661594e7976bc86dd0deca83e6010d50.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
-          "percent": "30.3"
+          "hidden": false,
+          "percent": "30.2"
         },
         "ACH_SuperUpgrades1": {
           "name": "Getting an Upgrade",
           "description": "Upgrade a Superior Item for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2876e1b6d048f4e45183f7e33fcfaae855d0d76c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/080b9e888647a12f4ca816f358381bf7e88844a3.jpg",
-          "percent": "63.7"
+          "hidden": false,
+          "percent": "63.6"
         },
         "ACH_SuperUpgrades2": {
           "name": "This Ain’t Standard Issue",
           "description": "Upgrade at least 3 Superior Items to Tier 3",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
-          "percent": "55.4"
+          "hidden": false,
+          "percent": "55.3"
         },
         "ACH_SuperUpgrades3": {
           "name": "Maxed Out",
           "description": "Upgrade all of your Superior Items to MAX Tier",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/35e2b99f41c46a1b10ac7b6c25a959ec04390e43.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
-          "percent": "31.9"
+          "hidden": false,
+          "percent": "31.8"
         },
         "ACH_SpendScrap": {
           "name": "Space Wallet",
           "description": "Spend 50,000 Scrap at the Fabricator",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/886d1c77f46d46b8367a4a702db28dc8801855c9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f08cd191ae4c632f89fbbabf5c78dede0bbc90c.jpg",
-          "percent": "54.8"
+          "hidden": false,
+          "percent": "54.7"
         },
         "ACH_CompleteMission_Undamaged": {
           "name": "Invincible",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/86be32a287128f94645c638e2f42c53c7636824e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ad46833c16a71280f5866ea635db20dd7463ce46.jpg",
+          "hidden": true,
           "percent": "4.9"
         },
         "ACH_FabricateAny": {
@@ -862,6 +949,7 @@
           "description": "Make your first purchase at the Fabricator",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/d2ed0c516030659e64c632332ed2016b87eee520.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/e084c2c043f3d7e7b54545ddc8abd8c133ff0f07.jpg",
+          "hidden": false,
           "percent": "97.5"
         },
         "ACH_FabricateLegendary": {
@@ -869,13 +957,15 @@
           "description": "Purchase a Legendary item at the Fabricator",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/374511011a1ae116bb7247e3776aa17e4c227dbd.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b291e8610645771225cb1cb1b55263628f50284c.jpg",
-          "percent": "59.9"
+          "hidden": false,
+          "percent": "59.8"
         },
         "ACH_LoadoutLegendary": {
           "name": "Blinged Out",
           "description": "Have a Loadout of all Legendary Equipment",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/c13e73c20052dbd1b037b10194338b8fa678638c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/23907483911cb4ddcd36d7ff59aa700b0ea52e80.jpg",
+          "hidden": false,
           "percent": "17.0"
         },
         "ACH_JazzHands": {
@@ -883,6 +973,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9d627abb8545c0ab16a6debaba7156c4b550f9ea.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/95d292d49c95b7e0cb08cc375e3898e038317ff8.jpg",
+          "hidden": true,
           "percent": "7.2"
         },
         "ACH_PonderOrb": {
@@ -890,6 +981,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fe1d8124525fc383bad44712f4b65ae84750f6c9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fbe709cd11de227583ff12da69384c5ffa150d63.jpg",
+          "hidden": true,
           "percent": "5.3"
         },
         "ACH_Botanist": {
@@ -897,20 +989,23 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/47666288c0b9cc40d3ead01e0f14ddf53105b9f0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/e43c9152d669649563297fc74d60471fca21dce9.jpg",
-          "percent": "1.6"
+          "hidden": true,
+          "percent": "1.5"
         },
         "ACH_CompleteStory3": {
           "name": "Brain Drain",
           "description": "Complete the Story of Zone 3",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/98d180502bea83d5263f08b160f1ea56ccd2ab8c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
-          "percent": "30.2"
+          "hidden": false,
+          "percent": "30.1"
         },
         "ACH_CompleteZone3": {
           "name": "Mental Fortitude",
           "description": "Complete all Zone 3 Missions",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/c212a9ea99502258bc62e2386325207c08b6601b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/56f15e3e85e670c6081eb9287a535f39de5abc0a.jpg",
+          "hidden": false,
           "percent": "4.1"
         },
         "ACH_CompleMission_All": {
@@ -918,6 +1013,7 @@
           "description": "Complete every Mission",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2387e2fb449c7e1fa4cb53afc2152c5b1e5e69c0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/362b94d99cf3171fae4977e9a1fcf338e1f291b9.jpg",
+          "hidden": false,
           "percent": "2.3"
         },
         "ACH_CompleteMission_All_Hard": {
@@ -925,6 +1021,7 @@
           "description": "Complete every Mission on at least Hard Difficulty",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/d2022bfbbb30de0aa88fffa4cd3702c3ce89e420.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/de62665ea3c2efece0b138f0fc4d6a089e9f88c3.jpg",
+          "hidden": false,
           "percent": "2.3"
         },
         "ACH_CompleteMission_All_Expert": {
@@ -932,6 +1029,7 @@
           "description": "Complete every Mission on at least Expert Difficulty",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/83f3d9cfa9910732445fa8fc2e2b5f40ced58e63.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/288e88664306c87095c9ef3802e808b039d4058f.jpg",
+          "hidden": false,
           "percent": "0.5"
         },
         "ACH_CompleteMission_All_Nightmare": {
@@ -939,6 +1037,7 @@
           "description": "Complete every Mission on Nightmare Difficulty",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/8e54482297420cb87d83ada3ee0dcd024cd48366.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ebec3b9beb5f72d711c3a7c773848c464733da7a.jpg",
+          "hidden": false,
           "percent": "0.3"
         },
         "ACH_ReadAllDataLogs": {
@@ -946,6 +1045,7 @@
           "description": "Read all of the Data Logs",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/eda9cca873a9f9b479f65cea84bf3985025846dc.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/3a846709696add4505209b6a8f74bf22ceeb1d88.jpg",
+          "hidden": false,
           "percent": "5.9"
         },
         "ACH_BackToBasics": {
@@ -953,6 +1053,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/5a21622d652d363c798de09e42034ce44e7d1d58.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c5c821fefd95ef84d997c8792feca503e7ee928.jpg",
+          "hidden": true,
           "percent": "2.8"
         },
         "ACH_ActivateSynergy": {
@@ -960,20 +1061,23 @@
           "description": "Activate a Synergy for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/55c76811156992f88e280948488ec75409622dd2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
-          "percent": "34.1"
+          "hidden": false,
+          "percent": "34.0"
         },
         "ACH_ActivateSynergy3": {
           "name": "Feeling the Power",
           "description": "Have 3 Synergies active at the same time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
-          "percent": "31.6"
+          "hidden": false,
+          "percent": "31.5"
         },
         "ACH_SynergiesActivated": {
           "name": "Promote Synergy",
           "description": "Activate each Synergy at least once",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/85e3b875e3af8be29e0633c79f6a0666127d17f7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b3a75cf09ee8b75a8e9a85f5113a7d5dcc3b8f77.jpg",
+          "hidden": false,
           "percent": "0.2"
         },
         "ACH_CompleteMission_Coop": {
@@ -981,6 +1085,7 @@
           "description": "Complete any Mission in Coop",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
+          "hidden": false,
           "percent": "35.2"
         }
       }
@@ -1260,6 +1365,7 @@
           "description": "Earn all achievements",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/8bcde58bb307d5ad8de9329c938691b74cceeac8.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/1b3b469702d1c639fc97df42ff823aba4033bde5.jpg",
+          "hidden": false,
           "percent": "6.5"
         },
         "ACH_GOLDEN_01_F": {
@@ -1267,13 +1373,15 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/b8d69727faab776dc6fa904ed3199e936e6b776e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/8734ad26f4ca63f3eb939c3f517725b1224415dc.jpg",
-          "percent": "15.5"
+          "hidden": true,
+          "percent": "15.4"
         },
         "ACH_SILVER_01_F": {
           "name": "Successor of the Bo",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/60e4ed372580b8c541e34a059956b6876af1cc9d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/130fc52efed859b39734f8742510c8bca1720722.jpg",
+          "hidden": true,
           "percent": "9.1"
         },
         "ACH_SILVER_02_F": {
@@ -1281,6 +1389,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/0eb2c39683811e85d655e09417aec83423f2d7aa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/a363a22a0d28fe90e37def3d48b3daf458212a72.jpg",
+          "hidden": true,
           "percent": "16.7"
         },
         "ACH_SILVER_03_F": {
@@ -1288,6 +1397,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e84e5ee51a52ed9845351a474658a706b667b9b3.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ef89b8c67b47e69cd97777f5c860dcf5c733ac6b.jpg",
+          "hidden": true,
           "percent": "18.8"
         },
         "ACH_SILVER_04_F": {
@@ -1295,6 +1405,7 @@
           "description": "Answer all riddles correctly",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/90f1dbd9c228875d0ee910408c3d31789c12cdf6.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e72702a5c75f127e717db052b5f69ac2ca6dae70.jpg",
+          "hidden": false,
           "percent": "15.9"
         },
         "ACH_SILVER_05_F": {
@@ -1302,6 +1413,7 @@
           "description": "Acquire all weapons",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/2d7825acd9a93ea084c5f13136dcf023da0623a5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3142c047734dde2b4f2eb37e464d487958f6ffb8.jpg",
+          "hidden": false,
           "percent": "13.2"
         },
         "ACH_SILVER_06_F": {
@@ -1309,6 +1421,7 @@
           "description": "Find all jade pendants",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/b4990dae32b2d34f32a431746e3e1e2b0439bf29.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/5c7811d92b6d5a078e124565654242de33814c05.jpg",
+          "hidden": false,
           "percent": "13.8"
         },
         "ACH_SILVER_07_F": {
@@ -1316,6 +1429,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c75e2ba8ce2342e0e155e272f361270bccb17739.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f41cfc58e515a71b461a8eb5f21ac3039fda8b2a.jpg",
+          "hidden": true,
           "percent": "51.5"
         },
         "ACH_SILVER_08_F": {
@@ -1323,13 +1437,15 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/08a2051c713cc6f321816cb7c423c4391269e6b2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/0ac5585ae90bcd1eb7f4168d8431724e17f8c22e.jpg",
-          "percent": "26.3"
+          "hidden": true,
+          "percent": "26.2"
         },
         "ACH_SILVER_09_F": {
           "name": "Perfect Bride - Fang Ling",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/049100de7582b14713c91b22b4bcd9d8fc700bfa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/244998e557e31c9b0a0ccd3c88807985a504ecfb.jpg",
+          "hidden": true,
           "percent": "40.8"
         },
         "ACH_SILVER_10_F": {
@@ -1337,6 +1453,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/1f7976046b29055850738df7b08d0b63b89fa0e9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f8fc8695173ebeb5fd3f8ecfd2d23de3237eb3ba.jpg",
+          "hidden": true,
           "percent": "36.2"
         },
         "ACH_SILVER_11_F": {
@@ -1344,6 +1461,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/710c83a09ba8e5f62361c15b0be3b27ec38b5eb9.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/6afea0ddcb8a623b59cc53653b1592631dd5ce01.jpg",
+          "hidden": true,
           "percent": "33.1"
         },
         "ACH_SILVER_12_F": {
@@ -1351,6 +1469,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/aa91243ce485f77d75a0226b051e1e33592e586c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/0b76e257038c57ca7c039c34d4db5f76b90d1168.jpg",
+          "hidden": true,
           "percent": "30.9"
         },
         "ACH_SILVER_13_F": {
@@ -1358,6 +1477,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/5022831cbedfdc10e1eabb89f3fc4a6ba17baa93.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/641ef8846c895ea156b3742a072945f2599aa974.jpg",
+          "hidden": true,
           "percent": "18.2"
         },
         "ACH_SILVER_14_F": {
@@ -1365,6 +1485,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/01b8137bc49264376b6595ad187eb7997d023ed7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3c94ba421dc78f6a091a8e731282e054845daf52.jpg",
+          "hidden": true,
           "percent": "31.4"
         },
         "ACH_COPPER_01_F": {
@@ -1372,6 +1493,7 @@
           "description": "Fully enhance your Manna Vase",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/bb2c3b26860e5c21b98c41c191048720952eab7f.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f72c28468802e554c7a565462ecc1adc6eebb90f.jpg",
+          "hidden": false,
           "percent": "21.1"
         },
         "ACH_COPPER_02_F": {
@@ -1379,6 +1501,7 @@
           "description": "Fully purify your Manna Vase",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c44817706181d1c2401bd4857bf6cd413b17ca35.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/53a676df5c50f94e53b1ac40dfd15339980e636c.jpg",
+          "hidden": false,
           "percent": "18.7"
         },
         "ACH_COPPER_03_F": {
@@ -1386,6 +1509,7 @@
           "description": "Enhance a weapon to the maximum",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/8e8e411294f548342333db97c114710187320e34.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/6fc823b16d40238d837f838a3e4e6538772df77a.jpg",
+          "hidden": false,
           "percent": "29.5"
         },
         "ACH_COPPER_04_F": {
@@ -1393,13 +1517,15 @@
           "description": "Offer Blood at a Shrine",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/7a55cb9af26eaa8876e9bfcd82637ca9fa7b09c0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/dc6fee82be2bbba608455e55d0f4d550792de438.jpg",
-          "percent": "93.9"
+          "hidden": false,
+          "percent": "93.8"
         },
         "ACH_COPPER_10_F": {
           "name": "Disciplinary Discipline",
           "description": "Acquire any discipline skill",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/8916f60952cb785f6fa7c3a12062dceced4849aa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/8c4709a89a093a59dfb7abea9b6faa01f3c53d0f.jpg",
+          "hidden": false,
           "percent": "98.0"
         },
         "ACH_COPPER_13_F": {
@@ -1407,6 +1533,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/80d8c730419ae83a64692d530dd755ccb0f7f75e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ec8655c6a06c65b85105d24dc29e26bb30bf6832.jpg",
+          "hidden": true,
           "percent": "71.5"
         },
         "ACH_COPPER_14_F": {
@@ -1414,6 +1541,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/514a62e9e965257ffcdda510c4af040b1f1194a2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/084220f7f36f21e792a1911212d984bb155e3521.jpg",
+          "hidden": true,
           "percent": "57.4"
         },
         "ACH_COPPER_15_F": {
@@ -1421,6 +1549,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/472b4f466b2332063f52b61a63c2ee17ad6f7276.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/9e84cf173ab1a4a4281179bd25da0068e5d8563e.jpg",
+          "hidden": true,
           "percent": "53.2"
         },
         "ACH_COPPER_16_F": {
@@ -1428,6 +1557,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/d800210455203dc5eb85c77feb05134dad673e81.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/30752c5d87337512ddba6e1eb6d9b7191c478bef.jpg",
+          "hidden": true,
           "percent": "54.8"
         },
         "ACH_COPPER_17_F": {
@@ -1435,6 +1565,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c9e7809d0741b5ff7a314d564229e8d70307547e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3c34cd574e5a3b26bf77993f300daf9feeaa5557.jpg",
+          "hidden": true,
           "percent": "64.6"
         },
         "ACH_COPPER_18_F": {
@@ -1442,6 +1573,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/1ef3698fefecccc31aa5ea379c180fa58671d618.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/a75896cdd1b2b1da05ec9cd50d945496e6c1c599.jpg",
+          "hidden": true,
           "percent": "45.3"
         },
         "ACH_COPPER_19_F": {
@@ -1449,6 +1581,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/69e0e0e0f9fc74f2752e708e9b8642ed29504262.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ce8a4bce87f24ae8fee80140b823f4f173143d39.jpg",
+          "hidden": true,
           "percent": "45.0"
         },
         "ACH_COPPER_20_F": {
@@ -1456,6 +1589,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/3b152e99b6121c984bb94886435a92dff15572ba.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/720da3903518e7f72e36637635e18748892d4144.jpg",
+          "hidden": true,
           "percent": "42.6"
         },
         "ACH_COPPER_21_F": {
@@ -1463,6 +1597,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f18cd4059adc60dfe19596223c956701924736cf.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/c78b92c52b37310585735ef52e141f44c5fecd18.jpg",
+          "hidden": true,
           "percent": "38.0"
         },
         "ACH_COPPER_22_F": {
@@ -1470,6 +1605,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/4e660fe897fee0706977eb17239fa10e29f92640.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/68fff81615d8280c62aa0908776dce798af4ec47.jpg",
+          "hidden": true,
           "percent": "38.3"
         },
         "ACH_COPPER_23_F": {
@@ -1477,6 +1613,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/e6d410ef4b15055cd37247e10dc863509fd6e20c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f57a81fe2a027f24dd1a918a3875dce6c5ff8ed6.jpg",
+          "hidden": true,
           "percent": "31.3"
         },
         "ACH_COPPER_24_F": {
@@ -1484,6 +1621,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/495d9f4efb71830818287c02b6877a4f46a42e1c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/62fefaa9f43bfd0b0fdf6a3c6580522132989540.jpg",
+          "hidden": true,
           "percent": "30.7"
         },
         "ACH_COPPER_25_F": {
@@ -1491,6 +1629,7 @@
           "description": "Summon an NPC to aid you",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/137861a27ebf4aee06547508dba3655a7e777b89.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/879c0743769e9f4a819de93910d4423f4120dcac.jpg",
+          "hidden": false,
           "percent": "53.9"
         },
         "ACH_COPPER_26_F": {
@@ -1498,6 +1637,7 @@
           "description": "Defeat 20 Bamboozlings",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/d97b3f38d65c545f87f00bef964bcb52e9e25fef.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ada597a820b1d1b450a28f1a167f5b66e2756def.jpg",
+          "hidden": false,
           "percent": "14.6"
         },
         "ACH_COPPER_27_F": {
@@ -1505,6 +1645,7 @@
           "description": "Defeat 6 Inner Demons",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/24dc58fce7e3dc746daa2ebe627fdecfc700664a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f335ab6dfebb0f8c2483d45049d9b1d2fdd863c2.jpg",
+          "hidden": false,
           "percent": "19.7"
         },
         "ACH_COPPER_33_F": {
@@ -1512,6 +1653,7 @@
           "description": "Find all gates containing Benedictions",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/0383f42e04b567b85e10ba081c3c8afc4400d815.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f9c22c0ffa59ec723c1c16a3c9b99f2e89c4d10e.jpg",
+          "hidden": false,
           "percent": "16.3"
         },
         "ACH_COPPER_34_F": {
@@ -1519,6 +1661,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/f729c4aa87bc9d66ee957c997c80ac2b4cdf0231.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/b84a5ecc5aaa0d11787fe0622924629cbf0297b1.jpg",
+          "hidden": true,
           "percent": "20.9"
         },
         "ACH_COPPER_35_F": {
@@ -1526,6 +1669,7 @@
           "description": "Fully unlock all of Wu Gang's stock",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/7aa1dd56449eda6681ab354c9478d1829e13566b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/9f3831c26ae102bd62a135b6535195c61ff69ee6.jpg",
+          "hidden": false,
           "percent": "14.1"
         },
         "ACH_COPPER_36_F": {
@@ -1533,6 +1677,7 @@
           "description": "Activate every single Shrine",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/58d3cf388d54270513d93f446b2dc988af85c41b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/ecc5d7c242225cac73ceff7497c794f0c7ad83a1.jpg",
+          "hidden": false,
           "percent": "12.8"
         }
       }
@@ -1712,6 +1857,7 @@
           "description": "Obtained all achievements.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b5b73cce9f5339319590ad5c5ad767e552bc29e1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/987121d5f7447aeb578334a9321dc4da9859a1fc.jpg",
+          "hidden": false,
           "percent": "1.5"
         },
         "ACHIEVEMENT_01": {
@@ -1719,6 +1865,7 @@
           "description": "Conquered The X Championship.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/14dc5e0b35ef19d41ddeae251c5fbb0f189b2142.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/243127d80e518a1c9709803195130275d58e2714.jpg",
+          "hidden": false,
           "percent": "23.3"
         },
         "ACHIEVEMENT_02": {
@@ -1726,6 +1873,7 @@
           "description": "Broke through floor 90 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9522b90d8480e77709aaa4900dbab8b8baf42031.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/e1c8f22b928289ffc92d58552d510035b718e179.jpg",
+          "hidden": false,
           "percent": "24.5"
         },
         "ACHIEVEMENT_03": {
@@ -1733,6 +1881,7 @@
           "description": "Broke through floor 80 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/86d62b09136fe00a472e953f5ac635b838c46b91.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5373b7663803f62f271409112e87fce133e26bd2.jpg",
+          "hidden": false,
           "percent": "26.3"
         },
         "ACHIEVEMENT_04": {
@@ -1740,6 +1889,7 @@
           "description": "Broke through floor 70 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/8fa1d077fe4702902fe3d350147169f993aea601.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bb6f4bed2080cf84144451799b410378f61b0245.jpg",
+          "hidden": false,
           "percent": "28.3"
         },
         "ACHIEVEMENT_05": {
@@ -1747,6 +1897,7 @@
           "description": "Broke through floor 60 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a48bfe6c501200557d76efb279e80b19b823d36b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f6faae08cc07160546bda211b01f006ed937d49.jpg",
+          "hidden": false,
           "percent": "30.1"
         },
         "ACHIEVEMENT_06": {
@@ -1754,6 +1905,7 @@
           "description": "Broke through floor 50 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/686cb078452142af4bb868d0ec4c6e83eddf3c1c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4ef69fadf0568c09b300237b4e24216d1807208f.jpg",
+          "hidden": false,
           "percent": "34.1"
         },
         "ACHIEVEMENT_07": {
@@ -1761,13 +1913,15 @@
           "description": "Broke through floor 40 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b5d6b71dcae35b087de20f54ac7f24509faec83e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg",
-          "percent": "38.8"
+          "hidden": false,
+          "percent": "38.7"
         },
         "ACHIEVEMENT_08": {
           "name": "Cleared the 30th floor of The X!",
           "description": "Broke through floor 30 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/44b28cdd00557a9421057fd9d3293b56bc59a952.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/12e27effcdb23807ac5a59347e601c5732362a1b.jpg",
+          "hidden": false,
           "percent": "48.6"
         },
         "ACHIEVEMENT_09": {
@@ -1775,13 +1929,15 @@
           "description": "Broke through floor 20 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bdb229f12db0c60c27b52f39a1a790da6a8e585a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b32adc2b6272460631e79d767dd60b437843dbcf.jpg",
-          "percent": "56.2"
+          "hidden": false,
+          "percent": "56.3"
         },
         "ACHIEVEMENT_10": {
           "name": "Cleared the 10th floor of The X!",
           "description": "Broke through floor 10 of The X.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/969aca6b54c1faea440b03e73a78a9c3abe7f7cd.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/57a7f767de0fb00c2e21dedbd57ee4bce40416d9.jpg",
+          "hidden": false,
           "percent": "72.6"
         },
         "ACHIEVEMENT_11": {
@@ -1789,20 +1945,23 @@
           "description": "Surpassed Blader Level 10.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/583365b06d43a5bdcf4706d2bcd5c973bb15e489.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/185c730d3beda4d1c58e707b3ca0201733c208f4.jpg",
-          "percent": "75.9"
+          "hidden": false,
+          "percent": "75.8"
         },
         "ACHIEVEMENT_12": {
           "name": "Rumored Blader",
           "description": "Surpassed Blader Level 50.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/c56d0d9d6afa68a5af7561e1180ab9f547c3e680.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6c706bb1f67652215ab1ffc000a2e623c38186f2.jpg",
-          "percent": "25.4"
+          "hidden": false,
+          "percent": "25.3"
         },
         "ACHIEVEMENT_13": {
           "name": "Pro Blader",
           "description": "Surpassed Blader Level 100.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/85dfc887e920e81f13732d93ed3314fb26c58ecf.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/1e379c21d5b707d8e7335c3c1b4b7094d5a1abda.jpg",
+          "hidden": false,
           "percent": "2.2"
         },
         "ACHIEVEMENT_14": {
@@ -1810,6 +1969,7 @@
           "description": "Total Bey part + values exceeded 300.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/c7836d05d44e855fe63de5d279e5140890b08b9f.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9e9d2e83ed6050b5c8d87f5640005ab102d1a487.jpg",
+          "hidden": false,
           "percent": "18.4"
         },
         "ACHIEVEMENT_15": {
@@ -1817,6 +1977,7 @@
           "description": "Acquired a total of 300 Bey parts.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9c1b758c98caddf156aae33b1e5bbdd59b023d5a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/77c3072e2a99e988e50c5fed9b6454345473db7a.jpg",
+          "hidden": false,
           "percent": "21.7"
         },
         "ACHIEVEMENT_16": {
@@ -1824,6 +1985,7 @@
           "description": "Scanned Secret Parts 100 times.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d86e0710f0137c97cc95e1560028b1a69fe523ef.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/0dde79f8804839c50573662cee0a26b735e1dda9.jpg",
+          "hidden": false,
           "percent": "1.9"
         },
         "ACHIEVEMENT_17": {
@@ -1831,6 +1993,7 @@
           "description": "Performed 100 attacks in Auto Chase.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/46c76c6aca93f9b899b70ad1880d346fe3f6d311.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6f652fc34529680aa33e9ebd176907dca41f978d.jpg",
+          "hidden": false,
           "percent": "60.6"
         },
         "ACHIEVEMENT_18": {
@@ -1838,6 +2001,7 @@
           "description": "Performed 100 counters in Auto Chase.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f50080e1b1335d6b0d82850902ce8ee4a7862d9e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ac1a566761a8599dcbeb18a5ce159b74c17c6671.jpg",
+          "hidden": false,
           "percent": "57.7"
         },
         "ACHIEVEMENT_19": {
@@ -1845,6 +2009,7 @@
           "description": "Performed 100 Xtreme Dashes in Auto Chase.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/8e8613dc1381768ca84df2939fca7919f8a607a1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/20529292f4ee2232fe9c043d412714c2b9c4167c.jpg",
+          "hidden": false,
           "percent": "59.9"
         },
         "ACHIEVEMENT_20": {
@@ -1852,6 +2017,7 @@
           "description": "Entered the Xone state 100 times.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/718e4b225100d21f49310a7c4275b4d41f819b27.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/614baf38d4f40d2906d0b1049d75352dd0f22022.jpg",
+          "hidden": false,
           "percent": "43.9"
         },
         "ACHIEVEMENT_21": {
@@ -1859,6 +2025,7 @@
           "description": "Used an Attack-Type Bey 100 times.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4b3990bb81f6f5c8559a4d32614aa32fa1599494.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a6defebd107f3d75b8349e9f4e1bc20bdf6f3635.jpg",
+          "hidden": false,
           "percent": "31.3"
         },
         "ACHIEVEMENT_22": {
@@ -1866,6 +2033,7 @@
           "description": "Used a Stamina-Type Bey 100 times.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d7117b9ff5fe881df2ba5ffdf657ff39fb80fa09.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/2426a746c8cb71eb5cf13da6fa517791a365b25d.jpg",
+          "hidden": false,
           "percent": "7.3"
         },
         "ACHIEVEMENT_23": {
@@ -1873,6 +2041,7 @@
           "description": "Used a Defense-Type Bey 100 times.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/eeeb9a845ded9d54b621eaff25e00fbc3b737d1f.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5f3fc982889ac573faeb1790e0b1359b04d7a57a.jpg",
+          "hidden": false,
           "percent": "7.7"
         },
         "ACHIEVEMENT_24": {
@@ -1880,6 +2049,7 @@
           "description": "Used a Balance-Type Bey 100 times.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a09d2f92de4ba6cb281afba2a1d85a4d092bdb9a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6ee3f8739a50a364b321272e89a2ca7e5fa3f1aa.jpg",
+          "hidden": false,
           "percent": "14.4"
         },
         "ACHIEVEMENT_25": {
@@ -1887,6 +2057,7 @@
           "description": "Performed 100 Xtreme Finishes.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d62d46287cfe90f0d1377dd440a09d23098d792d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d771ea367cd462092a1d95add9226483fa286db6.jpg",
+          "hidden": false,
           "percent": "25.6"
         },
         "ACHIEVEMENT_26": {
@@ -1894,6 +2065,7 @@
           "description": "Maxed out the bond level with Masato Akechi.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d3019495b9100660af5cc42d8cccf26f97d97fce.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fba591ac8602488cd62f86967d43cf9e3fc96fda.jpg",
+          "hidden": false,
           "percent": "2.3"
         },
         "ACHIEVEMENT_27": {
@@ -1901,6 +2073,7 @@
           "description": "Maxed out the bond level with Natsu Shiranui.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/83dbef170ea545d7f75f70af2d726f7c312f48c4.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b0f6f6c252641839134cb3123b0ab8eed405b9fa.jpg",
+          "hidden": false,
           "percent": "2.0"
         },
         "ACHIEVEMENT_28": {
@@ -1908,6 +2081,7 @@
           "description": "Maxed out the bond level with Aoi Harukaze.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a66db7905790e25fe612aa385612739e918642f5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/34d310f5afeb71de05ad58aadd24287616462789.jpg",
+          "hidden": false,
           "percent": "4.7"
         },
         "ACHIEVEMENT_29": {
@@ -1915,6 +2089,7 @@
           "description": "Defeated Hayate Kurohane in Full Power Mode.",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/4e014714bc737958bda2b0ed9fd3868b20d0d077.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f0521b047c54e0045e2fb20b06bae2a0cdddd255.jpg",
+          "hidden": false,
           "percent": "11.8"
         },
         "ACHIEVEMENT_30": {
@@ -1922,13 +2097,15 @@
           "description": "Saw the X Skill \"Xtreme Dash Shadow Blade Walking\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7ec29d1c912be5aceecc3cb26acacf5be7e53ffe.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3a46ce4d6ff1365d9389ea866eae00c79e63f758.jpg",
-          "percent": "85.5"
+          "hidden": false,
+          "percent": "85.4"
         },
         "ACHIEVEMENT_31": {
           "name": "Xtreme Dash Double",
           "description": "Saw the X Skill \"Xtreme Dash Double\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/90a54071c19d3c38ae449c7cc911d778d7835140.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/da49ad05ebd6c7eb574362a44bd49db6241dd997.jpg",
+          "hidden": false,
           "percent": "7.1"
         },
         "ACHIEVEMENT_32": {
@@ -1936,6 +2113,7 @@
           "description": "Saw the X Skill \"Xtreme Dash Infinite\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/495dd0b4a844ef27611cd0cc87f1d9c17ea59b3c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3bc615c0193d0ae6fc4c3d217b52f90518365edc.jpg",
+          "hidden": false,
           "percent": "4.0"
         },
         "ACHIEVEMENT_33": {
@@ -1943,6 +2121,7 @@
           "description": "Saw the X Skill \"Xtreme Dash Buster\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/946a459f7aeb04ed0fd3a5f4bc41c657bace56b0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/826cf1638a837153ff908bcf7e71180a9c171de4.jpg",
+          "hidden": false,
           "percent": "3.8"
         },
         "ACHIEVEMENT_34": {
@@ -1950,6 +2129,7 @@
           "description": "Saw the X Skill \"Chain Blast\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bd56862d4f2c23556e50a99ae6068858f79a36c2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/9a1b8619a2969780cae684cca5acc4ae422d6c35.jpg",
+          "hidden": false,
           "percent": "3.2"
         },
         "ACHIEVEMENT_35": {
@@ -1957,6 +2137,7 @@
           "description": "Saw the X Skill \"Xtreme Dash Hammer Crush\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d04f4d2d27526154a5ab24ca4a46b19bc78c12d7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/d2c271d6dc883ea0a9641b4fd5b8de7375647c9f.jpg",
+          "hidden": false,
           "percent": "2.4"
         },
         "ACHIEVEMENT_36": {
@@ -1964,6 +2145,7 @@
           "description": "Saw the X Skill \"Mirage Parry\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b1be095ba20edf207bf26144e1a508a76fd0e7b1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3b39a344528a63880efb74b824e72f0125a4671f.jpg",
+          "hidden": false,
           "percent": "8.7"
         },
         "ACHIEVEMENT_37": {
@@ -1971,13 +2153,15 @@
           "description": "Saw the X Skill \"Raining Lance\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f0ee526cc3efb4b77a7f965ff69065de9bd9a7b7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/344d39dd84ccba405dc74695df0330c84655c0ae.jpg",
-          "percent": "8.4"
+          "hidden": false,
+          "percent": "8.3"
         },
         "ACHIEVEMENT_38": {
           "name": "Xtreme Dash Mirror Reflection",
           "description": "Saw the X Skill \"Xtreme Dash Mirror Reflection\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f004857a719e3f5c8308024668c98a171fe6ef90.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/992736483b73446ed5afd7cd0815c8720480989b.jpg",
+          "hidden": false,
           "percent": "3.3"
         },
         "ACHIEVEMENT_39": {
@@ -1985,6 +2169,7 @@
           "description": "Saw the X Skill \"Xtreme Dash King of the Beasts\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5d7e7e895fd3aaad9acfe07c106e5121c687183c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/2108f1dac3280a7d40a4d01e69c499ef03575f9a.jpg",
+          "hidden": false,
           "percent": "8.6"
         },
         "ACHIEVEMENT_40": {
@@ -1992,6 +2177,7 @@
           "description": "Saw the X Skill \"Xtreme Dash Burning Maneuver\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b543bcd2814dc1c391c85511e506847946e89134.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/295a1b95fa601e5e226104714d90463088f3f770.jpg",
+          "hidden": false,
           "percent": "6.5"
         },
         "ACHIEVEMENT_41": {
@@ -1999,13 +2185,15 @@
           "description": "Saw the X Skill \"The Shadow that Cannot Be Touched\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a51d9fc65bce88da4e33189f25ea93f98027b00e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f2ecfb94dd61097052d68b295032c48d65c107a3.jpg",
-          "percent": "8.6"
+          "hidden": false,
+          "percent": "8.5"
         },
         "ACHIEVEMENT_42": {
           "name": "Xtreme Dash Dragonic Break",
           "description": "Saw the X Skill \"Xtreme Dash Dragonic Break\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7a17c83dd47b770535ef6e1413208c660fb8497d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5267db597999e22cef8a4dddaa83453d2610a787.jpg",
+          "hidden": false,
           "percent": "6.8"
         },
         "ACHIEVEMENT_43": {
@@ -2013,6 +2201,7 @@
           "description": "Saw the X Skill \"Xtreme Dash Dragonic Break Infinite\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7a17c83dd47b770535ef6e1413208c660fb8497d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/5267db597999e22cef8a4dddaa83453d2610a787.jpg",
+          "hidden": false,
           "percent": "5.5"
         },
         "ACHIEVEMENT_44": {
@@ -2020,6 +2209,7 @@
           "description": "Saw the X Skill \"Xtreme Dash Strike Hunt\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/939d8c4c9ede7a184b7ec9677f526dee98a32502.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/fd0dada3f92ead9e695700f59d22cd50be96655c.jpg",
+          "hidden": false,
           "percent": "7.3"
         },
         "ACHIEVEMENT_45": {
@@ -2027,6 +2217,7 @@
           "description": "Saw the X Skill \"Xtreme Dash Crescent Judgment\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/27bb2ef2d539eeebce8f470fed235d1f300679f0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/cda67bc79e65dc9ce6d83226ea014072b32457f8.jpg",
+          "hidden": false,
           "percent": "5.4"
         },
         "ACHIEVEMENT_46": {
@@ -2034,6 +2225,7 @@
           "description": "Saw the X Skill \"Blue Fang\".",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/64a039d8a2834fe60aa09e76b69423f9e403f6d2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ab43563948ec2a3876c9a834f815ead874231f6e.jpg",
+          "hidden": false,
           "percent": "28.5"
         }
       }
@@ -2241,6 +2433,7 @@
           "description": "Earn all achievements",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/ef2dc8728efc95d8319a26586d2378d49b574d94.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/ef2dc8728efc95d8319a26586d2378d49b574d94.jpg",
+          "hidden": false,
           "percent": "2.0"
         },
         "0001": {
@@ -2248,6 +2441,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/00ba341dcf6bc2932bc4baf02c2617b7db56f7ad.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/00ba341dcf6bc2932bc4baf02c2617b7db56f7ad.jpg",
+          "hidden": true,
           "percent": "41.1"
         },
         "0002": {
@@ -2255,6 +2449,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d228c1ac4ed91f5dd61d66535b7662fa1655a1ac.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d228c1ac4ed91f5dd61d66535b7662fa1655a1ac.jpg",
+          "hidden": true,
           "percent": "3.1"
         },
         "0003": {
@@ -2262,6 +2457,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0feb30fc964b66dc75b98a3b0afc2ce99732ba31.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0feb30fc964b66dc75b98a3b0afc2ce99732ba31.jpg",
+          "hidden": true,
           "percent": "61.3"
         },
         "0004": {
@@ -2269,6 +2465,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7e653d2efeaafe03720c674c1306f30316ca8039.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7e653d2efeaafe03720c674c1306f30316ca8039.jpg",
+          "hidden": true,
           "percent": "47.6"
         },
         "0005": {
@@ -2276,6 +2473,7 @@
           "description": "Complete all side quests (excluding add-on content)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aca9f325b3c856cd8ee3edf442773a003cf08273.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aca9f325b3c856cd8ee3edf442773a003cf08273.jpg",
+          "hidden": false,
           "percent": "3.4"
         },
         "0006": {
@@ -2283,6 +2481,7 @@
           "description": "Unlock all characters (excluding add-on content)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/31964ad8dda763186f518c0c2b3bc21920810860.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/31964ad8dda763186f518c0c2b3bc21920810860.jpg",
+          "hidden": false,
           "percent": "23.2"
         },
         "0007": {
@@ -2290,6 +2489,7 @@
           "description": "Complete all characters' fate episodes, including their epilogues (excluding add-on content)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0da48470376c275af86ee55f88af6a933564b570.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/0da48470376c275af86ee55f88af6a933564b570.jpg",
+          "hidden": false,
           "percent": "4.8"
         },
         "0008": {
@@ -2297,6 +2497,7 @@
           "description": "Fill in every Field Notes entry in Lyria's Journal (excluding add-on content)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8da4f16941d5ee9359f3346872f5e3ed3f505f68.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8da4f16941d5ee9359f3346872f5e3ed3f505f68.jpg",
+          "hidden": false,
           "percent": "3.7"
         },
         "0009": {
@@ -2304,6 +2505,7 @@
           "description": "Unlock the power of an Ascension weapon for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/54ba75a0b1db33713c0dbe5b7dd7b2d5b815ca6d.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/54ba75a0b1db33713c0dbe5b7dd7b2d5b815ca6d.jpg",
+          "hidden": false,
           "percent": "38.8"
         },
         "0010": {
@@ -2311,6 +2513,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/682dfcb78b65b5fee8056dfbe2ad85ee4f3237e5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/682dfcb78b65b5fee8056dfbe2ad85ee4f3237e5.jpg",
+          "hidden": true,
           "percent": "96.2"
         },
         "0011": {
@@ -2318,6 +2521,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7bcdfdde9fe5be85d82dcd6021b09fa20839dfaa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7bcdfdde9fe5be85d82dcd6021b09fa20839dfaa.jpg",
+          "hidden": true,
           "percent": "84.9"
         },
         "0012": {
@@ -2325,6 +2529,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c8a8b687983f745bc8a1219269db01ad5d7f6ce7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c8a8b687983f745bc8a1219269db01ad5d7f6ce7.jpg",
+          "hidden": true,
           "percent": "81.9"
         },
         "0013": {
@@ -2332,6 +2537,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4e8855450c5b233b0e6ec0cbf3478e036cc8a685.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4e8855450c5b233b0e6ec0cbf3478e036cc8a685.jpg",
+          "hidden": true,
           "percent": "80.2"
         },
         "0014": {
@@ -2339,6 +2545,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c65cbec839dcd2e2a58adcfa4aa727a30043f02.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c65cbec839dcd2e2a58adcfa4aa727a30043f02.jpg",
+          "hidden": true,
           "percent": "76.8"
         },
         "0015": {
@@ -2346,6 +2553,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/66810e4076b73a05634da35c9ed84a4d9e10a89c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/66810e4076b73a05634da35c9ed84a4d9e10a89c.jpg",
+          "hidden": true,
           "percent": "72.7"
         },
         "0016": {
@@ -2353,13 +2561,15 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
-          "percent": "68.0"
+          "hidden": true,
+          "percent": "68.1"
         },
         "0017": {
           "name": "Warning Signs",
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5faa2e5877dbd364e3cb0f005bdd2dba5e04c911.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5faa2e5877dbd364e3cb0f005bdd2dba5e04c911.jpg",
+          "hidden": true,
           "percent": "66.4"
         },
         "0018": {
@@ -2367,6 +2577,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/77628979d0563aae00b018d9d229ca95c5459770.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/77628979d0563aae00b018d9d229ca95c5459770.jpg",
+          "hidden": true,
           "percent": "64.6"
         },
         "0019": {
@@ -2374,6 +2585,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/01083170e4d7463af0844dbca5da65fdb18e17b3.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/01083170e4d7463af0844dbca5da65fdb18e17b3.jpg",
+          "hidden": true,
           "percent": "62.3"
         },
         "0020": {
@@ -2381,6 +2593,7 @@
           "description": "Achieve an S++ quest evaluation for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d79f4175ecb36edee165b19e3d0880e6ec6a2e8b.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/d79f4175ecb36edee165b19e3d0880e6ec6a2e8b.jpg",
+          "hidden": false,
           "percent": "69.3"
         },
         "0021": {
@@ -2388,6 +2601,7 @@
           "description": "Use an emote",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5a9e139250c6d863937cdbed61651c75f9773c05.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5a9e139250c6d863937cdbed61651c75f9773c05.jpg",
+          "hidden": false,
           "percent": "45.1"
         },
         "0022": {
@@ -2395,6 +2609,7 @@
           "description": "Defeat primal beasts 100 times",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698ac4e7816066ba45c80eeaf19f70bd02dfc345.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698ac4e7816066ba45c80eeaf19f70bd02dfc345.jpg",
+          "hidden": false,
           "percent": "20.4"
         },
         "0023": {
@@ -2402,6 +2617,7 @@
           "description": "Complete a side quest for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e538de5b1c99b26da10a62d77f1f7003630e129e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/e538de5b1c99b26da10a62d77f1f7003630e129e.jpg",
+          "hidden": false,
           "percent": "79.1"
         },
         "0024": {
@@ -2409,6 +2625,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/793b83d5498d01c58b2f2980f695013dbd5f83fa.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/793b83d5498d01c58b2f2980f695013dbd5f83fa.jpg",
+          "hidden": true,
           "percent": "12.1"
         },
         "0025": {
@@ -2416,6 +2633,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5bac766b60677525da1cf638f9df205a5785c758.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5bac766b60677525da1cf638f9df205a5785c758.jpg",
+          "hidden": true,
           "percent": "4.7"
         },
         "0026": {
@@ -2423,6 +2641,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/dff3f17401baeeddae035aa5bae6f1dbff1a28df.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/dff3f17401baeeddae035aa5bae6f1dbff1a28df.jpg",
+          "hidden": true,
           "percent": "10.4"
         },
         "0027": {
@@ -2430,6 +2649,7 @@
           "description": "",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/956bbf37aab904e389f733a3e8f40e72a5caa062.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/956bbf37aab904e389f733a3e8f40e72a5caa062.jpg",
+          "hidden": true,
           "percent": "4.0"
         },
         "0028": {
@@ -2437,6 +2657,7 @@
           "description": "Trigger a full burst in battle (excluding certain battles)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/89a3ce7047354b455bf82cdecb1163e40096290f.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/89a3ce7047354b455bf82cdecb1163e40096290f.jpg",
+          "hidden": false,
           "percent": "83.5"
         },
         "0029": {
@@ -2444,6 +2665,7 @@
           "description": "Deal more than 999,999 damage with a chain burst in battle",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/92cdef0ed503b5f6bcac385f86cc82e40129bcad.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/92cdef0ed503b5f6bcac385f86cc82e40129bcad.jpg",
+          "hidden": false,
           "percent": "44.8"
         },
         "0030": {
@@ -2451,6 +2673,7 @@
           "description": "Enter link time in battle (excluding Training)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/355babb38f4c0dc1df8d3c10e25fcebc138df9ea.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/355babb38f4c0dc1df8d3c10e25fcebc138df9ea.jpg",
+          "hidden": false,
           "percent": "83.7"
         },
         "0031": {
@@ -2458,6 +2681,7 @@
           "description": "Activate chain bursts 100 times in battles (excluding certain battles)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/83930690124760e09fbd5d03f34a62a042d68f9c.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/83930690124760e09fbd5d03f34a62a042d68f9c.jpg",
+          "hidden": false,
           "percent": "40.5"
         },
         "0032": {
@@ -2465,6 +2689,7 @@
           "description": "Unleash Skybound Arts 10 times in battles (excluding certain battles)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7be4392494337278bc47c0e1eacb5c487c968677.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/7be4392494337278bc47c0e1eacb5c487c968677.jpg",
+          "hidden": false,
           "percent": "75.6"
         },
         "0033": {
@@ -2472,6 +2697,7 @@
           "description": "Revive allies 5 times",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/35d8bbfa627cec312b02a3ef31c37ecf0a9edcd0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/35d8bbfa627cec312b02a3ef31c37ecf0a9edcd0.jpg",
+          "hidden": false,
           "percent": "54.6"
         },
         "0034": {
@@ -2479,6 +2705,7 @@
           "description": "Use skills 50 times in battles",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/2eb7e2085b293923dcd3758919eaf59d8c2763f2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/2eb7e2085b293923dcd3758919eaf59d8c2763f2.jpg",
+          "hidden": false,
           "percent": "82.1"
         },
         "0035": {
@@ -2486,6 +2713,7 @@
           "description": "Use buffing skills to grant status effects to allies 20 times in battles",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c1bc6029c4c7f296ed1172a6a44ce2c0b7942d08.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/c1bc6029c4c7f296ed1172a6a44ce2c0b7942d08.jpg",
+          "hidden": false,
           "percent": "64.1"
         },
         "0036": {
@@ -2493,6 +2721,7 @@
           "description": "Use debuffing skills to inflict status ailments on foes 20 times in battle",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8f9e85fec5d394d9ca2b414a4b3e9fc03c3bfcae.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8f9e85fec5d394d9ca2b414a4b3e9fc03c3bfcae.jpg",
+          "hidden": false,
           "percent": "77.9"
         },
         "0037": {
@@ -2500,6 +2729,7 @@
           "description": "Use 50 potions",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/858b5891d46eac74084105d60ab041b9e830deae.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/858b5891d46eac74084105d60ab041b9e830deae.jpg",
+          "hidden": false,
           "percent": "59.7"
         },
         "0038": {
@@ -2507,6 +2737,7 @@
           "description": "Put foes into Break 5 times in battles (excluding certain battles)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/107d2ab0a2296f4a7e3f4122a655a2586c0555a3.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/107d2ab0a2296f4a7e3f4122a655a2586c0555a3.jpg",
+          "hidden": false,
           "percent": "78.7"
         },
         "0039": {
@@ -2514,6 +2745,7 @@
           "description": "Complete a fate episode prologue for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698475407fe0bfcb51fb15e1ec47538e48abfbc5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/698475407fe0bfcb51fb15e1ec47538e48abfbc5.jpg",
+          "hidden": false,
           "percent": "68.9"
         },
         "0040": {
@@ -2521,6 +2753,7 @@
           "description": "Complete a fate episode epilogue",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/965396dd6de03485c216a396931465d24955af21.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/965396dd6de03485c216a396931465d24955af21.jpg",
+          "hidden": false,
           "percent": "49.4"
         },
         "0041": {
@@ -2528,6 +2761,7 @@
           "description": "Raise a character to level 100",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9952055ca727ee64d5dd6c949b50f51bd0754ac5.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/9952055ca727ee64d5dd6c949b50f51bd0754ac5.jpg",
+          "hidden": false,
           "percent": "46.3"
         },
         "0042": {
@@ -2535,6 +2769,7 @@
           "description": "Acquire a total of 100,000 rupies",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5e448b5f8690fd5503364e7c094ab7408b452fff.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5e448b5f8690fd5503364e7c094ab7408b452fff.jpg",
+          "hidden": false,
           "percent": "64.7"
         },
         "0043": {
@@ -2542,6 +2777,7 @@
           "description": "Find 20 wee pincers",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4f6970af43ef64cb212e7243554a105077baa315.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/4f6970af43ef64cb212e7243554a105077baa315.jpg",
+          "hidden": false,
           "percent": "12.9"
         },
         "0044": {
@@ -2549,6 +2785,7 @@
           "description": "Find 30 archive entries",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bec26c69584bf208ddc3f75bf491a4dfa29bccec.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/bec26c69584bf208ddc3f75bf491a4dfa29bccec.jpg",
+          "hidden": false,
           "percent": "59.8"
         },
         "0045": {
@@ -2556,6 +2793,7 @@
           "description": "Open 50 treasure chests (excluding town chests)",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/539b72dcfd3e1d71bc208cb8defcdfa321df46de.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/539b72dcfd3e1d71bc208cb8defcdfa321df46de.jpg",
+          "hidden": false,
           "percent": "49.1"
         },
         "0046": {
@@ -2563,6 +2801,7 @@
           "description": "Open all locked treasure chests",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/847a127d0086978bf008386d7b93ec59b7cd7fe6.jpg",
+          "hidden": false,
           "percent": "11.0"
         },
         "0047": {
@@ -2570,6 +2809,7 @@
           "description": "Get some practice in with Sir Barrold",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/443a308a0eb7f0c0d054b15109ebf8cb9d27471a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/443a308a0eb7f0c0d054b15109ebf8cb9d27471a.jpg",
+          "hidden": false,
           "percent": "74.3"
         },
         "0048": {
@@ -2577,6 +2817,7 @@
           "description": "Uncap a weapon at the blacksmith",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c3466bf4788ba8ea9d409611a071d64a3407a92.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/8c3466bf4788ba8ea9d409611a071d64a3407a92.jpg",
+          "hidden": false,
           "percent": "78.1"
         },
         "0049": {
@@ -2584,6 +2825,7 @@
           "description": "Use Siero's Treasure Trade to complete 10 trades",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/22adf24f6fa1297aa14c297dd6da4f600e123ad8.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/22adf24f6fa1297aa14c297dd6da4f600e123ad8.jpg",
+          "hidden": false,
           "percent": "55.0"
         },
         "0050": {
@@ -2591,6 +2833,7 @@
           "description": "Unlock a character action node from Masteries for the first time",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b7962b7b7bd25ddfe3fc68681a004f73e7aa3051.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/b7962b7b7bd25ddfe3fc68681a004f73e7aa3051.jpg",
+          "hidden": false,
           "percent": "85.2"
         },
         "0051": {
@@ -2598,6 +2841,7 @@
           "description": "Sell 10 sigils",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aec784cf2119b5d4486cd4927a88dfc9a6071d97.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/aec784cf2119b5d4486cd4927a88dfc9a6071d97.jpg",
+          "hidden": false,
           "percent": "30.0"
         },
         "0052": {
@@ -2605,6 +2849,7 @@
           "description": "Unlock a new character",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/55c6d423b5e267dd47466152d6c550f5564dc931.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/55c6d423b5e267dd47466152d6c550f5564dc931.jpg",
+          "hidden": false,
           "percent": "77.9"
         },
         "0053": {
@@ -2612,6 +2857,7 @@
           "description": "Get an appraisal from Zathba",
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/2eb9e7a47df7e511ea81394e7a172c146c4760e2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/890a0249834f64cf47c6bb625e1bceafb1507f89.jpg",
+          "hidden": false,
           "percent": "51.5"
         }
       }
