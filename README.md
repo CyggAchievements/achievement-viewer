@@ -1,10 +1,5 @@
 # Steam Achievement Viewer
 
-I wanted to make a "profile-like" page for my GBE achievements.
-So far this is what I achieved.
-
-----------------------------------------------------------------------------
-
 ## 🚀 Setup Instructions
 
 ### 1. Fork this Repository
