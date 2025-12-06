@@ -189,4 +189,4 @@ Free to use and modify!
 
 ---
 
-Made for GBE fork users with Claude.
+Made for GBE fork users with Claude AI.
