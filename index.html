@@ -989,7 +989,11 @@ for (let appId of appIds) {
                     const aUnlocked = a.achievements.filter(x => x.unlocked).length;
                     const aTotal = a.achievements.length;
                     const bUnlocked = b.achievements.filter(x => x.unlocked).length;
-                    const bTotal = b.achievements.length;                                    
+                    const bTotal = b.achievements.length;
+                    
+                    // Calculate rounded percentage (0-100)
+                    const aPercent = aTotal > 0 ? Math.round((aUnlocked / aTotal) * 100) : 0;
+                    const bPercent = bTotal > 0 ? Math.round((bUnlocked / bTotal) * 100) : 0;
                     
                     // If percentages are equal, sort by name alphabetically
                     if (aPercent === bPercent) {
