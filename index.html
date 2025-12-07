@@ -986,13 +986,13 @@ for (let appId of appIds) {
             } else {
                 // Sort by completion percentage (default)
                 sortedGames = Array.from(gamesData.values()).sort((a, b) => {
-                    const aPercent = a.achievements.length > 0 ? 
-                        a.achievements.filter(x => x.unlocked).length / a.achievements.length : 0;
-                    const bPercent = b.achievements.length > 0 ? 
-                        b.achievements.filter(x => x.unlocked).length / b.achievements.length : 0;
+                    const aUnlocked = a.achievements.filter(x => x.unlocked).length;
+                    const aTotal = a.achievements.length;
+                    const bUnlocked = b.achievements.filter(x => x.unlocked).length;
+                    const bTotal = b.achievements.length;                                    
                     
                     // If percentages are equal, sort by name alphabetically
-                    if (Math.abs(aPercent - bPercent) < 0.001) { // Use small threshold for floating point comparison
+                    if (aPercent === bPercent) {
                         return a.name.localeCompare(b.name);
                     }
                     
