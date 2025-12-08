@@ -57,7 +57,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9093ee5b02a988b32deedd9fe89b72c733ba0bf6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": false,
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "FK_DEFEAT": {
       "name": "Falsehood",
@@ -185,7 +185,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/378ed9b1dcccd43bfbf39295b17caad3fb398c64.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
       "hidden": false,
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "NEGLECT": {
       "name": "Neglect",
@@ -217,7 +217,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/b2de92ce9fadeae94fc2b25f116a95ff575047d2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/bebc7daebbce3dd0cef06f83e0b4ae69975062cc.jpg",
       "hidden": true,
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "MOURNER": {
       "name": "Solace",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/96d2673f15230fb83dd61384eb05458f1e0475bc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "TEACHER": {
       "name": "Teacher",
@@ -265,7 +265,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4e6e4ddce73c59559901d5bc7c86481d36a45988.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9a7f425e2757c29513ef86473b76fa093c9e7c0e.jpg",
       "hidden": false,
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "BEAST": {
       "name": "Beast",
@@ -289,7 +289,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/11d67c16467ae72066c2a3d33388325c65e9f7f7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9f9fca30082bf6d65e8beb8cf5eb9955c0ed0bbf.jpg",
       "hidden": false,
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "COLOSSEUM_2": {
       "name": "Conqueror",
@@ -305,7 +305,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/29d538fcf448baafe7bb427d7788b416f0e2e00f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/cf3a66560ca2f5a33665283ef854e518b7c8269e.jpg",
       "hidden": false,
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "ENDING_A": {
       "name": "The Hollow Knight",
@@ -313,7 +313,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/39db59cf079011e52d49a621de9c540652f9d2d4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/f62b5c62df1ccfcf68b18da288ee220e6bc34b2b.jpg",
       "hidden": true,
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "ENDING_B": {
       "name": "Sealed Siblings",
@@ -425,7 +425,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/ea0958727cca3be88c8e200f7c3008fa01775ccd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/53bbcbddf3f54a192796ae729edd1b56e9190fc0.jpg",
       "hidden": true,
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "GREY_PRINCE": {
       "name": "Dark Romance",
@@ -465,7 +465,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9937e1fabc4f0ea2feebafd0b6f20c025b52aeec.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
       "hidden": true,
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "PANTHEON2": {
       "name": "Inspiration",
