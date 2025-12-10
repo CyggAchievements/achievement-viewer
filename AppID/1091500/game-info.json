@@ -53,7 +53,7 @@
     },
     "TheDevil": {
       "name": "The Devil",
-      "description": "Help Takemura avenge the death of Saburo Arasaka.",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
@@ -113,7 +113,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "BushidoAndChill": {
       "name": "Bushido and Chill",
@@ -305,7 +305,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "TrueSoldier": {
       "name": "True Soldier",
@@ -321,7 +321,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "Denied": {
       "name": "Right Back At Ya",
@@ -381,7 +381,7 @@
     },
     "KingOfTheSwords": {
       "name": "King of Swords",
-      "description": "Take Songbird home.",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
@@ -397,7 +397,7 @@
     },
     "Kingmaker": {
       "name": "Spin Doctor",
-      "description": "Complete “Run This Town”.",
+      "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
