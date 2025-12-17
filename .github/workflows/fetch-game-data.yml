@@ -1,13 +1,8 @@
 name: Fetch Steam Game Data
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    paths:
-      - 'AppID/**/achievements.json'
-      - 'AppID/**/*.db'
+  workflow_call: {}  # reusable
+  workflow_dispatch: # callable from other branches
 
 permissions:
   contents: write
@@ -16,7 +11,6 @@ jobs:
   fetch-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
@@ -44,7 +38,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: Update TOP_OWNER_IDS (scheduled only)
-        if: github.event_name == 'schedule'
+        if: ${{ github.event_name == 'schedule' }}
         run: python /tmp/scripts/update_top_owners.py
 
       - name: Fetch game data
@@ -55,21 +49,27 @@ jobs:
 
       - name: Commit changes
         run: |
+          set -e
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # Pull latest changes from 'user' branch first
-          git pull --rebase origin user || true
-          
-          # Add top_owners.json always (to save it if created/updated)
-          git add top_owners.json || true
-          
-          # Add game data
-          git add AppID/*/game-info.json game-data.json
-          
-          # Only commit if there are changes
-          if ! git diff --quiet HEAD; then
-            git commit -m "Update game data [skip ci]"
-            git push origin user
-          else
+
+          git add top_owners.json 2>/dev/null || true
+          git add AppID/*/game-info.json game-data.json 2>/dev/null || true
+
+          # Exit early if nothing changed
+          if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit"
+            exit 0
+          fi
+
+          # Temporary commit
+          git commit -m "CI temp commit"
+
+          # Rebase onto latest remote
+          git fetch origin user
+          git rebase origin/user
+
+          # Rename commit
+          git commit --amend -m "Update game data [skip ci]"
+
+          git push origin user
