@@ -7,4 +7,6 @@ on:
 
 jobs:
   call-main:
+    permissions:
+      contents: write
     uses: ./.github/workflows/fetch-game-data.yml
