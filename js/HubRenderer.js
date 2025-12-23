@@ -1,5 +1,5 @@
 const CACHE_KEY = 'forks-cache-v1';
-const CACHE_TTL = 60 * 60 * 1000; // 1 hour
+const CACHE_TTL = 10 * 60 * 1000; // 10 minutes
 
 const fetchJSON = (url) => fetch(url).then((r) => (r.ok ? r.json() : null));
 
