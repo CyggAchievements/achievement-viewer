@@ -359,6 +359,22 @@ for appid in appids:
     print(f"\nProcessing AppID {appid}...")
     base_path = appid_dir / appid
 
+    # Detect platform file
+    platform_files = list(base_path.glob("*.platform"))
+    game_info["platform"] = platform_files[0].stem if platform_files else None
+
+    # Load blacklist
+    blacklist_file = base_path / "blacklist"
+    current_blacklist = (
+        [
+            line.strip()
+            for line in open(blacklist_file, "r", encoding="utf-8")
+            if line.strip()
+        ]
+        if blacklist_file.exists()
+        else []
+    )
+
     skip_file = base_path / "skip"
     if skip_file.exists():
         print(f"  ! 'skip' file found, skipping data fetch for {appid}")
@@ -387,22 +403,6 @@ for appid in appids:
         "achievements": {},
     }
     game_info["uses_db"] = (base_path / f"{appid}.db").exists()
-
-    # Detect platform file
-    platform_files = list(base_path.glob("*.platform"))
-    game_info["platform"] = platform_files[0].stem if platform_files else None
-
-    # Load blacklist
-    blacklist_file = base_path / "blacklist"
-    game_info["blacklist"] = (
-        [
-            line.strip()
-            for line in open(blacklist_file, "r", encoding="utf-8")
-            if line.strip()
-        ]
-        if blacklist_file.exists()
-        else []
-    )
 
     # --- Fetch data --- #
     # Steam Store Info
