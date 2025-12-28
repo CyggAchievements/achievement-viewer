@@ -17,7 +17,8 @@ async function resolveRootRepo(owner, repo) {
   if (info.fork && info.parent) {
     return { owner: info.parent.owner.login, repo: info.parent.name };
   }
-  return { owner, repo };
+  // Return the actual cased login from the API, not the URL-based guess
+  return { owner: info.owner.login, repo: info.name };
 }
 
 async function fetchAllForks(owner, repo) {
