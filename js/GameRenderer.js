@@ -6,7 +6,8 @@ import {
     compareAchievements, 
     renderComparisonView,
     setupComparisonFilters,
-    selectComparisonUser
+    selectComparisonUser,
+    getStoredUsername
 } from './GameCompare.js';
 
 // Displaying games
@@ -452,24 +453,28 @@ export function handleDeepLink() {
 window.enableCompareMode = async function() {
     const { appId, game } = window.currentGameData;
     
-    // Show user selection modal
-    const selected = await selectComparisonUser();
+    // 1. Check if we already have a stored user
+    const storedUser = getStoredUsername();
     
-    if (!selected) {
-        // User cancelled
-        return;
+    // 2. Only show the selection modal if NO user is stored
+    if (!storedUser) {
+        const selected = await selectComparisonUser();
+        if (!selected) {
+            // User cancelled the modal
+            return;
+        }
     }
     
-    // Show loading state
+    // 3. Proceed immediately to loading (uses the stored user automatically)
     window.currentGameData.compareMode = true;
-    renderGameDetail();
+    renderGameDetail(); // Shows the view (loading state)
     
-    // Load own data
+    // Load data
     const ownData = await loadOwnGameData(appId);
     const comparisonData = compareAchievements(game, ownData);
     
     window.currentGameData.comparisonData = comparisonData;
-    renderGameDetail();
+    renderGameDetail(); // Renders the final results
 };
 
 // Disable comparison mode
