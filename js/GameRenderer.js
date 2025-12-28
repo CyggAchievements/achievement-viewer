@@ -61,7 +61,7 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
                          onerror="this.src='https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg'">
                     
                     <h2 style="color: #66c0f4; margin: 0;">
-                        <span style="text-transform: capitalize;">${window.githubUsername}</span>'s summary
+                        <span>${window.githubUsername}</span>'s summary
                     </h2>
                 </div>
 
