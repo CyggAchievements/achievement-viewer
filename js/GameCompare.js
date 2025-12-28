@@ -50,6 +50,7 @@ export function isOwnProfile() {
 export async function selectComparisonUser() {
     const currentProfileUser = getPageOwner();
     
+    // Create modal overlay
     const modal = document.createElement('div');
     modal.className = 'comparison-modal-overlay';
     modal.innerHTML = `
@@ -74,8 +75,11 @@ export async function selectComparisonUser() {
     
     document.body.appendChild(modal);
     
+    // Fetch users
     const users = await fetchAvailableUsers();
-    const availableUsers = users; // Show everyone
+    
+    // ✅ Show ALL users (including the current page owner)
+    const availableUsers = users;
     
     if (availableUsers.length === 0) {
         modal.querySelector('.comparison-modal-body').innerHTML = `
@@ -87,8 +91,10 @@ export async function selectComparisonUser() {
         return null;
     }
     
+    // Get stored username to highlight it
     const storedUsername = getStoredUsername();
     
+    // Build user list
     const userListHTML = availableUsers.map(user => {
         const isSelected = storedUsername && storedUsername.toLowerCase() === user.login.toLowerCase();
         return `
@@ -111,6 +117,7 @@ export async function selectComparisonUser() {
         </div>
     `;
     
+    // Return a promise that resolves when user selects
     return new Promise((resolve) => {
         const userItems = modal.querySelectorAll('.comparison-user-item');
         userItems.forEach(item => {
@@ -120,6 +127,8 @@ export async function selectComparisonUser() {
                 setStoredUsername(username);
                 modal.remove();
                 
+                // If we identify ourselves as the owner of the current page,
+                // reload immediately so the Compare Button disappears.
                 if (username.toLowerCase() === currentProfileUser.toLowerCase()) {
                     window.location.reload(); 
                 } else {
@@ -128,11 +137,13 @@ export async function selectComparisonUser() {
             });
         });
         
+        // Cancel button
         modal.querySelector('.cancel').addEventListener('click', () => {
             modal.remove();
             resolve(null);
         });
         
+        // Close on overlay click
         modal.addEventListener('click', (e) => {
             if (e.target === modal) {
                 modal.remove();
@@ -143,7 +154,7 @@ export async function selectComparisonUser() {
 }
 
 /**
- * Fetches all available users from the hub
+ * Fetches all available users from the hub (root repo + forks)
  */
 async function fetchAvailableUsers() {
     try {
@@ -152,9 +163,11 @@ async function fetchAvailableUsers() {
         let owner, repo;
         
         if (host.endsWith('.github.io') && path.length > 0) {
+            // Live Site Logic
             owner = host.replace('.github.io', '');
             repo = path[0];
         } else {
+            // Localhost Fallback Logic
             owner = 'Roschach96'; 
             repo = 'achievement-viewer';
         }
@@ -162,6 +175,7 @@ async function fetchAvailableUsers() {
         const repoInfo = await fetch(`https://api.github.com/repos/${owner}/${repo}`).then(r => r.ok ? r.json() : null);
         if (!repoInfo) return [];
         
+        // Find the absolute root (if Roschach96 was a fork, find the parent, otherwise use Roschach96)
         const rootOwner = repoInfo.fork && repoInfo.parent ? repoInfo.parent.owner.login : repoInfo.owner.login;
         const rootRepo = repoInfo.fork && repoInfo.parent ? repoInfo.parent.name : repoInfo.name;
         
@@ -197,6 +211,7 @@ async function fetchAvailableUsers() {
  */
 export async function loadOwnGameData(appId) {
     const ownUsername = getStoredUsername();
+    
     if (!ownUsername) return null;
     
     const cacheKey = `${ownUsername}_${appId}`;
@@ -371,11 +386,11 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
         </div>
 
         <div class="comparison-filters">
-            <button class="comparison-filter-btn active" data-filter="all">All</button>
-            <button class="comparison-filter-btn" data-filter="both-unlocked">Both</button>
-            <button class="comparison-filter-btn" data-filter="you-only">You Only</button>
-            <button class="comparison-filter-btn" data-filter="they-only">Them Only</button>
-            <button class="comparison-filter-btn" data-filter="both-locked">Locked</button>
+            <button class="comparison-filter-btn active" data-filter="all">All (${stats.total})</button>
+            <button class="comparison-filter-btn" data-filter="both-unlocked">Both (${stats.bothUnlocked})</button>
+            <button class="comparison-filter-btn" data-filter="you-only">You Only (${stats.youOnly})</button>
+            <button class="comparison-filter-btn" data-filter="they-only">Them Only (${stats.theyOnly})</button>
+            <button class="comparison-filter-btn" data-filter="both-locked">Locked (${stats.bothLocked})</button>
         </div>
 
         <div class="comparison-achievements" id="comparison-achievements-list">
@@ -391,7 +406,6 @@ function renderComparisonAchievement(ach) {
     const isHidden = ach.hidden === true || ach.hidden === 1;
     const hasDescription = ach.description && ach.description.trim() !== '';
     
-    // 1. Text Fix: Changed "Hidden:" to "Hidden achievement:" to match normal view
     let descriptionHTML = '';
     
     if (isHidden) {
@@ -432,7 +446,6 @@ function renderComparisonAchievement(ach) {
             break;
     }
 
-    // 2. Icon Logic Fix: Now correctly handles gray icons for locked achievements
     // Logic: If the achievement is colored (unlocked for ANYONE), use colored icon.
     // If it's 'both-locked', use the gray icon.
     const showColor = ach.status !== 'both-locked';
