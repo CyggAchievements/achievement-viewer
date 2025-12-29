@@ -1,5 +1,4 @@
 import { getGitHubUserInfo } from './utils.js';
-import { checkPassport } from './GameCompare.js';
 
 let userInfo = getGitHubUserInfo();
 let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
@@ -19,12 +18,12 @@ export async function loadGamesFromAppIds(appIds) {
 
             // Try achievements.json first
             let achievementsPath = `AppID/${appId}/achievements.json`;
-      let achResponse = await fetch(baseUrl + achievementsPath);
+            let achResponse = await fetch(baseUrl + achievementsPath);
             
             // Fallback to .db file
             if (!achResponse.ok) {
                 achievementsPath = `AppID/${appId}/${appId}.db`;
-        achResponse = await fetch(baseUrl + achievementsPath);
+                achResponse = await fetch(baseUrl + achievementsPath);
             }
             
             if (!achResponse.ok) continue;
@@ -49,7 +48,7 @@ export async function loadGamesFromAppIds(appIds) {
             let gameInfo = null;
             try {
                 const infoPath = `AppID/${appId}/game-info.json`;
-        const infoResponse = await fetch(baseUrl + infoPath);
+                const infoResponse = await fetch(baseUrl + infoPath);
                 if (infoResponse.ok) {
                     gameInfo = await infoResponse.json();
                 }
@@ -153,85 +152,84 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
 
 // Initialization
 export async function init() {
-  // Check for "Passport" (visitor username in URL)
-  checkPassport();
+    // Removed checkPassport call as we now rely only on URL parameters
 
-  document.getElementById('loading').style.display = 'block';
+    document.getElementById('loading').style.display = 'block';
 
-  if (!userInfo) {
-    userInfo = getGitHubUserInfo();
-    baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
-  }
-  // --- NEW: Fetch correct casing from GitHub API (Hub Logic) ---
-  try {
-    // Only try to fetch if we are actually on a GitHub Pages site (not local/default)
-    if (userInfo.username !== 'User') {
-        const repoResponse = await fetch(`https://api.github.com/repos/${userInfo.username}/${userInfo.repo}`);
-        if (repoResponse.ok) {
-            const repoData = await repoResponse.json();
-            
-            // Apply the correctly cased username and repo name
-            userInfo.username = repoData.owner.login;
-            userInfo.repo = repoData.name;
-            
-            // Update the base URL with the corrected names
-            baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
+    if (!userInfo) {
+        userInfo = getGitHubUserInfo();
+        baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
+    }
+    // --- NEW: Fetch correct casing from GitHub API (Hub Logic) ---
+    try {
+        // Only try to fetch if we are actually on a GitHub Pages site (not local/default)
+        if (userInfo.username !== 'User') {
+            const repoResponse = await fetch(`https://api.github.com/repos/${userInfo.username}/${userInfo.repo}`);
+            if (repoResponse.ok) {
+                const repoData = await repoResponse.json();
+                
+                // Apply the correctly cased username and repo name
+                userInfo.username = repoData.owner.login;
+                userInfo.repo = repoData.name;
+                
+                // Update the base URL with the corrected names
+                baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
+            }
         }
+    } catch (e) {
+        console.log('Could not fetch repo info for casing correction', e);
     }
-  } catch (e) {
-    console.log('Could not fetch repo info for casing correction', e);
-  }
-  // -----------------------------------------------------------
+    // -----------------------------------------------------------
 
-  window.githubUsername = userInfo.username;
-  window.githubAvatarUrl = userInfo.avatarUrl;
+    window.githubUsername = userInfo.username;
+    window.githubAvatarUrl = userInfo.avatarUrl;
 
-try {
-    // Loading gamercard.html
-    const cardResponse = await fetch(baseUrl + 'gamercard.html');
-    if (cardResponse.ok) {
-      window.gamerCardHTML = await cardResponse.text();
+    try {
+        // Loading gamercard.html
+        const cardResponse = await fetch(baseUrl + 'gamercard.html');
+        if (cardResponse.ok) {
+            window.gamerCardHTML = await cardResponse.text();
+        }
+    } catch (e) {
+        console.log('No custom gamercard found');
     }
-  } catch (e) {
-    console.log('No custom gamercard found');
-  }
     
-  try {
-    const currentUrl = window.location.href;
-    const repoMatch = currentUrl.match(/github\.io\/([^\/]+)/);
+    try {
+        const currentUrl = window.location.href;
+        const repoMatch = currentUrl.match(/github\.io\/([^\/]+)/);
 
-    if (repoMatch) {
-      const apiUrl = `https://api.github.com/repos/${userInfo.username}/${userInfo.repo}/contents/AppID`;
-      const response = await fetch(apiUrl);
+        if (repoMatch) {
+            const apiUrl = `https://api.github.com/repos/${userInfo.username}/${userInfo.repo}/contents/AppID`;
+            const response = await fetch(apiUrl);
 
-      if (response.ok) {
-        const contents = await response.json();
-        const appIds = contents
-          .filter((item) => item.type === 'dir')
-          .map((item) => item.name)
-          .filter((name) => /^\d+$/.test(name));
+            if (response.ok) {
+                const contents = await response.json();
+                const appIds = contents
+                    .filter((item) => item.type === 'dir')
+                    .map((item) => item.name)
+                    .filter((name) => /^\d+$/.test(name));
 
-        if (appIds.length > 0) {
-          await loadGamesFromAppIds(appIds);
-          return;
+                if (appIds.length > 0) {
+                    await loadGamesFromAppIds(appIds);
+                    return;
+                }
+            }
         }
-      }
-    }
 
-    // Fallback to game-data.json
-    const dataResponse = await fetch(baseUrl + 'game-data.json');
-    if (dataResponse.ok) {
-      const gameData = await dataResponse.json();
-      await loadGamesFromData(gameData);
-      return;
-    }
+        // Fallback to game-data.json
+        const dataResponse = await fetch(baseUrl + 'game-data.json');
+        if (dataResponse.ok) {
+            const gameData = await dataResponse.json();
+            await loadGamesFromData(gameData);
+            return;
+        }
 
-    throw new Error('Could not scan AppID folders');
-  } catch (error) {
-    console.error('Error scanning folders:', error);
-    document.getElementById('loading').style.display = 'none';
-    document.getElementById('info').style.display = 'block';
-    document.getElementById('results').innerHTML = `
+        throw new Error('Could not scan AppID folders');
+    } catch (error) {
+        console.error('Error scanning folders:', error);
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('info').style.display = 'block';
+        document.getElementById('results').innerHTML = `
             <div class="error">
                 <h3>⚠️ Could not auto-scan folders</h3>
                 <p style="margin-top: 15px;">Make sure you have:</p>
@@ -242,5 +240,5 @@ try {
                 </ol>
             </div>
         `;
-  }
+    }
 }
