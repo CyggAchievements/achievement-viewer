@@ -876,11 +876,11 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
 }
 
 .comparison-both {
-    border-left-color: #66c0f4;
+    border-left-color: #90EE90;
 }
 
 .comparison-you-only {
-    border-left-color: #90EE90;
+    border-left-color: #66c0f4;
 }
 
 .comparison-they-only {
@@ -904,15 +904,15 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
 }
 
 .badge-both {
-    background: rgba(102, 192, 244, 0.2);
-    color: #66c0f4;
-    border: 1px solid #66c0f4;
-}
-
-.badge-you {
     background: rgba(144, 238, 144, 0.2);
     color: #90EE90;
     border: 1px solid #90EE90;
+}
+
+.badge-you {
+    background: rgba(102, 192, 244, 0.2);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
 }
 
 .badge-them {
@@ -935,7 +935,7 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
 }
 
 .unlock-time-you {
-    color: #90EE90;
+    color: #66c0f4;
 }
 
 .unlock-time-them {

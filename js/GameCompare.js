@@ -197,11 +197,11 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
             
             <div class="comparison-stats">
                 <div class="comparison-stat">
-                    <div class="stat-value" style="color: #66c0f4;">${stats.bothUnlocked}</div>
+                    <div class="stat-value" style="color: #90EE90;">${stats.bothUnlocked}</div>
                     <div class="stat-label">Both</div>
                 </div>
                 <div class="comparison-stat">
-                    <div class="stat-value" style="color: #90EE90;">${stats.youOnly}</div>
+                    <div class="stat-value" style="color: #66c0f4;">${stats.youOnly}</div>
                     <div class="stat-label">You Only</div>
                 </div>
                 <div class="comparison-stat">
