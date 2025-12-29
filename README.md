@@ -111,37 +111,24 @@ your-repo/ (user branch)
 └── top_owners.json                    # (Auto-generated) Auto-generated and auto-updated by workflow
 ```
 
-## 🎮 Features
-
-- **Automatic Steam Integration** - Fetches game names, icons, and achievement details
-- **Hidden Achievement Support** - Retrieves hidden achievement descriptions
-- **Rarity Display** - Shows how many players have each achievement
-- **Golden Glow** - Rare achievements (<10%) get a special animated effect
-- **Spoiler Protection** - Hidden achievements show spoiler text (hover to reveal)
-- **Sorting Options** - Sort by completion % or recent activity
-- **Perfect Games Tracking** - Shows your 100% completed games
-- **Responsive Design** - Works on desktop and mobile
-- **The Hub feature** - A community interface. Everybody who forks the [main repo](https://github.com/Roschach96/achievement-viewer) automatically gets added to it.
-- **Compare achievements** - On every user's profile you have to select yourself so the website knows who you are. (Even on yours, but then the button disappears because no point in comparing to yourself)
-
 ## 🔧 Customization
 
 The viewer automatically uses:
 
-- **Your GitHub username** in the header (capitalized)
+- **Your GitHub username** in the header
 - **Your GitHub profile picture** as the avatar
 
 These are detected automatically from your repository URL!
 
 ## 🔄 Updating Achievement Data
 
-### Manual Update
+### Manual Update (only for the uploaded game)
 
 1. Edit/replace files in `AppID/[Steam AppID]/achievements.json`
 2. Commit and push changes
 3. Site updates automatically within minutes
 
-### Automatic Update (if workflow is set up)
+### Automatic Update (for all games)
 
 The workflow runs daily at midnight UTC, or manually:
 
@@ -158,11 +145,7 @@ The workflow runs daily at midnight UTC, or manually:
 
 ### Optional (Enhanced Features):
 
-⭐ GitHub Actions workflow → Auto-updates game data daily
-⭐ `game-info.json` files → Auto-generated, contains game names/icons/rarity
-⭐ `game-data.json` → Auto-generated, combines all achievements data from [Steam AppID] folders
-
-**You can use this viewer with JUST the achievements.json files!** The workflow is optional for enhanced features.
+⭐ You can see all optional files in the "AppID/_appid_" folder in this main branch. (remove .example from them and use them as it is written inside them)
 
 ## 📝 Notes
 
@@ -174,28 +157,37 @@ The workflow runs daily at midnight UTC, or manually:
 
 **No games showing?**
 
-- Check that your `AppID/*/` folder has any supported format achievement data files as mentioned in the `Supported Formats` section.
+- Check that your `AppID/*/` folder has any supported format achievement data files as mentioned in the [Supported Formats](https://github.com/Roschach96/achievement-viewer/tree/main?tab=readme-ov-file#supported-formats-only-one-is-needed-per-game) section.
 - Verify the files are valid (use a json or db etc. validator, depending on the file)
 - Check browser console for errors (F12)
 
 **Games show but no names/icons?**
 
-- This is normal without the workflow
-- Manually create `game-info.json` files
+- Most likely Steam is using another Steam AppID for that game.
+(Example: for Dishonored the correct Steam AppID is 205100, because 217980 somehow doesn't work. You can check these things with SteamDB, you can check there if there are multiple AppIDs if you enter the game's name)
 
 **Profile picture not showing?**
 
 - Falls back to default Steam logo if GitHub avatar unavailable
 - Check that your GitHub profile is public
 
-**Hidden achievements show "Hidden achievement"?**
-
-- Without workflow: Expected, descriptions aren't in your achievement files
-
 **Workflow not running?**
 
 - Verify the workflow file exists at `.github/workflows/fetch-game-data.yml`
 - Check Actions tab for error messages
+
+## 🎮 Features
+
+- **Automatic Steam Integration** - Fetches game names, icons, and achievement details
+- **Hidden Achievement Support** - Retrieves hidden achievement descriptions
+- **Rarity Display** - Shows how many players have each achievement
+- **Golden Glow** - Rare achievements (<10%) get a special animated effect
+- **Spoiler Protection** - Hidden achievements show spoiler text (hover to reveal)
+- **Sorting Options** - Sort by completion % or recent activity
+- **Perfect Games Tracking** - Shows your 100% completed games
+- **Responsive Design** - Works on desktop and mobile
+- **The Hub feature** - A community interface. Everybody who forks the [main repo](https://github.com/Roschach96/achievement-viewer) automatically gets added to it.
+- **Compare achievements** - You have to select yourself on every user's profile once so the website will know who you are. (Even on yours, but then the button disappears because no point in comparing to yourself. This is saved to "Cookies and Site Data")
 
 ## 📄 License
 
