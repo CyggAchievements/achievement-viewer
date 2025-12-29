@@ -449,8 +449,15 @@ export function setGridSortMode(mode) {
 export function handleDeepLink() {
     const params = new URLSearchParams(window.location.search);
     const appId = params.get('game');
+    const vsUser = params.get('vs');
+
     if (appId && gamesData.has(appId)) {
         showGameDetail(appId, false);
+
+        // If 'vs' parameter is present, automatically enable comparison mode
+        if (vsUser) {
+            window.enableCompareMode();
+        }
     }
 }
 

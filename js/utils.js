@@ -30,7 +30,7 @@ export function formatUnlockDate(timestamp) {
 // ==========================================
 
 const CACHE_KEY = 'forks-cache-v1';
-const CACHE_TTL = 10 * 60 * 1000; // 10 minutes
+const CACHE_TTL = 30 * 60 * 1000; // 30 minutes
 
 // Shared fetch helper
 export const fetchJSON = (url) => fetch(url).then((r) => (r.ok ? r.json() : null));
