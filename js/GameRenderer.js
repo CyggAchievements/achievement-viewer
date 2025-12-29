@@ -88,6 +88,9 @@ export function displayGames() {
 
     // Render games grid
     renderGamesGrid(resultsDiv);
+    
+    // ✅ Backup call to adjust card heights
+    setTimeout(adjustCardHeights, 50);
 }
 
 function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, totalAchievements, overallPercentage) {
@@ -193,16 +196,16 @@ function renderGamesGrid(resultsDiv) {
                 
                 // 3. Check Platform
                 if (currentSearchType === 'platform') {
-                const platform = game.platform || (game.usesDb ? 'Steam' : '');
+                    const platform = game.platform || (game.usesDb ? 'Steam' : '');
                     return platform.toLowerCase().includes(term);
                 }
                 
                 // 4. Check Achievements
                 if (currentSearchType === 'achievement') {
                     return game.achievements.some(ach => 
-                    (ach.name && ach.name.toLowerCase().includes(term)) || 
-                    (ach.description && ach.description.toLowerCase().includes(term)) ||
-                    (ach.apiname && ach.apiname.toLowerCase().includes(term))
+                        (ach.name && ach.name.toLowerCase().includes(term)) || 
+                        (ach.description && ach.description.toLowerCase().includes(term)) ||
+                        (ach.apiname && ach.apiname.toLowerCase().includes(term))
                     );
                 }
 
@@ -210,7 +213,6 @@ function renderGamesGrid(resultsDiv) {
             });
         }
     }
-    // --- NEW FILTERING LOGIC END ---
 
     if (sortedGames.length === 0) {
         let typeLabel = "Game Name";
@@ -222,13 +224,12 @@ function renderGamesGrid(resultsDiv) {
                     No games found matching "${currentSearchTerm}" in <strong>${typeLabel}</strong>
                  </div>`;
     } else {
-    for (let game of sortedGames) {
-            // ... render card ...
-        const unlocked = game.achievements.filter(a => a.unlocked).length;
-        const total = game.achievements.length;
-        const percentage = calculatePercentage(unlocked, total);
+        for (let game of sortedGames) {
+            const unlocked = game.achievements.filter(a => a.unlocked).length;
+            const total = game.achievements.length;
+            const percentage = calculatePercentage(unlocked, total);
 
-        html += renderGameCard(game, percentage);
+            html += renderGameCard(game, percentage);
         }
     }
 
@@ -240,6 +241,9 @@ function renderGamesGrid(resultsDiv) {
     if (searchInput && currentSearchTerm && isSearchOpen) {
         searchInput.focus();
     }
+
+    // ✅ Adjust card heights based on platform labels
+    adjustCardHeights();
 }
 
 // UPDATED: sortGames now handles 'name'
@@ -620,3 +624,28 @@ window.disableCompareMode = function() {
     window.currentGameData.comparisonData = null;
     renderGameDetail();
 };
+
+// ✅ Adjust card heights dynamically
+function adjustCardHeights() {
+    // Check if ANY game card has a platform label with content
+    const allGameCards = document.querySelectorAll('.game-card');
+    let hasPlatformLabel = false;
+    
+    allGameCards.forEach(card => {
+        const platformLabel = card.querySelector('.game-source');
+        if (platformLabel && platformLabel.textContent.trim() !== '') {
+            hasPlatformLabel = true;
+        }
+    });
+    
+    // Apply the uniform-height class only if at least one card has a platform
+    if (hasPlatformLabel) {
+        allGameCards.forEach(card => {
+            card.classList.add('uniform-height');
+        });
+    } else {
+        allGameCards.forEach(card => {
+            card.classList.remove('uniform-height');
+        });
+    }
+}

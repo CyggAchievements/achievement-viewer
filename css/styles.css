@@ -1242,3 +1242,12 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
     min-width: 44px; /* Standard touch target size */
     padding: 8px 12px;
 }
+
+/* Conditional uniform height for game cards */
+.game-card.uniform-height .game-info {
+    min-height: 90px;
+}
+
+.game-card.uniform-height .game-source {
+    min-height: 1.2em;
+}
