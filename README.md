@@ -122,6 +122,7 @@ your-repo/ (user branch)
 - **Perfect Games Tracking** - Shows your 100% completed games
 - **Responsive Design** - Works on desktop and mobile
 - **The Hub feature** - A community interface. Everybody who forks the [main repo](https://github.com/Roschach96/achievement-viewer) automatically gets added to it.
+- **Compare achievements** - On every user's profile you have to select yourself so the website knows who you are. (Even on yours, but then the button disappears because no point in comparing to yourself)
 
 ## 🔧 Customization
 
