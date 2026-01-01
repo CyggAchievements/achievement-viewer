@@ -1,0 +1,306 @@
+{
+  "appid": "1465360",
+  "name": "SnowRunner",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg?t=1766502726",
+  "achievements": {
+    "29": {
+      "name": "\"All Along the Watchtower\"",
+      "description": "Explore all watchtowers in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/473a1fadbe88c8f290f187cf8f509c07c2834e2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/3bf42a02c2d50f9d202211050ecef7ad2554c720.jpg",
+      "hidden": false,
+      "percent": "6.2"
+    },
+    "24": {
+      "name": "\"Stars and Stripes\"",
+      "description": "Own every american vehicle in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/754219bd79e4d3942c650bb63ea3abb5f94254ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c7e077bee80067ab71dc74735b2dd38a79d89eac.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "20": {
+      "name": "18 Wheels is Not Enough",
+      "description": "Own a Azov 42-20 Antarctic",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/822f5bac193deca1f00d1efae4629e1d4ccce245.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c97b620224804669a4cee562705062e17523dc9c.jpg",
+      "hidden": false,
+      "percent": "12.1"
+    },
+    "36": {
+      "name": "Ain't no rest for the...trucker?",
+      "description": "Complete every task and contest in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/ee0231cae74dda5035cea572d5f21f24eb93a778.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/21a694fe066a8dbcf6002b0f4d8c9c1ab809680f.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "30": {
+      "name": "All Starts From a Garage",
+      "description": "Explore all garages in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/e634aa6d20fd39c72978ee8c8aaadba2efc9f745.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/ca39d7fdaee619406e5146341d5355ba956e34f9.jpg",
+      "hidden": false,
+      "percent": "9.2"
+    },
+    "9": {
+      "name": "Bear Hunt",
+      "description": "Find all upgrades in Taymyr",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/1c2ee7adfda31e88bef275ee8fec52d06bf15b39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/1532901ed89a3d1b91a05b040bd0ab31d82a9e73.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "32": {
+      "name": "Bering Strait",
+      "description": "Own a TUZ 420 \"Tatarin\" and have it stationed in any garage in Alaska",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/10fa1b2a77b278289b177686e968238d0c448acb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/b9e3b947376a7c4211e144dc2929d82103132ee9.jpg",
+      "hidden": false,
+      "percent": "10.6"
+    },
+    "13": {
+      "name": "Broken Horse",
+      "description": "Drive 1 km with all wheels broken",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/635ebadd0c12616636e2e150b418f223a87f2888.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/a139dcc7002b21884bafbe54faf3505d546a4169.jpg",
+      "hidden": false,
+      "percent": "9.3"
+    },
+    "33": {
+      "name": "Convoy",
+      "description": "Transport a winched vehicle with a broken engine from one map to another and put it into a garage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/4e83beeca5e45e586183eba3b8ae18bbc737fccb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/e036575ddefdccdf863ac71dafd42db82795dc72.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "7": {
+      "name": "Deer Hunt",
+      "description": "Find all upgrades in Michigan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/f017a0ba3c87f2e62c46e575c759e9d894e67364.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/dd4a5660d739b1fffda660cfa4c909521badf235.jpg",
+      "hidden": false,
+      "percent": "12.3"
+    },
+    "28": {
+      "name": "Dreams Come True",
+      "description": "Repair all the pipes in Alaska",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/59dc0e61d2274beff11b7d06a5dd61f7cc30a27e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/16a8f4a6c2cd41251bb87ca2ab5397f53d437889.jpg",
+      "hidden": false,
+      "percent": "9.3"
+    },
+    "10": {
+      "name": "Eat, Sleep, Drill, Repeat",
+      "description": "Deliver all 3 Oil Rigs to their destination points in Alaska",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/4b4737c66e57fe415c985a9c665babb53d6d26c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/0598bf5a15e6afda6819d6a0a9d9f0ef03d3f9cd.jpg",
+      "hidden": false,
+      "percent": "8.9"
+    },
+    "26": {
+      "name": "Fuel Economy",
+      "description": "Travel through every region on a single tank of fuel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/ca06bec71cbee47bb759f4af7f87faf92b59e76c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/279760a95e000c5520814242cb6fbbce5d4d22c4.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "19": {
+      "name": "Gallo-24",
+      "description": "Buy enough upgrades to hit twice the price of the base vehicle you bought them for",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/a6ae80ac3dda4bba90ef38716df3c5ac77c3c562.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/d17dda4802fde66ec2d817b6610219073b909eba.jpg",
+      "hidden": false,
+      "percent": "33.5"
+    },
+    "11": {
+      "name": "Get over here",
+      "description": "Pull yourself with a winch for at least 6 meters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/151d2ceab6c92b1616af37e8e6609890cc5afb30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/9d3965b01c93bb28ee30ccdda2dbcb7307e310c3.jpg",
+      "hidden": false,
+      "percent": "80.3"
+    },
+    "3": {
+      "name": "Goliath",
+      "description": "Use a telescopic crane to raise a special objective semi-trailer at least 5 meters above the ground",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/2b36e126b9ef7924e950549a06de9b55e765b63e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/2a005d165d5c0cc6197d9e5e7967ff7cf84b7e7a.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "35": {
+      "name": "Model Collector",
+      "description": "Own every vehicle in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/ffd523c14592f5087cad0327b32b358fa5f09082.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/6f0e3e58b63097a45023cbe38de07f4b61976c53.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "8": {
+      "name": "Moose Hunt",
+      "description": "Find all upgrades in Alaska",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/204df1f9328fd325936bc11515941b82fccf2ae6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/4df314e10ca0000a96e13250abec4f325ba35c44.jpg",
+      "hidden": false,
+      "percent": "5.3"
+    },
+    "2": {
+      "name": "Once a Farmer always a Farmer",
+      "description": "Smash 500 pumpkins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c84aeeaff0a04e4d4f2fda1db29523847ddc07e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/b210b4645be741e79d12562527d9d119dcaf4fd5.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "31": {
+      "name": "Pedal to the Metal",
+      "description": "Travel from one gateway to another on one map without releasing the accelerator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/4d3636b767508eb00eff81d13d00c1998e52fbb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/fff10a511b16ce73c0cae6061ef3b7d750db0ab8.jpg",
+      "hidden": false,
+      "percent": "5.0"
+    },
+    "6": {
+      "name": "Play Your Way",
+      "description": "Fix 2000 damage points",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/fe1461892070b7cea36a8a3206786f0b1b2c7328.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/96355446185d4e6ac04755370566d14c28d45efc.jpg",
+      "hidden": false,
+      "percent": "26.9"
+    },
+    "17": {
+      "name": "Problem Solved",
+      "description": "Pull a vehicle with a broken engine out of the water with a crane",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/543f921ea154d403447f11cd4797153e73263d6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/f8a6f4598f1e86463c27cc735af98c2dda6f905d.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "14": {
+      "name": "Simply Delivered",
+      "description": "Deliver every type of cargo in the game at least once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/d0b5c0882a66bbbee1ba0e3896749731c8502589.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/b820db138d80bd6ab88ce4c42b9db707e18aefb1.jpg",
+      "hidden": false,
+      "percent": "6.2"
+    },
+    "37": {
+      "name": "The Black Shuck",
+      "description": "Drive through 1000 km",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c6a96d961ec736c9911fe2cebe7cae29ff9c4c6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c6a96d961ec736c9911fe2cebe7cae29ff9c4c6b.jpg",
+      "hidden": false,
+      "percent": "10.4"
+    },
+    "4": {
+      "name": "The Blue Hall",
+      "description": "Drive 1km in the water",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/5bb11eefdebf690ccca27df2f4042aabf9ce183e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c59fd4c5ad139bb59f089b26a1c5a456cab0a5d0.jpg",
+      "hidden": false,
+      "percent": "33.2"
+    },
+    "25": {
+      "name": "The Duel",
+      "description": "Driving a red-coloured scout vehicle, collide with any truck and take less damage than that truck",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/8f6733ebf5063fea883f936de503bff787063d3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/75d50cd61056722d7cd5a2dafcaba140c8ca58ec.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "12": {
+      "name": "Through blood & sweat",
+      "description": "Manually load at least 4 standard cargo units in your truck one after another and pack them ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/725a457b9d9a05d9fba1e167ff93edaeed0cc838.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/0c5ab4aafe28f632333e12f006c9b0b29975fcb7.jpg",
+      "hidden": false,
+      "percent": "9.7"
+    },
+    "16": {
+      "name": "Tread Softly",
+      "description": "Recover your vehicle 10 times or more",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/23e1568a3b56f93698671599bd2b92a3dc0d1115.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/aff5e07f5c0955b9d0a631acbc4246fdae473385.jpg",
+      "hidden": false,
+      "percent": "58.3"
+    },
+    "23": {
+      "name": "Uncle Scrooge",
+      "description": "Earn 100000 currency",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/fb7ef174e766aa19c47e47f2766953cf6b298647.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/e204d6f748d94310a5ea96f2d2402d47be11b996.jpg",
+      "hidden": false,
+      "percent": "52.4"
+    },
+    "18": {
+      "name": "Untouchable",
+      "description": "Complete any 10 tasks or contests without taking any damage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/6ad7401cb00147ff6501666e5f7a0338f4ec64b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/4661c685e628a5d43dfe6686443c1358b0255ad5.jpg",
+      "hidden": false,
+      "percent": "23.0"
+    },
+    "27": {
+      "name": "Victory Parade",
+      "description": "Own every russian vehicle in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/6f5251c9b70bb5d09bf43026276a8110b34cb982.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/fc7ab33808002ea2fc92de9063a778783b3f5cd9.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "22": {
+      "name": "Western Wind",
+      "description": "Use Pacific P12 to deliver at least 10 cargoes in Taymyr",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c111b511f88eafc3819568f55965516203d5b9ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/019da9162b87b2278824b56e9c7c71caad6e7252.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "21": {
+      "name": "What's a mile?",
+      "description": "Use ZiKZ 5368 to deliver at least 10 cargoes in Michigan or Alaska",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/0515264c4ec027e9748342874d060a89ac156b32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/cf8ab909cab44a627c943babebc2bc23c6e422de.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "5": {
+      "name": "Where are the logs?",
+      "description": "Visit every logging area in the game at least once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/6120345e0c1da12dd9cc30c9caa38b0b544c0f4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/42a8665e7d735e85a43feac427ed760c1c304733.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "34": {
+      "name": "Workaholic",
+      "description": "Complete every contract in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/247d83c7fa2095782ee8c296b7058d33212c8242.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/70b296526edfc00516e316d3b4b9c00819f411c7.jpg",
+      "hidden": false,
+      "percent": "6.6"
+    },
+    "15": {
+      "name": "Workers Unite",
+      "description": "Find both Lenin statues in Taymyr",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/3080c367c8722c2419c02a6a985961b6677b0483.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/c422ca1eb9530f3ad1ba8ed376da20f5fb7d060e.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "1": {
+      "name": "Yeah, you can drive!",
+      "description": "All main tutorial hints have been activated at least once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/805dec68fa34e03eab558499c47e78a6051febd6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1465360/1007799fb1078bab117314b362c836502844cb91.jpg",
+      "hidden": false,
+      "percent": "83.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

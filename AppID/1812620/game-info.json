@@ -1,0 +1,274 @@
+{
+  "appid": "1812620",
+  "name": "DSX",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812620/37d8d208f3f53e9148402c319712771b1d37045c/header.jpg?t=1765088095",
+  "achievements": {
+    "ACH_NERD": {
+      "name": "100% Nerd",
+      "description": "Look through all the libs used in DSX.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/7ec35ba7c98b50176ceee8db3d5c8df1f0ffc1d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/590152ab360a0e794bce14ffe1e45b1a8c281f95.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "ACH_ACTIONS_BUTTON_MAPPING": {
+      "name": "Button Architect",
+      "description": "Remap any controller button.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/ca71a3cf4f54c9a43e2634ebdb3df5f75c7e75b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/dd792f1625f3ac79ad509d6ce35256885d5103be.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "ACH_STAT_500K_Combined_Presses": {
+      "name": "Button Legend",
+      "description": "Reach an astounding 500,000 button presses. Your perseverance is legendary!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2be7c20946e607726e3e18401113ddf01bc3b5ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/867ab19d6682eecfbe8d3d21f687fda51c10aa18.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "ACH_STAT_50K_Combined_Presses": {
+      "name": "Button Maestro",
+      "description": "Reach 50,000 button presses. Your skill and dedication are impressive!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/c28f7539256a14a356c7ebe0b7f4dcc0aaedcbc2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e6aea6b5db4708a4d767af691ffb5cbdda741f69.jpg",
+      "hidden": false,
+      "percent": "10.6"
+    },
+    "ACH_STAT_1K_Combined_Presses": {
+      "name": "Button Master",
+      "description": "Reach a total of 1,000 button presses across all buttons combined. Your fingers are unstoppable!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/88403a6cfb95997ce2cf88f50a4b5078ba72e311.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2cb1f7c0b1c762324a46e9cb7f2c22d411a9f8c8.jpg",
+      "hidden": false,
+      "percent": "26.2"
+    },
+    "ACH_STAT_100_Combined_Presses": {
+      "name": "Button Newbie",
+      "description": "Achieve 100 button presses. Every journey begins with a single click!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/1165416b2c9b0f247428d7dde922e40611cc61df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/8e5e08acfacaa2007c19be8cf40dff2130e8a040.jpg",
+      "hidden": false,
+      "percent": "29.9"
+    },
+    "ACH_STAT_100K_Combined_Presses": {
+      "name": "Button Prodigy",
+      "description": "Hit a total of 100,000 button presses. Your expertise is unmatched!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/377cfaff18a2b2f7ae06bef63d3b5ab21512e5fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/547468af14f06d3004bd91096f36ab37c1cf47cf.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "ACH_STAT_500_Combined_Presses": {
+      "name": "Button Rookie",
+      "description": "Achieve 500 button presses. You're gaining experience, don’t lose steam!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/527aeace799920cb694215f84d0137d60bab6e5b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/37a8c8401e08a80eca0338b7e26ceae153af0d61.jpg",
+      "hidden": false,
+      "percent": "27.5"
+    },
+    "ACH_STAT_1M_Combined_Presses": {
+      "name": "Button Titan",
+      "description": "Achieve a monumental 1,000,000 button presses. You are the ultimate button pressing champion!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/55256396d8b1a68962a57aec605dead86715266d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2a39b1c24d2e815c35fd0824aa198052d1658128.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "ACH_STAT_10K_Combined_Presses": {
+      "name": "Button Virtuoso",
+      "description": "Achieve a total of 10,000 button presses. You're getting the hang of this!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/8a2d1f8bc007509fa4ca08a991414e33a224a64f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/9413fb75b360aca7f9446d906480e9444f83a562.jpg",
+      "hidden": false,
+      "percent": "18.4"
+    },
+    "ACH_CLOSE_ONE": {
+      "name": "Close One",
+      "description": "If Controller is 0%-10% battery and you connect it to power.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/7a4726f3b35cfbfdf63cfdb80dbfc9e2a03972f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e6220dacf2fb3402b116131d0e51ec7f5201925b.jpg",
+      "hidden": false,
+      "percent": "16.7"
+    },
+    "ACH_DEAD_BEGONE": {
+      "name": "Dead Begone",
+      "description": "Apply deadzones to either Triggers or Joysticks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/30e729eda04200991e9769d6a2ab65cdbdeefd32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/3abfb12cff0c22f21dd00e80518c22c172d8d885.jpg",
+      "hidden": false,
+      "percent": "4.6"
+    },
+    "ACH_DISCO": {
+      "name": "Disco Time!",
+      "description": "Set Multi Color LED mode to max cycle speed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/f2da29a1585b52b28e936498c41c06841c9d75ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/0a1a475ab6667f802154138569649dab31a7af20.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "ACH_DOUBLE_VISION": {
+      "name": "Double Vision",
+      "description": "View your installed game list.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e633ea10f9f467c0f5945fbd03cd1f2f01cec8bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/3eee4b063726dfe32ec6159b619b6bac59b0d4ab.jpg",
+      "hidden": false,
+      "percent": "19.5"
+    },
+    "ACH_ANNIVERSARY": {
+      "name": "DSX Anniversary",
+      "description": "Run DSX on DSX's release date anniversary (June 24th).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/069041ee749305facfad94f7fa8b4f1ef0e630d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/6f2a93413426a4fa75a79cc090d501b9b6d55c9b.jpg",
+      "hidden": false,
+      "percent": "11.7"
+    },
+    "ACH_HAPTIC_FEEDBACK": {
+      "name": "Feel the Buzz",
+      "description": "Use any of the available Haptic Feedback modes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/58967e8f5566ae2064f6d5493254b0cca223c263.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/680643d64338bcedc7d4ef94d04d2ee0ee75c483.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "ACH_FULL_CYCLE": {
+      "name": "Full Cycle",
+      "description": "Open DSX Steam page through DSX.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/9a56cf882a8366720c4967991a1cfec22c613427.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/a06a077aa8ab26ed3bd718fc51d660dbff576313.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACH_LAUNCH_GAME": {
+      "name": "Game On",
+      "description": "Launch a game from DSX. Dive into the action directly from your customized setup!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/54c534ce66fcfbfff7790e6aa1db90f7535db3ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/7e859f3246c6801a9cd079608adad8497925baf4.jpg",
+      "hidden": false,
+      "percent": "4.9"
+    },
+    "ACH_KONAMI_CODE": {
+      "name": "Go back to your roots",
+      "description": "Enter the secret sequence on your controller.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/13b3872412fe8319f4d19b41bc459b66168b84fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/b844516a2fa15b419e93be86c125b799247e600a.jpg",
+      "hidden": false,
+      "percent": "0.7"
+    },
+    "ACH_ACTIONS_KEYBOARD_MAPPING": {
+      "name": "Keymaster",
+      "description": "Map any controller button into a keyboard button.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/150e57a26c020ea4f889040faab6b2f8b781af59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/5ad636c567bbc419fa6d5ceba873434359964ce6.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "ACH_LIGHT_BAR_BRIGHT": {
+      "name": "Light Bar Bright",
+      "description": "Apply any of the LED modes available.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2b533aa52903a82781cc801a80b4d0e3d89512d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e83df4761934125e6fb5b602d7618a91127b1464.jpg",
+      "hidden": false,
+      "percent": "27.3"
+    },
+    "ACH_LIGHTS_OUT": {
+      "name": "Lights Out",
+      "description": "Set the Light Bar brightness to 0%.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/1fc6de03cd8f031efd5c1a4c9f9d4b21a5c19ead.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2110bee2485fa863359ca06bea7da6d808e144ad.jpg",
+      "hidden": false,
+      "percent": "4.8"
+    },
+    "ACH_ACTIONS_MOUSE_MAPPING": {
+      "name": "Mouse Mapper",
+      "description": "Map any controller button into a mouse button.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/7036be40f512d405ec5a92db3b21f6837223f671.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/a535e64b10f1bffd208bd1359cb977e400fc9c00.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "ACH_MULTI_PAD_PAIR": {
+      "name": "Multi-Pad Pair",
+      "description": "Connect more than one controller to DSX for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/c1693762ef8652ea2ff118eaa4bb55272164a8be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/93e9846cfb5d751140f13fa0e6d7c897cfb90c05.jpg",
+      "hidden": false,
+      "percent": "4.8"
+    },
+    "ACH_MY_STYLE": {
+      "name": "My Style",
+      "description": "Create your first Controller Profile.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/10dce5ad80eccb420325a3f48c8346fada60e9cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/ae6fdd6aadb289067b24c5f8a1df49b26b1ceef0.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "ACH_MY_STYLE_DUPLICATE": {
+      "name": "My Style Duplicate",
+      "description": "Duplicate a controller profile for adjustment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2883cce74c216ab37cb5dac86b66808a57823c0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/39bc2ded090ead78cad066dd48442e419df6dc66.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "ACH_NOT_ENOUGH_CONFIGS": {
+      "name": "Not Enough Configs",
+      "description": "Create more than three Controller Profiles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/cc12ca508d0767d2070ad202cbbb0dd3a46c637d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/330c2ce70bcddc2fcb3111f8a55dede0513f4c6c.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "ACH_PAD_PAIR": {
+      "name": "Pad Pair",
+      "description": "Connect a Controller to DSX for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/6f1327a472aac2cb12b9cbb8dfcd92b2021af68c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/aa3811fe1568893886bbf793c9d951980744ecca.jpg",
+      "hidden": false,
+      "percent": "33.2"
+    },
+    "ACH_LOGGER": {
+      "name": "Professional logger",
+      "description": "Read all the available logs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/8e23bee07ae8ad0ac7aa4007a1d6e0882fb2e46b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/d79fc2b4e0ccd5173d325ee13c213943bd8b1526.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACH_ACTIONS_SHORTCUTS": {
+      "name": "Shortcut Master",
+      "description": "Map any controller button into a shortcut action.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/674acc60335c6fa5988aaad137485d1736a0e0e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/934d6c21c611b073b53ae451e83efe686caca0ff.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "ACH_TRIGGER_HAPPY": {
+      "name": "Trigger Happy",
+      "description": "Try out all Adaptive Trigger modes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/97f4bc3353ca9a28b72d6eab0d2dfd6e0cefc922.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/b82f6cbaa7f1ffeecfb60a9bdc16eddfa54ee902.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "ACH_VIRTUAL_BOX": {
+      "name": "Virtual Box",
+      "description": "Activate Virtual Xbox emulation for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/1895c2bff4fa3cee13d19c2936510b72cfa9c79d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/a99d84a738805e4486335d3e995c3ecf1d9af839.jpg",
+      "hidden": false,
+      "percent": "32.8"
+    },
+    "ACH_VIRTUAL_STATION": {
+      "name": "Virtual Station",
+      "description": "Activate Virtual DualShock or DualSense for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/693a42ec5ea023c081a701ff49b1dfb4588657f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/0ede676fd1278a21e3c2356ed82fb4aaf65cb268.jpg",
+      "hidden": false,
+      "percent": "27.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

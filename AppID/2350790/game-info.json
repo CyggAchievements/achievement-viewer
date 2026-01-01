@@ -1,0 +1,314 @@
+{
+  "appid": "2350790",
+  "name": "Moonlighter 2: The Endless Vault",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/header.jpg?t=1766132361",
+  "achievements": {
+    "ACH029_NAME": {
+      "name": "A Growing Business",
+      "description": "Upgrade the Moonlighter to level 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/355a79d9c97fb6029823340dc472c84c2b40fd5f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/fda4370ff733196666b4326d9cf5bc1e568b4b98.jpg",
+      "hidden": false,
+      "percent": "35.8"
+    },
+    "ACH032_NAME": {
+      "name": "A Persistent Hunter",
+      "description": "Defeat 365 enemies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/21384e6a59fad11415e1a1e6663d03f7b0a77920.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4353002cb39427f16c4b0492e6894a1bf83656bb.jpg",
+      "hidden": false,
+      "percent": "70.3"
+    },
+    "ACH038_NAME": {
+      "name": "A Skilled Hand",
+      "description": "Raise the quality of a relic to 250 or higher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/88b14eaca9bd1fb93cb901c63d0f199d504df107.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/089e61fbdf91da564983b7d3ad4f7f948b48b3f6.jpg",
+      "hidden": false,
+      "percent": "24.9"
+    },
+    "ACH008_NAME": {
+      "name": "An Unwelcome Guest",
+      "description": "Enter the Gallery for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/03216cdf629af9730c434425c52c8574593fa05b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/f4459d0519e3cc1fe06f3edfb4a96902bef631f8.jpg",
+      "hidden": false,
+      "percent": "68.6"
+    },
+    "ACH025_NAME": {
+      "name": "Average Merchant",
+      "description": "Complete the 3rd challenge of the Endless Vault.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a4caf26f16aed2139f72d14c7ff048f9f4022883.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d001d7f1ee3dafa46eb3c8cebf89763fed858e87.jpg",
+      "hidden": false,
+      "percent": "45.3"
+    },
+    "ACH002_NAME": {
+      "name": "Back on Track",
+      "description": "Open the Moonlighter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/7ca4c93b2030c7667613a7506f047d5a7d75b07c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e6b5ffc88b7dcb90b4f2b04050b025690490ab8d.jpg",
+      "hidden": false,
+      "percent": "92.6"
+    },
+    "ACH001_NAME": {
+      "name": "Back to Business",
+      "description": "Start a new chapter of Will's adventure!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e99f2f4cba83ff2ba403ea7cdb926b1fb4faf9cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4d62a9096be0c9603b794175616ed3fced5d1549.jpg",
+      "hidden": false,
+      "percent": "97.4"
+    },
+    "ACH036_NAME": {
+      "name": "Bag of Holding",
+      "description": "Add 10 capacity slots to your backpack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ca7dfc506b0d13b6f421ed086d99df25a6db2415.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/dd249ac1fbf32441906c81d775115cb4c24ee47a.jpg",
+      "hidden": false,
+      "percent": "12.4"
+    },
+    "ACH035_NAME": {
+      "name": "Bullseye",
+      "description": "Hit 100 enemies with your Gun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/5ba1818b4d856a5748a2acad2db826b775eeb5cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/989a884d37ce294536a3edf987c93b236ea2aa81.jpg",
+      "hidden": false,
+      "percent": "71.0"
+    },
+    "ACH010_NAME": {
+      "name": "Dismissal Letter",
+      "description": "Defeat Tyke.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/58106d4309d9c39dcd57f67cce015791d8a56ac3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/296a7c327bdcd01cd9703790dd644d48db81945c.jpg",
+      "hidden": true,
+      "percent": "19.5"
+    },
+    "ACH026_NAME": {
+      "name": "Expert Merchant",
+      "description": "Complete the 4th challenge of the Endless Vault.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d1cd17c8961c20b88cfd82c18221142da76697ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e8c33bd5855bf454a22626e96718fbb99ff0018a.jpg",
+      "hidden": false,
+      "percent": "38.1"
+    },
+    "ACH017_NAME": {
+      "name": "Flying Flee",
+      "description": "Escape with the pendant 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/7e59344e03f49530e63634fc6fa9f61ae59c37ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/84c36272280096c8424ec7e4dc430989fc68f92d.jpg",
+      "hidden": false,
+      "percent": "53.3"
+    },
+    "ACH009_NAME": {
+      "name": "Forced Shutdown",
+      "description": "Defeat the Curator.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a3bf85224cd03d3da87032203481953db0348f0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e6e1f19e2dcfca7af635804e180cc6b79f52da9a.jpg",
+      "hidden": true,
+      "percent": "40.5"
+    },
+    "ACH028_NAME": {
+      "name": "Fresh Venture",
+      "description": "Upgrade the Moonlighter to level 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/46895fb3bf0578fde0c026a2d32e1e204dbc2160.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4cd0c119bc7fa526cef06f1d8c3df800636b0ceb.jpg",
+      "hidden": false,
+      "percent": "51.4"
+    },
+    "ACH039_NAME": {
+      "name": "Golden Egg",
+      "description": "Sell a relic for 10,000 gold or more.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/aaa95d1f927be1871588b9816518d273d6918af0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/bb3d5ae5173f0404877b8f28d899f47d763756d8.jpg",
+      "hidden": false,
+      "percent": "41.4"
+    },
+    "ACH034_NAME": {
+      "name": "Home Run",
+      "description": "Defeat 50 enemies by ejecting them with the backpack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/cb893a8d50652ca0844f94421b163145f09ae90b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/c1bcb5babf108b17f914d1eb9f2586535e1c7c80.jpg",
+      "hidden": false,
+      "percent": "56.7"
+    },
+    "ACH037_NAME": {
+      "name": "Humble Hero",
+      "description": "Defeat a boss with the broom.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/2f9ca438367df62b63e3f9d2296b981a8295a8cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/9bea93819d6e7c3ef61c42b5733761aaca6567f5.jpg",
+      "hidden": false,
+      "percent": "21.0"
+    },
+    "ACH031_NAME": {
+      "name": "Impulse Purchases",
+      "description": "Spend a total of 123,456 gold.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/17a16c43515cdebf70df9c95a7fc180f1af9d754.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8694a18ebd2ae90e67ee9c6cc8fa096aef0f3844.jpg",
+      "hidden": false,
+      "percent": "49.4"
+    },
+    "ACH004_NAME": {
+      "name": "Just Like Old Times",
+      "description": "Use the portal to take on a new adventure.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8210844b2e76dc280f0fe32ffe1216a870d33693.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/7425bf9cd456024c3a4590c0a00605608db15dbd.jpg",
+      "hidden": false,
+      "percent": "89.5"
+    },
+    "ACH040_NAME": {
+      "name": "Last Units",
+      "description": "Sell 20 different relics at a Perfect price.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/2e57672b9c1ecae087d016c049e72ba378dafd8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/20db61f2b742ce8bc7452f553b3271ae5b565021.jpg",
+      "hidden": false,
+      "percent": "58.0"
+    },
+    "ACH030_NAME": {
+      "name": "Market Recon",
+      "description": "Discover all prices of a relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/bb126564ac96a16c28c4c6a98e9e34f466bd7bf0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/900398b411c5280c6b237461052a5cb36b894e74.jpg",
+      "hidden": false,
+      "percent": "59.0"
+    },
+    "ACH033_NAME": {
+      "name": "Master Looter",
+      "description": "Open 100 chests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/b5ed58271253996f07d792bbb4534e3020ad4d59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4a54e6432a6d6f7774d3f7363cb56864b2810ef8.jpg",
+      "hidden": false,
+      "percent": "47.5"
+    },
+    "ACH023_NAME": {
+      "name": "Novice Merchant",
+      "description": "Complete the 1st challenge of the Endless Vault.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/264729807731ec862239efb5541ccecbac959e91.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/aa1c4971b284c889a2b1504acb681216d3cdaa54.jpg",
+      "hidden": false,
+      "percent": "75.6"
+    },
+    "ACH006_NAME": {
+      "name": "Out of Tune",
+      "description": "Defeat Herald.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ae37fe5370c9a9963a04f50e8b08197ba461e175.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/9695424da8b8769b7e5e55bdbe71e3d98d2f3044.jpg",
+      "hidden": true,
+      "percent": "51.0"
+    },
+    "ACH011_NAME": {
+      "name": "Overture",
+      "description": "Enter Aeolia for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/23a70e2d78bcc1e7fb5d687a1c97687d51a221a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/57e1b6ac7fc9fd9a94e306883592c2630ebefc11.jpg",
+      "hidden": false,
+      "percent": "48.3"
+    },
+    "ACH015_NAME": {
+      "name": "Part-time Adventurer",
+      "description": "Craft one weapon of each type.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/956abe0d57e5abe6185f5165b507f79dc6752d89.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8ffc4a6f941eb0b0969acb63a8f60d07e9088064.jpg",
+      "hidden": false,
+      "percent": "64.7"
+    },
+    "ACH020_NAME": {
+      "name": "Pet the Bloblet",
+      "description": "OF COURSE!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d7de9967ccdf9a991fb7e68429514650e4e87f8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/177a4c2b9d79997df415b7c10d9a73af07142e14.jpg",
+      "hidden": false,
+      "percent": "75.8"
+    },
+    "ACH021_NAME": {
+      "name": "Pocket-sized Burglar",
+      "description": "Rescue an old friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a53ba3fa1bc5c9c13e3d919f82f583e168f9cada.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/b83dc97d59ff4d2921da1393d751855c2537a109.jpg",
+      "hidden": false,
+      "percent": "15.1"
+    },
+    "ACH022_NAME": {
+      "name": "Return of the Retailer",
+      "description": "Rescue an old rival.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/070dc6b578204cdb9543b40dcb113f56ede10b6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ad96a2cb7970d7042d5a01039b1c47880f987767.jpg",
+      "hidden": false,
+      "percent": "56.6"
+    },
+    "ACH016_NAME": {
+      "name": "Shop Sweet Shop",
+      "description": "Customize your shop for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/9205ff7236a7eebe6723ed596d2a607c77e9dd94.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4ad383a6606a00c04bc28e32ad646b34f0cbb9da.jpg",
+      "hidden": false,
+      "percent": "70.4"
+    },
+    "ACH013_NAME": {
+      "name": "Sweet Petrichor",
+      "description": "Defeat Monte.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/6cd14ac628c9823f7a7a22cac431ad8ca2f982b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/c9dc8956cd8d5442f36afc4bca337d124b21952f.jpg",
+      "hidden": true,
+      "percent": "17.7"
+    },
+    "ACH007_NAME": {
+      "name": "The Fallen King",
+      "description": "Defeat Thalaam.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ad7289db5ed86c3f641a36c8c1fe6ce5a086dbfc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/cce1517c841f92965e84a9ef2f3a23f67ea38679.jpg",
+      "hidden": true,
+      "percent": "25.4"
+    },
+    "ACH019_NAME": {
+      "name": "The Price of Greed",
+      "description": "Get defeated with a backpack full of relics.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/54a151349ac44aea618924de535c61a4403aee68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ddb99c82b2562dd6e9b85ca081d475dc756122d5.jpg",
+      "hidden": false,
+      "percent": "63.4"
+    },
+    "ACH024_NAME": {
+      "name": "Trainee Merchant",
+      "description": "Complete the 2nd challenge of the Endless Vault.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d98353ab71238344c612845f3dbec9ebcfd044ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/068f41939c5afda5961fa1ad9a10ab73297c8ac5.jpg",
+      "hidden": false,
+      "percent": "57.4"
+    },
+    "ACH018_NAME": {
+      "name": "Wild Card",
+      "description": "Use 10 different Shop Perks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e293af258a2b5d2ded051301690c4eabbd2b5a24.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/727188021c61d7099ac2fd29bc2497c40fb66a79.jpg",
+      "hidden": false,
+      "percent": "50.3"
+    },
+    "ACH012_NAME": {
+      "name": "Wind Slumber",
+      "description": "Defeat Senda.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4134bbb8807f7c991fdfa4335474ea7476c91064.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/54b466861d77c4ca6d92ac302f58f5e739c66f8a.jpg",
+      "hidden": true,
+      "percent": "36.8"
+    },
+    "ACH003_NAME": {
+      "name": "Wishing Well",
+      "description": "Meet the Endless Vault.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a82fe6356cedc7b87848888d316a0b27a72046d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/52871dbc482a411a96d4c86157556bfe2012045a.jpg",
+      "hidden": false,
+      "percent": "91.4"
+    },
+    "ACH014_NAME": {
+      "name": "Wrong Home",
+      "description": "Meet Moloch for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/77691774a109483374d1bd11fb25f6bdefc7defd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e431026ba7687bb9aef1b0b2090ba5ae572169c5.jpg",
+      "hidden": true,
+      "percent": "73.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

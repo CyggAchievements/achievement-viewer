@@ -1,0 +1,226 @@
+{
+  "appid": "275850",
+  "name": "No Man's Sky",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/5123063ede60c6db0f79497774f00de784db7358/header_alt_assets_25.jpg?t=1765800348",
+  "achievements": {
+    "NATURALIST": {
+      "name": "A Scanner Darkly",
+      "description": "Attain ‘Naturalist’ status in Planet Zoology Scanned",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/28dcbf78426409acadb58a9a44d8138f392cb44e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/26073e4adeebc0e8861425bcc0ffe5c13fc77e41.jpg",
+      "hidden": false,
+      "percent": "13.5"
+    },
+    "DISCOVERER": {
+      "name": "A Space Odyssey",
+      "description": "Attain ‘Discoverer’ status in Space Exploration",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/abdd69a585070d4bfc36b8f18cba043554857e13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/4096cf7b50855353a6070830fb31510b2b268718.jpg",
+      "hidden": false,
+      "percent": "13.4"
+    },
+    "CONFUSED": {
+      "name": "Babel-17",
+      "description": "Attain ‘Confused’ status in Words Collected",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/a95f991caace28102b096b311220c37c2db845b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/d1acf02f54b4be4b4d702d0803c358042f0f1663.jpg",
+      "hidden": false,
+      "percent": "55.8"
+    },
+    "BABELFISH": {
+      "name": "Citizen of the Galaxy",
+      "description": "Attain ‘Babelfish’ status in Words Collected",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/ad9a20dc8085b9ea68ec10ee7699d65c44049cf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/d1acf02f54b4be4b4d702d0803c358042f0f1663.jpg",
+      "hidden": false,
+      "percent": "19.3"
+    },
+    "TAXONOMIST": {
+      "name": "Contact",
+      "description": "Attain ‘Known’ status in Alien Colonist Encounters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/e6914dde493d614f8ddcf0dc2da8ebdff1e6840f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/a5b4731e78ce2002418037559e9898de1f36c86c.jpg",
+      "hidden": false,
+      "percent": "54.5"
+    },
+    "CRADLE": {
+      "name": "Cradle",
+      "description": "Claim a Base or Buy a Freighter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/3afe76084baa3dd92aae0b65a571debc294c7496.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/7ac131700041e87e46f1b0422648a94a81495f69.jpg",
+      "hidden": false,
+      "percent": "73.3"
+    },
+    "LIMITEDFUNDS": {
+      "name": "Foundation",
+      "description": "Attain ‘Entrepreneur’ status in Most Units Accrued",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/19042a7f38333541ae531f9696e5565222f0a107.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/eb69d4b2aea0c1a80eb254f240bd7983e666a269.jpg",
+      "hidden": false,
+      "percent": "61.5"
+    },
+    "ENCYCLOPAEDIA": {
+      "name": "Galapagos",
+      "description": "Attain ‘Encyclopedia’ status in Planet Zoology Scanned",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/3ec83fb4201e7101f1d5825ce01d23464d8371a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/26073e4adeebc0e8861425bcc0ffe5c13fc77e41.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "THEEVERLASTING": {
+      "name": "Have Spacesuit - Will Travel",
+      "description": "Attain ‘Adventurer’ status in On-foot Exploration",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/f47ab90c7901b9cffdd7cf42a68f9d32841f815b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/1462168952dea039a1e8a8005d628d238aff7035.jpg",
+      "hidden": false,
+      "percent": "31.5"
+    },
+    "NAVIGATORS": {
+      "name": "Navigators",
+      "description": "Build an Exocraft",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/1974ae21eb7c029066e2f551e7776509a8d7f49d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/81fe59885f65d9bfa2609d02799ed1a9f3841dbe.jpg",
+      "hidden": false,
+      "percent": "30.9"
+    },
+    "WARCRIME": {
+      "name": "Pattern for Conquest",
+      "description": "Attain ‘Notorious’ status in Ships Destroyed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/1f1f1ab0eec5bb66088eb3fe5e3152ecae54cf88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/3438f2a4df449d1e9479de8fc18c7b06547eb5e4.jpg",
+      "hidden": false,
+      "percent": "28.8"
+    },
+    "REUNION": {
+      "name": "Reunion",
+      "description": "Visit another Player's Base",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/39681b3ee235013da1fbbe02cef1ff588f81c996.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/7460a96a4f8991c556327a5c6dceeba8ecbafb9d.jpg",
+      "hidden": false,
+      "percent": "19.7"
+    },
+    "GETTINGON": {
+      "name": "Stranger in a Strange Land",
+      "description": "Attain ‘Robust’ status in Extreme Survival",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/ad6ee2bc4cacc230e86b2a34a2056874b8bcb058.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/3e2d9b418cecde1299ef803df3198ca2bbb31811.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "PIONEER2": {
+      "name": "Symphony For A Lost Traveler",
+      "description": "Attain ‘Nomad’ status in On-foot Exploration",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/074c86480501f3b8e6df1356a76f69d6bdd59714.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/1462168952dea039a1e8a8005d628d238aff7035.jpg",
+      "hidden": false,
+      "percent": "48.7"
+    },
+    "TAKEADEEPBREATH": {
+      "name": "Take a Deep Breath",
+      "description": "Reach the Centre of the Galaxy in Survival Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/80e37dcdf88e84e5285ff8e885a9cd8b3cb94419.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/7956ef8ffcb3c126f103f9b7c1952b595e648e7b.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "SHIPPINGMAGNATE": {
+      "name": "The Diamond Age",
+      "description": "Attain ‘Magnate’ status in Most Units Accrued",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/f5456fe4e62808ebea8744119d14493b3377c56d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/eb69d4b2aea0c1a80eb254f240bd7983e666a269.jpg",
+      "hidden": false,
+      "percent": "46.8"
+    },
+    "GENOCIDAL": {
+      "name": "The Forever War",
+      "description": "Attain ‘Legend’ status in Ships Destroyed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/dc5ddaf982342455a426f0496624d864751c9105.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/3438f2a4df449d1e9479de8fc18c7b06547eb5e4.jpg",
+      "hidden": false,
+      "percent": "22.0"
+    },
+    "ALMOSTTHERE": {
+      "name": "The Languages of Pao",
+      "description": "Attain ‘Interpreter’ status in Words Collected",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/6fa137c0196416513b602dcab218dcd645bdc5ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/d1acf02f54b4be4b4d702d0803c358042f0f1663.jpg",
+      "hidden": false,
+      "percent": "35.9"
+    },
+    "PIONEER": {
+      "name": "The Longest Voyage",
+      "description": "Attain 'Pioneer' status in Space Exploration",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/495cfdeb808de4301f1f1b6927fb507dda58de9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/4096cf7b50855353a6070830fb31510b2b268718.jpg",
+      "hidden": false,
+      "percent": "21.2"
+    },
+    "METHUSELAH": {
+      "name": "The Sentinel",
+      "description": "Attain ‘Everlasting’ status in Extreme Survival",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/7a0f63211f6eaa7c0adb73c074a34e3e66cd44ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/3e2d9b418cecde1299ef803df3198ca2bbb31811.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "SPACETRUCKER": {
+      "name": "The Space Merchants",
+      "description": "Attain ‘Trader’ status in Most Units Accrued",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/a7db82f9cf031d2c8650699620a141a8ec047aad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/eb69d4b2aea0c1a80eb254f240bd7983e666a269.jpg",
+      "hidden": false,
+      "percent": "50.8"
+    },
+    "CLASSIFIER": {
+      "name": "The Star Beast",
+      "description": "Attain ‘Archivist’ status in Planet Zoology Scanned",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/0a15960049f3f135c43cbf56e011fee48ddf8b97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/26073e4adeebc0e8861425bcc0ffe5c13fc77e41.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "TRAILBLAZER": {
+      "name": "The Stars, Like Dust",
+      "description": "Attain 'Trailblazer' status in Space Exploration",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/e0150cea4966e9e1fd258d8bce049351301197e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/4096cf7b50855353a6070830fb31510b2b268718.jpg",
+      "hidden": false,
+      "percent": "45.2"
+    },
+    "TOLIVEFOREVER": {
+      "name": "To Live Forever",
+      "description": "Reach the Centre of the Galaxy in Permadeath Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/8e9490176f97027824b35b491c916eb3b47214fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/746f88b45db5ec59da47100e3300fdba1f23cec5.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "THUG": {
+      "name": "Use of Weapons",
+      "description": "Attain ‘Novice’ status in Ships Destroyed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/a113fa5a9fdc43a4bfc3c8e9eefed7dd3d83d512.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/3438f2a4df449d1e9479de8fc18c7b06547eb5e4.jpg",
+      "hidden": false,
+      "percent": "51.6"
+    },
+    "ATTENBORG": {
+      "name": "What Mad Universe",
+      "description": "Attain ‘Ambassador’ status in Alien Colonist Encounters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/a42180c0978f839cb27545b9c05559975d217af5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/a5b4731e78ce2002418037559e9898de1f36c86c.jpg",
+      "hidden": false,
+      "percent": "22.5"
+    },
+    "ARCHIVIST": {
+      "name": "Who Goes There?",
+      "description": "Attain ‘Diplomat’ status in Alien Colonist Encounters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/60469c813cb1163b667273072733d6b01a77cd5b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/a5b4731e78ce2002418037559e9898de1f36c86c.jpg",
+      "hidden": false,
+      "percent": "31.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

@@ -1,0 +1,282 @@
+{
+  "appid": "2274200",
+  "name": "Arken Age",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274200/header.jpg?t=1764175255",
+  "achievements": {
+    "COLLECT_ALL_RELICS": {
+      "name": "Ancient Scholar",
+      "description": "Collect all Nara Relics",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/bc19ff392476c42cc8a9a36d84df886e16953d6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/97dd975afb6346831d3aa5d41af1c1ee3e1487e7.jpg",
+      "hidden": false,
+      "percent": "5.0"
+    },
+    "ENTER_NARA_DOOR": {
+      "name": "Audience with Arturo",
+      "description": "Reach the Nara Sanctuary",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/fc33ecca9e4001df695d739b6e5e84eaf725c4cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/4e3474a80e924a9312407de08b190ff1fda8e871.jpg",
+      "hidden": false,
+      "percent": "33.0"
+    },
+    "DEFEAT_FINAL_BOSS": {
+      "name": "Bio-Chasm’s Salvation",
+      "description": "Defeat the Grand Arborist",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/6db5b98b09c8433f0fd1dd6bb243331284efb955.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/0a47d5f5758a2d291668fd18c9d95b187fa3084e.jpg",
+      "hidden": true,
+      "percent": "10.6"
+    },
+    "COMPLETE_CHALLENGES_1_4": {
+      "name": "Challenger 1",
+      "description": "Complete Hyperion Security Challenges 1-4 ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/11033f6421c6f6f7c84214b891c698190a53454f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/aa64dff82ad9c9d7eb2bccfe43a9b9cec2e8cea9.jpg",
+      "hidden": false,
+      "percent": "3.5"
+    },
+    "COMPLETE_CHALLENGES_5_8": {
+      "name": "Challenger 2",
+      "description": "Complete Hyperion Security Challenges 5-8",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/1453e71239d79cf1f6d790ea8ae6ff3b104b912f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/3b0ccff593925263d43f05f1468c70d80fffcb9f.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "COMPLETE_CHALLENGES_9_12": {
+      "name": "Challenger 3",
+      "description": "Complete Hyperion Security Challenges 9-12",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/a61a72c96bba83d9ca697f4770860ce9bdae9b53.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/e8c3bb84c6fd793ddd1bde83428f5455f097ea1a.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "COLLECT_ALLOY": {
+      "name": "Endless Riches",
+      "description": "Collect 20,000 Hyperion Alloy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/64b447792f2bbd692445bda1e539234773a5e830.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/2196041c1ce6f04e9cf158831a4949a05849d50c.jpg",
+      "hidden": false,
+      "percent": "5.4"
+    },
+    "OPEN_VAULT_DOOR": {
+      "name": "Enter the Scourge Lands",
+      "description": "Open the gate to the Elderwood Kingdom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/275c4e6a91a57a0b455923bc1954567413e0de2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/ef8862a8eabbdbc1e3f468ec2288f96cd4082fe9.jpg",
+      "hidden": false,
+      "percent": "14.1"
+    },
+    "DISSOLVE_ROOTS": {
+      "name": "Escape the Chasm",
+      "description": "Uncorrupt the roots in the Bio-Chasm Courtyard",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/c6425bc40d6a0b841b72b18d21732328e43e7863.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/2cf0691f8e52bf2355fdbfdac0e7bc17800063a8.jpg",
+      "hidden": false,
+      "percent": "23.4"
+    },
+    "SEVER_HEADS": {
+      "name": "Executioner",
+      "description": "Slice the heads of 100 Hyperion Soldiers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/3da5ce5c3607fddd25cb42e2e3a3e5a9bba3dc99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/b7949981e8aae8b52d68164e8e9ef6443424935c.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "COMPLETE_CHALLENGE_13": {
+      "name": "Final Challenger",
+      "description": "Complete Hyperion Security Challenge 13",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/ba2fabbfd0e41a98c0f7b7f43df53213a773ddd4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/10b73dfdf5320004234bd0694ab0fcb607aa2a27.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "COMPLETE_TRIAL_13": {
+      "name": "Final Security Clearance",
+      "description": "Defeat Hyperion Security Squadron 13",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/8b3cadec65c48627c68b718767b36dfe156c8fee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/4f9df30c4345a9adaa9faee7f927fb753bef7f86.jpg",
+      "hidden": false,
+      "percent": "3.1"
+    },
+    "COMPLETE_CIPHER_PUZZLE": {
+      "name": "Forgotten Path",
+      "description": "Complete the Elderwood Cryptex Cipher",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/2ccd09ff601d38750fe3ba76b2469598c823be66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/ff9a4031341d272532e29d1ac9aaecefafcf271b.jpg",
+      "hidden": false,
+      "percent": "12.0"
+    },
+    "FULLY_KITTED_HEAVY": {
+      "name": "Full Kitted Heavy",
+      "description": "Attach 3 matching set mods to the Hyperion Heavy Gun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/979c2f7b5c9dabb6f22217a7d491a8b0c65225ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/d6d62f9672fe4858ba195af4c3d831412b954367.jpg",
+      "hidden": false,
+      "percent": "13.5"
+    },
+    "FULLY_KITTED_LIGHT": {
+      "name": "Fully Kitted",
+      "description": "Attach 3 matching set mods to the Hyperion Light Gun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/707aa111a020438bced43a343e93c35cff108264.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/3284ef953e7f3bcc8f704768106331fe47397655.jpg",
+      "hidden": false,
+      "percent": "13.9"
+    },
+    "KILL_BRUTE_BOSS": {
+      "name": "General’s Demise",
+      "description": "Defeat General Vitus",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/6536c42c7c274269d63293c71f0024aed4a1f8d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/bfc9a6c27b06bd4015d1a90c4091e8e8464eaf20.jpg",
+      "hidden": false,
+      "percent": "16.4"
+    },
+    "FINISH_TUTORIAL": {
+      "name": "Go Forth Untethered One",
+      "description": "Finish the Tutorial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/2e3bafaf07f6636ffb276a9b453041cbcc4900c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/7a66619489f5814de6e9f4fe63db51b2e4271f99.jpg",
+      "hidden": false,
+      "percent": "81.3"
+    },
+    "KILL_IMPALERS": {
+      "name": "Gone Fishing",
+      "description": "Kill all Impalers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/1d9114b08d58ab9cb72c7dba40ef2dff2966be77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/f6758e449ea584fdfc62626e8e062a7f0c8745da.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "ATTACH_BELL": {
+      "name": "Harvester Transport",
+      "description": "Attach Harvester Bell in the Gildwood Kingdom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/f89bbf174d3b28c74ef0c087da8849bb90ab1a4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/77cbe734cf405f8b240d08e8ff48ec44a11d49a1.jpg",
+      "hidden": false,
+      "percent": "16.8"
+    },
+    "TUTORIAL_CHALLENGES_1_3": {
+      "name": "Hot Start",
+      "description": "Complete Tutorial Security Challenge’s 1-3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/ec2be373fbefe1788975c4a1b80f6cc3daf22a4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/e549d890de6463efa3fe50bc1b263eac5c6ac43c.jpg",
+      "hidden": false,
+      "percent": "15.8"
+    },
+    "ALL_HYPERION_WEAPONS": {
+      "name": "Hyperion Armory",
+      "description": "Craft all Hyperion-made weapon mods",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/6ba29d19e98f31b00bb4d2176b5281fb756e7c7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/b73f4877861f824c3cd402e2653795cbec63cb06.jpg",
+      "hidden": false,
+      "percent": "4.6"
+    },
+    "KILL_SOLDIERS": {
+      "name": "Liberator",
+      "description": "Kill 1000 Hyperion Soldiers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/e436899d8ab180195f24a38cd0475d9c19a1b534.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/855113b4a43615a61523bc87a6b14bc5513633b8.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "COMPLETE_PIPE_PUZZLE": {
+      "name": "Making Connections",
+      "description": "Refill the Grand Reservoir Basin",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/b1638559464c40a688c35cc2de6d43c17dce2bdb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/83934882e81c98a7025c0510c0079bb2374d3fc2.jpg",
+      "hidden": false,
+      "percent": "17.4"
+    },
+    "CONNECT_SEEDLING": {
+      "name": "Nara Savior",
+      "description": "Reconnect the Scarlet Nectar Seedling",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/4a85fb010db09a7f510fb31843285649600e13ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/3d655d6fbe334322cf074a066b08056a73b74ecc.jpg",
+      "hidden": true,
+      "percent": "15.4"
+    },
+    "RECEIVE_JUDGEMENT": {
+      "name": "Nara’s Fate",
+      "description": "Receive your Judgment from Elder Nara Proteus",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/fa04335d30bf8fc9b3fa915d80e84f098678b202.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/554f1e063c0875eb0608414908753019f4dc42a4.jpg",
+      "hidden": false,
+      "percent": "10.4"
+    },
+    "CREATE_SYRINGE": {
+      "name": "Nectar of the Gods",
+      "description": "Create a Health Syringe",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/7553ba2aa2134c365130e4c0aa6f3d6434fc50b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/7438fde0ae843449ee6d594d721ed3adff4b0e2e.jpg",
+      "hidden": false,
+      "percent": "62.1"
+    },
+    "FIND_BIG_FRUIT": {
+      "name": "Nectar’s Origin",
+      "description": "Find the location of the Scarlet Nectar Seedling",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/b40bf0c66c20e734ea9da321d382379e994ccf03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/5c1764807dcf7bfd9568ddc584d60703fe5438b5.jpg",
+      "hidden": false,
+      "percent": "19.1"
+    },
+    "USE_REFINERY": {
+      "name": "Rags to Riches",
+      "description": "Smelt at a Refinery",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/2a7fa377d0be36f5ff7a5b0aad43a33ec26b03c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/9b4beb560f023690bdff327b70c8d2ad21d1f723.jpg",
+      "hidden": false,
+      "percent": "37.1"
+    },
+    "COMPLETE_TRIAL_4": {
+      "name": "Security Clearance 1",
+      "description": "Defeat Hyperion Security Squadrons 1-4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/26f80f97d943ba0fcf28ae50fc04f8122e9a5a57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/15a860e65f6981df7c32d5e0161763e52d5e1830.jpg",
+      "hidden": false,
+      "percent": "23.6"
+    },
+    "COMPLETE_TRIAL_8": {
+      "name": "Security Clearance 2",
+      "description": "Defeat Hyperion Security Squadrons 5-8",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/ea50f05520a67f435495c9e9468ada89be1eac2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/ba38c64449ad2d2e7c97360a7316d275bf33ffd7.jpg",
+      "hidden": false,
+      "percent": "11.3"
+    },
+    "COMPLETE_TRIAL_12": {
+      "name": "Security Clearance 3",
+      "description": "Defeat Hyperion Security Squadrons 9-12",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/0ad7f47601ef7f772e90e289316545e758ba598c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/86fc7dba75cefbca90a8f974fac57670389662c8.jpg",
+      "hidden": false,
+      "percent": "5.4"
+    },
+    "KILL_RAMAUG": {
+      "name": "The Flame Extinguished",
+      "description": "Defeat Fire King Ramaug",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/05084cba35308e695fe6afa1f7d347ccd807cc10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/133cce87509d7ece3ebd64f21654d00e784eac22.jpg",
+      "hidden": false,
+      "percent": "12.4"
+    },
+    "OPEN_ALL_TOMBS": {
+      "name": "Tomb Raider",
+      "description": "Open all Nara Elder Tombs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/af96b417444a691ce1cd5267d029141493610c57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/01a4988b42c544fe13169762a15da56437fae5de.jpg",
+      "hidden": false,
+      "percent": "10.0"
+    },
+    "COMPLETE_GAME": {
+      "name": "You Have My Attention",
+      "description": "Complete the Game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/cfd6c63c69aab8b3731d750a49c999c73283d084.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2274200/ff53bee89dc37474c94dbdbd690950e7f2e299de.jpg",
+      "hidden": true,
+      "percent": "10.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

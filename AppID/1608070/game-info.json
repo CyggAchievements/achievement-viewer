@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/ee5545e7c7eb5397551cabcdf40b274626e65dce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/c5e577b9e3d5b02aaeb3a77b5a15788bdf8ac11d.jpg",
       "hidden": false,
-      "percent": "47.3"
+      "percent": "47.2"
     },
     "Trophy_Title_24": {
       "name": "Genji Equipment",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/16befa7e8333227ad4534f94ccd1a0ef2f482f65.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/f69dd8251c7755af2a8bf6692e9d2cd4885687fd.jpg",
       "hidden": false,
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "Trophy_Title_19": {
       "name": "Missions Completed: 50%",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/98beca6bf355a5e094e6ec21bbe9abe3c0fdc040.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/3f79957024897562e378659050c42540d03c0ef8.jpg",
       "hidden": true,
-      "percent": "48.1"
+      "percent": "48.0"
     },
     "Trophy_Title_13": {
       "name": "Prove Your Honor to Me",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/702f02335faf1e29987248dbe7e6e900da578c17.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/4e1dcda7445876a9d521ce461fad4d96c6c40df2.jpg",
       "hidden": true,
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "Trophy_Title_05": {
       "name": "Where Did Everyone Go?",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/89b551f6a055c736dbff9ceeaa39f4bf04a0d788.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/bb62d0ee2b97523d2eca3f261c212e2163107144.jpg",
       "hidden": true,
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "Trophy_Title_34": {
       "name": "Wutai's Nemesis",
@@ -414,5 +414,5 @@
   },
   "platform": null,
   "blacklist": [],
-  "uses_db": false
+  "uses_db": true
 }

@@ -1,0 +1,346 @@
+{
+  "appid": "546560",
+  "name": "Half-Life: Alyx",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg?t=1762986588",
+  "achievements": {
+    "TRACK_A3_C17_PROCESSING_PLANT": {
+      "name": "Blast From the Past",
+      "description": "Defuse a roomful of explosive barrels.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/8813fe1838d3f339af5520c484550154d31f0cb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/87d3a32ffa34fba7b4024e80ce6bb4ed8ad3044a.jpg",
+      "hidden": true,
+      "percent": "30.3"
+    },
+    "TRACK_A3_STATION_STREET": {
+      "name": "Checking In",
+      "description": "Reach the Northern Star.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d13781d3a099ef3c25b6984fa335ad59d2f90516.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/7dc3893c2f8a1fd2dce44d898731ac0de2270ce0.jpg",
+      "hidden": true,
+      "percent": "42.1"
+    },
+    "TRAINING_LOOT_LIVING_SOLDIER": {
+      "name": "Combine Harvester",
+      "description": "Use the gravity gloves to loot an item off a living Combine soldier.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/e69fd0383e87218ef16efe6836977ce5af47133f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/f8c2b317f1b8d99dd888ccaa0e2a3c9a4244a816.jpg",
+      "hidden": false,
+      "percent": "15.1"
+    },
+    "TRACK_A5_ENDING": {
+      "name": "Consequences",
+      "description": "Make your choice.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/841785da10aabff4b0b3b6d372b48ccc801e8f1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/2c06c4483e9d8fcd90801c98e9d3d70b24915d3b.jpg",
+      "hidden": true,
+      "percent": "23.8"
+    },
+    "TRACK_A3_HOTEL_STREET": {
+      "name": "Cord-Cutter",
+      "description": "Shut down the substation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/b435995d1d3b2b0058ad0da100b4908ab95c2a33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/8a1398939ba75948fabee5771bb39f3ad5c26fe7.jpg",
+      "hidden": true,
+      "percent": "34.4"
+    },
+    "SIDE_KILL_ANNOYING_HC": {
+      "name": "Crustacean Frustration",
+      "description": "Kill the annoying headcrab before it breaks everything.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/bb3ba9f02e34bd226ca0540e599769e0a62aa215.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/ff52a5f70f6a0104e81af7f9ee4558dd78a50e53.jpg",
+      "hidden": true,
+      "percent": "4.6"
+    },
+    "TRAINING_LOOT_ZOMBIE": {
+      "name": "Dead Giveaway",
+      "description": "Loot a corpse.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/a0d658154775869c28295ba3668d3f0c2946bf0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/387729b58c4f2fa95a65975ccb528488bb2e1db8.jpg",
+      "hidden": false,
+      "percent": "82.3"
+    },
+    "SKILL_GGENEMY_GRENADE_MID_FLIGHT": {
+      "name": "Deadliest Catch",
+      "description": "Use the gravity gloves to intercept an incoming enemy grenade in mid-flight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/cdc9b8543ee812c2ccb235a8847f6363f1901951.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/92d991da0eb36ca83bd2fd6626f90db1d1b1d10d.jpg",
+      "hidden": false,
+      "percent": "10.9"
+    },
+    "SIDE_GEIGER_COUNTER": {
+      "name": "Eye of the Geiger",
+      "description": "Measure Russell with the Geiger counter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/df93d971dbc2645a4924ddace680a1b9dab75ca4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/651e7abba6b1bd703b6b48e9d2210edd2496e510.jpg",
+      "hidden": true,
+      "percent": "3.5"
+    },
+    "TRACK_A3_DISTILLERY_KILLBZ": {
+      "name": "Flat Note",
+      "description": "Kill Jeff.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/5fc6da9fc5fbfd1856852664eb076205cb7cf553.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d25eb3d58dc2795dc0d174a2afe4e642beceeb5e.jpg",
+      "hidden": true,
+      "percent": "19.3"
+    },
+    "SIDE_SQUEEZE_HC_HEART": {
+      "name": "Freshly Squeezed",
+      "description": "Test your grip on a headcrab heart.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/93cbd3643d33066b1f22db518f10ee252cdbd7b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/cde6191c2c2cf1b75aa82aec910d521ba8b6a2be.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "GLOBAL_GNOME_ALONE": {
+      "name": "Gnome Alone",
+      "description": "If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space. If you did not also receive the achievement 'Manufacturing Ascent', Newell has abandoned his plans to shoot Noam Chomsky into space.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/4e86a3e6272002037694ded4c3af1af6d59eb2c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/3ea8b7ec21b953a173cefc0cea78fbedebca1058.jpg",
+      "hidden": false,
+      "percent": "87.2"
+    },
+    "HIDDEN_CARRY_GNOME": {
+      "name": "Gnome Vault of My Own",
+      "description": "Bring a garden gnome with you to the Vault.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/e5a01a9d09871f24f7d84df0320932911176c4e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/cd46fb57771dbaadd7b9d4e44f1bf465993050ae.jpg",
+      "hidden": true,
+      "percent": "1.7"
+    },
+    "SIDE_FEED_SNARK": {
+      "name": "Good Grub",
+      "description": "Feed the snark.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/059dd4106e4277bd560e6919ab90f2d2959d5390.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/c065fab009812c0f7446ab9455f80dd41becdc77.jpg",
+      "hidden": false,
+      "percent": "56.7"
+    },
+    "TRACK_A3_HOTEL_LOBBY_BASEMENT": {
+      "name": "Heart-Breaker Hotel",
+      "description": "Get creative turning the power back on.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/e946c22197faceebef11bfa9255291af765978fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/f2973a4d9d3f22c1cc16c13816efa76d05c4cf51.jpg",
+      "hidden": true,
+      "percent": "39.9"
+    },
+    "TRACK_A4_C17_WATER_TOWER": {
+      "name": "High Water March",
+      "description": "Start climbing the water tower.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/45d0069ccf23d816709b2f43acaa2b13a79fad05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/e053a58eb154c2b33960ac13beb5fd0871eca2a0.jpg",
+      "hidden": true,
+      "percent": "24.4"
+    },
+    "TRACK_A1_INTRO_WORLD_2": {
+      "name": "Hit and Run",
+      "description": "Break out of the Combine prisoner transport vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/15dbbeeea4515385f9f7b57eaf9093a7d0889f2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/02c871d65b9f801faaddac867c00a1a4202484bd.jpg",
+      "hidden": true,
+      "percent": "86.7"
+    },
+    "SIDE_CATCH_FALLING_BOTTLE": {
+      "name": "Hold Your Liquor",
+      "description": "Catch a bottle falling out of a cupboard before it breaks and alerts Jeff.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/fec5d54a7a55ed835f5540a06b4637017501156c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/6af964487e7612a0518d2b8bfacc1d321623ac07.jpg",
+      "hidden": true,
+      "percent": "17.6"
+    },
+    "SKILL_KILL_CHARGER_WHILE_SHIELD_UP": {
+      "name": "Indirect Approach",
+      "description": "Kill a Combine Heavy while their shield is up.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/922d617281a5e9821ceaaf0dbef69210484beafa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/7abd414cd9c3265136ab4ed84d6a430bc2e92528.jpg",
+      "hidden": false,
+      "percent": "13.8"
+    },
+    "SIDE_RUSSELL_SCENE": {
+      "name": "Little Slugger",
+      "description": "Represent yourself with a specific prop on Russell's map.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/8ce25cf568eb4ba7d4b2927b9b37e9305d58caca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/648968d6c2b86c3c1b8e2325e0565cc0a3937fcf.jpg",
+      "hidden": true,
+      "percent": "19.2"
+    },
+    "SIDE_CATCH_AMMO_CLIP": {
+      "name": "Mag-Snagger",
+      "description": "Catch Russell's ammo magazine before it hits the ground.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/192c3160e2d469457341437662f0ca2c6ae423d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d4b52a114047aa1aec28f77f3978d387285100e3.jpg",
+      "hidden": true,
+      "percent": "56.9"
+    },
+    "SIDE_GLOBAL_BREAK_BOTTLES": {
+      "name": "Mazel Tov",
+      "description": "Pick up and smash 50 glass bottles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/593bd1aea6af789e3adb36f872cf6467e39807d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/181727b3c73b9359c4ac521cd660e556bc59c2c8.jpg",
+      "hidden": false,
+      "percent": "24.1"
+    },
+    "SIDE_CLOSE_TO_BLIND_ZOMBIE": {
+      "name": "Near-Jeff Experience",
+      "description": "Stay close to Jeff for 10 seconds (but not too close).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/febab7a4d0e63eae17def44d65df63495ee83cca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d7bda2591c4bf619ebdc1ffa460d85ce0e9a7d30.jpg",
+      "hidden": true,
+      "percent": "9.3"
+    },
+    "TRACK_A2_TRAIN_YARD": {
+      "name": "Off the Rails",
+      "description": "Stop the prisoner transport train.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/5fef5289146ee6a180280fcb5a9af5fe3f337c8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/4f15ccb8a67926c571b1d65627d6c540ea994e00.jpg",
+      "hidden": true,
+      "percent": "46.3"
+    },
+    "SIDE_HL2_PLAYGROUND": {
+      "name": "On a Roll",
+      "description": "Interact with the playground somehow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/711a2f56c63841ce1d8e275a47844abe8a01f6d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/23c3b59d6f56c5bfd1305641d22f29d504e89fb3.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "TRACK_A5_VAULT": {
+      "name": "Point Extraction",
+      "description": "Get to the superweapon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/a44f1c8726465c1180c7f53418b7c86a6da9fb8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/4db9660b6a4bc48350b7eeb7440fc5ad7f6bde66.jpg",
+      "hidden": true,
+      "percent": "23.9"
+    },
+    "TRAINING_KILL_SOLDIER_WITH_GASTANK": {
+      "name": "Pro-Pain",
+      "description": "Kill a grunt by shooting their gas tank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d71fc4df890e0a882885ef9724facd4fc4a3a235.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/df5f35a8a8e5f1856640888dc430a6931c5d4cc3.jpg",
+      "hidden": false,
+      "percent": "37.5"
+    },
+    "TRACK_A2_QUARANTINE_ENTRANCE": {
+      "name": "Quaranta Giorni",
+      "description": "Enter the Quarantine Zone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/beb4b27969f5f5d00da2bdced96ca7467b7a01b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/5209d2bff32b938bba7537f7be82ae41693047f1.jpg",
+      "hidden": true,
+      "percent": "76.6"
+    },
+    "SIDE_HACK_TRIPMINE": {
+      "name": "Safe Trip",
+      "description": "Use the multitool to hack a tripmine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/b316d05019021f9a2bd38ace4510f8320c0b7be4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d24c20461e377f319d694e6ca1b2eef02eadff70.jpg",
+      "hidden": false,
+      "percent": "32.9"
+    },
+    "TRACK_A4_C17_ZOO": {
+      "name": "Sea Level",
+      "description": "Reach the aquatic exhibits.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/fb162973927bd732bfdf1306c8d886c6d8623a9f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d4ae23fdd653cb564328fe9f654304152386b3b0.jpg",
+      "hidden": true,
+      "percent": "26.5"
+    },
+    "TRAINING_BREAK_ITEM_CRATE": {
+      "name": "Smash and Grab",
+      "description": "Break open a supply crate with your hands.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/f5efb2a5358d3148f4fac03f4b6febf948840386.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/a7de28c33b7321d885a49a9550a3dd4a3dd33fb2.jpg",
+      "hidden": false,
+      "percent": "68.3"
+    },
+    "TRACK_A3_DISTILLERY_NOKILLBZ": {
+      "name": "Sound Strategy",
+      "description": "Escape the distillery without killing Jeff.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/a918e823edc8871d515da7b713684002e3af8350.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/34cd2e0f213b1d3831cbc12b9630d488f47c82af.jpg",
+      "hidden": true,
+      "percent": "11.0"
+    },
+    "TRACK_A3_HOTEL_UNDERGROUND_PIT": {
+      "name": "Surface Tension",
+      "description": "Escape the underground pit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/c9bc1abec68724a8c99bcf713c2766c41293cc92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/0187b5e51a5a4946cd4ee869d366ad0f81e98e67.jpg",
+      "hidden": true,
+      "percent": "38.5"
+    },
+    "TRACK_A2_HIDEOUT": {
+      "name": "Sustenance",
+      "description": "Receive a tasty treat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/f6ac06802e1e24f0c4d0a4f1cf6747b7ff14af99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/b7f2fb2aa8af45e8b15e1a3c742360cd31ec3bd2.jpg",
+      "hidden": false,
+      "percent": "65.4"
+    },
+    "SIDE_BRING_RUSSELL_VODKA": {
+      "name": "Team Spirit",
+      "description": "Bring Russell a bottle of vodka.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/859267cdabf66162f1b2ae4a89d38ede9e6af094.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/618a9b9fe921f769e0ffe718a8925768f44d910e.jpg",
+      "hidden": true,
+      "percent": "8.3"
+    },
+    "TRACK_A4_C17_PARKING_GARAGE": {
+      "name": "Textbook Jinxing",
+      "description": "Wake the Strider.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/9227b2a591e32bdd2b0f3c1c7c6becd0c77a53c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/2cdb977aee8ccc626b3c967f7c4caffeb66736b4.jpg",
+      "hidden": true,
+      "percent": "24.2"
+    },
+    "TRACK_A4_C17_TANKER_YARD": {
+      "name": "Triple Bypass",
+      "description": "Solve the tanker yard's electrical puzzle and escape.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/083350f6c0651b6f9f8a1c597f6ca3db77ef5187.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/a81efb7caa4e74406fbc1312719a1eb5914427c6.jpg",
+      "hidden": true,
+      "percent": "24.9"
+    },
+    "TRACK_A3_HOTEL_INTERIOR_ROOFTOP": {
+      "name": "Unbonded",
+      "description": "Collect the SMG.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/47635ded5309b8cf36f4b145f8dc8208bc79680b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/860cd97e249d57a216d3d593cfdfebbebd889d11.jpg",
+      "hidden": false,
+      "percent": "36.7"
+    },
+    "TRAINING_FIRST_PISTOL_UPGRADE": {
+      "name": "Up in Arms",
+      "description": "Install your first pistol upgrade.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/4f6a629de4c69488a1b1a88b1e47db5d9d4fca80.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/aaee312cd61b46fc970932764893dda21aa1fd9f.jpg",
+      "hidden": false,
+      "percent": "67.5"
+    },
+    "TRACK_A2_DRAINAGE": {
+      "name": "Xen Garden",
+      "description": "Enter the explosive Xen infestation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/5f994a8312e8827f9f75f1e4b5f33fa599b85dcb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/f33e68eb8f213212a92641d2195937a73489c552.jpg",
+      "hidden": true,
+      "percent": "48.0"
+    },
+    "TRAINING_STEAL_XEN_GRENADE": {
+      "name": "Xen Lootism",
+      "description": "Snatch a Xen grenade from its resting place.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/8d36005ea2f7a5016a42fc90ae40aab867d75fea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/716bd07a1c733709b3d40b28a015237e20f51385.jpg",
+      "hidden": false,
+      "percent": "33.1"
+    },
+    "TRACK_A2_HEADCRABS_TUNNEL": {
+      "name": "Zombie with a Shotgun",
+      "description": "Collect the shotgun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/394ccaa04df8e793a1f710886225b891fb07e6f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/e0fa1228facadf5572826fddae6f736a67ae286e.jpg",
+      "hidden": false,
+      "percent": "62.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

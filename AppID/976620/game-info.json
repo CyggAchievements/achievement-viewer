@@ -1,0 +1,682 @@
+{
+  "appid": "976620",
+  "name": "Enderal: Forgotten Stories (Special Edition)",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976620/header.jpg?t=1732760113",
+  "achievements": {
+    "END_COMPLETE_MQ18A_01": {
+      "name": "A Better World",
+      "description": "You chose to flee to the Starcity and create a new mankind.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/dbe236b350103ddbf66d019a3feac2433d43e93a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/6adbfde49bdfd7c82851acd0efeb15dcaaff8ef5.jpg",
+      "hidden": true,
+      "percent": "5.2"
+    },
+    "END_LISHARI_TAVERN_01": {
+      "name": "A Fine Drink",
+      "description": "You shared a drink and a good conversation with Lishari Peghast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/62882c5a9c5706cc38c2342a395055f39cd333ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a39501b42c45e717b4fe18466b6380ed989da9aa.jpg",
+      "hidden": true,
+      "percent": "12.0"
+    },
+    "END_PROTO_BEACON_01": {
+      "name": "A Sliver of Hope",
+      "description": "You found the Beacon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/77c9feed73cc98d49af8c9b0c1de63f551d61981.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/87188ef85c8cf54dfc0e258d5fc988c4a81d3b30.jpg",
+      "hidden": true,
+      "percent": "14.8"
+    },
+    "END_QUESTS_01": {
+      "name": "Adventurous",
+      "description": "You finished 50 quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/99b70a41cb8b526b2564e590bec2428c593349e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/d98dd1d6e842793dcd878dbe32158cd8773be393.jpg",
+      "hidden": false,
+      "percent": "10.5"
+    },
+    "END_DREAM_02": {
+      "name": "Aren't we beautiful?",
+      "description": "You relived another version of your nightmare. Aren't we beautiful?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/45a20220268b741689a569dad53f93d5e459f672.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/3623ef8439c6355d91801989ed039fd1a48228c8.jpg",
+      "hidden": true,
+      "percent": "11.9"
+    },
+    "END_LOCATIONS_01": {
+      "name": "Behind the Horizon",
+      "description": "You discovered 50 different locations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0f75cb6f55e441a6d48969a120846e4b03eb3349.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/fb015bf37f1c38b5e022738cbcc1f1e6d08dc75b.jpg",
+      "hidden": false,
+      "percent": "20.6"
+    },
+    "END_BOUNTY_01": {
+      "name": "Bounty Hunter",
+      "description": "You finished all bounty quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/680bad97eb04fbafba2358d6964a49bbd446d466.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/616185ce2c6dfcf561876a2229f280c7ab3ae768.jpg",
+      "hidden": false,
+      "percent": "5.2"
+    },
+    "END_COMPLETE_MQP01_01": {
+      "name": "Burnt Flesh",
+      "description": "You relived your nightmare.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/9786fa9ef9f628495a553f4a255ed98743b87f4d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/6d342d63926e53a5f43e2c9f8dafd75c9366d804.jpg",
+      "hidden": true,
+      "percent": "76.7"
+    },
+    "END_CARDSHARK_01": {
+      "name": "Card Shark",
+      "description": "You won 10 rounds of \"Battle for Treomar.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c125994078983191d7b6aa285667ac4272acf1c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f2c85fd7d4c859a65886009968248ee9bca8585a.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "END_APPARITION_02": {
+      "name": "Catch 'Em All",
+      "description": "You found all souls.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0310bb279410656ffc3bf7dbe51b6a27cfebf86d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c29fcd2d4b3e8498b7f296f957905297dc02aabd.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "END_BUTCHER_01": {
+      "name": "Chronicles of Blood",
+      "description": "You found and read all books of the Butcher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/85d7ae4cbd6edf1b13bbe32facc5298d81e01137.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/b358f6e5aea5fbc8bd1f89104d1414083342555b.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "END_WEREWOLF_01": {
+      "name": "Claws",
+      "description": "You brewed and drank your first Wolf's Blood potion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/720c502857134a2f85501f576634d660ebfd8e65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/8a60ca7d195e0443b60cbf1a04917f58b1b3d8d6.jpg",
+      "hidden": false,
+      "percent": "6.8"
+    },
+    "END_LUKE_SKYWALKER_01": {
+      "name": "Come On, You Stupid Rod",
+      "description": "You found a brave warrior's frozen corpse in the Frostcliff Mountains. The damn thing just wouldn't cooperate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/db616dfb414f112158ece69a249a068cf038078e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/3f4b9a23493fd35b0825fcade7799b717c6885bc.jpg",
+      "hidden": true,
+      "percent": "2.9"
+    },
+    "END_MASTER_SKULL_01": {
+      "name": "Cosmic Harmony",
+      "description": "You let the Master Skull harmonize your chakras. Namaste!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/d70efc7f0ffbc23273286148c7e1e5a22a9b52ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/4b5049ff09907ea9c0afaf7c56d94bcec0c7a5e4.jpg",
+      "hidden": false,
+      "percent": "12.2"
+    },
+    "END_MIRELL_02": {
+      "name": "Coup De Grace",
+      "description": "You killed Mirell's daughter so that the Red Madness doesn't spread.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/aff2a6a390408fa56a873b9dcfdb19a19a441314.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/7e4c7cb17473d22a96d32b00e15057026c20b414.jpg",
+      "hidden": true,
+      "percent": "2.7"
+    },
+    "END_BREEEAD_01": {
+      "name": "Crunchy Pleasures",
+      "description": "You tasted a slice of Marita Rotang's fresh, tasty breeeeeeeeeeead. It was divine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/d2b09b33d55daadb65fac810bdd040e2492dff18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/de718ad2a5d89a54c6e9b4cfcc9df6eb6f50beb8.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "END_MANFRED_01": {
+      "name": "Cuthbert the Spirit Pig",
+      "description": "You summoned the spirit of Cuthbert the minipig. Foes be wary!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/8a2619558f75a503f8f4cf9746751aedbd945570.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/07071fe4a15d9a5480a6521f6f09eb1f9a63b9fb.jpg",
+      "hidden": false,
+      "percent": "6.2"
+    },
+    "END_DICEGOD_01": {
+      "name": "Dice God",
+      "description": "You won 10 rounds of \"Morala's Dice.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/cb08877aa1bc1183a10f50c228f4fab61fe9376c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/bb5920872ce890523c35d51360f9737aaff9594e.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "END_MOUNT_01": {
+      "name": "Direwolf",
+      "description": "You found the Father's hidden gift.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/63001425ae61bd0a9da1bfdfbeac9528d7ad1e19.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a1cbd979dee6fc78688a1136a2aa1b04528c96db.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "END_FETCHQUEST_01": {
+      "name": "Fetchquest",
+      "description": "You found all of Enderal's magical symbols.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/2f905372dfe6653400390877a92786bd2063ee16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/cdc874b22ffbf71f72d8a534a3bd789852f5bac4.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "END_FETCHQUEST_02": {
+      "name": "Fetchquest, Vol. 2.",
+      "description": "You found all of Enderal's mystical symbols.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/9c80d3cb17b791abd419e70d96f65d8204095b2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/7f48ef61dca99ef6383ec278c7a8bd9a70810e9e.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "END_FINDERSKEEPERS_01": {
+      "name": "Finders Keepers",
+      "description": "You lied to Maél Dal'Loran about the origin of the trinket.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/1dd058323eb6a230c3609ce4e3d3eee16d16d8f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0af70638d1b8c30fc63dfea7cc459f08edfefb81.jpg",
+      "hidden": true,
+      "percent": "1.3"
+    },
+    "END_COMPLETE_MQ18B_01": {
+      "name": "Free At Last",
+      "description": "You sacrificed yourself to give mankind another chance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/2ff664c8bb0808314e3a2a7cd9192b2b535ab950.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f0b58b672f8186d5d06c572e0aa598914b11ea97.jpg",
+      "hidden": true,
+      "percent": "3.8"
+    },
+    "END_STARSHIP_01": {
+      "name": "Gertrude's Wings",
+      "description": "You found Kurmai's pride - Gertrude the Starship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f645cbca07a8b7d768b6b6831a26f9e736b3051a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e04a86e6be85fb73b9ca0264d37a5c7e9d4e4ffe.jpg",
+      "hidden": true,
+      "percent": "8.3"
+    },
+    "END_ORE_01": {
+      "name": "Goldrush",
+      "description": "You mined 50 ore veins.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/593f583dd78036a03e742f1a1cb2e5e663a55157.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0f3c0805c03fa0c9552349ff21947a70c963d18c.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "END_STARLINGSPHERE_01": {
+      "name": "Good shot",
+      "description": "You scored well in Rynéus starling-sphere game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/afb5b994bd01ae09d70aff34c13a61adc01e20b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/44d33d7f7ddf0fa58af54f8352bc021e993cfc73.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "END_DREAM_03": {
+      "name": "Goodbye, Daddy",
+      "description": "You relived the third version of your nightmare.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/de59aa6f96289a4ecb85fcdaa7484db34d3089cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/7be84fd4a6d6db318ae75be0b08dfbcf959df5c6.jpg",
+      "hidden": true,
+      "percent": "8.7"
+    },
+    "END_HALFMOON_ISLAND_01": {
+      "name": "Halfmoon Island",
+      "description": "You took the Pyrean train to Halfmoon Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0925d5bcb8c100b08256b4f6bd601e5e12e0dd9e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/1e41184103185d35452d2afde39de6fcd37df624.jpg",
+      "hidden": true,
+      "percent": "11.9"
+    },
+    "END_QALIAN_02": {
+      "name": "He Already Paid the Price",
+      "description": "You disapproved of Tharaêl killing Qalian. His life is punishment enough.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/7e392434e98e00bd2e65fc3a1e5b9b8b0607c2ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/7277bedff6b0ca419128840d9591ca09ed1b3173.jpg",
+      "hidden": true,
+      "percent": "5.2"
+    },
+    "END_TALENT_BOOK_01": {
+      "name": "Hidden Powers",
+      "description": "You found and read a hidden talent book.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/b3ecde584a56b9bc3db59af54983253fc72c4ba8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/174fd27269b7abab501ec675b9679f8d820a215d.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "END_HOME_01": {
+      "name": "Home, Sweet Home",
+      "description": "You bought yourself a home in Ark.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/b4058ace0d884cc7d20312d01c28f132367a9ce9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/14f4a2d9a09a701cae51ae10efefd29e997b0358.jpg",
+      "hidden": false,
+      "percent": "15.8"
+    },
+    "END_FROZEN_01": {
+      "name": "Icy Embrace",
+      "description": "You froze and shattered an enemy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0f9a8b4132969aa6ff2938d0da6b5df9f24af0d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a01466fcecacd6ce4467452fb8708cafa8276c54.jpg",
+      "hidden": false,
+      "percent": "4.9"
+    },
+    "END_SIEGE_01": {
+      "name": "Invasion",
+      "description": "You rebutted the Nehrimese's attack on Ark.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/b2339ebdbec5a193d3a7a0c1e6d4b5ce5d59ace6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/9faa9e7b6e6b8bb751e436248ed96a5e837258f0.jpg",
+      "hidden": true,
+      "percent": "8.8"
+    },
+    "END_COMPLETE_MQ06_01": {
+      "name": "Keeper of the Holy Order",
+      "description": "You became a Keeper of the Holy Order.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/5e42d40cf4f3be76b5090e5877f204a6a99c13cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/2cb9955e15db63e7b707d4f9afeb089ee769e58e.jpg",
+      "hidden": false,
+      "percent": "17.7"
+    },
+    "END_KNOWLEDGE_01": {
+      "name": "Knowledge Is Power",
+      "description": "You found and earned all knowledge points.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/56da22d0dcea759a8aad04823513700fd6d4618e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/2b9c0b600c6d09c3e11264bf4569e11c324a44f3.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "END_AFFINITY_01": {
+      "name": "Legendary",
+      "description": "You combined two synergetic classes and unlocked an affinity.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/2682bf8fd65eeeff02f0bb636ce24b09d8743a9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/656b51806cbd9e58f3926c2261c2eaf62ac35299.jpg",
+      "hidden": false,
+      "percent": "12.0"
+    },
+    "END_ROMANCE_JESPAR_01": {
+      "name": "Lethonia",
+      "description": "You won Jespar Dal'Varek's heart.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/7425ea5559869e7f87350ec1260a07064c8454cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f133ce8ca5785b1e7d0ec6d6a85bc56298963c41.jpg",
+      "hidden": true,
+      "percent": "1.5"
+    },
+    "END_PRINCE_MITH_02": {
+      "name": "Lyrical Outpours and Other Bodily Fluids",
+      "description": "You read an analysis of Prince Mith's poetry. And got educated.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a560a8fed817eff0e1267a9054b25e40822f0e78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e611e42d6e58289ea7d20688799e55e171931223.jpg",
+      "hidden": false,
+      "percent": "17.5"
+    },
+    "END_ARCANISTS_FEVER_01": {
+      "name": "Mage-bane",
+      "description": "You died from Arcanist's fever.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/9f57d308c08aa49fee5a6ee928fbfdf562e59877.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/df1dc519650db203c3efce7f7cd5a31c76e0b8c2.jpg",
+      "hidden": false,
+      "percent": "8.6"
+    },
+    "END_BANKACCOUNT_01": {
+      "name": "Mammon",
+      "description": "You accumulated 100,000 Endralean penny coins and entrusted them to Samael Silren. Are you sure about this?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a913c883b70e67b7e854dd1db42a37c96ef7d23f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e576bb0c372bf88b43422d4798bb1e41db6ca06f.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "END_EGGS_01": {
+      "name": "Master of Eggs",
+      "description": "You actually hunted down all eggs for Kurmai. Hats off.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/4ae2c2c545dcb962d4ad57a0dc08128a9bd87121.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/fbac8e86c934daaf6239f211d931662d2fdd6e62.jpg",
+      "hidden": false,
+      "percent": "5.3"
+    },
+    "END_MYTHICAL_SPELL_01": {
+      "name": "Master of the Arcane",
+      "description": "You learned a mythical spell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/69772a9e905d704517eecf642e465ab7856213f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e45143c376b2600be32685538ae0f7fd79941e9a.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "END_KOPPOPHON_01": {
+      "name": "Music of the Lightborn",
+      "description": "You constructed the Koppophon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/721835fd19e2bef3f60766a895ef19436df418c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/917af3d40403488bf9e079c06a27663fa5fd2e56.jpg",
+      "hidden": true,
+      "percent": "1.4"
+    },
+    "END_AFFINITY_02": {
+      "name": "Mythical",
+      "description": "You unlocked a second affinity!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/63a61d0f485e08d0eeb9d03b5c92e1c39361bc43.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/20bd00e818fc7878b2eba8382741bf30efbf5762.jpg",
+      "hidden": false,
+      "percent": "7.0"
+    },
+    "END_NAEA_01": {
+      "name": "Näea",
+      "description": "You followed Yuslan to his house in the alternate reality and witnessed a conversation between his alter ego, a girl, and Näea.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/431dbafa03b81d92eb1c183bfcee69b26729fd5d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/fe48e1307ff064e7351e90be7d7af1316020228d.jpg",
+      "hidden": true,
+      "percent": "7.2"
+    },
+    "END_HIDDEN_SLOT_01": {
+      "name": "Nifty",
+      "description": "Thanks to your sleight of hand, you found a big hidden slot in a chest.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/12c65e826d5144fee16ee7f7a495f9658a18a102.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/66b80cecd06b7240cd3bb18d1877c9dd027fbabf.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "END_STARLING_PUZZLE_01": {
+      "name": "Nimble Feet",
+      "description": "You proved yourself both dextrous and athletic by tricking the Starling lock mechanism on your first try.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/575d8a53a8a364bed8151f576c2a40e6011fe565.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f8f3fd5c26a0a228f831936eae7733be3b0d845a.jpg",
+      "hidden": false,
+      "percent": "21.5"
+    },
+    "END_COMPLETE_CALIA_01": {
+      "name": "One Soul",
+      "description": "You finished Calia's companion quest and helped her cope with the entity inside her.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c098f6c2d37536466dc154b1c61f690e48070bc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f1507255a5bba07c507244c88b5423e5be3aa02b.jpg",
+      "hidden": true,
+      "percent": "7.8"
+    },
+    "END_BLACK_STONES_01": {
+      "name": "Onyx",
+      "description": "You found all three of the Black Stones and brought them to Lexil.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/74a7bf91567b08c29989af760b2921ef234e706d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/ff0a10a25995c3e08076b86fdae0794964a9dd4f.jpg",
+      "hidden": true,
+      "percent": "8.9"
+    },
+    "END_COMPLETE_JESPAR_01": {
+      "name": "Part of Something",
+      "description": "You finished Jespar's companion quest and helped him find his place in Enderal's struggle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c3b83429c7f01951262d4ee4bd925d9781b07a3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e548996d2239e9b51dee074b6967ec8a8a91b9f3.jpg",
+      "hidden": true,
+      "percent": "7.9"
+    },
+    "END_PRINCE_MITH_01": {
+      "name": "Philistine",
+      "description": "You engaged in a profound discussion about art and poetry with Prince Mith.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a4465e40b019455451d6a1f9fa6c5977414ed317.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/bc599a37ee35866889d8bede551c1ecd2e97f020.jpg",
+      "hidden": false,
+      "percent": "14.8"
+    },
+    "END_MEMORY_TREE_01": {
+      "name": "Proficient",
+      "description": "You mastered a memory tree.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/cf7f9bcab724f179439f6f2b327df42c793b36e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a3378d5a6945eb0fd9f649eefd50b9b3289a9c88.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "END_PROTECTOR_01": {
+      "name": "Protector",
+      "description": "You became a Protector.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/8f2f3a423ca7a9c33ef2be6e5286b7aa3361d721.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/318ef3fa4180fbcd9b211d5c70328ec6f5617cd8.jpg",
+      "hidden": false,
+      "percent": "11.4"
+    },
+    "END_PEAK_01": {
+      "name": "Reach for the Stars",
+      "description": "You climbed Enderal's highest mountain. Congratulations!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e2cf60fa88eeffb647b17c136b58405d1ef0917c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/ecbb2984dc83b4210ed54aa52c9a87e7553b8048.jpg",
+      "hidden": false,
+      "percent": "3.9"
+    },
+    "END_ESME_01": {
+      "name": "Rememberance",
+      "description": "Esme trusted you enough to reach out to you after the tragedy in Old Ishmartep.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/066765d701eba600430a8a29c830a95aafd8e6f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/701f2da7f51a5d09ebd5dfd72f5fb21a73e36caa.jpg",
+      "hidden": true,
+      "percent": "7.1"
+    },
+    "END_THARAEL_NO_SUICIDE_01": {
+      "name": "Repentance",
+      "description": "You prevented Tharael's suicide and gave him back hope.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/4358804c1dd2bffb4105996048b9aab4c56e355c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/37664e66994c7c57b160bd54530e89ac42367409.jpg",
+      "hidden": true,
+      "percent": "2.2"
+    },
+    "END_MYTHS_01": {
+      "name": "Slayer of Beasts",
+      "description": "You found and slayed all mythical beasts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/291a1104ecfb527212eb56cc17e754aa32ef808b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/ca8a2b0e80c2bdc5caa2d4d5dbceec1cf7bfb16d.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "END_MIRELL_03": {
+      "name": "Sleep, My Child",
+      "description": "You convinced Mirell to ease his daughter's suffering.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/268a71638032c84a57b55e37e9a2484405aa5bff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a5ee303f53e3cf151071dec48dd2ea8fd2c463f8.jpg",
+      "hidden": true,
+      "percent": "2.4"
+    },
+    "END_DIJAAM_NO_BLACKMAIL_01": {
+      "name": "Steadfast",
+      "description": "Burn bridges with both Maél and Dijaam.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/630e964fcb26533dd389e8add11564a5e3ee466b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0b5b5463c9b18a4617be043c629bebe5b6bbd40b.jpg",
+      "hidden": true,
+      "percent": "1.1"
+    },
+    "END_SYNERGY_01": {
+      "name": "Synergetic",
+      "description": "You discovered a synergy between two talents.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/10bb77f19f11d89cf1f86fcaad7f3916220702ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/1f20fdd471923eeb28f09d329de451fbb8dae2af.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "END_ROMANCE_CALIA_01": {
+      "name": "The Beast Overcome",
+      "description": "You won Calia Sakaresh's heart.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/bca4b3151a8eac9082de4f477a28c415f54196f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/4ac500b0a33b3b1f6ace254e7f2b803d2752957c.jpg",
+      "hidden": true,
+      "percent": "5.2"
+    },
+    "END_BLACK_GUARDIAN_01": {
+      "name": "The Black Guardian",
+      "description": "You realized that not all myths are just myths.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/3d49e2bb86f7270b5f22b519eb783aa9e802cc00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/0e98f0e3a0a62a9bea9f12373803a4994d43d1aa.jpg",
+      "hidden": true,
+      "percent": "7.1"
+    },
+    "END_DREAMFLOWER_01": {
+      "name": "The Dreamflower",
+      "description": "You found, created and drank the Dreamflower potion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/dc75b31fe95f80935b3c4f59139092511ec76386.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/4b512d1f1971176a10723534cc9ed529bd19183e.jpg",
+      "hidden": true,
+      "percent": "4.3"
+    },
+    "END_SILVERGROVE_01": {
+      "name": "The Grove",
+      "description": "Listened to the story of Silvergrove.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/1d9258db98ff3beafdd7e82cf6d9457ef50acb9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/7c459dbc7aa92907fbd0c91f856dc0dfa1a25d81.jpg",
+      "hidden": false,
+      "percent": "5.0"
+    },
+    "END_SIDED_MAEL_01": {
+      "name": "The Lion's Roar",
+      "description": "You sided with Maél Dal'Loran in the conflict about the Scarabeus.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/fbde4a188131a6e792240222d243fff35fc8d19f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/ae228b2920b903f1da0b488a8ac93604e5b787fa.jpg",
+      "hidden": true,
+      "percent": "2.9"
+    },
+    "END_QALIAN_01": {
+      "name": "The Price of Sin",
+      "description": "You approved of Tharaêl killing Qalian, even though he kept his end of the bargain.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a9e0ab44c0f5630cf97062f69929fc128f1a54e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/74cd7d477de9e90787f2d8b6be6c26da0bb5b4f6.jpg",
+      "hidden": true,
+      "percent": "8.9"
+    },
+    "END_VATYRA_01": {
+      "name": "The Queen of the Forsaken",
+      "description": "You opened Vatyra's treasure chamber.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/2f0ce0a7c55d01adb44b732f2d71592225eb688c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e2c09f1acddd03605bc21facc98f38db60dce6f3.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "END_SIDED_DIJAAM_01": {
+      "name": "The Scorpion's Tail",
+      "description": "You sided with Dijaam in the conflict about the Scarabeus.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/d2a9d8905a04829bcec0ff3fd51941fec5bd848f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/2caed08edf4bfe5c82e130b46d11ee2be9314279.jpg",
+      "hidden": true,
+      "percent": "7.3"
+    },
+    "END_APPARITION_01": {
+      "name": "The Spectral Horde",
+      "description": "You bound a lost soul into a Phasmalist's trinket.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/d6bec1d96a019f52946c97b5d10a59d5c923621c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c452f32c940c29720253b4752b3425086e68bfbf.jpg",
+      "hidden": false,
+      "percent": "10.4"
+    },
+    "END_ORPHANAGE_01": {
+      "name": "The Treasures of the Destitute",
+      "description": "You found all hidden stashes in the orphanage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c8fc787753fd71ba342f4e1463947fc127ed31a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/a2f1e40fe07d7d15e0f727b0ae2a4fa6d49d88b0.jpg",
+      "hidden": false,
+      "percent": "8.8"
+    },
+    "END_MIRELL_01": {
+      "name": "There's Always Hope",
+      "description": "You gave Mirell hope.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/9dc3f6c8d781b4e7efbd062b422d3b7a22b5952f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f263dd2506bdb6a2217f6312839c8257c43821fe.jpg",
+      "hidden": true,
+      "percent": "2.9"
+    },
+    "END_BUTTERFLIES_01": {
+      "name": "Thorough",
+      "description": "You collected 15 butterflies for Rynéus.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/eb1f5259888fe9c98769373eee19fed936eaa9e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/70834746e777c8e3f2f09cc74d8689b349add1bc.jpg",
+      "hidden": false,
+      "percent": "6.8"
+    },
+    "END_HORST_01": {
+      "name": "Vanquisher of Horst",
+      "description": "You neutralized Pathira, who took control of Yerai's centurion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/afea8beeb9cb5ea37e1b8192954b188e1154b083.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/3290667eb98c06c0927a32786afd70b6670e67f5.jpg",
+      "hidden": true,
+      "percent": "5.8"
+    },
+    "END_WORD_OF_THE_DEAD_01": {
+      "name": "Voices of the Dead",
+      "description": "You found and returned the Word of the Dead.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/31f841150bfdaa1a43fa31c2e6e1cd482dbde602.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/39a3989a0938c06d0aa74e904aefab6df8b51aea.jpg",
+      "hidden": true,
+      "percent": "14.9"
+    },
+    "END_SET_01": {
+      "name": "Well-equipped",
+      "description": "You acquired and wore a complete set.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/551b916df0549a5eddb29f76ec6bb479d6ce99e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/4253e6fe83fa212e904a95cd48716c7078f29744.jpg",
+      "hidden": false,
+      "percent": "12.4"
+    },
+    "END_ARROW_01": {
+      "name": "We're Sorry",
+      "description": "You suffered through Enderal's rendition of the arrow in the knee joke. You knew this was coming.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/b43fd87f62922d8d54c47b47222b5884135b094b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/5ee05c779c3aa605b902a95ccbb1fa405c6cb23f.jpg",
+      "hidden": false,
+      "percent": "7.6"
+    },
+    "END_RYNEUS_SILVERGROVE_01": {
+      "name": "What dreams may come",
+      "description": "You convinced Rynéus to disband the illusion of Silvergrove.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f970e4002f4392fc7b26faea08869f5b8a2997cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/e837472841ec85601745fab942942ac4d2ac188e.jpg",
+      "hidden": true,
+      "percent": "8.0"
+    },
+    "END_ROCIO_01": {
+      "name": "What We Deserve",
+      "description": "Found captain Rocio.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/91adee20a3cbd9d7d6da736ce051d87a6723b108.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/f25bc62bb6215901c5bd3bc0b94b51806e33467f.jpg",
+      "hidden": true,
+      "percent": "10.2"
+    },
+    "END_COMPLETE_MQ18C_01": {
+      "name": "What's reality, anyway?",
+      "description": "You unlocked the hidden ending and survived the destruction of the Beacon. Or did you?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/808a640cae741c6c72e2fa2dc52300278a500fa9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/5449d1f1dbe6ccd6fcc065dd0b42766851d03a77.jpg",
+      "hidden": true,
+      "percent": "2.3"
+    },
+    "END_WHIRLWIND_01": {
+      "name": "Whirlwind",
+      "description": "You became friends with Whirlwind, the Donkey.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/b86902e30a4850b0cd609ad17df4912de283aa5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/9bef3e26ed793208c9cd7a0ac606963c9d4a506d.jpg",
+      "hidden": false,
+      "percent": "14.3"
+    },
+    "END_MYRAD_01": {
+      "name": "Wings",
+      "description": "You flew on a Myrad's back for twenty times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c300d50e5b51ba53615fe1f7049f17e88a3d321e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c68a37189035bf40513c42a274856fc2e735cfa1.jpg",
+      "hidden": false,
+      "percent": "7.3"
+    },
+    "END_RHETORIC_01": {
+      "name": "Witty",
+      "description": "You succesfully used your Rhetorics skill fifteen times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/d8ccbe92de37bf8ac7088f437db7e37b61d4a853.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/c464bd57d41fb5f61425b26ab72c59677d8e9ec1.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "END_DIJAAM_ESCAPE_01": {
+      "name": "Worth it",
+      "description": "You and Dijaam escaped and kept the Scarabeus for yourselves.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/8ea43b85acc2a891085f2c3296c4c41b5f3f6cf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/18eda6cfd08d4b9475f8c64592670bec2c76c6d3.jpg",
+      "hidden": true,
+      "percent": "2.7"
+    },
+    "END_DRAGON_01": {
+      "name": "Yes, We Got Them Too",
+      "description": "You defeated Enderal's only dragon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/97673189e162c2347b4669a7975e220a1058ff5b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/976620/397fdb10a2a7c7c913c4b4a69c1b0059344fab00.jpg",
+      "hidden": false,
+      "percent": "6.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}
