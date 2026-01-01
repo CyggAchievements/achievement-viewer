@@ -1,362 +1,362 @@
 {
-  "1": {
+  "ACShadows_Ach_1": {
     "description": "Complete the Prologue",
     "displayName": "Prologue",
     "earned": 1,
     "earned_time": 1757793236
   },
-  "10": {
+  "ACShadows_Ach_10": {
     "description": "Meet Ibuki",
     "displayName": "The Ronin",
     "earned": 0
   },
-  "11": {
+  "ACShadows_Ach_11": {
     "description": "Meet Yaya",
     "displayName": "The Warrior Monk",
     "earned": 1,
     "earned_time": 1757857391
   },
-  "12": {
+  "ACShadows_Ach_12": {
     "description": "Meet Katsuhime",
     "displayName": "The Sharpshooter",
     "earned": 0
   },
-  "13": {
+  "ACShadows_Ach_13": {
     "description": "Recruit your first ally",
     "displayName": "Build Your League",
     "earned": 0
   },
-  "14": {
+  "ACShadows_Ach_14": {
     "description": "Fully train an ally",
     "displayName": "Front of the Pack",
     "earned": 0
   },
-  "15": {
+  "ACShadows_Ach_15": {
     "description": "Master the way of the shinobi",
     "displayName": "Art of Ninjutsu",
     "earned": 0
   },
-  "16": {
+  "ACShadows_Ach_16": {
     "description": "Master the way of the samurai",
     "displayName": "Art of Kenjutsu",
     "earned": 0
   },
-  "17": {
+  "ACShadows_Ach_17": {
     "description": "Engrave your first weapon",
     "displayName": "Make it Personal",
     "earned": 0
   },
-  "18": {
+  "ACShadows_Ach_18": {
     "description": "Equip legendary gear in all slots",
     "displayName": "Better than a Bucket",
     "earned": 0
   },
-  "19": {
+  "ACShadows_Ach_19": {
     "description": "Find a legendary piece of gear of each type",
     "displayName": "Limitless",
     "earned": 0
   },
-  "2": {
+  "ACShadows_Ach_2": {
     "description": "Complete Act 1 of the main story",
     "displayName": "A New League Rises",
     "earned": 1,
     "earned_time": 1758315542
   },
-  "20": {
+  "ACShadows_Ach_20": {
     "description": "Fully upgrade your tools and ammunition",
     "displayName": "In Case of Trouble",
     "earned": 0
   },
-  "21": {
+  "ACShadows_Ach_21": {
     "description": "Fully upgrade your rations",
     "displayName": "Suture Self",
     "earned": 0
   },
-  "22": {
+  "ACShadows_Ach_22": {
     "description": "Perform a landing roll",
     "displayName": "Sometimes",
     "earned": 1,
     "earned_time": 1757879010
   },
-  "23": {
+  "ACShadows_Ach_23": {
     "description": "Escape conflict by using a breathing reed to hide in shallow water",
     "displayName": "Reeding is Fundamental",
     "earned": 0
   },
-  "24": {
+  "ACShadows_Ach_24": {
     "description": "Distract the same enemy 3 times with shinobi bells",
     "displayName": "Just Your Shadow",
     "earned": 1,
     "earned_time": 1758312757
   },
-  "25": {
+  "ACShadows_Ach_25": {
     "description": "Stay airborne by swinging from one grappling hook point to another",
     "displayName": "Hook, Line, and Swinger",
     "earned": 1,
     "earned_time": 1757793236
   },
-  "26": {
+  "ACShadows_Ach_26": {
     "description": "Perform a leap of faith from a grappling hook swing",
     "displayName": "Acrobatics",
     "earned": 1,
     "earned_time": 1758218936
   },
-  "27": {
+  "ACShadows_Ach_27": {
     "description": "Perform a leap of faith as Yasuke",
     "displayName": "Leap of Fail",
     "earned": 0
   },
-  "28": {
+  "ACShadows_Ach_28": {
     "description": "Perform your first assassination",
     "displayName": "Adept Shinobi",
     "earned": 1,
     "earned_time": 1757793236
   },
-  "29": {
+  "ACShadows_Ach_29": {
     "description": "Assassinate an enemy through a shoji door",
     "displayName": "Master Shinobi",
     "earned": 0
   },
-  "3": {
+  "ACShadows_Ach_3": {
     "description": "Complete Act 2 of the main story",
     "displayName": "An Oath Fulfilled",
     "earned": 0
   },
-  "30": {
+  "ACShadows_Ach_30": {
     "description": "Perform 5 assassinations in a row without being noticed or entering combat",
     "displayName": "Unseen",
     "earned": 1,
     "earned_time": 1757793237
   },
-  "31": {
+  "ACShadows_Ach_31": {
     "description": "Assassinate a powerful guardian in one go",
     "displayName": "Giant Slayer",
     "earned": 0
   },
-  "32": {
+  "ACShadows_Ach_32": {
     "description": "Perform your first Finisher as Yasuke",
     "displayName": "Adept Samurai",
     "earned": 1,
     "earned_time": 1757793236
   },
-  "33": {
+  "ACShadows_Ach_33": {
     "description": "Parry an incoming projectile",
     "displayName": "Master Samurai",
     "earned": 0
   },
-  "34": {
+  "ACShadows_Ach_34": {
     "description": "Use Samurai Stand before performing a Finisher on an enemy",
     "displayName": "Unstoppable",
     "earned": 0
   },
-  "35": {
+  "ACShadows_Ach_35": {
     "description": "Kick an enemy from a high place",
     "displayName": "This is Japan, Actually",
     "earned": 0
   },
-  "36": {
+  "ACShadows_Ach_36": {
     "description": "Perform a Finisher on an enemy that is both Poisoned and Dazed",
     "displayName": "Overdesign III",
     "earned": 0
   },
-  "37": {
+  "ACShadows_Ach_37": {
     "description": "Sheath your weapon immediately after an enemy dies from Bleed",
     "displayName": "Final Hearing",
     "earned": 0
   },
-  "38": {
+  "ACShadows_Ach_38": {
     "description": "Shoot an enemy in the knee with an arrow",
     "displayName": "Adventurer",
     "earned": 0
   },
-  "39": {
+  "ACShadows_Ach_39": {
     "description": "Complete an Objective Board",
     "displayName": "Mortal Reminder",
     "earned": 1,
     "earned_time": 1758463092
   },
-  "4": {
+  "ACShadows_Ach_4": {
     "description": "Complete Act 3 of the main story",
     "displayName": "Fall of the Shinbakufu",
     "earned": 0
   },
-  "40": {
+  "ACShadows_Ach_40": {
     "description": "Defeat the final enemy in the tournament",
     "displayName": "Test Your Might",
     "earned": 0
   },
-  "41": {
+  "ACShadows_Ach_41": {
     "description": "Complete your first kofun",
     "displayName": "Kofun Raider",
     "earned": 1,
     "earned_time": 1758217016
   },
-  "42": {
+  "ACShadows_Ach_42": {
     "description": "Complete your first kata",
     "displayName": "Good Form",
     "earned": 1,
     "earned_time": 1758458932
   },
-  "43": {
+  "ACShadows_Ach_43": {
     "description": "Complete all Kuji-kiri",
     "displayName": "Zen Master",
     "earned": 0
   },
-  "44": {
+  "ACShadows_Ach_44": {
     "description": "Complete all legendary sumi-e",
     "displayName": "A Rare Occurrence",
     "earned": 0
   },
-  "45": {
+  "ACShadows_Ach_45": {
     "description": "Complete a collection",
     "displayName": "Collector",
     "earned": 0
   },
-  "46": {
+  "ACShadows_Ach_46": {
     "description": "Unlock the Hideout",
     "displayName": "Sole Sanctum",
     "earned": 1,
     "earned_time": 1757793236
   },
-  "47": {
+  "ACShadows_Ach_47": {
     "description": "Add a sumi-e to the Hideout",
     "displayName": "Chase the Morning",
     "earned": 0
   },
-  "48": {
+  "ACShadows_Ach_48": {
     "description": "Fully upgrade a building in the Hideout",
     "displayName": "Against Wood and Stone",
     "earned": 0
   },
-  "49": {
+  "ACShadows_Ach_49": {
     "description": "Adopt a pet",
     "displayName": "Everybody Benefits!",
     "earned": 1,
     "earned_time": 1758230944
   },
-  "5": {
+  "ACShadows_Ach_5": {
     "description": "Complete the Epilogue",
     "displayName": "Epilogue",
     "earned": 0
   },
-  "50": {
+  "ACShadows_Ach_50": {
     "description": "Reach the highest point on the map",
     "displayName": "Happy Place",
     "earned": 0
   },
-  "51": {
+  "ACShadows_Ach_51": {
     "description": "Visit every province on the map",
     "displayName": "Pathfinder",
     "earned": 0
   },
-  "52": {
+  "ACShadows_Ach_52": {
     "description": "Gather information using a scout",
     "displayName": "Scouting Mission",
     "earned": 1,
     "earned_time": 1757793237
   },
-  "53": {
+  "ACShadows_Ach_53": {
     "description": "Complete a contract in each province",
     "displayName": "Would You Kindly?",
     "earned": 0
   },
-  "54": {
+  "ACShadows_Ach_54": {
     "description": "Look for treasure behind the waterfall in the Hideout",
     "displayName": "Made You Look!",
     "earned": 0
   },
-  "55": {
+  "ACShadows_Ach_55": {
     "description": "Complete the Seta River Killers",
     "displayName": "Critical Hit!",
     "earned": 0
   },
-  "56": {
+  "ACShadows_Ach_56": {
     "description": "Reach Level 80",
     "displayName": "Enjoy the Ride",
     "earned": 0
   },
-  "57": {
+  "ACShadows_Ach_57": {
     "description": "Reach Knowledge Rank 10",
     "displayName": "Stars Unseen",
     "earned": 0
   },
-  "58": {
+  "ACShadows_Ach_58": {
     "description": "Obtain two golden katana",
     "displayName": "Worth Its Wait",
     "earned": 0
   },
-  "59": {
+  "ACShadows_Ach_59": {
     "description": "Escape Sumoto Castle (Claws of Awaji)",
     "displayName": "Ran",
     "earned": 0
   },
-  "6": {
+  "ACShadows_Ach_6": {
     "description": "Defeat all Shinbakufu",
     "displayName": "Death Blossom",
     "earned": 0
   },
-  "60": {
+  "ACShadows_Ach_60": {
     "description": "Defeat all three of Yukari's taisho (Claws of Awaji)",
     "displayName": "Hunters Hunted",
     "earned": 0
   },
-  "61": {
+  "ACShadows_Ach_61": {
     "description": "Return the Regalia to the Emperor (Claws of Awaji)",
     "displayName": "Unity",
     "earned": 0
   },
-  "62": {
+  "ACShadows_Ach_62": {
     "description": "Eliminate all targets in Awaji (Claws of Awaji)",
     "displayName": "Clawless",
     "earned": 0
   },
-  "63": {
+  "ACShadows_Ach_63": {
     "description": "Equip a Legendary Bo (Claws of Awaji)",
     "displayName": "The Stick of Truth",
     "earned": 0
   },
-  "64": {
+  "ACShadows_Ach_64": {
     "description": "Eliminate an enemy after using all three postures of the Bo in a single combat (Claws of Awaji)",
     "displayName": "One, Two, Sweep",
     "earned": 0
   },
-  "65": {
+  "ACShadows_Ach_65": {
     "description": "Kill 5 enemies with one single Wind Slash strike (Claws of Awaji)",
     "displayName": "Slice of Life",
     "earned": 0
   },
-  "66": {
+  "ACShadows_Ach_66": {
     "description": "Kill an enemy with a Tezutsu that you dropped after being hit by that enemy (Claws of Awaji)",
     "displayName": "Backfire",
     "earned": 0
   },
-  "67": {
+  "ACShadows_Ach_67": {
     "description": "Eliminate 7 enemies through one single use of Windstep (Claws of Awaji)",
     "displayName": "Assassin's Focus",
     "earned": 0
   },
-  "68": {
+  "ACShadows_Ach_68": {
     "description": "Defeat the Old Ashigaru (Claws of Awaji)",
     "displayName": "Boat Rocked",
     "earned": 0
   },
-  "69": {
+  "ACShadows_Ach_69": {
     "description": "Complete all Landscape Sumi-e in Awaji (Claws of Awaji)",
     "displayName": "Breathtaking!",
     "earned": 0
   },
-  "7": {
+  "ACShadows_Ach_7": {
     "description": "Meet Gennojo",
     "displayName": "The Thief",
     "earned": 1,
     "earned_time": 1758463664
   },
-  "8": {
+  "ACShadows_Ach_8": {
     "description": "Meet Oni-yuri",
     "displayName": "The Toxin Master",
     "earned": 0
   },
-  "9": {
+  "ACShadows_Ach_9": {
     "description": "Meet Yagoro",
     "displayName": "The Eager Assassin",
     "earned": 0
