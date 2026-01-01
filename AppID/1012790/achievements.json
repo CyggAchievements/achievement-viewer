@@ -1,0 +1,42 @@
+{
+  "ACHIEVEMENT_300": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_ARTIFACTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_BARREL": {
+    "earned": true,
+    "earned_time": 1745612711
+  },
+  "ACHIEVEMENT_BLOODY_BUDDY": {
+    "earned": true,
+    "earned_time": 1745688038
+  },
+  "ACHIEVEMENT_CRANE": {
+    "earned": true,
+    "earned_time": 1745767480
+  },
+  "ACHIEVEMENT_DARKNESS": {
+    "earned": true,
+    "earned_time": 1745601259
+  },
+  "ACHIEVEMENT_IRONMAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_KILLHOUSE": {
+    "earned": true,
+    "earned_time": 1746036664
+  },
+  "ACHIEVEMENT_LORE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_STOMPER": {
+    "earned": true,
+    "earned_time": 1745871054
+  }
+}

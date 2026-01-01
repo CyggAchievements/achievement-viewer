@@ -1,0 +1,98 @@
+{
+  "ACHIEVEMENT_NAME_ACTION_ENEMY_WEAPON_KILL": {
+    "earned": true,
+    "earned_time": 1709492762
+  },
+  "ACHIEVEMENT_NAME_ACTION_GHOST_PRAYER": {
+    "earned": true,
+    "earned_time": 1709485936
+  },
+  "ACHIEVEMENT_NAME_ACTION_WISHING_WELL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_COMPLETE_A_RUN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_IRONIC_BOMBER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_IRONIC_MAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_IRONIC_SNIPER": {
+    "earned": true,
+    "earned_time": 1714690694
+  },
+  "ACHIEVEMENT_NAME_PROGRESS_BOSS_1": {
+    "earned": true,
+    "earned_time": 1714688783
+  },
+  "ACHIEVEMENT_NAME_PROGRESS_BOSS_2": {
+    "earned": true,
+    "earned_time": 1714692908
+  },
+  "ACHIEVEMENT_NAME_PROGRESS_BOSS_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_PROGRESS_DEATH": {
+    "earned": true,
+    "earned_time": 1709485917
+  },
+  "ACHIEVEMENT_NAME_PROGRESS_MOTHER": {
+    "earned": true,
+    "earned_time": 1709485448
+  },
+  "ACHIEVEMENT_NAME_PROGRESS_RESCUE": {
+    "earned": true,
+    "earned_time": 1714688860
+  },
+  "ACHIEVEMENT_NAME_RUN_ALL_HEADSHOTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_RUN_NO_MISS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_SPECIAL_GUN_COCKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_SPECIAL_HYPNO_KILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_STATS_COINS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_STATS_FORGOTRELOAD": {
+    "earned": true,
+    "earned_time": 1709933924
+  },
+  "ACHIEVEMENT_NAME_STATS_GUNSHOTS_LANDED": {
+    "earned": true,
+    "earned_time": 1709491447
+  },
+  "ACHIEVEMENT_NAME_STATS_HEADSHOTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_NAME_STATS_RELOADCOUNT": {
+    "earned": true,
+    "earned_time": 1709917776
+  },
+  "ACHIEVEMENT_NAME_STATS_TRAVELDISTANCE": {
+    "earned": true,
+    "earned_time": 1709486109
+  },
+  "ACHIEVEMENT_NAME_STORE_SELLOUT": {
+    "earned": true,
+    "earned_time": 1714693169
+  }
+}

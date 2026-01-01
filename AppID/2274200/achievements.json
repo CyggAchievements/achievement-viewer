@@ -1,0 +1,274 @@
+[
+  {
+    "description": "Ukończ samouczek",
+    "displayName": "Idź naprzód Niezwiązany",
+    "hidden": 0,
+    "icon": "images/2e3bafaf07f6636ffb276a9b453041cbcc4900c1.jpg",
+    "icongray": "images/7a66619489f5814de6e9f4fe63db51b2e4271f99.jpg",
+    "name": "FINISH_TUTORIAL"
+  },
+  {
+    "description": "Stwórz strzykawkę zdrowotną",
+    "displayName": "Nektar bogów",
+    "hidden": 0,
+    "icon": "images/7553ba2aa2134c365130e4c0aa6f3d6434fc50b4.jpg",
+    "icongray": "images/7438fde0ae843449ee6d594d721ed3adff4b0e2e.jpg",
+    "name": "CREATE_SYRINGE"
+  },
+  {
+    "description": "Wytapiaj w Rafinerii",
+    "displayName": "Od zera do milionera",
+    "hidden": 0,
+    "icon": "images/2a7fa377d0be36f5ff7a5b0aad43a33ec26b03c9.jpg",
+    "icongray": "images/9b4beb560f023690bdff327b70c8d2ad21d1f723.jpg",
+    "name": "USE_REFINERY"
+  },
+  {
+    "description": "Dotrzyj do Sanktuarium Nara",
+    "displayName": "Audiencja u Arturo",
+    "hidden": 0,
+    "icon": "images/fc33ecca9e4001df695d739b6e5e84eaf725c4cb.jpg",
+    "icongray": "images/4e3474a80e924a9312407de08b190ff1fda8e871.jpg",
+    "name": "ENTER_NARA_DOOR"
+  },
+  {
+    "description": "Przymocuj dzwon żniwiarza w Królestwie Gildwood",
+    "displayName": "Transport żniwiarza",
+    "hidden": 0,
+    "icon": "images/f89bbf174d3b28c74ef0c087da8849bb90ab1a4e.jpg",
+    "icongray": "images/77cbe734cf405f8b240d08e8ff48ec44a11d49a1.jpg",
+    "name": "ATTACH_BELL"
+  },
+  {
+    "description": "Uzdrów korzenie na Dziedzińcu Żywej Rozpadliny",
+    "displayName": "Ucieczka z otchłani",
+    "hidden": 0,
+    "icon": "images/c6425bc40d6a0b841b72b18d21732328e43e7863.jpg",
+    "icongray": "images/2cf0691f8e52bf2355fdbfdac0e7bc17800063a8.jpg",
+    "name": "DISSOLVE_ROOTS"
+  },
+  {
+    "description": "Znajdź sadzonkę szkarłatnego nektaru",
+    "displayName": "Pochodzenie nektaru",
+    "hidden": 0,
+    "icon": "images/b40bf0c66c20e734ea9da321d382379e994ccf03.jpg",
+    "icongray": "images/5c1764807dcf7bfd9568ddc584d60703fe5438b5.jpg",
+    "name": "FIND_BIG_FRUIT"
+  },
+  {
+    "description": "Uzupełnij basen Wielkiego Rezerwuaru",
+    "displayName": "Nawiązywanie połączeń",
+    "hidden": 0,
+    "icon": "images/b1638559464c40a688c35cc2de6d43c17dce2bdb.jpg",
+    "icongray": "images/83934882e81c98a7025c0510c0079bb2374d3fc2.jpg",
+    "name": "COMPLETE_PIPE_PUZZLE"
+  },
+  {
+    "description": "Pokonaj generała Vitusa",
+    "displayName": "Śmierć generała",
+    "hidden": 0,
+    "icon": "images/6536c42c7c274269d63293c71f0024aed4a1f8d5.jpg",
+    "icongray": "images/bfc9a6c27b06bd4015d1a90c4091e8e8464eaf20.jpg",
+    "name": "KILL_BRUTE_BOSS"
+  },
+  {
+    "description": "",
+    "displayName": "Zbawiciel Nara",
+    "hidden": 1,
+    "icon": "images/4a85fb010db09a7f510fb31843285649600e13ff.jpg",
+    "icongray": "images/3d655d6fbe334322cf074a066b08056a73b74ecc.jpg",
+    "name": "CONNECT_SEEDLING"
+  },
+  {
+    "description": "Otwórz wszystkie grobowce starszyzny Nara",
+    "displayName": "Tomb Raider",
+    "hidden": 0,
+    "icon": "images/af96b417444a691ce1cd5267d029141493610c57.jpg",
+    "icongray": "images/01a4988b42c544fe13169762a15da56437fae5de.jpg",
+    "name": "OPEN_ALL_TOMBS"
+  },
+  {
+    "description": "Otwórz bramę do Królestwa Elderwood",
+    "displayName": "Dotrzyj do splugawionej ziemi",
+    "hidden": 0,
+    "icon": "images/275c4e6a91a57a0b455923bc1954567413e0de2d.jpg",
+    "icongray": "images/ef8862a8eabbdbc1e3f468ec2288f96cd4082fe9.jpg",
+    "name": "OPEN_VAULT_DOOR"
+  },
+  {
+    "description": "Pokonaj Króla Ognia Ramauga",
+    "displayName": "Płomień już zgasł",
+    "hidden": 0,
+    "icon": "images/05084cba35308e695fe6afa1f7d347ccd807cc10.jpg",
+    "icongray": "images/133cce87509d7ece3ebd64f21654d00e784eac22.jpg",
+    "name": "KILL_RAMAUG"
+  },
+  {
+    "description": "Skompletuj szyfr krypteksu Elderwood",
+    "displayName": "Zapomniana ścieżka",
+    "hidden": 0,
+    "icon": "images/2ccd09ff601d38750fe3ba76b2469598c823be66.jpg",
+    "icongray": "images/ff9a4031341d272532e29d1ac9aaecefafcf271b.jpg",
+    "name": "COMPLETE_CIPHER_PUZZLE"
+  },
+  {
+    "description": "",
+    "displayName": "Zbawiciel Żywej Rozpadliny",
+    "hidden": 1,
+    "icon": "images/6db5b98b09c8433f0fd1dd6bb243331284efb955.jpg",
+    "icongray": "images/0a47d5f5758a2d291668fd18c9d95b187fa3084e.jpg",
+    "name": "DEFEAT_FINAL_BOSS"
+  },
+  {
+    "description": "",
+    "displayName": "Masz moją uwagę",
+    "hidden": 1,
+    "icon": "images/cfd6c63c69aab8b3731d750a49c999c73283d084.jpg",
+    "icongray": "images/ff53bee89dc37474c94dbdbd690950e7f2e299de.jpg",
+    "name": "COMPLETE_GAME"
+  },
+  {
+    "description": "Przyjmij swój osąd od Starszego Nara Proteusza",
+    "displayName": "Przeznaczenie Nara",
+    "hidden": 0,
+    "icon": "images/fa04335d30bf8fc9b3fa915d80e84f098678b202.jpg",
+    "icongray": "images/554f1e063c0875eb0608414908753019f4dc42a4.jpg",
+    "name": "RECEIVE_JUDGEMENT"
+  },
+  {
+    "description": "Zbierz wszystkie relikwie Nara",
+    "displayName": "Starożytny uczony",
+    "hidden": 0,
+    "icon": "images/bc19ff392476c42cc8a9a36d84df886e16953d6d.jpg",
+    "icongray": "images/97dd975afb6346831d3aa5d41af1c1ee3e1487e7.jpg",
+    "name": "COLLECT_ALL_RELICS"
+  },
+  {
+    "description": "Stwórz wszystkie modyfikacje broni Hyperiona",
+    "displayName": "Zbrojownia Hyperiona",
+    "hidden": 0,
+    "icon": "images/6ba29d19e98f31b00bb4d2176b5281fb756e7c7b.jpg",
+    "icongray": "images/b73f4877861f824c3cd402e2653795cbec63cb06.jpg",
+    "name": "ALL_HYPERION_WEAPONS"
+  },
+  {
+    "description": "Odetnij głowę 100 żołnierzom Hyperiona",
+    "displayName": "Kat",
+    "hidden": 0,
+    "icon": "images/3da5ce5c3607fddd25cb42e2e3a3e5a9bba3dc99.jpg",
+    "icongray": "images/b7949981e8aae8b52d68164e8e9ef6443424935c.jpg",
+    "name": "SEVER_HEADS"
+  },
+  {
+    "description": "Zabij 1000 żołnierzy Hyperiona",
+    "displayName": "Wyzwoliciel",
+    "hidden": 0,
+    "icon": "images/e436899d8ab180195f24a38cd0475d9c19a1b534.jpg",
+    "icongray": "images/855113b4a43615a61523bc87a6b14bc5513633b8.jpg",
+    "name": "KILL_SOLDIERS"
+  },
+  {
+    "description": "Zabij wszystkie Wbijacze",
+    "displayName": "Wycieczka na ryby",
+    "hidden": 0,
+    "icon": "images/1d9114b08d58ab9cb72c7dba40ef2dff2966be77.jpg",
+    "icongray": "images/f6758e449ea584fdfc62626e8e062a7f0c8745da.jpg",
+    "name": "KILL_IMPALERS"
+  },
+  {
+    "description": "dołącz 3 pasujące zestawy modyfikacji do Lekkiej Broni Hyperiona",
+    "displayName": "Pełen zestaw",
+    "hidden": 0,
+    "icon": "images/707aa111a020438bced43a343e93c35cff108264.jpg",
+    "icongray": "images/3284ef953e7f3bcc8f704768106331fe47397655.jpg",
+    "name": "FULLY_KITTED_LIGHT"
+  },
+  {
+    "description": "dołącz 3 pasujące zestawy modyfikacji do Ciężkiej Broni Hyperiona",
+    "displayName": "Pełen ciężki zestaw",
+    "hidden": 0,
+    "icon": "images/979c2f7b5c9dabb6f22217a7d491a8b0c65225ed.jpg",
+    "icongray": "images/d6d62f9672fe4858ba195af4c3d831412b954367.jpg",
+    "name": "FULLY_KITTED_HEAVY"
+  },
+  {
+    "description": "Zbierz 20 000 metalu Hyperiona",
+    "displayName": "Nieskończone bogactwa",
+    "hidden": 0,
+    "icon": "images/64b447792f2bbd692445bda1e539234773a5e830.jpg",
+    "icongray": "images/2196041c1ce6f04e9cf158831a4949a05849d50c.jpg",
+    "name": "COLLECT_ALLOY"
+  },
+  {
+    "description": "Pokonaj drużyny bezpieczeństwa Hyperiona 1-4",
+    "displayName": "Blokada przełamana 1",
+    "hidden": 0,
+    "icon": "images/26f80f97d943ba0fcf28ae50fc04f8122e9a5a57.jpg",
+    "icongray": "images/15a860e65f6981df7c32d5e0161763e52d5e1830.jpg",
+    "name": "COMPLETE_TRIAL_4"
+  },
+  {
+    "description": "Pokonaj drużyny bezpieczeństwa Hyperiona 5-8",
+    "displayName": "Blokada przełamana 2",
+    "hidden": 0,
+    "icon": "images/ea50f05520a67f435495c9e9468ada89be1eac2b.jpg",
+    "icongray": "images/ba38c64449ad2d2e7c97360a7316d275bf33ffd7.jpg",
+    "name": "COMPLETE_TRIAL_8"
+  },
+  {
+    "description": "Pokonaj drużyny bezpieczeństwa Hyperiona 9-12",
+    "displayName": "Blokada przełamana 3",
+    "hidden": 0,
+    "icon": "images/0ad7f47601ef7f772e90e289316545e758ba598c.jpg",
+    "icongray": "images/86fc7dba75cefbca90a8f974fac57670389662c8.jpg",
+    "name": "COMPLETE_TRIAL_12"
+  },
+  {
+    "description": "Pokonaj 13 drużynę bezpieczeństwa Hyperiona",
+    "displayName": "Ostatnia blokada przełamana",
+    "hidden": 0,
+    "icon": "images/8b3cadec65c48627c68b718767b36dfe156c8fee.jpg",
+    "icongray": "images/4f9df30c4345a9adaa9faee7f927fb753bef7f86.jpg",
+    "name": "COMPLETE_TRIAL_13"
+  },
+  {
+    "description": "Ukończ wyzwania bezpieczeństwa Hyperiona 1-4",
+    "displayName": "Pretendent 1",
+    "hidden": 0,
+    "icon": "images/11033f6421c6f6f7c84214b891c698190a53454f.jpg",
+    "icongray": "images/aa64dff82ad9c9d7eb2bccfe43a9b9cec2e8cea9.jpg",
+    "name": "COMPLETE_CHALLENGES_1_4"
+  },
+  {
+    "description": "Ukończ wyzwania bezpieczeństwa Hyperiona 5-8",
+    "displayName": "Pretendent 2",
+    "hidden": 0,
+    "icon": "images/1453e71239d79cf1f6d790ea8ae6ff3b104b912f.jpg",
+    "icongray": "images/3b0ccff593925263d43f05f1468c70d80fffcb9f.jpg",
+    "name": "COMPLETE_CHALLENGES_5_8"
+  },
+  {
+    "description": "Ukończ wyzwania bezpieczeństwa Hyperiona 9-12",
+    "displayName": "Pretendent 3",
+    "hidden": 0,
+    "icon": "images/a61a72c96bba83d9ca697f4770860ce9bdae9b53.jpg",
+    "icongray": "images/e8c3bb84c6fd793ddd1bde83428f5455f097ea1a.jpg",
+    "name": "COMPLETE_CHALLENGES_9_12"
+  },
+  {
+    "description": "Ukończ 13 wyzwanie bezpieczeństwa Hyperiona",
+    "displayName": "Ostatnie wyzwanie",
+    "hidden": 0,
+    "icon": "images/ba2fabbfd0e41a98c0f7b7f43df53213a773ddd4.jpg",
+    "icongray": "images/10b73dfdf5320004234bd0694ab0fcb607aa2a27.jpg",
+    "name": "COMPLETE_CHALLENGE_13"
+  },
+  {
+    "description": "Ukończ początkowe wyzwania bezpieczeństwa 1-3",
+    "displayName": "Niezły start",
+    "hidden": 0,
+    "icon": "images/ec2be373fbefe1788975c4a1b80f6cc3daf22a4f.jpg",
+    "icongray": "images/e549d890de6463efa3fe50bc1b263eac5c6ac43c.jpg",
+    "name": "TUTORIAL_CHALLENGES_1_3"
+  }
+]
