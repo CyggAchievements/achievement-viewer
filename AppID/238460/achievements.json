@@ -1,0 +1,122 @@
+{
+    "ACH01_CAST_MEMBER": {
+        "earned": true,
+        "earned_time": 1403515200
+    },
+    "ACH02_SEASONED_PERFORMER": {
+        "earned": true,
+        "earned_time": 1403811120
+    },
+    "ACH03_VIRTUOSO": {
+        "earned": true,
+        "earned_time": 1403521440
+    },
+    "ACH04_SOLO_STAR": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH05_COOP_STAR": {
+        "earned": true,
+        "earned_time": 1407005760
+    },
+    "ACH06_INSANE_SOLO_STAR": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH07_INSANE_COOP_STAR": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH08_CROWD_PLEASER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH09_SECRET_HAT_HUNTER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH10_HATS_OFF": {
+        "earned": true,
+        "earned_time": 1407006180
+    },
+    "ACH11_THE_PROFESSIONAL": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH12_ALL_AROUND_JOE": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH13_SECRET_FINDER": {
+        "earned": true,
+        "earned_time": 1403519520
+    },
+    "ACH14_NAIL_FILE_CAKE": {
+        "earned": true,
+        "earned_time": 1403516880
+    },
+    "ACH15_BLACK_MARKETEER": {
+        "earned": true,
+        "earned_time": 1403516820
+    },
+    "ACH16_JAIL_BREAKER": {
+        "earned": true,
+        "earned_time": 1403814900
+    },
+    "ACH17_SOCIAL_BUTTERFLY": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH18_FREEDOM_HERO": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH19_ARMED_AND_DANGEROUS": {
+        "earned": true,
+        "earned_time": 1403813340
+    },
+    "ACH20_FIRST_TIME_TRADER": {
+        "earned": true,
+        "earned_time": 1403519280
+    },
+    "ACH21_TAKE_A_BOW": {
+        "earned": true,
+        "earned_time": 1403517840
+    },
+    "ACH22_TRAITOR": {
+        "earned": true,
+        "earned_time": 1403520360
+    },
+    "ACH23_DEADLY_PERFORMER": {
+        "earned": true,
+        "earned_time": 1403539860
+    },
+    "ACH24_CHICKEN_TOUCHER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH25_MELEE_MASTER": {
+        "earned": true,
+        "earned_time": 1403725560
+    },
+    "ACH26_WEAPONS_MASTER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH27_CONSOLATION_PRIZE": {
+        "earned": true,
+        "earned_time": 1403647020
+    },
+    "ACH28_PRISON_FOOD": {
+        "earned": true,
+        "earned_time": 1403520660
+    },
+    "ACH29_THEATER_CRITIC": {
+        "earned": true,
+        "earned_time": 1404045840
+    },
+    "ACH30_THEATER_MANAGER": {
+        "earned": true,
+        "earned_time": 1403724000
+    }
+}

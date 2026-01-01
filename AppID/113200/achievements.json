@@ -1,0 +1,398 @@
+{
+    "Baby": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Basement_Boy": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Book_of_Sin": {
+        "earned": true,
+        "earned_time": 1349641260
+    },
+    "Cain": {
+        "earned": true,
+        "earned_time": 1349126640
+    },
+    "Cave_Boy": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Chad": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Common_Cold": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Depths_Boy": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Eve": {
+        "earned": true,
+        "earned_time": 1349033400
+    },
+    "Forget_Me_Now": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Gish": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Golden_God": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "It_Lives": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Judas": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Killed_Mom": {
+        "earned": true,
+        "earned_time": 1349041200
+    },
+    "Lil_Chubby": {
+        "earned": true,
+        "earned_time": 1349392980
+    },
+    "Lokis_Horns": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Maggy": {
+        "earned": true,
+        "earned_time": 1349041200
+    },
+    "Moms_Contact": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Moms_Knife": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Money_Power": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Monstros_Tooth": {
+        "earned": true,
+        "earned_time": 1349033400
+    },
+    "Mr_Mega": {
+        "earned": true,
+        "earned_time": 1349479500
+    },
+    "Pill_Bottle": {
+        "earned": true,
+        "earned_time": 1349479500
+    },
+    "Steven": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Terrible": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Bag": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Bandage": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Bean": {
+        "earned": true,
+        "earned_time": 1349033400
+    },
+    "The_Cross": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_D6": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Demon_Baby": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Fetus": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Gamekid": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Guardian_Angel": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Halo": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Monster_Manual": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Nail": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Necronomicon": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Noose": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Parasite": {
+        "earned": true,
+        "earned_time": 1349033400
+    },
+    "The_Quarter": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Razor_Blade": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Robo-Baby": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Rock": {
+        "earned": true,
+        "earned_time": 1349033400
+    },
+    "The_Shears": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "The_Spelunker": {
+        "earned": true,
+        "earned_time": 1348956780
+    },
+    "The_Spider": {
+        "earned": true,
+        "earned_time": 1348956780
+    },
+    "The_Wafer": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Womb_Boy": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_abel": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_birdfoot": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_bloodlust": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_bloodpenny": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_bloodrights": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_burntpenny": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_candle": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_counterfeit": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_cross": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_d20": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_dadskey": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_eggsack": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_eye": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_faith": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_fish": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_hairball": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_hand": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_head": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_horn": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_knife2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_lock": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_megafetus": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_platinum": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_polaroid": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_rainbow": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_samson": {
+        "earned": true,
+        "earned_time": 1380406920
+    },
+    "_soul": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_spiderbutt": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_superfan": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_tail": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_toe": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "_tongue": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "a_gift_from_krampus": {
+        "earned": true,
+        "earned_time": 1348956780
+    },
+    "bombs": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "egod": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "eheart": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "eisaac": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "elife": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "emom": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "esatan": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "hardgame": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pblue": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pcain": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "peve": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pisaac": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pjudas": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pmaggy": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ppers": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "psam": {
+        "earned": false,
+        "earned_time": 0
+    }
+}

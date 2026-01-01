@@ -1,0 +1,454 @@
+{
+    "EACID_DLCAzrael_Shock_and_Awe": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBatGirl_Colletable": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBatGirl_HackingThugDefeated": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBatGirl_HiddenTapes": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBatGirl_HostageFerrisWheel": {
+        "earned": true,
+        "earned_time": 1446140160
+    },
+    "EACID_DLCBatGirl_HostageGhostShip": {
+        "earned": true,
+        "earned_time": 1446143100
+    },
+    "EACID_DLCBatGirl_HostageMerryGoRound": {
+        "earned": true,
+        "earned_time": 1446121560
+    },
+    "EACID_DLCBatGirl_JokerDefeated": {
+        "earned": true,
+        "earned_time": 1446143880
+    },
+    "EACID_DLCBatGirl_ScareHackThugDefeated": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBatgirl_Motherlode": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBmobArkham_Life_After_Death": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBmobBurton_Street_Demonz": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBmobClassic_A_Cut_Above": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBmobSnyder_The_Worlds_Finest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCBmobTumbler_Gangland_Express": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCCatwoman_Relentless": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCEternal": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCHarley_NightwingDefeated": {
+        "earned": true,
+        "earned_time": 1435164540
+    },
+    "EACID_DLCHarley_Vengeance_Unlimited": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCNightwing_Acts_of_Violence": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCRedhood_BlackMaskDefeated": {
+        "earned": true,
+        "earned_time": 1435428840
+    },
+    "EACID_DLCRedhood_Higher_Learning": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCRequiem_for_a_Killer": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCRobin_The_Big_Leagues": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCSecrets_of_the_Batcave": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCSilent_Night_Deadly_Night": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCStoryCatwoman_Final_Jeopardy": {
+        "earned": true,
+        "earned_time": 1456349100
+    },
+    "EACID_DLCStoryGCPD_Rough_Justice": {
+        "earned": true,
+        "earned_time": 1448450760
+    },
+    "EACID_DLCStoryTwoFace_Succession_Plans": {
+        "earned": true,
+        "earned_time": 1456401720
+    },
+    "EACID_DLCThe_Chill_in_the_Air": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCThe_Curtain_Falls": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_DLCVillainCroc_Breaking_The_Skin": {
+        "earned": true,
+        "earned_time": 1456229760
+    },
+    "EACID_DLCVillainCroc_Evolution": {
+        "earned": true,
+        "earned_time": 1456230480
+    },
+    "EACID_DLCVillainCroc_The_Beast_Beneath": {
+        "earned": true,
+        "earned_time": 1456229340
+    },
+    "EACID_DLCVillainFreeze_Cold_Case": {
+        "earned": true,
+        "earned_time": 1456344780
+    },
+    "EACID_DLCVillainFreeze_Out_In_The_Cold": {
+        "earned": true,
+        "earned_time": 1456345320
+    },
+    "EACID_DLCVillainFreeze_The_Resurrection_And_The_Life": {
+        "earned": true,
+        "earned_time": 1456345620
+    },
+    "EACID_DLCVillainHatter_In_Storybook_Endings": {
+        "earned": true,
+        "earned_time": 1456236900
+    },
+    "EACID_DLCVillainHatter_Mind_Games": {
+        "earned": true,
+        "earned_time": 1456235340
+    },
+    "EACID_DLCVillainHatter_The_Scene_Of_The_Crime": {
+        "earned": true,
+        "earned_time": 1456234860
+    },
+    "EACID_DLCVillainRas_Ashes_To_Ashes": {
+        "earned": true,
+        "earned_time": 1456343520
+    },
+    "EACID_DLCVillainRas_Daughter_Of_The_Demon": {
+        "earned": true,
+        "earned_time": 1456243320
+    },
+    "EACID_DLCVillainRas_The_Demon_Lives_Again": {
+        "earned": true,
+        "earned_time": 1456242720
+    },
+    "EACID_DLCWhat_the_Butler_Saw": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_MP_A_Battle_Within": {
+        "earned": true,
+        "earned_time": 1435516800
+    },
+    "EACID_MP_A_Heart_Broken_in_Two": {
+        "earned": true,
+        "earned_time": 1441656360
+    },
+    "EACID_MP_As_the_Crow_Flies": {
+        "earned": true,
+        "earned_time": 1435166460
+    },
+    "EACID_MP_Be_Not_Afraid": {
+        "earned": true,
+        "earned_time": 1442260380
+    },
+    "EACID_MP_Brothers_in_Arms": {
+        "earned": true,
+        "earned_time": 1441568040
+    },
+    "EACID_MP_City_of_Fear": {
+        "earned": true,
+        "earned_time": 1441902480
+    },
+    "EACID_MP_Cold_World": {
+        "earned": true,
+        "earned_time": 1435512360
+    },
+    "EACID_MP_Creature_of_the_Night": {
+        "earned": true,
+        "earned_time": 1441545600
+    },
+    "EACID_MP_Dark_Wings_Fly_Away_in_Fear": {
+        "earned": true,
+        "earned_time": 1435658220
+    },
+    "EACID_MP_Fear_of_Faith": {
+        "earned": true,
+        "earned_time": 1435142460
+    },
+    "EACID_MP_Fear_of_Success": {
+        "earned": true,
+        "earned_time": 1442233560
+    },
+    "EACID_MP_Journey_into_Knight": {
+        "earned": true,
+        "earned_time": 1435071120
+    },
+    "EACID_MP_Judgement_Day": {
+        "earned": true,
+        "earned_time": 1442231460
+    },
+    "EACID_MP_Knightfall": {
+        "earned": true,
+        "earned_time": 1447023000
+    },
+    "EACID_MP_Living_Hell": {
+        "earned": true,
+        "earned_time": 1435333140
+    },
+    "EACID_MP_Master_of_Fear": {
+        "earned": true,
+        "earned_time": 1442262900
+    },
+    "EACID_MP_No_Mans_Land": {
+        "earned": true,
+        "earned_time": 1435265040
+    },
+    "EACID_MP_Strange_Deadfellows": {
+        "earned": true,
+        "earned_time": 1441470360
+    },
+    "EACID_MP_The_Frequency_of_Fear": {
+        "earned": true,
+        "earned_time": 1435094220
+    },
+    "EACID_MP_The_Long_Halloween": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EACID_MP_Trail_of_Fear": {
+        "earned": true,
+        "earned_time": 1435082460
+    },
+    "EACID_MP_Who_Rules_The_Night": {
+        "earned": true,
+        "earned_time": 1441906080
+    },
+    "EACID_MP_With_a_Vengeance": {
+        "earned": true,
+        "earned_time": 1435858860
+    },
+    "EACID_MW_Angel_in_the_Dark": {
+        "earned": true,
+        "earned_time": 1442323920
+    },
+    "EACID_MW_Beautiful_Boy": {
+        "earned": true,
+        "earned_time": 1441829220
+    },
+    "EACID_MW_Blind_Love": {
+        "earned": true,
+        "earned_time": 1441907220
+    },
+    "EACID_MW_Dark_Allegiances": {
+        "earned": true,
+        "earned_time": 1442320800
+    },
+    "EACID_MW_Days_of_Fire": {
+        "earned": true,
+        "earned_time": 1441736280
+    },
+    "EACID_MW_Death_of_Innocents": {
+        "earned": true,
+        "earned_time": 1447022700
+    },
+    "EACID_MW_Double_Jeopardy": {
+        "earned": true,
+        "earned_time": 1441892400
+    },
+    "EACID_MW_Gates_of_Gotham": {
+        "earned": true,
+        "earned_time": 1442316360
+    },
+    "EACID_MW_Gotham_Underground": {
+        "earned": true,
+        "earned_time": 1442317860
+    },
+    "EACID_MW_Jekyll_and_Hyde": {
+        "earned": true,
+        "earned_time": 1441827660
+    },
+    "EACID_MW_Manhunt": {
+        "earned": true,
+        "earned_time": 1442347800
+    },
+    "EACID_MW_Practice_Run": {
+        "earned": true,
+        "earned_time": 1442244540
+    },
+    "EACID_MW_Scar_of_the_Bat": {
+        "earned": true,
+        "earned_time": 1442264820
+    },
+    "EACID_MW_Streets_of_Gotham": {
+        "earned": true,
+        "earned_time": 1442320260
+    },
+    "EACID_MW_The_Cult": {
+        "earned": true,
+        "earned_time": 1442243400
+    },
+    "EACID_MW_The_Road_Home": {
+        "earned": true,
+        "earned_time": 1441824720
+    },
+    "EACID_MW_Touch_of_Death": {
+        "earned": true,
+        "earned_time": 1442245440
+    },
+    "EACID_MW_Two_Faces_of_Fear": {
+        "earned": true,
+        "earned_time": 1435859880
+    },
+    "EACID_MW_Two_Sides_of_the_Same_Coin": {
+        "earned": true,
+        "earned_time": 1441826880
+    },
+    "EACID_OT_Absolution": {
+        "earned": true,
+        "earned_time": 1442324100
+    },
+    "EACID_OT_Black_and_White": {
+        "earned": true,
+        "earned_time": 1442765580
+    },
+    "EACID_OT_Blunt_Trauma": {
+        "earned": true,
+        "earned_time": 1442510520
+    },
+    "EACID_OT_Cycle_of_Violence": {
+        "earned": true,
+        "earned_time": 1441828320
+    },
+    "EACID_OT_Dead_to_Rights": {
+        "earned": true,
+        "earned_time": 1442508240
+    },
+    "EACID_OT_Death_and_Glory": {
+        "earned": true,
+        "earned_time": 1441826340
+    },
+    "EACID_OT_Dreamland": {
+        "earned": true,
+        "earned_time": 1435176900
+    },
+    "EACID_OT_Fortunate_Son": {
+        "earned": true,
+        "earned_time": 1441659480
+    },
+    "EACID_OT_Gotham_After_Midnight": {
+        "earned": true,
+        "earned_time": 1442242980
+    },
+    "EACID_OT_Rite_of_Passage": {
+        "earned": true,
+        "earned_time": 1435142640
+    },
+    "EACID_OT_Seduction_of_the_Gun": {
+        "earned": true,
+        "earned_time": 1435518300
+    },
+    "EACID_OT_Sins_of_Youth": {
+        "earned": true,
+        "earned_time": 1435444920
+    },
+    "EACID_OT_The_Real_Deal": {
+        "earned": true,
+        "earned_time": 1442581560
+    },
+    "EACID_OT_The_Twilight_Kingdom": {
+        "earned": true,
+        "earned_time": 1442263560
+    },
+    "EACID_OT_Unseen": {
+        "earned": true,
+        "earned_time": 1442253360
+    },
+    "EACID_RI_Death_by_Design": {
+        "earned": true,
+        "earned_time": 1441737240
+    },
+    "EACID_RI_Lethal_Pursuits": {
+        "earned": true,
+        "earned_time": 1441738860
+    },
+    "EACID_RI_Nine_Lives": {
+        "earned": true,
+        "earned_time": 1442252820
+    },
+    "EACID_RI_Pieces_of_the_Puzzle": {
+        "earned": true,
+        "earned_time": 1435266660
+    },
+    "EACID_RI_Riddle_Me_That": {
+        "earned": true,
+        "earned_time": 1447019040
+    },
+    "EACID_RI_Riddler_on_the_Rampage": {
+        "earned": true,
+        "earned_time": 1435269720
+    },
+    "EACID_RI_Riddles_in_the_Dark": {
+        "earned": true,
+        "earned_time": 1435267440
+    },
+    "EACID_RI_The_Burning_Question": {
+        "earned": true,
+        "earned_time": 1435314480
+    },
+    "EACID_RI_The_Primal_Riddle": {
+        "earned": true,
+        "earned_time": 1435317240
+    },
+    "EACID_RI_The_Riddle_Factory": {
+        "earned": true,
+        "earned_time": 1441738080
+    },
+    "EACID_RI_The_Riddle_Unanswered": {
+        "earned": true,
+        "earned_time": 1442510940
+    },
+    "EACID_RI_The_Road_to_Hell": {
+        "earned": true,
+        "earned_time": 1435084080
+    }
+}

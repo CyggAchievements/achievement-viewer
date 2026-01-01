@@ -1,0 +1,102 @@
+{
+    "ACH_APPRENTICE_CRAFTSMAN": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_APPRENTICE_HUNTER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_CARTOGRAPHER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_CHEF": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_CLEANSE_THE_LAND": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_COOK": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_CRAFTSMAN": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_ELITE": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_ELITE_EXPLORER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_EXPLORER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_FIRESTARTER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_HUNTER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_JUNIOR_LOGGER": {
+        "earned": true,
+        "earned_time": 1675171254
+    },
+    "ACH_LEGENDARY": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_LOGGER": {
+        "earned": true,
+        "earned_time": 1675179090
+    },
+    "ACH_LUMBERJACK": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_PATHFINDER": {
+        "earned": true,
+        "earned_time": 1675276903
+    },
+    "ACH_REACH_FOR_THE_GODS": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_RELEASE_THE_BOAR": {
+        "earned": true,
+        "earned_time": 1675102100
+    },
+    "ACH_RELEASE_THE_CROGON": {
+        "earned": true,
+        "earned_time": 1675182516
+    },
+    "ACH_RELEASE_THE_DEVOURER": {
+        "earned": true,
+        "earned_time": 1675028850
+    },
+    "ACH_RELEASE_THE_SATYR": {
+        "earned": true,
+        "earned_time": 1675026782
+    },
+    "ACH_RELEASE_THE_YETI": {
+        "earned": true,
+        "earned_time": 1675173098
+    },
+    "ACH_SLAYER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ACH_SOULS_ECHO": {
+        "earned": false,
+        "earned_time": 0
+    }
+}

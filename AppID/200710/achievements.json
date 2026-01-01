@@ -1,0 +1,478 @@
+{
+    "BOSS_ARTIFICER": {
+        "earned": true,
+        "earned_time": 1434737220
+    },
+    "BOSS_BLOATFANG": {
+        "earned": true,
+        "earned_time": 1436297940
+    },
+    "BOSS_BOLETUSREX": {
+        "earned": true,
+        "earned_time": 1435002840
+    },
+    "BOSS_CACKLESPIT": {
+        "earned": true,
+        "earned_time": 1436302260
+    },
+    "BOSS_CHILLHOOF": {
+        "earned": true,
+        "earned_time": 1434720780
+    },
+    "BOSS_DARKALCHEMIST": {
+        "earned": true,
+        "earned_time": 1437241200
+    },
+    "BOSS_DRAGON": {
+        "earned": true,
+        "earned_time": 1437238080
+    },
+    "BOSS_DRAGON_SPIRIT": {
+        "earned": true,
+        "earned_time": 1436304720
+    },
+    "BOSS_EZREKKHAN": {
+        "earned": true,
+        "earned_time": 1434820500
+    },
+    "BOSS_FALLENGUARDIAN": {
+        "earned": true,
+        "earned_time": 1434659700
+    },
+    "BOSS_GRANDREGENT": {
+        "earned": true,
+        "earned_time": 1434728940
+    },
+    "BOSS_GRELL": {
+        "earned": true,
+        "earned_time": 1434664680
+    },
+    "BOSS_GRIZZLEDALPHA": {
+        "earned": true,
+        "earned_time": 1436297280
+    },
+    "BOSS_KIDRIK": {
+        "earned": true,
+        "earned_time": 1434721620
+    },
+    "BOSS_KILLBOT": {
+        "earned": true,
+        "earned_time": 1437239100
+    },
+    "BOSS_KINGINMASKS": {
+        "earned": true,
+        "earned_time": 1434999780
+    },
+    "BOSS_MANTICORE": {
+        "earned": true,
+        "earned_time": 1434735180
+    },
+    "BOSS_MANTICOREMATE": {
+        "earned": true,
+        "earned_time": 1434735180
+    },
+    "BOSS_MORDROX": {
+        "earned": true,
+        "earned_time": 1434725880
+    },
+    "BOSS_NETHERKING": {
+        "earned": true,
+        "earned_time": 1437248400
+    },
+    "BOSS_NETHERKING_ALLCLASSES": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_BERSERKER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_DIF_CASUAL": {
+        "earned": true,
+        "earned_time": 1437248400
+    },
+    "BOSS_NETHERKING_DIF_ELITE": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_DIF_NORMAL": {
+        "earned": true,
+        "earned_time": 1437248400
+    },
+    "BOSS_NETHERKING_DIF_VETERAN": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_EMBERMAGE": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_ENGINEER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_HC_CASUAL": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_HC_ELITE": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_HC_NORMAL": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_HC_VETERAN": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_NETHERKING_OUTLANDER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_ONEEYEDWILLY": {
+        "earned": true,
+        "earned_time": 1434661440
+    },
+    "BOSS_POGG": {
+        "earned": true,
+        "earned_time": 1434723240
+    },
+    "BOSS_SIEGEGUARDIAN": {
+        "earned": true,
+        "earned_time": 1435000380
+    },
+    "BOSS_THREESISTERS_ALEERA": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_THREESISTERS_MARISHKA": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_THREESISTERS_VERONA": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOSS_TUTARA": {
+        "earned": true,
+        "earned_time": 1434818820
+    },
+    "BOSS_WINTERWIDOW": {
+        "earned": true,
+        "earned_time": 1434718800
+    },
+    "BOSS_WRAITHLORD": {
+        "earned": true,
+        "earned_time": 1435007820
+    },
+    "BREAKOBJECTS_0": {
+        "earned": true,
+        "earned_time": 1434721500
+    },
+    "BREAKOBJECTS_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BREAKOBJECTS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CRITCOUNT_0": {
+        "earned": true,
+        "earned_time": 1434723180
+    },
+    "CRITCOUNT_1": {
+        "earned": true,
+        "earned_time": 1437248340
+    },
+    "CRITCOUNT_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "DYNAMITEFISHING": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ENCHANTING_0": {
+        "earned": true,
+        "earned_time": 1434734760
+    },
+    "ENCHANTING_1": {
+        "earned": true,
+        "earned_time": 1436302020
+    },
+    "ENCHANTING_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EXPLODEENEMIES_0": {
+        "earned": true,
+        "earned_time": 1434661140
+    },
+    "EXPLODEENEMIES_1": {
+        "earned": true,
+        "earned_time": 1434727320
+    },
+    "EXPLODEENEMIES_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FINDLEGENDARYITEM": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FISHING_0": {
+        "earned": true,
+        "earned_time": 1434660720
+    },
+    "FISHING_1": {
+        "earned": true,
+        "earned_time": 1436299140
+    },
+    "FISHING_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FRIENDSLIST_0": {
+        "earned": true,
+        "earned_time": 1434656640
+    },
+    "FRIENDSLIST_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FRIENDSLIST_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FULLARMORSET": {
+        "earned": true,
+        "earned_time": 1434811980
+    },
+    "GAMBLING_0": {
+        "earned": true,
+        "earned_time": 1437241680
+    },
+    "GAMBLING_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "GAMBLING_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "HARDCOREDEATH_0": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "HARDCOREPLAYER_CREATE": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "INVENTORYGOLD_0": {
+        "earned": true,
+        "earned_time": 1434730740
+    },
+    "INVENTORYGOLD_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "INVENTORYGOLD_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "KILLCHAMPS_0": {
+        "earned": true,
+        "earned_time": 1434663120
+    },
+    "KILLCHAMPS_1": {
+        "earned": true,
+        "earned_time": 1434722880
+    },
+    "KILLCHAMPS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "LEVELCAP": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "MAXDAMAGE": {
+        "earned": true,
+        "earned_time": 1436299800
+    },
+    "MULTIPLAYER_CREATE": {
+        "earned": true,
+        "earned_time": 1434656700
+    },
+    "MULTIPLAYER_JOIN": {
+        "earned": true,
+        "earned_time": 1434657120
+    },
+    "NEWGAMEPLUS": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OPENCHESTS_0": {
+        "earned": true,
+        "earned_time": 1434663540
+    },
+    "OPENCHESTS_1": {
+        "earned": true,
+        "earned_time": 1434812820
+    },
+    "OPENCHESTS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PLAYERSTEPS_0": {
+        "earned": true,
+        "earned_time": 1434721500
+    },
+    "PLAYERSTEPS_1": {
+        "earned": true,
+        "earned_time": 1436304300
+    },
+    "PLAYERSTEPS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "RECOVERGEM_0": {
+        "earned": true,
+        "earned_time": 1434817380
+    },
+    "RECOVERGEM_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "RECOVERGEM_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "RECOVERITEM_0": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "RECOVERITEM_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "RECOVERITEM_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SECRETROOMS_0": {
+        "earned": true,
+        "earned_time": 1434663840
+    },
+    "SECRETROOMS_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SECRETROOMS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SELLITEMS_0": {
+        "earned": true,
+        "earned_time": 1434730200
+    },
+    "SELLITEMS_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SELLITEMS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SENDPETTOTOWN": {
+        "earned": true,
+        "earned_time": 1434659880
+    },
+    "SKILLTIERS_0": {
+        "earned": true,
+        "earned_time": 1434720660
+    },
+    "SKILLTIERS_1": {
+        "earned": true,
+        "earned_time": 1436299680
+    },
+    "SKILLTIERS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SOCKETING_0": {
+        "earned": true,
+        "earned_time": 1434658200
+    },
+    "SOCKETING_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SOCKETING_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SPELLS_PET_0": {
+        "earned": true,
+        "earned_time": 1434721800
+    },
+    "SPELLS_PET_1": {
+        "earned": true,
+        "earned_time": 1434727020
+    },
+    "SPELLS_PLAYER_0": {
+        "earned": true,
+        "earned_time": 1434657900
+    },
+    "SPELLS_PLAYER_1": {
+        "earned": true,
+        "earned_time": 1434721740
+    },
+    "SQUISH_0": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SQUISH_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SQUISH_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "TRADEITEM": {
+        "earned": true,
+        "earned_time": 1434729480
+    },
+    "TRILLBOTASSEMBLED": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "USEMAPS_0": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "USEMAPS_1": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "USEMAPS_2": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "USEPOTIONS_0": {
+        "earned": true,
+        "earned_time": 1434720300
+    },
+    "USEPOTIONS_1": {
+        "earned": true,
+        "earned_time": 1435001460
+    },
+    "USEPOTIONS_2": {
+        "earned": false,
+        "earned_time": 0
+    }
+}

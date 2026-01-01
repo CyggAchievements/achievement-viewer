@@ -1,0 +1,390 @@
+{
+    "air_hammer": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "allchest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "allchest_dlc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "allexp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "allexp_both": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "allexp_dlc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "allhc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "allhc_dlc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "arrow": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "bounce": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "bubble": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "carni": {
+        "earned": true,
+        "earned_time": 1436644320
+    },
+    "catapult": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "catch": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "charge": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "expbottle": {
+        "earned": true,
+        "earned_time": 1435929000
+    },
+    "expbottle_dlc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "friendly_fire": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "frozen_tower": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "game_completed": {
+        "earned": true,
+        "earned_time": 1437392220
+    },
+    "grenade": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "hammer": {
+        "earned": true,
+        "earned_time": 1436647260
+    },
+    "hard_hc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "hard_hc_dlc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "hazard": {
+        "earned": true,
+        "earned_time": 1435932840
+    },
+    "level10_chest": {
+        "earned": true,
+        "earned_time": 1436716140
+    },
+    "level10_completed": {
+        "earned": true,
+        "earned_time": 1436717340
+    },
+    "level10_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level11_chest": {
+        "earned": true,
+        "earned_time": 1436719800
+    },
+    "level11_completed": {
+        "earned": true,
+        "earned_time": 1436720040
+    },
+    "level11_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level12_chest": {
+        "earned": true,
+        "earned_time": 1436721780
+    },
+    "level12_completed": {
+        "earned": true,
+        "earned_time": 1436722200
+    },
+    "level12_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level13_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level13_completed": {
+        "earned": true,
+        "earned_time": 1437392220
+    },
+    "level14_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level14_completed": {
+        "earned": true,
+        "earned_time": 1437394740
+    },
+    "level14_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level15_chest": {
+        "earned": true,
+        "earned_time": 1437396540
+    },
+    "level15_completed": {
+        "earned": true,
+        "earned_time": 1437396840
+    },
+    "level15_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level16_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level16_completed": {
+        "earned": true,
+        "earned_time": 1437398760
+    },
+    "level16_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level17_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level17_completed": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level17_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level18_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level18_completed": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level18_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level19_completed": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level1_completed": {
+        "earned": true,
+        "earned_time": 1435929000
+    },
+    "level1_exp": {
+        "earned": true,
+        "earned_time": 1435929000
+    },
+    "level2_chest": {
+        "earned": true,
+        "earned_time": 1435930140
+    },
+    "level2_completed": {
+        "earned": true,
+        "earned_time": 1435931040
+    },
+    "level2_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level3_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level3_completed": {
+        "earned": true,
+        "earned_time": 1435932960
+    },
+    "level3_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level4_chest": {
+        "earned": true,
+        "earned_time": 1436265120
+    },
+    "level4_completed": {
+        "earned": true,
+        "earned_time": 1436265960
+    },
+    "level4_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level5_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level5_completed": {
+        "earned": true,
+        "earned_time": 1436269080
+    },
+    "level5_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level6_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level6_completed": {
+        "earned": true,
+        "earned_time": 1436644140
+    },
+    "level6_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level7_chest": {
+        "earned": true,
+        "earned_time": 1436645520
+    },
+    "level7_completed": {
+        "earned": true,
+        "earned_time": 1436646060
+    },
+    "level7_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level8_chest": {
+        "earned": true,
+        "earned_time": 1436646720
+    },
+    "level8_completed": {
+        "earned": true,
+        "earned_time": 1436647680
+    },
+    "level8_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level9_chest": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "level9_completed": {
+        "earned": true,
+        "earned_time": 1436714820
+    },
+    "level9_exp": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "no_damage": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pit": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "platinum": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "platinum_dlc": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pontiusglide": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pontiustower": {
+        "earned": true,
+        "earned_time": 1436267340
+    },
+    "raft": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "rope": {
+        "earned": true,
+        "earned_time": 1436644860
+    },
+    "sandworm": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "shatter": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "solo": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "solo_all": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "solo_amadeus": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "solo_dlc_levels": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "solo_pontius": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "solo_zoya": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "surf": {
+        "earned": true,
+        "earned_time": 1437392640
+    },
+    "tower": {
+        "earned": true,
+        "earned_time": 1436647140
+    },
+    "trapstack": {
+        "earned": false,
+        "earned_time": 0
+    }
+}

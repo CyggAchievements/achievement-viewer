@@ -1,0 +1,194 @@
+{
+    "FA_BeginEp02_StreetInvestigation": {
+        "earned": true,
+        "earned_time": 1424431980
+    },
+    "FA_BeginEp03_LandedOnStreet": {
+        "earned": true,
+        "earned_time": 1424434200
+    },
+    "FA_BeginEp04_ExitedChurchBackOnStreet": {
+        "earned": true,
+        "earned_time": 1424450760
+    },
+    "FA_CollectiblesAcquiredAll": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeBaxter": {
+        "earned": true,
+        "earned_time": 1424515500
+    },
+    "FA_CollectiblesAcquiredAllTypeBellKiller": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeCassandra": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostGraffiti": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryApartment": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryAsylum": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryChurch": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryGraveyard": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryJudgementHouse": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryMuseum": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryPoliceStation": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeGhostStoryTown": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeHistoricalMarker": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeJuliaDiary": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeRex": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeRonan": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAllTypeWitchTrial": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAny1": {
+        "earned": true,
+        "earned_time": 1424432880
+    },
+    "FA_CollectiblesAcquiredAny10": {
+        "earned": true,
+        "earned_time": 1424442300
+    },
+    "FA_CollectiblesAcquiredAny100": {
+        "earned": true,
+        "earned_time": 1424637780
+    },
+    "FA_CollectiblesAcquiredAny150": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CollectiblesAcquiredAny25": {
+        "earned": true,
+        "earned_time": 1424451060
+    },
+    "FA_CollectiblesAcquiredAny50": {
+        "earned": true,
+        "earned_time": 1424516940
+    },
+    "FA_CollectiblesAcquiredAny75": {
+        "earned": true,
+        "earned_time": 1424605980
+    },
+    "FA_CompletedSideQuestGhostStalkingEngagedCouple": {
+        "earned": true,
+        "earned_time": 1424524260
+    },
+    "FA_CompletedSideQuestGhostWomanOnBeach": {
+        "earned": true,
+        "earned_time": 1424434920
+    },
+    "FA_CompletedSideQuestOldCoupleInApartment": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_CompletedSideQuestSeveralCarsMemoryResidue": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FA_DefeatedAbigail": {
+        "earned": true,
+        "earned_time": 1426189380
+    },
+    "FA_DefeatedDemon": {
+        "earned": true,
+        "earned_time": 1424433300
+    },
+    "FA_EndEp04_ReExaminedJoy": {
+        "earned": true,
+        "earned_time": 1424463660
+    },
+    "FA_EndEp05_OnStreet_InFrontOfGraveyard": {
+        "earned": true,
+        "earned_time": 1424523660
+    },
+    "FA_EndEp06_ReExaminded_BackOnStreet": {
+        "earned": true,
+        "earned_time": 1424606880
+    },
+    "FA_EndEp07_BackInTown": {
+        "earned": true,
+        "earned_time": 1424637360
+    },
+    "FA_EndEp08_ExitedMuseum_BackInTown": {
+        "earned": true,
+        "earned_time": 1426163160
+    },
+    "FA_EndEp09_ExitedJudgementHouse_BackInTown": {
+        "earned": true,
+        "earned_time": 1426179180
+    },
+    "FA_Ep02_CompletedStreetInvestigation": {
+        "earned": true,
+        "earned_time": 1424432760
+    },
+    "FA_InterrogatedOptionalGhost": {
+        "earned": true,
+        "earned_time": 1424433120
+    },
+    "FA_PossessedCat": {
+        "earned": true,
+        "earned_time": 1424442960
+    },
+    "FA_UsedMindRead": {
+        "earned": true,
+        "earned_time": 1424432520
+    },
+    "FA_UsedPoltergeist": {
+        "earned": true,
+        "earned_time": 1424450580
+    },
+    "FA_UsedRemove": {
+        "earned": true,
+        "earned_time": 1424431800
+    },
+    "FA_UsedReveal": {
+        "earned": true,
+        "earned_time": 1424433540
+    },
+    "FA_UsedTeleport": {
+        "earned": true,
+        "earned_time": 1424517120
+    }
+}

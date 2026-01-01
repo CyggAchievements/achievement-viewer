@@ -1,0 +1,90 @@
+{
+    "COMPLETE_ALCHEMY_CHURCH": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "COMPLETE_ALCHEMY_TOWER": {
+        "earned": true,
+        "earned_time": 1586031750
+    },
+    "COMPLETE_BASECAMP": {
+        "earned": true,
+        "earned_time": 1585923405
+    },
+    "COMPLETE_BREWERY_CHURCH": {
+        "earned": true,
+        "earned_time": 1586103672
+    },
+    "COMPLETE_BREWERY_TOWER": {
+        "earned": true,
+        "earned_time": 1586024831
+    },
+    "COMPLETE_BRIDGE": {
+        "earned": true,
+        "earned_time": 1586016498
+    },
+    "COMPLETE_CAVE": {
+        "earned": true,
+        "earned_time": 1586014348
+    },
+    "COMPLETE_MIRROR_ROOM_CHURCH": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "COMPLETE_MIRROR_ROOM_TOWER": {
+        "earned": true,
+        "earned_time": 1586028261
+    },
+    "COMPLETE_NUMBER_LINK_CHURCH": {
+        "earned": true,
+        "earned_time": 1586017762
+    },
+    "COMPLETE_NUMBER_LINK_TOWER": {
+        "earned": true,
+        "earned_time": 1586101058
+    },
+    "COMPLETE_PIPES_BOTH": {
+        "earned": true,
+        "earned_time": 1586023022
+    },
+    "COMPLETE_SILO_CHURCH": {
+        "earned": true,
+        "earned_time": 1586102904
+    },
+    "COMPLETE_SILO_TOWER": {
+        "earned": true,
+        "earned_time": 1586023988
+    },
+    "COMPLETE_TESLA_CHURCH": {
+        "earned": true,
+        "earned_time": 1586018212
+    },
+    "COMPLETE_TESLA_TOWER": {
+        "earned": true,
+        "earned_time": 1586101439
+    },
+    "COMPLETE_THRONE_ROOM_CHURCH": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "COMPLETE_THRONE_ROOM_TOWER": {
+        "earned": true,
+        "earned_time": 1586034385
+    },
+    "COMPLETE_WALL": {
+        "earned": true,
+        "earned_time": 1586013332
+    },
+    "INVITE_A_FRIEND": {
+        "earned": true,
+        "earned_time": 1585921785
+    },
+    "KILL_OTHER": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "KILL_YOURSELF": {
+        "earned": false,
+        "earned_time": 0
+    }
+}
