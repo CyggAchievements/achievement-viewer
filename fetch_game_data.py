@@ -9,6 +9,7 @@ import subprocess
 import re
 import asyncio
 from playwright.async_api import async_playwright
+import hashlib
 
 # --- Constants & environment --- #
 STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
@@ -401,10 +402,18 @@ else:
 
 # --- Load existing game-data.json --- #
 existing_game_data = {}
-existing_data_list = load_json_file(game_data_path) or []
-for game in existing_data_list:
-    existing_game_data[game["appid"]] = game
-print(f"Loaded existing data for {len(existing_game_data)} games")
+existing_data_file = load_json_file(game_data_path)
+
+# Handle both old format (list) and new format (dict with games key)
+if existing_data_file:
+    if isinstance(existing_data_file, dict) and "games" in existing_data_file:
+        existing_data_list = existing_data_file["games"]
+    else:
+        existing_data_list = existing_data_file
+    
+    for game in existing_data_list:
+        existing_game_data[game["appid"]] = game
+    print(f"Loaded existing data for {len(existing_game_data)} games")
 
 # --- Main AppID Processing Loop --- #
 for appid in appids:
@@ -591,5 +600,12 @@ for folder in appid_dir.iterdir():
                 }
             )
 
-save_json_file(game_data_path, all_game_data)
+# Wrap games with metadata
+final_output = {
+    "last_updated": int(time.time()),
+    "total_games": len(all_game_data),
+    "games": all_game_data
+}
+
+save_json_file(game_data_path, final_output)
 print(f"\n✓ Updated {len(appids)} game(s), total games in data: {len(all_game_data)}")

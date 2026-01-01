@@ -5,9 +5,102 @@ let hubOwner = '';
 
 async function loadGameData(person) {
   const url = `https://raw.githubusercontent.com/${person.login}/${person.repo || 'achievement-viewer'}/user/game-data.json`;
-  const data = await fetchJSON(url);
+  
+  try {
+    const data = await fetchJSON(url);
 
-  if (!data) {
+    if (!data) {
+      console.warn(`No game data found for ${person.login}`);
+      person.gameData = [];
+      person.achievements = 0;
+      person.totalGames = 0;
+      person.perfectGames = 0;
+      person.totalAchievements = 0;
+      return person;
+    }
+
+    // Handle both old format (array) and new format (object with games key)
+    let games;
+    if (Array.isArray(data)) {
+      games = data;
+    } else if (data.games && Array.isArray(data.games)) {
+      games = data.games;
+    } else {
+      console.error(`Invalid game-data.json format for ${person.login}`, data);
+      person.gameData = [];
+      person.achievements = 0;
+      person.totalGames = 0;
+      person.perfectGames = 0;
+      person.totalAchievements = 0;
+      return person;
+    }
+
+    console.log(`Processing ${games.length} games for ${person.login}`);
+
+    let earnedAchievements = 0;
+    let totalAchievements = 0;
+    let perfect = 0;
+
+    for (const g of games) {
+      // Handle both possible structures
+      const gameInfo = g.info || g;
+      const gameAchievements = g.achievements || {};
+      const blacklist = gameInfo?.blacklist || [];
+      
+      const hasFullSchema = gameInfo && 
+                           gameInfo.achievements && 
+                           Object.keys(gameInfo.achievements).length > 0;
+      
+      let totalCount = 0;
+      let earnedCount = 0;
+      let canDeterminePerfect = false;
+      
+      if (hasFullSchema) {
+        const schemaKeys = Object.keys(gameInfo.achievements);
+        const validSchemaKeys = schemaKeys.filter(key => !blacklist.includes(key));
+        totalCount = validSchemaKeys.length;
+        
+        for (const key of validSchemaKeys) {
+          const userAch = gameAchievements[key];
+          if (userAch && (userAch.earned === true || userAch.earned === 1)) {
+            earnedCount++;
+          }
+        }
+        
+        canDeterminePerfect = true;
+      } else {
+        const saveKeys = Object.keys(gameAchievements);
+        totalCount = saveKeys.length;
+        
+        for (const key of saveKeys) {
+          const userAch = gameAchievements[key];
+          if (userAch && (userAch.earned === true || userAch.earned === 1)) {
+            earnedCount++;
+          }
+        }
+        
+        canDeterminePerfect = false;
+      }
+      
+      earnedAchievements += earnedCount;
+      totalAchievements += totalCount;
+      
+      if (canDeterminePerfect && totalCount > 0 && earnedCount === totalCount) {
+        perfect++;
+      }
+    }
+
+    person.gameData = games;
+    person.achievements = earnedAchievements;
+    person.totalGames = games.length;
+    person.perfectGames = perfect;
+    person.totalAchievements = totalAchievements;
+    
+    console.log(`✓ Loaded data for ${person.login}: ${earnedAchievements}/${totalAchievements} achievements, ${perfect}/${games.length} perfect games`);
+    return person;
+    
+  } catch (error) {
+    console.error(`Error loading game data for ${person.login}:`, error);
     person.gameData = [];
     person.achievements = 0;
     person.totalGames = 0;
@@ -15,63 +108,6 @@ async function loadGameData(person) {
     person.totalAchievements = 0;
     return person;
   }
-
-  let earnedAchievements = 0;
-  let totalAchievements = 0;
-  let perfect = 0;
-
-  for (const g of data) {
-    const blacklist = g.info?.blacklist || [];
-    
-    const hasFullSchema = g.info && 
-                         g.info.achievements && 
-                         Object.keys(g.info.achievements).length > 0;
-    
-    let totalCount = 0;
-    let earnedCount = 0;
-    let canDeterminePerfect = false;
-    
-    if (hasFullSchema) {
-      const schemaKeys = Object.keys(g.info.achievements);
-      const validSchemaKeys = schemaKeys.filter(key => !blacklist.includes(key));
-      totalCount = validSchemaKeys.length;
-      
-      for (const key of validSchemaKeys) {
-        const userAch = g.achievements[key];
-        if (userAch && (userAch.earned === true || userAch.earned === 1)) {
-          earnedCount++;
-        }
-      }
-      
-      canDeterminePerfect = true;
-    } else {
-      const saveKeys = Object.keys(g.achievements);
-      totalCount = saveKeys.length;
-      
-      for (const key of saveKeys) {
-        const userAch = g.achievements[key];
-        if (userAch && (userAch.earned === true || userAch.earned === 1)) {
-          earnedCount++;
-        }
-      }
-      
-      canDeterminePerfect = false;
-    }
-    
-    earnedAchievements += earnedCount;
-    totalAchievements += totalCount;
-    
-    if (canDeterminePerfect && totalCount > 0 && earnedCount === totalCount) {
-      perfect++;
-    }
-  }
-
-  person.gameData = data;
-  person.achievements = earnedAchievements;
-  person.totalGames = data.length;
-  person.perfectGames = perfect;
-  person.totalAchievements = totalAchievements;
-  return person;
 }
 
 async function addUserToGrid(person) {
@@ -201,45 +237,69 @@ function renderFiltered() {
 }
 
 (async () => {
-  const current = detectRepo();
-  if (!current) return;
+  try {
+    const current = detectRepo();
+    if (!current) {
+      console.error('Could not detect current repository');
+      return;
+    }
 
-  const root = await resolveRootRepo(current.owner, current.repo);
-  
-  // ✅ SET HUB OWNER: This is the user "we opened the hub from originally"
-  hubOwner = root.owner;
+    console.log('Detected repo:', current);
 
-  // Main repo user
-  const mainUser = {
-    login: root.owner,
-    avatar: `https://github.com/${root.owner}.png`,
-    original: true,
-    repo: root.repo,
-  };
-  
-  // Load main user data first
-  await addUserToGrid(mainUser);
-  allUsers.push(mainUser);
+    const root = await resolveRootRepo(current.owner, current.repo);
+    console.log('Root repo:', root);
+    
+    // ✅ SET HUB OWNER: This is the user "we opened the hub from originally"
+    hubOwner = root.owner;
 
-  // Fetch forks
-  const forks = await fetchAllForks(root.owner, root.repo);
-  
-  // Load all fork users
-  for (const f of forks) {
-    const forkUser = {
-      login: f.owner.login,
-      avatar: `https://github.com/${f.owner.login}.png`,
-      original: false,
-      repo: f.name,
+    // Main repo user
+    const mainUser = {
+      login: root.owner,
+      avatar: `https://github.com/${root.owner}.png`,
+      original: true,
+      repo: root.repo,
     };
-    await addUserToGrid(forkUser);
-    allUsers.push(forkUser);
+    
+    // Load main user data first
+    console.log('Loading main user:', mainUser.login);
+    await addUserToGrid(mainUser);
+    allUsers.push(mainUser);
+
+    // Fetch forks
+    console.log('Fetching forks...');
+    const forks = await fetchAllForks(root.owner, root.repo);
+    console.log(`Found ${forks.length} forks`);
+    
+    // Load all fork users
+    for (const f of forks) {
+      const forkUser = {
+        login: f.owner.login,
+        avatar: `https://github.com/${f.owner.login}.png`,
+        original: false,
+        repo: f.name,
+      };
+      console.log('Loading fork user:', forkUser.login);
+      await addUserToGrid(forkUser);
+      allUsers.push(forkUser);
+    }
+
+    // Apply initial sort (default to A→Z)
+    renderFiltered();
+
+    // Setup event listeners
+    document.getElementById('search').addEventListener('input', renderFiltered);
+    document.getElementById('sort').addEventListener('change', renderFiltered);
+    
+    console.log('✓ Hub loaded successfully with', allUsers.length, 'users');
+  } catch (error) {
+    console.error('Fatal error loading hub:', error);
+    const grid = document.getElementById('grid');
+    grid.innerHTML = `
+      <div style="grid-column: 1/-1; text-align: center; padding: 40px; color: #ff6b7a;">
+        <h3>⚠️ Error Loading Hub</h3>
+        <p style="margin-top: 15px;">${error.message}</p>
+        <p style="margin-top: 10px; color: #8f98a0;">Check the browser console for details.</p>
+      </div>
+    `;
   }
-
-  // Apply initial sort (default to A→Z)
-  renderFiltered();
-
-  // Setup event listeners
-  document.getElementById('search').addEventListener('input', renderFiltered);
-  document.getElementById('sort').addEventListener('change', renderFiltered);
 })();
