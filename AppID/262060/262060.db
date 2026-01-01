@@ -1,0 +1,602 @@
+[
+  {
+    "apiname": "welcome_home",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_victory",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ten_victories",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "twenty_five_victories",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "abandon_quest",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_boss",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "medium_quest",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "long_quest",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "start_quest_heroes_level_6",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "start_dd_heroes_level_0",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "all_regions",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "four_afflicted",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "single_combat_skill",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "single_camping_skill",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "tavern_treatment",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "abbey_treatment",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "hero_dismissed",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "one_of_each_hero",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "quirk_treatment",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "quirk_lock",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "blacksmith_upgraded",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "guild_upgraded",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "tavern_upgraded",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "abbey_upgraded",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "weapon_and_armour_upgraded",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "hero_4_skill_upgrade",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "town_fully_upgraded",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "visit_graveyard",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "one_hero_level_6",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "four_hero_level_6",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "eldritch_100",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "unholy_100",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "beast_100",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "human_100",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "total_enemies",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "week_52",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "week_104",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "quest_20k_gold",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "quest_30_heirloom",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "kill_50",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "walk_500",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "lost_first_hero",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_heart_attack_death",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_hunger_death",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "death_to_wilbur",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "death_to_maggot",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_trap_death",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_obstacle_death",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "darkest_dungeon_party_wipe",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_party_wipe",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "lose_level_6_hero",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "deaths_door_survived_5_attacks",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "first_boss_party_wipe",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ancestors_trinkets",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_a_shambler",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "game_complete_on_default",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "kill_all_bosses",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "caretaker_goals_complete",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "game_complete",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "game_complete_in_75_weeks",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "kill_boss_with_one_hero",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "kill_boss_with_four_afflicted",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "game_complete_ng",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "dismas_and_reynauld_completed",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "defeat_the_brigand_vulf",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "game_complete_radiant",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_a_crow",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_4_champions",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_a_squiffy_with_jester",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_the_baron",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_the_viscount",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_the_countess",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "get_crimson_curse",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "collect_trinket_set",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "build_a_district_building",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "build_the_red_hook",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "recruit_a_flagellant",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "collect_the_invitation",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "lose_a_cursed_hero",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "kill_an_ally_through_curse",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "get_crimson_curse_via_contagion",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "slay_the_fanatic",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "rescue_a_prisoner",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "entire_roster_has_curse",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "plowshares_to_swords",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "lost_in_dust",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "taste_of_madness",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "merciful_act",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "defeat_sleeper",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "shards_well_spent",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "build_windmill",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "this_is_nothing",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "hollow_reckoning",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ashes_to_ashes",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "mouth_of_madness",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "blinders_lifted",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "rogues_gallery",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "defeat_thing_from_stars",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "revenant_riposte",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "blue_skies_ahead",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "four_hero_dodge_miller",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "lining_pocket",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "rainbows_end",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "pipe_dream",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_first_arena_played",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_first_heartattack",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_kill_all_heroes",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_direct_challenge",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_daze_ten_enemies",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_no_damage_win",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_survive_multiple_dd_checks",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_single_hero_kills_all",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_round_one_kill",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_survive_multiple_heartattack",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_no_trinket_win",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_win_100",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_heartattack_150",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_kill_600",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_reach_max_prestige",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "arena_ten_perfect_victories",
+    "achieved": 0,
+    "unlocktime": 0
+  }
+]

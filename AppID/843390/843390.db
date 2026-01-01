@@ -1,0 +1,262 @@
+[
+  {
+    "apiname": "ACH_GET_GUN",
+    "achieved": 1,
+    "unlocktime": 1700247216
+  },
+  {
+    "apiname": "ACH_MINIGUN",
+    "achieved": 1,
+    "unlocktime": 1700298186
+  },
+  {
+    "apiname": "ACH_IGNEOSAUR",
+    "achieved": 1,
+    "unlocktime": 1736895435
+  },
+  {
+    "apiname": "ACH_CENTAUR",
+    "achieved": 1,
+    "unlocktime": 1736898060
+  },
+  {
+    "apiname": "ACH_SAPLORD",
+    "achieved": 1,
+    "unlocktime": 1736980142
+  },
+  {
+    "apiname": "ACH_NANI",
+    "achieved": 1,
+    "unlocktime": 1736980301
+  },
+  {
+    "apiname": "ACH_JOINCHURCH",
+    "achieved": 1,
+    "unlocktime": 1736980671
+  },
+  {
+    "apiname": "ACH_JOINREBELS",
+    "achieved": 1,
+    "unlocktime": 1736980778
+  },
+  {
+    "apiname": "ACH_KILLSINTHO",
+    "achieved": 1,
+    "unlocktime": 1737064537
+  },
+  {
+    "apiname": "ACH_KILLGHRONTO",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_BIGFISH",
+    "achieved": 1,
+    "unlocktime": 1737066705
+  },
+  {
+    "apiname": "ACH_ARCHYOSATHUS",
+    "achieved": 1,
+    "unlocktime": 1737069137
+  },
+  {
+    "apiname": "ACH_HUMMINGBIRD",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_SEER",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_VORTEX",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_KAUBOI",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_CYBERJOSEPH",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_CATALYST",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_SACRIFICE",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_FINISH",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_GET_ALL_GUNS",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_ALIENKILLS_100",
+    "achieved": 1,
+    "unlocktime": 1736885442
+  },
+  {
+    "apiname": "ACH_ALIENKILLS_500",
+    "achieved": 1,
+    "unlocktime": 1746911287
+  },
+  {
+    "apiname": "ACH_ROBOTKILLS_100",
+    "achieved": 1,
+    "unlocktime": 1736887926
+  },
+  {
+    "apiname": "ACH_ROBOTKILLS_500",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_GRAVEDIGGER",
+    "achieved": 1,
+    "unlocktime": 1737068784
+  },
+  {
+    "apiname": "ACH_EXPLOSIONKILLS",
+    "achieved": 1,
+    "unlocktime": 1700297499
+  },
+  {
+    "apiname": "ACH_GRENADEKILLS",
+    "achieved": 1,
+    "unlocktime": 1746912098
+  },
+  {
+    "apiname": "ACH_HEADSHOTS",
+    "achieved": 1,
+    "unlocktime": 1736981907
+  },
+  {
+    "apiname": "ACH_HEADSHOTKILLS",
+    "achieved": 1,
+    "unlocktime": 1736982039
+  },
+  {
+    "apiname": "ACH_LOWHEALTH",
+    "achieved": 1,
+    "unlocktime": 1736885205
+  },
+  {
+    "apiname": "ACH_SACRILEGE",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_ENCYCLOPEDIA",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_SELFIE",
+    "achieved": 1,
+    "unlocktime": 1736896349
+  },
+  {
+    "apiname": "ACH_PICTURES",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_NANIRUN",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_GORDLE",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_NOSTALGICPISTOL",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_QUADBOW",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_ANNIHILATORMKI",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_FINGERGUN",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_KAUBOIGUN",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_SECRET_WEAPONS",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_UPGRADEGUN",
+    "achieved": 1,
+    "unlocktime": 1746909753
+  },
+  {
+    "apiname": "ACH_ALLUPGRADES",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_NODEATHS",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_NOUPGRADES",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_KEBAB",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_BONEHEAD",
+    "achieved": 1,
+    "unlocktime": 1737068454
+  },
+  {
+    "apiname": "ACH_NANICOMPLETE",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_OFFICERCOMPLETE",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "ACH_BRIANCOMPLETE",
+    "achieved": 0,
+    "unlocktime": 0
+  }
+]
