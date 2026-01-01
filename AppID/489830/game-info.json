@@ -604,7 +604,7 @@
       "percent": "32.1"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }

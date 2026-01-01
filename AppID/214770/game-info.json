@@ -1,0 +1,490 @@
+{
+  "appid": "214770",
+  "name": "Guacamelee! Gold Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214770/header.jpg?t=1762522710",
+  "achievements": {
+    "EAwards_16": {
+      "name": "A Hero is Born",
+      "description": "Save Pueblucho",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/de99062ec268483527b216269817168db457dc30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/235bcad4afc8c7a76b3600c02add46da9e1f0cce.jpg",
+      "hidden": false,
+      "percent": "74.1"
+    },
+    "EAwards_27": {
+      "name": "All Cooped Up",
+      "description": "Complete the Chicken Herding quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/f6a6106e7be1428f550fad8fdfa9712b26757f0f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/3accef7f1e96df9aef69942986ffa89e3af372ae.jpg",
+      "hidden": false,
+      "percent": "52.5"
+    },
+    "EAwards_50": {
+      "name": "Bag o' bricks",
+      "description": "Throw an enemy while playing as Juanita or Tostado",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/8a1079c7f1fd92a561f4235751106ec84e9d3c17.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/e5d9762f625e1ede5a734a1d142cb7c3daeb5ecf.jpg",
+      "hidden": false,
+      "percent": "9.7"
+    },
+    "EAwards_58": {
+      "name": "Beastly",
+      "description": "Complete Infierno challenge 17 as the Alebrije",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/bfb5db13ac63e4d0804734e57100c8a7a60d911b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0119002921914e3cb8683e268a4610e12e155757.jpg",
+      "hidden": false,
+      "percent": "3.9"
+    },
+    "EAwards_20": {
+      "name": "Belly Flop",
+      "description": "Destroy a Block using Slam",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/d1873cd68f5d6c330972017eade1039046f5dc0c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/4ce690187a39f83527f7d23cdfce0a0b5478dbdd.jpg",
+      "hidden": false,
+      "percent": "41.4"
+    },
+    "EAwards_35": {
+      "name": "Big Hearted",
+      "description": "Complete a full heart upgrade",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/3bee0ab0b4d4fd5f13e31c0763914506051c84a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0ba3d2533964e29f749d55265748d6b7705f32cf.jpg",
+      "hidden": false,
+      "percent": "50.9"
+    },
+    "EAwards_53": {
+      "name": "Bone on bone",
+      "description": "Conquer the final column of arenas in La Caverna del Pollo as the Skeleton Luchador",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/ada36a270621109ea74249d83be6186564e2b031.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/b8aceb4f4b441e5d7ab7faa5f5e10ec4be7b67d2.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "EAwards_39": {
+      "name": "Boomerang",
+      "description": "Defeat an enemy with its own projectile",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/136e6bf5401edd560ad1736af86beaee7f8ba45e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/102e7597e7f3a65742e1a7d24be938d039307e88.jpg",
+      "hidden": false,
+      "percent": "40.1"
+    },
+    "EAwards_40": {
+      "name": "Boom-Shack-Calaca",
+      "description": "Defeat Calaca",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/aeff0a8945066cbc3f4e6702f1511b5cbd60b8f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/595fa5a212ef2ec5aacc99222ad7171b1868f719.jpg",
+      "hidden": false,
+      "percent": "17.6"
+    },
+    "EAwards_12": {
+      "name": "Catch the Rainbow!",
+      "description": "Connect with all six special attacks without touching the ground",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/f2d391066c52fbd7a09a933376c10c16edb0b35d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/762d0fa4f92ce3dfd33e6f05f4e91a7e8ab5b28a.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "EAwards_42": {
+      "name": "Cleaned Out",
+      "description": "Buy all the items in the shop",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/7ed86ae6497a521881276d6a4b8e905919e52226.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/1fdabb1346a5a154359900e660d98d8e26e1ccf8.jpg",
+      "hidden": false,
+      "percent": "9.4"
+    },
+    "EAwards_4": {
+      "name": "Cock of the Walk",
+      "description": "Defeat an enemy as a chicken",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/ba5390775b491c8ebe056245e209ffebce70eadc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/cacc6a7d6832c32b1fe78d24cae5b687d851c93d.jpg",
+      "hidden": false,
+      "percent": "37.8"
+    },
+    "EAwards_9": {
+      "name": "Combo Nerd",
+      "description": "Achieve a 150 Hit Combo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/cde7710c93cdc3ad69c8dc71c68f5541e10ecdc4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/44f67b611233aaf147ab1d1f2d1f95a20b6c8b8c.jpg",
+      "hidden": false,
+      "percent": "32.0"
+    },
+    "EAwards_26": {
+      "name": "Delicious",
+      "description": "Complete the World's Greatest Enchilada quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/91cd0e6b83a9dae30b382c50cb1fad88bd46c476.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/7f4ab975fde44eb0c5f9a3460eafb99e595fb7dc.jpg",
+      "hidden": false,
+      "percent": "12.6"
+    },
+    "EAwards_47": {
+      "name": "El Savior",
+      "description": "Access the alternative ending (collect all orbs)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/7c8ca700d806732940e84dbfa22ecd2a473f4325.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/d0646b08d48e29a1d01a395caa1286aecd309b7e.jpg",
+      "hidden": true,
+      "percent": "6.6"
+    },
+    "EAwards_36": {
+      "name": "Endurance",
+      "description": "Complete a full stamina upgrade",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/bf1ef995ba3b91cb2a5acc755cf2b043f9080575.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/d20896de6ff7a10e0da3d3d1d60fa3fbe457b51e.jpg",
+      "hidden": false,
+      "percent": "46.9"
+    },
+    "EAwards_31": {
+      "name": "Flawless",
+      "description": "Defeat an arena without taking any damage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/3966f6c194ee1492a352395ef9c0dcd4571570a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/dbe4559549396e513dde6cb98da45c8c6b966758.jpg",
+      "hidden": false,
+      "percent": "51.7"
+    },
+    "EAwards_23": {
+      "name": "Giant Killer",
+      "description": "Defeat 3 giant skeletons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/68808b43484c31c90720f24feeada5f302e94979.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/f22416bf33fb8ac24e3c32aa228aad6385239f4f.jpg",
+      "hidden": false,
+      "percent": "44.6"
+    },
+    "EAwards_57": {
+      "name": "GOOOOOOOAL!",
+      "description": "Complete Infierno challenge 10 and challenge 15 as El Brody",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/d5b104a0150eeb0602ba41779d636e5318cad2db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/4b1094ac886d41aa37f7a50582e0c9c87a9a91c1.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "EAwards_13": {
+      "name": "Got to catch them all",
+      "description": "Find an orb",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/dce582429edd2b08958bc0aff2b47dadca7f63c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/5b9a1fa5bf0a473cbba60b58bf55c48be5fdfef3.jpg",
+      "hidden": false,
+      "percent": "22.9"
+    },
+    "EAwards_38": {
+      "name": "Green Thumb",
+      "description": "Uproot 20 plant enemies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/a7064f930b94e4d873bf32bf3a30050c016bbfa1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/22024f08e2b0b7267a6acf0d1dc86054d391a61c.jpg",
+      "hidden": false,
+      "percent": "18.3"
+    },
+    "EAwards_51": {
+      "name": "GREETINGS, FELLOW CHICKEN",
+      "description": "As the Pollo Luchador, find and talk to each of the four giant chickens with the green sombreros",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/3ff17a0520ce7c4b3a48b29487de7efc1e95d0c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/cff0eb106e9fd1a2235f6ab937e9b65745902b9b.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "EAwards_28": {
+      "name": "Gumshoe",
+      "description": "Complete the Chicken Thief quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/be5eeae179948da8479c96143c5404e7c01e5006.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/7320baba76ffe417a2e8e40bb6046a788e735b60.jpg",
+      "hidden": false,
+      "percent": "12.5"
+    },
+    "EAwards_56": {
+      "name": "Heavyweight",
+      "description": "Earn a Bronze Medal in all Infierno challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/f7e295c5d10d3cbfefc422e0cc75ef7cb45d8c8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/16568f70c946a9b5f8f853abbd55f948757ff026.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "EAwards_52": {
+      "name": "Heroine-ism",
+      "description": "Defeat Calaca with Player 1 playing as Juanita",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/64e682466193741ac83c7a665d85c505a80f8189.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/8408b27425188ce3e693f110a35fdfee0ddc75b8.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "EAwards_29": {
+      "name": "I AM ERROR",
+      "description": "Complete the I AM ERROR quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/620abfbfbf161a0880018ff2ffdec31064f31c27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/317da8407756fb81deb436dd6119fee08a73fb01.jpg",
+      "hidden": false,
+      "percent": "15.6"
+    },
+    "EAwards_49": {
+      "name": "I feel empty inside",
+      "description": "Collect a health orb as the Skeleton Luchador",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/c4b69889b4d517b54209a7517c449372789791d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/57ec22a88e6f2fe1e9103ee659a844a0744bcb4b.jpg",
+      "hidden": false,
+      "percent": "8.7"
+    },
+    "EAwards_14": {
+      "name": "I swat you",
+      "description": "Defeat a Chupacabra using only Slam",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/e1063d2a68064d50dc9edb2a6c56486b393b783c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/a525d7486058ec74432e6aa463d2c98aa39ccaf1.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "EAwards_7": {
+      "name": "Licking his Wounds",
+      "description": "Defeat Jaguar Javier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/e11f40a343412ee37008537d6293a17cffcbc7f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/b38cfd804a6d9c2bdc28adf7b4ac9723d276ae45.jpg",
+      "hidden": false,
+      "percent": "22.6"
+    },
+    "EAwards_41": {
+      "name": "Lore Master",
+      "description": "Complete All Side Quests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/5de056791e06fb206bad8caf57c65f2291c4dcd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/d1097808aee4165ede1d0fb1d52bf542d3a23266.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "EAwards_25": {
+      "name": "Music to my ears",
+      "description": "Complete the Mariachi Band quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/03bc2e007135d066f9918c578c07e8112c810240.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/c54db9934e57472ecec67b63c137ea6cb75c3ece.jpg",
+      "hidden": false,
+      "percent": "17.6"
+    },
+    "EAwards_18": {
+      "name": "My First Power Move",
+      "description": "Destroy a Block using Uppercut",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/dde1355ca6e84d4a5e7b34f986d9ca11a6b7bb51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/2115c39a642f8b9502a4026fd172f54d5db9a3f2.jpg",
+      "hidden": false,
+      "percent": "65.9"
+    },
+    "EAwards_10": {
+      "name": "Nap Time's Over",
+      "description": "Wake up an Alebrije",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/db9b159ffd49e3874aa8399b1097d9339f9f642c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/00efc521cf3ce6c8a21f85891df11ef3233ef3e3.jpg",
+      "hidden": false,
+      "percent": "51.6"
+    },
+    "EAwards_34": {
+      "name": "Nooks and Crannies",
+      "description": "Find 100% of the hidden items in a single area",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/bacd705ecf22793d8ed5e4098d16aabdf1f44426.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/2eb35877d993494540bb36596b4eb6b053e2cee9.jpg",
+      "hidden": false,
+      "percent": "24.7"
+    },
+    "EAwards_30": {
+      "name": "Poncho'd Out",
+      "description": "Complete the Combo Chicken quest (Defeat Poncho forever)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/e81fac163527bafa2dd3bcce51eb6e9034d96a3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0d704371c42fb6a8d428fbf9b9302c1a2cf4a73e.jpg",
+      "hidden": false,
+      "percent": "10.2"
+    },
+    "EAwards_21": {
+      "name": "Pow",
+      "description": "Destroy a Block using Dash Punch",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/68ec9c8178ce0c2af8aa9ccc4ac8e88a28e74892.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/afefd7b17ead35bcde9e44946d9b93c35f4970ef.jpg",
+      "hidden": false,
+      "percent": "27.1"
+    },
+    "EAwards_24": {
+      "name": "Reunited",
+      "description": "Complete the Missing Doll quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/afe113498ddbb45769419172a34c784c5c577890.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/605892a0e8dc5d9e14feaaa2415e6aa182a442cf.jpg",
+      "hidden": false,
+      "percent": "27.6"
+    },
+    "EAwards_33": {
+      "name": "Rocketman",
+      "description": "Soar through the air for 12 seconds using \"Goat Fly\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/dc9e7a65cbeed2137471705db84ee93bea673285.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0e9eacf9a24cec044908e87562baa9485073f742.jpg",
+      "hidden": false,
+      "percent": "22.5"
+    },
+    "EAwards_11": {
+      "name": "Shopaholic",
+      "description": "Spend $10000 in the store",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/1583a8ae339d80773d62c424e73bcbe3f99a04d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/7e7a81d7ef0e348e899b7e5ebd12776ce7bfc268.jpg",
+      "hidden": false,
+      "percent": "36.7"
+    },
+    "EAwards_6": {
+      "name": "Snuffed Out",
+      "description": "Defeat Flame Face",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/b36624ec94a72ec6c037d270513d96d694b762c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/228adee2573db5a325c50bf2ba4894c6ef45607f.jpg",
+      "hidden": false,
+      "percent": "25.5"
+    },
+    "EAwards_22": {
+      "name": "Stop squirming",
+      "description": "Defeat an Alux using only Headbutt",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/a5d211cc7578344a34e5c651728e064429555482.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/cf24d34066cf0d05f14bd244f2dc2db21aa38569.jpg",
+      "hidden": false,
+      "percent": "18.9"
+    },
+    "EAwards_45": {
+      "name": "That was Hard Mode?",
+      "description": "Defeat the game on Hard mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/9addcc40f2a76173df0ddd90d79faa7eaef07eb5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/91bcc57907ba75ca5fa39b1e1a71f038e2a234c8.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "EAwards_3": {
+      "name": "That's one big Gato Frito",
+      "description": "Kill the Alebrije",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/2c43be36e8fe92551f102d99db58163147843a0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/3327d7ccb993bc05ea224a4ed5c6b1a871510b0a.jpg",
+      "hidden": false,
+      "percent": "43.0"
+    },
+    "EAwards_32": {
+      "name": "That's using your head",
+      "description": "Headbutt an enemy off a cliff",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/d10b812e74d0b75ad443a9f72949f05fdeeec7f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/197061e2303bbe2822eba644d712dc4476944dbf.jpg",
+      "hidden": false,
+      "percent": "23.2"
+    },
+    "EAwards_59": {
+      "name": "The Devil wears Revenge!",
+      "description": "Defeat Calaca with full health in Diablo's Suit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/9bd768ffad81b1e2706a110988385087e7cb2d2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/61298165b2a635f28fdf5298dc8e143280f5d81d.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "EAwards_43": {
+      "name": "The Never Ending Combo",
+      "description": "Achieve a 300 Hit Combo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/c8f6530a6baab5d0a9e69381b62967880aa387ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/a86c048546806aa7986cb0521c90453106546d2a.jpg",
+      "hidden": false,
+      "percent": "7.1"
+    },
+    "EAwards_60": {
+      "name": "The Old-Fashioned Way",
+      "description": "Complete Infierno challenge 14 using Goat Fly no more than four times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/c2f2f02b6b4ff26e031f5dbf46bb5fe7203eee96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0e9eacf9a24cec044908e87562baa9485073f742.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "EAwards_37": {
+      "name": "They hit really hard",
+      "description": "Defeat 5 arenas in Hard mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/db5bbe12540d5c293eb717a8f8eb1ab1ed48dd5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/6d382f178c5bcb9fb546143ef83bc2769c55fdc2.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "EAwards_19": {
+      "name": "Thick headed",
+      "description": "Destroy a Block using Headbutt",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0c891da7b480258da4db5fefb35eff3e4f2e10f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/4f90a077803cae129044fedeb63bea90e28f0c2b.jpg",
+      "hidden": false,
+      "percent": "49.8"
+    },
+    "EAwards_55": {
+      "name": "Title Contender",
+      "description": "Earn a Silver Medal in all Infierno challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/6d6632755a0b66970235b0911faeb8229814112b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/16568f70c946a9b5f8f853abbd55f948757ff026.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "EAwards_44": {
+      "name": "Up Close and Personal",
+      "description": "Defeat Calaca using only melee attacks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/b39a9e658a5e0d2a8d02c328723871a63c2ea47a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/b62193d21221ea8fee240697e1e355a6a3293865.jpg",
+      "hidden": false,
+      "percent": "5.1"
+    },
+    "EAwards_1": {
+      "name": "Viva La Resurrección",
+      "description": "Become a Luchador",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0a5f67c8c17ab0d64244b192cd27b55040cfc71a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/67ced13f6949151e82c56532c72626781b6296cd.jpg",
+      "hidden": false,
+      "percent": "77.1"
+    },
+    "EAwards_17": {
+      "name": "Want us to untie you?",
+      "description": "Talk to a Goat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/4bc1773ae20887cdc830168533fea1a45b533a23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/f62e156a47dd5299b1009bf61a8b55ccefb0a65f.jpg",
+      "hidden": false,
+      "percent": "65.6"
+    },
+    "EAwards_2": {
+      "name": "We built this city on Guac and Roll",
+      "description": "Discover Santa Luchita",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/889396f2d959bad09e5f137a0c82a0b7e0f4745a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/f0361a51b277d2f056a4ddc52bcc847368d1916a.jpg",
+      "hidden": false,
+      "percent": "61.3"
+    },
+    "EAwards_8": {
+      "name": "Wheeee",
+      "description": "Teleport through an Olmec head",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/6088b848030bbce3e236d161af7cbea7e1724243.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/1f2d5d64b3207cfffbc4398460a6ff0004e7291d.jpg",
+      "hidden": false,
+      "percent": "42.5"
+    },
+    "EAwards_48": {
+      "name": "Which came first?",
+      "description": "Enter egg mode while playing as the Pollo Luchador",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/70132f40ff03cc019596845f436789035cbd3324.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/0de7529bcba564c03a7a8d83fa346bdcfc30cd2e.jpg",
+      "hidden": false,
+      "percent": "12.7"
+    },
+    "EAwards_46": {
+      "name": "Who put these here???",
+      "description": "Collect every chest in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/25325468530cd85e9fc264a874c933f8fd7c134f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/aee5ca684f0eecbabeb7af72e1440a10041705f3.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "EAwards_15": {
+      "name": "Why all the long faces?",
+      "description": "Enter the world of the dead",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/47d4d2515baec7554f346c0c3505ed717e3142ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/8de9bdb6af441c2ed15efdb559678281f6ad3ff3.jpg",
+      "hidden": false,
+      "percent": "77.8"
+    },
+    "EAwards_54": {
+      "name": "World Champion",
+      "description": "Earn a Gold Medal in all Infierno challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/07b9131c835d4e5bd9c61993429b4600b3147c4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/16568f70c946a9b5f8f853abbd55f948757ff026.jpg",
+      "hidden": false,
+      "percent": "3.1"
+    },
+    "EAwards_5": {
+      "name": "X'tabay-Bye",
+      "description": "Redeem X'tabay",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/7bc0667374c8561bb02044f6a36d16ff24f6b660.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214770/153307b9302d3677aed784e8164abb46f9be1454.jpg",
+      "hidden": false,
+      "percent": "34.9"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

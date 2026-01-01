@@ -1,0 +1,186 @@
+{
+  "appid": "460950",
+  "name": "Katana ZERO",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/header.jpg?t=1761066027",
+  "achievements": {
+    "ACH_BEAT_V": {
+      "name": "Beatdown",
+      "description": "You ruined his fresh track suit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/47eaf801931137441b766b979dd76ab78faaf743.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "13.9"
+    },
+    "ACH_COFFIN_HEAD": {
+      "name": "Coffin Head",
+      "description": "You killed a suspiciously familiar character on the Quiet Hills set.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/71234919bf61f8e2d48a107f67267bb42ab0e578.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "61.0"
+    },
+    "ACH_FACTORY_HANGUP": {
+      "name": "Don't hang up!",
+      "description": "In 1962, the Orlons released one of the all-time greatest doo wop hits, Don't Hang Up. Google it. Anyway, you hung up your phone a lot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/e6e91d15eb8adfb3b707d0f61bf2e27352bdf501.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/aebbc0b54cb0cd5ae2ca5f252e8be9dc527af2f5.jpg",
+      "hidden": true,
+      "percent": "27.9"
+    },
+    "ACH_CAT": {
+      "name": "Feline Persuasion",
+      "description": "You really liked petting that cat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/b26acc043c09f41ac76b8d45ca05a59dc88235da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/2a4b5ca8079bf75c029fbcc829edd1a4d56af642.jpg",
+      "hidden": true,
+      "percent": "16.6"
+    },
+    "ACH_CARDGAME": {
+      "name": "Forbidden Ultimate Danger Tempest-Eyed MAJORDOMO Imperial Barrage Crab, Evixion",
+      "description": "Your trap card was activated.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/7683f8787a87fdd72c508db9200acb82628cf89a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/2a4b5ca8079bf75c029fbcc829edd1a4d56af642.jpg",
+      "hidden": true,
+      "percent": "9.4"
+    },
+    "ACH_FUNNY_PRANK": {
+      "name": "Funny prank",
+      "description": "Kill yourself in an elevator.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/30e9f5072f6bd6caaf428410f2eb3beb510c1eaf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "9.0"
+    },
+    "ACH_GOLD": {
+      "name": "Gold Medal",
+      "description": "Achieve a total rank of gold or higher in a full speedrun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/b90071baa5cd2046e8ee6a5ed2359ff2bcbd408e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/2a4b5ca8079bf75c029fbcc829edd1a4d56af642.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACH_HARDMODE": {
+      "name": "Hardmode",
+      "description": "Complete a full run in hard mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/32e9ff0036be959f4217c47dd51ac21c2b341cb3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/2a4b5ca8079bf75c029fbcc829edd1a4d56af642.jpg",
+      "hidden": false,
+      "percent": "4.8"
+    },
+    "ACH_SECRET_1": {
+      "name": "Master key",
+      "description": "You stopped a suicide. With a murder.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/8e628cd3c326c2071389fcdcdd5306373f7e2447.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "24.3"
+    },
+    "ACH_NOKILL_ANIMATRONICS": {
+      "name": "No love for robots",
+      "description": "Poor guy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/b9821802589d277f7c1a88d3b6fa4c973bcb341a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "18.1"
+    },
+    "ACH_RECOVER_V_KATANA": {
+      "name": "Party Animal",
+      "description": "Why did you think it was a good idea to give him your Katana anyway?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/13dfd417ed5a3bf405759da3e32a5e451a22f53e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "22.7"
+    },
+    "ACH_SECRET_3": {
+      "name": "Phoenix key",
+      "description": "Found what the robber left behind.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/6c5ef5b157f4d7cd4fa3caa559977339df43aba8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "18.8"
+    },
+    "ACH_SECRET_0": {
+      "name": "Prism key",
+      "description": "Most people go right. You went left.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/a5d876e4863825b7972d19c34d5da7dda3632d83.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "28.1"
+    },
+    "ACH_SECRET_5": {
+      "name": "Prototype key",
+      "description": "Fulfilled your secondary goal in the prison.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/225688022b5cfc876bbe96dbcae4d8ea11241161.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/aebbc0b54cb0cd5ae2ca5f252e8be9dc527af2f5.jpg",
+      "hidden": true,
+      "percent": "30.7"
+    },
+    "ACH_BEAT_PSYCH": {
+      "name": "Psychotherapy",
+      "description": "Defeat the psychiatrist's final form.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/546d64956f9f17ea6aad6437d372f1d14afdf9de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "10.8"
+    },
+    "ACH_NO_MEDS": {
+      "name": "Refused medication",
+      "description": "This will go well...",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/4552326512403d1fabb9254db0f1d7e4e47600e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "22.4"
+    },
+    "ACH_SECRET_4": {
+      "name": "Savant key",
+      "description": "Didn't wake up Leon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/7eb2319646052bd629405746bb368bf1c7ee9849.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "16.2"
+    },
+    "ACH_ALL_SECRETS": {
+      "name": "Secret hunter",
+      "description": "Found all the hidden keys.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/9d9562175749a05db9bd67efd1a1e7812c6d9023.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/aebbc0b54cb0cd5ae2ca5f252e8be9dc527af2f5.jpg",
+      "hidden": true,
+      "percent": "14.9"
+    },
+    "ACH_BEAT_DRAGON": {
+      "name": "The Dragon's tape",
+      "description": "Complete The Dragon's tape.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/19a19967f767270ca68033e7e1f8a151a2263b22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "59.9"
+    },
+    "ACH_THE_END": {
+      "name": "The End",
+      "description": "Meet your final end in chinatown.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/15902bc093815b19934e6f4a8f298e99816b26b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "39.6"
+    },
+    "ACH_BEAT_GAME": {
+      "name": "To be continued",
+      "description": "Beat Katana ZERO.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/2988d9e9fec64cb75c76b1ac88f6359ed3d7e293.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "50.5"
+    },
+    "ACH_JUMP_PENTHOUSE": {
+      "name": "What a bad idea",
+      "description": "Jump off the balcony of the penthouse.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/a26cdb1a9049fc9c55f7efa6602111b5f371278a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460950/85ca7a1b6402edaea7edd51381db3a57e8eb1675.jpg",
+      "hidden": true,
+      "percent": "22.2"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

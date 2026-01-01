@@ -1,0 +1,58 @@
+{
+  "appid": "961440",
+  "name": "Game 961440",
+  "icon": "",
+  "achievements": {
+    "NEW_ACHIEVEMENT_1_1": {
+      "name": "10 minutes played",
+      "description": "10 minutes played",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/fd750f79e4365f8275e4f0ca480552f143ccc379.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/676e3da70fa8b19dc23adbb392e209ca65563a79.jpg",
+      "hidden": false,
+      "percent": "81.6"
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "name": "15 minutes played",
+      "description": "15 minutes played",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/7e89eed05d67542b89304c208d48f984bdcb4a63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/6f00679acbe83ce61ffe8f3a36e847f678e17ec5.jpg",
+      "hidden": false,
+      "percent": "77.1"
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "name": "20 minutes played",
+      "description": "20 minutes played",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/d5c1138234abefb3b8a6edb4c1a935e73ef3bf97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/caf7e318f2cad785736eae68ac9f3bfcbc89d704.jpg",
+      "hidden": false,
+      "percent": "72.0"
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "name": "25 minutes played",
+      "description": "25 minutes played",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/a0587557b709a95236dd63ed57d8a5f52e80ac06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/9345574bdb50678536fee70281f50b34e4c02d03.jpg",
+      "hidden": false,
+      "percent": "63.9"
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "name": "30 minutes played",
+      "description": "30 minutes played",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/dc98510f759230b836c1d7ebbec502f1814b2c3d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/d7506d76dc9ed6b8dcb5df6f15879138faccc7f0.jpg",
+      "hidden": false,
+      "percent": "52.7"
+    },
+    "NEW_ACHIEVEMENT_1_0": {
+      "name": "5 minutes played",
+      "description": "5 minutes played",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/7a8bdb09c5346e3ef17940e2d528c84846e476c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/961440/8444ce377b218e872972dde583c793d263cf88db.jpg",
+      "hidden": false,
+      "percent": "86.5"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

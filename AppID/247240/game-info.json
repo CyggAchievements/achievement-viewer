@@ -1,0 +1,170 @@
+{
+  "appid": "247240",
+  "name": "Volgarr the Viking",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247240/header.jpg?t=1717702867",
+  "achievements": {
+    "ACHIEVEMENT_18": {
+      "name": "4-Minute Abs",
+      "description": "Complete any world in 4 minutes or less",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/295f34d605ac17d6d2eb81f7cf5b4cf43d6fb86b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_0": {
+      "name": "By the Power of Gray-Skill...",
+      "description": "Wield the fire sword",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/ec60b440a3f69c2e0cd11a7a21e1168d5e08fe7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "51.7"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Don't Nidhoggr All the Ale",
+      "description": "Reach Yggdrasil's roots",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/ce734cefc5e83a37bf957901da6c3c327f013fe3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": true,
+      "percent": "1.6"
+    },
+    "ACHIEVEMENT_2": {
+      "name": "I Will Have My Vengeance!",
+      "description": "Defeat the Lizardmen King",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/25adde173cfc30df0ae9c56b5833f29426048b5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "24.1"
+    },
+    "ACHIEVEMENT_4": {
+      "name": "If It Bleeds, You Can Kill It",
+      "description": "Complete the game and earn Ending C",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/63c066f32a0c4526b017291cd0e584c280536f96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "5.1"
+    },
+    "ACHIEVEMENT_8": {
+      "name": "Let Off Some Steam, Bennett",
+      "description": "Kill 4 enemies with a single charged spear attack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/410ffcb8c56a904d9beb653d1ebaa231f551a3cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "40.3"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Nothing Can Stop Me",
+      "description": "Block a projectile with the shield while in the air",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/c2847b2708b2d1f3ab93c2258aa446250e6e6405.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "37.6"
+    },
+    "ACHIEVEMENT_9": {
+      "name": "On the Highway to Hel",
+      "description": "Hitch a ride on a spear attached to an enemy shield",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/1ef4d23aa31cf9a146af71768083b83750084d4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": true,
+      "percent": "7.9"
+    },
+    "ACHIEVEMENT_5": {
+      "name": "On the Wings of Glory",
+      "description": "Complete the game and earn Ending B",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/1e102f66f94bd20532f90c08dc6c586166f68ac4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_6": {
+      "name": "Red Means Dead",
+      "description": "Complete the game and earn Ending A",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/6fd22a4ac8b5225312c4258f9833c68793a44a27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_7": {
+      "name": "Shield Gots My Back",
+      "description": "Block an attack with the shield while on a rope/chain",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/0a046762a5cb55feb15baa83dbc2080ec42b5247.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": true,
+      "percent": "34.3"
+    },
+    "ACHIEVEMENT_3": {
+      "name": "Sock It to Me Nakatomi",
+      "description": "Break the Magic Seal on Fafnir's Tower",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/056c26f6c64801430d6b2467eaed56402f328066.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "5.5"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "That Was...Unexpected",
+      "description": "Kill Fafnir before he reaches his Dragon form",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/30c945976f30bb7c6be74bfa48fcd254aa56241d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": true,
+      "percent": "1.8"
+    },
+    "ACHIEVEMENT_1": {
+      "name": "Thor's Blessing",
+      "description": "Unlock Mjolnir's power",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/bb35417efa60b8eb9412dd786d866535e1bad16f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "28.8"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Viking Legend",
+      "description": "Complete the game with 10 or less retries (deaths)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5ee2f94dbcedb2206684c6f9897ea745413d57a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "Viking Nipples of Steel",
+      "description": "Complete any world without ever losing any equipment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/602901fbce0bac2595e61afccca373a0d0613d92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "6.7"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Volgarr...You're Sooo Smooth",
+      "description": "Find a Key Stone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/265482a4a13a335313754e36914b5bc0fe378c89.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": true,
+      "percent": "2.7"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Wealthier than the King of Sweden",
+      "description": "Collect a golden walrus statue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/a12485bbf8a0cc8b53e6f5062f183b1f23c790f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "6.9"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "What the Hel is \"Nar-Nee-Yah\"",
+      "description": "Reach the alternate path for any world",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5265c4f9b5b094d49d02e956427e60d1f3c12337.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": true,
+      "percent": "9.0"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "You've Got the Touch, You've Got the Powah!",
+      "description": "Obtain a Warrior Spirit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/874669713ab72a10cafbe299cd02dc49babbc9e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
+      "hidden": false,
+      "percent": "21.4"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/c36712e0b97b65ee1ecb027db8e3ff8798d3bb55.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "ACH_RECOVERY_CORPSE": {
       "name": "Cherish Our Resources",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/99f6388ed11b885d386eb979a2a8736290a4a235.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "ACH_CLEAR_ALIEN_SHIP": {
       "name": "Creation and Insurrection",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/52cadba291448ae488147c0a31e9ffddd64adab7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
-      "percent": "49.2"
+      "percent": "49.1"
     },
     "ACH_DEVOLA_NOVEL_END": {
       "name": "Crime and Punishment",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/e899966832c71f405fc33a0e0302212efc66ee5a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": false,
-      "percent": "35.5"
+      "percent": "35.4"
     },
     "ACH_COLLECT_EM_LIST": {
       "name": "Destruction is My Job",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/6af7569b29b4f6f2b62f4a8d4b3be6f25183e8da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
-      "percent": "40.7"
+      "percent": "40.6"
     },
     "ACH_SHOOTING": {
       "name": "Ruler of the Skies",
@@ -380,7 +380,7 @@
       "percent": "12.6"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }

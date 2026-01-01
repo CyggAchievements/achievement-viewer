@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/239140/ae67ac95ecb1e7053adc2932514b8e3149337a8a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/239140/c38106b94bae45aec89026d4b0319dccc551080a.jpg",
       "hidden": false,
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "ACH_22": {
       "name": "Mount Everest",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/239140/c73ee92bcbd48bb399b11b0ff4e07cb7d1527b7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/239140/d3cd20af102234fd35912b7c5f9563ec6fbf5154.jpg",
       "hidden": true,
-      "percent": "46.3"
+      "percent": "46.2"
     },
     "ACH_3": {
       "name": "Snake in the grass",
@@ -628,7 +628,7 @@
       "percent": "9.5"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }

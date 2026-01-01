@@ -1,0 +1,322 @@
+{
+  "appid": "973760",
+  "name": "Thronebreaker: The Witcher Tales",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973760/f748e07df077bb0cf4c49d4bc0f6437f510c5251/header.jpg?t=1761829221",
+  "achievements": {
+    "IsabelRecruited": {
+      "name": "1. Do no harm",
+      "description": "Recruit Isbel into your army.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/0c4b043f33823d1554996bbd653e53b53af781d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "32.8"
+    },
+    "NoKills": {
+      "name": "All Present and Accounted For",
+      "description": "Win a non-Puzzle Battle without any of your units being killed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/3fee344479836f6544357774c9806bdacc4ff627.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": false,
+      "percent": "54.5"
+    },
+    "AedirnCompleted": {
+      "name": "Among the Ashes",
+      "description": "Complete the main story line for Aedirn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/b92ec0f4e59018175fcdf2cfa61862d7b679fca0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": true,
+      "percent": "33.4"
+    },
+    "TheDogRecruited": {
+      "name": "Arf! Arf! Grrr...",
+      "description": "Recruit the dog into your army.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/b7f427bd9c8a3d5bec7f7313503105ff9a1cd016.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "36.8"
+    },
+    "ArmsRace": {
+      "name": "Arms Race",
+      "description": "Obtain all weapons.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/0f6f970300cbd2bf6df438e6542eacbff381c77a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "Constructor": {
+      "name": "Army Camp Tycoon",
+      "description": "Fully upgrade your army camp.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/4389ec5c7eb69c64addce3573f3beb0fcc2238bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "22.1"
+    },
+    "Officer": {
+      "name": "At ease, Private!",
+      "description": "Train your first Raynard Unit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/8c8d7d79340fac27c0c17fdb0d844c0072a3d92e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "27.2"
+    },
+    "Attention": {
+      "name": "A-ten-hut!",
+      "description": "Unlock all of Raynard's Buildings.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/a4bd4389c58301d15207b1d5b00000eae73d27f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "23.2"
+    },
+    "TopSecret": {
+      "name": "Burn After Reading",
+      "description": "Read all spymaster letters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/118a09b86822464bc19210731a1f7b1fd0681006.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": false,
+      "percent": "14.8"
+    },
+    "Cartographer": {
+      "name": "Cartographer",
+      "description": "Collect 15 Treasure Maps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/6a03746b7d39c0ecb085d88442a6197e1ca86794.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "17.2"
+    },
+    "ManticoreDefeated": {
+      "name": "Distillation of Filth",
+      "description": "Kill the Manticore.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/9e31adb1d5778f842d49e494ceafd6be5b2f5d11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": true,
+      "percent": "31.6"
+    },
+    "Hounds": {
+      "name": "Dog Trainer",
+      "description": "Train your first Gascon Unit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/ed04204bcae567dd16bb430d66ec3c631221c966.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": true,
+      "percent": "25.4"
+    },
+    "DogsOfWar": {
+      "name": "Dogs of War",
+      "description": "Unlock all of Gascon's Buildings.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/ff10abf33c7def94d06bdab432a6b0cf77a12147.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "23.2"
+    },
+    "EyckRecruited": {
+      "name": "For the Good Book states...",
+      "description": "Recruit Eyck into your army.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/87ab1ae3c8d81b35beecb81c5f4bd9f605ea324f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "29.5"
+    },
+    "GernichoraDefeated": {
+      "name": "Gvaern Ichaer",
+      "description": "Defeat Gernichora.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/db268e0f8c75a36113ddfebdcf7ab6b21ac7521e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": true,
+      "percent": "23.9"
+    },
+    "Collector": {
+      "name": "Hoarder",
+      "description": "Obtain 10 trinkets.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/86a616f8dcd5a0722d2b1ab9babe8929998b8e52.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "40.2"
+    },
+    "Power": {
+      "name": "I have the power!",
+      "description": "End a round with a score of over 300.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/78f350f22764c202bc716d91a20a7b86c025d4f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "18.5"
+    },
+    "GeneralLevy": {
+      "name": "I want YOU for the Lyrian Army",
+      "description": "Recruit 200 Soldiers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/c7e78ee67c39b68b38151dbbed43b88c4a5c82a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "35.5"
+    },
+    "ForLater": {
+      "name": "I'll probably need this later...",
+      "description": "Gather 5,000 wood throughout the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/279b90fa058dd96848cc4154fe84356a676e271d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "39.9"
+    },
+    "TutorialCompleted": {
+      "name": "I'll show them!",
+      "description": "Finish the Thronebreaker tutorial.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/12c9d8dd92265fed9b8335a08d38db0599a5430e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "77.7"
+    },
+    "AmongFriends": {
+      "name": "In Good Company",
+      "description": "Play 5 or more characters in one battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/cb764a1bb7210beba51fa78fb9abead546a0b36a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "30.8"
+    },
+    "EldainDefeated": {
+      "name": "Lord of the Moulderwood",
+      "description": "Defeat Eldain.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/a851240fd71b0be585b749ee6cd56384c863e28f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "34.0"
+    },
+    "LyriaCompleted": {
+      "name": "Never give up, never surrender!",
+      "description": "Complete the main story line for Lyria.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/9a65e92e8b2c0ba6e97212f78919c7fea47590e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "41.5"
+    },
+    "OneMoreTime": {
+      "name": "Once more! Again!",
+      "description": "Use Meve to trigger allies' Loyal abilities 100 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/fe87b7798b4c92614635bd195c28423311e2de4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": false,
+      "percent": "41.9"
+    },
+    "AllEquals": {
+      "name": "One Big Happy Family",
+      "description": "Own at least one copy of each non-Reynard, non-Gascon unit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/68ba90102150362f4c71c6d84635b09dec6f0f40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": false,
+      "percent": "10.9"
+    },
+    "BarnabyBeckenbauerRecruited": {
+      "name": "Out of the sizzlixer into the fire",
+      "description": "Recruit Barnabus Beckenbauer into your army.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/2cfd07480434d94715390eb3346a42d27f19380f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "25.2"
+    },
+    "PlaytimesOver": {
+      "name": "Party's over!",
+      "description": "Kill 9 enemies simultaneously.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/ea6203950a1bdcbac5d332648bc6eb9976674557.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "31.5"
+    },
+    "KeltullisDefeated": {
+      "name": "Perfectly harmless...",
+      "description": "Defeat Kelltulis the dragon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/d9df6f330675d301938a530200a81f4b0a10f364.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "30.3"
+    },
+    "Pilgrim": {
+      "name": "Pilgrim",
+      "description": "Pray at 10 Shrines.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/411d62b244e6261e0d64d398b975e13db65ad99a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/259a541d278d7fc366a01528b6fa5b6ae9c42d27.jpg",
+      "hidden": false,
+      "percent": "31.6"
+    },
+    "Plutocracy": {
+      "name": "Plutocracy",
+      "description": "Earn 10,000 or more gold.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/7194ef95b796119181cee58b87ba715428b53ae7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "45.4"
+    },
+    "CampaignCompleted": {
+      "name": "Return of the Queen",
+      "description": "Finish the Thronebreaker campaign.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/d942cafcee830ad3a4bacfa12d06d76cf529a63f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "22.9"
+    },
+    "KillCaldwell": {
+      "name": "Revenge is best served cold...",
+      "description": "Kill count Caldwell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/c15a42667e39aa79eb807f1f4a50a5d827f1d3ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "27.3"
+    },
+    "TaxCollector": {
+      "name": "Tax Collector",
+      "description": "Find all golden chests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/a72ee7cc4716a3c169c2fa1337732f320b88ef40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "8.2"
+    },
+    "RiviaCompleted": {
+      "name": "There's no place like home...",
+      "description": "Complete the main story line for Rivia.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/e4986208be0899ed26c77e6a396881f6b70e7c4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "23.2"
+    },
+    "Puzzles": {
+      "name": "Those gears are turning...",
+      "description": "Complete 20 Puzzles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/a1824590ca67f74507a67496425614cb1223e92e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "29.1"
+    },
+    "FourthWall": {
+      "name": "Through the Fourth Wall",
+      "description": "Find an Easter Egg.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/2ccf0cf98c820d19edcddc4c87e76daea4e5e899.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "19.7"
+    },
+    "Hurt": {
+      "name": "Was that supposed to hurt?",
+      "description": "Win a non-Puzzle Battle with less than 10 damage taken in total.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/cc89337953a2a5b5f100b70f21f611b4de31fc6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": false,
+      "percent": "45.9"
+    },
+    "MahakamCompleted": {
+      "name": "We have the high ground!",
+      "description": "Complete the main story line for Mahakam.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/00b1d369490b93277c74039dc401454fd9362e01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "29.6"
+    },
+    "AngrenCompleted": {
+      "name": "Witcher to the Rescue",
+      "description": "Complete the main story line for Angren.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/6657baf34263633b01d6e1f77a5b7b66f1b1019c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/973760/320c01b164fbae30a04ff6f3be9e18b350c1e167.jpg",
+      "hidden": true,
+      "percent": "26.5"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

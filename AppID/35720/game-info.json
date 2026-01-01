@@ -1,0 +1,786 @@
+{
+  "appid": "35720",
+  "name": "Trine 2: Complete Story",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35720/header.jpg?t=1725007729",
+  "achievements": {
+    "carni": {
+      "name": "A Floral Feast",
+      "description": "Feed carnivorous plants with three or more different kinds of treats",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/4d41b3f46067320737ee1b1d6014f2faefa7f598.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "39.9"
+    },
+    "arrow": {
+      "name": "A Hail of Arrows",
+      "description": "Shoot 3 arrows in the air and catch them all with the Knight's shield",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/661e448655d7b86458899daa7163ec3cd3a8a7f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "5.1"
+    },
+    "no_damage": {
+      "name": "All Too Easy!",
+      "description": "Finish a level without taking any damage (Not the Tutorial)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/23aab2e93f11b8c652f58535f3faec54f8934205.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "solo_pontius": {
+      "name": "Alone and Mighty",
+      "description": "Complete a level with only Pontius",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/64d4d92409a2c9b41a9700fbf56f0bdd700b2a7f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "level16_exp": {
+      "name": "Belly of the Beast Collector",
+      "description": "Collect all level experience in Belly of the Beast",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.5"
+    },
+    "bounce": {
+      "name": "Bouncy Bouncy",
+      "description": "Stand on a conjured box bouncing on any bouncy surface for 10 seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1a0eee1d97630207bd03dcda705bbef58b483863.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "6.5"
+    },
+    "level17_exp": {
+      "name": "Brackenridge Rise Collector",
+      "description": "Collect all level experience in Brackenridge Rise",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "grenade": {
+      "name": "Cannonball Rebound",
+      "description": "Kill a grenadier goblin with its own cannonball",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/6ccbf36af884fbc58cf0fda8f7cc57ef99dc195e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "7.7"
+    },
+    "charge": {
+      "name": "Catch This!",
+      "description": "Kill an enemy with an airborne object tossed with the Knight's charge ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e6e39e30235f9de37596bd92712c40dfce61bfd2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "hard_hc": {
+      "name": "Challenge is My Middle Name",
+      "description": "Complete any level with hardcore mode on and difficulty set to hard",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7998e8cdc0c2d86bc2b012dbe508f06636278f64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "rope": {
+      "name": "Cirque de Zoya",
+      "description": "Using grapple, swing around an object and reattach grapple again without touching any surface",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/6196c421095ae8f85d9d3516340743b79d4c6b65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "24.8"
+    },
+    "level18_exp": {
+      "name": "Cloudy Isles Collector",
+      "description": "Collect all level experience in Cloudy Isles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "level15_exp": {
+      "name": "Deadly Dustland Collector",
+      "description": "Collect all level experience in Deadly Dustland",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "friendly_fire": {
+      "name": "Dirty Tactics",
+      "description": "Get at least 10 enemies killed by other enemies' actions in a single level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7e7486c627ef04a8cfb10a164f474c5d34041a82.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "19.2"
+    },
+    "allhc_dlc": {
+      "name": "Easy as Pie",
+      "description": "Complete the Goblin Menace expansion on hard using hardcore mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/b86ec2e79b838f9cd703dfea4fd0dd2b73ffebeb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "level11_exp": {
+      "name": "Eldritch Passages Collector",
+      "description": "Collect all experience pickups in Eldritch Passages",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "solo": {
+      "name": "Flying Solo",
+      "description": "Complete a whole level playing one character only",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/01e3938773800af073bc0e52376318d0c7a42d60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "level2_exp": {
+      "name": "Forlorn Wilderness Collector",
+      "description": "Collect all experience pickups in Forlorn Wilderness",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "level8_completed": {
+      "name": "Funs with Fungi",
+      "description": "Complete Mushroom Caves",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "33.4"
+    },
+    "allexp_dlc": {
+      "name": "Goblin Menace Collector",
+      "description": "Collect all level experience in the Goblin Menace expansion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "allexp_both": {
+      "name": "Grand Collector",
+      "description": "Collect all experience pickups in both the main game and the Goblin Menace expansion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "level17_completed": {
+      "name": "Grand Theft Aviation",
+      "description": "Complete Brackenridge Rise",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "15.8"
+    },
+    "hammer": {
+      "name": "Hammer Havoc",
+      "description": "Kill an enemy with a thrown hammer bouncing at least once before kill",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0d90b6dc174ec1f316aafcf8be8608b4a2dc6770.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "35.8"
+    },
+    "level19_completed": {
+      "name": "Happy Reunion",
+      "description": "Complete Goblin Machinations",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/59cc125bc8fdaa538351c2e8bbe144282be61348.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "14.6"
+    },
+    "tower": {
+      "name": "High Rise",
+      "description": "Construct a tower made of eight objects and stand on top of it",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/4b1a06dd7054d0ed3038bdcba565a5d152a63f8a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "level7_completed": {
+      "name": "Hostile Gardening",
+      "description": "Complete Hushing Grove",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "35.9"
+    },
+    "level12_completed": {
+      "name": "Hot and Cold",
+      "description": "Complete Icewarden Keep",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "25.8"
+    },
+    "level7_exp": {
+      "name": "Hushing Grove Collector",
+      "description": "Collect all experience pickups in Hushing Grove",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "hazard": {
+      "name": "I Didn't Do It",
+      "description": "Make goblins die of three different environmental hazards in a single level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/5e0d67da3decca3646cc6713a41715050e6082b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "57.8"
+    },
+    "game_completed": {
+      "name": "I want more!",
+      "description": "Complete the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1eb5412ebaf2548a30e8ae47012b443fa865afdc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "24.1"
+    },
+    "shatter": {
+      "name": "Icebreaker",
+      "description": "Shatter three frozen enemies within one second",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1d42c57412464408f7815967156984135e5fc773.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "level12_exp": {
+      "name": "Icewarden Keep Collector",
+      "description": "Collect all experience pickups in Icewarden Keep",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "level18_completed": {
+      "name": "I'm Walking in the Air",
+      "description": "Complete Cloudy Isles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "15.0"
+    },
+    "level16_completed": {
+      "name": "Indigestion",
+      "description": "Complete Belly of the Beast",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "16.8"
+    },
+    "level1_completed": {
+      "name": "Into the Story",
+      "description": "Complete The Story Begins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "80.8"
+    },
+    "solo_zoya": {
+      "name": "Like a Shadow",
+      "description": "Complete a level with only Zoya",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/27ecff890d0d957e2f35f70bd52f5c5352569eb3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "allchest": {
+      "name": "Lost and Found",
+      "description": "Find all chests in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/bc6dd7d5765b40b816ee6203735952ee5971b38c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "level4_completed": {
+      "name": "March Through the Marsh",
+      "description": "Complete Mosslight Marsh",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "51.6"
+    },
+    "allexp": {
+      "name": "Master Collector",
+      "description": "Collect all experience pickups in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "level4_exp": {
+      "name": "Mosslight Marsh Collector",
+      "description": "Collect all experience pickups in Mosslight Marsh",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "level3_completed": {
+      "name": "Mudproof Hero",
+      "description": "Complete Mudwater Dale",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "56.4"
+    },
+    "level3_exp": {
+      "name": "Mudwater Dale Collector",
+      "description": "Collect all experience pickups in Mudwater Dale",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "3.5"
+    },
+    "level8_exp": {
+      "name": "Mushroom Caves Collector",
+      "description": "Collect all experience pickups in Mushroom Caves",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "level9_exp": {
+      "name": "Mushroom Murk Collector",
+      "description": "Collect all experience pickups in Mushroom Murk",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "5.3"
+    },
+    "sandworm": {
+      "name": "Mutually Assured Destruction",
+      "description": "Make a sandworm kill another sandworm",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/c7305e49a05cb619cad77822e64187639a5ffea7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "3.5"
+    },
+    "level6_completed": {
+      "name": "No More Lizard Soup",
+      "description": "Complete Shadowed Halls",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "40.6"
+    },
+    "level14_completed": {
+      "name": "No Time to Change Clothes",
+      "description": "Complete The Heroes Return",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "20.0"
+    },
+    "solo_amadeus": {
+      "name": "O Solo Mio",
+      "description": "Complete a level with only Amadeus",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/25c94d9352f9fbef1e7aff71fa6a03b2b397b880.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "catapult": {
+      "name": "Off You Go",
+      "description": "Capture a goblin in a Monster Prison and then launch it with a catapult",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/9ff3472e38b519fd0e72aab76d89ac0630f1d1c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "level10_completed": {
+      "name": "Pearl Diver",
+      "description": "Complete Searock Castle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "30.9"
+    },
+    "level5_exp": {
+      "name": "Petrified Tree Collector",
+      "description": "Collect all experience pickups in Petrified Tree",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "catch": {
+      "name": "Play Catch",
+      "description": "Throw a box with Pontius' magnetic shield and catch it or have another player catch it",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7b221803c5856c24afc4a4c9cb1b92985b3c9af3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "5.3"
+    },
+    "air_hammer": {
+      "name": "Pontius Baseball",
+      "description": "Launch an object with Knight's magnetic shield and break it with hammer before the object touches the ground",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/65cd801ec95b8e05d3382b1b4daac1a81b9be5c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "pontiusglide": {
+      "name": "Pontius Transportation Company",
+      "description": "Glide for five seconds with Kitesail Shield while having an object or character on top of the shield",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ae24719e9d898bb338d6093fe45de2659b752b3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "raft": {
+      "name": "Rafting",
+      "description": "Create a makeshift raft of three separate parts and have a goblin sail it for five seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ab5440d9e2fe7e551f41f270a23b822bfd0e8f56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "hard_hc_dlc": {
+      "name": "Rise to the Challenge",
+      "description": "Complete any level of the Goblin Menace expansion with hardcore mode on and difficulty set to hard",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e76e22aba217366a0b64d2a41d6fb8d7f2b40c31.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "level13_chest": {
+      "name": "Rosabel's Secrets",
+      "description": "Find all chests in The Final Chapter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "5.6"
+    },
+    "level10_exp": {
+      "name": "Searock Castle Collector",
+      "description": "Collect all experience pickups in Searock Castle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "level16_chest": {
+      "name": "Secrets of Belly of the Beast",
+      "description": "Find all secret chests in Belly of the Beast",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "level17_chest": {
+      "name": "Secrets of Brackenridge Rise",
+      "description": "Find all secret chests in Brackenridge Rise",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "level18_chest": {
+      "name": "Secrets of Cloudy Isles",
+      "description": "Find all secret chests in Cloudy Isles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "level15_chest": {
+      "name": "Secrets of Deadly Dustland",
+      "description": "Find all secret chests in Deadly Dustland",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "6.4"
+    },
+    "level11_chest": {
+      "name": "Secrets of Eldritch Passages",
+      "description": "Find all chests in Eldritch Passages",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "13.0"
+    },
+    "level2_chest": {
+      "name": "Secrets of Forlorn Wilderness",
+      "description": "Find all chests in Forlorn Wilderness",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "42.9"
+    },
+    "level7_chest": {
+      "name": "Secrets of Hushing Grove",
+      "description": "Find all chests in Hushing Grove",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "15.2"
+    },
+    "level12_chest": {
+      "name": "Secrets of Icewarden Keep",
+      "description": "Find all chests in Icewarden Keep",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "18.4"
+    },
+    "level4_chest": {
+      "name": "Secrets of Mosslight Marsh",
+      "description": "Find all chests in Mosslight Marsh",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "23.5"
+    },
+    "level3_chest": {
+      "name": "Secrets of Mudwater Dale",
+      "description": "Find all chests in Mudwater Dale",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "12.6"
+    },
+    "level8_chest": {
+      "name": "Secrets of Mushroom Caves",
+      "description": "Find all chests in Mushroom Caves",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "20.6"
+    },
+    "level9_chest": {
+      "name": "Secrets of Mushroom Murk",
+      "description": "Find all chests in Mushroom Murk",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "11.6"
+    },
+    "level5_chest": {
+      "name": "Secrets of Petrified Tree",
+      "description": "Find all chests in Petrified Tree",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "18.8"
+    },
+    "level10_chest": {
+      "name": "Secrets of Searock Castle",
+      "description": "Find all chests in Searock Castle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "18.4"
+    },
+    "level6_chest": {
+      "name": "Secrets of Shadowed Halls",
+      "description": "Find all chests in Shadowed Halls",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "24.8"
+    },
+    "level14_chest": {
+      "name": "Secrets of the Heroes Return",
+      "description": "Find all secret chests in The Heroes Return",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "level6_exp": {
+      "name": "Shadowed Halls Collector",
+      "description": "Collect all experience pickups in Shadowed Halls",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "4.7"
+    },
+    "expbottle": {
+      "name": "Sharp-Eyed",
+      "description": "Collect all experience pickups in any level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e21249f3821e1a01850a9952abb7afa70019bb02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "28.1"
+    },
+    "expbottle_dlc": {
+      "name": "Sharpeyed II (Goblin Menace Expansion)",
+      "description": "Find all level experience in any level in the expansion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e21249f3821e1a01850a9952abb7afa70019bb02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "level9_completed": {
+      "name": "Shrooms and Glooms",
+      "description": "Complete Mushroom Murk",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "32.5"
+    },
+    "level11_completed": {
+      "name": "Sinister Plumbing",
+      "description": "Complete Eldritch Passages",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "28.1"
+    },
+    "frozen_tower": {
+      "name": "Snowman",
+      "description": "Freeze two enemies and stack them on top of each other",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0b2b125c3057c918018b10be39d49f209c36b1c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "level15_completed": {
+      "name": "Sunstroke",
+      "description": "Complete Deadly Dustland",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "18.4"
+    },
+    "surf": {
+      "name": "Surfboard Master",
+      "description": "Stand on a plank floating on a single airflow for four seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/438efab3896436d5e628a076564675a5769bdaaf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "7.7"
+    },
+    "level14_exp": {
+      "name": "The Heroes Return Collector",
+      "description": "Collect all level experience in The Heroes Return",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "pontiustower": {
+      "name": "The Leaning Tower of Pontius",
+      "description": "Build a three-piece or three-character tower where lowest part is Pontius and his shield, tower must stand at least five seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/73013673f6aacd149924e5d65e439b9e8aee7605.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "4.7"
+    },
+    "level1_exp": {
+      "name": "The Story Begins Collector",
+      "description": "Collect all experience pickups in The Story Begins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "25.8"
+    },
+    "allchest_dlc": {
+      "name": "The Treasurer",
+      "description": "Find all chests in the Goblin Menace expansion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/bc6dd7d5765b40b816ee6203735952ee5971b38c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "pit": {
+      "name": "This is Trine!",
+      "description": "Kick five enemies of the same kind into a bottomless pit with the Thief's grappling hook kick or the Knight's Kitesail Shield glide kick",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/042ec82a8a332a34a00485e259ba5917b9431d19.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "bubble": {
+      "name": "This Wasn't the Plan",
+      "description": "Make a bubble sink for three seconds",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/15ba8c833b567edfe0e0c6330f044ffb04d5df3f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "8.0"
+    },
+    "level13_completed": {
+      "name": "Through Dangers Untold",
+      "description": "Complete The Final Chapter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "25.1"
+    },
+    "level5_completed": {
+      "name": "Treehouse Adventure",
+      "description": "Complete Petrified Tree",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "45.7"
+    },
+    "platinum": {
+      "name": "Trine 2 hard",
+      "description": "Earn all (original) Achievements in Trine 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0c4bb821a4eb1c614c026079c1f820c05b504890.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "platinum_dlc": {
+      "name": "Trine 2 Hard II (Goblin Menace Expansion)",
+      "description": "Earn all Achievements in Trine 2: The Goblin Menace",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/933327fe235d91a8c36aea99b43e0e1c5bfa0eda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "solo_dlc_levels": {
+      "name": "Trine Kaput For Good?",
+      "description": "Complete each expansion level using only one character",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/5668565896c5bf79d468b095ebcbad3609d0800f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "solo_all": {
+      "name": "Trine Kaput?",
+      "description": "Complete a level with only Amadeus, a level with only Zoya and a level with only Pontius",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/a2dfd066c5b2b4b2e3626ab2588ca6d49cd83e76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "allhc": {
+      "name": "Walk in the Park",
+      "description": "Complete the game on hard using hardcore mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/f7501eb53ad9305e4d3ab3e449b993829acd334b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "trapstack": {
+      "name": "Wicked Collection",
+      "description": "Capture three different types of enemies inside boxes and stack them on top of another",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/01bca7710eda2d62d2ed47cafeaed7ae1c35899b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "level2_completed": {
+      "name": "Wild in Wilderness",
+      "description": "Complete Forlorn Wilderness",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
+      "hidden": false,
+      "percent": "63.8"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

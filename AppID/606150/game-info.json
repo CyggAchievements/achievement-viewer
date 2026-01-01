@@ -1,0 +1,546 @@
+{
+  "appid": "606150",
+  "name": "Moonlighter",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/b6b0789b397ed98c8c5871dd2f99945a8fea0332/header.jpg?t=1765551155",
+  "achievements": {
+    "ALL_ACHIEVEMENTS": {
+      "name": "100%",
+      "description": "Complete all achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/22da936bf521913a8472494997ca54a0c3ccd81b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/def54fb92fb0dbd59251b93fd923538345977e51.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "A_BIGGER_FAMILY": {
+      "name": "A Bigger Family",
+      "description": "Get all DLC companions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/c4c813dff4e7af75b2b1d5d5594f02abf4e786fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/f5efbd159b39884644f9c42d93c1e9ccebc00f86.jpg",
+      "hidden": false,
+      "percent": "3.1"
+    },
+    "ALL_CRAZY_PETE_NOTES": {
+      "name": "Archeologist",
+      "description": "Read All Crazy Pete Notes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/3253afa234e8e442013fa35f43f594d7dbf5d441.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/c8e6624ba2fa1481d4a088484c99fda0a577c1a0.jpg",
+      "hidden": false,
+      "percent": "8.3"
+    },
+    "CRAFT_ALL_SHORT_SWORDS": {
+      "name": "Balanced Warrior",
+      "description": "Craft All Short Swords",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b39a57f556ef88e80e6297daea4c1beedb873ddc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/50ce66a864147ee502ceae9a1c7099f4ff635910.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "DEFEAT_DESERT_BOSS": {
+      "name": "Behead the snake!",
+      "description": "Defeat Naja",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/5cedc5ef16c609b68dd8fbd8ffb40cf0012676fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/70ba4b462f188a7922cb7ecbdd5ed346e6634495.jpg",
+      "hidden": false,
+      "percent": "21.8"
+    },
+    "CRAFT_ALL_GLOVES": {
+      "name": "Berserk Warrior",
+      "description": "Craft All Gloves",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ff1a338228fe20d2f393f3aca57799a6b1160d78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/693e159f89e5cb8e363c60ce3f760ff9f21377a7.jpg",
+      "hidden": false,
+      "percent": "2.5"
+    },
+    "COMPLETE_GAME_UNDER_DEATHS": {
+      "name": "Careful Merchant",
+      "description": "Complete the game under 40 deaths",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/fc82e4fba12f0b4c6f6c9e663e82078fa57098b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/97d4a96ed9c6526aa4d794fbd829fde5397a5042.jpg",
+      "hidden": false,
+      "percent": "16.1"
+    },
+    "ALL_DECORATIVE_ITEMS": {
+      "name": "Decorative Mind",
+      "description": "Buy all decorative Items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/fbcfe5ac9a5516b03476056a26545df3f76a440f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/a198b7a0f8628fce0f37b6d9f22f35de1f6a38ab.jpg",
+      "hidden": false,
+      "percent": "8.5"
+    },
+    "DESERT_THIRD_FLOOR_TIMES": {
+      "name": "Desert Apasionate",
+      "description": "Arrive to the third floor of the Desert Dungeon 10 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/976e9ed1f6e12c8f15efca15d9974b09de09217d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/85903b2c9d218c81840a2e585602fe7cc723b6da.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "CRAFT_ALL_BOWS": {
+      "name": "Distant Warrior",
+      "description": "Craft All Bows",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ad2dcaf770a8974c8f042f75343c0e7426b68d2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8d01a9ff945cee63a50409c7cd483011bbaeec2b.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "VISITORS_RUN_TIMES": {
+      "name": "Distracted Merchant",
+      "description": "Make 20 visitors abandon your shop",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/7059d82987f7d97a52fdcdfeef1c55b4013ca2d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/82df56efda635011ede5eade061638be453169f8.jpg",
+      "hidden": true,
+      "percent": "1.5"
+    },
+    "MONEY_TREE_ONCE": {
+      "name": "Does it grow on the trees?!?1",
+      "description": "Get money from a tree once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/10caf9f6d69717ae605ba39b2c550482b169155c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/e2ad5f714de9b0e7e8f2203bb2a98fc2f3d5f8f2.jpg",
+      "hidden": true,
+      "percent": "20.3"
+    },
+    "EIGHT_FLOOR": {
+      "name": "Eight Floor",
+      "description": "Build the elevator to the eight floor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/fee25e6ae65bde65754ee56380659e07e0bf5ae6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b7e1600eb2da91e86a596ed3dd4757801dcd0c37.jpg",
+      "hidden": true,
+      "percent": "2.6"
+    },
+    "SHOP_LAST_VERSION": {
+      "name": "Emporium",
+      "description": "Upgrade your shop to the last version",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/78e561c687c7e4193e7a01dbb21a809b2e9dd18c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/1a0474c6542857ea6251f668bd3391ec0aa9dbf0.jpg",
+      "hidden": false,
+      "percent": "20.3"
+    },
+    "SELL_ITEMS_OVERPRICED_TIMES": {
+      "name": "Evil Merchant",
+      "description": "Sell 20 items slightly overpriced",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/509723e583ef2ba573ebb0b373670d49ff80bc92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/7dda3b09585752f4cfc15d6c39200f3fd49b7ffc.jpg",
+      "hidden": false,
+      "percent": "18.1"
+    },
+    "SHOP_THIRD_VERSION": {
+      "name": "Expansion",
+      "description": "Upgrade your shop to the Third version",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/cdc99a288dc81aa5419f89540996c6049c4918ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/85d9b512774492b5e6013bd0114711a0aee9e524.jpg",
+      "hidden": false,
+      "percent": "36.0"
+    },
+    "KILL_BUGS_TIMES": {
+      "name": "Exterminator",
+      "description": "Kill 100 bugs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/96bbd3a56d3bf2d9859fe58ce77a0b7546470890.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/e7d5f9dad80561491fedca3c98efd46d8ca9ad53.jpg",
+      "hidden": true,
+      "percent": "17.2"
+    },
+    "SHOP_SECOND_VERSION": {
+      "name": "First Investment",
+      "description": "Upgrade your shop to the second version",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/31febfb922689860e3e96486413df28cd07db1e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/718464dae77af50acf729e8616c62c5f4beb2b2a.jpg",
+      "hidden": false,
+      "percent": "49.7"
+    },
+    "FOREST_THIRD_FLOOR_TIMES": {
+      "name": "Forest Apasionate",
+      "description": "Arrive to the third floor of the Forest Dungeon 10 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ad68055dabfa9963e0d2ed232825871e0ca4644f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/37b515afcde3f0cfa1d2661ff60625f3fb34bddf.jpg",
+      "hidden": false,
+      "percent": "4.4"
+    },
+    "FOURTH_FLOOR": {
+      "name": "Fourth Floor",
+      "description": "Build the elevator to the fourthfloor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/1d24fdbb527382fc1cf8242e3f7c7e550a34a8e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b7e1600eb2da91e86a596ed3dd4757801dcd0c37.jpg",
+      "hidden": true,
+      "percent": "3.9"
+    },
+    "EMBLEM_BEFORE_BOSS": {
+      "name": "Going for supplies...",
+      "description": "Use the Catalyst in the room before the boss room",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/c209b874f5eefa3230c69f302996d8eb2f9ea22d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/00a381ad1f0e9cb86924c9ea6dfd53bd6d4f3481.jpg",
+      "hidden": true,
+      "percent": "19.5"
+    },
+    "GOLEM_THIRD_FLOOR_TIMES": {
+      "name": "Golem Apasionate",
+      "description": "Arrive to the third floor of the Golem Dungeon 10 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/9dd02893f0e5e59ec97e205842412c944a0236da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/34e9f4d4ce4804d41e86272b216a1722505138d4.jpg",
+      "hidden": false,
+      "percent": "5.4"
+    },
+    "SELL_ITEMS_PERFECT_TIMES": {
+      "name": "Good Merchant",
+      "description": "Sell 20 items for the perfect price",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/15dc3f80b694f73e6c455180366022104ab862d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/e4a80fa59331f57a169b0a943b35478d32286867.jpg",
+      "hidden": false,
+      "percent": "60.9"
+    },
+    "BEAT_GAME_UNDER_TIME": {
+      "name": "Gotta go fast!",
+      "description": "Beat Game Under 10 hours",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/c8b103226fdebfcac26bd292fa22c5f3cc64189d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ae103dc2b730a4288f175d20cf92109d41d3d599.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "GREED_IS_OVER": {
+      "name": "Greed is Over",
+      "description": "Beat the Boss of the New Portal",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8b8675531255b34879dfe645cadcddf4df9fc413.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ca04446e791dbf5b5b56ca82fb1235d5cbcf4853.jpg",
+      "hidden": true,
+      "percent": "3.0"
+    },
+    "GOLD_QUANTITY_IV": {
+      "name": "Greedy",
+      "description": "Have a quantity of gold bigger than 1000000",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/0f69c91ca7cef6d820a643c489fe8f2ed76c7785.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/5abfa1b155c582abb9f77d68ff626c3650791d63.jpg",
+      "hidden": false,
+      "percent": "20.8"
+    },
+    "EARN_POTIONS_BREAKABLES": {
+      "name": "Healthcare System",
+      "description": "Take potions from breakables 20 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/41530b66f78507b2427460fd1fa82559daeba7fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/70bc125d2dbfd47bc4b30bd7a75e818863c15f30.jpg",
+      "hidden": true,
+      "percent": "22.2"
+    },
+    "CRAFT_ALL_BIG_SWORDS": {
+      "name": "Heavy Warrior",
+      "description": "Craft All Big Swords",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/1cc34ee8d010d171ebc6889ca17d331ed353f5a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/5c94c457ab1d99fcd35df647c608ebca3abe2912.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "FINISH_GAME": {
+      "name": "Hero or Merchant?",
+      "description": "Discover the mistery of the 5th door",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/30a07494f98f2164f15df1ec294604dfb8e8e736.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/85d6d85dbe78d49d33ab9adf0d713424d39b45b8.jpg",
+      "hidden": false,
+      "percent": "16.1"
+    },
+    "3_WAVES_SECRET_ROOM": {
+      "name": "Horde Mode",
+      "description": "Defeat four Waves of enemies in a Wave room",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/02f04fe0014966cca4a61bc9f4ae10085aa21d60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/232dc3d0376fe77b9d7f0020f0fd290ce2eb8364.jpg",
+      "hidden": false,
+      "percent": "11.4"
+    },
+    "IMPROVE_YOURSELF": {
+      "name": "Improve Yourself",
+      "description": "Defeat Evil Will",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/bde286a50cf14122e62265013dd488864e357906.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8ffbdd8855f728ae0f2c5d555dc8059acabed0a2.jpg",
+      "hidden": true,
+      "percent": "3.1"
+    },
+    "FIRST_ICT_WEAPON": {
+      "name": "Inter-Dimensional Blacksmith",
+      "description": "Craft your first ICT weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/dbd558c5187120fd1c28aead0f197452177c9c2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/5a94f2ff009c85cb0de69838cb36f31d7fd31270.jpg",
+      "hidden": true,
+      "percent": "4.6"
+    },
+    "EARN_MONEY_BANKER_TIMES": {
+      "name": "It takes a thief to catch a thief",
+      "description": "Earn money from the Banker 5 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/7a02b71e53f07aa97b348aeb59f74a99bec70b27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b76b786fba27e5fd8bef49d2a42f386b96fc27b1.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "KILL_BOSSES_BROOM": {
+      "name": "Janitor",
+      "description": "Kill all bosses with the broom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/5983bb3d4fca6d688c8424a5b70de687d16114a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/f30432729f580a7385b111ea08684487d297ff38.jpg",
+      "hidden": false,
+      "percent": "1.0"
+    },
+    "SHOP_FOURTH_VERSION": {
+      "name": "Luxury",
+      "description": "Upgrade your shop to the fourth version",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/366fb1b5d3071697e5564be49fe3dfb03dbd7cbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/2fe176a8a0796c3bd7578e6e20e9e0d1d2fe3175.jpg",
+      "hidden": false,
+      "percent": "27.3"
+    },
+    "SELL_ITEMS_CHEAP_TIMES": {
+      "name": "Naive Merchant",
+      "description": "Sell 40 items really cheap",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/fd3e328633b9bad4c6aab3cbbe2816293504a57e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/d2822cf70d28399ccde2ceb227f8b7983ca5565e.jpg",
+      "hidden": true,
+      "percent": "31.3"
+    },
+    "FIND_SECRET_ROOM_TIMES": {
+      "name": "No Secrets",
+      "description": "Find a secret room 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/2322baa49c7cd958fca905036d9df4b1557e7149.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/80ef62c4a0573cf0eb2f239e4dd8884b399e5769.jpg",
+      "hidden": false,
+      "percent": "37.3"
+    },
+    "DEFEAT_GOLEM_BOSS": {
+      "name": "Overthrow the king!",
+      "description": "Defeat the Golem King",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8b969bcffeaff1242823bd15a07489b6c93eaa38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/44fdd56f1c3696c44d8c374f2f10b71c7949151d.jpg",
+      "hidden": false,
+      "percent": "44.5"
+    },
+    "PERFECT_FOREST_BOSS": {
+      "name": "Perfect Carnivurous Mutae",
+      "description": "Perfect Carnivurous Mutae",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/232f7fea9c01cdc74d1cd7671cb979915fb4c9d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/d1e0705291a9d0220eeada1918e3bcf338f6246f.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "PERFECT_TECH_BOSS": {
+      "name": "Perfect Energy Flux",
+      "description": "Perfect Energy Flux",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/9455c8d0f672c9031dc0888f39c95f6a9cd906db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b6902e515b9a210fb9c9b283968c973243c8c667.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "PERFECT_GOLEM_BOSS": {
+      "name": "Perfect Golem King",
+      "description": "Perfect Golem King",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/a04dde2f5da7419ee3eb1545bdd600d23159b718.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/3c300f8e5d7768099f37977d7b45d4f8a67d41b4.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "PERFECT_DESERT_BOSS": {
+      "name": "Perfect Naja",
+      "description": "Perfect Naja",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/d7c0385a148b668324c1eb8960028e9e2aafa69b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/6c1941759bb32c0ddf3a3cfb21232cd349450bd5.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "CRAFT_ALL_SPEARS": {
+      "name": "Piercing Warrior",
+      "description": "Craft All Spears",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/1fec71395b86fc09b9f44cb9fd0d4088f9d0553c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8280533599092b0b3e4f8cedfec9678123d65a66.jpg",
+      "hidden": false,
+      "percent": "2.5"
+    },
+    "DEFEAT_FOREST_BOSS": {
+      "name": "Prune the plant!",
+      "description": "Defeat Carnivurous Mutae",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/5d302e8f96123f1015f7c0d27ca3973776cdaa93.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ebf248a0fd31e755cad41a050690b126cb6a99a3.jpg",
+      "hidden": false,
+      "percent": "31.2"
+    },
+    "KILL_DESERT_ENEMIES_TIMES": {
+      "name": "Rage against the Desert",
+      "description": "Kill Desert Enemies 1000 Times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/36839556279efeda684c5ad7e0851c60636ac84c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b7cb925dec215f62f1b93370a02e3b5978df59fd.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "KILL_FOREST_ENEMIES_TIMES": {
+      "name": "Rage against the Forest",
+      "description": "Kill Forest Enemies 1000 Times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/42ebfe76dedd47e8ba71f5b8267c474d4c0b8171.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/1c8c100164a1dd24be728917f32f4ab07b880458.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "KILL_GOLEM_ENEMIES_TIMES": {
+      "name": "Rage against the Golems",
+      "description": "Kill Golem Enemies 1000 Times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8bd98bd0d5c6110e1b61fc4693b2f64b5123713c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/d2879e7fef9b613a1c6fe5d8dff218346165e353.jpg",
+      "hidden": false,
+      "percent": "15.6"
+    },
+    "KILL_TECH_ENEMIES_TIMES": {
+      "name": "Rage against the Machinery",
+      "description": "Kill Tech Enemies 1000 Times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/e6a9b8f39c45f6d946b8d2e54835ae0b5e3e552d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ca1d4609d2b61bf05606fdfc24dc4f15c94802ff.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "MONEY_TREE_TIMES": {
+      "name": "Really?!?",
+      "description": "Earn money from trees 100 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/19946e3e47d2237db2f34dae7c874f8206cc9471.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/991670aeded7d395144fe12fd9740031a2ccfbc2.jpg",
+      "hidden": true,
+      "percent": "1.3"
+    },
+    "ALL_TOWN_BOARD_IMPROVEMENTS": {
+      "name": "Rynoka's Major!",
+      "description": "Buy all improvements in the Town Board",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/78ad76acbb6ba67d610016648a9d20261fd1f2cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/00f0d9eed16a12ed0cf2e201078d2d79654c2d3e.jpg",
+      "hidden": false,
+      "percent": "17.7"
+    },
+    "KILL_A_LOT_OF_ENEMIES": {
+      "name": "Savage!",
+      "description": "Kill a total of 10000 enemies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/369c2945298d39cc2ad8afaa0c5baf1f2b59b636.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/a3aa15579320834ba5065f2c241f6a3a922f95fd.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "GOLD_QUANTITY_I": {
+      "name": "Saver",
+      "description": "Have a quantity of gold bigger than 5000",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/7dd134f22491cc9f23d5e06055d52033275c8049.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ffd911c05186ecd17fc4a26fa035066c30a502fc.jpg",
+      "hidden": false,
+      "percent": "60.2"
+    },
+    "GOLD_QUANTITY_II": {
+      "name": "Saver+",
+      "description": "Have a quantity of gold bigger than 50000",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/c77eaec25705f0e04fa3f9c95af6798e867b50c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8635ce49dc4c8504edad6d9792b48e0c65c068e5.jpg",
+      "hidden": false,
+      "percent": "42.3"
+    },
+    "GOLD_QUANTITY_III": {
+      "name": "Saver++",
+      "description": "Have a quantity of gold bigger than 100000",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/4ffda00a9049cec89b7052fd21b5f38bf6685ee0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/323811b9d2f6e9c41cc12ab326ac06e7df33dad3.jpg",
+      "hidden": false,
+      "percent": "36.2"
+    },
+    "SELL_ITEMS_EXPENSIVE_TIMES": {
+      "name": "Scammer",
+      "description": "Receive 60 really expensive valorations",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/a700b1eaf7a859aa39764c2a0269f811a41328bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/3570682414b25b499a111cdfec4f397990036609.jpg",
+      "hidden": true,
+      "percent": "27.3"
+    },
+    "COMPLETE_NOTEBOOK": {
+      "name": "Scribe",
+      "description": "Complete the Notebook",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/a3e3def6aedfd3910ec8649e5ec75cd5276bd563.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/7a000f74799fb4cdcb5f593c6c79fc8cbca3ba12.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "SECOND_FLOOR": {
+      "name": "Second Floor",
+      "description": " Build the elevator to the second floor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ae213e7937607c84d4c2ffdcb4eb7e9f9ff486a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b7e1600eb2da91e86a596ed3dd4757801dcd0c37.jpg",
+      "hidden": true,
+      "percent": "4.5"
+    },
+    "SIXTH_FLOOR": {
+      "name": "Sixth Floor",
+      "description": "Build the elevator to the sixth floor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/7b1a32e1c740fc90ae27a04865d4aa7cade6dfcb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b7e1600eb2da91e86a596ed3dd4757801dcd0c37.jpg",
+      "hidden": true,
+      "percent": "3.3"
+    },
+    "WITCH_SLIME_HIT_TIMES": {
+      "name": "Slime Protection Service",
+      "description": "Hit the slime of the Witch 42 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/8149e948f6d140c50b4699a35ee7ee0006a64b49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/ecd381d45ae8a600c4fb0a0ff70edf786d5820d8.jpg",
+      "hidden": true,
+      "percent": "2.3"
+    },
+    "CRAZY_PETE_SPECIAL_PLACE": {
+      "name": "Special Place",
+      "description": "Arrive at Crazy Pete place",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/c9a31193fc639b42c77b5cf4a1492049f03c46a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/192cb811b99f9f1c26d176281c09bf3511dd2915.jpg",
+      "hidden": true,
+      "percent": "19.4"
+    },
+    "STRANGE_WEAPON": {
+      "name": "Strange Weapon",
+      "description": "Get your first Trick Weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/f9beec67d5034fc1b3e2dbf7b72db9352bc7099d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/9f77a393c719676b5d66e95ccea5f4cb9061dac8.jpg",
+      "hidden": false,
+      "percent": "20.6"
+    },
+    "TECH_THIRD_FLOOR_TIMES": {
+      "name": "Tech Apasionate",
+      "description": "Arrive to the third floor of the Tech Dungeon 10 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/d701cc91a3a0d18affef65384c09d02e7ee7f163.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/92f9e5f443f14b7ef1c14c5d05e315a37d236438.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "DEATH_INVENTORY_FULL": {
+      "name": "There is no avarice without penalty",
+      "description": "Die with the inventory full of items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/b4c2381019e87187a16fb62c7f080441c0ecc892.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/bdf18b8eb67b6952b6374046709c2968080bb566.jpg",
+      "hidden": true,
+      "percent": "50.0"
+    },
+    "TRICK_WEAPON_COLLECTOR": {
+      "name": "Trick Weapon Collector",
+      "description": "Get all Trick Weapons from the Dimensional Watcher",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/acd22bec66000afc072334c861df74f7ff36d346.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/eeb702b48ae050b91b6b63aa49caa5cda3b138ce.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "DEFEAT_TECH_BOSS": {
+      "name": "Unplug the energy!",
+      "description": "Defeat Energy Flux",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/10587286835a396c8a0f6b91f3d81a99065966ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/dc32b87aaedb2cb183764e6040406a932879ae17.jpg",
+      "hidden": false,
+      "percent": "17.4"
+    },
+    "BUY_ITEMS_RIVAL": {
+      "name": "Wasteful Merchant",
+      "description": "Buy more than 10 times on Le Retalier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/9c89dc770f3763daaaf9ed82de684220152907e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/12da6910e5e54a5aa79aefd914d8c5e868fca7f0.jpg",
+      "hidden": false,
+      "percent": "14.6"
+    },
+    "CRAFT_ALL_WEAPONS": {
+      "name": "Weaponmaster",
+      "description": "Craft all weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/c04366711db1f0e6f9f071ce95fccc87b2af3417.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/606150/97dd977629c815a88b9aeed10a9eeccbf5bc0aa1.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    }
+  },
+  "platform": "Xbox",
+  "blacklist": [],
+  "uses_db": false
+}

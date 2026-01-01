@@ -1,0 +1,290 @@
+{
+  "appid": "1182900",
+  "name": "A Plague Tale: Requiem",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/header.jpg?t=1761846087",
+  "achievements": {
+    "ACH_03": {
+      "name": "A Burden of Blood",
+      "description": "Complete chapter 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/0dcf85f7174f1e168a64be27da924ec6adf6b266.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/b31278cd0b08631d3f18ada613e04fd9ff9be0fb.jpg",
+      "hidden": true,
+      "percent": "65.9"
+    },
+    "ACH_08": {
+      "name": "A Sea of Promises",
+      "description": "Complete chapter 8",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/b5ec9d895ea7773cb1a621c484f5d665009f2c50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/0cd085e09b39cbb954f042375e078492038deca0.jpg",
+      "hidden": true,
+      "percent": "54.8"
+    },
+    "ACH_28": {
+      "name": "Alchemist",
+      "description": "Craft 100 ammunitions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/483e91ed827db7359c2ea975e9bc12e45b6c95a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/8ced2ec2a9dc55e632409a72afeee9616afd0fdf.jpg",
+      "hidden": true,
+      "percent": "59.6"
+    },
+    "ACH_10": {
+      "name": "Bloodline",
+      "description": "Complete chapter 10",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/ed902f7d60079d23bbe8b6db848b555a5f2439e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/c51ec3510a72b92df6f6efed25972eb0bf3a70b1.jpg",
+      "hidden": true,
+      "percent": "50.8"
+    },
+    "ACH_15": {
+      "name": "Dying Sun",
+      "description": "Complete chapter 15",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/5177a4fbaa91b1c5e2f02359ba58d9e573c39fd5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/e97df7f31feab44824ca96550192dc655fcd75a1.jpg",
+      "hidden": true,
+      "percent": "48.3"
+    },
+    "ACH_25": {
+      "name": "Effective instruments",
+      "description": "Fully upgrade the instruments",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/095f353b2f43b11228070fe325e0e1b8eaffc67f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/ce2ceaea184bb439c5da08243215493b2998ad37.jpg",
+      "hidden": false,
+      "percent": "25.1"
+    },
+    "ACH_20": {
+      "name": "Explorer",
+      "description": "Open all the secret chests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/72d741088f69308cb95f8837ad8bd3c4a29da6e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/c612fed46a73a263baf44839e9096111c7ba2e46.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "ACH_07": {
+      "name": "Felons",
+      "description": "Complete chapter 7",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/893c2e9ec9be95b12ac0366a1eeea473f9f32c49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/ca89c43a5e2b7c74c8927daaaf3fde1683a42f17.jpg",
+      "hidden": true,
+      "percent": "56.0"
+    },
+    "ACH_30": {
+      "name": "Fighter",
+      "description": "Fully improve the Aggressive skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/3b22156127db319641d537e51e092986772aa83c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/ccf2529a2a8cfa73f43828aa7b9416756963ea67.jpg",
+      "hidden": false,
+      "percent": "16.2"
+    },
+    "ACH_24": {
+      "name": "Handful of pockets",
+      "description": "Fully upgrade the gear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/67040dc57268562884624f352b26b7ca29a34022.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/275331172f370ecd5df98b2c7cea7525644c8536.jpg",
+      "hidden": false,
+      "percent": "19.8"
+    },
+    "ACH_14": {
+      "name": "Healing our Wounds",
+      "description": "Complete chapter 14",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/e1765efc0709f57edff0898df356edd05d2e82c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/6f27885f7e3d1834547e1ae44362249579124143.jpg",
+      "hidden": true,
+      "percent": "48.6"
+    },
+    "ACH_18": {
+      "name": "Herbalist",
+      "description": "Find all flowers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/050aa95d71e6292ae224c74a93bc54650de14ab2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/1a802037f33871c46988d8498aad6b3b24a8cf21.jpg",
+      "hidden": false,
+      "percent": "12.2"
+    },
+    "ACH_21": {
+      "name": "Immortal memories",
+      "description": "Recall all souvenirs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/98b459dddca2e60e4cd004f109322ca686c1daac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/8d6137bbff80d82fbd0c8c0d8aca860bdb135860.jpg",
+      "hidden": false,
+      "percent": "7.2"
+    },
+    "ACH_23": {
+      "name": "Improved crossbow",
+      "description": "Fully upgrade the crossbow",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/81fe015c56cd2e4c7d03a2b56bcf68196f816c11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/997919184f2d723d58654d2e585e02d18670c7e5.jpg",
+      "hidden": false,
+      "percent": "34.1"
+    },
+    "ACH_05": {
+      "name": "In our Wake",
+      "description": "Complete chapter 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/8b2c83804db40cd84d0a1d352894e07d65d04017.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/9bb2d4cc936ed02793c05f191eec84ff816c15b0.jpg",
+      "hidden": true,
+      "percent": "60.5"
+    },
+    "ACH_16": {
+      "name": "King Hugo",
+      "description": "Complete chapter 16",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/3bb3e1d2c14282084b228e0c2f2d4436411b3c0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/409fa70d1b2ccf2d1865da56469f30a8a734c1fa.jpg",
+      "hidden": true,
+      "percent": "48.0"
+    },
+    "ACH_17": {
+      "name": "Knights!",
+      "description": "Complete all chapters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/2e2bc99f27ac969762b7a0d6917cb345ea82c85a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/884cd34de094aaf09278c1f33a7b58287d50b64a.jpg",
+      "hidden": true,
+      "percent": "47.7"
+    },
+    "ACH_06": {
+      "name": "Leaving all Behind",
+      "description": "Complete chapter 6",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/74d7c3e773ae07c3c399d3faf77798deef088b3f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/6f0b5c2c133adb77330da6fd01115d1aa437f985.jpg",
+      "hidden": true,
+      "percent": "58.0"
+    },
+    "ACH_31": {
+      "name": "Malignant",
+      "description": "Fully improve the Opportunism skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/4ed1b60ad878508ea75b995915b08efc61eedaec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/34352ae19f01546dc7526bb33368f3998643e01f.jpg",
+      "hidden": false,
+      "percent": "5.4"
+    },
+    "ACH_35": {
+      "name": "Mercy",
+      "description": "Don't kill the guard on the docks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/5bb8a2c2f6fec9f6922403e7285992b163233c03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/181396185c61686f90ce674dfe1bb65a26815709.jpg",
+      "hidden": true,
+      "percent": "27.0"
+    },
+    "ACH_02": {
+      "name": "Newcomers",
+      "description": "Complete chapter 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/17a711ea676b3538d8b00473271312df658ae32f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/fdb284bcaac64c88624fed8e31d9b19301567d04.jpg",
+      "hidden": true,
+      "percent": "71.1"
+    },
+    "ACH_27": {
+      "name": "Night guard",
+      "description": "Extinguish 40 fires",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/2c33115506fa07638ddc908be4a05e38da32cc98.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/e62ed9941b382267ad586140e259055cadeff5f2.jpg",
+      "hidden": true,
+      "percent": "41.5"
+    },
+    "ACH_22": {
+      "name": "Not a toy anymore",
+      "description": "Fully upgrade the sling",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/0877deeb258b5cee6d02c8b1415f932c2eb4fce1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/2f54669d42139a1a76af1d1212c39d5d206d244f.jpg",
+      "hidden": false,
+      "percent": "18.9"
+    },
+    "ACH_13": {
+      "name": "Nothing Left",
+      "description": "Complete chapter 13",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/ec3df167d5fb34746ff6463053fd8e9da73d5b87.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/dc3377d72611ce05eb121975accf3b169b52c18d.jpg",
+      "hidden": true,
+      "percent": "48.8"
+    },
+    "ACH_34": {
+      "name": "Old protector",
+      "description": "Interact with all the old protector’s items in the sanctuary",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/1c2fd895e629326f5cee4541b6cfa7efeb9843de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/54c1c0c6152326be70c31e3905669855c2c02171.jpg",
+      "hidden": true,
+      "percent": "9.0"
+    },
+    "ACH_19": {
+      "name": "Ornithologist",
+      "description": "Find all feathers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/4b7c699d4e9542e4dede02c5d222cdecaf290c66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/6ec3ed42ad595ac27f2564be4cce5c9db87a48b9.jpg",
+      "hidden": false,
+      "percent": "8.9"
+    },
+    "ACH_32": {
+      "name": "Perfect shot",
+      "description": "Shoot all the pine cones",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/1dc4191676f16da9230222ec2addbbd4c7e8d39f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/30572d76bb1cdb35f6593b04c1279e43d3599c8f.jpg",
+      "hidden": true,
+      "percent": "26.2"
+    },
+    "ACH_33": {
+      "name": "Perfect throw",
+      "description": "Successfully complete all throws in the Crowns game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/7fa3e92ea07db8d198cc02b15e6349f7662efc96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/f95cae42196d0ff0520dd5933ecff1f0edfac446.jpg",
+      "hidden": true,
+      "percent": "23.6"
+    },
+    "ACH_26": {
+      "name": "Pocket laboratory",
+      "description": "Fully upgrade the alchemy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/28d0b5e19ea4df2172025b1038cf9a538116a013.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/72f4b884d8594048ceb5cb17210c3d2b8bf16a4d.jpg",
+      "hidden": false,
+      "percent": "18.7"
+    },
+    "ACH_04": {
+      "name": "Protector's Duty",
+      "description": "Complete chapter 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/259184281f05b2c38cc55be1d4c26decb7cb2042.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/443bb9bcd82aab95d04e971cd9bf005b584d3fef.jpg",
+      "hidden": true,
+      "percent": "62.5"
+    },
+    "ACH_29": {
+      "name": "Sneaky",
+      "description": "Fully improve the Prudence skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/b84beac762f650f6809f10dc59045a26e0def35e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/b2d38e93c6a6cce40f3c6049956d7f1de17e0c5f.jpg",
+      "hidden": false,
+      "percent": "9.7"
+    },
+    "ACH_09": {
+      "name": "Tales and Revelations",
+      "description": "Complete chapter 9",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/36ce9f19593aa14caba17ed879d4bd6b6bcc5e3a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/2b8bbded60f8ecdd6b9316516377744347a809c0.jpg",
+      "hidden": true,
+      "percent": "53.2"
+    },
+    "ACH_11": {
+      "name": "The Cradle of Centuries",
+      "description": "Complete chapter 11",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/5144441110c865f6e696dd726d80670d1904d67b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/efb3752e3cf92e9915ec058bc49ac1601bbe116f.jpg",
+      "hidden": true,
+      "percent": "50.0"
+    },
+    "ACH_12": {
+      "name": "The Life We Deserve",
+      "description": "Complete chapter 12",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/5efd05ee4aa3e10b962a26ec19ed4f94dde3005d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/e12ff6c726b5b38ef36a2e402b84ade753efe662.jpg",
+      "hidden": true,
+      "percent": "49.2"
+    },
+    "ACH_01": {
+      "name": "Under a New Sun",
+      "description": "Complete chapter 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/5d5a5b117ef21924bff7128841ff18e946195b25.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1182900/aebde370d6cf87095b2d42466d022a7cd7b0f50b.jpg",
+      "hidden": true,
+      "percent": "83.5"
+    }
+  },
+  "platform": "Xbox",
+  "blacklist": [],
+  "uses_db": false
+}

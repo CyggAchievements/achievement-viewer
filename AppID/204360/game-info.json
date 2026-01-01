@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204360/cec6631e15a809787c6a1f65164e46c84b160240.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204360/c9a5a86b747855766ead71dbf287c14e458cdc3a.jpg",
       "hidden": false,
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "ACH_TRADITIONAL": {
       "name": "Traditional",
@@ -97,10 +97,10 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204360/2b893729cd1e2190587c752825691c1e7b9efa8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204360/1ea2f4b508238918bec27f45fd6e93d68926fcf9.jpg",
       "hidden": false,
-      "percent": "23.0"
+      "percent": "22.9"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }

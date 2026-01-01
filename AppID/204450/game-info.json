@@ -1,0 +1,218 @@
+{
+  "appid": "204450",
+  "name": "Call of Juarez: Gunslinger",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204450/header.jpg?t=1728907994",
+  "achievements": {
+    "ACH_126": {
+      "name": "Death From Above",
+      "description": "Kill 5 enemies when falling down through the air.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/be1fe11033c9ea1389853e57425d7a9620daff96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/721fbbb23e4ab97bfb63ce5260bda025cd6b8dd8.jpg",
+      "hidden": false,
+      "percent": "64.6"
+    },
+    "ACH_8": {
+      "name": "For a Few Skills More",
+      "description": "Unlock all skills in Story Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/8eb1887309b0dd994a305192239c3700d1947a42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/63adb8fac44a0722a74c32ff69f1c4c4abcab451.jpg",
+      "hidden": false,
+      "percent": "7.1"
+    },
+    "ACH_13": {
+      "name": "For Massive Damage",
+      "description": "Shoot through a hole to kill an enemy that hides behind a shield.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/dd1022881d6385963beac7093a3de4485304a465.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/fac3886d981a708ed7780eb10cc5c73fa5ebd262.jpg",
+      "hidden": true,
+      "percent": "57.2"
+    },
+    "ACH_124": {
+      "name": "Full Blast",
+      "description": "Kill a shotgunner with a close-range shotgun blast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/1adfd1cd7fdb4702b43157e7a0f293439fa1d1d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/e3abf5ad42af6317314fe8e3958ac7a640bf49e4.jpg",
+      "hidden": false,
+      "percent": "14.4"
+    },
+    "ACH_15": {
+      "name": "Grows In The Telling",
+      "description": "Complete the Story on hard difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/9390f4ad4e0260081c66146fadcc3d30c7fc2441.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/9a20c2128a8b15aed8d0d9dbefa6732d7fc38249.jpg",
+      "hidden": false,
+      "percent": "14.6"
+    },
+    "ACH_123": {
+      "name": "Honor Intact",
+      "description": "Complete the duel challenge, winning all duels honorably.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/7aa8ee06e78f28ac09df7c706054f989eebaf28d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/11c50cd8b44af62995f13d63f223611b17c53ac8.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "ACH_2": {
+      "name": "Into the Sunset",
+      "description": "Forgive your lifetime nemesis.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/df5f86aa6d23ed01ae56b99b08c5aafecfac7ca1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/5977c4196604b9a1abb205c9b1d7d47696e49271.jpg",
+      "hidden": true,
+      "percent": "18.8"
+    },
+    "ACH_17": {
+      "name": "Keep At It",
+      "description": "Unlock a skill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/99df90190e2703953ace13db02bd40daf8fa098f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/11ecda45ce36f4fc9c4ebc0505704d7fab0d1100.jpg",
+      "hidden": false,
+      "percent": "87.8"
+    },
+    "ACH_122": {
+      "name": "Last Man Standing",
+      "description": "Complete the Story on True West difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/f6a531c732b882fd6c063f3ca6288ab757f142b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/95edcf2d63ac4db1506af7f2b329f8a3924b35d0.jpg",
+      "hidden": false,
+      "percent": "4.8"
+    },
+    "ACH_7": {
+      "name": "Legend Among Legends",
+      "description": "Get all Arcade Mode stars.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/507bddc92d0c23d7af324fcbb2315da4a7870aaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/8b4ba4d8ce28296b1a6e641fc9582bd441ef71ac.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "ACH_6": {
+      "name": "Magnificent Three",
+      "description": "Score the maximum of 3 stars in any Arcade mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/9d676ba20abd26d66b202705334bc08459ad86a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/ac172d2c963fb510b74a8dddfb2f7f497e3d64e7.jpg",
+      "hidden": false,
+      "percent": "6.2"
+    },
+    "ACH_9": {
+      "name": "Perseverance",
+      "description": "Unlock both exclusive weapons in a single category of skills in Story Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/8df4bdd61906cea1d373b0fa0fa14c2eab550b6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/3c3510e6419336ef763d1d7d69c8eac6a1a6504a.jpg",
+      "hidden": false,
+      "percent": "34.9"
+    },
+    "ACH_11": {
+      "name": "Quality Time",
+      "description": "Fight in Concentration for 15 minutes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/f3f37014111937234a44bda61ccaf81f1210218d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/cbd12724add4bb94b07109aa36177e1b5454609d.jpg",
+      "hidden": false,
+      "percent": "9.3"
+    },
+    "ACH_120": {
+      "name": "Righteous",
+      "description": "Find and kill Jim Reed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/9870061cad8ae84e35998df16c875db268f2820c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/2d8514b5d5c8eb1c88e20e5149ca2c34eb6753d0.jpg",
+      "hidden": true,
+      "percent": "33.2"
+    },
+    "ACH_119": {
+      "name": "Staying Afloat",
+      "description": "Discover a shipwreck in the Missouri swamps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/e1bcd298ecd0fdc9886a52bdb62eed56e387c07d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/3a58f2afe33187df156fceedf40deb755118f044.jpg",
+      "hidden": true,
+      "percent": "38.7"
+    },
+    "ACH_125": {
+      "name": "Swift Justice",
+      "description": "Win a duel honorably in under 0.6s.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/a988f0a749188bfa46b88820999e365796b3df83.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/31c32290f9fe7db00e18fdb74a00b20a85bab783.jpg",
+      "hidden": false,
+      "percent": "8.9"
+    },
+    "ACH_121": {
+      "name": "That's How it Was",
+      "description": "Complete the Story on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/0592f7c5dfc2f8f2518f5e03ac1c723e591bcacf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/9a550d93df726407f91def0f3cd7e9929ce1d9ce.jpg",
+      "hidden": false,
+      "percent": "31.3"
+    },
+    "ACH_5": {
+      "name": "The Tally",
+      "description": "Complete all Arcade missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/b2597c5987c00cd3094e82b4a8e47a964bb18b88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/c408e852707f4f4617e9388a9f55f0bcd1a31c9c.jpg",
+      "hidden": false,
+      "percent": "6.3"
+    },
+    "ACH_118": {
+      "name": "There's More to It",
+      "description": "Find and kill Johnny Ringo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/400409d441202c55b87068381baae8ca3a7ebd4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/32a811c89039104343ca98ee6d29072f2f980bb1.jpg",
+      "hidden": true,
+      "percent": "56.3"
+    },
+    "ACH_1": {
+      "name": "This Time for Real",
+      "description": "Give it to them straight about your meeting with Pat Garrett.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/aff9fe9abcf25a30650d8e7fc257cd8ee92d200c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/3e1134dc8390ad47f8ba5423bac83ae7cd4592d5.jpg",
+      "hidden": true,
+      "percent": "81.1"
+    },
+    "ACH_10": {
+      "name": "Trick Shot",
+      "description": "Kill a bird during a winning duel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/8560d205df3a21dbe2eb3cba93d23907940376c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/3422f0e652530e077696a6c4995eef6af963a365.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "ACH_16": {
+      "name": "True Story",
+      "description": "Find all Nuggets of Truth in a single mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/0ae446aad7b721b4ddfebf064bb5c372339c5f55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/948ba76eeb4522e6a739c9dee4367f7a5662cbed.jpg",
+      "hidden": false,
+      "percent": "34.6"
+    },
+    "ACH_14": {
+      "name": "Turkey Shoot",
+      "description": "Reach combo level of 20.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/75534bcf23e945144e922639af1f9be58dbf9c57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/a5ef443b36df847c1075afae081c955a8a4fb995.jpg",
+      "hidden": false,
+      "percent": "31.7"
+    },
+    "ACH_12": {
+      "name": "Ungrateful",
+      "description": "Shoot a flying stick of dynamite and the one who threw it on a single Concentration.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/fdcfdea4b4ac6cd9d73c670ddea80d7898debb59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/31b1909442789354a4fa0a374ee95e54cd8a3587.jpg",
+      "hidden": false,
+      "percent": "8.7"
+    },
+    "ACH_4": {
+      "name": "Unvarnished Truth",
+      "description": "Collect all Nuggets of Truth.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/8d4affe2ed175f884516c920bd361a0c175d28d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/d1e4c655696c516a67e0258d1e3e629dbf7f15dc.jpg",
+      "hidden": false,
+      "percent": "4.6"
+    },
+    "ACH_3": {
+      "name": "Violence Begets Violence",
+      "description": "Kill your lifetime nemesis honorably in a duel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/d83975ba448da47d0d9f940eae84c0f7f12b9577.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/204450/322635bba6a8e2278739bcb3ae95e0066408846b.jpg",
+      "hidden": true,
+      "percent": "17.9"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

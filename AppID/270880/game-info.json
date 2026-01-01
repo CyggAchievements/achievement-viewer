@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/00fed66d1153fdb8a71ab93c66ef06ae99d15f29.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/7bbcb996d1a5f7c4f11ec1b0ad5a63a55c4d3cc7.jpg",
       "hidden": false,
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "ok_cutscenes": {
       "name": "Can Do!",
@@ -537,7 +537,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/672a8702d22ad7be8a8bd47bf6f8d286445de395.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/f7cdded8df4ab4238ad8af85bd9ee7f200aac870.jpg",
       "hidden": false,
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "wa_forest": {
       "name": "Over the Top",
@@ -617,7 +617,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/606478a84cc758d7eae5f7c66efe79ae60751254.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/34667ac3c8893dd672cc672a85b72b77e7306147.jpg",
       "hidden": false,
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "mt_electric": {
       "name": "Power On!",
@@ -841,7 +841,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/70554e12dfae8793e3ed2de075bae0986f5d5394.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/4e52f2d5ff0e9b6e14a7563c8d843d4a6526583d.jpg",
       "hidden": false,
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "nm_visit_cities": {
       "name": "The Land of Enchantment",
@@ -905,7 +905,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/8ceba848729ebe0302243460cbaa0055c00f0a28.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/7864783862b6d2848b78804e08a0136d79d19b7e.jpg",
       "hidden": false,
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "or_landmarks": {
       "name": "Travel Oregon",
@@ -1004,7 +1004,7 @@
       "percent": "0.5"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }

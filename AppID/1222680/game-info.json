@@ -1,0 +1,346 @@
+{
+  "appid": "1222680",
+  "name": "Need for Speed™ Heat",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1716831270",
+  "achievements": {
+    "Achievement_GOSCC_11": {
+      "name": "A Bit Of Paradise",
+      "description": "Smash your way through all the Billboards",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/22e55587cc6e8ed7e6ee2d1c8395f3547117f10b.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "Achievement_GOSCC_31": {
+      "name": "All For One",
+      "description": "Reach max Crew Level with your Crew",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/22e55587cc6e8ed7e6ee2d1c8395f3547117f10b.jpg",
+      "hidden": false,
+      "percent": "28.3"
+    },
+    "Achievement_GOSCC_41": {
+      "name": "Around The World",
+      "description": "Win the Discovery Event",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "7.1"
+    },
+    "Achievement_GOSCC_27": {
+      "name": "At The Last Second",
+      "description": "Repair critical damage at a Gas Station at night",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "43.9"
+    },
+    "Achievement_GOSCC_13": {
+      "name": "Be The Very Best",
+      "description": "Get all Collectibles and 3 stars on all Activities",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "Achievement_GOSCC_24": {
+      "name": "Benefits Are Nice",
+      "description": "Complete 25 events online with other players",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/22e55587cc6e8ed7e6ee2d1c8395f3547117f10b.jpg",
+      "hidden": false,
+      "percent": "9.4"
+    },
+    "Achievement_GOSCC_22": {
+      "name": "Blame The Vain",
+      "description": "Win a race with all vehicle effects slots equipped",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/22e55587cc6e8ed7e6ee2d1c8395f3547117f10b.jpg",
+      "hidden": false,
+      "percent": "8.0"
+    },
+    "Achievement_GOSCC_15": {
+      "name": "Carving Turns",
+      "description": "Complete the Drift driving story",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/ade29a6921795d644f624163ad46eaba088767d1.jpg",
+      "hidden": true,
+      "percent": "13.9"
+    },
+    "Achievement_GOSCC_38": {
+      "name": "Cashing In",
+      "description": "Earn and bank 1 000 000 REP during one night",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "12.0"
+    },
+    "Achievement_GOSCC_9": {
+      "name": "Change My Name",
+      "description": "Change the text on the License Plate",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "26.6"
+    },
+    "Achievement_GOSCC_14": {
+      "name": "Comeback Kid",
+      "description": "Go from last to first place during the final lap of a race and win",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "10.5"
+    },
+    "Achievement_GOSCC_34": {
+      "name": "Component Parts",
+      "description": "Win a race with handling parts for maximum road traction equipped",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/ae776f422df8dafef4ee99b6822983bc18011a69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "37.9"
+    },
+    "Achievement_GOSCC_2": {
+      "name": "Consider Yourself Noticed",
+      "description": "Complete Chapter 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/a968e79b13fc5b880dc0b391a79493a8da238f96.jpg",
+      "hidden": true,
+      "percent": "46.6"
+    },
+    "Achievement_GOSCC_39": {
+      "name": "Danger Zone",
+      "description": "Complete all Speed Traps",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "Achievement_GOSCC_19": {
+      "name": "Don't Quit Your Day Job",
+      "description": "Complete your first Daily Challenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/22e55587cc6e8ed7e6ee2d1c8395f3547117f10b.jpg",
+      "hidden": false,
+      "percent": "64.3"
+    },
+    "Achievement_GOSCC_20": {
+      "name": "Drift, Drift, Drift",
+      "description": "Complete all Drift Zones",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/22e55587cc6e8ed7e6ee2d1c8395f3547117f10b.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "Achievement_GOSCC_6": {
+      "name": "Eleven - Fifty Six",
+      "description": "Take down 100 Cop Vehicles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/22e55587cc6e8ed7e6ee2d1c8395f3547117f10b.jpg",
+      "hidden": false,
+      "percent": "8.0"
+    },
+    "Achievement_GOSCC_17": {
+      "name": "Friends Reunited",
+      "description": "Complete the Race driving story",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/f294e9f2ed728ed269debeb79353ad51d8976796.jpg",
+      "hidden": true,
+      "percent": "9.7"
+    },
+    "Achievement_GOSCC_30": {
+      "name": "Full Send",
+      "description": "Complete all Long Jumps",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "Achievement_GOSCC_26": {
+      "name": "Get Shrimpin'",
+      "description": "Collect all the Flamingos",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/5c8f7c548a82dfae53ee767af04067fcf927c542.jpg",
+      "hidden": true,
+      "percent": "2.2"
+    },
+    "Achievement_GOSCC_28": {
+      "name": "Graffer",
+      "description": "Collect all Street Art",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "Achievement_GOSCC_42": {
+      "name": "Hear Me Roar",
+      "description": "Win a race in a vehicle with tuned exhaust sound",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/ae776f422df8dafef4ee99b6822983bc18011a69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "28.1"
+    },
+    "Achievement_GOSCC_4": {
+      "name": "Home from Home",
+      "description": "Complete Chapter 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/1221f60773dcba7fd9c5ece67414f862953d9130.jpg",
+      "hidden": true,
+      "percent": "22.8"
+    },
+    "Achievement_GOSCC_36": {
+      "name": "Humble Beginnings",
+      "description": "Reach REP Level 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "70.1"
+    },
+    "Achievement_GOSCC_12": {
+      "name": "I Said Right Now!",
+      "description": "Win a race with a car at 399 Performance Rating",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "15.0"
+    },
+    "Achievement_GOSCC_5": {
+      "name": "Merciless",
+      "description": "Complete Chapter 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/63d1b3d4965937844964d36bcfd96954c8ca529a.jpg",
+      "hidden": true,
+      "percent": "19.7"
+    },
+    "Achievement_GOSCC_37": {
+      "name": "Notorious",
+      "description": "Reach REP Level 50",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "18.2"
+    },
+    "Achievement_GOSCC_16": {
+      "name": "Off the Grid",
+      "description": "Complete the Off-road driving story",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/a0adcd8f2700bd60a128a0d9fc2d5f940749c88f.jpg",
+      "hidden": true,
+      "percent": "9.8"
+    },
+    "Achievement_GOSCC_35": {
+      "name": "Redline",
+      "description": "Win a race with handling parts for maximum race equipped",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "28.9"
+    },
+    "Achievement_GOSCC_32": {
+      "name": "Sideways Style",
+      "description": "Win a race with handling parts for maximum drift equipped",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "14.6"
+    },
+    "Achievement_GOSCC_40": {
+      "name": "Swappin'",
+      "description": "Win a race in a vehicle with an engine swap",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "31.7"
+    },
+    "Achievement_GOSCC_21": {
+      "name": "Techin'",
+      "description": "Win a race with parts equipped in both auxiliary part slots",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "35.0"
+    },
+    "Achievement_GOSCC_8": {
+      "name": "The Brightest Stars",
+      "description": "Get a 3 Star Rating on all the Activities in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "Achievement_GOSCC_33": {
+      "name": "The Hackney Dream",
+      "description": "Win a race with handling parts for maximum off-road traction equipped",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "10.2"
+    },
+    "Achievement_GOSCC_29": {
+      "name": "The Most Wanted",
+      "description": "Win a High Heat 5 race and return to garage safely",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "12.4"
+    },
+    "Achievement_GOSCC_23": {
+      "name": "Travis, Who?",
+      "description": "Escape 100 Cop Chases",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "16.1"
+    },
+    "Achievement_GOSCC_10": {
+      "name": "Two Racers, One Event",
+      "description": "Beat your first Crew Time Trial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "30.3"
+    },
+    "Achievement_GOSCC_7": {
+      "name": "Warp Speed",
+      "description": "Hit 240 mph using any car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/917db7c91e6eebf57f9cc44ca65ac5d17ed0baff.jpg",
+      "hidden": true,
+      "percent": "7.9"
+    },
+    "Achievement_GOSCC_1": {
+      "name": "Welcome to Palm City",
+      "description": "Pick your first ride",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/41a09c72ee8637f8839bb60b86b2965a4e285452.jpg",
+      "hidden": true,
+      "percent": "88.7"
+    },
+    "Achievement_GOSCC_3": {
+      "name": "Worlds Collide",
+      "description": "Complete Chapter 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/82a511a3c0a39043f63cf328ee69e43c28c52b77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/e86b5a7931fc925cbfd440767a8c8c2f3e82e08d.jpg",
+      "hidden": true,
+      "percent": "30.3"
+    },
+    "Achievement_GOSCC_18": {
+      "name": "Wrap It Up!",
+      "description": "Customize a vehicle with a wrap",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "40.3"
+    },
+    "Achievement_GOSCC_25": {
+      "name": "You have friends?",
+      "description": "Complete 5 events online with other players",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b9f89b98918f6a69e91253b977a8e07395474f28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
+      "hidden": false,
+      "percent": "16.5"
+    }
+  },
+  "platform": "EA",
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,410 @@
+{
+  "appid": "237110",
+  "name": "Mortal Kombat Komplete Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237110/header.jpg?t=1584723816",
+  "achievements": {
+    "ACHIEVEMENT_03": {
+      "name": "A For Effort ",
+      "description": "Complete Tutorial Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/9e112dc6d5ffa178ceac722c59909ee531ff7a8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "18.6"
+    },
+    "ACHIEVEMENT_08": {
+      "name": "Arcade Champion ",
+      "description": "Complete Arcade Ladder with All Fighters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/a8a3e16cb312db40380d884ea04bfc4dbd230c5f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_02": {
+      "name": "Back In Time... ",
+      "description": "Complete Story Mode 100%",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1b7c14ffa18341a4f16eea73127383b888144394.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "15.9"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Best...Alternate...Ever! ",
+      "description": "Unlock Mileena's 3rd Alternate Costume",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f5c574743ad40cbaf9e236161398db399f6f7fb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "ACHIEVEMENT_05": {
+      "name": "Block This! ",
+      "description": "Perform a 10-hit combo with any fighter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/876149773e1d70847672dff36598f8545aa97fbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "57.3"
+    },
+    "ACHIEVEMENT_50": {
+      "name": "Brotherhood of Shadow ",
+      "description": "Discover and fight Hidden Kombatant 4 in Arcade Ladder",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f06b0aaab562d653c1b595567346b82e8460206f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "12.5"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Cold Fusion ",
+      "description": "Unlock Hidden Fighter \"Cyber Sub-Zero\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f09375300032ff960575501c852c75750741078a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "19.7"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "Complet-ality ",
+      "description": "Perform 1 of each type of \"-ality\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/d548fa9e0a9b6787ad883ec7067329b2d0699a38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "15.4"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "Cyber Challenger ",
+      "description": "Complete 100 Online Matches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/5af0e18e50a0fb4abacd50b672ae2dda870d8050.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "Dim Mak! ",
+      "description": "Complete all Test Your Strike mini-game challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/904d118347a302ab672ce028d2c37d6b3ffaba62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Don't Jump! ",
+      "description": "Win A Ranked Online Match without jumping",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f0738683e91c6b018e72cc7a34409fe2599f7591.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "e-X-cellent! ",
+      "description": "Successfully land every playable fighter's X-Ray attack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/034487cf20ac9f668e78637d23ccc18e34259d8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "4.6"
+    },
+    "ACHIEVEMENT_04": {
+      "name": "Fatality! ",
+      "description": "Perform a Fatality!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/72324f2b90d63e3a66d710f3139553a86d822b24.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "49.8"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "Finish Him? ",
+      "description": "Perform any fighter's hidden finishing move",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f31ffc7189631f865f3043e687c7b0824a068ef8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "22.1"
+    },
+    "ACHIEVEMENT_09": {
+      "name": "Finish What You Start! ",
+      "description": "Perform a Fatality with all playable fighters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/318611edb180b9e6ad4755eecdc0fc046d324055.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_01": {
+      "name": "Halfway There! ",
+      "description": "Complete Story Mode 50%",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/90ddff4cb81948833a29ef48a4c9aefe9c77b55b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "25.1"
+    },
+    "ACHIEVEMENT_48": {
+      "name": "Hide and Seek ",
+      "description": "Discover and fight Hidden Kombatant 2 in Arcade Ladder",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/b839ad52b35bfd01d3c52fbc1374b6a703dea550.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Humiliation ",
+      "description": "Get a Flawless Victory in an Online Match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/4e74b1d4c7cea857d39fe86991b452cfa15f07a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "9.3"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "I \"Might\" Be the Strongest ",
+      "description": "Complete all Test Your Might mini-game challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/232b0f0a8bee25c2f554f361f763a6996c24dccb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "I'm Not Dead Yet! ",
+      "description": "Comeback with under 10% health in an Online Ranked Match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/67dfdd14d0232261c5884df83da6ed1942172aee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Ladder Master ",
+      "description": "Complete Arcade Ladder on max difficulty without using a continue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/52a51476f2ecc183ab0b2ef829c1a37b3c22e949.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "License to Kill ",
+      "description": "Complete Fatality Trainer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/a8e9d59a013bf005b2b84aaa303906343e7df43d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "41.2"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Luck Be A Lady ",
+      "description": "Get all MK Dragons in Test Your Luck",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/ff229913cf91e1ce54aaed35d9557b07a861d7b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "My Kung Fu Is Strong ",
+      "description": "Gain Mastery of 1 Fighter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/138ee40379ee8630a9cb9dc5e5b1d3dc9f0dc18f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.5"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "My Kung Fu Is Stronger ",
+      "description": "Gain Mastery of All Fighters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f14fe43faf5d5104335105b0fd65b54a9fa9f926.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Outstanding! ",
+      "description": "Win 10 Ranked Online Matches in a row",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/98b107968e0e5dea1d6656cff82b5e93decad9ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_49": {
+      "name": "Pit Master ",
+      "description": "Discover and fight Hidden Kombatant 3 in Arcade Ladder",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/8cd9396c2cededb6473a52b0cdbe60fdf2b81ff2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "Quan-Tease ",
+      "description": "Unlock Hidden Fighter \"Quan Chi\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/d8c91183c5a9a14ccaf9926a60fae4a6eec4f648.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "15.9"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Robots Rule! ",
+      "description": "Win Arcade Tag Ladder with robot Sektor and Cyrax",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/16407ad8c423f7a5823e65611d95fe4d8d63b93e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "Tag, You're It! ",
+      "description": "Perform and land a Tag Combo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/95891b1ba769cdd5852f06e1806a2e9af479f79a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "28.8"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "The Competitor",
+      "description": "Complete 200 Versus matches (online OR offline)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/0f3c8394f1aa5818baf5ee0b4230588582874a28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "4.7"
+    },
+    "ACHIEVEMENT_06": {
+      "name": "The Grappler",
+      "description": "Perform every fighter's forward and backwards throws",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/c6ff54f91220d62962c6224387e6491fc6f613b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "The Krypt Keeper ",
+      "description": "Unlock 100% of the Krypt",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/b0a5841cf094ca12ff5848033105b6b719850801.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "There Can Be Only One!",
+      "description": "Win 10 King of the Hill Matches in a row",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/c3329cc0637fd4618a83e5d5ab520e68e34caae3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "There Will Be Blood! ",
+      "description": "Spill 10000 pints of blood",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/e58ca165d648d44751ebf145863c8871dff43845.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "36.1"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "These Aren't My Glasses! ",
+      "description": "Complete all Test Your Sight mini-game challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f03ec79b88a796aa223904b18998bb08db2e2e90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "Throws Are For Champs ",
+      "description": "Perform 8 throws in an Online Ranked Match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/08839ed47141645cf0ee91a70232f33f50f52f89.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Tough Guy! ",
+      "description": "Win an Online Match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/126b6b82bd4a55275e7bdbd07a76b427d51e524f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "23.8"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "Tower Apprentice ",
+      "description": "Complete 25 Tower missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/6a1f3b41fef0315a488bc198372fdd5e5d3d9dcd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "13.4"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "Tower Master ",
+      "description": "Complete all Tower missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/fe1ab0be67e40ef298fbbaa1c58e6ea65404bb28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Turtle! ",
+      "description": "Win both rounds with timer running out in an Online Ranked Match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/24de0c53f4e85142785cdd62b2a09e7b5bbc9c9a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "Ultimate Humiliation ",
+      "description": "Perform every fighter's hidden finishing move",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/d23da91df606651aae8a7b93f71f9c1a2397a9db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Ultimate Respect! ",
+      "description": "Earn 2500 Respect Points via King of the Hill Matches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/9b97cec4da59b212dc81299ba686b91428d88919.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Undertaker ",
+      "description": "Unlock 50% of the Krypt",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/846751e1615b0ab2fa1bdb82824d2dc19ce893c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "8.6"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "Wavenet... ",
+      "description": "Win 100 total Online Matches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/f262666ac0e1550b2daa023c98061545cc67e23b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "What Does This Button Do?? ",
+      "description": "Complete Arcade Ladder without blocking (allowed to continue)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/7e0f488fdac5832e376fdf01aa765fd02f4d3911.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "8.6"
+    },
+    "ACHIEVEMENT_07": {
+      "name": "Where's The Arcade? ",
+      "description": "Complete Arcade Ladder with Any Fighter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/e7695a04c6e68c6759874651851b0e4e5afb6c56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "28.6"
+    },
+    "ACHIEVEMENT_47": {
+      "name": "You Found Me! ",
+      "description": "Discover and fight Hidden Kombatant 1 in Arcade Ladder",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/c7eb89d2a07873bd0122106730c657017f019b68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "You Will Learn Respect! ",
+      "description": "Earn 1000 Respect Points via King of the Hill Matches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/4d69ee61a508f3793873bf3e7df0a0ed6d90af56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "You've Got Style!",
+      "description": "Unlock all Alternate Costumes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/efa9f5ec517f52b650e156581acf18f29cdc167c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/237110/1ff2215b6fd191010c2375590e5f9c86e5494e2c.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,466 @@
+{
+  "appid": "233980",
+  "name": "UnEpic",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233980/header.jpg?t=1706997556",
+  "achievements": {
+    "LOGRO_LUZ_25": {
+      "name": "25% OF THE CASTLE IS LIT",
+      "description": "You have lit a quarter of all lights in the whole castle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/ba6907b7328f5920894c101272ba6be01e466d37.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/d306886b6b7f19dc4766d12b536460d782bc67d6.jpg",
+      "hidden": true,
+      "percent": "34.7"
+    },
+    "LOGRO_LUZ_50": {
+      "name": "50% OF THE CASTLE IS LIT",
+      "description": "You have lit the half of all lights in the whole castle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/6da3d585014ee44a7e57f8083d8618f1b2899cab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/6d1dad8f2a7b3ba68c4e1698288b06abf949b6f4.jpg",
+      "hidden": true,
+      "percent": "21.9"
+    },
+    "LOGRO_LUZ_75": {
+      "name": "75% OF THE CASTLE IS LIT",
+      "description": "You have lit three quarters of all lights in the whole castle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/eca40baa6a4c16b315d80c4890bbc6e5eb8650a7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/ae778c57fa3c5f59ba951ae1c6696e846adec1c3.jpg",
+      "hidden": true,
+      "percent": "14.9"
+    },
+    "RETO_INICIO": {
+      "name": "A good commence",
+      "description": "Start a new game and reach the first spirit box unharmed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/b5f0a5609d17bbc5a9233960975089bd17e730f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/b3b60962299ac36937b78fa6fe2c4321fd4f54d3.jpg",
+      "hidden": true,
+      "percent": "5.4"
+    },
+    "RETO_GAUNTLIX": {
+      "name": "A HAND WITH VAMPIRES",
+      "description": "Defeat Gauntlik while carrying 8 vampires in your inventory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/310fed4d3af5e02f61c27a9ace5f8f09d9aeb81a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/616cc420a39ea3230df3321e676d61ba91cd8ec3.jpg",
+      "hidden": true,
+      "percent": "1.7"
+    },
+    "RETO_GOBLINS": {
+      "name": "A LONG WAY TO MINERARY",
+      "description": "Bring 4 or more freed goblins to the mine without using teleport or gates.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/8f15280e314736883d803c3a19630eb5d3860558.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/da0e19a59df4e1bcc690594866977d9bc29f4986.jpg",
+      "hidden": true,
+      "percent": "2.1"
+    },
+    "LOGRO_KILL_100": {
+      "name": "BORN TO KILL",
+      "description": "You killed 100 monsters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/7ecac57a5e9441b9da51181724444d70a420f8d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/02cdd88b633cda6c8f870caca1ba775fa96d38f7.jpg",
+      "hidden": true,
+      "percent": "55.8"
+    },
+    "LOGRO_LUZ_CATACUMBAS": {
+      "name": "CATACOMBS ARE LIT",
+      "description": "You have lit all lights in the catacombs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/26375e85efe0dd5a376ddd08a2d92567dec2537a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/bf88bf749898087dbdc9396e19a34eff50d87adf.jpg",
+      "hidden": true,
+      "percent": "14.3"
+    },
+    "LOGRO_LUZ_CENTRO": {
+      "name": "CENTER ZONE IS LIT",
+      "description": "You have lit all lights in the central area.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/9d1db049fe3441759ce76f99ccd5deb58772ea59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/5a92274ab1870ad66663c8c21a774e1212b98942.jpg",
+      "hidden": true,
+      "percent": "17.4"
+    },
+    "RETO_SUXMORTIS": {
+      "name": "DEATH LEVEL 1",
+      "description": "Defeat Sux Mortis with skill level 1 in armor and constitution.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/0620bdfc5ac9754c2fb16d60ee911efa55534e1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/3786c853a7d00b2a5572a72f80ff0814696d3210.jpg",
+      "hidden": true,
+      "percent": "1.7"
+    },
+    "RETO_DIFICIL": {
+      "name": "DIE HARD",
+      "description": "Kill Corvax the Mage in HARD or HARD++ mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/b28c80f4a85d044bcd2f0fbdc1f2cdd024639b8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/fd7659b3bcb98210dde92c209ba8fa234909373d.jpg",
+      "hidden": true,
+      "percent": "1.8"
+    },
+    "RETO_DYNIDON": {
+      "name": "DRY LAW IN ARRAKIS",
+      "description": "Do not drink any potions until you have defeated the Dynidon worm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/37b03c002f9f0f985d708c81d5bd83199eadf92b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/bb1bec6af9bd9d6b13673d1a7ea82cb3e13ef381.jpg",
+      "hidden": true,
+      "percent": "3.1"
+    },
+    "LOGRO_LUZ_ESTE": {
+      "name": "EAST ZONE IS LIT",
+      "description": "You have lit all lights in the east zone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/a581277d0ad2d9aae8a430840d4d199fc3ef486a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/9361f38debb942777333c77752d8e5af5246454b.jpg",
+      "hidden": true,
+      "percent": "16.7"
+    },
+    "LOGRO_KILL_2000": {
+      "name": "ERASER",
+      "description": "You killed 2.000 monsters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/d18e369f8872c01d8bc4bd6696e6b336de84eb3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/dc6e41c08cd7a85720ed99903f6bdff8805005c4.jpg",
+      "hidden": true,
+      "percent": "16.1"
+    },
+    "RETO_MEDEOX": {
+      "name": "EYE FOR AN EYE",
+      "description": "Defeat Medeox without killing any of its snakes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/e0d89a778265a42f4652c38f5a65304e0172fcb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/c777942a72d167beb273047a6021d086b5568dfd.jpg",
+      "hidden": true,
+      "percent": "1.9"
+    },
+    "LOGRO_LUZ_JARDINES": {
+      "name": "GARDENS ARE LIT",
+      "description": "You have lit all lights in the gardens.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/05b4b61cf24976bf989c8a4afd1bad7978b6ca69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/15a6b608dfe99de9c0a57f6107ee5c9066ab52f1.jpg",
+      "hidden": true,
+      "percent": "21.9"
+    },
+    "LOGRO_LUZ_TORRE_FANTASMAS": {
+      "name": "GHOST TOWER IS LIT",
+      "description": "You have lit all lights in the forgotten tower.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/6969fd8adae4c2e6a6d1a1e03337f2327638909d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/1d64d9ca37341e43e6b2cfbeb95ec7bafa863a70.jpg",
+      "hidden": true,
+      "percent": "9.1"
+    },
+    "LOGRO_LUZ_SALONES": {
+      "name": "HALLS ARE LIT",
+      "description": "You have lit all lights in the halls.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/4a783c7655f942e143c378d0e207237de62fda06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/3a19ba0cace53e9502ae379a0c128da8c339e953.jpg",
+      "hidden": true,
+      "percent": "12.1"
+    },
+    "LOGRO_KILL_5000": {
+      "name": "I AM BECOME DEATH",
+      "description": "You killed 5.000 monsters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/f6480680d0e8a8ce066c4548f1e754e3b27cd850.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/268e908f3c0f100a0c5872e84372754b60520f98.jpg",
+      "hidden": true,
+      "percent": "1.8"
+    },
+    "LOGRO_KILL_500": {
+      "name": "I AM THE LAW",
+      "description": "You killed 500 monsters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/615c94be0ed44782d621e0d050432d9808622793.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/e2ec885facc638b3372de2a20fd59a07ad76b508.jpg",
+      "hidden": true,
+      "percent": "36.9"
+    },
+    "LOGRO_LUZ_LABORATORIO": {
+      "name": "LABORATORY IS LIT",
+      "description": "You have lit all lights in the laboratory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/92318cbd42ca77a5de58288c5524b93526a646cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/0388a0819b67212db5077da7bfccabf2e1fbd432.jpg",
+      "hidden": true,
+      "percent": "13.7"
+    },
+    "LOGRO_LUZ_BILBIOTECA": {
+      "name": "LIBRARY IS LIT",
+      "description": "You have lit all lights in the library.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/77ba63cf25f5d268993588f9eabd963898087acf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/b390328c28882b1631cbcf75dcca89fc6ac0ae27.jpg",
+      "hidden": true,
+      "percent": "18.5"
+    },
+    "LOGRO_LUZ_TORRE_MAGOS": {
+      "name": "MAGE TOWER IS LIT",
+      "description": "You have lit all lights in the tower of the mages.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/44c5edd02b95b90a7fe849eb81dd8c8197d1b44a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/164ffe5fd14a595d4e55d6c5f1cd7ca5e427c3e1.jpg",
+      "hidden": true,
+      "percent": "9.9"
+    },
+    "LOGRO_LUZ_MINA": {
+      "name": "MINE IS LIT",
+      "description": "You have lit all lights in the mine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/a1638b99851d71f1acbf8b4cffa930cedc0948e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/442769e41bce8dafadccd9078f7c155b61683edf.jpg",
+      "hidden": true,
+      "percent": "34.3"
+    },
+    "RETO_DIFICIL2": {
+      "name": "MISSION: NEARLY IMPOSSIBLE",
+      "description": "Reach the Twin Crystals in HARD++ mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/d8eedba4b9df090a2e6e793c5aeed675c022d204.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/2dfd663bcc78ad57f316522464274914b398e012.jpg",
+      "hidden": true,
+      "percent": "1.4"
+    },
+    "LOGRO_LUZ_PRISION": {
+      "name": "PRISON IS LIT",
+      "description": "You have lit all lights in the prison.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/10912266071dba0496d6caeade28912de70fd0f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/c37efc98579fc8ee13b2a20767bb13529e9c9e1c.jpg",
+      "hidden": true,
+      "percent": "14.2"
+    },
+    "RETO_TRAMPAS": {
+      "name": "RUNNING OVER TRAPS",
+      "description": "Complete the room of traps unharmed in 50 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/6484e9af5113e9e1e7bda4afc6d9f0096178b4bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/fb92b2d6358aed37c527f0d1b36d1e27aee4c24a.jpg",
+      "hidden": true,
+      "percent": "3.1"
+    },
+    "LOGRO_LUZ_CLOACAS": {
+      "name": "SEWER IS LIT",
+      "description": "You have lit all lights in the sewer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/24a99839684d1de45e6e5beb57a5de59742c392e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/8596420ef7b8df1be981cc7db9ab599f0db5d02e.jpg",
+      "hidden": true,
+      "percent": "25.4"
+    },
+    "LOGRO_KILL_1000": {
+      "name": "THE AVENGER OF THE CASTLE",
+      "description": "You killed 1,000 monsters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/bc971bb8bd144b3238175bb98fc9223f8cb807b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/774588083db7cc14f247b63d3f668032ca65e72d.jpg",
+      "hidden": true,
+      "percent": "25.9"
+    },
+    "RETO_CUERVOS": {
+      "name": "THE CROW",
+      "description": "Find Harnakon without killing any crows beforehand.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/8077de5a9931d336af68be640ca391c0f8212922.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/a5c3fe588a95af38290f54bc043c55b3dcd26f8e.jpg",
+      "hidden": true,
+      "percent": "1.2"
+    },
+    "RETO_DIABLO": {
+      "name": "THE DEVILS NUMBER",
+      "description": "Carry 666 essences of each color, 666 coins and 666 divine favors at the same time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/6a5e16267adff104553ec40cd6a823c779dcfc57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/af5c19dcfd25cd682074833d3f9c69e89014488d.jpg",
+      "hidden": true,
+      "percent": "2.2"
+    },
+    "LOGRO_LUZ_BAJOS": {
+      "name": "THE DOWNS ARE LIT",
+      "description": "You have lit all lights in the downs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/60f67e7685a9aace7487c3b8fbc93f07c7b0c24a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/d9f214f2d769ac592840f5f79a6f12686682cec2.jpg",
+      "hidden": true,
+      "percent": "27.2"
+    },
+    "LOGRO_KILL_10000": {
+      "name": "THE GRAVEYARD IS OVERLOADED",
+      "description": "You killed 10.000 monsters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/ed62a446153b8d5a3b9db075e44e3ee7d59c426d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/0066908a03ecf4852df5fcbcdfe179c03d144c8b.jpg",
+      "hidden": true,
+      "percent": "1.0"
+    },
+    "LOGRO_KEY_CATACUMBAS": {
+      "name": "THE KEY OF THE CATACOMBS",
+      "description": "You have defeated the fourth Guardian and obtained the Key of the Catacombs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/4a29a26223d99aaba7b6b1937b058287668d2b1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "17.6"
+    },
+    "LOGRO_KEY_JARDINES": {
+      "name": "THE KEY OF THE GARDENS",
+      "description": "You have defeated the second Guardian and obtained the Key of the Gardens.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/8c56118cccf47eb8f90e6c36c8c1d9a89ccfe9f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "30.8"
+    },
+    "LOGRO_KEY_SALONES": {
+      "name": "THE KEY OF THE HALLS",
+      "description": "You have defeated the sixth Guardian and obtained the Key of the Halls.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/2913516f7bf2c12fd744408d6f1ebccc500332f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "14.5"
+    },
+    "LOGRO_KEY_LABORATORIO": {
+      "name": "THE KEY OF THE LABORATORY",
+      "description": "You have defeated the fifth Guardian and obtained the Key of the Laboratory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/2fc2bcafc55faba3c9ad636cae30829ca4c106b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "15.8"
+    },
+    "LOGRO_KEY_BIBLIOTECA": {
+      "name": "THE KEY OF THE LIBRARY",
+      "description": "You have defeated the third Guardian and obtained the Key of the Library.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/4c3375d0bb604e2978b4e492e0d7a90ca42988e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "24.1"
+    },
+    "LOGRO_KEY_MINA": {
+      "name": "THE KEY OF THE MINE",
+      "description": "You passed the test of traps and obtained the Key of the Mine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/74fa552a3361862b3bae60ec399e54f7d159f635.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "57.8"
+    },
+    "LOGRO_KEY_CLOACAS": {
+      "name": "THE KEY OF THE SEWER",
+      "description": "You have defeated the first Guardian and obtained the Key of the Sewer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/ed2289f8043ad8702166afa54c951b421811b331.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "44.8"
+    },
+    "LOGRO_KEY_TORRE": {
+      "name": "THE KEY OF THE TOWER",
+      "description": "You have defeated the seventh Guardian and obtained the Key of the Tower.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/e2710703c3ce7b2d5c107dd032937ba9da23ef40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/99217e467779f8338c6e0561fab3af821fedf5cf.jpg",
+      "hidden": true,
+      "percent": "11.8"
+    },
+    "RETO_ROCAS": {
+      "name": "THE KING OF DODGE",
+      "description": "Dodge all falling rocks between the columns in the corridor to the mine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/59f0f081e8fcb9c4d996f523c46fdeac9ac70f8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/2f4161779745c10bb467fd52f3dc71e71d3ef9b2.jpg",
+      "hidden": true,
+      "percent": "8.3"
+    },
+    "LOGRO_MAGIA_ALTERACION": {
+      "name": "THE MAGIC OF ALTERATION",
+      "description": "You successfully finished the quest of the spirit, and acquired the knowledge of Alteration.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/0690105ace53c377151a7f999f036376720b04bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/55c9af4c4c159c510246789ba6591b9bf07f2ded.jpg",
+      "hidden": true,
+      "percent": "13.8"
+    },
+    "LOGRO_MAGIA_FUEGO": {
+      "name": "THE MAGIC OF FIRE",
+      "description": "You successfully finished the quest of Pyros, spirit of fire, and acquired the knowledge of fire magic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/641389a29e673f25ab330faebb3301366d593efb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/023416c4b7b847adae9e561e8acbddedb197bccf.jpg",
+      "hidden": true,
+      "percent": "41.4"
+    },
+    "LOGRO_MAGIA_HIELO": {
+      "name": "THE MAGIC OF FROST",
+      "description": "You successfully finished the quest of the spirit, and acquired the knowledge of frost magic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/a442b2ad2ff6c249a044afc2bdca2136a39673ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/82dcf237fa98ec157d3389399884f97c739f5ccb.jpg",
+      "hidden": true,
+      "percent": "31.1"
+    },
+    "LOGRO_MAGIA_CURACION": {
+      "name": "THE MAGIC OF HEALING",
+      "description": "You successfully finished the quest of the spirit, and acquired the knowledge of Healing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/ba6dd93eec3fa2203c7d0c125da9d5f982b11543.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/31fad006d9420e56e5a82c9358fb7387077ee5a8.jpg",
+      "hidden": true,
+      "percent": "24.2"
+    },
+    "LOGRO_MAGIA_LUZ": {
+      "name": "THE MAGIC OF LIGHT",
+      "description": "You found the God of Light, and acquired the Divine Favour of Light.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/c6e73e997fb7b52a774ad14382c99ed292b02940.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/0c653b4f9d6bfac173aa6f766177707f7ebed103.jpg",
+      "hidden": true,
+      "percent": "16.5"
+    },
+    "LOGRO_MAGIA_PROTECCION": {
+      "name": "THE MAGIC OF PROTECTION",
+      "description": "You successfully finished the quest of the spirit, and acquired the knowledge of Protection.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/841f49ca385670d4c6e16e152695ad2800442ddd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/c8fa7a4124c21867da4923382999aa053e9c3278.jpg",
+      "hidden": true,
+      "percent": "12.6"
+    },
+    "LOGRO_MAGIA_ARCANA": {
+      "name": "THE MAGIC OF THE DEAD",
+      "description": "You successfully finished the quest of the spirit, and acquired the knowledge of Necromancy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/8fb3183b2dea9c423c4547d4a6b026b46aa87026.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/d4b0809a57695569e3c2a2ee341faa594dc2958f.jpg",
+      "hidden": true,
+      "percent": "15.5"
+    },
+    "LOGRO_MAGIA_MENTAL": {
+      "name": "THE MAGIC OF THE MIND",
+      "description": "You successfully finished the quest of the spirit, and acquired the knowledge of Mental Power.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/89791e3852c1ea5e412f6988f330ceee9344eaa6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/08f7ccafe8e63f4bc077796d9cc3b3f888dbcbd8.jpg",
+      "hidden": true,
+      "percent": "18.6"
+    },
+    "RETO_POCIONES": {
+      "name": "THE POTION COLLECTOR",
+      "description": "Carry a collection of at least 18 different potions at once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/ca9f20abb92055ddd8e5a92fba4eced09070ba31.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/c964715dec181162725d75e1fba1797894f0dc5f.jpg",
+      "hidden": true,
+      "percent": "2.1"
+    },
+    "RETO_PLASTICO": {
+      "name": "THE TOY HAMMER",
+      "description": "Use the toy hammer to deal the final blow to a walking armor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/81d2c995ab72272d5972e699cba472359355d4f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/bc1522848bc01a6b2a5a12ceb8a3efc06e01ba5e.jpg",
+      "hidden": true,
+      "percent": "2.6"
+    },
+    "LOGRO_LUZ_100": {
+      "name": "THE WHOLE CASTLE IS LIT",
+      "description": "You have lit all lights in the castle!!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/ee7a9573a79b0ad032f6d56495e70015db805ad3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/22768737c2ab07662fedc22ef76abb7b8c1a6e1c.jpg",
+      "hidden": true,
+      "percent": "7.8"
+    },
+    "LOGRO_LUZ_OESTE": {
+      "name": "WEST ZONE IS LIT",
+      "description": "You have lit all lights in the west zone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/c845829138ac902a00dc65ce1774a56223c1aadc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/7350f281a2418c1d37a05c896226acf664a9a635.jpg",
+      "hidden": true,
+      "percent": "22.6"
+    },
+    "RETO_VOLAR_1": {
+      "name": "WET FLOOR, WATCH YOUR STEP",
+      "description": "Do not touch the ground or ladders for 18 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/181b9cde6cba20f48dd5165238f2426d3493381a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/6361ddbfda654235d3cee2a52e879f22fc90bb48.jpg",
+      "hidden": true,
+      "percent": "6.6"
+    },
+    "LOGRO_NIVEL_5": {
+      "name": "YOU ARE A MAN",
+      "description": "You reached level 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/dc77e0c6d1a9c1624964ed416a4266d1c56c0367.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/a9f275b0742099ad3db209b6abc249524c4fdace.jpg",
+      "hidden": true,
+      "percent": "41.7"
+    },
+    "LOGRO_NIVEL_10": {
+      "name": "YOU ARE AN EXPERT",
+      "description": "You reached level 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/6d02ad987c8c0cd7fcb265359c9961ff5758d95c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/233980/79d49b0d401e8bc43b3ec5c79dcc260d8bb2acaf.jpg",
+      "hidden": true,
+      "percent": "19.0"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}

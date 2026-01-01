@@ -1,0 +1,370 @@
+{
+  "appid": "920210",
+  "name": "LEGO® Star Wars™: The Skywalker Saga",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg?t=1747346983",
+  "achievements": {
+    "MINIKITS_ONE_LEVEL": {
+      "name": "''A fine addition to my collection''",
+      "description": "Collect all Minikits in a single level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/d411fcffeaa56d65b15c57532c2cd633b23193ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/7eff2a96b69a59be7ae2b8d573cb8dc6b10c8d23.jpg",
+      "hidden": false,
+      "percent": "36.2"
+    },
+    "CREATE_25_REBEL_DISGUISES": {
+      "name": "''A little short for a Stormtrooper...''",
+      "description": "Create 25 disguises as a Hero character",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/c7812b69b5a7db69f2ab5bd75214027d4b3b8ea6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/eaebf284835498bc9d2061e855e6bc039de16df6.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "COMPLETE_EPISODE_4": {
+      "name": "A New Hope",
+      "description": "Complete ''Episode IV - A New Hope''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/e13f500dfddd22000acca68133ba5b103570fe61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/9e43ff36ec2bc50070553dca67d556f5933e6e7a.jpg",
+      "hidden": false,
+      "percent": "40.0"
+    },
+    "DEFEAT_3_ENEMIES_WITH_ONE_FORCE": {
+      "name": "''Aggressive Negotiations''",
+      "description": "Defeat 3 enemies at the same time with an explosion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/7c68664e2f99e5ddb17d521cf38a37d557647a8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/b8c6e6872b6b510cd0b6bb779473a064ae48328b.jpg",
+      "hidden": false,
+      "percent": "50.3"
+    },
+    "SHOOT_50_ENEMIES_HATS": {
+      "name": "''And who gave you permission...?''",
+      "description": "Shoot helmets off 50 enemies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/362e676fa59b764715933685f7ce6885cbd1eb96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/5d530606a531a93fef87f6e93a68c95834c8ac06.jpg",
+      "hidden": false,
+      "percent": "43.9"
+    },
+    "COMPLETE_EPISODE_2": {
+      "name": "Attack of the Clones",
+      "description": "Complete ''Episode II - Attack of the Clones''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/2b78824fdf35d0ecc20a4ad8e11ce59c25347d4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/7becefdb1f810c69f200cfb07abd4d5ce528e5f5.jpg",
+      "hidden": false,
+      "percent": "40.1"
+    },
+    "COMPLETE_ALL_GALAXY_CHALLENGES": {
+      "name": "''Do or do not. There is no try''",
+      "description": "Complete all Galaxy Challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/20117829b0e3857deec7ed9e11bcab75ace7446e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/c41a7fcf411d57ec381d8b6c311974247df9b108.jpg",
+      "hidden": false,
+      "percent": "3.7"
+    },
+    "DESTROY_100_TIE_FIGHTERS": {
+      "name": "''Get the crews to their fighters''",
+      "description": "Destroy 100 TIE fighters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/66e3340f5b7318990f8ae9af786f59555e034746.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/501e21dc54a6d38667d404e48fbd5640923a20b8.jpg",
+      "hidden": false,
+      "percent": "17.5"
+    },
+    "COMPLETE_ALL_GNK": {
+      "name": "''GONK!''",
+      "description": "Complete all the GNK droid escort missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/1948fb17ebe3c075b722cedfe9cfb0d330063da2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/298d3fbfbd94f2a0fb90e3e3d3457d449bc3b28f.jpg",
+      "hidden": false,
+      "percent": "4.6"
+    },
+    "COMPLETE_BESPIN_CRAIT_HOTH": {
+      "name": "Greater Javin",
+      "description": "Complete all events on Bespin, Crait and Hoth",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/8f04fe1b31f4b7f25f8aba23b2bdc957d91a0fc1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/a98a7675ec8d99335ae45736770801fa45006340.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "COLLECT_ALL_CHARACTERS": {
+      "name": "''Hello there!''",
+      "description": "Collect all characters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/f9ddd16162a4faa128bc2ea4ff64979545f638e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/222852f5f8fdc0f337f75d90a5a6e22bf8a22b77.jpg",
+      "hidden": false,
+      "percent": "3.7"
+    },
+    "COMPLETE_FAULTYDROID_ON_TATOOINE": {
+      "name": "''Hey, what are you trying to push on us?''",
+      "description": "Complete all the Jawa's ''Faulty Droid'' missions on Tatooine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/ef61897c3d3d6e7a6e1802bcd80673a2d5e90967.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/a4ae3a1725d32c4944374bdf23cb48ba958f6c61.jpg",
+      "hidden": false,
+      "percent": "4.8"
+    },
+    "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING": {
+      "name": "''I can fly anything''",
+      "description": "Complete a flight level without dying",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/20ea9a36eba20059a7eba84ec8c9a5e6c6bc4cc6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/2ef1a785bdc76aa396507a3aab527aacf7b7fb97.jpg",
+      "hidden": false,
+      "percent": "50.3"
+    },
+    "COMBAT_MULTIPLIER_OF_30": {
+      "name": "''I don't like you either!''",
+      "description": "Achieve a combat multiplier score of 30",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/34cf4f6b7296d88f4265c09420105524a58d0b92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/2518a22f57f951aa4e3f1681d5d9103e5f8c9ba9.jpg",
+      "hidden": false,
+      "percent": "69.2"
+    },
+    "LEVEL_CHALLENGES_ONE_LEVEL": {
+      "name": "''Impressive, most impressive''",
+      "description": "Complete all 'Level Challenges' in a single level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/2130214a3dd3aa49e13cf4b60e169504ad2f1e1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/a25ec0089d9021c0b7cd2dbcfc00c02d9f443ff8.jpg",
+      "hidden": false,
+      "percent": "64.2"
+    },
+    "COMPLETE_SKYWALKER_SAGA": {
+      "name": "''It's true... all of it''",
+      "description": "Complete The Skywalker Saga",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/037eecca3bd8203e9abcef842f3a45cf93a94613.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/42471d155d2708ee9e0395e4236f3e898cd7e5d2.jpg",
+      "hidden": false,
+      "percent": "17.0"
+    },
+    "RIDE_ALL_CREATURES": {
+      "name": "''I've never seen a real one!''",
+      "description": "Ride all creatures throughout the Galaxy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/250f0d0b518766f8b70f28f58a0bdd446bb8db4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/41fc35157c30b75f41063c597372593ff1932109.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "JEDI_MIND_TRICKS_CANTINA": {
+      "name": "''Jedi Business''",
+      "description": "Use Jedi Mind Tricks to make 5 people fight simultaneously in the Cantina",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/76f62cdba22c05c7f6690153a9c5b13256192356.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/9e3da8017c243db42905fd66d438659c6f899df8.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "COMPLETE_CANTONICA_YAVIN_AJAN": {
+      "name": "New Territories",
+      "description": "Complete all events on Cantonica, Yavin 4 and Ajan Kloss",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/f79f7b3b33ebcbfec5253e8b69b5e9bbef4cb844.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/0321af6b5da6a5bd73a6735a7708593cdb828a06.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "LEVEL_CHALLENGES_ALL_LEVELS": {
+      "name": "''No more training, do you require''",
+      "description": "Complete all 'Level Challenges'",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/60bb66eb0bbe2aceb39ddabbd718f30db6064220.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/87f28a78864e6179747b3cc9112e282301c9663b.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "TRUE_JEDI_ALL_LEVELS": {
+      "name": "''Now I am the Master''",
+      "description": "Achieve True Jedi in every level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/c384a1ab5e706059db4b3175fe4375dcdee137f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/f752e1d9f54b6ee75191f12878a7eade0942d391.jpg",
+      "hidden": false,
+      "percent": "4.6"
+    },
+    "EARN_10B_STUDS": {
+      "name": "''Only one business in the Galaxy...''",
+      "description": "Earn 10,000,000,000 studs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/ce1b9f833e8a13cb4eb171d2607ce96d3e0f48fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/2a5f8e28db0ef44a333f5d1cfe3d6c0238cfdd1e.jpg",
+      "hidden": false,
+      "percent": "6.5"
+    },
+    "FULLY_UPGRADE_ALL_CHAR_CLASSES": {
+      "name": "''Power! Unlimited power!''",
+      "description": "Fully upgrade all of the character classes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/dcf2108cf5c106265d8dea56863674b08b2ab79f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/95eeda6c9b8e9098f7ea0d8c7d43fba3356ff989.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "FULLY_UPGRADE_ONE_CHAR_CLASS": {
+      "name": "''Raw, untamed power''",
+      "description": "Fully upgrade a character class",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/24ef2ec2908fb0b9983eeb570d375f93a9bc0ade.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/c60beb63181061a23f5ac26f2ec0b629405fbadb.jpg",
+      "hidden": false,
+      "percent": "10.4"
+    },
+    "COMPLETE_EPISODE_6": {
+      "name": "Return of the Jedi",
+      "description": "Complete ''Episode VI - Return of the Jedi''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/5c2a89dfb1a21e2f6cd8d5bd1944747dd049abfc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/66a8a494214344cf1a376a2b9d6eb4157bbc7bec.jpg",
+      "hidden": false,
+      "percent": "27.4"
+    },
+    "COMPLETE_EPISODE_3": {
+      "name": "Revenge of the Sith",
+      "description": "Complete ''Episode III - Revenge of the Sith''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/ac79e1ecd25fcd6e67bd8f89a2e004be6410f41e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/4399c133d0cb830ac9dc877c59f8665ad7f6c3ee.jpg",
+      "hidden": false,
+      "percent": "34.6"
+    },
+    "COMPLETE_KAMINO": {
+      "name": "Rishi Maze",
+      "description": "Complete all events on Kamino",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/23d46d0edd7cd7661cf78796e99634f850668aed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/aa48fc3c5f9697aebd2a6acdce5dd890a9dca0e8.jpg",
+      "hidden": false,
+      "percent": "6.9"
+    },
+    "COMPLETE_ALL_GALAXY_EVENTS": {
+      "name": "''See you around, kid''",
+      "description": "Complete all of the events in the Galaxy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/0fd6c6b90c745d30ae6d193a801a54c43acfb330.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/24e62c1b7bcc53af7f64d54cfaf864908e2e56c0.jpg",
+      "hidden": false,
+      "percent": "3.7"
+    },
+    "COMPLETE_GEONOSIS_TATOOINE": {
+      "name": "The Arkanis Sector",
+      "description": "Complete all events on Geonosis and Tatooine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/f2db160309c627aa0a643195b93924b1e2322846.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/11a22abb1e4a2c1406c2aac421590f8fefa51057.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "COMPLETE_EPISODE_5": {
+      "name": "The Empire Strikes Back",
+      "description": "Complete ''Episode V - The Empire Strikes Back''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/e13dd01fd4cd0836b6c10236c5f047f04d85ae1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/6956893aa602c8668d4dcadeec48a16a5781c97a.jpg",
+      "hidden": false,
+      "percent": "31.8"
+    },
+    "COMPLETE_ALL_HUB_RACES": {
+      "name": "''The fastest hunk of junk in the galaxy''",
+      "description": "Complete all races in the Galaxy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/7b32fa5bcbe9d3084aac0237e9199fbd4795bcdb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/e4e19b6678067943e479d7755f97d647f44c2599.jpg",
+      "hidden": false,
+      "percent": "3.9"
+    },
+    "COMPLETE_EPISODE_7": {
+      "name": "The Force Awakens",
+      "description": "Complete ''Episode VII - The Force Awakens''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/500af0201ca26003e6a9bd84fe3c34a287efda22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/fbae444cfeb9da919ccba5c9cd8b28f95bd94da3.jpg",
+      "hidden": false,
+      "percent": "22.9"
+    },
+    "COMPLETE_CORUSCANT_JAKKU_TAKODANA": {
+      "name": "The Interior",
+      "description": "Complete all events on Coruscant, Jakku and Takodana",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/648fc830ca2a8fe11b888ab9bc8b2b84db820191.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/d27e8f4eca64b4fec1aee2c9d7efd2895545af79.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "COMPLETE_EPISODE_8": {
+      "name": "The Last Jedi",
+      "description": "Complete ''Episode VIII - The Last Jedi''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/8d75948f10e3f39aa2c346e16d729382348e1d8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/8bd3b46efa4d0b41d5193a32e74b69471eca6770.jpg",
+      "hidden": false,
+      "percent": "19.9"
+    },
+    "COMPLETE_EPISODE_1": {
+      "name": "The Phantom Menace",
+      "description": "Complete ''Episode I - The Phantom Menace''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/17ff2becde43de84781f84adc377117517695f7c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/bc312f821f9135eda167fec1892114589db1cd5b.jpg",
+      "hidden": false,
+      "percent": "51.5"
+    },
+    "COMPLETE_EPISODE_9": {
+      "name": "The Rise of Skywalker",
+      "description": "Complete ''Episode IX - The Rise of Skywalker''",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/54bc1b84d3b37c534067896dcbc8d11fdb9af4be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/eae6f3709e7dbc2c126aa72951b3a6c42a861500.jpg",
+      "hidden": false,
+      "percent": "17.8"
+    },
+    "COMPLETE_KASHYYYK_KIJIMI": {
+      "name": "The Slice",
+      "description": "Complete all events on Kashyyyk and Kijimi",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/6da1fca93023e89af1383b20a936eac2357ba936.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/2de075cee5ab671179b903a7a35009ff64b18436.jpg",
+      "hidden": false,
+      "percent": "5.0"
+    },
+    "COMPLETE_DQAR_NABOO_PASAANA": {
+      "name": "Trailing Sectors",
+      "description": "Complete all events on D'Qar, Naboo and Pasaana",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/a9955ac7c5c5c9ccdd7ee3f3649a43bcaaa2e30a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/7f152ac8195e8a757e0406f895cfb4bfc195758e.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL": {
+      "name": "Unknown Regions",
+      "description": "Complete all events on Ahch-To, Endor, Kef Bir and Exegol",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/e79f6713d0c7c66ebfd03e9a52457cf611eb1a6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/6cad64095a3db199b2d8cf87e8f807c57e2f817e.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "COMPLETE_DAGOBAH_MUSTAFAR_UTAPAU": {
+      "name": "Western Reaches",
+      "description": "Complete all events on Dagobah, Mustafar, Utapau",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/2fbe7f98dde4d1d2c233a1e73384314e1a8d2915.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/118ad74b2e109604c5ce87bff3229b32e6523487.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "COLLECT_EVERY_DATACARD": {
+      "name": "''What have you done with those plans?''",
+      "description": "Collect every datacard",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/d98885e6ddf8856378053c200921ef059e6a85fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/47d0a4cba5a617548432e2d05e7d712cd203f439.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "EARN_17K_STUDS": {
+      "name": "''You guys got yourself a ship!''",
+      "description": "Earn 17,000 studs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/1c35c7f42cf9d72d54695b7a538c1e9c48aea949.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/93cc4ad19f5c51e34d45608f6ac9ab71094a23fd.jpg",
+      "hidden": false,
+      "percent": "88.8"
+    },
+    "COLLECT_ALL_KYBERBRICKS": {
+      "name": "''You may fire when ready''",
+      "description": "Collect 1000 Kyber Bricks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/5350e06b004bfb47f87ec857800d4b200787058f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/722f9d6ba3497da39deb3d9b15f871509bb71d4f.jpg",
+      "hidden": false,
+      "percent": "5.6"
+    },
+    "MINIKITS_ALL_LEVELS": {
+      "name": "''You needn't worry about your reward''",
+      "description": "Collect all Minikits",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/94de248d1098bb438f1d3a572b9fe890d60c5786.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/e108229b292cf94b1eba7f720e553888352f7fa5.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "TRUE_JEDI_ONE_LEVEL": {
+      "name": "''You think you're some kind of Jedi?''",
+      "description": "Achieve True Jedi in a single level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/a4a4aaa296b313b4dacd4d144f3616a62d6df871.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/920210/f052852bec3dedb3c4405bd3aa3a0f76051ea0cf.jpg",
+      "hidden": false,
+      "percent": "61.5"
+    }
+  },
+  "platform": "Xbox",
+  "blacklist": [],
+  "uses_db": false
+}

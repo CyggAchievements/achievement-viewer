@@ -1,0 +1,50 @@
+{
+  "appid": "297020",
+  "name": "The Culling Of The Cows",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297020/header.jpg?t=1722192722",
+  "achievements": {
+    "usebuckshot": {
+      "name": "Buckshot",
+      "description": "Spread Em",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/672e8ed2f6989b8ed9adc4b98385ab14d35b1f76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/650175ae3dfda1511d91c68ac83d75874d6dcc76.jpg",
+      "hidden": false,
+      "percent": "17.0"
+    },
+    "useupgrade": {
+      "name": "Gun Upgrade",
+      "description": "Gun Modder",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/09c09c12e1d0e53a747f22156c0e4466d204a1d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/fa9a599bdafe34da56d5886281918ca57c87f5c4.jpg",
+      "hidden": false,
+      "percent": "23.6"
+    },
+    "useassist": {
+      "name": "Holy Assistance",
+      "description": "Help From Above",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/1184ef6cfab7fb588d79cf1fd8cd2cd39fc8fc2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/c0eb2dd9c824d9d3763fcddbc000441addd73270.jpg",
+      "hidden": false,
+      "percent": "21.8"
+    },
+    "killufo": {
+      "name": "Kill The Nazi Ufo",
+      "description": "Down With Nazi UFOs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/a631870ca19ed45226aeb9d2d53853ffd2951715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/fa8a004cdc37f9d5bebf5bd80837682c55cacb1d.jpg",
+      "hidden": false,
+      "percent": "7.2"
+    },
+    "tutorialcomplete": {
+      "name": "Tutorial Complete",
+      "description": "Now the slaughter can begin",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/5ad4ea2229a18bbafc30087a38e562a53dfd04ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/297020/420515d9a1aa7060a744adea6a74ddf4a9f44a35.jpg",
+      "hidden": false,
+      "percent": "38.2"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}
