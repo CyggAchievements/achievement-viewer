@@ -1,1 +1,1756 @@
-[]
+{
+  "last_updated": 1767279106,
+  "total_games": 2,
+  "games": [
+    {
+      "appid": "2842040",
+      "info": {
+        "appid": "2842040",
+        "name": "Star Wars Outlaws",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/header.jpg?t=1748385237",
+        "achievements": {
+          "Outlaws_Ach_53": {
+            "name": "A moon in your hand",
+            "description": "Retrieve the map to Okala V",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/1b1a27d2133f1c25d48622f7be0a7d04b61d6668.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/23c88f2feb0ea6670c2c87eb277aec334f99ea8b.jpg",
+            "hidden": false,
+            "percent": "7.4"
+          },
+          "Outlaws_Ach_9": {
+            "name": "Adventure and excitement",
+            "description": "Discover all planet areas",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/ded52bb3f294d2dd9cc3690f1393247da28dfab1.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/a884f595ad2ea4764559a0358bf4c51c6e6fc678.jpg",
+            "hidden": false,
+            "percent": "20.9"
+          },
+          "Outlaws_Ach_21": {
+            "name": "Against all odds",
+            "description": "Win your first fixed fathier race",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/63fe5dd39377cba342b711cab286cc8c1eb04985.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/882d6f0d8d64c4b8963cf7e9ba369fa1e1872b12.jpg",
+            "hidden": false,
+            "percent": "29.4"
+          },
+          "Outlaws_Ach_50": {
+            "name": "All in",
+            "description": "Find the Morenia",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/e88f741c75814faacf9b608db23dc92fc1d503ed.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/b88d5ef681f0e1c9216fa01ea630022cc8eb89b3.jpg",
+            "hidden": false,
+            "percent": "11.1"
+          },
+          "Outlaws_Ach_51": {
+            "name": "All out",
+            "description": "Escape the Morenia",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/71ac8b1a283af9fc132476b311abe8e82bd0e8b3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/71c9f02537fb898780abcfa9eeea60018c056bb0.jpg",
+            "hidden": false,
+            "percent": "7.8"
+          },
+          "Outlaws_Ach_46": {
+            "name": "Best of the best",
+            "description": "Complete all main quests on Akiva",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/e1697f5606d4e2bee82053bb377345935e485cf6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/6ab608a37d7d7dc6afaf782b0c0280add00a95e3.jpg",
+            "hidden": false,
+            "percent": "20.7"
+          },
+          "Outlaws_Ach_49": {
+            "name": "Calling in some favors",
+            "description": "Destroy the Revelator",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/25bc13d0c3f916054ee1a6d4cb9f03369f1aa15b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/b9f69996b9f3d6607433fb30727db4423ce9e8a3.jpg",
+            "hidden": false,
+            "percent": "18.2"
+          },
+          "Outlaws_Ach_14": {
+            "name": "Cloak and dagger",
+            "description": "Reach maximum reputation with Crimson Dawn",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/168a360feadd1c3cae8ea782fca629ab5eac38f4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/eef74b2f73291aabde9eb331bb564376dfc4e0e4.jpg",
+            "hidden": false,
+            "percent": "30.3"
+          },
+          "Outlaws_Ach_13": {
+            "name": "Cut-throat politics",
+            "description": "Reach maximum reputation with the Pyke Syndicate",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/8baeda2939054a0823dbe314e0adae95ef76a137.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/dafc0e864517189ed151085d2a7db7da73fbe95c.jpg",
+            "hidden": false,
+            "percent": "20.4"
+          },
+          "Outlaws_Ach_35": {
+            "name": "Don't get cocky",
+            "description": "Defeat 5 enemies with Adrenaline Rush on the speeder simultaneously",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/0173df744b8acf022666ca3008ee912b60613efc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/1d8cbef2aa09b2f83c9d259a1203c5cf050f0062.jpg",
+            "hidden": false,
+            "percent": "6.7"
+          },
+          "Outlaws_Ach_20": {
+            "name": "Easy pickings",
+            "description": "Pickpocket a customer in a cantina on each planet",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/bcb4614739d1765d90de4fa2e5166c5fac3ad141.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/7e893e1c7d682ef7bf98ca4e82872a81fd5511cd.jpg",
+            "hidden": false,
+            "percent": "1.2"
+          },
+          "Outlaws_Ach_8": {
+            "name": "Experience outranks everything",
+            "description": "Complete all Expert quests",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/1e728f7996fcffd686ae1581bb4c30f74385ecc6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/6faf423c332e6952d9c21ef13993763a2d49d252.jpg",
+            "hidden": false,
+            "percent": "10.3"
+          },
+          "Outlaws_Ach_48": {
+            "name": "Eye on the score",
+            "description": "Complete all main quests in Canto Bight",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/8654a6c774bda61a85e3c77b02a1948d93d8d169.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/3c904f1a5789fb52dc655c0713d6bbaccffa32b7.jpg",
+            "hidden": false,
+            "percent": "18.7"
+          },
+          "Outlaws_Ach_58": {
+            "name": "First Voyage",
+            "description": "Complete a contract with a Refractor",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/823611f995d9a4bd33b31dfc7130c18468c7b91a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/b3b063b59d8ec19d0c7f939f0291a2ad43e1051d.jpg",
+            "hidden": false,
+            "percent": "0.7"
+          },
+          "Outlaws_Ach_6": {
+            "name": "Galactic gourmet",
+            "description": "Sample all galactic street food",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/2681a7180a66cb8ad10e4ce3b3644ca700876d49.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/923bf45db7060ec1cf4561332f6a298c65ee9d25.jpg",
+            "hidden": false,
+            "percent": "12.0"
+          },
+          "Outlaws_Ach_34": {
+            "name": "Galaxy drift",
+            "description": "Perform a 30 second powerslide drift",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/aebe13d560e269d723b20578b35caf7c4ca87dc3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/bf2689b209c6c055224820d329fae80473665807.jpg",
+            "hidden": false,
+            "percent": "1.9"
+          },
+          "Outlaws_Ach_39": {
+            "name": "Get rhythm",
+            "description": "Pick 20 locks with the data spike",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/dd0379fc64384d4ece95086d57b088102c58b75d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/6e9e15942a6fa07994f74b97963acd9f859277c8.jpg",
+            "hidden": false,
+            "percent": "51.0"
+          },
+          "Outlaws_Ach_10": {
+            "name": "Give me the good stuff",
+            "description": "Buy an item from a merchant's VIP stock",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/3734d4674f21200d48c91f3e6f2368031e2ab3ff.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/9b0b99da58198f2e1db1a38de5fe82b543fa198d.jpg",
+            "hidden": false,
+            "percent": "40.8"
+          },
+          "Outlaws_Ach_7": {
+            "name": "Good listener",
+            "description": "Listen to the longest sob story in the galaxy",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/424c62fb2cd83cb8005190401e34eeeb1f1e5182.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/6b19835c395d9265da9ddea4fe3410bdf263aeb4.jpg",
+            "hidden": false,
+            "percent": "27.2"
+          },
+          "Outlaws_Ach_5": {
+            "name": "Got you something",
+            "description": "Collect all Nix treasures",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/07c2d7c418a08a38037e2fada42e63de9bd120fb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/1a5c28f526144b05cf36838958fd75dc2a2cf368.jpg",
+            "hidden": false,
+            "percent": "2.3"
+          },
+          "Outlaws_Ach_12": {
+            "name": "Honest work",
+            "description": "Complete 40 contracts",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/c7690c6c7b962697d727cb143402d94bbfcd6501.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/4a05a78d9f4428cc191bae1dd6ba96f8300a3da9.jpg",
+            "hidden": false,
+            "percent": "3.4"
+          },
+          "Outlaws_Ach_25": {
+            "name": "How rude!",
+            "description": "Blind 30 enemies with Nix attacks",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/bf2d28ac2ce2fa13aec174e5189581a5a0177b19.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/57aebfd7a8d140832b882d1ea91af01f8fe004e1.jpg",
+            "hidden": false,
+            "percent": "1.5"
+          },
+          "Outlaws_Ach_28": {
+            "name": "I'll bet you have",
+            "description": "Defeat 20 enemies distracted by Fast-Talk",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/4f32cd5d52d73b5eaf221d8dfa2e624e4ce0ae19.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/62ccb518365abe4fd7e032fab94ce5d54e745ffc.jpg",
+            "hidden": false,
+            "percent": "1.7"
+          },
+          "Outlaws_Ach_32": {
+            "name": "Into darkness",
+            "description": "Destroy 10 enemy ships inside the Kijimi nebula",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/dca5e8a96b0ba1caf900bf988b687bda5ebbffb1.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/93e81a3382eb51af99f1a8e3f4f1912a67202680.jpg",
+            "hidden": false,
+            "percent": "15.9"
+          },
+          "Outlaws_Ach_36": {
+            "name": "Into the main frame",
+            "description": "Slice 10 advanced terminals",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/a6f7af42429ea23a89b4504410357c89ae770d28.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/ee0fc60068ff6a11fccd88dc0dc8acb65eea53fa.jpg",
+            "hidden": false,
+            "percent": "33.9"
+          },
+          "Outlaws_Ach_1": {
+            "name": "It wasn't me",
+            "description": "Bribe an Imperial Officer to clear Wanted Level 5",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/8f0c6aa2afa41761fbf96869c7c82b055baf2d4d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/b545e230aa7277913c48a3230bddd3224eaddfb3.jpg",
+            "hidden": false,
+            "percent": "1.5"
+          },
+          "Outlaws_Ach_18": {
+            "name": "It's mine now",
+            "description": "Acquire the scoundrel gear set",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/676aca3e1c5a11ba67e54a546338564f28a36b2e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/8498c6693a56ac2548b0f3ae35287155f8b3c260.jpg",
+            "hidden": false,
+            "percent": "6.2"
+          },
+          "Outlaws_Ach_33": {
+            "name": "Like a bantha",
+            "description": "Perform a perfect landing with the speeder",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/482bc5016ec60a93d516e5455a40ebe049f7e5ca.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/1d5067afdeeb731898eb9d4cd9b1f6de867f3b39.jpg",
+            "hidden": false,
+            "percent": "74.8"
+          },
+          "Outlaws_Ach_40": {
+            "name": "Made it somehow",
+            "description": "Acquire a blaster, a starship, and a speeder",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/78bdc9609ef5bd6d60790a255eb3f1f5b14d861a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/e646c6f6595b4778e3e6c00c88b8a5948a5d6d1f.jpg",
+            "hidden": false,
+            "percent": "79.3"
+          },
+          "Outlaws_Ach_43": {
+            "name": "Making friends",
+            "description": "Escape from Jabba's palace",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/bb0af9c83b01f2b43d83fbd569dbc74b3188f2e6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/f31812b6b5dcb12af993c34b91708b75e82bd567.jpg",
+            "hidden": false,
+            "percent": "27.9"
+          },
+          "Outlaws_Ach_27": {
+            "name": "Might want to buckle up",
+            "description": "Fly into space in a fully upgraded Trailblazer",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/c3f847680d7c7264d548693956a29d8e4feef8ba.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/cce84c104cab64b1d02aec2fb37234dc1a027da2.jpg",
+            "hidden": false,
+            "percent": "10.4"
+          },
+          "Outlaws_Ach_31": {
+            "name": "Never tell me the odds",
+            "description": "Defeat an enemy ship without dealing the finishing blow with lasers or missiles",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/d4cd47c29fa0bd130e59546553330794eaeeca38.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/352a313283b105d23d552721bdfc1fcba81c3f76.jpg",
+            "hidden": false,
+            "percent": "23.3"
+          },
+          "Outlaws_Ach_4": {
+            "name": "No match for a good blaster",
+            "description": "Fully upgrade a blaster module configuration",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/dd056bd283dc25a92d613c86688a289f2224f3c5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/080e7cf2e278ffd64a63b1f27556ef06a6ab546f.jpg",
+            "hidden": false,
+            "percent": "23.8"
+          },
+          "Outlaws_Ach_22": {
+            "name": "No such thing as luck",
+            "description": "Cheat and win a Sabacc game against Lando",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/9f194d5b424c53c99ca413dbbcc8d53af67b69c4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/0f4a48d6fc4b18409d336f940f46226eb835b93d.jpg",
+            "hidden": false,
+            "percent": "8.9"
+          },
+          "Outlaws_Ach_38": {
+            "name": "Now you see me, now you don't",
+            "description": "Disable an alarm using a security terminal while the alarm is active",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/1cc69e74ed202a270d80e4a4eec7490d4e97941e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/7109baad7bab27fdecdfd5acdea670a708a1a50c.jpg",
+            "hidden": false,
+            "percent": "58.5"
+          },
+          "Outlaws_Ach_11": {
+            "name": "Old school cool",
+            "description": "Acquire the Disruptor gear set",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/4f115b79eca0f4e28ced7afa457887409f961104.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/eaeb00ce83d8279e0265b9d955ade4224a43128d.jpg",
+            "hidden": false,
+            "percent": "3.0"
+          },
+          "Outlaws_Ach_42": {
+            "name": "One job at a time",
+            "description": "Complete all main quests on Kijimi",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/5ef3e359a5cd8eb0c9b8f5c8291ced6a7e0f68e5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/754153dc665001b40136f8d31e3160f8d49c7067.jpg",
+            "hidden": false,
+            "percent": "29.1"
+          },
+          "Outlaws_Ach_56": {
+            "name": "Pirate's Honor",
+            "description": "Steal a Rokana Raider ship",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/42fe20f2f3651e982e1fba9943ca67e0c3260bce.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/4ee9548548d83a6d4b0f8e465bc84764447d8dc6.jpg",
+            "hidden": false,
+            "percent": "3.7"
+          },
+          "Outlaws_Ach_55": {
+            "name": "Price of Loyalty",
+            "description": "Get the Khepi scepter hilt",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/9a1f457e94368c06e96ba67951c239002f869919.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/f82a09bec4ecdf40d4bde3cd7f0851267494b8ee.jpg",
+            "hidden": false,
+            "percent": "3.6"
+          },
+          "Outlaws_Ach_26": {
+            "name": "Punching up",
+            "description": "Defeat each syndicate's capital ship without taking hull damage",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/42ae4b1decb6a69d26bcb2013e536c8a59eedd1a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/d98fe4c517509fe6c8ea9381b2e5bd3764d3eb6f.jpg",
+            "hidden": false,
+            "percent": "0.6"
+          },
+          "Outlaws_Ach_44": {
+            "name": "Rare friends",
+            "description": "Complete all main quests on Tatooine",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/a8a03452548490264da8a8f3e17fd82159002070.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/16285428a982802a903702262dc8d719fe7493b4.jpg",
+            "hidden": false,
+            "percent": "27.0"
+          },
+          "Outlaws_Ach_24": {
+            "name": "Right back at you",
+            "description": "Defeat 20 enemies using items fetched by Nix",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/2617dfabe2e5c4a58f5d61cecbb0d77af0fb7b13.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/02163f838aab09d90130b50d741c773a9095ce76.jpg",
+            "hidden": false,
+            "percent": "5.7"
+          },
+          "Outlaws_Ach_3": {
+            "name": "Shoot first",
+            "description": "Defeat 6 enemies simultaneously using Adrenaline Rush",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/dce9d4df6d97e9a0ba5c4a70fa5ae0b9631b78fb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/3a7cd810af174f89ddb3d0e7e79078661460f1f7.jpg",
+            "hidden": false,
+            "percent": "6.0"
+          },
+          "Outlaws_Ach_37": {
+            "name": "Slice like you",
+            "description": "Slice 20 terminals",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/358b9282f3f02ded6ef66e3eff788ef0a9d73b1c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/87dcc45573df613275dcc33d27923a4b2f8fc4d3.jpg",
+            "hidden": false,
+            "percent": "34.9"
+          },
+          "Outlaws_Ach_30": {
+            "name": "Sometimes I amaze even myself",
+            "description": "Defeat an enemy ship after doing a loop maneuver",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/78abff00ca47e9949219528cd54d919d1cdf357d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/872bc1dcf080b4b1bd062f5d22e0bbc49ff7c06d.jpg",
+            "hidden": false,
+            "percent": "2.7"
+          },
+          "Outlaws_Ach_45": {
+            "name": "Spiked",
+            "description": "Liberate the original Super Viper Droid",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/e115113517eeb552297f32f527e750cdfea08b3f.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/2d156f24df6585c3c211f5b0a633d984e983a04a.jpg",
+            "hidden": false,
+            "percent": "24.0"
+          },
+          "Outlaws_Ach_19": {
+            "name": "Stay on target",
+            "description": "Complete your first Intel chain",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/0f004e5a1b84908e011218d190873855e0168d63.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/899f72aff5cdc0b02eedd369e78cd35256278486.jpg",
+            "hidden": false,
+            "percent": "60.8"
+          },
+          "Outlaws_Ach_54": {
+            "name": "Stranger Tides",
+            "description": "Escape from the Khepi Tomb",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/357874402bb26db4a256870440cf327fdd1cc985.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/61a2418af4f6c554c40b4330eb097866ee15cde9.jpg",
+            "hidden": false,
+            "percent": "4.0"
+          },
+          "Outlaws_Ach_52": {
+            "name": "Take your own advice",
+            "description": "Save Aksali Noll",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/1df0e760f6697e44825d2d9f3d6459b3eaa367cc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/2ac61cc9750dac3b270c06aa5dbbf5be7d1fa8e6.jpg",
+            "hidden": false,
+            "percent": "7.5"
+          },
+          "Outlaws_Ach_47": {
+            "name": "The Director",
+            "description": "Learn Sliro's secret",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/eb22c963fb1c8d9090f0389465ff5af06b8c82c4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/9a2b91f4661147d1be90eda10ae6102226a49200.jpg",
+            "hidden": false,
+            "percent": "19.0"
+          },
+          "Outlaws_Ach_29": {
+            "name": "The heavier they fall",
+            "description": "Defeat a Raider to clear Wanted status",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/c864f6f31a5e60dcda451a73b2ac8b249abaa73e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/5139900b6d3f1b2de9ddfff5dbc02d69b2f862f9.jpg",
+            "hidden": false,
+            "percent": "10.0"
+          },
+          "Outlaws_Ach_16": {
+            "name": "The Queen's word is law",
+            "description": "Reach maximum reputation with the Ashiga Clan",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/6cdc062646a56369f924d5ba7d1155fc7df5b9f4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/da759ac385377ed7b854a5625931d372d6950d10.jpg",
+            "hidden": false,
+            "percent": "23.1"
+          },
+          "Outlaws_Ach_23": {
+            "name": "There is no try",
+            "description": "Get a high score in an arcade game",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/734b6856630366d45026763a0713f589eac3d064.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/44675e303043510cdf10d963919182bd6f484874.jpg",
+            "hidden": false,
+            "percent": "2.1"
+          },
+          "Outlaws_Ach_2": {
+            "name": "They live up to the name",
+            "description": "Clear Wanted status by completing a death trooper confrontation event",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/114b0496e3d6e974ee7f7276c237814ec711fc19.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/943c4b1f69ea6e8eb33099708b904fd6b2e95743.jpg",
+            "hidden": false,
+            "percent": "13.9"
+          },
+          "Outlaws_Ach_17": {
+            "name": "Think I had a choice?",
+            "description": "Reach the lowest possible reputation with a faction",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/a065b410209dc7bb5474cb975b9ad0ce04e9e4dc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/4667d5c164ba252690c47a4616087d091428d623.jpg",
+            "hidden": false,
+            "percent": "18.7"
+          },
+          "Outlaws_Ach_41": {
+            "name": "Tip the scales",
+            "description": "Complete all main quests on Toshara",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/8e817ff98a39ef198ee85d2b0e96082a9cb2227c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/e92ec20af0b49cc5988d8313a35aeb45d7b4988e.jpg",
+            "hidden": false,
+            "percent": "41.4"
+          },
+          "Outlaws_Ach_57": {
+            "name": "Together",
+            "description": "Discover the secrets of the Khepi",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/ae6269d613eb12c547da6c4020a8cf51e6e4b0e7.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/6fdee50b590bb479373f52ab80f30e71badfe7f8.jpg",
+            "hidden": false,
+            "percent": "3.4"
+          },
+          "Outlaws_Ach_15": {
+            "name": "What you see is what you get",
+            "description": "Reach maximum reputation with the Hutt Cartel",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/666065bb830c657d1348d266ad70c8312e168048.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/644985c29aaa59213719dcd92d4a0ca4c420c630.jpg",
+            "hidden": false,
+            "percent": "18.9"
+          },
+          "Outlaws_Ach_59": {
+            "name": "Wordsmith",
+            "description": "Help compose a pirate's poem",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/59f2a258ffafe5a8a4152f17fcce7ca37971f2d0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/0a065242973868389c4ee9c74934050f4a5d7c2d.jpg",
+            "hidden": false,
+            "percent": "2.9"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "1": {
+          "description": "Bribe an Imperial Officer to clear Wanted Level 5",
+          "displayName": "It wasn't me",
+          "earned": 0
+        },
+        "10": {
+          "description": "Buy an item from a merchant's VIP stock",
+          "displayName": "Give me the good stuff",
+          "earned": 0
+        },
+        "11": {
+          "description": "Acquire the Disruptor gear set",
+          "displayName": "Old school cool",
+          "earned": 0
+        },
+        "12": {
+          "description": "Complete 40 contracts",
+          "displayName": "Honest work",
+          "earned": 0
+        },
+        "13": {
+          "description": "Reach maximum reputation with the Pyke Syndicate",
+          "displayName": "Cut-throat politics",
+          "earned": 0
+        },
+        "14": {
+          "description": "Reach maximum reputation with Crimson Dawn",
+          "displayName": "Cloak and dagger",
+          "earned": 1,
+          "earned_time": 1767039573
+        },
+        "15": {
+          "description": "Reach maximum reputation with the Hutt Cartel",
+          "displayName": "What you see is what you get",
+          "earned": 0
+        },
+        "16": {
+          "description": "Reach maximum reputation with the Ashiga Clan",
+          "displayName": "The Queen's word is law",
+          "earned": 1,
+          "earned_time": 1767205855
+        },
+        "17": {
+          "description": "Reach the lowest possible reputation with a faction",
+          "displayName": "Think I had a choice?",
+          "earned": 1,
+          "earned_time": 1767203333
+        },
+        "18": {
+          "description": "Acquire the scoundrel gear set",
+          "displayName": "It's mine now",
+          "earned": 0
+        },
+        "19": {
+          "description": "Complete your first Intel chain",
+          "displayName": "Stay on target",
+          "earned": 1,
+          "earned_time": 1766855899
+        },
+        "2": {
+          "description": "Clear Wanted status by completing a death trooper confrontation event",
+          "displayName": "They live up to the name",
+          "earned": 0
+        },
+        "20": {
+          "description": "Pickpocket a customer in a cantina on each planet",
+          "displayName": "Easy pickings",
+          "earned": 0
+        },
+        "21": {
+          "description": "Win your first fixed fathier race",
+          "displayName": "Against all odds",
+          "earned": 1,
+          "earned_time": 1766787812
+        },
+        "22": {
+          "description": "Cheat and win a Sabacc game against Lando",
+          "displayName": "No such thing as luck",
+          "earned": 0
+        },
+        "23": {
+          "description": "Get a high score in an arcade game",
+          "displayName": "There is no try",
+          "earned": 0
+        },
+        "24": {
+          "description": "Defeat 20 enemies using items fetched by Nix",
+          "displayName": "Right back at you",
+          "earned": 0
+        },
+        "25": {
+          "description": "Blind 30 enemies with Nix attacks",
+          "displayName": "How rude!",
+          "earned": 0
+        },
+        "26": {
+          "description": "Defeat each syndicate's capital ship without taking hull damage",
+          "displayName": "Punching up",
+          "earned": 0
+        },
+        "27": {
+          "description": "Fly into space in a fully upgraded Trailblazer",
+          "displayName": "Might want to buckle up",
+          "earned": 0
+        },
+        "28": {
+          "description": "Defeat 20 enemies distracted by Fast-Talk",
+          "displayName": "I'll bet you have",
+          "earned": 0
+        },
+        "29": {
+          "description": "Defeat a Raider to clear Wanted status",
+          "displayName": "The heavier they fall",
+          "earned": 0
+        },
+        "3": {
+          "description": "Defeat 6 enemies simultaneously using Adrenaline Rush",
+          "displayName": "Shoot first",
+          "earned": 0
+        },
+        "30": {
+          "description": "Defeat an enemy ship after doing a loop maneuver",
+          "displayName": "Sometimes I amaze even myself",
+          "earned": 0
+        },
+        "31": {
+          "description": "Defeat an enemy ship without dealing the finishing blow with lasers or missiles",
+          "displayName": "Never tell me the odds",
+          "earned": 0
+        },
+        "32": {
+          "description": "Destroy 10 enemy ships inside the Kijimi nebula",
+          "displayName": "Into darkness",
+          "earned": 1,
+          "earned_time": 1766958369
+        },
+        "33": {
+          "description": "Perform a perfect landing with the speeder",
+          "displayName": "Like a bantha",
+          "earned": 1,
+          "earned_time": 1766788704
+        },
+        "34": {
+          "description": "Perform a 30 second powerslide drift",
+          "displayName": "Galaxy drift",
+          "earned": 1,
+          "earned_time": 1767208595
+        },
+        "35": {
+          "description": "Defeat 5 enemies with Adrenaline Rush on the speeder simultaneously",
+          "displayName": "Don't get cocky",
+          "earned": 0
+        },
+        "36": {
+          "description": "Slice 10 advanced terminals",
+          "displayName": "Into the main frame",
+          "earned": 1,
+          "earned_time": 1767045959
+        },
+        "37": {
+          "description": "Slice 20 terminals",
+          "displayName": "Slice like you",
+          "earned": 1,
+          "earned_time": 1767046897
+        },
+        "38": {
+          "description": "Disable an alarm using a security terminal while the alarm is active",
+          "displayName": "Now you see me, now you don't",
+          "earned": 1,
+          "earned_time": 1766857386
+        },
+        "39": {
+          "description": "Pick 20 locks with the data spike",
+          "displayName": "Get rhythm",
+          "earned": 1,
+          "earned_time": 1766859977
+        },
+        "4": {
+          "description": "Fully upgrade a blaster module configuration",
+          "displayName": "No match for a good blaster",
+          "earned": 0
+        },
+        "40": {
+          "description": "Acquire a blaster, a starship, and a speeder",
+          "displayName": "Made it somehow",
+          "earned": 1,
+          "earned_time": 1766700621
+        },
+        "41": {
+          "description": "Complete all main quests on Toshara",
+          "displayName": "Tip the scales",
+          "earned": 1,
+          "earned_time": 1766878552
+        },
+        "42": {
+          "description": "Complete all main quests on Kijimi",
+          "displayName": "One job at a time",
+          "earned": 1,
+          "earned_time": 1767131932
+        },
+        "43": {
+          "description": "Escape from Jabba's palace",
+          "displayName": "Making friends",
+          "earned": 0
+        },
+        "44": {
+          "description": "Complete all main quests on Tatooine",
+          "displayName": "Rare friends",
+          "earned": 0
+        },
+        "45": {
+          "description": "Liberate the original Super Viper Droid",
+          "displayName": "Spiked",
+          "earned": 0
+        },
+        "46": {
+          "description": "Complete all main quests on Akiva",
+          "displayName": "Best of the best",
+          "earned": 0
+        },
+        "47": {
+          "description": "Learn Sliro's secret",
+          "displayName": "The Director",
+          "earned": 0
+        },
+        "48": {
+          "description": "Complete all main quests in Canto Bight",
+          "displayName": "Eye on the score",
+          "earned": 0
+        },
+        "49": {
+          "description": "Destroy the Revelator",
+          "displayName": "Calling in some favors",
+          "earned": 0
+        },
+        "5": {
+          "description": "Collect all Nix treasures",
+          "displayName": "Got you something",
+          "earned": 0
+        },
+        "50": {
+          "description": "Find the Morenia",
+          "displayName": "All in",
+          "earned": 0
+        },
+        "51": {
+          "description": "Escape the Morenia",
+          "displayName": "All out",
+          "earned": 0
+        },
+        "52": {
+          "description": "Save Aksali Noll",
+          "displayName": "Take your own advice",
+          "earned": 0
+        },
+        "53": {
+          "description": "Retrieve the map to Okala V",
+          "displayName": "A moon in your hand",
+          "earned": 0
+        },
+        "54": {
+          "description": "Escape from the Khepi Tomb",
+          "displayName": "Stranger Tides",
+          "earned": 0
+        },
+        "55": {
+          "description": "Get the Khepi scepter hilt",
+          "displayName": "Price of Loyalty",
+          "earned": 0
+        },
+        "56": {
+          "description": "Steal a Rokana Raider ship",
+          "displayName": "Pirate's Honor",
+          "earned": 0
+        },
+        "57": {
+          "description": "Discover the secrets of the Khepi",
+          "displayName": "Together",
+          "earned": 0
+        },
+        "58": {
+          "description": "Complete a contract with a Refractor",
+          "displayName": "First Voyage",
+          "earned": 0
+        },
+        "59": {
+          "description": "Help compose a pirate's poem",
+          "displayName": "Wordsmith",
+          "earned": 0
+        },
+        "6": {
+          "description": "Sample all galactic street food",
+          "displayName": "Galactic gourmet",
+          "earned": 0
+        },
+        "7": {
+          "description": "Listen to the longest sob story in the galaxy",
+          "displayName": "Good listener",
+          "earned": 0
+        },
+        "8": {
+          "description": "Complete all Expert quests",
+          "displayName": "Experience outranks everything",
+          "earned": 0
+        },
+        "9": {
+          "description": "Discover all planet areas",
+          "displayName": "Adventure and excitement",
+          "earned": 0
+        }
+      }
+    },
+    {
+      "appid": "3159330",
+      "info": {
+        "appid": "3159330",
+        "name": "Assassin’s Creed Shadows",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1766171678",
+        "achievements": {
+          "ACShadows_Ach_2": {
+            "name": "A New League Rises",
+            "description": "Complete Act 1 of the main story",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/44fa0d2f811435793e4027a272f6daa005a2e88a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/7493ed576d688c3bfc1eb62226801c245d0d219a.jpg",
+            "hidden": true,
+            "percent": "57.5"
+          },
+          "ACShadows_Ach_44": {
+            "name": "A Rare Occurrence",
+            "description": "Complete all legendary sumi-e",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/af34307413c718b7303c4aa0b8491fd794c29b29.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/661719ec738e4513dc421ab16509137da6bd48cc.jpg",
+            "hidden": false,
+            "percent": "2.7"
+          },
+          "ACShadows_Ach_26": {
+            "name": "Acrobatics",
+            "description": "Perform a leap of faith from a grappling hook swing",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/1b394f733afee2c87a204755c4c6f76496ff9593.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/a018d67ea4d3c43f77a9701b9b0e8577bec360c4.jpg",
+            "hidden": false,
+            "percent": "47.8"
+          },
+          "ACShadows_Ach_32": {
+            "name": "Adept Samurai",
+            "description": "Perform your first Finisher as Yasuke",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/05a5d2f019263504ed7b46e2f1b6f2b793532bd4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/63536eb160c607083a7a27f8613479a2b35c2cc2.jpg",
+            "hidden": false,
+            "percent": "94.5"
+          },
+          "ACShadows_Ach_28": {
+            "name": "Adept Shinobi",
+            "description": "Perform your first assassination",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/7c7208ef3f7b472f184b3f55bbb12c14ae262d6d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/b32c5caa18e0217da8e797fb28c1c94a064fbb01.jpg",
+            "hidden": false,
+            "percent": "91.6"
+          },
+          "ACShadows_Ach_38": {
+            "name": "Adventurer",
+            "description": "Shoot an enemy in the knee with an arrow",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/c0abd9058d81ec66fd3dcae41f72763ad4a7cbbd.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/16d3e37d3e5d45744d9a6b2e1484ae0baa766493.jpg",
+            "hidden": false,
+            "percent": "14.5"
+          },
+          "ACShadows_Ach_48": {
+            "name": "Against Wood and Stone",
+            "description": "Fully upgrade a building in the Hideout",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/a0fb072c716804c174972db98b1229060f7bbb3b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3dfcccb1debb1440bbee9a5b68f0ad7b3789a262.jpg",
+            "hidden": false,
+            "percent": "47.2"
+          },
+          "ACShadows_Ach_72": {
+            "name": "All Clear",
+            "description": "Complete 5 Corrupted Castles",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/0c7406fc0ebad79c042cd50dd8df50b6a622e4dc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/dbd7b6a1fb3091c7ed256252899ffdf6bdfd7f5c.jpg",
+            "hidden": false,
+            "percent": "2.4"
+          },
+          "ACShadows_Ach_3": {
+            "name": "An Oath Fulfilled",
+            "description": "Complete Act 2 of the main story",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/70a5dc96d70061e192256c03fe67ba4cee88b8fe.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/2e689359eabdf85d1bd1ee56cb10a684349d3b32.jpg",
+            "hidden": true,
+            "percent": "21.2"
+          },
+          "ACShadows_Ach_16": {
+            "name": "Art of Kenjutsu",
+            "description": "Master the way of the samurai",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/8343714b765ad4bcc285e825c340e00f16f37f53.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/9a0ea48bd716570935f9459f4a0e9881125807b8.jpg",
+            "hidden": false,
+            "percent": "6.4"
+          },
+          "ACShadows_Ach_15": {
+            "name": "Art of Ninjutsu",
+            "description": "Master the way of the shinobi",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/25e647f429fbf5c17066a2e217f36621f00eb2c0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/195a8ea27dcd3386b3c2321d63d4ac0396dfc3c7.jpg",
+            "hidden": false,
+            "percent": "7.0"
+          },
+          "ACShadows_Ach_67": {
+            "name": "Assassin's Focus",
+            "description": "Eliminate 7 enemies through one single use of Windstep (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/0b6bb49bb078778b4ef2d5928ea555d2c4aa7c6e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/2a39e54526e89824e9d524df9cd2bca0dab54759.jpg",
+            "hidden": false,
+            "percent": "1.0"
+          },
+          "ACShadows_Ach_66": {
+            "name": "Backfire",
+            "description": "Kill an enemy with a Tezutsu that you dropped after being hit by that enemy (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/81afecc6f4b0b40c29c8a567c4917abdc6a2ca8b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/f8b1211090ec04ee153cfc0bf572830aae35e7bb.jpg",
+            "hidden": true,
+            "percent": "0.5"
+          },
+          "ACShadows_Ach_18": {
+            "name": "Better than a Bucket",
+            "description": "Equip legendary gear in all slots",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/59c383d5d1a98b60a5193a371b4f62d629c61021.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/9b75260bead8e304e893b4b95e03e8c4f111e794.jpg",
+            "hidden": true,
+            "percent": "45.5"
+          },
+          "ACShadows_Ach_68": {
+            "name": "Boat Rocked",
+            "description": "Defeat the Old Ashigaru (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/bbd4d6b94b5c78aadfedd83ac820b6332a0cdd4a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/d8d2cc66a477cf6e2cfb15536dcb0844265df4db.jpg",
+            "hidden": true,
+            "percent": "2.7"
+          },
+          "ACShadows_Ach_69": {
+            "name": "Breathtaking!",
+            "description": "Complete all Landscape Sumi-e in Awaji (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/4008418bd6bc84214f46d2a9dfcad540d8b1432d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/5d8203b00bca4d15269168530966f2e0d147fc3c.jpg",
+            "hidden": false,
+            "percent": "1.8"
+          },
+          "ACShadows_Ach_13": {
+            "name": "Build Your League",
+            "description": "Recruit your first ally",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/8ef031a8d5dd09afd12fbac8d7e2c7a26c08bc61.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3f66c03a72b2d7b510f751a02bdbde59e31b88e7.jpg",
+            "hidden": true,
+            "percent": "53.4"
+          },
+          "ACShadows_Ach_47": {
+            "name": "Chase the Morning",
+            "description": "Add a sumi-e to the Hideout",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/ff4220663faa45ce0cfecedbe9665ad2d4900606.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/069b974e902b8d828d69d79092d994bddb8c6eef.jpg",
+            "hidden": false,
+            "percent": "17.2"
+          },
+          "ACShadows_Ach_62": {
+            "name": "Clawless",
+            "description": "Eliminate all targets in Awaji (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/662b5faddd0bca7bc106d8775ec909a2d9c6149c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/16ca36300c97f1fec370f74dd3784e8ce62f1465.jpg",
+            "hidden": false,
+            "percent": "1.7"
+          },
+          "ACShadows_Ach_45": {
+            "name": "Collector",
+            "description": "Complete a collection",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/6390eb71ed81781fbde0463049b89fcb3bf193b6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/aa954713b0593f2423c0b17698f6a41814cdb76f.jpg",
+            "hidden": true,
+            "percent": "10.4"
+          },
+          "ACShadows_Ach_55": {
+            "name": "Critical Hit!",
+            "description": "Complete the Seta River Killers",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3a2564bb9241827738be91e86734928b45a38ab8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/199c7f28f395633368bed07fa03d925730b9f3a5.jpg",
+            "hidden": true,
+            "percent": "11.7"
+          },
+          "ACShadows_Ach_6": {
+            "name": "Death Blossom",
+            "description": "Defeat all Shinbakufu",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/8ff9692f39698c0e20970f78eaf44e241b78d8ad.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3c3bf15a289976142c8fa6ea40c76c24750bd532.jpg",
+            "hidden": true,
+            "percent": "20.3"
+          },
+          "ACShadows_Ach_56": {
+            "name": "Enjoy the Ride",
+            "description": "Reach Level 80",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/a445b2d7b6d470715a80c4046536e215fc870435.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/cfb1bae28ec3e7a54894038544cd3543aff6c575.jpg",
+            "hidden": false,
+            "percent": "3.1"
+          },
+          "ACShadows_Ach_5": {
+            "name": "Epilogue",
+            "description": "Complete the Epilogue",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/74fb7bb0e299f1262160e65cc004443b59a6512d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/166c66ab8a7fe902d8f8919e12934ea60ea17be4.jpg",
+            "hidden": true,
+            "percent": "15.6"
+          },
+          "ACShadows_Ach_49": {
+            "name": "Everybody Benefits!",
+            "description": "Adopt a pet",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/be935b789a8d831284dffc27681086700ce62c7f.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/b23ff84fe01eeab5c0741817c903a48eeb85cff1.jpg",
+            "hidden": false,
+            "percent": "42.0"
+          },
+          "ACShadows_Ach_4": {
+            "name": "Fall of the Shinbakufu",
+            "description": "Complete Act 3 of the main story",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/8247a2c9b6f891845bf4cbeee7b24b1809f21bd5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/d46270df7667c15f169fd849a58a4dfe87ac37ca.jpg",
+            "hidden": true,
+            "percent": "15.8"
+          },
+          "ACShadows_Ach_37": {
+            "name": "Final Hearing",
+            "description": "Sheath your weapon immediately after an enemy dies from Bleed",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/7a0ce98900e511400ce5659ab2c2b664fadc2f67.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/dd148bcff6501102ec3a13a81a5a72b533ae4569.jpg",
+            "hidden": false,
+            "percent": "12.6"
+          },
+          "ACShadows_Ach_14": {
+            "name": "Front of the Pack",
+            "description": "Fully train an ally",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/80ed5b9780a4fd354dbde6abb1e170adefe2a2e2.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/86487db21fbb84f35616ba602ae1714397e2b191.jpg",
+            "hidden": true,
+            "percent": "19.6"
+          },
+          "ACShadows_Ach_31": {
+            "name": "Giant Slayer",
+            "description": "Assassinate a powerful guardian in one go",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/04af69a514e54da7525a5504ed8684c3cbc68145.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/44fb57835b1c47f8f1af0149af2ab8a10c8da1e3.jpg",
+            "hidden": false,
+            "percent": "20.7"
+          },
+          "ACShadows_Ach_42": {
+            "name": "Good Form",
+            "description": "Complete your first kata",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/70bccd0f47901f747f90b94b624a0ca761955554.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/afadb373ee90df85d4cb24d0682282f46984aa98.jpg",
+            "hidden": false,
+            "percent": "42.3"
+          },
+          "ACShadows_Ach_50": {
+            "name": "Happy Place",
+            "description": "Reach the highest point on the map",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/592442572e2474ba2d2e6816f5ede2ae39037c32.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/80aa45cb1be887cf5edbc9dc202990c8d9c9528a.jpg",
+            "hidden": false,
+            "percent": "16.2"
+          },
+          "ACShadows_Ach_25": {
+            "name": "Hook, Line, and Swinger",
+            "description": "Stay airborne by swinging from one grappling hook point to another",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/1dbfa00d76c14a21876e1d649c7b85a2ee44d53e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/52fae25a27fdcbe1ed9b816b49ebc681ba21d020.jpg",
+            "hidden": false,
+            "percent": "60.5"
+          },
+          "ACShadows_Ach_60": {
+            "name": "Hunters Hunted",
+            "description": "Defeat all three of Yukari's taisho (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/f27de4018343f03874c57a151c779ac473fc6955.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/1f9696501040f0ee599891a5ba49b4e71b01e123.jpg",
+            "hidden": true,
+            "percent": "3.1"
+          },
+          "ACShadows_Ach_20": {
+            "name": "In Case of Trouble",
+            "description": "Fully upgrade your tools and ammunition",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/9e140856369a555013919d5552cb1b858658faaa.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/73fde761dd14b983c64bc4c5e82caeab5cca4ab1.jpg",
+            "hidden": true,
+            "percent": "5.4"
+          },
+          "ACShadows_Ach_24": {
+            "name": "Just Your Shadow",
+            "description": "Distract the same enemy 3 times with shinobi bells",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/e9703984eba0f503810ff9fdd21ab92407456d74.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/aadb678ff3c786b5781915f46442cbd655464045.jpg",
+            "hidden": false,
+            "percent": "7.4"
+          },
+          "ACShadows_Ach_41": {
+            "name": "Kofun Raider",
+            "description": "Complete your first kofun",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/7ff23b0d906d7c96ed4d782394d760dd97ae4ecf.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/b45b476102967bdbed84b6351704b71e6341bc70.jpg",
+            "hidden": false,
+            "percent": "61.5"
+          },
+          "ACShadows_Ach_27": {
+            "name": "Leap of Fail",
+            "description": "Perform a leap of faith as Yasuke",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/009cd27373a99f43bab49f7682bd20741a92231d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/9187f5a2b58a9b7462882c1a04fcc52d2d4705fa.jpg",
+            "hidden": true,
+            "percent": "43.9"
+          },
+          "ACShadows_Ach_19": {
+            "name": "Limitless",
+            "description": "Find a legendary piece of gear of each type",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/5cb8acfa91cc0d161baa91afe1c80229851f9418.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/ee5f9cf12a07b414808b3f2277273b897d591aa1.jpg",
+            "hidden": true,
+            "percent": "31.0"
+          },
+          "ACShadows_Ach_54": {
+            "name": "Made You Look!",
+            "description": "Look for treasure behind the waterfall in the Hideout",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/64f6f123cd35c59b1446ea7298fd0ce0a7f7f151.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/f7283458d86da84e0eb79f0b08606925e72760e0.jpg",
+            "hidden": true,
+            "percent": "6.4"
+          },
+          "ACShadows_Ach_17": {
+            "name": "Make it Personal",
+            "description": "Engrave your first weapon",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/27a36ae5a327754c825eb4fa0af13e6ce0375f8f.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/880362474b552ebfd4e1c19d7a52279a7cc458cd.jpg",
+            "hidden": false,
+            "percent": "43.9"
+          },
+          "ACShadows_Ach_70": {
+            "name": "Master Builder",
+            "description": "Reach Hideout level 13",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/6453cf40bbbf08d646d29f6fb3f46b0cf94521b2.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/2738f2d1f74ac3c8442e3d1f8bd13e141ab06bef.jpg",
+            "hidden": false,
+            "percent": "1.1"
+          },
+          "ACShadows_Ach_33": {
+            "name": "Master Samurai",
+            "description": "Parry an incoming projectile",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/889a060e4c9704008d98346d09b58eb90940e85d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/9cc2a1db86ced978bfb05a1e5748f801edfdf110.jpg",
+            "hidden": false,
+            "percent": "28.9"
+          },
+          "ACShadows_Ach_29": {
+            "name": "Master Shinobi",
+            "description": "Assassinate an enemy through a shoji door",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/7bfe07ce62a17f1c5bcb252f2201073b5ae57f2a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/f346d3ed56017ce0233a293f632d6796a3f5d64e.jpg",
+            "hidden": false,
+            "percent": "50.4"
+          },
+          "ACShadows_Ach_39": {
+            "name": "Mortal Reminder",
+            "description": "Complete an Objective Board",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/c5114dc50561513a731484c4165be5a6387e0dc6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/f95f30bfaa4ce8ac4d665e8c526ce165bcb86928.jpg",
+            "hidden": true,
+            "percent": "53.5"
+          },
+          "ACShadows_Ach_64": {
+            "name": "One, Two, Sweep",
+            "description": "Eliminate an enemy after using all three postures of the Bo in a single combat (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/8302e3023a4725be41fbfa7804ced4461ff34d40.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/0eb50fe81a1420e9afe89e93405ef5a3da8043b5.jpg",
+            "hidden": false,
+            "percent": "2.2"
+          },
+          "ACShadows_Ach_36": {
+            "name": "Overdesign III",
+            "description": "Perform a Finisher on an enemy that is both Poisoned and Dazed",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/a9332f5bb295199b7627abad1cf677cb55cbb8ee.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/aa94e846140ad152635333ed56d8809c305aab03.jpg",
+            "hidden": false,
+            "percent": "4.6"
+          },
+          "ACShadows_Ach_51": {
+            "name": "Pathfinder",
+            "description": "Visit every province on the map",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/45f5bff8395d2b07c5f35b9611e0169f4ad2a058.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/d879ab736b9b455a04ec0657360816f979500757.jpg",
+            "hidden": false,
+            "percent": "27.4"
+          },
+          "ACShadows_Ach_1": {
+            "name": "Prologue",
+            "description": "Complete the Prologue",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/a9960cc6949294b4b101b4f34af91017df945378.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/ee45e27aabade1fc59198895e2f4fc47ad408103.jpg",
+            "hidden": true,
+            "percent": "87.8"
+          },
+          "ACShadows_Ach_59": {
+            "name": "Ran",
+            "description": "Escape Sumoto Castle (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/92290e28913d7270c4d9b6bffda00e0ba2ad1beb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/0924fa87013f572f228743d58591ec9ba7639128.jpg",
+            "hidden": true,
+            "percent": "4.1"
+          },
+          "ACShadows_Ach_23": {
+            "name": "Reeding is Fundamental",
+            "description": "Escape conflict by using a breathing reed to hide in shallow water",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/34f9ce7ddd7bef79dd153ba7ce3facd3a0a0d3ad.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/e1e36047026c5c9b0215318916f60c867a8405a9.jpg",
+            "hidden": false,
+            "percent": "7.4"
+          },
+          "ACShadows_Ach_52": {
+            "name": "Scouting Mission",
+            "description": "Gather information using a scout",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/bbb5ce412d9d6182d31d756f3e2b68a30da5b4b8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/1cec462e8742d563a826b8655cbf71b8480758ac.jpg",
+            "hidden": false,
+            "percent": "72.6"
+          },
+          "ACShadows_Ach_71": {
+            "name": "Skill Swap",
+            "description": "Train Kinu and Kane",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/2462fd6c9a3e68c8515cb5c8799d21ec8282f766.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/81bcc5ffb9190c97a3805f2e4c88b4c1261e128c.jpg",
+            "hidden": false,
+            "percent": "1.8"
+          },
+          "ACShadows_Ach_65": {
+            "name": "Slice of Life",
+            "description": "Kill 5 enemies with one single Wind Slash strike (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/ced30b094034249eff7c9e6eb3af76f4cee29267.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/48d7f81a6bf1da4a107ff83a2ff728bbb2a23e8c.jpg",
+            "hidden": false,
+            "percent": "0.7"
+          },
+          "ACShadows_Ach_46": {
+            "name": "Sole Sanctum",
+            "description": "Unlock the Hideout",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/aa117fd2a4378d5ab19412318ff1137295cff499.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/13f370cf299392eb524e6b622aeda6f04a586554.jpg",
+            "hidden": false,
+            "percent": "80.5"
+          },
+          "ACShadows_Ach_22": {
+            "name": "Sometimes",
+            "description": "Perform a landing roll",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/815c5c8afcc1d6fd8eef5c7e40dc580e94eab3f3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/297bff3d27b3dc886ba216895179eb6c75a3099e.jpg",
+            "hidden": false,
+            "percent": "42.0"
+          },
+          "ACShadows_Ach_57": {
+            "name": "Stars Unseen",
+            "description": "Reach Knowledge Rank 10",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/c05fe5d9d753b7f3991891d2945683d5aa7acfff.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/bd15e3ca6832d529d534e55ce00d5cb59697e31d.jpg",
+            "hidden": false,
+            "percent": "0.9"
+          },
+          "ACShadows_Ach_21": {
+            "name": "Suture Self",
+            "description": "Fully upgrade your rations",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/5096de7f2f0c8c56ba866d877c08a1b6ea552bed.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/b991c5077461238c4e139dbbf7f676ec5d211692.jpg",
+            "hidden": true,
+            "percent": "4.6"
+          },
+          "ACShadows_Ach_40": {
+            "name": "Test Your Might",
+            "description": "Defeat the final enemy in the tournament",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/9d19bfcc881b9ae37e0bd3287f78b36a95e2f425.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/1620ff8a165626322f8090c6c3ff1c1a15a9dba7.jpg",
+            "hidden": false,
+            "percent": "16.8"
+          },
+          "ACShadows_Ach_9": {
+            "name": "The Eager Assassin",
+            "description": "Meet Yagoro",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/f992e6f5fe1364aa206902876e68bc6c1ad52fec.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/08406a04237194871f70b6564e1faa2da5dd4937.jpg",
+            "hidden": true,
+            "percent": "14.3"
+          },
+          "ACShadows_Ach_10": {
+            "name": "The Ronin",
+            "description": "Meet Ibuki",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/877329d94db3e4b1f931803a0aa70dcae73a05ca.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/b946eee2fc66a6f1f5a612815d1a30594182959e.jpg",
+            "hidden": true,
+            "percent": "20.7"
+          },
+          "ACShadows_Ach_12": {
+            "name": "The Sharpshooter",
+            "description": "Meet Katsuhime",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/8918273a9b271b9bd88a4dbc5bd205577f5a28f1.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/94b51794e71fe05fb5a38406ed797d0d2cec3d2d.jpg",
+            "hidden": true,
+            "percent": "33.4"
+          },
+          "ACShadows_Ach_63": {
+            "name": "The Stick of Truth",
+            "description": "Equip a Legendary Bo (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/a4f47887ead9c49cf5536a00eedc474fe4a47511.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/138bd4ab7fb6be63a6e91ba1709eef71d78820f5.jpg",
+            "hidden": false,
+            "percent": "4.6"
+          },
+          "ACShadows_Ach_7": {
+            "name": "The Thief",
+            "description": "Meet Gennojo",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/aac22c862d92a3bccbe0a73741ffa1e4221522cb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/83af12e30603045dcfa7513b7afdc03d00377bec.jpg",
+            "hidden": true,
+            "percent": "44.0"
+          },
+          "ACShadows_Ach_8": {
+            "name": "The Toxin Master",
+            "description": "Meet Oni-yuri",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/50c065cd604948ab54e973a339923f566922609d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/88be17e2275198e4c70fa00d2b0d99d365a1abb7.jpg",
+            "hidden": true,
+            "percent": "21.7"
+          },
+          "ACShadows_Ach_11": {
+            "name": "The Warrior Monk",
+            "description": "Meet Yaya",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/a98b7b52f77229ec099cf141ce8f9a882645c025.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/4f0bee44f359fb2b76340ff6616de87eba0858a5.jpg",
+            "hidden": true,
+            "percent": "73.3"
+          },
+          "ACShadows_Ach_35": {
+            "name": "This is Japan, Actually",
+            "description": "Kick an enemy from a high place",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/772be35c044e69d16ccb12e8bee47082f07a8447.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/cc7104b3d32b5f1c9c2f81ac23fe7100108eaa01.jpg",
+            "hidden": false,
+            "percent": "14.8"
+          },
+          "ACShadows_Ach_61": {
+            "name": "Unity",
+            "description": "Return the Regalia to the Emperor (Claws of Awaji)",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/474460cd41b1c678f1ef0d7e59d0bbf00800f48a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/e2f2f2669d6c6d9a2bd909c2e5e26fa8a0a90f0f.jpg",
+            "hidden": true,
+            "percent": "3.0"
+          },
+          "ACShadows_Ach_30": {
+            "name": "Unseen",
+            "description": "Perform 5 assassinations in a row without being noticed or entering combat",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/690926ea129c265f78e86a2da3c0b33b3182c292.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/7cd3bf35848cde4d28a59ee214e52b55493262f7.jpg",
+            "hidden": false,
+            "percent": "83.2"
+          },
+          "ACShadows_Ach_34": {
+            "name": "Unstoppable",
+            "description": "Use Samurai Stand before performing a Finisher on an enemy",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3f6ccd797379675d5a5d37ba67bfc6ad371ab38c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/5f8543f1eef60e1f55bb9dc817e6a38452bcc7e1.jpg",
+            "hidden": false,
+            "percent": "7.4"
+          },
+          "ACShadows_Ach_58": {
+            "name": "Worth Its Wait",
+            "description": "Obtain two golden katana",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/cd2b7aca4c110db8c8a857a5c9c7610435fdcf81.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/8d888ce68ec0bf3d08729ec362a2a3004b4a3e70.jpg",
+            "hidden": false,
+            "percent": "1.5"
+          },
+          "ACShadows_Ach_53": {
+            "name": "Would You Kindly?",
+            "description": "Complete a contract in each province",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/306d9de3f19190aee634fb805d17f6dd92c4ddf5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/0cefd63fb149cee8c55301aeb41044138618b5c9.jpg",
+            "hidden": false,
+            "percent": "4.5"
+          },
+          "ACShadows_Ach_43": {
+            "name": "Zen Master",
+            "description": "Complete all Kuji-kiri",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/497de0487112f2130e160ea700e7783571f9342c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/5fe589166e4ce1206a2ec49dd142d5e86a6ebc0c.jpg",
+            "hidden": false,
+            "percent": "6.6"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "1": {
+          "description": "Complete the Prologue",
+          "displayName": "Prologue",
+          "earned": 1,
+          "earned_time": 1757793236
+        },
+        "10": {
+          "description": "Meet Ibuki",
+          "displayName": "The Ronin",
+          "earned": 0
+        },
+        "11": {
+          "description": "Meet Yaya",
+          "displayName": "The Warrior Monk",
+          "earned": 1,
+          "earned_time": 1757857391
+        },
+        "12": {
+          "description": "Meet Katsuhime",
+          "displayName": "The Sharpshooter",
+          "earned": 0
+        },
+        "13": {
+          "description": "Recruit your first ally",
+          "displayName": "Build Your League",
+          "earned": 0
+        },
+        "14": {
+          "description": "Fully train an ally",
+          "displayName": "Front of the Pack",
+          "earned": 0
+        },
+        "15": {
+          "description": "Master the way of the shinobi",
+          "displayName": "Art of Ninjutsu",
+          "earned": 0
+        },
+        "16": {
+          "description": "Master the way of the samurai",
+          "displayName": "Art of Kenjutsu",
+          "earned": 0
+        },
+        "17": {
+          "description": "Engrave your first weapon",
+          "displayName": "Make it Personal",
+          "earned": 0
+        },
+        "18": {
+          "description": "Equip legendary gear in all slots",
+          "displayName": "Better than a Bucket",
+          "earned": 0
+        },
+        "19": {
+          "description": "Find a legendary piece of gear of each type",
+          "displayName": "Limitless",
+          "earned": 0
+        },
+        "2": {
+          "description": "Complete Act 1 of the main story",
+          "displayName": "A New League Rises",
+          "earned": 1,
+          "earned_time": 1758315542
+        },
+        "20": {
+          "description": "Fully upgrade your tools and ammunition",
+          "displayName": "In Case of Trouble",
+          "earned": 0
+        },
+        "21": {
+          "description": "Fully upgrade your rations",
+          "displayName": "Suture Self",
+          "earned": 0
+        },
+        "22": {
+          "description": "Perform a landing roll",
+          "displayName": "Sometimes",
+          "earned": 1,
+          "earned_time": 1757879010
+        },
+        "23": {
+          "description": "Escape conflict by using a breathing reed to hide in shallow water",
+          "displayName": "Reeding is Fundamental",
+          "earned": 0
+        },
+        "24": {
+          "description": "Distract the same enemy 3 times with shinobi bells",
+          "displayName": "Just Your Shadow",
+          "earned": 1,
+          "earned_time": 1758312757
+        },
+        "25": {
+          "description": "Stay airborne by swinging from one grappling hook point to another",
+          "displayName": "Hook, Line, and Swinger",
+          "earned": 1,
+          "earned_time": 1757793236
+        },
+        "26": {
+          "description": "Perform a leap of faith from a grappling hook swing",
+          "displayName": "Acrobatics",
+          "earned": 1,
+          "earned_time": 1758218936
+        },
+        "27": {
+          "description": "Perform a leap of faith as Yasuke",
+          "displayName": "Leap of Fail",
+          "earned": 0
+        },
+        "28": {
+          "description": "Perform your first assassination",
+          "displayName": "Adept Shinobi",
+          "earned": 1,
+          "earned_time": 1757793236
+        },
+        "29": {
+          "description": "Assassinate an enemy through a shoji door",
+          "displayName": "Master Shinobi",
+          "earned": 0
+        },
+        "3": {
+          "description": "Complete Act 2 of the main story",
+          "displayName": "An Oath Fulfilled",
+          "earned": 0
+        },
+        "30": {
+          "description": "Perform 5 assassinations in a row without being noticed or entering combat",
+          "displayName": "Unseen",
+          "earned": 1,
+          "earned_time": 1757793237
+        },
+        "31": {
+          "description": "Assassinate a powerful guardian in one go",
+          "displayName": "Giant Slayer",
+          "earned": 0
+        },
+        "32": {
+          "description": "Perform your first Finisher as Yasuke",
+          "displayName": "Adept Samurai",
+          "earned": 1,
+          "earned_time": 1757793236
+        },
+        "33": {
+          "description": "Parry an incoming projectile",
+          "displayName": "Master Samurai",
+          "earned": 0
+        },
+        "34": {
+          "description": "Use Samurai Stand before performing a Finisher on an enemy",
+          "displayName": "Unstoppable",
+          "earned": 0
+        },
+        "35": {
+          "description": "Kick an enemy from a high place",
+          "displayName": "This is Japan, Actually",
+          "earned": 0
+        },
+        "36": {
+          "description": "Perform a Finisher on an enemy that is both Poisoned and Dazed",
+          "displayName": "Overdesign III",
+          "earned": 0
+        },
+        "37": {
+          "description": "Sheath your weapon immediately after an enemy dies from Bleed",
+          "displayName": "Final Hearing",
+          "earned": 0
+        },
+        "38": {
+          "description": "Shoot an enemy in the knee with an arrow",
+          "displayName": "Adventurer",
+          "earned": 0
+        },
+        "39": {
+          "description": "Complete an Objective Board",
+          "displayName": "Mortal Reminder",
+          "earned": 1,
+          "earned_time": 1758463092
+        },
+        "4": {
+          "description": "Complete Act 3 of the main story",
+          "displayName": "Fall of the Shinbakufu",
+          "earned": 0
+        },
+        "40": {
+          "description": "Defeat the final enemy in the tournament",
+          "displayName": "Test Your Might",
+          "earned": 0
+        },
+        "41": {
+          "description": "Complete your first kofun",
+          "displayName": "Kofun Raider",
+          "earned": 1,
+          "earned_time": 1758217016
+        },
+        "42": {
+          "description": "Complete your first kata",
+          "displayName": "Good Form",
+          "earned": 1,
+          "earned_time": 1758458932
+        },
+        "43": {
+          "description": "Complete all Kuji-kiri",
+          "displayName": "Zen Master",
+          "earned": 0
+        },
+        "44": {
+          "description": "Complete all legendary sumi-e",
+          "displayName": "A Rare Occurrence",
+          "earned": 0
+        },
+        "45": {
+          "description": "Complete a collection",
+          "displayName": "Collector",
+          "earned": 0
+        },
+        "46": {
+          "description": "Unlock the Hideout",
+          "displayName": "Sole Sanctum",
+          "earned": 1,
+          "earned_time": 1757793236
+        },
+        "47": {
+          "description": "Add a sumi-e to the Hideout",
+          "displayName": "Chase the Morning",
+          "earned": 0
+        },
+        "48": {
+          "description": "Fully upgrade a building in the Hideout",
+          "displayName": "Against Wood and Stone",
+          "earned": 0
+        },
+        "49": {
+          "description": "Adopt a pet",
+          "displayName": "Everybody Benefits!",
+          "earned": 1,
+          "earned_time": 1758230944
+        },
+        "5": {
+          "description": "Complete the Epilogue",
+          "displayName": "Epilogue",
+          "earned": 0
+        },
+        "50": {
+          "description": "Reach the highest point on the map",
+          "displayName": "Happy Place",
+          "earned": 0
+        },
+        "51": {
+          "description": "Visit every province on the map",
+          "displayName": "Pathfinder",
+          "earned": 0
+        },
+        "52": {
+          "description": "Gather information using a scout",
+          "displayName": "Scouting Mission",
+          "earned": 1,
+          "earned_time": 1757793237
+        },
+        "53": {
+          "description": "Complete a contract in each province",
+          "displayName": "Would You Kindly?",
+          "earned": 0
+        },
+        "54": {
+          "description": "Look for treasure behind the waterfall in the Hideout",
+          "displayName": "Made You Look!",
+          "earned": 0
+        },
+        "55": {
+          "description": "Complete the Seta River Killers",
+          "displayName": "Critical Hit!",
+          "earned": 0
+        },
+        "56": {
+          "description": "Reach Level 80",
+          "displayName": "Enjoy the Ride",
+          "earned": 0
+        },
+        "57": {
+          "description": "Reach Knowledge Rank 10",
+          "displayName": "Stars Unseen",
+          "earned": 0
+        },
+        "58": {
+          "description": "Obtain two golden katana",
+          "displayName": "Worth Its Wait",
+          "earned": 0
+        },
+        "59": {
+          "description": "Escape Sumoto Castle (Claws of Awaji)",
+          "displayName": "Ran",
+          "earned": 0
+        },
+        "6": {
+          "description": "Defeat all Shinbakufu",
+          "displayName": "Death Blossom",
+          "earned": 0
+        },
+        "60": {
+          "description": "Defeat all three of Yukari's taisho (Claws of Awaji)",
+          "displayName": "Hunters Hunted",
+          "earned": 0
+        },
+        "61": {
+          "description": "Return the Regalia to the Emperor (Claws of Awaji)",
+          "displayName": "Unity",
+          "earned": 0
+        },
+        "62": {
+          "description": "Eliminate all targets in Awaji (Claws of Awaji)",
+          "displayName": "Clawless",
+          "earned": 0
+        },
+        "63": {
+          "description": "Equip a Legendary Bo (Claws of Awaji)",
+          "displayName": "The Stick of Truth",
+          "earned": 0
+        },
+        "64": {
+          "description": "Eliminate an enemy after using all three postures of the Bo in a single combat (Claws of Awaji)",
+          "displayName": "One, Two, Sweep",
+          "earned": 0
+        },
+        "65": {
+          "description": "Kill 5 enemies with one single Wind Slash strike (Claws of Awaji)",
+          "displayName": "Slice of Life",
+          "earned": 0
+        },
+        "66": {
+          "description": "Kill an enemy with a Tezutsu that you dropped after being hit by that enemy (Claws of Awaji)",
+          "displayName": "Backfire",
+          "earned": 0
+        },
+        "67": {
+          "description": "Eliminate 7 enemies through one single use of Windstep (Claws of Awaji)",
+          "displayName": "Assassin's Focus",
+          "earned": 0
+        },
+        "68": {
+          "description": "Defeat the Old Ashigaru (Claws of Awaji)",
+          "displayName": "Boat Rocked",
+          "earned": 0
+        },
+        "69": {
+          "description": "Complete all Landscape Sumi-e in Awaji (Claws of Awaji)",
+          "displayName": "Breathtaking!",
+          "earned": 0
+        },
+        "7": {
+          "description": "Meet Gennojo",
+          "displayName": "The Thief",
+          "earned": 1,
+          "earned_time": 1758463664
+        },
+        "8": {
+          "description": "Meet Oni-yuri",
+          "displayName": "The Toxin Master",
+          "earned": 0
+        },
+        "9": {
+          "description": "Meet Yagoro",
+          "displayName": "The Eager Assassin",
+          "earned": 0
+        }
+      }
+    }
+  ]
+}
