@@ -1,0 +1,226 @@
+{
+  "appid": "2473480",
+  "name": "Tails of Iron 2: Whiskers of Winter",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/header.jpg?t=1755607971",
+  "achievements": {
+    "BuildLevel3Builder": {
+      "name": "Build Level 3 Builder",
+      "description": "Upgrade the builder to its highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/5fab98f6f733e2521c91d0644777d149cf51ca7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/179a2643c592fa401b7f987d5836828e33c7a0aa.jpg",
+      "hidden": false,
+      "percent": "51.7"
+    },
+    "BuildLevel3Chef": {
+      "name": "Build Level 3 Chef",
+      "description": "Upgrade the chef to its highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/f1abcf7371b6fb595f54a211f93fde49c2455d6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/941ee77250bae3edf108fd95208e13827f6bbc9a.jpg",
+      "hidden": false,
+      "percent": "36.4"
+    },
+    "BuildLevel3Shop": {
+      "name": "Build Level 3 Shop",
+      "description": "Upgrade the shop to its highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/926bc92d6e49b5aea4081448f4f9b873f477f09d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/ca4762267cd77502a99a0604c7b40e1e848e1d44.jpg",
+      "hidden": false,
+      "percent": "36.3"
+    },
+    "BuildLevel3Smith": {
+      "name": "Build Level 3 Smith",
+      "description": "Upgrade the smith to its highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/676e7fa04dde685981bb42bd20b05960d1287468.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/191e9e6a0dde760e65403070642af29f8925c994.jpg",
+      "hidden": false,
+      "percent": "41.2"
+    },
+    "CompleteAll": {
+      "name": "Collect All Medals",
+      "description": "Collect All Medals",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/115707a12fe353e6a7472e66932ef3f5266e61c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/310eee72d8825660f006d1a823f2092b510d9dc7.jpg",
+      "hidden": false,
+      "percent": "14.8"
+    },
+    "CollectAllTarotCards": {
+      "name": "Collect All Tarot Cards",
+      "description": "Collect all the tarot cards and deliver them to Merlin at their hut in the Rift.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7975d7350a47cd941dac2b0560e5f2711c0921fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/f17d2a50f3702657a5336ccd0921a08df39dd94b.jpg",
+      "hidden": false,
+      "percent": "29.9"
+    },
+    "CompleteAllRedForestHunts": {
+      "name": "Complete Golden Forest Hunts",
+      "description": "Complete all the hunts provided by the Sigrid in Nestminster.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/403bd6c193224f5de5235e8106eb8dbab8c0db5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/6d27f0c658c998980a5292e681801146380830dc.jpg",
+      "hidden": false,
+      "percent": "22.1"
+    },
+    "CompleteAllOutskirtsHunts": {
+      "name": "Complete Outskirts Hunts",
+      "description": "Complete all the hunts provided by the Mossbug Farm Elder.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/c19a00de429ca79f1f89c94a2fa5836ad3295ad7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/a540d701129b3242be24e550fc1a87b7165587cc.jpg",
+      "hidden": false,
+      "percent": "22.3"
+    },
+    "CompleteAllRiftHunts": {
+      "name": "Complete Rift Hunts",
+      "description": "Complete all the hunts provided by Short Tongue in Bogmire Forge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/63bb70a4d7bd286233b029f22aa0b9d4d01dd74b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/21271313445fbd6c7d7a9533c0bae02d83023af5.jpg",
+      "hidden": false,
+      "percent": "21.8"
+    },
+    "CompleteAllWhiteWhiskerHunts": {
+      "name": "Complete White Whiskers Hunts",
+      "description": "Complete all the hunts provided by Gray Ears in The Warren.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/500aa198d43ecbe81e4de393d1e290d15e841a98.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/a87c1325b3062af287d0e39ab21461a5131e696e.jpg",
+      "hidden": false,
+      "percent": "28.4"
+    },
+    "CraftALevel3Armour": {
+      "name": "Craft A Level 3 Cuirass",
+      "description": "Craft a cuirass from the level 3 section at the Smithy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/a503fea8fd90a7ca00113189b819acc71fb54f43.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/492ef7d21a3a1c287eb45270c27495f04eebcdfe.jpg",
+      "hidden": false,
+      "percent": "36.6"
+    },
+    "CraftALevel3Weapon": {
+      "name": "Craft A Level 3 Weapon",
+      "description": "Craft a weapon from the level 3 section at the Smithy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/18737c4ad96774936331584097a69297fdf10537.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/75b103c6885c967d4d2c8b48744b594e549fe734.jpg",
+      "hidden": false,
+      "percent": "39.9"
+    },
+    "Defeat25Porcupines": {
+      "name": "Defeat 25 BackStabbers",
+      "description": "Defeat 25 BackStabbers in combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/c14c40fa9ad255c9a365811ba9365ee9ad3afaac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/80a57e79dc242e0e381c87b3c214e7c4ab504432.jpg",
+      "hidden": false,
+      "percent": "20.9"
+    },
+    "Defeat25Birds": {
+      "name": "Defeat 25 Birds",
+      "description": "Defeat 25 Birds in combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/e95a98f65d0956a4605b3fb8557b8c9f635e1638.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9721ad156c6bd484525b70a74f959829e9c58030.jpg",
+      "hidden": false,
+      "percent": "15.9"
+    },
+    "Defeat25Centis": {
+      "name": "Defeat 25 Death Marches",
+      "description": "Defeat 25 Death Marches in combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/4d4051282a1e282d9adda4eb3a6a0b7981758d68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/61c7d22e7c2cb232a2fae69108de18d000eb111c.jpg",
+      "hidden": false,
+      "percent": "18.3"
+    },
+    "Defeat25Frogs": {
+      "name": "Defeat 25 Frogs",
+      "description": "Defeat 25 Frogs in combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/952447241bc04a6ad56f775915dc88ed010508bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9e521d2a9a6654aea652b4f917c07a5ddea45196.jpg",
+      "hidden": false,
+      "percent": "59.0"
+    },
+    "Defeat25Mudworms": {
+      "name": "Defeat 25 Mudwyrms",
+      "description": "Defeat 25 Mudwyrms in combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/a65daeef4f0702384a951c5a60d82a64c9b87511.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/d1b3b9f185574785a8313737918efa41c362e4e4.jpg",
+      "hidden": false,
+      "percent": "17.6"
+    },
+    "Defeat25OwlCultists": {
+      "name": "Defeat 25 Owl Cultists",
+      "description": "Defeat 25 Owl Cultists in combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/ea9f7706335b837194c6368d392bfc606b72e1f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/17f274e8f6e2dd0be6bc789b1ca7ee63a27dcd91.jpg",
+      "hidden": false,
+      "percent": "31.6"
+    },
+    "Defeat25Spiders": {
+      "name": "Defeat 25 Tailspinners",
+      "description": "Defeat 25 Tailspinners in combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/4522d9ff06a138c4d08c293ff86b40f5cf38018c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/cf68da97f45f98fe8d6b371a02388d966942e81e.jpg",
+      "hidden": false,
+      "percent": "38.6"
+    },
+    "DefeatHaratBlueFang": {
+      "name": "Defeat Harat Bluefang",
+      "description": "Defeat the Draugr in the Tomb of the Old King.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/2ea03eaa6a19104bddae3ebcb6fdb7cb299f81ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7fa82186eaabe3caff1ebe55f2a3226e99593aff.jpg",
+      "hidden": false,
+      "percent": "28.7"
+    },
+    "DeliverTheMoledonalds": {
+      "name": "Deliver The Late Moledonalds",
+      "description": "Deliver the late Moledonalds to Matt and Nath in their Outskirts bunker.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/469cea81d4c40341d5581148fff3b6a24a6fdd7c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7cd8da49dd3684adfb9c3324d2e8f41bde63bac0.jpg",
+      "hidden": false,
+      "percent": "42.0"
+    },
+    "FindTheHeronsRod": {
+      "name": "Find The Herons Fishing Pole",
+      "description": "Returning Ernest's missing Fishing Pole to him at the Lake in the Golden Forest.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7b072ee623acc91117901e605b35ab4800b33b4a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7cb0beb3c9b82c8fe8517efaadb71c66f59defbf.jpg",
+      "hidden": false,
+      "percent": "41.0"
+    },
+    "FindTheMagpiesGlasses": {
+      "name": "Find The Magpies Spectacles",
+      "description": "Returning Maggi's missing spectacles to her at Bogmire Forge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/e9837a30d14b1b9fdc8cb7eb3c115d9bb5eb17cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7bdde9879ac816dba884d5e314cd87739d2a9be2.jpg",
+      "hidden": false,
+      "percent": "43.2"
+    },
+    "FlyWithBurtle": {
+      "name": "Flying Turtle",
+      "description": "Take a ride with Burtle in his flying contraption.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/df1ef7825b41adb66a59670b95215f553e2c8b59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9ca3cd2e7dde638ddceb7411534d6975f21e0c0d.jpg",
+      "hidden": false,
+      "percent": "37.3"
+    },
+    "CookA3CourseMeal": {
+      "name": "Full Belly",
+      "description": "Cook all meals at the Chef.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/a5d3738a9486490e156239c754d08acba239edf2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/31bba03c8832cf9d6a87ded72d18015ec27b9305.jpg",
+      "hidden": false,
+      "percent": "35.3"
+    },
+    "DefeatCountKazak": {
+      "name": "In The Ice Peaks Bind Them",
+      "description": "Defeat Count Kazak at the top of Mount Cauldron.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7a5f0290303d1bd4e03609dda550700d9f4553c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/4627a4a09b9520eddc5f3b6e399c94399438db6a.jpg",
+      "hidden": false,
+      "percent": "34.7"
+    },
+    "WinTheTournamentAtTheCrimsonKeep": {
+      "name": "Win The Crimson Keep Tournament",
+      "description": "Win the tournament in the Crimson Keep arena to win King Redgi's trust.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/a72487e9747c782e6363570834efee13b8901706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9a56f797d6ea8bb9bf74276027eca4a168730e4c.jpg",
+      "hidden": false,
+      "percent": "38.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

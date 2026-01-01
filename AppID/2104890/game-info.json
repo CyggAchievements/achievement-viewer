@@ -1,0 +1,362 @@
+{
+  "appid": "2104890",
+  "name": "RoadCraft",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/header_alt_assets_0.jpg?t=1765883840",
+  "achievements": {
+    "ach_47": {
+      "name": "01001110 01101001 01100011 01100101",
+      "description": "Visit the Sabertooth island on Sunken",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/f4fe2eff801b26fd72bcfea58bc2805eb0bfaac0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "2.1"
+    },
+    "ach_10": {
+      "name": "All Mine",
+      "description": "Recover all mining equipment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/9fa64a5d78c86474db14b6d183131931328499f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "18.7"
+    },
+    "ach_35": {
+      "name": "And Let The Whole World Wait",
+      "description": "Visit all rest spots on Deluge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/41abfe7386738a3a1a39ae02f12611af793a23bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "0.7"
+    },
+    "ach_06": {
+      "name": "Baller",
+      "description": "Purchase a Modern vehicle in every category",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/357de2d72be552d17088a39347081076246a5aaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "15.2"
+    },
+    "ach_05": {
+      "name": "Baller on a budget",
+      "description": "Receive all Rusty vehicles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/4ca7713e89200c8b544b4feb3b3531f43ced4576.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "10.3"
+    },
+    "ach_31": {
+      "name": "Business Time",
+      "description": "Purchase 25 Resources from Construction Depots",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/f968b81f59c7b3ddc7292d8c28ee226212a4902b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "7.3"
+    },
+    "ach_65": {
+      "name": "Caught sipping",
+      "description": "Feel the need to refuel?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/4ebfde651c977fef3c3a4f8c8d7ce9d3df673e81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "0.6"
+    },
+    "ach_44": {
+      "name": "Choo Choo",
+      "description": "Plot a route for vehicles across the railway bridge on Sunken and have them successfully cross it",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/31b5d098c5824f8589e85afb33cfe37a689ab836.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "ach_36": {
+      "name": "Dam Son",
+      "description": "Help a strange guy build his own dam on Deluge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/44f76534619d9992c15892f96979ca5c0c5d4e76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "8.3"
+    },
+    "ach_46": {
+      "name": "Digging for treasure",
+      "description": "Fully drain out all rewards from the route to the castle on Sunken",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/7fc38d0a1b157b4cf840f1c91f4a9109a5516d5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "9.0"
+    },
+    "ach_01": {
+      "name": "Easy rider",
+      "description": "Travel 100km in any vehicle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/028656d4bb34e2652dca2e97b5f44c4609e3353e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "34.3"
+    },
+    "ach_30": {
+      "name": "Extra Mile",
+      "description": "Complete all Side Objectives (base game)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/dfcd2c355e7a956a93e4d46676cb224d79887223.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "2.2"
+    },
+    "ach_14": {
+      "name": "Ground Zero",
+      "description": "Investigate the geothermal plant failure",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/443d151ea5536309f583add27df73ff1bd72e83b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "3.6"
+    },
+    "ach_21": {
+      "name": "Growing Up",
+      "description": "Find and sell all Toy vehicles on one Save Slot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/8fa9ae91d276cbe40c13898fe2cd9e6feb9bd289.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "0.4"
+    },
+    "ach_04": {
+      "name": "Hand-me-down",
+      "description": "Receive your first Rusty vehicle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/105b00a73bd0c6d8c437dd07d4b397a2cd48634d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "95.3"
+    },
+    "ach_26": {
+      "name": "I Know The Pieces Fit",
+      "description": "Have 250 vehicles successfully travel along the routes you've plotted",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/4a85256780561175e124973273a3cfe2dc1d725f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "44.7"
+    },
+    "ach_32": {
+      "name": "In This Economy...",
+      "description": "Sell 50 Resources to Construction Depots",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/38461e99b2a1255a280922ef7e4a4e53f7b47d28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "ach_16": {
+      "name": "It Flows",
+      "description": "Pour 500 tons of sand",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/2f7b3006f1115332d94a661918ffd821409145d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "37.7"
+    },
+    "ach_37": {
+      "name": "Jamais Vu",
+      "description": "Find a future reference on Deluge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/17aefdd9911dad6fff1604f79727d78a60af113e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "3.4"
+    },
+    "ach_50": {
+      "name": "Juicin'",
+      "description": "Ruin the orange harvest on Sojourn",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/cccc9d29396952e2edd26018fdb6c70e14bbc920.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "ach_53": {
+      "name": "Lost Olympus",
+      "description": "You wanna rock?!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/c657f97b9310b1ad165e4f11f25489b37a08c186.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "ach_60": {
+      "name": "Mood",
+      "description": "Ruin a beautiful thing on Kernel (you monster)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/abc230ab91c9a572129693b4126bc5e79f0daf8a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "ach_38": {
+      "name": "Not In Vain",
+      "description": "Revisit the facilities you worked with on Aftermath",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/a3e8f57da769812251f9e18982fcd182ca9d7892.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "ach_42": {
+      "name": "Open for business",
+      "description": "Restore the Construction Depot on Incommunicado",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/9d2a6a47fb4d975e66ad072f925e8b9e75838b38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "27.8"
+    },
+    "ach_23": {
+      "name": "Patchwork",
+      "description": "Pave 1000 m2 of asphalt",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/bfd545a4526a9d1a24843faadbd6d09d08764c7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "40.4"
+    },
+    "ach_22": {
+      "name": "Paving The Way",
+      "description": "Build your first asphalt road",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/97efd43ee69523db69e2884217af0b1d3f495314.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "65.8"
+    },
+    "ach_09": {
+      "name": "Please Hold",
+      "description": "Restore region communications",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/cee9d45c5757beaef6d1151762b9a582021cc09c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "23.0"
+    },
+    "ach_13": {
+      "name": "Praise The Sun",
+      "description": "Relaunch region electricity production and research facility",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/0607207f6dac20c90da159288b9c03585a465904.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "7.6"
+    },
+    "ach_11": {
+      "name": "Rectify",
+      "description": "Repair the region infrastructure and the dam",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/c8814a672790c2db580f96e85a3e683ae5da6a87.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "7.4"
+    },
+    "ach_48": {
+      "name": "Running late",
+      "description": "Perform an insane jump in jungle area on Sojourn",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/f357bc06cce01f21909552be7b42a4984136fb14.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "ach_39": {
+      "name": "S.O.S.",
+      "description": "Find all the ships thrown ashore on Aftermath",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/6a6c5757389222ceaa16077ac46f64b739550550.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "ach_54": {
+      "name": "Serious business",
+      "description": "Do you hear a distant screaming?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/839e54de0a13aee09d29439c3d9b1a67d0d7d803.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "2.4"
+    },
+    "ach_07": {
+      "name": "Shore Thing",
+      "description": "Reinforce the endangered shoreline",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/abffd8fe8e4e0cc25400b997bc679e5bfeef7209.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "75.1"
+    },
+    "ach_63": {
+      "name": "Slow Learner",
+      "description": "Flood your engine 10 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/2577ec4329370cfe6e4be80e6a07837b536570d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "1.2"
+    },
+    "ach_62": {
+      "name": "Spinner",
+      "description": "Construct 30 bridges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/41c836b2bed13c85a7ed98f89b017f3490b1a90c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "ach_64": {
+      "name": "Time to think",
+      "description": "Freefall 15m in a single leap",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/36bf02df6150c6a1f038770c330e65fa36a1e7c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "38.8"
+    },
+    "ach_03": {
+      "name": "To Boldly Go",
+      "description": "Travel 5000 km in any vehicle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/b6200259b92bf67939c0f2479e739c99b61c54fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "0.1"
+    },
+    "ach_12": {
+      "name": "Well Oiled",
+      "description": "Rehabilitate the region gas industry and logistics",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/97779cf23d52d203522e24d360614b71dde7e43b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "8.2"
+    },
+    "ach_52": {
+      "name": "Well, then...",
+      "description": "Find a well with unusual properties on Sojourn",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/6a34b0ce1babec1f1c5ab0a5fd37f2ef1545de7d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "ach_08": {
+      "name": "When The Leeve Breaks",
+      "description": "Reconnect the town to the power plant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/ab895e34ae8b8a2a2cafa4b52123568e36ea6621.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "52.5"
+    },
+    "ach_56": {
+      "name": "Wilhelm scream",
+      "description": "That sure was a leap",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/48bfef6f5a7745b1320f4afee99b1ac1a7a0fe04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ach_66": {
+      "name": "Witness me",
+      "description": "Complete all achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/9123c79ff591e7ff7d6ca424fd8f01e3269f6ef6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": true,
+      "percent": "0.1"
+    },
+    "ach_27": {
+      "name": "Woven Web",
+      "description": "Have 750 vehicles successfully travel along the routes you've plotted",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/7481bed21bb5327ab47eed5198485232bdadf600.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "25.6"
+    },
+    "ach_57": {
+      "name": "Yep, these are geysers",
+      "description": "Thoroughly make sure all geysers are indeed geysers on Kernel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/416a183fa34b3ef11879b73fe086d884bec2a03c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
