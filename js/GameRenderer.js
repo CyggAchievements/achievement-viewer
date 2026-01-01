@@ -380,32 +380,63 @@ export function renderGameDetail() {
 
 // Normal view with compare button
 function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
-    let unlockedAchievements = game.achievements.filter(a => a.unlocked);
-    let lockedAchievements = game.achievements.filter(a => !a.unlocked);
+    // Clone achievements to avoid modifying the original array during sort
+    let achievements = [...game.achievements];
 
     if (sortMode === 'rarity-asc') {
-        unlockedAchievements.sort((a, b) => {
+        achievements.sort((a, b) => {
             const rarityA = a.rarity !== null ? parseFloat(a.rarity) : 999;
             const rarityB = b.rarity !== null ? parseFloat(b.rarity) : 999;
             return rarityA - rarityB;
         });
     } else if (sortMode === 'rarity-desc') {
-        unlockedAchievements.sort((a, b) => {
+        achievements.sort((a, b) => {
             const rarityA = a.rarity !== null ? parseFloat(a.rarity) : -1;
             const rarityB = b.rarity !== null ? parseFloat(b.rarity) : -1;
             return rarityB - rarityA;
         });
     } else if (sortMode === 'date-newest') {
-        unlockedAchievements.sort((a, b) => (b.unlocktime || 0) - (a.unlocktime || 0));
+        achievements.sort((a, b) => (b.unlocktime || 0) - (a.unlocktime || 0));
     } else if (sortMode === 'date-oldest') {
-        unlockedAchievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
+        achievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
     }
+
+    // Group achievements
+    const grouped = {};
+    const groupOrder = [];
+
+    achievements.forEach(ach => {
+        // Use 'group' property from fetch_game_data.py or fallback
+        const groupName = (ach.group || "Base Game").trim(); // Remove any extra spaces
+        
+        if (!grouped[groupName]) {
+            grouped[groupName] = [];
+            groupOrder.push(groupName);
+        }
+        grouped[groupName].push(ach);
+    });
+
+    // Ensure 'Base Game' comes first if it exists
+    groupOrder.sort((a, b) => {
+        if (a === "Base Game") return -1;
+        if (b === "Base Game") return 1;
+        return a.localeCompare(b);
+    });
+
+    // Generate HTML for groups
+    let achievementsHTML = '';
+    groupOrder.forEach(groupName => {
+        const groupAchs = grouped[groupName];
+        achievementsHTML += `
+            <h3 class="achievements-section-title group-header">${groupName}</h3>
+            ${groupAchs.map(ach => renderAchievement(ach, ach.unlocked)).join('')}
+        `;
+    });
 
     // Check for "Passport" (Visitor) from URL
     const visitor = getVisitorUsername();
     
     // Show compare button ONLY if we have a visitor username in URL AND it's not the own profile
-    // Guests (no URL param) will not see this button
     const compareButton = (visitor && !isOwnProfile()) ? `
         <button class="compare-button" onclick="window.enableCompareMode()">
             🔄 Compare Achievements
@@ -445,30 +476,23 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         </div>
         
         <div class="achievements-list">
-            ${unlockedAchievements.length > 0 ? `
-                <h3 class="achievements-section-title">Unlocked Achievements</h3>
-                <div class="sort-controls">
-                    <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="window.setSortMode('rarity-asc')" data-tooltip="Rarest First">
-                        🏆↑
-                    </button>
-                    <button class="sort-button ${sortMode === 'rarity-desc' ? 'active' : ''}" onclick="window.setSortMode('rarity-desc')" data-tooltip="Most Common First">
-                        🏆↓
-                    </button>
-                    <button class="sort-button ${sortMode === 'date-newest' ? 'active' : ''}" onclick="window.setSortMode('date-newest')" data-tooltip="Newest First">
-                        🕐↓
-                    </button>
-                    <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="window.setSortMode('date-oldest')" data-tooltip="Oldest First">
-                        🕐↑
-                    </button>
-                    ${sortMode !== 'default' ? `<button class="sort-button" onclick="window.setSortMode('default')" data-tooltip="Reset Sorting">↺</button>` : ''}
-                </div>
-                ${unlockedAchievements.map(ach => renderAchievement(ach, true)).join('')}
-            ` : ''}
-            
-            ${lockedAchievements.length > 0 ? `
-                <h3 class="achievements-section-title locked-title">Locked Achievements</h3>
-                ${lockedAchievements.map(ach => renderAchievement(ach, false)).join('')}
-            ` : ''}
+            <div class="sort-controls">
+                <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="window.setSortMode('rarity-asc')" data-tooltip="Rarest First">
+                    🏆↑
+                </button>
+                <button class="sort-button ${sortMode === 'rarity-desc' ? 'active' : ''}" onclick="window.setSortMode('rarity-desc')" data-tooltip="Most Common First">
+                    🏆↓
+                </button>
+                <button class="sort-button ${sortMode === 'date-newest' ? 'active' : ''}" onclick="window.setSortMode('date-newest')" data-tooltip="Newest First">
+                    🕐↓
+                </button>
+                <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="window.setSortMode('date-oldest')" data-tooltip="Oldest First">
+                    🕐↑
+                </button>
+                ${sortMode !== 'default' ? `<button class="sort-button" onclick="window.setSortMode('default')" data-tooltip="Reset Sorting">↺</button>` : ''}
+            </div>
+
+            ${achievementsHTML}
         </div>
     `;
 }
