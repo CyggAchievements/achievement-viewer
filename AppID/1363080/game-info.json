@@ -1,0 +1,98 @@
+{
+  "appid": "1363080",
+  "name": "Manor Lords",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1766159081",
+  "achievements": {
+    "ACH_CHALLENGE_ACCEPTED": {
+      "name": "Challenge accepted",
+      "description": "Beat \"Restoring the peace\" on \"Challenging\" difficulty preset.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/21dab1f36cd98a8a82c9e131fa1aec5286845d7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/0a3fcd6ecc4bdf57861abd6cfcf0a6c3d2c1efa0.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACH_LARGE_TOWN": {
+      "name": "Cheerful Metropolis",
+      "description": "Reach 100% approval in a \"large town\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/1c9a77fe650477352dfbed54cacae138306aff67.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/3d00561ba5f125a0a0c1dcd40417552783092374.jpg",
+      "hidden": false,
+      "percent": "12.6"
+    },
+    "ACH_DEFEAT_THE_BARON": {
+      "name": "Defeat Hildebolt",
+      "description": "Defeat the baron in the \"Restoring the peace\" scenario.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/a38d082a54d54a8b909f379ed8884d79f178e6ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/2bc1e536db2adcd9f873e74ba501aa46a4e9a96d.jpg",
+      "hidden": false,
+      "percent": "16.0"
+    },
+    "ACH_BELLS": {
+      "name": "For Whom the Bell Tolls",
+      "description": "Change the church bell sound.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/7de4b7018e450e8fa541bb98d7851ce22d6790a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/256cb5e52b92308ed861d0a559c4e3ec038d5f4f.jpg",
+      "hidden": false,
+      "percent": "62.7"
+    },
+    "ACH_FULL_RETINUE": {
+      "name": "Full Retinue",
+      "description": "Employ 24 retainers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/d425e3268d1116757ed9f23b10b7373c563e3b4a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/486d48b0aed12ad401c14ece42258ec23fea5a1d.jpg",
+      "hidden": false,
+      "percent": "16.3"
+    },
+    "ACH_MERCENARY_CAPTAIN": {
+      "name": "Mercenary Captain",
+      "description": "Beat \"Restoring the peace\" with Mercenary units only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/79143821b4a5d99df16e1751b76dcdc044432694.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/71e49b877a2940ac38140de7fb0ad5f101cab1ed.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACH_RESTORE_THE_PEACE": {
+      "name": "Restore the Peace",
+      "description": "Finish the \"Restoring the peace\" scenario",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/c067399ca345e625995e85f9cd8e701f3f0fd628.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/e1ffbf4c74c183d9403d99dd9bacec5575c7ce32.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "ACH_START": {
+      "name": "Start the game",
+      "description": "Big success!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/4312653a78f03069b0406eafcbb7b91e9d8c9138.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/2802701e1978da08611062d54b3abd6e3b8b7c9e.jpg",
+      "hidden": false,
+      "percent": "99.4"
+    },
+    "ACH_SURVIVE_YEAR": {
+      "name": "Survive the first year",
+      "description": "Face the winter and have your settlers not abandon you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/ff76f7a4718585052766c6ce995a5bce2653d36a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/50e51bb2e304c1dd1786ab7e4c6d84a461ec8248.jpg",
+      "hidden": false,
+      "percent": "79.4"
+    },
+    "ACH_THE_MERCHANT": {
+      "name": "The merchant",
+      "description": "Get to a \"small town\" settlement level without hunting or gathering berries.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/8c403286b216129cd9c47f9f3e0959d6c04584b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/19bf34ca1374b78a27b3a199e65745e5027f7556.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "ACH_VIGILANTES": {
+      "name": "The vigilantes",
+      "description": "Destroy a squad of brigands with a squad of militia in a non battle game mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/5f563a691615fe509e436a8ff37ef11491a89c00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/4afe8e111587767f07e55caa6790361bc6a0615a.jpg",
+      "hidden": false,
+      "percent": "35.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

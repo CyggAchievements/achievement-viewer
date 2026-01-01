@@ -1,0 +1,90 @@
+{
+  "appid": "1012790",
+  "name": "Into the Radius VR",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012790/header.jpg?t=1763558513",
+  "achievements": {
+    "ACHIEVEMENT_BARREL": {
+      "name": "Classic Move",
+      "description": "Kill an enemy with a gas cylinder explosion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/443300b0f8f5b0782af6c0ad3a96c4fbb5217c29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/89bd3fd06577099e2cb60a1c9e5cb248fc43dc1b.jpg",
+      "hidden": true,
+      "percent": "12.8"
+    },
+    "ACHIEVEMENT_LORE": {
+      "name": "Ground Control",
+      "description": "Find all audio logs on the history of the Radius",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/d261c4f0d01f43383526c02e16fa255b1258b8ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/eb23e6fe4680a16b1aa2aa61d68dd8aa98189f3b.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "ACHIEVEMENT_DARKNESS": {
+      "name": "Hello, Darkness",
+      "description": "Die in the Radius for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/a87fc0da10584a27176f488f81d006160384be82.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/9f4f30293803d10153f54783a19bc9596e9843b5.jpg",
+      "hidden": false,
+      "percent": "53.7"
+    },
+    "ACHIEVEMENT_CRANE": {
+      "name": "Hoistman",
+      "description": "Climb up the crane, kamikaze",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/ec2023cade2c6b3a9f6a8d70ed7a5c40aae58b2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/9e30a9322d819109d62ddfc808b102f8bb14a252.jpg",
+      "hidden": false,
+      "percent": "15.5"
+    },
+    "ACHIEVEMENT_IRONMAN": {
+      "name": "Immortal Soul",
+      "description": "Complete the game in Ironman Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/9a5452978a1dc67b3f658a53a5c4229b138b27bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/330f473325d81d78315d2eae900abc72df3ac854.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_300": {
+      "name": "Impeccable Shot",
+      "description": "Take down an enemy from a 200-meter distance",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/ed28a6f7757d6f68bee754062d6fb195c140561b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/5f7b4db4ce49107b5377c451a8761731221cb416.jpg",
+      "hidden": true,
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_BLOODY_BUDDY": {
+      "name": "My Bloody Buddy",
+      "description": "Buy your first weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/3fc02508d01ce4055a576ca91d53cae5efccbce9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/ce4aa697bd1467c61ec55058a01ea5c0738a2aad.jpg",
+      "hidden": false,
+      "percent": "35.9"
+    },
+    "ACHIEVEMENT_KILLHOUSE": {
+      "name": "Sharp Shooter",
+      "description": "Complete the Killhouse Сhallenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/adf58c1ac1b362f6563aa27ebe3c7dc4ee8943cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/42667a1dfb034ba356c92b54ce5f1120edf4150b.jpg",
+      "hidden": true,
+      "percent": "12.8"
+    },
+    "ACHIEVEMENT_ARTIFACTS": {
+      "name": "Shine Bright",
+      "description": "Collect all types of Artifacts in the Radius",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/b4bcabbd8b5dc9371c263e41161d5e4bdba9821e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/d7890189f724c3818049c51f33ac513874b2f970.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "ACHIEVEMENT_STOMPER": {
+      "name": "Unseen Danger",
+      "description": "Take damage from Stomper",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/da9cd794bacb47cc6dd9d8235500436fc047dd48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012790/e4e1e22389ff571e68d05e40a630a35ea5b9cb30.jpg",
+      "hidden": true,
+      "percent": "9.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,370 @@
+{
+  "appid": "2059670",
+  "name": "Moss: Book II",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059670/header.jpg?t=1766074520",
+  "achievements": {
+    "ACH_MOSS2_TUTORIAL_HEAL": {
+      "name": "A Friend Indeed",
+      "description": "Use your power as a Reader to heal Quill for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/8e890dbe388d1cf53904eb71ebb59337e3f30a8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "80.5"
+    },
+    "ACH_MOSS2_HALF_RELICDUST": {
+      "name": "A Light Dusting",
+      "description": "Collect half of the Relic Dust.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/a8145b18c9fe4e93676e48a785c903d39f273bcb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "35.2"
+    },
+    "ACH_MOSS2_BOND_4": {
+      "name": "A Realm Grown Complacent",
+      "description": "Discover a sealed door to another realm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/df83d793662bdce1327f0d44982fab60927ffa48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "19.4"
+    },
+    "ACH_MOSS2_ENEMY_INTERCEPT": {
+      "name": "Ablative Armor",
+      "description": "Use a controlled Forged enemy to block an attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/945a8b4d7d0fed4ce8d38cbb2045e186d05f3af1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "23.7"
+    },
+    "ACH_MOSS2_PLOT_HAMMER": {
+      "name": "Arm Day",
+      "description": "Acquire Cariel's Hammer in the Foundry.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/eb140fe02a3fc1c541055bd4ebc865f534cee075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "32.1"
+    },
+    "ACH_MOSS2_BOND_3": {
+      "name": "Babe With the Power",
+      "description": "Charge Quill's weapon while in alternate gravity.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/63425f0ac158b3e6334cd78a42f4b3e522bb3608.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "29.1"
+    },
+    "ACH_MOSS2_ENEMY_TICKER": {
+      "name": "Chain Reaction",
+      "description": "Destroy a Ticker with a controlled Ticker.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/4a76f11e2629fe2183b6201f92c671b6cace81ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "39.0"
+    },
+    "ACH_MOSS2_WINDOW_ALL": {
+      "name": "Curator",
+      "description": "Restore all of the stained glass windows.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/b28aa8cb7bc3aeaa37dae487df77ae0965e03b06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "4.4"
+    },
+    "ACH_MOSS2_RELICDUST": {
+      "name": "Dust Buster",
+      "description": "Collect all of the Relic Dust.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/f176c81e962b1ee77330f31da59013206e60ada9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "ACH_MOSS2_WINDOW_THREE": {
+      "name": "Eternal Light",
+      "description": "Restore three stained glass windows.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/5b41edc1dd5e14ea975d04b02722443b119db9b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "13.9"
+    },
+    "ACH_MOSS2_BOSS_WARDEN": {
+      "name": "Forged in the Deep",
+      "description": "Defeat the Warden in the Foundry.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ba859ffa6bf2c70e89d14e0ce12d07cc46bd67f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "30.2"
+    },
+    "ACH_MOSS2_ENEMY_SCREECHER": {
+      "name": "From Whence You Came",
+      "description": "Knock a Screecher off a ledge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/260fdef61d09f80cc9ecf894bdfc25d2ddde83c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "42.5"
+    },
+    "ACH_MOSS2_BOND_2": {
+      "name": "Glow Up",
+      "description": "Give Quill a new look.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/5a2082fe05389eedbc501e0c2c337f960326a24d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "54.8"
+    },
+    "ACH_MOSS2_PLOT_NATUREATTUNE": {
+      "name": "Green Thumb",
+      "description": "Acquire the Nature Attunement ability in the Sprite Realm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/649b3bd85f16e6ba6c577d6fa511488392887ba1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "57.9"
+    },
+    "ACH_MOSS2_ENEMY_SCORCHER": {
+      "name": "High Noon",
+      "description": "Destroy a Scorcher with a controlled Scorcher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/034790b2db418dda92a99f97848ab72c96b8032e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "14.9"
+    },
+    "ACH_MOSS2_INCREMENTAL1": {
+      "name": "It's like bubble wrap.",
+      "description": "Use your power as a Reader to break many objects.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c9f72de05b7cc91fa7f93709a4b193440f282e72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "16.6"
+    },
+    "ACH_MOSS2_BOSS_CONSERVATORY": {
+      "name": "Keeper of the Hex",
+      "description": "Defeat the Keeper in the Conservatory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/4dfa48725548636759674d722f6a583f8af88996.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "39.9"
+    },
+    "ACH_MOSS2_INCREMENTAL2": {
+      "name": "Lawnmower Mouse",
+      "description": "Use Quill's sword to cut down a lot of grass.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/a9468e4bbeb27ab7fdae7e5e2943c9873ca4159c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "3.7"
+    },
+    "ACH_MOSS2_ENEMY_LOBBER": {
+      "name": "Minesweeper",
+      "description": "Destroy a Forged enemy with a controlled Bomber.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/285071ec7894fca92282d2b1719a5af1c24b5fb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "33.3"
+    },
+    "ACH_MOSS2_ENEMY_ARMORED": {
+      "name": "Nutcracker",
+      "description": "Destroy an Armored Screecher with a piston.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/20845dae09d166aec2f875ec402256f48cbf51cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "4.4"
+    },
+    "ACH_MOSS2_DUSTDOOR_ONE": {
+      "name": "Obtainer of Rare Antiquities",
+      "description": "Enter your first Relic Shrine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/f389fc36f14e586654e25b2a2e63495d39096a52.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "54.9"
+    },
+    "ACH_MOSS2_WEAPON_SWORD": {
+      "name": "Poetry In Motion",
+      "description": "Defeat three Forged enemies with a single Sword Dash attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/0782ee1c0a9a3022d6ebbecfbe977c95d1d63885.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "6.2"
+    },
+    "ACH_MOSS2_BOND_5": {
+      "name": "Quick-Change Artist",
+      "description": "Destroy Forged enemies using each weapon in quick",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c3f5cce7b37aa88c1a0cd60268a3a6ab1393a9bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "11.2"
+    },
+    "ACH_MOSS2_WINDOW_ONE": {
+      "name": "Restoration",
+      "description": "Restore one stained glass window.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c4a21a6db5f2f9b39d83d445f59ee8ac807409b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "41.1"
+    },
+    "ACH_MOSS2_ENEMY_PILLBUG": {
+      "name": "Rollin' Rollin' Rollin'",
+      "description": "Keep a controlled Ripper rolling continuously.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/9cb97aba1a57470b1034c22520ff3d38f2939d53.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "46.0"
+    },
+    "ACH_MOSS2_BOND_1": {
+      "name": "Tailspin",
+      "description": "Make Quill dizzy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/35039d13be5ae0c60b8239e21c4d48554f3d0334.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACH_MOSS2_TUTORIAL_FIGHT": {
+      "name": "The Battle Begins",
+      "description": "Defeat the Screechers on the way to the throne.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/bdd1354e9c99f5c0420c0ac3fc1968fcf5ba1808.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/02063d1d25bf0e00b9d311115f0e657a9fd5e4d1.jpg",
+      "hidden": false,
+      "percent": "78.3"
+    },
+    "ACH_MOSS2_LOCATION_CASTLE": {
+      "name": "The Castle",
+      "description": "Enter the Castle alongside Quill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/bf2763c5b5bad293020b24bc1c3a353c11268467.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "89.3"
+    },
+    "ACH_MOSS2_LOCATION_CONSERVATORY": {
+      "name": "The Conservatory",
+      "description": "Enter the Conservatory alongside Quill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/08582e37460ce5870325e343731dc33729eeb90f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "46.4"
+    },
+    "ACH_MOSS2_LOCATION_DEPTHS": {
+      "name": "The Depths",
+      "description": "Enter the Depths alongside Sahima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ae94f3e2d7190aca103df864fb0ad97d7fa81900.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "33.9"
+    },
+    "ACH_MOSS2_LOCATION_FOUNDRY": {
+      "name": "The Foundry",
+      "description": "Enter the Foundry alongside Quill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/dc61be0353c3a1dd83a3641131d9b7cf781e2c20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "32.6"
+    },
+    "ACH_MOSS2_LOCATION_GARDEN": {
+      "name": "The Garden",
+      "description": "Enter the Garden alongside Quill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c0354bc564afa3296db36abae38a23b57cc194cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "48.6"
+    },
+    "ACH_MOSS2_LOCATION_MOUNTAINS": {
+      "name": "The Mountains",
+      "description": "Meet Sahima in the Mountains.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/60646d4660461f586df5f4b2b1b4d817d6db3264.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "37.7"
+    },
+    "ACH_MOSS2_LOCATION_PINNACLE": {
+      "name": "The Pinnacle",
+      "description": "Ascend to the Pinnacle alongside Quill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/dd08e905d1f4a1533091a5ba3308620d72078669.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "29.3"
+    },
+    "ACH_MOSS2_LOCATION_SPRITEREALM": {
+      "name": "The Sprite Realm",
+      "description": "Enter the Sprite Realm alongside Quill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/e6b9ec0b097d2b54ebf3dd06bf38469ece514516.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "65.6"
+    },
+    "ACH_MOSS2_WEAPON_CHAKRAM": {
+      "name": "There and Back Again",
+      "description": "Strike a Forged enemy twice with the same Charged Chakram attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ff6c925e8903ee92a22b3411becbdd5be58b9bf8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "32.7"
+    },
+    "ACH_MOSS2_WEAPON_HAMMER": {
+      "name": "Thimble-Sized Thor",
+      "description": "Defeat three Forged enemies with a single Hammer Trap attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/dd617aa879b950a928e42e17689274b252db3576.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "18.0"
+    },
+    "ACH_MOSS2_BOSS_TYLAN": {
+      "name": "Torched Wings",
+      "description": "Defeat the Owl Tylan in the Pinnacle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/165b3a3ad237192676fc383b84c053fe8c82cb72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "27.7"
+    },
+    "ACH_MOSS2_BOND_REUNITED": {
+      "name": "Unbreakable Bond",
+      "description": "Reunite with Quill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/f95a9fad55a850d49223ab027adb99a0bb91c156.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "33.2"
+    },
+    "ACH_MOSS2_DUSTDOOR_THREE": {
+      "name": "We Call This Archaeology",
+      "description": "Enter the last Relic Shrine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ac2a22eee13267e3f78497b031854ae9e1b477b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "20.7"
+    },
+    "ACH_MOSS2_SCROLL_FIRST": {
+      "name": "What Was Lost",
+      "description": "Discover your first Forgotten Fragment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/d363ce57f6ccf9136f27de5b0562de7dfaa6a207.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "83.1"
+    },
+    "ACH_MOSS2_PLOT_CHAKRAM": {
+      "name": "Whistle While You Work",
+      "description": "Use the Charged Chakram ability in the Mountains.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/fcbbc09abcfa7f0b5d3aa7d3eccf1b9a586d42bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "37.6"
+    },
+    "ACH_MOSS2_BOND_6": {
+      "name": "With Friends Like These",
+      "description": "Journey with Sahima without a single death.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/e9b77fd38ca1093cc668b5d664bb8374c80a7240.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "1.3"
+    },
+    "ACH_MOSS2_GAMECOMPLETE": {
+      "name": "You Saved Moss",
+      "description": "Finish the second book of Moss.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/9d477108ec449ca9319179611e61e3efb76e12a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": false,
+      "percent": "27.7"
+    },
+    "ACH_MOSS2_PLOT_SWORDDASH": {
+      "name": "Zoom Zoom",
+      "description": "Acquire the Sword Dash ability in the Conservatory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/a455949d6653c5cea7448642d3acc6ecd17292a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
+      "hidden": true,
+      "percent": "44.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

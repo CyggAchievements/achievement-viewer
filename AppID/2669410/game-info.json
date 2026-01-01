@@ -1,0 +1,218 @@
+{
+  "appid": "2669410",
+  "name": "Metro Awakening",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/121346be34c54e123ded376ce25c752b321937ae/header.jpg?t=1766049864",
+  "achievements": {
+    "AGlitchInTheSystem": {
+      "name": "A Glitch in the System",
+      "description": "See the same collapse happen twice.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/d4e1a01b81630af5ebd27496165ec9558ee87a23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/d907aae00000702366c946806ccddaf2cf183dba.jpg",
+      "hidden": false,
+      "percent": "50.3"
+    },
+    "AManOfGreatWorth": {
+      "name": "A Man of Great Worth",
+      "description": "Become Khan.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/5f7c9cb5928d3c9573f3c1b337c835c71e9f5ecb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/ed3d43a7f5d8052101329a5fc4f6b1ee5393cb72.jpg",
+      "hidden": true,
+      "percent": "13.8"
+    },
+    "AWindowIntoThePast": {
+      "name": "A Window into the Past",
+      "description": "Find a postcard.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/dbf5ad5fe4659a721ee4652de4011913c3af90b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/b2758f8cdb640aed51923a0c44b2e4df1104c3ed.jpg",
+      "hidden": false,
+      "percent": "51.0"
+    },
+    "AnOmen": {
+      "name": "An Omen",
+      "description": "Meet the shaman.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/c7c03b17626d3f7e8eac90474f1c98be9195a501.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/dec544c4fbfb28521c71fdf129219cbddc6154af.jpg",
+      "hidden": false,
+      "percent": "19.4"
+    },
+    "Bandana": {
+      "name": "Bandana",
+      "description": "Find Petya.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/cdf5b12db0798ee0b54748ccb027e6d4bed2938d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/5f2b3663342cc5ecc66b2e1eb992013e8d114c85.jpg",
+      "hidden": false,
+      "percent": "16.9"
+    },
+    "DownTheRabbitHole": {
+      "name": "Down the Rabbit Hole",
+      "description": "Have a tea party with friends.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/97d8b920e693fba00005f54a9a6ad0c0160e8501.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/518fa2a13ffda7e37f8798241196ee4f02f4b2d9.jpg",
+      "hidden": false,
+      "percent": "19.7"
+    },
+    "EndOfTheLine": {
+      "name": "End of the Line",
+      "description": "Reach the Terminus station.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/08413b1c023d8a2d1e678946a75d789fd39ad730.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/b5c573267bd2f09a2f37cc9260a7b8aafdff867c.jpg",
+      "hidden": false,
+      "percent": "14.8"
+    },
+    "InstantHangover": {
+      "name": "Instant Hangover",
+      "description": "Use a bottle to knock out an enemy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/940c28b08783cf5037cc14e733c37d0cc3f055ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/a54e9fb4fdc95fe11dc4cedbbb75d6d5902a56c4.jpg",
+      "hidden": false,
+      "percent": "4.0"
+    },
+    "LockedAndLoaded": {
+      "name": "Locked and Loaded",
+      "description": "Go out on a mission to help your wife.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/d86c9d049ddc70c16390c5b3d30da5b9d4fbc7f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/ac1943a2437bdc046d5e01aefbaa406ff2fa1a65.jpg",
+      "hidden": false,
+      "percent": "67.0"
+    },
+    "LostAndFound": {
+      "name": "Lost and Found",
+      "description": "Retrieve something that was taken from you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/a8d707ab6fc113474db507dc816056380fca3d60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/67cde33b22f0c58be0ae452f259af368147ab428.jpg",
+      "hidden": false,
+      "percent": "29.1"
+    },
+    "NoSpace": {
+      "name": "No Space for a Treehouse",
+      "description": "In the home station, find the children's secret hideout.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/175ce54ca7ace87b017e2a2369ed7b8cb4346f45.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/4346d4e7ea7b18377de7175d9f41bbad33c9a07d.jpg",
+      "hidden": true,
+      "percent": "4.2"
+    },
+    "NotJustDejaVu": {
+      "name": "Not Just Déjà Vu",
+      "description": "Bring an object from a hypnotic dream back to the real world.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/38615e39181b0a94cfae1506d6eb8144b690dabe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/aa9123f11c85247109a8d3da82d79b978ac3e659.jpg",
+      "hidden": true,
+      "percent": "0.5"
+    },
+    "NowIHaveAMachineGun": {
+      "name": "Now I Have a Machine Gun Ho-Ho-Ho",
+      "description": "After getting imprisoned, kill all slavers on the platform before retrieving your gear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/e9796000687d76d9e935574b55eb904c97b18d72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/f2e6bd647d7f92059f61ec22138075ee4564b9c9.jpg",
+      "hidden": true,
+      "percent": "1.3"
+    },
+    "ReturnToSender": {
+      "name": "Return to Sender",
+      "description": "Retrieve a Helsing bolt from 6 killed enemies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/185cf0ad92b65b44f4673b06ff47d0864ca13346.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/c8964f42392c87441842ef30474d2c6ca2c4f184.jpg",
+      "hidden": false,
+      "percent": "17.6"
+    },
+    "SoftTissue": {
+      "name": "Soft Tissue",
+      "description": "Hit Nosalises in their weakspots 30 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/1bb6d093a1ccdc7c06de795ba7e13f78924c4487.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/fd1dac84cc8ccd6de38abb524a4f889b23f781e2.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "Spartan": {
+      "name": "Spartan",
+      "description": "Complete the game on hardcore difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/2e0109e1b4010053882c97db6d5140c79530e1db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/9913cff7eb378b408759ee169ff432bf83c31f7b.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "SpringCleaning": {
+      "name": "Spring Cleaning",
+      "description": "Burn all blocking cobwebs in the labyrinth on your first visit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/c978ce2556a474605f7a96e3266e8a181020ab37.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/e7f2e1799a0dbd831b5f4639f124f9cedf5d3161.jpg",
+      "hidden": false,
+      "percent": "10.8"
+    },
+    "SurgicalPrecision": {
+      "name": "Surgical Precision",
+      "description": "Kill 25 humans with a headshot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/4f1a8492bcaeb8c3d028f4678cf2bece5b048ca7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/7c32996d1cf2641ff833fdb9a58d2300b7e308d8.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "TheScouring": {
+      "name": "The Scouring of Akademicheskaya",
+      "description": "Return home during darker times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/015f28f50bfc2a66e8cd41414077816a90a44b4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/2debcdf65c605851cfe879d26c4460c95014b1d6.jpg",
+      "hidden": false,
+      "percent": "19.0"
+    },
+    "TheWay": {
+      "name": "The Way to a Woman’s Heart",
+      "description": "Eugenia opened up to you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/37e8e6038e1dbb7f74fb906bc03ae52224eda444.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/c02f76a13c7b83dbd9709fae4d6bc9c830df0ea5.jpg",
+      "hidden": false,
+      "percent": "33.1"
+    },
+    "ThreadingANeedle": {
+      "name": "Threading a Needle",
+      "description": "Kill an elite slaver with a single headshot through their visor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/b01dafe77f921b84a66c32f146118e2433d7b2ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/8f742129ecf8afa43ccbc2d00c3300237e204ea7.jpg",
+      "hidden": false,
+      "percent": "27.9"
+    },
+    "TiliTiliBom": {
+      "name": "Tili Tili Bom",
+      "description": "Follow the singing pipes all the way to the metro tunnel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/f95b518ac20fc3c31711edd20929ec3c267507fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/a1d047760cda8b52d8ed65acc2f00f3e2a6fa772.jpg",
+      "hidden": false,
+      "percent": "20.6"
+    },
+    "UnresolvedBusiness": {
+      "name": "Unresolved Business",
+      "description": "Free the people locked inside an old train cart.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/23d0fb11c311e9b72534f20343f0329dfbf18c1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/ff88c758c2ab53a37e0104092c3d42278055b8aa.jpg",
+      "hidden": false,
+      "percent": "25.5"
+    },
+    "HippocraticOath": {
+      "name": "Upholding the Hippocratic Oath",
+      "description": "In a single playthrough, complete all stealth sections without killing any human enemies or getting seen.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/b7a9480f274aa518257779d7332561256fd9647c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/69a40a30d420e0d7718d149d2d6dad0e24a575eb.jpg",
+      "hidden": false,
+      "percent": "0.3"
+    },
+    "WelterweightChampion": {
+      "name": "Welterweight Champion",
+      "description": "Take out 5 enemies using a melee knockdown.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/bf580af90875c37759b58a68b694087df411a0eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/11f4aad47f54c19ca8fcaf977b865403c12facc2.jpg",
+      "hidden": false,
+      "percent": "29.9"
+    },
+    "WorldTour": {
+      "name": "World Tour",
+      "description": "Collect all 33 postcards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/93c3ae39cf7ff075ac1bdc0685e7826c12313f06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/ee9fbfc5c612ff3e4ab3fb3580b046f079c62021.jpg",
+      "hidden": false,
+      "percent": "0.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
