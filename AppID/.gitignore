@@ -1,14 +1,7 @@
-# Ignore everything in all subdirectories of AppID
-*/*
-
-# Do not ignore the directories themselves
-!*/
-
-# Whitelist specific files inside those subdirectories
-!*/achievements.json
-!*/game-info.json
-!*/*.platform
-!*/*.db
-
-# Keep this gitignore file tracked
+*
+!**/
 !.gitignore
+!achievements.json
+!game-info.json
+!*.platform
+!*.db
