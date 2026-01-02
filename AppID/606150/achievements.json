@@ -1,229 +1,229 @@
 {
-    "Gotta Go fast!": {
+    "BEAT_GAME_UNDER_TIME": {
         "earned": true,
         "earned_time": 1721934362
     },
-    "Hero or Merchant?": {
+    "FINISH_GAME": {
         "earned": true,
         "earned_time": 1721934362
     },
-    "Careful Merchant": {
+    "COMPLETE_GAME_UNDER_DEATHS": {
         "earned": true,
         "earned_time": 1721934362
     },
-    "Unplug the Energy!": {
+    "DEFEAT_TECH_BOSS": {
         "earned": true,
         "earned_time": 1721933671
     },
-    "Archeologist": {
+    "ALL_CRAZY_PETE_NOTES": {
         "earned": true,
         "earned_time": 1721932127
     },
-    "Wasteful Merchant": {
+    "BUY_ITEMS_RIVAL": {
         "earned": true,
         "earned_time": 1721930825
     },
-    "Rynoka's Major!": {
+    "ALL_TOWN_BOARD_IMPROVEMENTS": {
         "earned": true,
         "earned_time": 1721924898
     },
-    "Emporium": {
+    "SHOP_LAST_VERSION": {
         "earned": true,
         "earned_time": 1721924888
     },
-    "Behead the Snake!": {
+    "DEFEAT_DESERT_BOSS": {
         "earned": true,
         "earned_time": 1721924488
     },
-    "Luxury": {
+    "SHOP_FOURTH_VERSION": {
         "earned": true,
         "earned_time": 1721888302
     },
-    "Prune the Plant!": {
+    "DEFEAT_FOREST_BOSS": {
         "earned": true,
         "earned_time": 1721887771
     },
-    "Sanitary System": {
+    "EARN_POTIONS_BREAKABLES": {
         "earned": true,
         "earned_time": 1721886719
     },
-    "Saver++": {
+    "GOLD_QUANTITY_III": {
         "earned": true,
         "earned_time": 1721884344
     },
-    "Naive Merchant": {
+    "SELL_ITEMS_CHEAP_TIMES": {
         "earned": true,
         "earned_time": 1721882531
     },
-    "Scammer": {
+    "SELL_ITEMS_EXPENSIVE_TIMES": {
         "earned": true,
         "earned_time": 1721831445
     },
-    "Expansion": {
+    "SHOP_THIRD_VERSION": {
         "earned": true,
         "earned_time": 1721831194
     },
-    "Saver+": {
+    "GOLD_QUANTITY_II": {
         "earned": true,
         "earned_time": 1721830995
     },
-    "Overthrow the King!": {
+    "DEFEAT_GOLEM_BOSS": {
         "earned": true,
         "earned_time": 1721830223
     },
-    "First Investment": {
+    "SHOP_SECOND_VERSION": {
         "earned": true,
         "earned_time": 1721825604
     },
-    "Evil Merchant": {
+    "SELL_ITEMS_OVERPRICED_TIMES": {
         "earned": true,
         "earned_time": 1721821618
     },
-    "Good Merchant": {
+    "SELL_ITEMS_PERFECT_TIMES": {
         "earned": true,
         "earned_time": 1721772877
     },
-    "Saver": {
+    "GOLD_QUANTITY_I": {
         "earned": true,
         "earned_time": 1721771786
     },
-    "Special Place": {
+    "CRAZY_PETE_SPECIAL_PLACE": {
         "earned": true,
         "earned_time": 1721771014
     },
-    "Horde Mode": {
+    "3_WAVES_SECRET_ROOM": {
         "earned": false,
         "earned_time": 0
     },
-    "100%": {
+    "ALL_ACHIEVEMENTS": {
         "earned": false,
         "earned_time": 0
     },
-    "Decorative Mind": {
+    "ALL_DECORATIVE_ITEMS": {
         "earned": false,
         "earned_time": 0
     },
-    "Scribe": {
+    "COMPLETE_NOTEBOOK": {
         "earned": false,
         "earned_time": 0
     },
-    "Heavy Warrior": {
+    "CRAFT_ALL_BIG_SWORDS": {
         "earned": false,
         "earned_time": 0
     },
-    "Distant Warrior": {
+    "CRAFT_ALL_BOWS": {
         "earned": false,
         "earned_time": 0
     },
-    "Berserk Warrior": {
+    "CRAFT_ALL_GLOVES": {
         "earned": false,
         "earned_time": 0
     },
-    "Balanced Warrior": {
+    "CRAFT_ALL_SHORT_SWORDS": {
         "earned": false,
         "earned_time": 0
     },
-    "Piercing Warrior": {
+    "CRAFT_ALL_SPEARS": {
         "earned": false,
         "earned_time": 0
     },
-    "Weapon Master": {
+    "CRAFT_ALL_WEAPONS": {
         "earned": false,
         "earned_time": 0
     },
-    "There Is No Avarice Without Penalty": {
+    "DEATH_INVENTORY_FULL": {
         "earned": false,
         "earned_time": 0
     },
-    "Desert Enthusiast": {
+    "DESERT_THIRD_FLOOR_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Does It Grow on Trees?!?": {
+    "MONEY_TREE_ONCE": {
         "earned": false,
         "earned_time": 0
     },
-    "Really?!?": {
+    "MONEY_TREE_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "It Takes a Thief to Catch a Thief": {
+    "EARN_MONEY_BANKER_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Going for Supplies...": {
+    "EMBLEM_BEFORE_BOSS": {
         "earned": false,
         "earned_time": 0
     },
-    "No Secrets": {
+    "FIND_SECRET_ROOM_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Forest Enthusiast": {
+    "FOREST_THIRD_FLOOR_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Greedy": {
+    "GOLD_QUANTITY_IV": {
         "earned": false,
         "earned_time": 0
     },
-    "Golem Enthusiast": {
+    "GOLEM_THIRD_FLOOR_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Savage!": {
+    "KILL_A_LOT_OF_ENEMIES": {
         "earned": false,
         "earned_time": 0
     },
-    "Janitor": {
+    "KILL_BOSSES_BROOM": {
         "earned": false,
         "earned_time": 0
     },
-    "Exterminator": {
+    "KILL_BUGS_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Rage Against the Desert": {
+    "KILL_DESERT_ENEMIES_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Rage Against the Forest": {
+    "KILL_FOREST_ENEMIES_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Rage Against the Golems": {
+    "KILL_GOLEM_ENEMIES_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Rage Against the Machinery": {
+    "KILL_TECH_ENEMIES_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Perfect Naja": {
+    "PERFECT_DESERT_BOSS": {
         "earned": false,
         "earned_time": 0
     },
-    "Perfect Carnivorous Mutae": {
+    "PERFECT_FOREST_BOSS": {
         "earned": false,
         "earned_time": 0
     },
-    "Perfect Golem King": {
+    "PERFECT_GOLEM_BOSS": {
         "earned": false,
         "earned_time": 0
     },
-    "Perfect Energy Flux": {
+    "PERFECT_TECH_BOSS": {
         "earned": false,
         "earned_time": 0
     },
-    "Tech Enthusiast": {
+    "TECH_THIRD_FLOOR_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Distracted Merchant": {
+    "VISITORS_RUN_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Slime Protection Service": {
+    "WITCH_SLIME_HIT_TIMES": {
         "earned": false,
         "earned_time": 0
     }
