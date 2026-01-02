@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/66810e4e14bc9f282b72fbc981606f028f72c16d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/932774b73452f24bfdb1d3c39848224b6093a34f.jpg",
       "hidden": false,
-      "percent": "60.7"
+      "percent": "60.6"
     },
     "Trophy_Title_02": {
       "name": "He Wouldn't Betray Us",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/ead5e545ca9011dd6462d584afa2ef102ad08798.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1608070/8dbee07ade1b033f2a72d3c6d5b8bb0d7ccfaf58.jpg",
       "hidden": false,
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "Trophy_Title_39": {
       "name": "Slicin' SOLDIER",
@@ -412,7 +412,7 @@
       "percent": "14.7"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }

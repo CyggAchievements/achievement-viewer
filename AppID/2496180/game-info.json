@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/b1c084db027a62a0dff0d8d183523b014189e6d3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/23e660fff64e7c504e34b898bc0d0dde3433cb4a.jpg",
       "hidden": true,
-      "percent": "65.4"
+      "percent": "65.5"
     },
     "Last_Collectable": {
       "name": "Collector",
@@ -89,10 +89,10 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/dd20a4424d6a82d51bfd5ce5b19785be7a88312e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/84c1c916ccd8a7b0a2f45697d4990c204164f491.jpg",
       "hidden": true,
-      "percent": "87.8"
+      "percent": "87.9"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": false
 }

@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/0075a4b0c304528b286055339b55fbc3756f24cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3c96c9096981d6294b791fadfd737e459c4927e8.jpg",
       "hidden": false,
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "Pal_Achievement_31": {
       "name": "Blood and Iron",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3068ecbb6c6339587646b92db5f41f58aaffa03a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/1c8074278f73364c75c0d7bdc2b331cad6bb2096.jpg",
       "hidden": false,
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "Pal_Achievement_20": {
       "name": "Dark Knight of Legend",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/00ba9ee82e34232e8e772f6bcf0fc8fbfa358612.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/b2ab33d68f678964cc34a11f45f27876d3b72317.jpg",
       "hidden": true,
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "Pal_Achievement_3": {
       "name": "Desert Sovereign",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/456e89be03e74b450597e88e0886cb62c26ebe4e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/873efeab09c76d86a2567c181fb8a95f8d3f4744.jpg",
       "hidden": false,
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "Pal_Achievement_41": {
       "name": "Junior Surveyor",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/baca73e0b97c9c664f8649570f55b3f019e4e6b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/5499364727ef53479ffdb04d429ed8d3c1920a50.jpg",
       "hidden": false,
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "Pal_Achievement_7": {
       "name": "Newbie Pal Tamer",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/5b1a157ce19a9d5e588bbad433f16ad9daf9d82e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/1435e920d4a6181482412ddd70c90a7ae16cd35b.jpg",
       "hidden": false,
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "Pal_Achievement_16": {
       "name": "Overhunting",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/546949a3dae68ab89104fa2611ebb40e9c8d525b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/71c07c71562568390da4fffe5cf7403cdf169342.jpg",
       "hidden": false,
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "Pal_Achievement_42": {
       "name": "Senior Surveyor",
@@ -457,10 +457,10 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/b956caa29cdb30af1de837ecedbdb50862c2fb4a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3c1563349e7b1e2d8cc4208e6b23cd00c5a4b88c.jpg",
       "hidden": true,
-      "percent": "27.0"
+      "percent": "27.1"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": false
 }

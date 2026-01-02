@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/21384e6a59fad11415e1a1e6663d03f7b0a77920.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4353002cb39427f16c4b0492e6894a1bf83656bb.jpg",
       "hidden": false,
-      "percent": "70.3"
+      "percent": "70.4"
     },
     "ACH038_NAME": {
       "name": "A Skilled Hand",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a4caf26f16aed2139f72d14c7ff048f9f4022883.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d001d7f1ee3dafa46eb3c8cebf89763fed858e87.jpg",
       "hidden": false,
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "ACH002_NAME": {
       "name": "Back on Track",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/58106d4309d9c39dcd57f67cce015791d8a56ac3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/296a7c327bdcd01cd9703790dd644d48db81945c.jpg",
       "hidden": true,
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACH026_NAME": {
       "name": "Expert Merchant",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a3bf85224cd03d3da87032203481953db0348f0e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e6e1f19e2dcfca7af635804e180cc6b79f52da9a.jpg",
       "hidden": true,
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "ACH028_NAME": {
       "name": "Fresh Venture",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/17a16c43515cdebf70df9c95a7fc180f1af9d754.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8694a18ebd2ae90e67ee9c6cc8fa096aef0f3844.jpg",
       "hidden": false,
-      "percent": "49.4"
+      "percent": "49.5"
     },
     "ACH004_NAME": {
       "name": "Just Like Old Times",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8210844b2e76dc280f0fe32ffe1216a870d33693.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/7425bf9cd456024c3a4590c0a00605608db15dbd.jpg",
       "hidden": false,
-      "percent": "89.5"
+      "percent": "89.6"
     },
     "ACH040_NAME": {
       "name": "Last Units",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/956abe0d57e5abe6185f5165b507f79dc6752d89.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8ffc4a6f941eb0b0969acb63a8f60d07e9088064.jpg",
       "hidden": false,
-      "percent": "64.7"
+      "percent": "64.8"
     },
     "ACH020_NAME": {
       "name": "Pet the Bloblet",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4134bbb8807f7c991fdfa4335474ea7476c91064.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/54b466861d77c4ca6d92ac302f58f5e739c66f8a.jpg",
       "hidden": true,
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "ACH003_NAME": {
       "name": "Wishing Well",
@@ -308,7 +308,7 @@
       "percent": "73.4"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": false
 }

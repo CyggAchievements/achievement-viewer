@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/e7fcfd5064d642678d1f1caa7cd3ac67e5835baa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/418370/95d8750396eab120f0323e938ff9f1f3687972f5.jpg",
       "hidden": false,
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "ACHIEVEMENT_35": {
       "name": "Just Get Me Outta Here",
@@ -468,7 +468,7 @@
       "percent": "2.6"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": true
 }

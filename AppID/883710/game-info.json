@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/548c76314fd3d707f1ca32857115eec89d4e4c90.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/66adfa87b4ffbcd3f4d6a6a425399d9f08545e15.jpg",
       "hidden": false,
-      "percent": "64.6"
+      "percent": "64.5"
     },
     "NEW_ACHIEVEMENT_1_1": {
       "name": "Welcome to the City of the Dead",
@@ -356,7 +356,7 @@
       "percent": "28.3"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": true
 }

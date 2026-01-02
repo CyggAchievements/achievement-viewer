@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/85d79e525987607b323cb7ba2f1177c70d921d84.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/08c4a92aaf8c45077859f3681a7a0952ef81c4cf.jpg",
       "hidden": false,
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "GOURMAND_WISH": {
       "name": "Glutton",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/4cae086731038d810d9df5af8977a24b4dc87a44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/c6cec86630d601d0e5c73f009d25882f1ec70c51.jpg",
       "hidden": false,
-      "percent": "83.2"
+      "percent": "83.3"
     },
     "DEFEATED_PHANTOM_1": {
       "name": "Grey Ghost",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/48f0abb30848392c57fa05fa5f0b17b4e0e51478.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/42f86f65efcada2816cf88389450657b83f03121.jpg",
       "hidden": true,
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "DEFEATED_LACE_1": {
       "name": "Pharloom's Welcome",
@@ -420,7 +420,7 @@
       "percent": "28.7"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": true
 }

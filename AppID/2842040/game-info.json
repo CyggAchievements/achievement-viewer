@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/e88f741c75814faacf9b608db23dc92fc1d503ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/b88d5ef681f0e1c9216fa01ea630022cc8eb89b3.jpg",
       "hidden": false,
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "Outlaws_Ach_51": {
       "name": "All out",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/dca5e8a96b0ba1caf900bf988b687bda5ebbffb1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2842040/93e81a3382eb51af99f1a8e3f4f1912a67202680.jpg",
       "hidden": false,
-      "percent": "15.9"
+      "percent": "15.7"
     },
     "Outlaws_Ach_36": {
       "name": "Into the main frame",
@@ -476,7 +476,7 @@
       "percent": "2.9"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": false
 }

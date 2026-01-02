@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/0635a6533b5b800be0446068f8001743db3fc8d0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": true,
-      "percent": "48.6"
+      "percent": "48.5"
     },
     "ACH17": {
       "name": "Dresser",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ad68307c6f3d5d306a4455dde226006133bce761.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": true,
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "ACH32": {
       "name": "Fell Omen",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/90b13006bc07fbf6aeacff86a45358eb21b3b6c2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": true,
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "ACH13": {
       "name": "Fissure in the Fog",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/562bc40bff2bc10f64494e3ef26bddfb721e1086.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": true,
-      "percent": "61.9"
+      "percent": "61.8"
     },
     "ACH15": {
       "name": "Nightlord Conqueror",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/17f60812241f852530650bc209d8462f992f97ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": false,
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "ACH23": {
       "name": "Noklateo, the Shrouded City",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/0d1976cd49fd7a219561221e593e87d5ac565825.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": true,
-      "percent": "78.3"
+      "percent": "78.2"
     },
     "ACH02": {
       "name": "The Nightlords",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/768da8bec8e6cf31d5fb0ac90523b10e22056b82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": false,
-      "percent": "97.7"
+      "percent": "97.6"
     },
     "ACH07": {
       "name": "Tricephalos",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/0ff49c49ba63f7f8c74e504a9260a8e3af5d2d1b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
       "hidden": true,
-      "percent": "81.2"
+      "percent": "81.1"
     },
     "ACH35": {
       "name": "True Arbiter",
@@ -300,7 +300,7 @@
       "percent": "68.6"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": true
 }

@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/074c86480501f3b8e6df1356a76f69d6bdd59714.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/275850/1462168952dea039a1e8a8005d628d238aff7035.jpg",
       "hidden": false,
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "TAKEADEEPBREATH": {
       "name": "Take a Deep Breath",
@@ -220,7 +220,7 @@
       "percent": "31.5"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
   "uses_db": true
 }

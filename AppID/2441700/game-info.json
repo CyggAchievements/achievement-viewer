@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/96a81f79fc788cf928ab75ef4076f4c91510045a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/a462e5d20d0380d05c32e8c9cdeb9a2f6f0b99d2.jpg",
       "hidden": false,
-      "percent": "69.8"
+      "percent": "69.9"
     },
     "jack-arm-rip": {
       "name": "Jackn't",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/0ef03bf71ad4b8df1f402f652d807ae9dee4df01.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/848d5ee5df345e730c89dc17a16a1848ad34f871.jpg",
       "hidden": false,
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "win-fights-without-damage": {
       "name": "Teflon",
@@ -169,10 +169,10 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/5e7fbfce5cfe163cc6910c4a5c5e05d6a50490c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
-      "percent": "32.1"
+      "percent": "32.2"
     }
   },
-  "platform": null,
+  "platform": "Steam",
   "blacklist": [],
-  "uses_db": true
+  "uses_db": false
 }
