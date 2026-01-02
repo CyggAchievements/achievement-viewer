@@ -1,11 +1,51 @@
 ﻿{
     "Outlaws_Ach_1":  {
                           "description":  "Bribe an Imperial Officer to clear Wanted Level 5",
-                          "displayName":  "It wasn't me",
+                          "displayName":  "It wasn\u0027t me",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_2":  {
+                          "description":  "Clear Wanted status by completing a death trooper confrontation event",
+                          "displayName":  "They live up to the name",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_3":  {
+                          "description":  "Defeat 6 enemies simultaneously using Adrenaline Rush",
+                          "displayName":  "Shoot first",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_4":  {
+                          "description":  "Fully upgrade a blaster module configuration",
+                          "displayName":  "No match for a good blaster",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_5":  {
+                          "description":  "Collect all Nix treasures",
+                          "displayName":  "Got you something",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_6":  {
+                          "description":  "Sample all galactic street food",
+                          "displayName":  "Galactic gourmet",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_7":  {
+                          "description":  "Listen to the longest sob story in the galaxy",
+                          "displayName":  "Good listener",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_8":  {
+                          "description":  "Complete all Expert quests",
+                          "displayName":  "Experience outranks everything",
+                          "earned":  0
+                      },
+    "Outlaws_Ach_9":  {
+                          "description":  "Discover all planet areas",
+                          "displayName":  "Adventure and excitement",
                           "earned":  0
                       },
     "Outlaws_Ach_10":  {
-                           "description":  "Buy an item from a merchant's VIP stock",
+                           "description":  "Buy an item from a merchant\u0027s VIP stock",
                            "displayName":  "Give me the good stuff",
                            "earned":  0
                        },
@@ -37,7 +77,7 @@
                        },
     "Outlaws_Ach_16":  {
                            "description":  "Reach maximum reputation with the Ashiga Clan",
-                           "displayName":  "The Queen's word is law",
+                           "displayName":  "The Queen\u0027s word is law",
                            "earned":  1,
                            "earned_time":  1767205855
                        },
@@ -49,7 +89,7 @@
                        },
     "Outlaws_Ach_18":  {
                            "description":  "Acquire the scoundrel gear set",
-                           "displayName":  "It's mine now",
+                           "displayName":  "It\u0027s mine now",
                            "earned":  0
                        },
     "Outlaws_Ach_19":  {
@@ -58,11 +98,6 @@
                            "earned":  1,
                            "earned_time":  1766855899
                        },
-    "Outlaws_Ach_2":  {
-                          "description":  "Clear Wanted status by completing a death trooper confrontation event",
-                          "displayName":  "They live up to the name",
-                          "earned":  0
-                      },
     "Outlaws_Ach_20":  {
                            "description":  "Pickpocket a customer in a cantina on each planet",
                            "displayName":  "Easy pickings",
@@ -95,7 +130,7 @@
                            "earned":  0
                        },
     "Outlaws_Ach_26":  {
-                           "description":  "Defeat each syndicate's capital ship without taking hull damage",
+                           "description":  "Defeat each syndicate\u0027s capital ship without taking hull damage",
                            "displayName":  "Punching up",
                            "earned":  0
                        },
@@ -106,7 +141,7 @@
                        },
     "Outlaws_Ach_28":  {
                            "description":  "Defeat 20 enemies distracted by Fast-Talk",
-                           "displayName":  "I'll bet you have",
+                           "displayName":  "I\u0027ll bet you have",
                            "earned":  0
                        },
     "Outlaws_Ach_29":  {
@@ -114,11 +149,6 @@
                            "displayName":  "The heavier they fall",
                            "earned":  0
                        },
-    "Outlaws_Ach_3":  {
-                          "description":  "Defeat 6 enemies simultaneously using Adrenaline Rush",
-                          "displayName":  "Shoot first",
-                          "earned":  0
-                      },
     "Outlaws_Ach_30":  {
                            "description":  "Defeat an enemy ship after doing a loop maneuver",
                            "displayName":  "Sometimes I amaze even myself",
@@ -149,7 +179,7 @@
                        },
     "Outlaws_Ach_35":  {
                            "description":  "Defeat 5 enemies with Adrenaline Rush on the speeder simultaneously",
-                           "displayName":  "Don't get cocky",
+                           "displayName":  "Don\u0027t get cocky",
                            "earned":  0
                        },
     "Outlaws_Ach_36":  {
@@ -166,7 +196,7 @@
                        },
     "Outlaws_Ach_38":  {
                            "description":  "Disable an alarm using a security terminal while the alarm is active",
-                           "displayName":  "Now you see me, now you don't",
+                           "displayName":  "Now you see me, now you don\u0027t",
                            "earned":  1,
                            "earned_time":  1766857386
                        },
@@ -176,11 +206,6 @@
                            "earned":  1,
                            "earned_time":  1766859977
                        },
-    "Outlaws_Ach_4":  {
-                          "description":  "Fully upgrade a blaster module configuration",
-                          "displayName":  "No match for a good blaster",
-                          "earned":  0
-                      },
     "Outlaws_Ach_40":  {
                            "description":  "Acquire a blaster, a starship, and a speeder",
                            "displayName":  "Made it somehow",
@@ -200,7 +225,7 @@
                            "earned_time":  1767131932
                        },
     "Outlaws_Ach_43":  {
-                           "description":  "Escape from Jabba's palace",
+                           "description":  "Escape from Jabba\u0027s palace",
                            "displayName":  "Making friends",
                            "earned":  0
                        },
@@ -220,7 +245,7 @@
                            "earned":  0
                        },
     "Outlaws_Ach_47":  {
-                           "description":  "Learn Sliro's secret",
+                           "description":  "Learn Sliro\u0027s secret",
                            "displayName":  "The Director",
                            "earned":  0
                        },
@@ -234,11 +259,6 @@
                            "displayName":  "Calling in some favors",
                            "earned":  0
                        },
-    "Outlaws_Ach_5":  {
-                          "description":  "Collect all Nix treasures",
-                          "displayName":  "Got you something",
-                          "earned":  0
-                      },
     "Outlaws_Ach_50":  {
                            "description":  "Find the Morenia",
                            "displayName":  "All in",
@@ -271,7 +291,7 @@
                        },
     "Outlaws_Ach_56":  {
                            "description":  "Steal a Rokana Raider ship",
-                           "displayName":  "Pirate's Honor",
+                           "displayName":  "Pirate\u0027s Honor",
                            "earned":  0
                        },
     "Outlaws_Ach_57":  {
@@ -285,28 +305,8 @@
                            "earned":  0
                        },
     "Outlaws_Ach_59":  {
-                           "description":  "Help compose a pirate's poem",
+                           "description":  "Help compose a pirate\u0027s poem",
                            "displayName":  "Wordsmith",
                            "earned":  0
-                       },
-    "Outlaws_Ach_6":  {
-                          "description":  "Sample all galactic street food",
-                          "displayName":  "Galactic gourmet",
-                          "earned":  0
-                      },
-    "Outlaws_Ach_7":  {
-                          "description":  "Listen to the longest sob story in the galaxy",
-                          "displayName":  "Good listener",
-                          "earned":  0
-                      },
-    "Outlaws_Ach_8":  {
-                          "description":  "Complete all Expert quests",
-                          "displayName":  "Experience outranks everything",
-                          "earned":  0
-                      },
-    "Outlaws_Ach_9":  {
-                          "description":  "Discover all planet areas",
-                          "displayName":  "Adventure and excitement",
-                          "earned":  0
-                      }
+                       }
 }
