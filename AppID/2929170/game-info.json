@@ -1,0 +1,250 @@
+{
+  "appid": "2929170",
+  "name": "NEW MONOPOLY®",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929170/98ccc61e7e8aa63fb2eacd6f3181cd1f6d2d734c/header.jpg?t=1765229804",
+  "achievements": {
+    "Monopoly_Ach_12": {
+      "name": "Can't we go any Faster?",
+      "description": "Throw a triple using the Speed Die.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/d36e07fb77df6ccaf5ad6375a355eb0f1752e178.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/33df521427baf8ee90e6e333110b403649ec1845.jpg",
+      "hidden": false,
+      "percent": "4.9"
+    },
+    "Monopoly_Ach_20": {
+      "name": "Champion",
+      "description": "Complete a match with 4 players, no AI.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/d21ebcf8e0350159b296cb005fcfb4283e3968ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/816de0393b1f57ab9399fcae60a93af55def7a19.jpg",
+      "hidden": false,
+      "percent": "14.2"
+    },
+    "Monopoly_Ach_27": {
+      "name": "Collector",
+      "description": "Own both utility buildings and all Train stations in a single match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/e4950c7cef7bac2ba5c081fffafdf960d1a0583b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/948a9a4dd6db029d76ec1d3dcebad897c1690fcd.jpg",
+      "hidden": false,
+      "percent": "17.7"
+    },
+    "Monopoly_Ach_13": {
+      "name": "Dreadful Start",
+      "description": "Land on Income Tax square on your first turn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/c393117b00451dd24d4ce605ee1342c0fb7dff70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/3e19f2ff96136f6bff546f517215a818ddedcb78.jpg",
+      "hidden": false,
+      "percent": "25.3"
+    },
+    "Monopoly_Ach_22": {
+      "name": "Ewww, gross",
+      "description": "In a match with 3 players or more, acquire a property that has been owned by every other player.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/cde39f407d6b0caf953c0d63942bc35fac4e9e21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/0866c7dc37c2ecb1c131981778b2dc0eaa0ccb44.jpg",
+      "hidden": false,
+      "percent": "18.3"
+    },
+    "Monopoly_Ach_7": {
+      "name": "Fancy Flippers",
+      "description": "Play a match with the penguin, top hat and either the roller skates or shoe tokens.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/33ba1483fa1f5c044c5e6ac988d89a7925790204.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/3abcfb9cc9bae29a843dc40b6b9ad1f3e51b40a9.jpg",
+      "hidden": true,
+      "percent": "0.4"
+    },
+    "Monopoly_Ach_2": {
+      "name": "Field Trip",
+      "description": "Find a token in the Living city using the Explore option.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/5be596024decb7fa8ac3792c3482416f67d324b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/002b2a0e6df2156dacf608047a8f5b327e531b31.jpg",
+      "hidden": false,
+      "percent": "19.6"
+    },
+    "Monopoly_Ach_17": {
+      "name": "Globe Trotter",
+      "description": "Land on every single square on the board during a single match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/232b0d34ec03351715cf1a83c8249237672ab744.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/711820278e6e6e90f96ef3ce0a745088f1a0fd90.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "Monopoly_Ach_1": {
+      "name": "Good Start",
+      "description": "Buy a property.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/d16994c10f674caf664078eb279a175a6ccf726d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/dbdf876b08267207d5b082b2e5772b6710baee7e.jpg",
+      "hidden": false,
+      "percent": "85.8"
+    },
+    "Monopoly_Ach_29": {
+      "name": "Great Income",
+      "description": "Collect more than M500 rent during a single match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/1d6ee72b133684416c4f44b03e7e75747e50eeb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/00527dc4b0bffb4c43531257b7c6662515d5f3ad.jpg",
+      "hidden": false,
+      "percent": "56.9"
+    },
+    "Monopoly_Ach_4": {
+      "name": "Hobby Videographer",
+      "description": "Explore the living city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/d2105b7440fdd59151656a4af13d3e9e068787e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/b6760a0139a7e2cdf521474b2d0ea71b24e1eb9c.jpg",
+      "hidden": false,
+      "percent": "57.6"
+    },
+    "Monopoly_Ach_9": {
+      "name": "Investory",
+      "description": "Build a house.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/1a59a5501e8754fc63564989e7e87447d98f4a97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/a592ff70c9b19c3561d1ba53ff544172c4d459c5.jpg",
+      "hidden": false,
+      "percent": "66.6"
+    },
+    "Monopoly_Ach_15": {
+      "name": "Lucky Draw",
+      "description": "Get more than M100 from a Chance or Community Chest card.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/7a844cb6322c0363cf52a6e39b21c6ac28ba2d04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/914284e22cfeb72af883cfe3a9fe8da5e363a204.jpg",
+      "hidden": false,
+      "percent": "68.7"
+    },
+    "Monopoly_Ach_3": {
+      "name": "No more Money!",
+      "description": "Declare bankruptcy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/d59b34052dee0567a3b14e9d421a765a6cb2943c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/8afeea0d64338995adcd12364d7db17f3ddb5965.jpg",
+      "hidden": false,
+      "percent": "50.8"
+    },
+    "Monopoly_Ach_19": {
+      "name": "Now we can Play",
+      "description": "In a single match, have a hotel on two different color sets.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/374349f69a217a33244a3cf7b1f4d1b1a979c067.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/1b632caa6c7f9592fc6774dcdda92f5709f848b3.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "Monopoly_Ach_21": {
+      "name": "One of Us",
+      "description": "Win a game against 5 AI players.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/7c10e53e37ac947e925019c991c41a487afc5b75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/68831a3100e28cdd21202493210586ced765b873.jpg",
+      "hidden": false,
+      "percent": "3.2"
+    },
+    "Monopoly_Ach_25": {
+      "name": "Out of Stock",
+      "description": "Buy all the houses from the bank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/97cd1e8a8b66a7f4477a2c0f471e98de1ce3b84e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/d6b4ed1bdb1aee9fb8a21c887ae4868819153b50.jpg",
+      "hidden": false,
+      "percent": "14.4"
+    },
+    "Monopoly_Ach_24": {
+      "name": "Pole Position",
+      "description": "Be the first player at the start of the match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/e85330c45e7edbb12b37c9a90db382234420e356.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/bfbbdf6ef005ba290f174e413716f42020176337.jpg",
+      "hidden": false,
+      "percent": "54.9"
+    },
+    "Monopoly_Ach_14": {
+      "name": "Precocious",
+      "description": "Collect rent from a player, while they have not completed a full circle around the board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/462ac17b5a01e94c445a22a7af20233d76bcb991.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/5da637705f34d516d7ed6b114d7ca54da1d02e74.jpg",
+      "hidden": false,
+      "percent": "62.2"
+    },
+    "Monopoly_Ach_26": {
+      "name": "Pretty in Purple",
+      "description": "Place a hotel on each property of the purple color set in a single match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/2b06509f926b339d432f236b8225da6441e630a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/243002951b2e4e78d5dd728717c0283b4ee33990.jpg",
+      "hidden": false,
+      "percent": "15.0"
+    },
+    "Monopoly_Ach_18": {
+      "name": "Private Jet",
+      "description": "Playing with the \"Go and Movement\" house rule, choose to move when landing on the Go square.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/ab1ba6fa33d3a1ce92f6d5f1be2cf2be25fe9257.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/ef33f951ff9f24ddbdf56ce6bcb2a6f58ef0a539.jpg",
+      "hidden": false,
+      "percent": "11.7"
+    },
+    "Monopoly_Ach_28": {
+      "name": "Sharing is Caring",
+      "description": "Through a trade, have each player complete a color set.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/cbe45bab9915ce29ad69afd3c7cc39bb6a0e2f11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/58bc2cad5e7ac7689eff4533605b69bc9f5576c4.jpg",
+      "hidden": false,
+      "percent": "44.0"
+    },
+    "Monopoly_Ach_11": {
+      "name": "Sniper Shot",
+      "description": "During the dice throw make each die hit a token.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/c47999bf8ece1bdf109acc4d38fbb5408af5b091.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/a32656f759eab11c83e85108a3003cd96b622e8f.jpg",
+      "hidden": false,
+      "percent": "23.4"
+    },
+    "Monopoly_Ach_8": {
+      "name": "Speedy Monopolist",
+      "description": "Win a match within 15 minutes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/095ba85b1c30e496641bb4a93780927f86cdf7c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/d16b19d6c1d402e20bba1404a17408ab6c132720.jpg",
+      "hidden": false,
+      "percent": "7.0"
+    },
+    "Monopoly_Ach_30": {
+      "name": "Subsidized Monopolist",
+      "description": "With the Free Parking house rule, land on the Free Parking square and receive more than M800.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/8aba1c5fea164a1ada1c77523590472da853aaaf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/a42ec916b7c512afa9add722b3a60011d8d108d7.jpg",
+      "hidden": false,
+      "percent": "11.8"
+    },
+    "Monopoly_Ach_16": {
+      "name": "The Master",
+      "description": "Win a match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/3b445402938b9ac537d37bba87254274e6c4e6ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/49b3c830a26e63668a63f9e31b9357bdad24eda3.jpg",
+      "hidden": false,
+      "percent": "35.2"
+    },
+    "Monopoly_Ach_23": {
+      "name": "Underdog",
+      "description": "Win a match with the Fast mode goal \"Architect\", while someone else only needs another house to win.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/7cdf375dce3d1aac45465e44e9d4d640a8d1f381.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/efec9c8859a17576e7a0142e8b49b2b3e91c0b8d.jpg",
+      "hidden": false,
+      "percent": "0.2"
+    },
+    "Monopoly_Ach_10": {
+      "name": "VIP",
+      "description": "Build a hotel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/e0d40ac9254008e7cceb63e4c9182ec0d7884a5d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/ab6b6fe99794f969bd6909335cc78542a044cfb9.jpg",
+      "hidden": false,
+      "percent": "43.1"
+    },
+    "Monopoly_Ach_5": {
+      "name": "Your Way",
+      "description": "Play a house rule match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/5e73a8955816176baca1babc85923b6aeadbc0f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/9b14bbfe2cb62699a2955037dec99bc0be87d3f9.jpg",
+      "hidden": false,
+      "percent": "28.0"
+    },
+    "Monopoly_Ach_6": {
+      "name": "Zoology",
+      "description": "Play a match with 6 players, each player token must be an animal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/61c9c52e804899875a04f982adfa50891ee843fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2929170/cbef249e661455ed9d96724b823662b13eaee5f4.jpg",
+      "hidden": true,
+      "percent": "0.3"
+    }
+  },
+  "platform": "Xbox",
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,210 @@
+{
+  "appid": "220160",
+  "name": "Trials Evolution: Gold Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220160/header.jpg?t=1747656959",
+  "achievements": {
+    "TrialsEvolution_Ach_1": {
+      "name": "Beyond the Wall of Pain",
+      "description": "Smash your bike and break every bone in one spectacular crash.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/cae08ef1e812acf9c80940b85d9745fb9cf4c3dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/e3a73d90de70d6a823f0d61fda0c5e3f1604fc8d.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "TrialsEvolution_Ach_24": {
+      "name": "Bling",
+      "description": "The player has made at least 5 Gold-level performances.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/1bdf1679d45d8c3df0afee866ad8dcef775b1e10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/702e3615dec9efe18d44db501d6288522fcd38ad.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "TrialsEvolution_Ach_16": {
+      "name": "Burnt to a Crisp",
+      "description": "Pass ‘Lab Rat’ without faulting while constantly on fire.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/1339259070ad586bff6197a672194249ecf8f7ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/b8fa0305d15a7bc5d82d2e43ea578ea4a824f1d7.jpg",
+      "hidden": false,
+      "percent": "0.2"
+    },
+    "TrialsEvolution_Ach_31": {
+      "name": "Demon on Wheels",
+      "description": "The Player has completed all Extreme tracks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/b6be678dbb4c56e1b4cfaf931251f50eda31f66a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/46f33a50f7afeccbb2716b37762ac5aa0ac2103b.jpg",
+      "hidden": false,
+      "percent": "0.7"
+    },
+    "TrialsEvolution_Ach_21": {
+      "name": "Demon on Wheels II",
+      "description": "Pass every track in the Flatliner Event of Crash Country and Extreme of HD Warehouse.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/24a9e66f31665c350af10c650f8f311ad7b7266f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/c49653a1b3ae703a1d90c8266284856b995d9f53.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "TrialsEvolution_Ach_8": {
+      "name": "Extreme Prejudice",
+      "description": "Complete any Extreme track.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/63ad688f22ad1cdd6a5ffc547abf61877df301f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/ce0cd1b4f91a64949255eb91daa8369162eb6bb7.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "TrialsEvolution_Ach_7": {
+      "name": "Flawless Victory",
+      "description": "Finish the ‘Scenic Route’ Tournament without any faults.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/e3b95a06010fccfadef7170f9b3d94203edc2b73.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/4cfb040fbd05c1ead539ce10854c7cda06c1ae9b.jpg",
+      "hidden": false,
+      "percent": "0.1"
+    },
+    "TrialsEvolution_Ach_19": {
+      "name": "From the Ashes",
+      "description": "Finish all tracks in the Walk in The Park Event using the Phoenix 250cc bike.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/1f660d6f8812625a7a500e66aa787f8dc6a853d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/f0a8281e3b9ef0117b7ece88ebf4a99671545672.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "TrialsEvolution_Ach_23": {
+      "name": "Full Throttle",
+      "description": "The player has completed Container Rush without releasing the throttle even for an instant.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/f2f505bd7056e7e55ce644b7bda32f02660838db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/65b2b7ac11bdf6fe56671c690a6bfadd3a69a3fa.jpg",
+      "hidden": false,
+      "percent": "0.3"
+    },
+    "TrialsEvolution_Ach_3": {
+      "name": "Full Throttle II",
+      "description": "Finish ‘Archipelago’ without faulting or releasing the throttle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/9d7f15dfee9b4e298881bfac18115f852c4e3bd9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/03ab52011de91281abcd8d8c244c39f7f1a966cf.jpg",
+      "hidden": false,
+      "percent": "0.3"
+    },
+    "TrialsEvolution_Ach_20": {
+      "name": "Hard the Hard Way",
+      "description": "Finish ‘The Ascent’ without faulting using the Rattler 125cc bike.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/756b6a9dfa2a648e9e6dda47d222c3d4e235a23d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/a132b1244424383773a047462ec9b9573ebd9bf8.jpg",
+      "hidden": false,
+      "percent": "0.2"
+    },
+    "TrialsEvolution_Ach_27": {
+      "name": "Life is Harsh",
+      "description": "The player has completed all hard tracks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/21158581aca7dcd54edf02b26241d0f5ed5ee508.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/b79f1036379bae8a47546497b8031dbe2511d24a.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "TrialsEvolution_Ach_9": {
+      "name": "Loonie Lander",
+      "description": "The hawk has landed. Time to show the flag! (The small one.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/955df8ae018e966c57125aebf7070b95fdb7923c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/decde7437dd7cedab8ebf21979fca0e7926d20ea.jpg",
+      "hidden": false,
+      "percent": "0.1"
+    },
+    "TrialsEvolution_Ach_29": {
+      "name": "Marathon",
+      "description": "The player has completed the Ultimate Endurance tournament without any faults.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/feaeda9f5fdab832e52bb7b7d2c142e72b5c9699.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/c2015515047296e4ee50360b8744e50ee44a6d41.jpg",
+      "hidden": false,
+      "percent": "0.0"
+    },
+    "TrialsEvolution_Ach_30": {
+      "name": "Market Meltdown",
+      "description": "Skyrocketing in Stock Market is only temporary. Be prepared for the fall and the big bang.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/3457c21fc7fce835ba789e845acbd43b04a48907.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/d2668de916292d24fe45b6fa2ee47b28e28a45b7.jpg",
+      "hidden": false,
+      "percent": "0.2"
+    },
+    "TrialsEvolution_Ach_6": {
+      "name": "Nervous Twitch",
+      "description": "Fault in any hard or extreme track after flawlessly reaching the last checkpoint.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/daf8bd73661600d51f96551432788416a5ad29c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/7fbd4d3a709a4e6a5a85770fcd8076a77064009e.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "TrialsEvolution_Ach_13": {
+      "name": "No Problemo",
+      "description": "Pass the D License Test and get your first bike.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/c773f3fd3c2ee77607b3e8a879178e9012df9abb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/d2b8b75f6c523394c208d54e5da456326e6c9ed4.jpg",
+      "hidden": false,
+      "percent": "3.5"
+    },
+    "TrialsEvolution_Ach_15": {
+      "name": "School’s Out",
+      "description": "Pass the A License Test and get the Phoenix.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/f08de9401c965e7f39b95c00b351fee7fe3ae46d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/d204b6f9d6e5b67568e0a3514ea5785b141a40d7.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "TrialsEvolution_Ach_25": {
+      "name": "Strike!",
+      "description": "Get a strike in a midnight bowling event.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/1ce9b4f034ab74ee16ef6130e0eef8f770c9f146.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/53a5d39cc0a54d7a83fc4ae6b65fdbf8a8391414.jpg",
+      "hidden": false,
+      "percent": "0.1"
+    },
+    "TrialsEvolution_Ach_32": {
+      "name": "The Challenger",
+      "description": "The player has unlocked the first tournament.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/cbe58db5af64d93966225aac59f0e6c1a3edd686.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/c889c0f8f7a1945c195fd24f6fdf6f119953a49c.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "TrialsEvolution_Ach_18": {
+      "name": "The Editor’s Apprentice",
+      "description": "Create a track of your own that has at least three path points, then test drive it.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/eefd41274ae9d4a9ec5e39c4e9db64c39191a810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/41483ca9f208a45cfe6a14e10d9a9a2ef4f1cacd.jpg",
+      "hidden": false,
+      "percent": "0.3"
+    },
+    "TrialsEvolution_Ach_10": {
+      "name": "The Professional",
+      "description": "Successfully complete the single player career.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/d57bc97a35cd18b50e15a1688a19dc668da6f368.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/8333d7803537a87d55e480e85aba824cfa135058.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "TrialsEvolution_Ach_2": {
+      "name": "The Squirrels Have Eyes…",
+      "description": "Find every squirrel hidden away in the secret corners of the world.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/c20a829039ee6e81280b06a7b8f624734552635d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/b7e70e2fedbe9301f957662dc4ee88872a2833b9.jpg",
+      "hidden": false,
+      "percent": "0.1"
+    },
+    "TrialsEvolution_Ach_22": {
+      "name": "Unyielding",
+      "description": "The player has completed Groundhog Returns faultlessly without changing the rider's posture.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/9cfc35a262cb2042ba64c73e038097a218094e4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/a89e30adb3584d7179bee076d9db3b5acafbb4fc.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "TrialsEvolution_Ach_4": {
+      "name": "Unyielding II",
+      "description": "Finish ‘Rock Steady’ without faulting or changing your rider’s position.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/920202c0b6b4a9c459d3936af2c60caabfb81da2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/220160/660b7f6285576e582ccb183c4a743d0c65d319a8.jpg",
+      "hidden": false,
+      "percent": "0.1"
+    }
+  },
+  "platform": "Xbox",
+  "blacklist": [],
+  "uses_db": false
+}

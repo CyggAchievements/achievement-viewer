@@ -1,0 +1,394 @@
+{
+  "appid": "201870",
+  "name": "Assassin's Creed® Revelations",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/header.jpg?t=1739176298",
+  "achievements": {
+    "ACRevelations_Ach_34": {
+      "name": "A Friend Indeed",
+      "description": "Complete all Faction Creed Challenges from a single faction.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/7ebcb572cc9685ca1bb9e24ad6a0a434442c7c68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/2e298215dc6861c1fc62970d2f92772f9b15ca76.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "ACRevelations_Ach_47": {
+      "name": "Almost flying",
+      "description": "Parachute directly from the top of the Galata Tower to the golden horn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/cbdfa3bdbfda01fbe5d9f6d8eae79053766f00e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/e6478d991c3b6bb50ed01a98ca388d61016fa090.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "ACRevelations_Ach_24": {
+      "name": "Are You Desmond Miles?",
+      "description": "Complete Desmond Sequence 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/6a4b7f7235f98bf0606abf424baef4b37cd784ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/ba8e5164bd978075de42f8171b49d7bedcd60728.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    },
+    "ACRevelations_Ach_31": {
+      "name": "Armchair General",
+      "description": "Control all cities (except Rhodes) simultaneously in the Mediterranian Defense game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/af32c0757aa5ecde8698ca750dd9aeb85b42948f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/4f9e9fe69b80d56c28d0710f628c2abc5052fae5.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "ACRevelations_Ach_13": {
+      "name": "Best Served Cold",
+      "description": "Complete DNA Sequence 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/0f25e11df43b786c0b834ccac9169cabb7fac2af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/5e65d8478e89f1b8f49ebb77f69d3419708b6950.jpg",
+      "hidden": false,
+      "percent": "10.6"
+    },
+    "ACRevelations_Ach_58": {
+      "name": "Breaking the Loop",
+      "description": "Break the loop, escape the cycle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/b35a3ce996256b920bbc5416b785df9e64d98d2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/40191d9f01da7463fa058e9e52a1adf1937ebefd.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "ACRevelations_Ach_51": {
+      "name": "Bully",
+      "description": "Find and beat up Duccio.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/32fe22f43f5085e1aed0f78841be2e49ebc5ed9a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/3006d63f84edb750ffb63dbf85aefcde6f0d9122.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "ACRevelations_Ach_28": {
+      "name": "Capped",
+      "description": "Collect all animus data fragments.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/6b3accbd553130a0463feaa377a540caa0cd7981.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/20ec51fddb17ed8392d5e7046cac747711c1ce37.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "ACRevelations_Ach_45": {
+      "name": "Craft Maniac",
+      "description": "Craft 30 bombs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/7bc62cad254dbdae83d6be7010e2d679154731f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/61597f42329e1abf176f82016f6a9dc410a76732.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "ACRevelations_Ach_61": {
+      "name": "Cross Styx without dying",
+      "description": "Make it across the river Styx without failing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/633c7f00baad1a383ee2b69b9ca3e4c668af4793.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/39442cdd50d8dbbf0339a40fa6f26025352dae86.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "ACRevelations_Ach_54": {
+      "name": "Enter the Animus",
+      "description": "Enter the Animus simulation",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/c692c26e987b4bd37344db7b0f2feb8a48f73aa4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/92de6bc9d2fa37dab5871de5183adfa96997227d.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACRevelations_Ach_16": {
+      "name": "Escape To New York",
+      "description": "Complete Desmond Sequence 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/0a500901c6c1e02484ec86d5401104c511dbe3aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/a62bdfb991db4e962695948c7811c1a02d96a4e6.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "ACRevelations_Ach_42": {
+      "name": "Fast Fingers",
+      "description": "Loot 50 dead guards with thief looting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/ec329753dd72432810d1a28e252bad835761c60c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/cf99a67b39a5152b032eb34c7d61b474d11d3b5a.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACRevelations_Ach_57": {
+      "name": "Find all Pieces",
+      "description": "Find all of the decipher fragments",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/8094af7bc218b2329ff2d46a88ba9f6ddc14d2d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/3e7c831314cd1dd597463265ba6fd933c042ae39.jpg",
+      "hidden": false,
+      "percent": "0.7"
+    },
+    "ACRevelations_Ach_26": {
+      "name": "Fond Memories",
+      "description": "Achieve 100% Synchronization in all Sequences.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/3651d846a596de3edb2f806221d2bb0c2f1722f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/6fbca3915442ea53a8fe4d67a23de7b13e014ff0.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "ACRevelations_Ach_27": {
+      "name": "Holy Wisdom",
+      "description": "Complete the Hagia Sofia challenge level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/fda9fcbf0656bc295d176e6aec0d8aaf9384a67c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/660af3e6926f936adfd18547819f4d461fa837e7.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACRevelations_Ach_49": {
+      "name": "I can see you",
+      "description": "Kill 5 guards while under the cover of a smoke screen bomb.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/44164104b897bea159b7439d0f5681f779fc2fb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/9fd79eb7800afacf3ec2da0e5d5fb8af14a40d92.jpg",
+      "hidden": false,
+      "percent": "3.1"
+    },
+    "ACRevelations_Ach_60": {
+      "name": "Impress Warren Vidic",
+      "description": "Complete the Animus testing sequence without failing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/ad12654a832eb7899c0931ffa2fe0afe40b46bea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/823c31e2ca334afcd66007be15ec484b882de0ba.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "ACRevelations_Ach_32": {
+      "name": "Iron Curtain",
+      "description": "Perform a perfect den defense without using the cannon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/f74da6df0748c00f4aa9f6584ffd86a873842bde.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/70a7fcffc8a6adbd0824fe31635a766843bf87cd.jpg",
+      "hidden": false,
+      "percent": "2.5"
+    },
+    "ACRevelations_Ach_15": {
+      "name": "Istanbul and Constantinople",
+      "description": "Complete DNA Sequence 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/1fad074726a453945500fbb7fb8f3fda93004259.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/83b8fb12b78eb899fdcf4d182932712b5105eacb.jpg",
+      "hidden": false,
+      "percent": "9.3"
+    },
+    "ACRevelations_Ach_53": {
+      "name": "Jump they say",
+      "description": "Reach the Animus memo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/94ac5e09940a49f8a11aa30e430669aef44b461f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/b2e3fc4e13cf51964d1fc8ce5d4f28a2db50314a.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACRevelations_Ach_37": {
+      "name": "Lightning Strikes",
+      "description": "Kill 5 guards in 5 seconds using only your hidden blades.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/f0cc876f3f2ac2db2d0b172c1c041f325f445a36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/7613ce91c178c75518d245676faaec604b96c347.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "ACRevelations_Ach_55": {
+      "name": "Meet your maker",
+      "description": "Finish memory five",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/572a85f795ee823cbc2eb15fda55de92f1f8cf47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/e7ea20ef86c97ba21b212995439f0b12b96b1f19.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACRevelations_Ach_50": {
+      "name": "Monster's dance",
+      "description": "Have a guard incapacitate 3 civilians while he's poisoned.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/b5e669b4af6d66ff7f1929e7b848f1cb445f7c8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/7812600623a15c77f7e448ae9d409b20496bf153.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "ACRevelations_Ach_43": {
+      "name": "Mosh Pit",
+      "description": "Have 10 guards poisoned at the same time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/4dd12bdfd6d2f291399f1bc5806cf8d7035c3f4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/f9dfd4dcd93a652b0ff2a4562a331a1d23f262bb.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "ACRevelations_Ach_44": {
+      "name": "Mouse Trap",
+      "description": "Kill 5 guards with a scaffold after they have been stunned by caltrops.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/406b6c12747fc4bb631c2c7441c0ec2a2857b6e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/cf56f849f145801dafb9d4e0e9ab510be4f3b023.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACRevelations_Ach_46": {
+      "name": "My Protégé",
+      "description": "Have one trainee reach the rank of Master Assassin.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/48f7ffc4483440b78b7d733ff4de8710a097c2d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/7059e9bfecbc2a9e2a8613ba5782e37eaa770686.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "ACRevelations_Ach_22": {
+      "name": "Old Boss, New Boss",
+      "description": "Complete DNA Sequence 7.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/eccf84e64a4b0530e080b73088af09eb1fbac7da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/e603506f05f14806c4706e3ca54d1ecea5a9f241.jpg",
+      "hidden": false,
+      "percent": "5.6"
+    },
+    "ACRevelations_Ach_38": {
+      "name": "Overkiller",
+      "description": "Assassinate 50 guards with the hidden blade.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/af5d3077c3007b3a8db9674d5594b2a3a2c194ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/7ab0d733e172b3535a38430964ba7afbeee62274.jpg",
+      "hidden": false,
+      "percent": "7.8"
+    },
+    "ACRevelations_Ach_52": {
+      "name": "Part of the Creed",
+      "description": "Take the induction leap of faith",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/8c76a339ab853684e8cca35136addad2c0e1ed47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/a17ee92ab17a04208dfb41e6c3f1a544a1327bd9.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "ACRevelations_Ach_23": {
+      "name": "Priorities",
+      "description": "Complete DNA Sequence 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/010706f4962a012c86672969f7d7914bc151601d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/c75c771d908305c4009db4103b6878e22afd672c.jpg",
+      "hidden": false,
+      "percent": "5.5"
+    },
+    "ACRevelations_Ach_30": {
+      "name": "Pyromaniac",
+      "description": "Complete all Bomb Missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/c6fb81cef989d863a556cde3af7c387954ed52ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/69940bde3222aece37b095af83ec15f23d29e082.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "ACRevelations_Ach_25": {
+      "name": "Revelations",
+      "description": "Complete DNA Sequence 9.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/6da8abb1c01b200c4fef39c0ccaa43aef8707196.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/16280e71ac8694f0ceea480c57af6160f7af30e8.jpg",
+      "hidden": false,
+      "percent": "5.5"
+    },
+    "ACRevelations_Ach_41": {
+      "name": "Sage",
+      "description": "Collect all available books.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/9e49a33b9372702f997aa672228fe245b0fe860b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/8c9d079b889badc4d5de8c31f15a2a69b34fca78.jpg",
+      "hidden": false,
+      "percent": "1.0"
+    },
+    "ACRevelations_Ach_59": {
+      "name": "Save yourself",
+      "description": "Land on a block after falling more than 25 meters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/24a54d03f4fb62ff2d7c0d042177a1008d3901c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/970b65ff46284406b781559271d68afc49c074c5.jpg",
+      "hidden": false,
+      "percent": "0.9"
+    },
+    "ACRevelations_Ach_17": {
+      "name": "Seal the Deal",
+      "description": "Complete DNA Sequence 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/2b0f7ba423ab3aee76059e59cd7170236aabf596.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/a3d4a570da44b7fd3a399ac57752185fa1770747.jpg",
+      "hidden": false,
+      "percent": "7.4"
+    },
+    "ACRevelations_Ach_39": {
+      "name": "Show-Off",
+      "description": "Parachute onto a zipline.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/83b80a0c7b9c6c292406da7d070cb2dabd2bb533.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/9d74992cbb8d95a3f6519a117b29ba3e988a0eff.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "ACRevelations_Ach_48": {
+      "name": "Silent but deadly",
+      "description": "Kill three guards simultaneously with only throwing knives.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/b22172dac626e39602f6d022bd968149ca5f396f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/6e1df9a49d17a89874468d60df11f4ad2b41fa1f.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "ACRevelations_Ach_33": {
+      "name": "Spider Assassin",
+      "description": "Climb Hagia Sofia, from the ground to the pinnacle, in under 25 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/de6e14a0adea03fe31a9b4e9ad075d280b2f8191.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/916f0741cb908b6ce8a6be256486aa78329a0a05.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "ACRevelations_Ach_20": {
+      "name": "Successes and Failures",
+      "description": "Complete DNA Sequence 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/60d2ee2e7f282a20d3d2418da2ccd9795c11b005.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/3258fcb8e24a32953424f6aaf2f31297a9622374.jpg",
+      "hidden": false,
+      "percent": "6.0"
+    },
+    "ACRevelations_Ach_35": {
+      "name": "Tax Evasion",
+      "description": "Get your money back from a Templar tax collector.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/ab9485ed03fd374cacfeed6d7611b2d3b0a40c7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/5aa4712deb479dddb42f044b89181c30adec449b.jpg",
+      "hidden": false,
+      "percent": "3.9"
+    },
+    "ACRevelations_Ach_12": {
+      "name": "The Early Years",
+      "description": "Complete Desmond Sequence 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/b0910f4f0cf0cbcadde6062f233d33604aa004e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/c4b803d7cb5f55c61d86e86d4833db9594322a96.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "ACRevelations_Ach_56": {
+      "name": "The Loop",
+      "description": "Experience the loop",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/f816a8d62a9898cb2b5da400d16de9c043437944.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/771616b542239c04e6730c731c4b44c492a71cd3.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACRevelations_Ach_36": {
+      "name": "The Mentor",
+      "description": "Have seven trainees reach the rank of Master Assassin.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/7883e86a4290e823100ed94071c28b961670cf9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/2bd6ec1baeff711dbe1775bac3542f63d6148966.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "ACRevelations_Ach_19": {
+      "name": "The Plot Thickens",
+      "description": "Complete DNA Sequence 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/d439a83d4631809852dc42ff1fadadbf4cecb439.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/f7b94abe691d114ead4e921588aa09ffadf5aa79.jpg",
+      "hidden": false,
+      "percent": "6.3"
+    },
+    "ACRevelations_Ach_18": {
+      "name": "The Prince",
+      "description": "Complete DNA Sequence 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/ee785d9bde25d7185633a387218167fe46420e11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/c223633ec0d71fd4f0e3414485686b18d094cbf4.jpg",
+      "hidden": false,
+      "percent": "6.8"
+    },
+    "ACRevelations_Ach_14": {
+      "name": "The Reluctant Assassin",
+      "description": "Complete Desmond Sequence 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/98e2d887fddc1d391cf85b9c65e39af424258a35.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/c97033e7c41a84fd7630ec05105be5f3cb03cd6b.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "ACRevelations_Ach_21": {
+      "name": "The Rotten Apple",
+      "description": "Complete Desmond Sequence 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/26882ee7895bfcbb0ebce9363b832639e420f322.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/201870/835b3aadafa60a100f125c86eae7e03c7947be2c.jpg",
+      "hidden": false,
+      "percent": "1.5"
+    }
+  },
+  "platform": "Xbox",
+  "blacklist": [],
+  "uses_db": false
+}
