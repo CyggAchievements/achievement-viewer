@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/49c243e355c9a81317e36b7fe587f4180252935a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "TLOTF_ACHIEVEMENT_010": {
       "name": "Radiant Adept",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/49b0a9624ad27eeda741191a7784450abe8cc473.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "TLOTF_ACHIEVEMENT_027": {
       "name": "Shades of Violence",
