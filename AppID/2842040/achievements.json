@@ -1,8 +1,9 @@
-{
+﻿{
   "Outlaws_Ach_1": {
     "description": "Bribe an Imperial Officer to clear Wanted Level 5",
     "displayName": "It wasn't me",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767205344
   },
   "Outlaws_Ach_10": {
     "description": "Buy an item from a merchant's VIP stock",
@@ -310,3 +311,4 @@
     "earned": 0
   }
 }
+
