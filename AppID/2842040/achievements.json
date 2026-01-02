@@ -1,0 +1,312 @@
+{
+  "Outlaws_Ach_1": {
+    "description": "Bribe an Imperial Officer to clear Wanted Level 5",
+    "displayName": "It wasn't me",
+    "earned": 0
+  },
+  "Outlaws_Ach_10": {
+    "description": "Buy an item from a merchant's VIP stock",
+    "displayName": "Give me the good stuff",
+    "earned": 0
+  },
+  "Outlaws_Ach_11": {
+    "description": "Acquire the Disruptor gear set",
+    "displayName": "Old school cool",
+    "earned": 0
+  },
+  "Outlaws_Ach_12": {
+    "description": "Complete 40 contracts",
+    "displayName": "Honest work",
+    "earned": 0
+  },
+  "Outlaws_Ach_13": {
+    "description": "Reach maximum reputation with the Pyke Syndicate",
+    "displayName": "Cut-throat politics",
+    "earned": 0
+  },
+  "Outlaws_Ach_14": {
+    "description": "Reach maximum reputation with Crimson Dawn",
+    "displayName": "Cloak and dagger",
+    "earned": 1,
+    "earned_time": 1767039573
+  },
+  "Outlaws_Ach_15": {
+    "description": "Reach maximum reputation with the Hutt Cartel",
+    "displayName": "What you see is what you get",
+    "earned": 0
+  },
+  "Outlaws_Ach_16": {
+    "description": "Reach maximum reputation with the Ashiga Clan",
+    "displayName": "The Queen's word is law",
+    "earned": 1,
+    "earned_time": 1767205855
+  },
+  "Outlaws_Ach_17": {
+    "description": "Reach the lowest possible reputation with a faction",
+    "displayName": "Think I had a choice?",
+    "earned": 1,
+    "earned_time": 1767203333
+  },
+  "Outlaws_Ach_18": {
+    "description": "Acquire the scoundrel gear set",
+    "displayName": "It's mine now",
+    "earned": 0
+  },
+  "Outlaws_Ach_19": {
+    "description": "Complete your first Intel chain",
+    "displayName": "Stay on target",
+    "earned": 1,
+    "earned_time": 1766855899
+  },
+  "Outlaws_Ach_2": {
+    "description": "Clear Wanted status by completing a death trooper confrontation event",
+    "displayName": "They live up to the name",
+    "earned": 0
+  },
+  "Outlaws_Ach_20": {
+    "description": "Pickpocket a customer in a cantina on each planet",
+    "displayName": "Easy pickings",
+    "earned": 0
+  },
+  "Outlaws_Ach_21": {
+    "description": "Win your first fixed fathier race",
+    "displayName": "Against all odds",
+    "earned": 1,
+    "earned_time": 1766787812
+  },
+  "Outlaws_Ach_22": {
+    "description": "Cheat and win a Sabacc game against Lando",
+    "displayName": "No such thing as luck",
+    "earned": 0
+  },
+  "Outlaws_Ach_23": {
+    "description": "Get a high score in an arcade game",
+    "displayName": "There is no try",
+    "earned": 0
+  },
+  "Outlaws_Ach_24": {
+    "description": "Defeat 20 enemies using items fetched by Nix",
+    "displayName": "Right back at you",
+    "earned": 0
+  },
+  "Outlaws_Ach_25": {
+    "description": "Blind 30 enemies with Nix attacks",
+    "displayName": "How rude!",
+    "earned": 0
+  },
+  "Outlaws_Ach_26": {
+    "description": "Defeat each syndicate's capital ship without taking hull damage",
+    "displayName": "Punching up",
+    "earned": 0
+  },
+  "Outlaws_Ach_27": {
+    "description": "Fly into space in a fully upgraded Trailblazer",
+    "displayName": "Might want to buckle up",
+    "earned": 0
+  },
+  "Outlaws_Ach_28": {
+    "description": "Defeat 20 enemies distracted by Fast-Talk",
+    "displayName": "I'll bet you have",
+    "earned": 0
+  },
+  "Outlaws_Ach_29": {
+    "description": "Defeat a Raider to clear Wanted status",
+    "displayName": "The heavier they fall",
+    "earned": 0
+  },
+  "Outlaws_Ach_3": {
+    "description": "Defeat 6 enemies simultaneously using Adrenaline Rush",
+    "displayName": "Shoot first",
+    "earned": 0
+  },
+  "Outlaws_Ach_30": {
+    "description": "Defeat an enemy ship after doing a loop maneuver",
+    "displayName": "Sometimes I amaze even myself",
+    "earned": 0
+  },
+  "Outlaws_Ach_31": {
+    "description": "Defeat an enemy ship without dealing the finishing blow with lasers or missiles",
+    "displayName": "Never tell me the odds",
+    "earned": 0
+  },
+  "Outlaws_Ach_32": {
+    "description": "Destroy 10 enemy ships inside the Kijimi nebula",
+    "displayName": "Into darkness",
+    "earned": 1,
+    "earned_time": 1766958369
+  },
+  "Outlaws_Ach_33": {
+    "description": "Perform a perfect landing with the speeder",
+    "displayName": "Like a bantha",
+    "earned": 1,
+    "earned_time": 1766788704
+  },
+  "Outlaws_Ach_34": {
+    "description": "Perform a 30 second powerslide drift",
+    "displayName": "Galaxy drift",
+    "earned": 1,
+    "earned_time": 1767208595
+  },
+  "Outlaws_Ach_35": {
+    "description": "Defeat 5 enemies with Adrenaline Rush on the speeder simultaneously",
+    "displayName": "Don't get cocky",
+    "earned": 0
+  },
+  "Outlaws_Ach_36": {
+    "description": "Slice 10 advanced terminals",
+    "displayName": "Into the main frame",
+    "earned": 1,
+    "earned_time": 1767045959
+  },
+  "Outlaws_Ach_37": {
+    "description": "Slice 20 terminals",
+    "displayName": "Slice like you",
+    "earned": 1,
+    "earned_time": 1767046897
+  },
+  "Outlaws_Ach_38": {
+    "description": "Disable an alarm using a security terminal while the alarm is active",
+    "displayName": "Now you see me, now you don't",
+    "earned": 1,
+    "earned_time": 1766857386
+  },
+  "Outlaws_Ach_39": {
+    "description": "Pick 20 locks with the data spike",
+    "displayName": "Get rhythm",
+    "earned": 1,
+    "earned_time": 1766859977
+  },
+  "Outlaws_Ach_4": {
+    "description": "Fully upgrade a blaster module configuration",
+    "displayName": "No match for a good blaster",
+    "earned": 0
+  },
+  "Outlaws_Ach_40": {
+    "description": "Acquire a blaster, a starship, and a speeder",
+    "displayName": "Made it somehow",
+    "earned": 1,
+    "earned_time": 1766700621
+  },
+  "Outlaws_Ach_41": {
+    "description": "Complete all main quests on Toshara",
+    "displayName": "Tip the scales",
+    "earned": 1,
+    "earned_time": 1766878552
+  },
+  "Outlaws_Ach_42": {
+    "description": "Complete all main quests on Kijimi",
+    "displayName": "One job at a time",
+    "earned": 1,
+    "earned_time": 1767131932
+  },
+  "Outlaws_Ach_43": {
+    "description": "Escape from Jabba's palace",
+    "displayName": "Making friends",
+    "earned": 0
+  },
+  "Outlaws_Ach_44": {
+    "description": "Complete all main quests on Tatooine",
+    "displayName": "Rare friends",
+    "earned": 0
+  },
+  "Outlaws_Ach_45": {
+    "description": "Liberate the original Super Viper Droid",
+    "displayName": "Spiked",
+    "earned": 0
+  },
+  "Outlaws_Ach_46": {
+    "description": "Complete all main quests on Akiva",
+    "displayName": "Best of the best",
+    "earned": 0
+  },
+  "Outlaws_Ach_47": {
+    "description": "Learn Sliro's secret",
+    "displayName": "The Director",
+    "earned": 0
+  },
+  "Outlaws_Ach_48": {
+    "description": "Complete all main quests in Canto Bight",
+    "displayName": "Eye on the score",
+    "earned": 0
+  },
+  "Outlaws_Ach_49": {
+    "description": "Destroy the Revelator",
+    "displayName": "Calling in some favors",
+    "earned": 0
+  },
+  "Outlaws_Ach_5": {
+    "description": "Collect all Nix treasures",
+    "displayName": "Got you something",
+    "earned": 0
+  },
+  "Outlaws_Ach_50": {
+    "description": "Find the Morenia",
+    "displayName": "All in",
+    "earned": 0
+  },
+  "Outlaws_Ach_51": {
+    "description": "Escape the Morenia",
+    "displayName": "All out",
+    "earned": 0
+  },
+  "Outlaws_Ach_52": {
+    "description": "Save Aksali Noll",
+    "displayName": "Take your own advice",
+    "earned": 0
+  },
+  "Outlaws_Ach_53": {
+    "description": "Retrieve the map to Okala V",
+    "displayName": "A moon in your hand",
+    "earned": 0
+  },
+  "Outlaws_Ach_54": {
+    "description": "Escape from the Khepi Tomb",
+    "displayName": "Stranger Tides",
+    "earned": 0
+  },
+  "Outlaws_Ach_55": {
+    "description": "Get the Khepi scepter hilt",
+    "displayName": "Price of Loyalty",
+    "earned": 0
+  },
+  "Outlaws_Ach_56": {
+    "description": "Steal a Rokana Raider ship",
+    "displayName": "Pirate's Honor",
+    "earned": 0
+  },
+  "Outlaws_Ach_57": {
+    "description": "Discover the secrets of the Khepi",
+    "displayName": "Together",
+    "earned": 0
+  },
+  "Outlaws_Ach_58": {
+    "description": "Complete a contract with a Refractor",
+    "displayName": "First Voyage",
+    "earned": 0
+  },
+  "Outlaws_Ach_59": {
+    "description": "Help compose a pirate's poem",
+    "displayName": "Wordsmith",
+    "earned": 0
+  },
+  "Outlaws_Ach_6": {
+    "description": "Sample all galactic street food",
+    "displayName": "Galactic gourmet",
+    "earned": 0
+  },
+  "Outlaws_Ach_7": {
+    "description": "Listen to the longest sob story in the galaxy",
+    "displayName": "Good listener",
+    "earned": 0
+  },
+  "Outlaws_Ach_8": {
+    "description": "Complete all Expert quests",
+    "displayName": "Experience outranks everything",
+    "earned": 0
+  },
+  "Outlaws_Ach_9": {
+    "description": "Discover all planet areas",
+    "displayName": "Adventure and excitement",
+    "earned": 0
+  }
+}
