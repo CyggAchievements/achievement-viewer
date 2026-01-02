@@ -1,145 +1,145 @@
 {
-    "Ding": {
+    "EASTBELL": {
         "earned": true,
         "earned_time": 1647637728
     },
-    "It uses stamina": {
+    "ROLLSTAB": {
         "earned": true,
         "earned_time": 1647636907
     },
-    "A Sword!": {
+    "SWORD": {
         "earned": true,
         "earned_time": 1647636436
     },
-    "What just happened?": {
+    "RESURRECTION": {
         "earned": true,
         "earned_time": 1647635345
     },
-    " A Stick!": {
+    "STICK": {
         "earned": true,
         "earned_time": 1647634444
     },
-    "Dong": {
+    "WESTBELL": {
         "earned": false,
         "earned_time": 0
     },
-    "You hear a strange hum": {
+    "FUSE": {
         "earned": false,
         "earned_time": 0
     },
-    "Your gift is accepted": {
+    "OFFERING": {
         "earned": false,
         "earned_time": 0
     },
-    "Deep In The Forest": {
+    "HEX1": {
         "earned": false,
         "earned_time": 0
     },
-    "High Above The Clouds": {
+    "HEX2": {
         "earned": false,
         "earned_time": 0
     },
-    "At The Root of The World": {
+    "HEX3": {
         "earned": false,
         "earned_time": 0
     },
-    "What now?": {
+    "GYRO": {
         "earned": false,
         "earned_time": 0
     },
-    "You feel a tingling...": {
+    "DASH": {
         "earned": false,
         "earned_time": 0
     },
-    "Your body is restored.": {
+    "RELICS": {
         "earned": false,
         "earned_time": 0
     },
-    "Game Over": {
+    "BADEND": {
         "earned": false,
         "earned_time": 0
     },
-    "Thank you for playing!": {
+    "MANUAL": {
         "earned": false,
         "earned_time": 0
     },
-    "I'm free!": {
+    "FAIRY": {
         "earned": false,
         "earned_time": 0
     },
-    "Mr Mayor": {
+    "GT1": {
         "earned": false,
         "earned_time": 0
     },
-    "A Secret Legend": {
+    "GT2": {
         "earned": false,
         "earned_time": 0
     },
-    "Sacred Geometry": {
+    "GT3": {
         "earned": false,
         "earned_time": 0
     },
-    "Vintage": {
+    "GT4": {
         "earned": false,
         "earned_time": 0
     },
-    "Just Some Pals": {
+    "GT5": {
         "earned": false,
         "earned_time": 0
     },
-    "Regal Weasel": {
+    "GT6": {
         "earned": false,
         "earned_time": 0
     },
-    "Spring Falls": {
+    "GT7": {
         "earned": false,
         "earned_time": 0
     },
-    "Power Up": {
+    "GT8": {
         "earned": false,
         "earned_time": 0
     },
-    "Back to Work": {
+    "GT9": {
         "earned": false,
         "earned_time": 0
     },
-    "Phonomath": {
+    "GT10": {
         "earned": false,
         "earned_time": 0
     },
-    "Dusty": {
+    "GT11": {
         "earned": false,
         "earned_time": 0
     },
-    "Forever Friend": {
+    "GT12": {
         "earned": false,
         "earned_time": 0
     },
-    "Lawnmower": {
+    "GRASS": {
         "earned": false,
         "earned_time": 0
     },
-    "Too Cute To Smash": {
+    "PIGGYBANKS": {
         "earned": false,
         "earned_time": 0
     },
-    "Nothing happened...": {
+    "COIN1": {
         "earned": false,
         "earned_time": 0
     },
-    "Well done!": {
+    "COIN15": {
         "earned": false,
         "earned_time": 0
     },
-    "Bring it to the wrong fight": {
+    "WRONGFIGHT": {
         "earned": false,
         "earned_time": 0
     },
-    "Whoops": {
+    "FREEZESELF": {
         "earned": false,
         "earned_time": 0
     },
-    "Your pocket feels heavier...": {
+    "BONUSBOMB": {
         "earned": false,
         "earned_time": 0
     }

@@ -1,121 +1,121 @@
 {
-    "Karate Master": {
+    "COMBAT_TRAINING": {
         "earned": true,
         "earned_time": 1639165052
     },
-    "Going it alone": {
+    "COMPLETED_SOLO": {
         "earned": true,
         "earned_time": 1639163566
     },
-    "That's something, I suppose": {
+    "SAVED_ALL": {
         "earned": true,
         "earned_time": 1639163566
     },
-    "For a dollar he told me his secrets": {
+    "FOUND_SECRETS_25": {
         "earned": true,
         "earned_time": 1639056264
     },
-    "Lovebirds": {
+    "RELATIONSHIP_ALEX_JULIA": {
         "earned": true,
         "earned_time": 1638980686
     },
-    "As long as you're quick": {
+    "QTES_TEN_IN_A_ROW": {
         "earned": true,
         "earned_time": 1638975771
     },
-    "Can't catch him with this old junker": {
+    "CONRAD_ESCAPES": {
         "earned": true,
         "earned_time": 1638967643
     },
-    "Yes! Yes, I’ll marry you!": {
+    "JULIA_ACCEPTS": {
         "earned": true,
         "earned_time": 1638966064
     },
-    "Brother thing, you know": {
+    "UNLOCKED_ENVIOUS": {
         "earned": true,
         "earned_time": 1638900518
     },
-    "Secrets! Lies! Conspiracies, man!": {
+    "FOUND_SECRETS_ALL": {
         "earned": false,
         "earned_time": 0
     },
-    "Learning to work together": {
+    "PLAYED_MODE_SHARED": {
         "earned": false,
         "earned_time": 0
     },
-    "Like that movie with the ship": {
+    "PLAYED_MODE_MOVIENIGHT": {
         "earned": false,
         "earned_time": 0
     },
-    "Break 'em during the thunder": {
+    "EIGHT_MILES": {
         "earned": false,
         "earned_time": 0
     },
-    "Big man on campus": {
+    "UNLOCKED_BOLD": {
         "earned": false,
         "earned_time": 0
     },
-    "Aye, aye captain": {
+    "UNLOCKED_ARROGANT": {
         "earned": false,
         "earned_time": 0
     },
-    "Remember who's signing the checks": {
+    "UNLOCKED_SPOILT": {
         "earned": false,
         "earned_time": 0
     },
-    "If you're selling, I'm buying": {
+    "UNLOCKED_HUMOROUS": {
         "earned": false,
         "earned_time": 0
     },
-    "Go with your gut": {
+    "CHOOSE_HEART": {
         "earned": false,
         "earned_time": 0
     },
-    "Consider all the permutations": {
+    "CHOOSE_HEAD": {
         "earned": false,
         "earned_time": 0
     },
-    "A pint of frosty amber liquid": {
+    "CONRAD_FLIRTS": {
         "earned": false,
         "earned_time": 0
     },
-    "The name of this vessel": {
+    "BAD_CALL": {
         "earned": false,
         "earned_time": 0
     },
-    "It's all gone changing on me": {
+    "CALMED_JUNIOR": {
         "earned": false,
         "earned_time": 0
     },
-    "Quite a lot of deaths that night": {
+    "FOUND_PICTURES_BLACK": {
         "earned": false,
         "earned_time": 0
     },
-    "Possible futures": {
+    "FOUND_PICTURES_WHITE": {
         "earned": false,
         "earned_time": 0
     },
-    "Girls' night out": {
+    "KILLED_MALES": {
         "earned": false,
         "earned_time": 0
     },
-    "Right there with ya, boys": {
+    "KILLED_FEMALES": {
         "earned": false,
         "earned_time": 0
     },
-    "You got a better way?": {
+    "RELATIONSHIP_CONRAD_FLISS": {
         "earned": false,
         "earned_time": 0
     },
-    "Medium bro": {
+    "RELATIONSHIP_BRAD_ALEX": {
         "earned": false,
         "earned_time": 0
     },
-    "Ghost ships are just a myth, right?": {
+    "FOUND_PICTURES_ALL": {
         "earned": false,
         "earned_time": 0
     },
-    "Not a sole survivor": {
+    "KILLED_ALL": {
         "earned": false,
         "earned_time": 0
     }

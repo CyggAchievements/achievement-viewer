@@ -1,157 +1,157 @@
 {
-    "More Than 15%": {
+    "GAVE_TOUR_GUIDE_TIP": {
         "earned": true,
         "earned_time": 1599325258
     },
-    "Fully Improved: Gwen": {
+    "ALL_DECORATIONS_DEER": {
         "earned": true,
         "earned_time": 1599324573
     },
-    "Monkey 101": {
+    "ANY_MONKEY_QUEST_COMPLETED": {
         "earned": true,
         "earned_time": 1598878879
     },
-    "At Least Someone is Happy": {
+    "ANY_SPIRIT_ECSTATIC": {
         "earned": true,
         "earned_time": 1598877500
     },
-    "Collector": {
+    "ALL_COLLECTIONS_COMPLETED": {
         "earned": false,
         "earned_time": 0
     },
-    "The More, The Merrier": {
+    "MULTIPLE_SPIRITS_ECSTATIC": {
         "earned": false,
         "earned_time": 0
     },
-    "Stoked": {
+    "ALL_SPIRITS_ECSTATIC": {
         "earned": false,
         "earned_time": 0
     },
-    "The Acrobat": {
+    "ALL_ABILITIES_ACQUIRED": {
         "earned": false,
         "earned_time": 0
     },
-    "Decked Out": {
+    "ALL_BUILDINGS_ON_BOAT": {
         "earned": false,
         "earned_time": 0
     },
-    "Spiritfared": {
+    "ALL_SPIRITS_RELEASED": {
         "earned": false,
         "earned_time": 0
     },
-    "Master Chef": {
+    "ALL_RECIPES_COOKED": {
         "earned": false,
         "earned_time": 0
     },
-    "First Encounter": {
+    "FIRST_GUARDIAN_TOWER": {
         "earned": false,
         "earned_time": 0
     },
-    "Second Encounter": {
+    "SECOND_GUARDIAN_TOWER": {
         "earned": false,
         "earned_time": 0
     },
-    "Third Encounter": {
+    "THIRD_GUARDIAN_TOWER": {
         "earned": false,
         "earned_time": 0
     },
-    "Let It Go": {
+    "STELLA_LAST_VOYAGE_DONE": {
         "earned": false,
         "earned_time": 0
     },
-    "Twelve Monkeys": {
+    "TWELVE_MONKEY_QUEST_COMPLETED": {
         "earned": false,
         "earned_time": 0
     },
-    "Monkey Business": {
+    "FIFTY_MONKEY_QUEST_COMPLETED": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Atul": {
+    "ALL_DECORATIONS_FROG": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Summer": {
+    "ALL_DECORATIONS_SNAKE": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Alice": {
+    "ALL_DECORATIONS_HEDGEHOG": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Astrid": {
+    "ALL_DECORATIONS_LYNX": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Bruce & Mickey": {
+    "ALL_DECORATIONS_BULL": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Gustav": {
+    "ALL_DECORATIONS_OWL": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Stanley": {
+    "ALL_DECORATIONS_MUSHROOM": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Buck": {
+    "ALL_DECORATIONS_BASILISK": {
         "earned": false,
         "earned_time": 0
     },
-    "Fully Improved: Elena": {
+    "ALL_DECORATIONS_DOG": {
         "earned": false,
         "earned_time": 0
     },
-    "Dad Mode": {
+    "HEARD_MANY_DAD_JOKES": {
         "earned": false,
         "earned_time": 0
     },
-    "Public Transportation": {
+    "USED_FAST_TRAVEL_MANY_TIMES": {
         "earned": false,
         "earned_time": 0
     },
-    "Everything is Illuminated": {
+    "ALL_LIGHTHOUSES_LIT": {
         "earned": false,
         "earned_time": 0
     },
-    "Sheep Ranger": {
+    "ALL_SHEEP_COLLECTED": {
         "earned": false,
         "earned_time": 0
     },
-    "Sheep Cleaner": {
+    "MANY_SHEEP_SHEARED": {
         "earned": false,
         "earned_time": 0
     },
-    "Bow-Tastic": {
+    "ALL_FIGURE_HEADS_PURCHASED": {
         "earned": false,
         "earned_time": 0
     },
-    "Food Delivery": {
+    "SIGNED_UP_FEEDORAMA": {
         "earned": false,
         "earned_time": 0
     },
-    "Unsubscribe": {
+    "UNSUBSCRIBED_FEEDORAMA": {
         "earned": false,
         "earned_time": 0
     },
-    "Dating Coach": {
+    "STELLA_GAVE_DATING_ADVICE": {
         "earned": false,
         "earned_time": 0
     },
-    "Sealed Lips": {
+    "STELLA_KEPT_CHEATING_LION": {
         "earned": false,
         "earned_time": 0
     },
-    "Loose Lips": {
+    "STELLA_TOLD_CHEATING_LION": {
         "earned": false,
         "earned_time": 0
     },
-    "Big Spender": {
+    "MANY_ITEMS_BOUGHT": {
         "earned": false,
         "earned_time": 0
     },
-    "Taking Out The Trash": {
+    "MANY_ITEMS_SOLD": {
         "earned": false,
         "earned_time": 0
     }
