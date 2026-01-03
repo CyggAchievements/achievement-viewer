@@ -87,7 +87,8 @@
   "Outlaws_Ach_24": {
     "description": "Defeat 20 enemies using items fetched by Nix",
     "displayName": "Right back at you",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767398144
   },
   "Outlaws_Ach_25": {
     "description": "Blind 30 enemies with Nix attacks",
