@@ -152,7 +152,8 @@
   "Outlaws_Ach_35": {
     "description": "Defeat 5 enemies with Adrenaline Rush on the speeder simultaneously",
     "displayName": "Don't get cocky",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767479979
   },
   "Outlaws_Ach_36": {
     "description": "Slice 10 advanced terminals",
