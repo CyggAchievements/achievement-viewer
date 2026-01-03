@@ -128,7 +128,8 @@
   "Outlaws_Ach_31": {
     "description": "Defeat an enemy ship without dealing the finishing blow with lasers or missiles",
     "displayName": "Never tell me the odds",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767478648
   },
   "Outlaws_Ach_32": {
     "description": "Destroy 10 enemy ships inside the Kijimi nebula",
