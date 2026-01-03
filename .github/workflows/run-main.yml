@@ -2,7 +2,7 @@ name: Scheduled or Manual Trigger
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */6 * * *' # Every 6 hours (UTC)
   workflow_dispatch:
 
 jobs:
