@@ -1,0 +1,410 @@
+{
+  "appid": "1817190",
+  "name": "Marvel’s Spider-Man: Miles Morales",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1763569499",
+  "achievements": {
+    "100xcombo!!!": {
+      "name": "100x Combo!!!",
+      "description": "Perform a 100x Combo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/77f7814f2f15057e6426a8ce168aae98eef4f2bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a2ab94531f59a37bb0abc416eec126428ae3d527.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "agiftfrompete": {
+      "name": "A Gift From Pete",
+      "description": "Receive the Gift Suit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/481c3365f13418aeaf24dccd2901f00e6ee44f31.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/f55c2e6da8af65c93dee89f8448e67bf9298df22.jpg",
+      "hidden": true,
+      "percent": "90.0"
+    },
+    "anewhome": {
+      "name": "A New Home",
+      "description": "100% complete all districts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/05784a3a3f540f3d883fe34f239bc82b4c98a075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/35ea93cd329ab7ef99761b62312e9b374a7f406b.jpg",
+      "hidden": false,
+      "percent": "21.0"
+    },
+    "beyourself": {
+      "name": "Be Yourself",
+      "description": "Collect all Achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a277038469541b95b8369663fa62e4544ec9428b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d7987fe2aedc33e477a2fbd7e75a1908c2ce3e5b.jpg",
+      "hidden": false,
+      "percent": "6.7"
+    },
+    "bestfriesintown": {
+      "name": "Best Fries in Town",
+      "description": "Pay your respects to a legend in the Upper West Side",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/db3510cfafa246ce549e47241b08ad0a97ee66d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/fe5802cdab22c4b9bec36268c373de2763ca9c7d.jpg",
+      "hidden": false,
+      "percent": "15.3"
+    },
+    "climbingthewalls": {
+      "name": "Climbing the Walls",
+      "description": "Perform 25 Wall Takedowns",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b6bee1a95194f9e5b48d48091130e01b8a94d6cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/40d8613028b78759e629fd40ea6ef6efba95dfe8.jpg",
+      "hidden": false,
+      "percent": "12.2"
+    },
+    "comeattheking": {
+      "name": "Come at the King",
+      "description": "Unravel a criminal conspiracy in Harlem",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c218334d17ed7691868a92e5be35e2e4af871ea8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/2a14fcca761e39051ff0021a4dca1df5f628ee90.jpg",
+      "hidden": true,
+      "percent": "49.6"
+    },
+    "competitivespirit": {
+      "name": "Competitive Spirit",
+      "description": "Beat Phin at the rocket launch mini-game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a17ee8d9e7fee13dea563442329b669dccf3b82a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/2f4ae59cba22691038ca2ff7a25662e046afab11.jpg",
+      "hidden": true,
+      "percent": "20.2"
+    },
+    "crimemaster": {
+      "name": "Crime Master",
+      "description": "Complete all Bonus Objectives for every crime type",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d7c1cba4c2c2c26ebd671bb5b02c2a96610002ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/476896835a50f02b70adc23631e4d0e7485590b0.jpg",
+      "hidden": false,
+      "percent": "12.5"
+    },
+    "deepcuts": {
+      "name": "Deep Cuts",
+      "description": "Collect all Sound Samples and recreate the Davis Brothers Mix",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7b2cfc1c8cdfed01715acfb02e61171ac6d98528.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b2fec75e1993fb72e73454818b6a52a68f74432b.jpg",
+      "hidden": true,
+      "percent": "34.3"
+    },
+    "dodginglight": {
+      "name": "Dodging Light",
+      "description": "Get Spectacular or better in a Spider-Training Stealth Challenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/03ce8f8a3a26e445f64505c7e594432425e8b318.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/f773344dea523071a64870816eadfa22278f3f7f.jpg",
+      "hidden": true,
+      "percent": "44.7"
+    },
+    "explodingbulldozer": {
+      "name": "Exploding Bulldozer",
+      "description": "Defeat Roxxon Rhino",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c596dabb2627a93210acd021e109160f0b998884.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/547a766faac2aa1c24b95c669c758380412e1a49.jpg",
+      "hidden": true,
+      "percent": "63.6"
+    },
+    "familydrama": {
+      "name": "Family Drama",
+      "description": "Defeat Prowler",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a8831eaf4d3cccd225fb03773b5c934833476e22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/18c849f4541cd1cb3d0947547f1d520ecdc123a7.jpg",
+      "hidden": true,
+      "percent": "62.2"
+    },
+    "fivestarreview": {
+      "name": "Five Star Review",
+      "description": "Complete all FNSM app requests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/8e2a23cd213fe1f7800faa8776a74cc07b2ec979.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cd99c545197ec17d5136863335f88ccaf9d439b4.jpg",
+      "hidden": false,
+      "percent": "36.9"
+    },
+    "fromdowntown": {
+      "name": "From Downtown",
+      "description": "Use Venom Dash to throw an enemy into a group of three or more",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/6eb8a7f7da4670ac98a897cd730a448d27aeb062.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5e8c1c142329f9385f500380d863d596bde094b4.jpg",
+      "hidden": false,
+      "percent": "41.6"
+    },
+    "fromtherafters": {
+      "name": "From the Rafters",
+      "description": "Perform 25 Ceiling Takedowns",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b7b0b84bdf4da3c2415ae7c1d58ebb55dfa4695b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/fffd07b177ddec36dc1b71bb84c7d607047a42da.jpg",
+      "hidden": false,
+      "percent": "12.5"
+    },
+    "hangingbyathread": {
+      "name": "Hanging by a Thread",
+      "description": "Keep the bridge together",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/6f0d466d81319455eaabadb93a825418975fbefb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a9ab75a4b5322d8f35fd1455ad9e617bf67c6639.jpg",
+      "hidden": true,
+      "percent": "77.4"
+    },
+    "i_monaboat": {
+      "name": "I'm on a Boat",
+      "description": "Ride the derelict boat in southern Chinatown",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/59d4bf967a2ec49dd30729fae73866173826242f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5b41be28bd09d28dc3b3eec844dbf5ba5b8ce66b.jpg",
+      "hidden": false,
+      "percent": "35.9"
+    },
+    "invisiblespider": {
+      "name": "Invisible Spider",
+      "description": "Defeat 50 enemies while Camouflaged",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/29a152933e1d2e48fa3defc78dc0cbd3e7d77e6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/08203351530a4211835169584b919fe6f8093c23.jpg",
+      "hidden": false,
+      "percent": "42.2"
+    },
+    "jjjwouldbeproud": {
+      "name": "JJJ Would Be Proud",
+      "description": "Apply a sticker and customise lighting while in Photo Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/651a7c953fa8cf6f6af290d06f4ef4a7c7e5ed77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cb392d7ea12110ed8248ead3a13c0ae18f5f5256.jpg",
+      "hidden": false,
+      "percent": "10.5"
+    },
+    "justthebeginning": {
+      "name": "Just the Beginning",
+      "description": "Unlock all Skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/446a6551159cc43df702a1a1f074356fad2b1f8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a346695759d2fd868b078bd0f42095eb5509e01c.jpg",
+      "hidden": false,
+      "percent": "13.1"
+    },
+    "kitbash": {
+      "name": "Kitbash",
+      "description": "Craft 10 Upgrades",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c2e79fbf2306e20b724c98a6c7867f0d05470e6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5636339680825e78302a2e2e79e79ae311464b14.jpg",
+      "hidden": false,
+      "percent": "33.9"
+    },
+    "launch,swinganddive": {
+      "name": "Launch, Swing and Dive",
+      "description": "Get Spectacular or better in a Spider-Training Traversal Challenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/744404b652551ae47fee3db84c85dadc4536c524.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/9be8c5cfc0924746ac67c07f603b6f492355c713.jpg",
+      "hidden": true,
+      "percent": "52.2"
+    },
+    "likearhinoinachinashop": {
+      "name": "Like a Rhino in a China Shop",
+      "description": "Smash into 15 breakable objects while steering Rhino through the shopping mall",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/10322186254c60f52fc5b510985cea5b3912e7a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/6cb79a81cf9d4b6b11f61cf3bde029384f447824.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "lookwithbettereyes": {
+      "name": "Look with Better Eyes",
+      "description": "Craft a Visor Mod",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c988ecf0a0868b00f6ebe23d72a272983f812e95.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5fd93abea7ce66584fc786d1b1ccb66e0aab8c1c.jpg",
+      "hidden": false,
+      "percent": "70.3"
+    },
+    "memorylane": {
+      "name": "Memory Lane",
+      "description": "Collect all Postcards",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/baa057a7b9cf5ad063a070d5d474d21a148a3217.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a66b9a3fa5324a7eb2d8dd030a5e62849b5e955e.jpg",
+      "hidden": false,
+      "percent": "27.6"
+    },
+    "modthatsuit": {
+      "name": "Mod that Suit",
+      "description": "Craft a Suit Mod",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c23bf86dbf947421c3a3ed86050483dce512b5a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b6a2a2262939b49f5904e6294780fb14f5a5698b.jpg",
+      "hidden": false,
+      "percent": "80.8"
+    },
+    "nevergiveup": {
+      "name": "Never Give Up",
+      "description": "Pay respects at Jefferson Davis' grave in Harlem",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/596b9705b0a173c21b3e06068f383b5dfc007bda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/2d06ba12a4caff0a3ce83d4b05c6dc0290d718a9.jpg",
+      "hidden": false,
+      "percent": "10.6"
+    },
+    "neversawitcoming": {
+      "name": "Never Saw It Coming",
+      "description": "Complete an Enemy Base without being detected",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/3c8989687f4365bd2beffddb19c8b00e3e5464fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/20e9fc9762851c23f2658f79ee1fdb2dc5b3b575.jpg",
+      "hidden": false,
+      "percent": "23.0"
+    },
+    "nowheretohide": {
+      "name": "Nowhere to Hide",
+      "description": "Perform 100 Stealth Takedowns",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5ef96957a0a12cb7ec36e515f61ac3db9df71325.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d5ee40d59fd1ca097da23f76d51a3ab5ebd8efb1.jpg",
+      "hidden": false,
+      "percent": "56.9"
+    },
+    "overcharge": {
+      "name": "Overcharge",
+      "description": "Defeat 100 enemies with Venom attacks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c4e9dba6b259437f9470a3ab87496bc41477e799.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/61553db66cee30303f33e8801b94dd4b004963a5.jpg",
+      "hidden": false,
+      "percent": "40.9"
+    },
+    "pete_sfirstvillain": {
+      "name": "Pete's First Villain",
+      "description": "Complete the Final Test",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b441e5a1f197c19e1366cff4c464069436a284d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/8c8be6e9ebb29cd24a55ddf6aedfe8470277dbe8.jpg",
+      "hidden": true,
+      "percent": "33.9"
+    },
+    "plusplus": {
+      "name": "Plus Plus",
+      "description": "Complete the game on New Game+",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/533f9b5cd919260a401f2bb6141a3b8206810ab5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/eb237d4cbbd5e24c6886d7eb15ae51d343bec9a9.jpg",
+      "hidden": false,
+      "percent": "10.0"
+    },
+    "punchingpixels": {
+      "name": "Punching Pixels",
+      "description": "Get Spectacular or better in a Spider-Training Combat Challenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/87dad5e8af55036e0835d19a1b4156dc2fcd39d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d3542324d05186ecaa2401180a4de64ff163b772.jpg",
+      "hidden": true,
+      "percent": "48.3"
+    },
+    "readyforanything": {
+      "name": "Ready for Anything",
+      "description": "Purchase all suits",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/17736fd5dbb21e08ea1141a550d77cfb5d781193.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/6f15c62229f8dc5c8994e4d4e5cc0c95e4e124e9.jpg",
+      "hidden": false,
+      "percent": "13.6"
+    },
+    "rhinorodeo": {
+      "name": "Rhino Rodeo",
+      "description": "Ride Rhino through the mall",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/89b26445f3004e3bd6d944f372aeef7d1ef8cc49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5e20142a5e783d18bfec1264ee7376e9699a0129.jpg",
+      "hidden": true,
+      "percent": "93.0"
+    },
+    "salvager": {
+      "name": "Salvager",
+      "description": "Open all Underground Caches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/31f9e5e3bac6eea5d217b31f9af4b3da61b9e4be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b942d96b4e878da98748c2bd369230976479ae58.jpg",
+      "hidden": false,
+      "percent": "23.6"
+    },
+    "sharedhistory": {
+      "name": "Shared History",
+      "description": "Walk through Miles and Phin's past",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/20599ea75dbff97f0131f162937b286a04ff6093.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7d364964379fddef1ef27c26be452f4f2a907ac9.jpg",
+      "hidden": true,
+      "percent": "60.1"
+    },
+    "sociallyacceptable": {
+      "name": "Socially Acceptable",
+      "description": "Scroll through the entire Social Feed at the end of the story",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a9d5d907850aa7d8cf70c81db70a9bd52019b742.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cd61b254d10407b95a1f541c7336d33e7b3b0c55.jpg",
+      "hidden": false,
+      "percent": "10.7"
+    },
+    "spidertraining:complete": {
+      "name": "Spider-Training: Complete",
+      "description": "Complete every Spider-Training Challenge once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/4aa095176e7af18a4acce420ca8ac86b565a1691.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5ad9fc3ad5d1c9824a2818906e485de4e13b76f0.jpg",
+      "hidden": true,
+      "percent": "34.4"
+    },
+    "thecoreoftheproblem": {
+      "name": "The Core of the Problem",
+      "description": "Investigate Roxxon's underground lab",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/1355bced15c379389daed7e011f1cbceec4fb5c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7fb98d271cb865140ed9b8831f77e1ef2225e723.jpg",
+      "hidden": true,
+      "percent": "73.6"
+    },
+    "theharlemexpress": {
+      "name": "The Harlem Express",
+      "description": "Get the trains running again",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cd342df6319e8269bffc59cba67dd9209f5f1de0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/8eb80d430b16ce638fd9b1b5784b6ef54a6313c8.jpg",
+      "hidden": true,
+      "percent": "81.6"
+    },
+    "trapped": {
+      "name": "Trapped",
+      "description": "Defeat 50 enemies with the Remote Mine gadget",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/128c1fb666f4f4e0dc93c6b1e97af3f1f3f272d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/55a51a78de1666a97790e8a11f23717999180db4.jpg",
+      "hidden": false,
+      "percent": "24.6"
+    },
+    "truedeception": {
+      "name": "True Deception",
+      "description": "Complete the vault sequence in Underground Undercover",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/bf99834a3afcfaefbd179492fc729f29d9c880b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c1b5e2ad2ea4ecf94f6385b954e5184a959999d4.jpg",
+      "hidden": true,
+      "percent": "70.2"
+    },
+    "ultimatesacrifice": {
+      "name": "Ultimate Sacrifice",
+      "description": "Save Harlem",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/96e7b5c63768169f5332b9a50dacc948f074b002.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/ee2daa3b4a664fe6f4e34436244968f81c75d2a2.jpg",
+      "hidden": true,
+      "percent": "59.5"
+    },
+    "undertheirnoses": {
+      "name": "Under Their Noses",
+      "description": "Shut down all Roxxon Labs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/c6bf27947ae596f37e349e31a5990a4412dd81b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b33485e71edd52eb00bdab87cf89ec8c62ce9673.jpg",
+      "hidden": true,
+      "percent": "35.9"
+    },
+    "undergroundundone": {
+      "name": "Underground Undone",
+      "description": "Shut down all Underground Hideouts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a820abbe0852112d13a00123c6d48147d20630f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/412ecab116dc58b281aeeed08b47037d286b3a0f.jpg",
+      "hidden": true,
+      "percent": "37.2"
+    },
+    "upandover": {
+      "name": "Up and Over",
+      "description": "Perform a Venom Jump, then a Venom Dash on a single enemy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5c28c7da66cffec8864c389c66a8d94f8b3dabe3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d283a5c442eb3fbbb67bdf79e1f9acf0ef9f68d9.jpg",
+      "hidden": false,
+      "percent": "31.6"
+    },
+    "urbanexplorers": {
+      "name": "Urban Explorers",
+      "description": "Collect all Time Capsules",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/0f963c2c81fcb3e53e2c88760868897212ecbb55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a6b32bac60f350f879a6ce0dbc5e9066882b6204.jpg",
+      "hidden": false,
+      "percent": "31.6"
+    },
+    "velociskates": {
+      "name": "Veloci-Skates",
+      "description": "Chase Tinkerer through the city",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/736b69eefc34717450c7f6b421d896148671749b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/fc72915fdd9c4c347e28b5867c259b5dfa45b860.jpg",
+      "hidden": true,
+      "percent": "67.8"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

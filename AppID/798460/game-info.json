@@ -1,0 +1,274 @@
+{
+  "appid": "798460",
+  "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798460/header.jpg?t=1719503515",
+  "achievements": {
+    "NEW_ACHIEVEMENT_1_5": {
+      "name": "A Tonic for the Djinn",
+      "description": "Awarded for defeating the Dark Djinn.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/481f1a3894bc543f3607f4634c2a47357945fab9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/e59a5e222c58f257c641803d42b047866394c77c.jpg",
+      "hidden": true,
+      "percent": "14.8"
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "name": "Anchors Aweigh",
+      "description": "Awarded for obtaining the Sea Cow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/fa2dabdedb38e9ab21c578eaf78558682116838a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/47dcf2fd35f54826996e94d8a62bdaab40aee588.jpg",
+      "hidden": true,
+      "percent": "26.6"
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "name": "Bounty Hunter",
+      "description": "Awarded for completing 40 different bounty hunts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/329205f7a5842a442ed104010c0241f62f5b6369.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/a766c51e17080eb30c7eeb517efb023b29af666d.jpg",
+      "hidden": true,
+      "percent": "4.0"
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "name": "Boy Scout",
+      "description": "Awarded for running 15 different errands.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/812ed7cce527fe003e8d58626d077a3a2202e2e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/58674995057f64569ab112e58956025643951670.jpg",
+      "hidden": false,
+      "percent": "26.2"
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "name": "Council Trouncer",
+      "description": "Awarded for freeing the other world from the clutches of the Zodiarchy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/63b69ca141a3ced9370f2e2c64c1c095d81db072.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/ae396ef7a610516dbbb0e3ce873a03dcf67cff31.jpg",
+      "hidden": true,
+      "percent": "12.3"
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "name": "En Guardian!",
+      "description": "Awarded for defeating the Guardian of the Woods and bringing him back to his senses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/f86219075fa7167bc8e3e404164228356034f2d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/5bba3ce66e9d6d79f383ee43f789cea5aae3e23d.jpg",
+      "hidden": true,
+      "percent": "65.1"
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "name": "Familiarizer",
+      "description": "Awarded for taming 20 different species.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/801301f6a10a576dc6f2158b1f3d68113f52f96f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/49c8597ff8b6e0171e60b1921181d72441dabec0.jpg",
+      "hidden": false,
+      "percent": "27.0"
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "name": "Familiarologist",
+      "description": "Awarded for taming 250 different species.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/1e14a3692079579c38f8e988c5adb85abf59f8bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/93b128a28654ca8cb8aca2810373c7be63492ad6.jpg",
+      "hidden": true,
+      "percent": "1.7"
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "name": "Fly the Friendlier Skies",
+      "description": "Awarded for befriending Tengri.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/94e50e19d2ee21ad02a93f4c799346744703d2ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/3d576bc5d4087cd3c1d874bedca40e10a115f229.jpg",
+      "hidden": true,
+      "percent": "18.8"
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "name": "Glim Reaper",
+      "description": "Awarded for gathering 2,000 glims.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/4209885aa49de27faf6ba83a300ad9638772abf2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/f33b0e4e094e643a0e852a47d42d2a5c7c80482b.jpg",
+      "hidden": false,
+      "percent": "3.1"
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "name": "Globetrotter",
+      "description": "Awarded for setting foot in all secluded regions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/9a9ae8adebcff15e781ad850bc983937b457a914.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/ff48b85f5e6c2e95131da8cc3ea68783b6d8fc3a.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "name": "Guildering the Lily",
+      "description": "Awarded for amassing a fortune of half a million guilders.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/b27fb0d7ca9eef552848b45839a67d6c2265bcaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/6fe8cefdc6caae42cf34d8d739b9356cea8c22b9.jpg",
+      "hidden": false,
+      "percent": "6.7"
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "name": "Gunslinger",
+      "description": "Awarded for learning all of Swaine's trickshots.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/a1347b8ea5e2e4c691b847bf702a86d57fce18b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/e266b01c586a6270818d038d0e7be34a26829050.jpg",
+      "hidden": false,
+      "percent": "8.8"
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "name": "High Roller",
+      "description": "Awarded for collecting all of the tickets for the Mem-O-Vision by winning big at the casino.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/189d39a32a382fe7559e3b1c0114bdb4a9981935.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/98ec34ee164d4abf3aeb407ac7bbea2273de05e4.jpg",
+      "hidden": true,
+      "percent": "3.4"
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "name": "Humanitarian of the Year",
+      "description": "Awarded for running 60 different errands.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/6ec0fbae5b4530ab7c94d2187bf36e0e663c3116.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/651dbb2f84f4318a2024071fb9ec5ac5dd93194c.jpg",
+      "hidden": true,
+      "percent": "12.2"
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "name": "King of the World",
+      "description": "Awarded for defeating the Guardian of Worlds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/d4777c87140e167e5e34ee6fa20e17c87e90c4b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/ba28ca2f105a2eaae38daf3aa97d39f430ed0232.jpg",
+      "hidden": true,
+      "percent": "3.6"
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "name": "Little Battler Experience",
+      "description": "Awarded for winning 1,000 battles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/14babc8c8663be20c011ce9d1e3f9555b61ee438.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/7223f72c9d74b6d3b7d9138eff1d61df44588485.jpg",
+      "hidden": false,
+      "percent": "5.3"
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "name": "Mad Scientist",
+      "description": "Awarded for alchemizing 120 different items.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/8dded463c564c14ebc147518114c993337c13bac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/c6c63d40e2ccfcee6f0846cb325318cde0f1815a.jpg",
+      "hidden": true,
+      "percent": "1.6"
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "name": "Magic Master",
+      "description": "Awarded for learning all of Oliver's spells.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/a70b15f7da65f525e46ca900cde7d85e3f0a9239.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/c0eb65d1108fc43293fc6edbc86fb33228fe3353.jpg",
+      "hidden": false,
+      "percent": "6.1"
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "name": "Man of Steal",
+      "description": "Awarded for successfully stealing 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/7ecc28b5cb6ad9769e58438c0039eb39b7c80398.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/9f2d0444f349db7e994d427f0113053d1e1d3638.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "name": "New Sheriff in Town",
+      "description": "Awarded for completing 10 different bounty hunts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/8830e1fba0b77c97de3ae262173865c537e5b448.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/c8d355286dd2a3646f506a271948c89303334750.jpg",
+      "hidden": false,
+      "percent": "20.0"
+    },
+    "NEW_ACHIEVEMENT_1_0": {
+      "name": "Out of this World",
+      "description": "Awarded for casting Gateway and travelling to another world.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/401df3142f353d9ae4eee6a00a4999ceb460df03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/5d2d98fea8f85f34cb7fc859d62c78e4bedbbec5.jpg",
+      "hidden": false,
+      "percent": "79.7"
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "name": "Overfamiliar",
+      "description": "Awarded for maximizing a familiar's familiarity.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/d811c4194b6fb5ef01329c9d88e4db31246747f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/11b9828894dc1d8834db89dc4558ed0a3da8dff6.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "name": "Pedigree Breeder",
+      "description": "Awarded for training a familiar to its full potential.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/6cf599908ff7ec97a086808c0f9e61a2bed3fc91.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/e63803f47f4230b229920cde1e24456dc8578537.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "name": "Pop Pop Fizz Fizz",
+      "description": "Awarded for alchemizing 10 different items.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/20f9b77b967e115be0d95ee8bb9a5a85ae3c7464.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/07f1d5bae2e1135f59cbf5b9586eac7e7966e849.jpg",
+      "hidden": false,
+      "percent": "11.3"
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "name": "Prima Donna",
+      "description": "Awarded for learning all of Esther's songs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/088719f30420d61bc133d8840a1c22bdf27b9f5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/97ce26a29d9f299bb858402c73708c46535a45d5.jpg",
+      "hidden": false,
+      "percent": "10.9"
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "name": "Raising the Stakes",
+      "description": "Awarded for collecting your first prize at the casino.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/250f5dde13e57bc486626a701b9cb141141ce3d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/ea8f803acd4b674cee60f39b8d5ac4ffd468519f.jpg",
+      "hidden": false,
+      "percent": "8.5"
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "name": "Solosseum Slugger",
+      "description": "Awarded for winning your first bout in the Solosseum Series.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/7f93586cf8edfc5ee0d926bc1de27fc709141652.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/c7416e7c09465041a44fe817469658ad2b815129.jpg",
+      "hidden": true,
+      "percent": "11.9"
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "name": "Solosseum Supremo",
+      "description": "Awarded for becoming the champion of the Solosseum Series.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/7424763f7746c79dc22d3429799afac93ff5ee98.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/e6737778c1f59e7f9c58e7b3e71a681102cf6651.jpg",
+      "hidden": true,
+      "percent": "3.1"
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "name": "Super Hero",
+      "description": "Awarded for collecting all the merit awards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/ca3e534e903b21af757c83ea1648f012a9c618fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/5094ad5b74953da486b88dfbaf835d72961df624.jpg",
+      "hidden": true,
+      "percent": "2.8"
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "name": "Treasure Hunter",
+      "description": "Awarded for finding all hidden treasure chests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/95188c2e127b12859ab370a9c3fa27396d08f442.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/69ab14ad46a348e51d614e25d98643d578cc0a1e.jpg",
+      "hidden": false,
+      "percent": "2.8"
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "name": "Viva the Evolution!",
+      "description": "Awarded for managing 10 metamorphoses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/09a188ceb12997de19904fff619d440124a5ef99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/70e84c72fce461faa6bb7c7412c4510ea21ab062.jpg",
+      "hidden": false,
+      "percent": "20.3"
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "name": "Wonder Wand",
+      "description": "Awarded for restoring the legendary wand Mornstar to its former glory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/829b08fbd82f5617fe992ef38976ccbc5ff264ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/798460/8b52b5b7a468262acb996d7ef140025589545d07.jpg",
+      "hidden": true,
+      "percent": "16.0"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

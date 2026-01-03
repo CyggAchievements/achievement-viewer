@@ -1,0 +1,714 @@
+{
+  "appid": "1325200",
+  "name": "Nioh 2 – The Complete Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325200/header.jpg?t=1760595713",
+  "achievements": {
+    "TROPHY_DLC3_MISSION_02": {
+      "name": "A Dream of Peace",
+      "description": "Completed \"A Distant Dream\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b58e9905419b2105dd1431f4f1bbd0fea4f2e0a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "19.9"
+    },
+    "TROPHY_DLC3_MUJINA_COMPLETE": {
+      "name": "A Friend Indeed",
+      "description": "Saved all the Mujina in \"A Distant Dream\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/1a1ad9e02a8ffb1955aa87e59a9c3cd39a08b82f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "13.1"
+    },
+    "TROPHY_DLC1_MISSION_01": {
+      "name": "A Kindred Light",
+      "description": "Completed \"A Song to Calm the Storm\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/a9beb325703321068784204f6ce71f82f5c73405.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "25.5"
+    },
+    "TROPHY_SPIRIT_WEAPON_MAX": {
+      "name": "A Weapon's Mind",
+      "description": "Listened to the innermost thoughts of a Yokai Weapon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/5ad44b322765a4205b40807e110ceeb14bc30bc9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "52.8"
+    },
+    "TROPHY_DLC3_MISSION_01": {
+      "name": "All Things Begin",
+      "description": "Completed \"Dawn of the Demon\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/c2e415535bfcb5744673068526c49e0a182ca5e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "21.2"
+    },
+    "TROPHY_MISSION_02": {
+      "name": "An Electrifying Triumph",
+      "description": "Defeated Imagawa Yoshimoto and was made a samurai.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/269c582dbf86d93aa9304d0a3c06bf8d3baaa7fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "54.1"
+    },
+    "TROPHY_SKILL_HIDDEN_ONO": {
+      "name": "Axe Master",
+      "description": "Acquired mystic art for the axe.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/d436e895b05003beec612596d793b6383fa6f778.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "9.6"
+    },
+    "TROPHY_DLC2_OBOROGURUMA_AMRITA": {
+      "name": "Behind the Bamboo Blinds",
+      "description": "Caused Oboroguruma to release Amrita from its carriage at least 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/bf596911d5c051063528106281c6ee14c3312075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "6.3"
+    },
+    "TROPHY_DEFEAT_CH1_GOZUKI": {
+      "name": "Bold Wrangler",
+      "description": "Defeated Gozuki in \"The Village of Cursed Blossoms\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/ffd733cdd6d2214c0ca834cba913766f07417e68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "60.4"
+    },
+    "TROPHY_SPIRIT_ACTION_ATTACK": {
+      "name": "Burst Breaker",
+      "description": "Used the Brute, Feral, and Phantom Burst Counters five times each to counter a Burst Attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/a96841917c4cdd0b1b553b03d1b5f950b78c72c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "16.2"
+    },
+    "TROPHY_DLC1_MISSION_03": {
+      "name": "Casting Out the Shadows",
+      "description": "Completed \"Shadows Creep in Kurama\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/e52d5114637d1bf848cbdc86792d303a7d7f5a9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "19.7"
+    },
+    "TROPHY_COMPLETE_KUSABI": {
+      "name": "Clean Sweep",
+      "description": "Destroyed every Amrita shard in \"The High-spirited Demon\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/165572dbea585ef1920f95d27aa5f80edc2641be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "20.5"
+    },
+    "TROPHY_DLC3_SHINSUI": {
+      "name": "Cleansing Caskmaster",
+      "description": "Used a cask of holy water in \"Dawn of the Demon\" to damage an enemy's Ki.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/6289e8fea5aa49d663e4fadfdeea5d77c719816d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "16.1"
+    },
+    "TROPHY_FIRST_GET_TAMASHIRO": {
+      "name": "Core Score",
+      "description": "Obtained your first Soul Core.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/ac06b658d22eb362d0cad1719295de25b1eb07e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "78.9"
+    },
+    "TROPHY_MISSION_01": {
+      "name": "Dawn of a Dream",
+      "description": "Befriended Tokichiro.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/d525f280826c31eca24874c9437a1385bc953ed7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "73.3"
+    },
+    "TROPHY_DLC1_EMAKI_CLEAR_10": {
+      "name": "Demonic Parade-Goer",
+      "description": "Completed picture scroll missions 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/62185e3ab98a6edf66b66c699ca21046ae0c2d74.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "12.1"
+    },
+    "TROPHY_SHIRAHEBI_STATUE": {
+      "name": "Devout Believer",
+      "description": "Defeated the boss of \"The Viper's Sanctum\" without breaking the statue of Shirohami. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/1df46b161243fbd3d6549ae7004b67e2b783bd36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "15.4"
+    },
+    "TROPHY_MISSION_08": {
+      "name": "Dream Within a Dream",
+      "description": "Saw Tokichiro off on his final departure.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/19e89178781b63ca281cd367e55f2ebe348785d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "31.5"
+    },
+    "TROPHY_MISSION_05": {
+      "name": "Dream's Toll",
+      "description": "Defeated Tokichiro.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/bac3d08eb1f9723650dae5331ed58cd45e403fc3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "34.6"
+    },
+    "TROPHY_SKILL_HIDDEN_NITOU": {
+      "name": "Dual Sword Master",
+      "description": "Acquired mystic art for the dual swords.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/f97de41dfe006f0a9d8e13d63350e2ce05efc51d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "17.8"
+    },
+    "TROPHY_COMPLETE_KUSO": {
+      "name": "Dungball Roller",
+      "description": "Became Ryunojo the Dung Lover's best friend and received the Coiled Snake Helmet smithing text.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/a017b25100fdf9925bcdd1159a1cdb30cd5754a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "7.8"
+    },
+    "TROPHY_COMPLETE_TATARIMOKKE": {
+      "name": "Feather Buster",
+      "description": "Drove back every Tatarimokke along the journey in \"A Way Out\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/c57e36dde897dc1c119ac8b0f23fdd359c4c6521.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "39.1"
+    },
+    "TROPHY_DLC2_HIDDEN_TEKKOU": {
+      "name": "Fist Master",
+      "description": "Acquired mystic art for the fists.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/db92723c183cb869837983acf97c197b8b3cc64d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "15.0"
+    },
+    "TROPHY_COMPLETE_GUARDIAN": {
+      "name": "Friend of Guardians",
+      "description": "Collected all Guardian Spirits.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/f0c1b46abf3b47d6249bfddb9bf11b5baff84484.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "14.9"
+    },
+    "TROPHY_KODAMA_TAMASHIRO": {
+      "name": "Friend to the Kodama",
+      "description": "Obtained a Kodama's Soul Core.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/f48f5f4c1dff7b70adfa598b5c777a3dff9f2b17.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "17.3"
+    },
+    "TROPHY_ACHIEVE_LEVEL_B": {
+      "name": "Full-fledged Samurai",
+      "description": "Reached level 100.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/f5b002b6612f3a39beae02263c64a3bdd474ddfa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "38.5"
+    },
+    "TROPHY_TAMASHIRO_RANK": {
+      "name": "Fuse It or Lose It",
+      "description": "Fused any Soul Core until it reached rank 9.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b8a0b1c0f9742dd2d31af5fa002fb5edcd881c81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "34.7"
+    },
+    "TROPHY_GOZUMEZU": {
+      "name": "Grazer Eraser",
+      "description": "Defeated Mezuki and Gozuki in the same mission. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b90fc54d9ce36aaf40fcda0034eb9e90b6260da2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "60.2"
+    },
+    "TROPHY_DLC2_MISSION_02": {
+      "name": "Guardian of the Gate",
+      "description": "Completed \"The Blighted Gate\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/5fd1b0177b4aec119c39951c5dc06d369b0b0ab8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "22.6"
+    },
+    "TROPHY_SKILL_HIDDEN_TEONO": {
+      "name": "Hatchet Master",
+      "description": "Acquired mystic art for the hatchets.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/659f2edbef9e1e47c3bff721d72e4f440c469e6f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "8.0"
+    },
+    "TROPHY_USE_GIJINDUKA": {
+      "name": "Help Wanted",
+      "description": "Summoned an Acolyte from a Benevolent Grave 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/2ea4a0ada3bdfdae75f1a802f874d8f65a562702.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "37.1"
+    },
+    "TROPHY_DLC1_COMPLETE_GOLDEN_AMRITA": {
+      "name": "Heretical Glow",
+      "description": "Destroyed 150 of the golden Amrita shards found in the gold mine in \"Eternal Rivals\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/02ef7f7995da719e588bfde6c821f7de061e5cd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "17.1"
+    },
+    "TROPHY_COMPLETE_USURABI": {
+      "name": "Hidden Hopes",
+      "description": "Encountered all the Usura-Hicho in \"The Frenzied Blaze\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/c94b76c35c8d80b55d5bd031fe00b79086245633.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "21.3"
+    },
+    "TROPHY_MISSION_03": {
+      "name": "Hideyoshi",
+      "description": "Decided to share a name with Tokichiro.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/f88dad34c207f9b2fdfcaf7214db2c2a14fc3295.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "46.1"
+    },
+    "TROPHY_DLC3_FUDE_COMPLETE": {
+      "name": "Honoring the Dead",
+      "description": "Collected all of Kukai's brushes in \"Words of Respite\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/cba8608cf5a0729bca6d2e7349f2b6ba8bec1c90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "13.6"
+    },
+    "TROPHY_DLC1_COMPLETE_KODAMA": {
+      "name": "Kodama General",
+      "description": "Collected all Kodama in \"The Tengu's Disciple\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/c6183a1a733417798edb6e19e3ca36c59657673e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "9.2"
+    },
+    "TROPHY_COMPLETE_KODAMA": {
+      "name": "Kodama Leader",
+      "description": "Collected all Kodama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/a39a51ac9e51ab0bd000a394c6a1812da989f6ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "9.5"
+    },
+    "TROPHY_DLC2_COMPLETE_KODAMA": {
+      "name": "Kodama Pathfinder",
+      "description": "Collected all Kodama in \"Darkness in the Capital\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/e2246bcebadd04d57391ba9b8595cd33ba7c53fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "8.3"
+    },
+    "TROPHY_SKILL_HIDDEN_KAMA": {
+      "name": "Kusarigama Master",
+      "description": "Acquired mystic art for the kusarigama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/ecb1438f307cacc61449d6a8a7b8c7a3393db65b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "9.3"
+    },
+    "TROPHY_FIRST_FORGING": {
+      "name": "Latest Masterpiece",
+      "description": "Forged an item.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/1474d25bb14b1d64186359c5397f81e21a6aa822.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "48.5"
+    },
+    "TROPHY_COMPLETE_TOKOYAMI": {
+      "name": "Let There Be Light",
+      "description": "Dispelled every instance of the Dark Realm in the main missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/e20fff823659459d29edece5b1d80ae1b35367b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "10.8"
+    },
+    "TROPHY_FIRST_SET_KAKEJIKU": {
+      "name": "Lover of Letters",
+      "description": "Displayed a calligraphy scroll in your hut.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/e4b4634fbbc7f22a1c6d154f1cfb7f101e94c377.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "18.8"
+    },
+    "TROPHY_FIRST_FUSION": {
+      "name": "Match Made in Heaven",
+      "description": "Performed a Soul Match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b37546f45f1568a563b3cccac54d31d077667a16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "41.1"
+    },
+    "TROPHY_MISSION_06": {
+      "name": "Mother and Child",
+      "description": "Reunited with your mother in the Interim.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/d782fd09b9af602d9f27e967acbdba32e2d25c4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "33.8"
+    },
+    "TROPHY_SKILL_HIDDEN_NIN": {
+      "name": "Ninjutsu Master",
+      "description": "Acquired mystic art for Ninjutsu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/ff69b43c9e87285c69aeef0fd6f8420f024ef397.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "20.4"
+    },
+    "TROPHY_SKILL_HIDDEN_ODACHI": {
+      "name": "Odachi Master",
+      "description": "Acquired mystic art for the odachi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/486f72ef4e52cd716ae3ae9439882ad3a499f006.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "15.6"
+    },
+    "TROPHY_SKILL_HIDDEN_ONMYOU": {
+      "name": "Onmyo Magic Master",
+      "description": "Acquired mystic art for Onmyo Magic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/a5c5406b63b66a8f2a484ff25baa96feb60f08fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "23.1"
+    },
+    "TROPHY_COMPLETE_BELL": {
+      "name": "Peal of Ten Thousand Bells",
+      "description": "Rang all the bells in \"Ruin Draws Near\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/730c19da2258ea52cd12508a947eecbdb39a70fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "9.5"
+    },
+    "TROPHY_DLC1_UTAHUDA_COMPLETE": {
+      "name": "Poetry in Motion",
+      "description": "Collected all of Saigyo's poetry cards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b1f56d00ae2bf036de0fd5baaf587d3df7dcbc6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "15.0"
+    },
+    "TROPHY_FIRST_REMODELING": {
+      "name": "Remodeling Novice",
+      "description": "Remodeled a piece of equipment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/454f51178baa134d0fd260e74a150a6ee31787ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "18.7"
+    },
+    "TROPHY_DLC3_MISSION_03": {
+      "name": "Scent of Danger",
+      "description": "Completed \"The Alluring Ancient\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/3f2706aab4e0046885139536c3d4d91304636f07.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "11.5"
+    },
+    "TROPHY_GYUKI_HIT_SEKI": {
+      "name": "Schemer",
+      "description": "Got Gyuki to attack the dam in \"Pervading Waters\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/33ebd5f94488ec2d9fcbf55554d178220467c11a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "23.6"
+    },
+    "TROPHY_COMPLETE_MAP_ITEM": {
+      "name": "Seasoned Traveler",
+      "description": "Discovered 10 hidden items on the map.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/21d4235cd6a89d7a77737c3c8a954bf1e2ca758f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "19.6"
+    },
+    "TROPHY_COMPLETE_7YARI": {
+      "name": "Seven Wonders",
+      "description": "Defeated each of the Seven Spears in \"Cherry Blossom Viewing in Daigo\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/9ffad046dbc12aef7a7f33ae2c0d5141d3134906.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "24.2"
+    },
+    "TROPHY_COMPLETE_TAMASHIRO": {
+      "name": "Soul Searcher",
+      "description": "Obtained all Soul Cores.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/25e21bea5bc8466a86ee61e23b24c4d86608f503.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "10.7"
+    },
+    "TROPHY_DLC1_COMPLETE_SPA": {
+      "name": "Spa Addict",
+      "description": "Bathed in every hot spring found in \"The Tengu's Disciple\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/773e634edd81c89fc69e360234494078043d2744.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "8.2"
+    },
+    "TROPHY_DLC3_COMPLETE_SPA": {
+      "name": "Spa Connoisseur",
+      "description": "Bathed in every hot spring found in \"The First Samurai\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/9c5b9c219642138ce2028fa9d3148842c86b47b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "8.6"
+    },
+    "TROPHY_DLC2_COMPLETE_SPA": {
+      "name": "Spa Fanatic",
+      "description": "Bathed in every hot spring found in \"Darkness in the Capital\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/0866dfd2707df22ba7c22ba5d7e7a5c225fde601.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "8.3"
+    },
+    "TROPHY_FIRST_SPA": {
+      "name": "Spa Healer",
+      "description": "Bathed in first hot spring.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/262143daad7a393618aa9e2c48f03579bd75d1fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "62.7"
+    },
+    "TROPHY_COMPLETE_SPA": {
+      "name": "Spa Lover",
+      "description": "Bathed in every hot spring.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/f411702d7bc60ed402f272496f2431429533d428.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "5.7"
+    },
+    "TROPHY_SKILL_HIDDEN_YARI": {
+      "name": "Spear Master",
+      "description": "Acquired mystic art for the spear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/cddf6d2cb6faac7cf430680946b922a26e27aec7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "10.7"
+    },
+    "TROPHY_DLC3_COMPLETE_KODAMA": {
+      "name": "Spirit Guide",
+      "description": "Collected all Kodama in \"The First Samurai\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/148a65cbb39b0a39279272d4dbf9cf11f2dde4fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "8.2"
+    },
+    "TROPHY_DLC1_HIDDEN_SANSETSU": {
+      "name": "Splitstaff Master",
+      "description": "Acquired mystic art for the splitstaff.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/2617a896444788c35d2360ccc62b9b32dc1aed9f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "12.1"
+    },
+    "TROPHY_FIRST_SUDAMA_TRADE": {
+      "name": "Sudama Swapper",
+      "description": "Exchanged gifts with a Sudama for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/ec2b9af4745cf45327e7da9a4743336908755ed1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "57.3"
+    },
+    "TROPHY_DLC1_COMPLETE_BIG_BOW": {
+      "name": "Sundering Arrows",
+      "description": "Used all the giant bows in \"A Song to Calm the Storm\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/502f8a37edb728fcbe6b46d663e615cf62522d7f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "11.9"
+    },
+    "TROPHY_SKILL_HIDDEN_NAGIGAMA": {
+      "name": "Switchglaive Master",
+      "description": "Acquired mystic art for the switchglaive.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/c9ec9f7bc88edee9786655917d652d49294969e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "15.4"
+    },
+    "TROPHY_SKILL_HIDDEN_KATANA": {
+      "name": "Sword Master",
+      "description": "Acquired mystic art for the sword.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/44dca9bd2e8b3d3723701e31629ec703745b17bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "15.9"
+    },
+    "TROPHY_APPRAISAL_TEASET": {
+      "name": "Tea Connoisseur",
+      "description": "Appraised your tea utensils 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/c2bf4bf70ab6828965e765de6665c10718ae7992.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "21.7"
+    },
+    "TROPHY_ACHIEVE_COOP": {
+      "name": "Teamwork",
+      "description": "Completed 10 missions with NPCs or as Expeditions with other users. (Does not include Acolytes.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/f55038dfb5ac8c698178491d7c3328b8db06e160.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "39.1"
+    },
+    "TROPHY_DLC1_KNOCK_OFF_YOSHITSUNE": {
+      "name": "Tengu Crusher",
+      "description": "Used an attack to knock Yoshitsune off his perch on the bridge in \"Eternal Rivals\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/6125f9302ed10d04ed18f23937a2ef6d475fa8dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "10.6"
+    },
+    "TROPHY_ACHIEVE_LEVEL_A": {
+      "name": "The Beginning of a Samurai",
+      "description": "Reached level 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/3eea92555cdb2beb9c0ea79fa83a9d4099b520f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "70.6"
+    },
+    "TROPHY_DLC2_MISSION_01": {
+      "name": "The Demon and the Phoenix",
+      "description": "Completed \"Suzune in the Flames\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/042096d046f2a86d1744914c6ad44ba314e80d7f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "23.2"
+    },
+    "TROPHY_DLC3_SHIKI_COMPLETE": {
+      "name": "The Demons' Den",
+      "description": "Defeated the four demons in \"A Distant Dream\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/38e129b03030f30e896b085df081d00f539bd957.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "18.9"
+    },
+    "TROPHY_DLC2_GOMA_FIRE_COMPLETE": {
+      "name": "The Flame That Lights the Darkness",
+      "description": "Lit all fire altars in \"Palace of the Damned\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/e4d8635dabd282fe411a89566267395899425369.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "8.2"
+    },
+    "TROPHY_DLC3_COMPLETE_SUB92_GIJINDUKA": {
+      "name": "The Path We've Taken",
+      "description": "Obtained the aid of Tokichiro, Minamoto no Yoshitsune, and Minamoto no Yorimitsu from a Benevolent Grave in \"A Familiar Glow\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b6644ca909b64d09c22a4e3beb3ebab59bada862.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "5.6"
+    },
+    "TROPHY_MISSION_04": {
+      "name": "The Paths We Tread",
+      "description": "Parted ways with Tokichiro.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/94c9fc3cc7eca2c6327e2b9437bc4778288e2cb8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "36.3"
+    },
+    "TROPHY_DLC2_MISSION_04": {
+      "name": "The Ultimate Recognition",
+      "description": "Completed \"The Dragon's Kin\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/4840898652f230dc9c1c6233f85cc3c064691d1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "17.2"
+    },
+    "TROPHY_DLC1_MISSION_02": {
+      "name": "The Will to Fight",
+      "description": "Completed \"Eternal Rivals\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/3cfb9aeaa92ec1b04309dda74b20720a1e75748f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "23.4"
+    },
+    "TROPHY_SKILL_HIDDEN_TONFA": {
+      "name": "Tonfa Master",
+      "description": "Acquired mystic art for the tonfa.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/d286de83cd65ad070e69bbee1452af5df71ce8ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "9.5"
+    },
+    "TROPHY_FIRST_KODAMA_SHOP": {
+      "name": "Trinket Triumph",
+      "description": "Used the Kodama Bazaar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/695fedd917a8511673a7bf335fbbbfbab2159138.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "57.5"
+    },
+    "TROPHY_DLC2_COMPLETE_NANGYOU": {
+      "name": "True Atonement",
+      "description": "Attained 100% Penitence on a Stone of Penance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/21027997d431c71a02fbd74608cb14ea46b10c8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "16.9"
+    },
+    "TROPHY_DLC2_TSUCHIGUMO": {
+      "name": "Tsuchigumo Exterminated",
+      "description": "Defeated Tsuchigumo while equipped with at least one piece of gear with the special effect \"Dragon Ninja\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/1d5588af27a501deae9aaf12f74bbfe423c23e63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "5.3"
+    },
+    "TROPHY_FIRST_OUMA": {
+      "name": "Twilight Walker",
+      "description": "Completed your first Twilight mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/8029bf71bcac8634581103e505c3e34a36c00636.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "40.6"
+    },
+    "TROPHY_DLC3_MISSION_04": {
+      "name": "Way of the Vanquisher",
+      "description": "Completed \"Against All Comers\" on Dream of the Demon or higher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/6fb79f074009f36576d9b39115144f3d68db50bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "5.4"
+    },
+    "TROPHY_MISSION_07": {
+      "name": "What is Written",
+      "description": "Fulfilled your ultimate destiny.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/dd751d0af44a813e70fb6da2261668b5c9e3a254.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "31.7"
+    },
+    "TROPHY_DLC2_MISSION_03": {
+      "name": "What Must Be Done",
+      "description": "Completed \"Palace of the Damned\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/92f923afe57a4330ed2bb84805c9301732cd5a04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "21.5"
+    },
+    "TROPHY_COMPLETE_ENEMY": {
+      "name": "Yokai Quelling Master",
+      "description": "Defeated all types of yokai.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/d00e1b3eacd95a1fc8d103ae8cce06e830d31e17.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "28.8"
+    },
+    "TROPHY_PLATINUM": {
+      "name": "You Are Nioh",
+      "description": "You have unlocked all achievements!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/9ead6e8ee77b0a1332dde250484ea501e8cf9a4a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1325200/b48e21762d11c2f721be09654335da1b9e28acee.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

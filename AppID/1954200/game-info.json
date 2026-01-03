@@ -1,0 +1,338 @@
+{
+  "appid": "1954200",
+  "name": "Kena: Bridge of Spirits",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/header.jpg?t=1664298117",
+  "achievements": {
+    "ACH_BOSS_WOODSMITH": {
+      "name": "A Heavy Hammer",
+      "description": "Defeat the Corrupted Woodsmith.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/b821405bfe09a1a8424511dfcd21208f8c2c55a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "28.1"
+    },
+    "ACH_BOSS_TOSHI": {
+      "name": "A Leader Walks Alone",
+      "description": "Defeat Corrupted Toshi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/a4053526446538cef230562418731331388a1f2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "23.7"
+    },
+    "ACH_RELIC_HAMMER": {
+      "name": "Adira's Fear",
+      "description": "Find Adira's Hammer Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/178f781e34dcfebb83e5b0182dac83a40121aef3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "30.2"
+    },
+    "ACH_RELIC_OX": {
+      "name": "Adira's Love",
+      "description": "Find Adira's Ox Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/815f55586fac220f34de4cb0197d56939d4ab4c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "31.2"
+    },
+    "ACH_RELIC_VILLAGE_HEART": {
+      "name": "Adira's Regret",
+      "description": "Find Adira's Village Heart Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/1ccbe99f164680824204276b3ab28e06e212e183.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "28.9"
+    },
+    "ACH_CHALLENGE_SHIELD_STICKS": {
+      "name": "Between the Eyes",
+      "description": "Destroy a Shield Sticks without breaking its shield.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/fa7b24aa3c82d0ec8916f837e308eaaa3407c7dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "45.7"
+    },
+    "ACH_CHALLENGE_MULTISHOT": {
+      "name": "Bow Master",
+      "description": "Hit 3 enemies with a single Multi-shot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/7d1d5d7e58fc8dffc17f51b5cade5581f1cb243c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "22.7"
+    },
+    "ACH_ABILITY_DASH": {
+      "name": "Crossing Over",
+      "description": "Learn the Dash Ability.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/1b44dbcb69b2cf0719c290087707adef171d5e24.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "27.0"
+    },
+    "ACH_CHESTS_ALL": {
+      "name": "Curse Collector",
+      "description": "Open all Cursed Chests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/039064d683d18d8ab6683f34d8fc90dd3867e412.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "8.8"
+    },
+    "ACH_HERO_ROT": {
+      "name": "Found a Friend",
+      "description": "Find the first Rot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/ef08e2315230487a221c141ea902efc5c6822bdf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "92.9"
+    },
+    "ACH_JIZO_FIRST": {
+      "name": "Good as New",
+      "description": "Restore a Flower Shrine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/5e066a87a888279ef3df3e99a9894c05e77b8b27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "67.8"
+    },
+    "ACH_LOCATION_VILLAGE": {
+      "name": "Haikyo",
+      "description": "Discover the Village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/f3ef70c6a9373e1c597445a0c8b963033943d47a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "76.3"
+    },
+    "ACH_ABILITY_BOMB": {
+      "name": "Harness Your Power",
+      "description": "Learn the Bomb Ability.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/299b768c5b6e64b62f5583e640fc313727878787.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "35.4"
+    },
+    "ACH_HATS_ALL": {
+      "name": "Hat Collector",
+      "description": "Collect 50 Rot Hats.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/e08e42ce0d258550754bbf155479d34636d5566e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "7.8"
+    },
+    "ACH_ABILITY_BOW": {
+      "name": "Hunter in the Forest",
+      "description": "Learn the Bow Ability.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/c990dfe7b1209789459bb4cbf12292cfa4438dd6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "55.4"
+    },
+    "ACH_LOCATION_FOREST": {
+      "name": "Into the Woods",
+      "description": "Discover the Forest.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/d48e9ca9461b09b8e5b76183669746ee5ca57aac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "64.7"
+    },
+    "ACH_DIFFICULTY_MASTER": {
+      "name": "Master Spirit Guide",
+      "description": "Beat the game on Master difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/8e03ac7a32d6887c8b109bc859540dbc7d5c6696.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "ACH_ROT_ALL": {
+      "name": "No Stone Unturned",
+      "description": "Find all of the Rot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/a67c18fe732b1558787ef3e9f11975aa84c6cabd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "6.2"
+    },
+    "ACH_CHALLENGE_ARROW": {
+      "name": "Piercing Blow",
+      "description": "Hit 3 Enemies with a single Rot Infused Arrow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/411332f9214099f6ee0571569d00becb6c21eef2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "13.6"
+    },
+    "ACH_CHALLENGE_CRIT": {
+      "name": "Quick Draw",
+      "description": "Hit 3 critical hit spots in 3 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/3891588a9553dd8d2edbf219b01eacd83ff665f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "28.1"
+    },
+    "ACH_JIZO_ALL": {
+      "name": "Restoration Master",
+      "description": "Restore all of the Flower Shrines.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/a1e3d0021538a9ee2309f8a00f944d7ee682be5d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "6.6"
+    },
+    "ACH_BOSS_ROT_GOD": {
+      "name": "Restore Balance",
+      "description": "Defeat the Corrupted Rot God.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/a0e620e946a2e6aecd5adf1427859a254a7ea2e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "22.9"
+    },
+    "ACH_CHALLENGE_MAGE_BOMB": {
+      "name": "Return to Sender",
+      "description": "Destroy a Mage with its own bomb.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/e067401e009345732e715d97b7e085bbdbd1bbd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "4.2"
+    },
+    "ACH_CHALLENGE_COMBAT_ACTIONS": {
+      "name": "Rot Commander",
+      "description": "Use 5 Rot Actions in a single combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/993fd7d77bfd744730c450bcc483f5114ee171d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "55.6"
+    },
+    "ACH_PHOTO_MODE": {
+      "name": "Say Cheese",
+      "description": "Capture a picture in Photo Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/ccb3b0c7ced10bda7eace33c1394e3b7fc9f3da3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "17.2"
+    },
+    "ACH_CHALLENGE_BOMB": {
+      "name": "Sharpshooter",
+      "description": "Destroy an enemy by shooting a Bomb out of the air.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/30225445de4f4c1532137fd42c305e576a2a00f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "5.5"
+    },
+    "ACH_ABILITY_ALL": {
+      "name": "Skillful Spirit Guide",
+      "description": "Unlock all ability upgrades.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/18fc8e4b9c0169b61250968388b34647523a8b15.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "5.7"
+    },
+    "ACH_BOSS_TARO": {
+      "name": "Spirit Guide",
+      "description": "Defeat Corrupted Taro.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/8addc533969aa1e29245a6f1898bc29c69125ab9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "38.9"
+    },
+    "ACH_RELIC_KNIFE": {
+      "name": "Taro's Fear",
+      "description": "Find Taro's Knife Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/08fff43e37691c9a97166e9036e1e9fa53101306.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "51.2"
+    },
+    "ACH_RELIC_FOOD_OFFERING": {
+      "name": "Taro's Love",
+      "description": "Find Taro's Food Offering Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/27740c9cc190d58c6a3a1d81f1bc745ddc690181.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "42.2"
+    },
+    "ACH_RELIC_LANTERN": {
+      "name": "Taro's Regret",
+      "description": "Find Taro's Lantern Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/0fe2d33279a5df5e3e4bd47fd697f68eb3bddc1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "40.3"
+    },
+    "ACH_MAIL_ALL": {
+      "name": "The Last Stop",
+      "description": "Deliver all Spirit Mail.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/689029346541124348e58fff372b7544f26a501a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "9.0"
+    },
+    "ACH_LOCATION_MOUNTAIN": {
+      "name": "The Lonely Path",
+      "description": "Reach the Mountain Shrine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/add54b0f2deefdab3588f5df6730d8624aa69a0c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "23.7"
+    },
+    "ACH_LOCATION_FARM": {
+      "name": "The Open Range",
+      "description": "Discover the Farm.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/b8c501dce69f66f142514279ae84b7f395e42c07.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "34.2"
+    },
+    "ACH_RELIC_INCENSE": {
+      "name": "Toshi's Fear",
+      "description": "Find Toshi's Incense Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/8a1c1337170ff0f7cafbc29c523b17f5d9240700.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "25.3"
+    },
+    "ACH_RELIC_VILLAGE_CREST": {
+      "name": "Toshi's Love",
+      "description": "Find Toshi's Village Crest Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/e6f74e22b7a10487ddef69b333b07e86583f85bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "24.8"
+    },
+    "ACH_RELIC_HARPOON": {
+      "name": "Toshi's Regret",
+      "description": "Find Toshi's Harpoon Relic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/dfe2506e551f838741f924f78e98c5f219125ad2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": true,
+      "percent": "24.7"
+    },
+    "ACH_CHALLENGE_DASH_KILL": {
+      "name": "Triple Tap",
+      "description": "Destroy 3 enemies with a single dash attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/e77b04dc20002cff5a784bf7b4cc053442c295e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "5.1"
+    },
+    "ACH_CHALLENGE_PARRY_KILL": {
+      "name": "Triple Threat",
+      "description": "Destroy 3 enemies with a single Parry.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/21452b99da6671435b403b7fe6421030c56bfeb5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "ACH_CHALLENGE_MOTH": {
+      "name": "Weigh Them Down",
+      "description": "Destroy a Moth enemy with a Bomb.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/6438d0b6f6dcf86258a24d09980ab9c36930bbe9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "30.5"
+    },
+    "ACH_MEDITATION_ALL": {
+      "name": "Zen Master",
+      "description": "Meditate at all Meditation Spots.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/92374b830a1317ed2435185da1d2794ed8daff6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1954200/780b7bc1d68b7f3ddb3ad6ec3915622b3a47307f.jpg",
+      "hidden": false,
+      "percent": "10.1"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

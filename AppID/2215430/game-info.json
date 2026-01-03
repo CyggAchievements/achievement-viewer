@@ -1,0 +1,626 @@
+{
+  "appid": "2215430",
+  "name": "Ghost of Tsushima DIRECTOR'S CUT",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+  "achievements": {
+    "_autoGenTrophy_0030": {
+      "name": "A Charming Man",
+      "description": "Equip a charm in all 6 slots.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/4e554deda234033e4aa2c81254a79ece7dc415ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/c5653ea14d3859f718e10d108cadd84c7663dd45.jpg",
+      "hidden": false,
+      "percent": "39.7"
+    },
+    "_autoGenTrophy_0070": {
+      "name": "A Few Splinters",
+      "description": "Complete all bokken duels at the Hidden Cove Tournament.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a16734b3ff0fd153c12db76f6efb11034041b4fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/0606daf0b92b03b3842c7f971d4558b79b2ed61d.jpg",
+      "hidden": false,
+      "percent": "23.4"
+    },
+    "_autoGenTrophy_0046": {
+      "name": "A Fight For The Isle….",
+      "description": "Liberate all occupied areas in Izuhara.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3aaefc9eba8a6cf6a3c0f6cbdf82548fc9a8edbf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/6e95cb01e48ce6a48e0c0765c9afa964aebdc4aa.jpg",
+      "hidden": false,
+      "percent": "33.5"
+    },
+    "_autoGenTrophy_0059": {
+      "name": "A Legend for All Time",
+      "description": "Complete Jin's Journey in New Game+.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/76896257fee918fac5d416f39d585ba5a5b592a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/01b440bee4bb00ec0b955b55e27394d0ecb9f953.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "_autoGenTrophy_0041": {
+      "name": "A Moment in Time",
+      "description": "Personalize a scene in Photo Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/ef3d1b0d8adcc141fe990c52b52e67f58a9412fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/9db7a9a1eec1685adf8e3562ef118cf21faabe1b.jpg",
+      "hidden": false,
+      "percent": "32.5"
+    },
+    "_autoGenTrophy_0050": {
+      "name": "A New Safe Haven",
+      "description": "Liberate all occupied areas in Kamiagata.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/211ca5602ca5357a4aa96a3bc690db8aa9428613.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8ba0594d03639f2cad35a4c3853a77a1549cc01c.jpg",
+      "hidden": false,
+      "percent": "21.2"
+    },
+    "_autoGenTrophy_0076": {
+      "name": "A Painful Blockage",
+      "description": "Summon five Shades in a single Rivals match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5d1efbe90fbd88386a2f859568737b4a280c8925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cbcea8c2cacbbeea0fabb848d95a2d338eceb47f.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "_autoGenTrophy_0021": {
+      "name": "All in the Wrist",
+      "description": "Defeat the maximum amount of enemies within a single Standoff.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a3f03a2322f061e89e1820762482d47f7c9ad445.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/4b7c4b3b3300e925c440fa5d877876a0f6e8fd2e.jpg",
+      "hidden": false,
+      "percent": "26.2"
+    },
+    "_autoGenTrophy_0042": {
+      "name": "Avid Reader",
+      "description": "Collect 20 Records.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e0c13d8166dd90af5474786706b411b161101c77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/683e7f1c78ed45040f07add6225f59ad9b42252b.jpg",
+      "hidden": false,
+      "percent": "13.8"
+    },
+    "_autoGenTrophy_0007": {
+      "name": "Birthright",
+      "description": "Recover your father's armor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/213fc19dfa0999f274dc754653d4b636862b02f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/61971b79fdbf4525a3fd43fa8fc0bcb1d8835bde.jpg",
+      "hidden": true,
+      "percent": "47.4"
+    },
+    "_autoGenTrophy_0072": {
+      "name": "Blood on Your Hands",
+      "description": "Purchase an item from the Crimson Dye Merchant and obtain a dye for your Sakai Horse Armor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/355c27541a6f2aa2199615b7f8c7773e7bd1f73e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a6887ed85a4d2a8b75da621797f5e512bd63e9d4.jpg",
+      "hidden": true,
+      "percent": "11.8"
+    },
+    "_autoGenTrophy_0044": {
+      "name": "Body, Mind, and Spirit",
+      "description": "Complete all Hot Springs, Haiku, Inari Shrines, and Bamboo Strikes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/75aa439f3811c23927c08bf35e26719d72a84ded.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/c16dfb886ad9f82c02d01d5ace93e0fc0f54f037.jpg",
+      "hidden": false,
+      "percent": "10.3"
+    },
+    "_autoGenTrophy_0074": {
+      "name": "Champion of the Kami",
+      "description": "Win a Legends Rivals match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5d1efbe90fbd88386a2f859568737b4a280c8925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cbcea8c2cacbbeea0fabb848d95a2d338eceb47f.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "_autoGenTrophy_0069": {
+      "name": "Chiyoko's Song",
+      "description": "Complete all Animal Sanctuaries.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/ef6885c3d506db8e8a55f3af429bce9e87ef69c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1da8a6ba919a0104af362f5dce06fdb3f2154fc9.jpg",
+      "hidden": true,
+      "percent": "15.0"
+    },
+    "_autoGenTrophy_0066": {
+      "name": "Common Courtesy",
+      "description": "Discover and complete all unwritten tales on Iki Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/716adab1145bc01a3acb7039b09c6a0754197e23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/ba3e2b44b84a7f75ace9d9a1edc7c0b334f6c646.jpg",
+      "hidden": false,
+      "percent": "5.9"
+    },
+    "_autoGenTrophy_0003": {
+      "name": "Company of Wolves",
+      "description": "Recruit the Straw Hat ronin.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/4e4f61b95f11dd772f9c9588c68ee43ae7b18409.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/93747aa61a8ecd716906eda6f56aa0bb1d0f304c.jpg",
+      "hidden": true,
+      "percent": "66.5"
+    },
+    "_autoGenTrophy_0039": {
+      "name": "Cooper Clan Cosplayer",
+      "description": "Dress up as a legendary thief.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/bb1d5f2bad1290da9278de993104cf519898c2c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/2ee09a5a6f5da5120086f8fc92cd40c8d07897ae.jpg",
+      "hidden": true,
+      "percent": "5.0"
+    },
+    "_autoGenTrophy_0075": {
+      "name": "Cursed No More",
+      "description": "Purify a Cursed piece of gear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5d1efbe90fbd88386a2f859568737b4a280c8925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cbcea8c2cacbbeea0fabb848d95a2d338eceb47f.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "_autoGenTrophy_0034": {
+      "name": "Den of Thieves",
+      "description": "Discover Umugi Cove.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/ff99a7e3418401aaa82376529e4694e6c05f5824.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1d2a21a4066266db159ec3c62f587ce8dc910c17.jpg",
+      "hidden": true,
+      "percent": "47.6"
+    },
+    "_autoGenTrophy_0040": {
+      "name": "Dirge of the Fallen Forge",
+      "description": "Play the \"Lament of the Storm\" at a friend's grave.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/b065a0e8022acfb62947c0ad9771240afe587538.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1174133899d8ddac64ee78a94e3d93cbb4107186.jpg",
+      "hidden": true,
+      "percent": "6.0"
+    },
+    "_autoGenTrophy_0008": {
+      "name": "Dying Embers",
+      "description": "Eradicate the traitors in the name of a fallen friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/6a042ca6cf07454598dcf225ec08c9a72d64b857.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/04a8495e82238812982a07407d80dc0c4f1e1bcb.jpg",
+      "hidden": true,
+      "percent": "41.5"
+    },
+    "_autoGenTrophy_0065": {
+      "name": "Elegy for Kazumasa",
+      "description": "Complete all Memories of Your Father.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/d6a5af6c22d7a9db158a9f9f3e162d396ac278a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8e05040bdb573b8f52518730cde2b1e1d36147c3.jpg",
+      "hidden": true,
+      "percent": "12.7"
+    },
+    "_autoGenTrophy_0028": {
+      "name": "Every Trick in the Book",
+      "description": "Acquire all the throwable Ghost Weapon techniques.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a74daeea1e92890c0b2f22e401ce0da0f66cdf4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/2931efb5d4eb7f3bc5efd899e9b7025496e4fa5e.jpg",
+      "hidden": false,
+      "percent": "38.1"
+    },
+    "_autoGenTrophy_0005": {
+      "name": "Family Reunion",
+      "description": "Free Lord Shimura from the Khan's clutches.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/bf088436f6cd5da8b3512cf888deef70bf49889d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/486164f538dc5e58a3e8d27bc08571eab6d1dd58.jpg",
+      "hidden": true,
+      "percent": "60.3"
+    },
+    "_autoGenTrophy_0035": {
+      "name": "Favor of the Kami",
+      "description": "Find and honor all of the Shinto Shrines on Tsushima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/724930d8541e5d71bd1db3cc30e17f497e1236d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/fe38112aed80c07f132c34623fd0d0f25e19ab4b.jpg",
+      "hidden": false,
+      "percent": "14.0"
+    },
+    "_autoGenTrophy_0019": {
+      "name": "Flash of Steel",
+      "description": "Defeat 20 enemies with a counterattack after a Perfect Parry.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/47225da4f460f2dcd7557b512a54b9db8ab162d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/fd27cc0c34aaf405b0587f5367e82e00bd5ba7f9.jpg",
+      "hidden": false,
+      "percent": "53.1"
+    },
+    "_autoGenTrophy_0061": {
+      "name": "Friend to All Raiders",
+      "description": "Complete all Tales of Iki.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3709db8ada32e697e83c1149192e1be67ccf4900.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/369f70cea14d68f7841b2d2c65ab124251e332e7.jpg",
+      "hidden": false,
+      "percent": "7.1"
+    },
+    "_autoGenTrophy_0001": {
+      "name": "Gathering Storm",
+      "description": "Recover the katana of clan Sakai.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/68d01de21f3622e6027e842d94eef9b71c6be076.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/74312d4a04bea17efdf4f8212b2cd164ea3166fe.jpg",
+      "hidden": true,
+      "percent": "92.9"
+    },
+    "_autoGenTrophy_0031": {
+      "name": "Gifted",
+      "description": "Collect 10 gifts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a9ba280839cd80e2e1cb08048636ca28e19368af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e012155cece66f2351c2e554568de7e5f81d9e75.jpg",
+      "hidden": false,
+      "percent": "48.7"
+    },
+    "_autoGenTrophy_0047": {
+      "name": "Good Riddance",
+      "description": "Liberate 8 occupied areas in Toyotama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/905158341770d0e3ea0ec482f887df0602956b39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a961c26f1ce064a7ac36b2d6a2ab4a8686a301f8.jpg",
+      "hidden": false,
+      "percent": "38.3"
+    },
+    "_autoGenTrophy_0058": {
+      "name": "Grand Opening",
+      "description": "Purchase something from Baku the Voiceless in New Game+.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8aace6505fc760bef986b318fb11ffb00c6de8eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1d443a32a95de5b7834a0c398bf2693eb491acd2.jpg",
+      "hidden": false,
+      "percent": "36.5"
+    },
+    "_autoGenTrophy_0025": {
+      "name": "Haunting Precision",
+      "description": "Kill 20 enemies with Ghost Stance strikes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/aecdeb1b16778eef8fdb5fc8c3b2dd37582a9298.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/be5f6080e8557183fdd3653801081e9f2a423d30.jpg",
+      "hidden": false,
+      "percent": "39.3"
+    },
+    "_autoGenTrophy_0024": {
+      "name": "Have a Nice Fall",
+      "description": "Kill an enemy with fall damage by knocking them off a ledge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/76a864eab6e2aa423fe992d838097850f2bc28cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/f9fadaad7e01fadbce1c60fc161e4125f8804d31.jpg",
+      "hidden": true,
+      "percent": "29.2"
+    },
+    "_autoGenTrophy_0018": {
+      "name": "Helping Sword Hand",
+      "description": "Complete all Tales of Tsushima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/116a7d0211dae99f823b66074db6d19bce8ebc53.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/4a16903099886dd12f6c604236b7723676725afc.jpg",
+      "hidden": false,
+      "percent": "10.8"
+    },
+    "_autoGenTrophy_0045": {
+      "name": "Hero of the People",
+      "description": "Liberate 12 occupied areas in Izuhara.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/985c34a92848fb93a52fe37bb9aab11369841a3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e4915e0024a0ea072c1f1e2a41c1bb5eb2d8cd0c.jpg",
+      "hidden": false,
+      "percent": "53.4"
+    },
+    "_autoGenTrophy_0073": {
+      "name": "Honor Bound",
+      "description": "Bind a piece of gear to a class.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5d1efbe90fbd88386a2f859568737b4a280c8925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cbcea8c2cacbbeea0fabb848d95a2d338eceb47f.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "_autoGenTrophy_0036": {
+      "name": "Honor the Unseen",
+      "description": "Bow to 10 hidden altars across Tsushima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/7a5e24a47bf763fc4c051d993647d358dbab0e49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/12688ee3e69f6842d19dc796a44b17c0177788c2.jpg",
+      "hidden": true,
+      "percent": "8.1"
+    },
+    "_autoGenTrophy_0043": {
+      "name": "Know Your Enemy",
+      "description": "Collect 20 Mongol artifacts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1c0760772b9f0fbccd92fcc633af4fdeea6bd166.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/75b57c24d7d3aa0b179e730525e849f5c4048448.jpg",
+      "hidden": false,
+      "percent": "27.2"
+    },
+    "_autoGenTrophy_0006": {
+      "name": "Leader of the People",
+      "description": "Rally the peasants of Yarikawa.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5e673c378c1f348591879ef8e570874e9a6eaace.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/9e81c1212b47d5e122a8e23d8a7ca5e5951282ad.jpg",
+      "hidden": true,
+      "percent": "45.4"
+    },
+    "_autoGenTrophy_0033": {
+      "name": "Light the Way",
+      "description": "Rekindle all the lighthouses of Tsushima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/b2ee789fde24f9fe4fd8598b9ba6095dab69c1c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/11d073498ddf5b740ac77a7ba8b75a6717d7829a.jpg",
+      "hidden": false,
+      "percent": "12.9"
+    },
+    "livinglegend": {
+      "name": "Living Legend",
+      "description": "Obtain all base game achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e01a411843da6855ef4d484d4d69a727e3849367.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/006383ab5024c3ba91f413bc720f02ff4385fecd.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "_autoGenTrophy_0037": {
+      "name": "Lost and Found",
+      "description": "Discover a Pillar of Honor and collect its Sword Kit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/91277f581447e12995f5c4fd043ac14aa3e5ddc4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/81c09625d2cc4c6c3fbe53b9b51cca333b9976f0.jpg",
+      "hidden": true,
+      "percent": "65.4"
+    },
+    "_autoGenTrophy_0049": {
+      "name": "Mass Eviction",
+      "description": "Liberate 7 occupied areas in Kamiagata.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/d5a3a8d49a5f202efe165ac5ae0ba31a1ca6d132.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/876bb6e1c007af6b85926b8e28b4ad22d0a81de7.jpg",
+      "hidden": false,
+      "percent": "27.2"
+    },
+    "_autoGenTrophy_0051": {
+      "name": "Master Liberator",
+      "description": "Liberate the entirety of Tsushima Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/d3bd54b3f72fb343f8d66a13b0038c3b49241efa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/830e196edb8047a98b3e889a4c6d141aa66cc131.jpg",
+      "hidden": false,
+      "percent": "21.0"
+    },
+    "_autoGenTrophy_0067": {
+      "name": "Monkey See",
+      "description": "Embody the spirit of the monkey on Saruiwa.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/c8f792bcdd03a9e3d841dea033d96ef5b73169f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/97dfa363763c397aa1e4cc956def39736f20bb90.jpg",
+      "hidden": true,
+      "percent": "5.0"
+    },
+    "_autoGenTrophy_0012": {
+      "name": "Mono No Aware",
+      "description": "Leave the past behind and accept the burden of your new mantle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/b65de9d149a3be4d26669e4f7dc59fb219f60b83.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/92f9da2cb506f18edd273744deb5961d4af51af5.jpg",
+      "hidden": true,
+      "percent": "35.3"
+    },
+    "_autoGenTrophy_0038": {
+      "name": "Monochrome Masters",
+      "description": "Purchase an item from the Black and White Dye Merchants.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/bb4be9f3010366807f23295fb401176e8c3b0b1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3814375b60ac37289410d28bea3ef06debaa2f99.jpg",
+      "hidden": true,
+      "percent": "21.8"
+    },
+    "_autoGenTrophy_0022": {
+      "name": "Open for Business",
+      "description": "Successfully Stagger enemies 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/6171197fe2c854618cbd419bcbfa731bcb424729.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a3ec12bcf7cd72639303a6cd21fb5c053e903a8f.jpg",
+      "hidden": false,
+      "percent": "71.5"
+    },
+    "_autoGenTrophy_0060": {
+      "name": "Out of the Past",
+      "description": "Survive the Eagle's medicine and bid farewell to a new friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/bdd613b3d12b65313e7845a4f09f8e00767e9bf5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/13e423b1ad52e85078515eda1a098b59bf34f786.jpg",
+      "hidden": true,
+      "percent": "27.2"
+    },
+    "_autoGenTrophy_0002": {
+      "name": "Point of No Return",
+      "description": "Break your code to help a new friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/72e1d501451a06ca944e98d675b5147f07ac7bf4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/0f9c29b93dade9214e33af9bd8a04c81cf92e159.jpg",
+      "hidden": true,
+      "percent": "84.0"
+    },
+    "_autoGenTrophy_0068": {
+      "name": "Pride of Ishikawa",
+      "description": "Achieve bronze or higher on all Archery Challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/029adf8cea6270bb6e3999a70b943ef2abc90d6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/f5d73f6e11c7863c96d9df51190a0262c8ff0076.jpg",
+      "hidden": true,
+      "percent": "9.0"
+    },
+    "_autoGenTrophy_0055": {
+      "name": "Promising Start",
+      "description": "Complete a Legends Mode story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5d1efbe90fbd88386a2f859568737b4a280c8925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cbcea8c2cacbbeea0fabb848d95a2d338eceb47f.jpg",
+      "hidden": false,
+      "percent": "12.5"
+    },
+    "_autoGenTrophy_0027": {
+      "name": "Quick Study",
+      "description": "Learn the Stone, Water, Wind, and Moon combat stances.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/bf0cd1b1d83e4bc9853b17c7844451bd8a642b5f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/b25e0e863e5c8078c760b97cfb010b7fa2c994a7.jpg",
+      "hidden": false,
+      "percent": "57.1"
+    },
+    "_autoGenTrophy_0048": {
+      "name": "Securing Sanctuary….",
+      "description": "Liberate all occupied areas in Toyotama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3ec08cbe3c5e6911ee28b403a68bd9f526ce76ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e89693b037c12959852c5bbfaddce60947df7e9c.jpg",
+      "hidden": false,
+      "percent": "26.0"
+    },
+    "_autoGenTrophy_0057": {
+      "name": "Self-Actualized",
+      "description": "Reach rank 20 in any role.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5d1efbe90fbd88386a2f859568737b4a280c8925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cbcea8c2cacbbeea0fabb848d95a2d338eceb47f.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "_autoGenTrophy_0032": {
+      "name": "Slay",
+      "description": "Acquire 30 pieces of Vanity Gear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/abf33d48166b80093a7435e6de88dc134465b9e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/7246bed30fa81db8b95a49699a60e269c3fbc9f4.jpg",
+      "hidden": false,
+      "percent": "54.5"
+    },
+    "_autoGenTrophy_0011": {
+      "name": "Sovereign End",
+      "description": "Confront the Khan.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/71a176bfc4a139c814e72f30b2544fcd1c87c7bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/69d6c10293a3d00dd30e49d916070653583a1bd4.jpg",
+      "hidden": true,
+      "percent": "35.9"
+    },
+    "_autoGenTrophy_0004": {
+      "name": "Stoking the Flame",
+      "description": "Rescue Taka from Mongol captivity.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/937cefa874bc5365e981425acdd6e5cd32466259.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/65812262f8b8dba988ee8c984063d689b90bc2ac.jpg",
+      "hidden": true,
+      "percent": "68.4"
+    },
+    "_autoGenTrophy_0017": {
+      "name": "Teller of Tales",
+      "description": "Complete all of the Mythic Tales.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/45711cd0751df38637918f1d3665a53f19e1fa90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1410e78b34fe0601927e8fb5cb9099a1dc9d3d00.jpg",
+      "hidden": false,
+      "percent": "25.4"
+    },
+    "_autoGenTrophy_0062": {
+      "name": "The Benefit of All Beings",
+      "description": "Build your Legend on Iki Island to earn the title Legacy Redeemer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/f04308734eae467bc633763aa4764101dab6ac8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/c1eeb10569048e83566e2f77a8520b31a03571ed.jpg",
+      "hidden": false,
+      "percent": "25.0"
+    },
+    "_autoGenTrophy_0063": {
+      "name": "The Butcher Redeemed",
+      "description": "Liberate Iki Island by defeating the Eagle and driving the invaders from Mongol territory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/6ac1ea804c525e13bd7a470fd9f156a0fc24950b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/2957f930a6be06cd51302d463b2b4a6822abd7b8.jpg",
+      "hidden": false,
+      "percent": "20.5"
+    },
+    "_autoGenTrophy_0010": {
+      "name": "The Exiled Alliance",
+      "description": "Reunite with your allies in the frozen north.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/69ede24a69e504dc946b6ad0e374d77e7990a8f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/15c0201634bd651cb08cb8ead1c8ce04338a1e30.jpg",
+      "hidden": true,
+      "percent": "39.1"
+    },
+    "_autoGenTrophy_0009": {
+      "name": "The Ghost",
+      "description": "Embrace your new identity.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/7f3ca5fe3001c1109d298d96b0b967ec8e6677f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/50af32ee649021c17ef6fe4bdf943707e06d3326.jpg",
+      "hidden": true,
+      "percent": "40.8"
+    },
+    "_autoGenTrophy_0026": {
+      "name": "The Ghost of Legend",
+      "description": "Build your Legend to earn the title Ghost of Tsushima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8fb7e5f6b251293cf605c56c9a3a3b9462a58f99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/693af7708f169bc7e60d9e13eaad437ae8c86af4.jpg",
+      "hidden": false,
+      "percent": "25.1"
+    },
+    "_autoGenTrophy_0016": {
+      "name": "The Headstrong Thief",
+      "description": "Complete all of Yuna's Tales.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/a3f48938083a09010c997286d93f124ec19ac44a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cb925e786bb6fd1d537d4fda85a172cd69aabc3e.jpg",
+      "hidden": true,
+      "percent": "32.5"
+    },
+    "_autoGenTrophy_0029": {
+      "name": "The Perfect Storm",
+      "description": "Fully upgrade your sword.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/d2fcc1ce83cac3dbf8b5a91e93bda17ef00b693a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8e9adf8247ef5767a70d4287776e104165efddec.jpg",
+      "hidden": false,
+      "percent": "33.6"
+    },
+    "_autoGenTrophy_0015": {
+      "name": "The Unbending Archer",
+      "description": "Complete all of Ishikawa's Tales.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/6c41189e7ac2125fcd04402f23aae5a1ea901036.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/51603cfbecd0ae3ef67e7d5309484d610b735a09.jpg",
+      "hidden": true,
+      "percent": "26.9"
+    },
+    "_autoGenTrophy_0014": {
+      "name": "The Vengeful Warrior",
+      "description": "Complete all of Masako's Tales.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/22e1065ff1bc68e4409be82f54fcdd1bac7aa825.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1c7f9d98ce4989768d1a3e923db8fcec24a792bb.jpg",
+      "hidden": true,
+      "percent": "26.6"
+    },
+    "_autoGenTrophy_0013": {
+      "name": "The Warrior Monk",
+      "description": "Complete all of Norio's Tales.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/23ccb04c8c1925c3b36a58e1181975d63841859f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/7f06f79aac181866a9d9c073cb8289379b8ae92d.jpg",
+      "hidden": true,
+      "percent": "23.7"
+    },
+    "_autoGenTrophy_0023": {
+      "name": "There Can Be Only One",
+      "description": "Successfully complete every duel.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e743295af619ad5e035a9b3c5413902e0ea17df2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8b2bc9f9b4e99a656998ead686493c4db98de452.jpg",
+      "hidden": false,
+      "percent": "19.1"
+    },
+    "_autoGenTrophy_0052": {
+      "name": "Transcendence",
+      "description": "Complete all 3 Raid chapters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e63529c11e2d470eff95c02e782fe79043d8c6f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/80648c16fb889b7a0d31f345b162acaf42b59c21.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "_autoGenTrophy_0064": {
+      "name": "Treasures of the Past",
+      "description": "Complete all Mythic Tales on Iki Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3cc8074b01e63eb08458816cfe53ba14671d401f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5cf9122fe2d8b27fe710a5fa89c3ac8c6a04efe3.jpg",
+      "hidden": true,
+      "percent": "23.8"
+    },
+    "_autoGenTrophy_0056": {
+      "name": "True Understanding",
+      "description": "Complete all Legends Mode stories on a single difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5d1efbe90fbd88386a2f859568737b4a280c8925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cbcea8c2cacbbeea0fabb848d95a2d338eceb47f.jpg",
+      "hidden": false,
+      "percent": "5.6"
+    },
+    "_autoGenTrophy_0054": {
+      "name": "Ultimate Truth",
+      "description": "Complete the final wave in a gold Survival.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/98ab7d35fd6990f4761430fa70ba306ae630fdc6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/78b7f21dcf49ce79a8bffc74f00ce9aec0271b96.jpg",
+      "hidden": false,
+      "percent": "3.9"
+    },
+    "_autoGenTrophy_0053": {
+      "name": "Ultimate Warrior",
+      "description": "Reach rank 20 with all roles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/98ab7d35fd6990f4761430fa70ba306ae630fdc6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/78b7f21dcf49ce79a8bffc74f00ce9aec0271b96.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "_autoGenTrophy_0071": {
+      "name": "Well-Rounded Warrior",
+      "description": "Complete all Haiku, Onsen, Shinto Shrines, and Bamboo Strikes on Iki Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3cea5755ae10955da619facfc5ecf97fd3e1e959.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/4607ca881d6f747bb3c446d950be8dca5ecdccec.jpg",
+      "hidden": false,
+      "percent": "14.5"
+    },
+    "_autoGenTrophy_0020": {
+      "name": "Witness Protection",
+      "description": "Shoot a Terrified enemy with an arrow while they are fleeing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3d70f2f0c295353b615950f6d6e4221e03ea398b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/fa0c0847b6505cbc564588153dad93221457eea5.jpg",
+      "hidden": true,
+      "percent": "46.2"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

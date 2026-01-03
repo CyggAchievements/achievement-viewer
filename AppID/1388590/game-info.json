@@ -1,0 +1,482 @@
+{
+  "appid": "1388590",
+  "name": "Yakuza 6: The Song of Life",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/header.jpg?t=1763648657",
+  "achievements": {
+    "OGFAC05": {
+      "name": "A Dead End",
+      "description": "Completed Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/e2aef71f96bfe15abe2c770a610b4baac7c4d92c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/01bc204b50f3d55cc8c6f038a862991cc5914207.jpg",
+      "hidden": true,
+      "percent": "69.9"
+    },
+    "OGFAC31": {
+      "name": "A Dragon's Experience",
+      "description": "Obtained 100,000 total experience points.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/06cb41d5f10f4e1fb960b1f209cec369f10ae4f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/e629cb7200eba12995507ebd72def286b3290ea5.jpg",
+      "hidden": false,
+      "percent": "34.5"
+    },
+    "OGFAC30": {
+      "name": "A Fighter's Experience",
+      "description": "Obtained 10,000 total experience points.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/1d29eec873e4ca9ac9891a40d7940faddb1614ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/65a6ac5fde0ebcefd5e317e0a9ff1cf894fc1e64.jpg",
+      "hidden": false,
+      "percent": "73.9"
+    },
+    "OGFAC29": {
+      "name": "A Man's Experience",
+      "description": "Obtained 1,000 total experience points.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/e8eeccf648ca527f1757cf889df4ae842c28cb00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/52f673a6f3d4e56969ae73494398fc52b758d357.jpg",
+      "hidden": false,
+      "percent": "80.7"
+    },
+    "OGFAC28": {
+      "name": "Amon Defeated",
+      "description": "Defeated Amon on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/166afaf2ef364e310ae260453bfeac15cdd3a6b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/b689289b0f91cab10f54178e4d68ac7f60e8b34b.jpg",
+      "hidden": false,
+      "percent": "14.2"
+    },
+    "OGFAC57": {
+      "name": "Can of Whoop Ass",
+      "description": "Engaged enemies while a drink's effect is active.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/8556488931f02caed6d1aef568676527bd2566e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/00af782b99f4931090a204440585eabb74a87148.jpg",
+      "hidden": false,
+      "percent": "63.7"
+    },
+    "OGFAC45": {
+      "name": "Club Shine Star",
+      "description": "Requested every hostess.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/2c655c0672657a7c1c3d021d89cb935532050cce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/2692f90ddc6a4306b3726211f99dbc5022bbe9f1.jpg",
+      "hidden": false,
+      "percent": "13.7"
+    },
+    "OGFAC56": {
+      "name": "Commemorative Photo",
+      "description": "Took a photo of Ono Michio-kun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/da40376f1eb9d5c72308477e71e7a6e1921727d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/bd03eafa3a6f076b1bf0f1e32906585caba308b1.jpg",
+      "hidden": false,
+      "percent": "15.4"
+    },
+    "OGFAC08": {
+      "name": "Cycle of Blood",
+      "description": "Completed Chapter 12.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/ec6d1fb93d62e4b795ee159ccf395a41ba4229cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/8e19faa685b3572406b4bc182e785622c36f3e6e.jpg",
+      "hidden": true,
+      "percent": "63.9"
+    },
+    "OGFAC50": {
+      "name": "Dandling Dragon",
+      "description": "Experienced the trials of raising a baby.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/b4a55eb21f5906456957de8fb39f090ecbca9213.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/9266bdb193a74ce8d0945529c0f4a558b7201fca.jpg",
+      "hidden": false,
+      "percent": "75.2"
+    },
+    "OGFAC42": {
+      "name": "Dragon of DoGYMa",
+      "description": "Experienced every RIZAP training. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/932bd36bee77e226f398013316f669b5e8dff703.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/8d104781b9dfa49837b77906ffc56b77b25488c9.jpg",
+      "hidden": false,
+      "percent": "23.0"
+    },
+    "OGFAC10": {
+      "name": "Dragon of Legend",
+      "description": "Completed the game on LEGEND difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/e2deab2e0f2e048ab10dcc2467f17c8587f4eedc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/a8f43344f4ae5c46e7364c62503b53df1f7b0780.jpg",
+      "hidden": false,
+      "percent": "7.0"
+    },
+    "OGFAC16": {
+      "name": "Feeling the Heat",
+      "description": "Activated Extreme Heat Mode 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/3187e751c8bf0ba6cd0fca9efbdf9720436c17fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/93abbc6c81880955360891cf7822a53b1a0c917d.jpg",
+      "hidden": false,
+      "percent": "75.8"
+    },
+    "OGFAC52": {
+      "name": "Get Out and Stay Out!",
+      "description": "Made a store employee angry at you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/a823afbc238953c1fb69643986e12c5c4a30ad56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/393aa4b234fe3d1b3dcdd5132c3989b572fa52b5.jpg",
+      "hidden": false,
+      "percent": "41.5"
+    },
+    "OGFAC25": {
+      "name": "Heat of the Dragon",
+      "description": "Raised the Heat Gauge to a natural 150.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/9973db067adc45322d558ca9d31cd9d63fd79614.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/f632bd81da6fc5f509315f3c1b0c37ff940f96f4.jpg",
+      "hidden": false,
+      "percent": "60.9"
+    },
+    "OGFAC04": {
+      "name": "Her Secret Life",
+      "description": "Completed Chapter 4. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/7fe4f1821b890c180e35bbcdfde998ac60b7a8f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/c6e4716fccd9303aee4967005722ba2dfe82e655.jpg",
+      "hidden": true,
+      "percent": "72.7"
+    },
+    "OGFAC12": {
+      "name": "Hero of the Story",
+      "description": "Completed 40 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/ba68a98e58124d478e1d4f912d9169525be554fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/61a52f2b2f3b723bbd9fb5da158686fbc868ffeb.jpg",
+      "hidden": false,
+      "percent": "16.0"
+    },
+    "OGFAC03": {
+      "name": "Hiroshiman Shadows",
+      "description": "Completed Chapter 2. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/d76f11607a6c1be2e775ff83695c4b1fac0ba405.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/ec7b31509b81a809376e0ab9f250ddf0db9614d9.jpg",
+      "hidden": true,
+      "percent": "76.1"
+    },
+    "OGFAC51": {
+      "name": "How Fortuitous",
+      "description": "Pulled \"Great Blessing\" at the temple.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/ae45c9cd9ac738e9aac207cf0aa7006efc65bfef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/67dc3e43ea0f052d73a9f117acb5967b2c0e86ad.jpg",
+      "hidden": false,
+      "percent": "22.0"
+    },
+    "OGFAC43": {
+      "name": "I'll Have the Calamari",
+      "description": "Defeated the Emperor Squid.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/871b70dc19e01bdd6e710783ac029728e6a5d25c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/6f4e5cd36440541b877a6ced5b6dfe65a3ab6a2b.jpg",
+      "hidden": false,
+      "percent": "30.0"
+    },
+    "OGFAC32": {
+      "name": "Just Getting Started",
+      "description": "Completed 10 items on the Completion List.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/b56dc89e2a95186f25f08a0f1216b8b568fd87bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/441a44faff1774ae6fb67b7b5d96f9ba90389ab3.jpg",
+      "hidden": false,
+      "percent": "77.4"
+    },
+    "OGFAC36": {
+      "name": "Kiryu Clan Captain",
+      "description": "Reached level 3 in the Kiryu Clan.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/1f46ab0325e680227ccc2e571e3d8a81559a18c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/c2128c9469f566f4e0367b6ebef8126e28534413.jpg",
+      "hidden": false,
+      "percent": "34.5"
+    },
+    "OGFAC39": {
+      "name": "Kiryu Clan Enforcer",
+      "description": "Maxed out a Kiryu Clan leader's stats.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/443a78577849c2a82917abcbf2de6699a2ef06bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/205141791d9823948d4dddc48af0503f0d442594.jpg",
+      "hidden": false,
+      "percent": "10.5"
+    },
+    "OGFAC35": {
+      "name": "Kiryu Clan Founder",
+      "description": "Assembled the Kiryu Clan.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/2818c6569e453c234a362452fad27333bac85648.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/969080271cc820178242283740dbeb8b636a2afb.jpg",
+      "hidden": false,
+      "percent": "52.9"
+    },
+    "OGFAC37": {
+      "name": "Kiryu Clan Patriarch",
+      "description": "Completed the Clan Creator storyline.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/f2f4612ea2e712714db326068481cb8ac22bf08b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/cda7c4925a2aff1b7d50661e08fdc9ab52df3ba4.jpg",
+      "hidden": false,
+      "percent": "27.1"
+    },
+    "OGFAC21": {
+      "name": "Life of the Dragon",
+      "description": "Raised Health to a natural 150.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/9b63f77fe808cd6714d48541f12143fb0a28ec84.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/094132bfc486acc8efcb97fc2015d0337da4128d.jpg",
+      "hidden": false,
+      "percent": "72.3"
+    },
+    "OGFAC58": {
+      "name": "Life Through Kiryu's Eyes",
+      "description": "Walked 30 seconds in first-person mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/82f1c75abd53bce0d63a29edb24820b6619bb2e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/33be2eb5d18f1744aa665161cf8fb5c350647c9f.jpg",
+      "hidden": false,
+      "percent": "24.1"
+    },
+    "OGFAC26": {
+      "name": "Limit Breaker",
+      "description": "Raised all stats to a natural 200.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/06baa29a13a5ce3e7e451ca09c16a74cb82bb71d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/c3739be28ae5ac520f34a91c165e3a2c93807184.jpg",
+      "hidden": false,
+      "percent": "33.3"
+    },
+    "OGFAC17": {
+      "name": "Live to Fight Another Day",
+      "description": "Ran away from 10 encounters successfully.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/72faaaaf355b09b23fc54b944ec0b979bfe5bfb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/2eb4eabefd9ab2a524123cec234ed22c5ce86366.jpg",
+      "hidden": false,
+      "percent": "10.9"
+    },
+    "OGFAC33": {
+      "name": "Maybe You Can Do It",
+      "description": "Completed 31 items on the Completion List.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/381e98dc45f319791e8ebb782bb0565c9e1d40af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/8835b48981b79787de8f52c926e61e4f3b4f6541.jpg",
+      "hidden": false,
+      "percent": "70.8"
+    },
+    "OGFAC59": {
+      "name": "No Photos!",
+      "description": "Got surrounded by enemies while trying to take a picture.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/13e67195a578405be4d7d99084b7dc4f6dcdcaf0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/136394c0f2b38f3a450b6a978f55537d3bed2747.jpg",
+      "hidden": false,
+      "percent": "16.8"
+    },
+    "OGFAC54": {
+      "name": "Not the Brightest Idea",
+      "description": "Jumped from a dangerously high place.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/bf6e973f8df43eb3d8fb0b320fa03b040a79c5f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/337794609af17a447032951f1a0884f085b32d74.jpg",
+      "hidden": false,
+      "percent": "68.7"
+    },
+    "OGFAC53": {
+      "name": "Off the Beaten Path",
+      "description": "Found a secret passage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/1ebfb1e5df4fe8906ae9ee9e91bc32c96fe8c23b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/e48a9675bb1095b1d5be2d8e0b5909c30434f219.jpg",
+      "hidden": false,
+      "percent": "71.8"
+    },
+    "OGFAC40": {
+      "name": "On the Winning Team",
+      "description": "Achieved 100 victories with the Kiryu Clan.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/efd6ef2864c6c5055d57a241479fa94281560c29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/7e1ecb00b4631e0fbeb52f98a92702b580be2088.jpg",
+      "hidden": false,
+      "percent": "6.4"
+    },
+    "OGFAC27": {
+      "name": "Peak Kiryu",
+      "description": "Raised all stats to a natural 300.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/2c2fb08152bff75000ab0bfa3b1b0839a7f57ca1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/e5c24cb9fe92cd363285958c7c0d9534056233fe.jpg",
+      "hidden": false,
+      "percent": "15.2"
+    },
+    "OGFAC49": {
+      "name": "Play Ball!",
+      "description": "Won a baseball game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/6657516ea6093dc91af2ab1795e4bd19fd25a3a6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/84655613f6905d39cba7468eac911f8fe3ab0146.jpg",
+      "hidden": false,
+      "percent": "23.9"
+    },
+    "OGFAC55": {
+      "name": "Pretty Tasty",
+      "description": "Activated five types of eatery combos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/c2cbccb9ff8378695229dabce2f2fc8d48ce2d32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/1e7c73c75e7f6e61c6b4c5db9f0ee85a4e61cbed.jpg",
+      "hidden": false,
+      "percent": "45.3"
+    },
+    "OGFAC06": {
+      "name": "Priceless Child",
+      "description": "Completed Chapter 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/b59668f2434ba44b062def38b230c596a3ff050d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/769d065e3d9888cecd8bb894b20a8678eb15c22b.jpg",
+      "hidden": true,
+      "percent": "67.2"
+    },
+    "OGFAC18": {
+      "name": "Skill Dabbler",
+      "description": "Obtained 10 skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/3e0c0499d7f8a01ad1f17320415dc988aca146d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/cd461a803c06ce8ffb4778885ad8ac630a08bb4d.jpg",
+      "hidden": false,
+      "percent": "76.6"
+    },
+    "OGFAC20": {
+      "name": "Skill Master",
+      "description": "Obtained all skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/744bdc4c435273c68c1316ae504fb99b8d765cfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/32c88215b8d333e6dadb5efbfdd122df3e7e2f01.jpg",
+      "hidden": false,
+      "percent": "19.1"
+    },
+    "OGFAC19": {
+      "name": "Skill Pro",
+      "description": "Obtained 25 skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/28852d3116d6a7de8242c2b98a0433f58ba8b648.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/1c6f1cb8a8217e1c7fa299affed7a7f81673dbde.jpg",
+      "hidden": false,
+      "percent": "73.0"
+    },
+    "OGFAC24": {
+      "name": "Speed of the Dragon",
+      "description": "Raised Evade to a natural 150.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/30018ee1939f24108175a8bd46e51536eb8d644d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/984198b2018c08f23da9a183335b3485286a4046.jpg",
+      "hidden": false,
+      "percent": "71.1"
+    },
+    "OGFAC13": {
+      "name": "Story of My Life",
+      "description": "Completed all substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/cc40f7665874f10451ac06ba8dba091429c2c24d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/586bd8389cdadfc790fad0cc93fbfce228883d92.jpg",
+      "hidden": false,
+      "percent": "9.1"
+    },
+    "OGFAC22": {
+      "name": "Strength of the Dragon",
+      "description": "Raised Attack to a natural 150.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/bd3a0d2f08663a474b007a10ac162f254084e0ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/66f4e6fb8cb4715fe7e1da56b340745a1269723a.jpg",
+      "hidden": false,
+      "percent": "72.3"
+    },
+    "OGFAC11": {
+      "name": "Tell Me a Story",
+      "description": "Completed 10 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/26876909ea022f62d5771c05bab7765e09c056da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/da2f52d26a1b7c65eafacb0765299d805eca5624.jpg",
+      "hidden": false,
+      "percent": "50.2"
+    },
+    "OGFAC09": {
+      "name": "Thank You.",
+      "description": "Completed all of the main story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/35ed7f09ea2a43fd5e23de5842b629c8d0bad9c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/4fce3504d0e1788c1fed5793686f3a37a5b7cb4e.jpg",
+      "hidden": true,
+      "percent": "60.7"
+    },
+    "OGFAC48": {
+      "name": "That's Purrecious",
+      "description": "Rescued three stray cats.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/a473cc25ec0d4b125674b64ea279ddb7b962c448.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/56e9748b9fc2740a74943dff7ad512002a1066cb.jpg",
+      "hidden": false,
+      "percent": "32.3"
+    },
+    "OGFAC46": {
+      "name": "The Internet's Real Purpose",
+      "description": "Chatted with both lovely Live Chat ladies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/132967fddde41ee29290f2d903b9f113485b7c29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/2671ee6430d34bb048af13491d958e910a550d2d.jpg",
+      "hidden": false,
+      "percent": "26.4"
+    },
+    "OGFAC07": {
+      "name": "The Secret of Onomichi",
+      "description": "Completed Chapter 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/351f7ea521e86bb2ac955fcbbed3ed12de32fa8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/89b003cc565acedfc58486cf102d087fae659f9d.jpg",
+      "hidden": true,
+      "percent": "65.9"
+    },
+    "OGFAC01": {
+      "name": "The Song of Life",
+      "description": "Obtained all other achievements. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/8c796995ebaeb6b07bd699213b2619350f23f2f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/c45d5f4465e43c194262b93db9cf3175fa75a0d2.jpg",
+      "hidden": false,
+      "percent": "5.2"
+    },
+    "OGFAC15": {
+      "name": "This Is My City",
+      "description": "Completed 20 types of Trouble Missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/07c52f0d607cbbdf6a3eb8777c2c29e763c22241.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/04af57aeb45a6d4c6b0d64e597b3e5e12449e3ab.jpg",
+      "hidden": false,
+      "percent": "30.4"
+    },
+    "OGFAC47": {
+      "name": "To Be This Good Takes AGES",
+      "description": "Played every Club SEGA game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/3bbd32e2df1bc986f86a6add6497cc9efbad60f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/3c5f084d523a4d9895957485a95e387fae0c1a2d.jpg",
+      "hidden": false,
+      "percent": "8.7"
+    },
+    "OGFAC14": {
+      "name": "Troubleshooter",
+      "description": "Completed 5 types of Trouble Missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/6adcbc71f46aaed10d9e01c0ccf09aecf5c2cf4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/ce869e871a1d935428806980c7d4e11970eda2b5.jpg",
+      "hidden": false,
+      "percent": "54.8"
+    },
+    "OGFAC23": {
+      "name": "Vitality of the Dragon",
+      "description": "Raised Defense to a natural 150.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/ed6137f9e0b19e94b224670160db7c5532d7fe01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/f6b0c5c1fdbb4a7402357b10d00849efa3b671ee.jpg",
+      "hidden": false,
+      "percent": "66.3"
+    },
+    "OGFAC02": {
+      "name": "Welcome Back",
+      "description": "Arrived in Kamurocho for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/10ae206b7f48de9d5d8b9a792c883d6f273829de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/a0824b4cba722f4da3411e5ec1f14c3837635cd9.jpg",
+      "hidden": true,
+      "percent": "85.7"
+    },
+    "OGFAC41": {
+      "name": "What a Player",
+      "description": "Played every minigame.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/a914c5698f610186d0cbb9b1a9d3761a0bc97065.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/2e72b9f2fc75b0ae0945484c718d1752f064db05.jpg",
+      "hidden": false,
+      "percent": "7.2"
+    },
+    "OGFAC44": {
+      "name": "Where Everybody Knows Your Name",
+      "description": "Reached Beloved Customer rank at Snack New Gaudi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/7c3561605074785e99cf1b5b3c482c59b4f74038.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/a90c662f8477ad34a0300dfb77d626ebba838710.jpg",
+      "hidden": false,
+      "percent": "18.5"
+    },
+    "OGFAC38": {
+      "name": "Word on the Streets",
+      "description": "Raised the Kiryu Clan's influence to 10,000.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/cf5e3720358bbdaa480f72f520cb595fc3faf46c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/4cbcdfdd0e644f8f4ff7d436bc5de9619edafa96.jpg",
+      "hidden": false,
+      "percent": "40.9"
+    },
+    "OGFAC34": {
+      "name": "You Did It",
+      "description": "Completed 100 items on the Completion List.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/b35c4df3261adbbc2af2d055e1909c1a8e900b42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1388590/54f3c792ed50705ac31abf930b4ad26f1d6d34f7.jpg",
+      "hidden": false,
+      "percent": "32.5"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

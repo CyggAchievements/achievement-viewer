@@ -1,0 +1,746 @@
+{
+  "appid": "2208920",
+  "name": "Assassin's Creed Valhalla",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg?t=1754572990",
+  "achievements": {
+    "ACValhalla_Ach_89": {
+      "name": "A Favored Customer",
+      "description": "Buy all of Nar's Favors at least once (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/bf5bf9795aec31d6449488250dcc11079d9fc17e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/6c92ad8b625f48f04d581c785b5f293604c7636d.jpg",
+      "hidden": false,
+      "percent": "1.3"
+    },
+    "ACValhalla_Ach_27": {
+      "name": "A Picture of Grace",
+      "description": "Run through 30 breakable objects",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/5d8ae1af2b222a5dffbcde94323e69d75ea7fe0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/c49fb0edaf57a754a773b5c28fbc0da636663470.jpg",
+      "hidden": true,
+      "percent": "2.8"
+    },
+    "ACValhalla_Ach_61": {
+      "name": "A True Master",
+      "description": "Earn all Gold Medals available in Mastery Challenge (Part 1)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/209b7597a5056161bdef1d66c3b605a7fdf05e40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ea2b9587dc4271e79b18e3db2f09e8ae9f09d2c6.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "ACValhalla_Ach_78": {
+      "name": "Aesir Spelunker",
+      "description": "Discover all Shelters (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/da33030aaedc3d84e057af42215449b87b3f11b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/bcaca82791f4329127184c5c8215f6f36e2a588f.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACValhalla_Ach_55": {
+      "name": "All Roads Lead to Dublin",
+      "description": "Reach the max level of Dublin Renown (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/fc9cd25bcc727abd094fce6d337b351655ff6b04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/435353f0765063a617c42b255b40135ce99b33a3.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "ACValhalla_Ach_60": {
+      "name": "All That Glitters",
+      "description": "Get your first Gold Medal in Mastery Challenge (Part 1)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/85a9ab437d224e6497a8b4552708b4ae0bfb7dae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/60a4288b42f26132ea01f55ae8c7d6f1757a1b04.jpg",
+      "hidden": false,
+      "percent": "3.5"
+    },
+    "ACValhalla_Ach_37": {
+      "name": "Archaeologist",
+      "description": "Complete all Roman collector challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/1010ccd2ee9c64f17defc6bd53a260bf67b89db0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/68445a16467c61bc9c2aadd26e15e7153b27bd87.jpg",
+      "hidden": false,
+      "percent": "2.4"
+    },
+    "ACValhalla_Ach_10": {
+      "name": "As It Was Foretold",
+      "description": "Complete \"The Prophecy\" storyline",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/0f05c92eac901c9d1c442cf5907cebe420f7f688.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8a7947e46168bcf79936a63f8b5103ef3af0a35c.jpg",
+      "hidden": true,
+      "percent": "7.7"
+    },
+    "ACValhalla_Ach_74": {
+      "name": "Ashes of Svartalfheim",
+      "description": "Complete the Dawn of Ragnarök campaign (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8d72bdcf5eab381d1c794d87c230043f11881ef7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/7dd76d43660350b68644caba141837674ee00ffc.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "ACValhalla_Ach_67": {
+      "name": "Bad Bull",
+      "description": "Defeat the Ghost Auroch Boss (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/642a0fb4581b6d507c32f4140848155a370a5d12.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/a3129749a8f0dc437047458b135aa365ed5ef0b2.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "ACValhalla_Ach_28": {
+      "name": "Builder",
+      "description": "Reach settlement level 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/aee8b3ce211b0f8bdd602991d6c6ed676cc9146c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/839c3a81d596a6286c5d8975edc311eba20b1966.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "ACValhalla_Ach_43": {
+      "name": "Caladfwlch",
+      "description": "Draw Excalibur from the Stone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/78367f8bdd94f195cadacebc929b10c2c5e9eb25.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/540ccf2844be0175f15acf591c7ba475c74ebb8a.jpg",
+      "hidden": true,
+      "percent": "3.9"
+    },
+    "ACValhalla_Ach_7": {
+      "name": "Calling in a Favor",
+      "description": "Complete the Suthsexe Arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d58ea0ea943062a258304cd016594fb2d4f714c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/0fd9a329869535ee0edbb097f76b960ff2367c96.jpg",
+      "hidden": true,
+      "percent": "10.7"
+    },
+    "ACValhalla_Ach_24": {
+      "name": "Completionist All the Way!",
+      "description": "Complete all territories",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/bde1a92368333031ea322e6566c36357a395f0eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/7520a1b15a5ebb71678c594b7432d70f23bbe059.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "ACValhalla_Ach_86": {
+      "name": "Crossing Dókkerland",
+      "description": "Complete all encounters in Dókkerland (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/7c32129da39771519571dd82d55bc579f700ab76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/69446c9025b02163402b6afb07ace6631d7cec86.jpg",
+      "hidden": true,
+      "percent": "2.6"
+    },
+    "ACValhalla_Ach_72": {
+      "name": "Crypt-ologist",
+      "description": "Complete three Tombs of the Fallen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/6dbf7ab6adbbc3f463a7209f73771fe91814413b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9a148f2bc29f3a61fc4514f1fb6c436f04d91577.jpg",
+      "hidden": false,
+      "percent": "3.0"
+    },
+    "ACValhalla_Ach_53": {
+      "name": "Dawn of the Druids",
+      "description": "Collect all the amber shards for Deirdre (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/378dd4f2b4ea9d3c6dfd6d8192086becb2fb9967.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/92607b1e232380abaf1280c0539fcdc521adf744.jpg",
+      "hidden": true,
+      "percent": "4.7"
+    },
+    "ACValhalla_Ach_59": {
+      "name": "Decked Out",
+      "description": "Find the full Dublin Champion armor set (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/0539997dfdc966378a364c602ce8f00e11de8fd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/407e4e3fee06556f90a87bedbbd72fb6ae62b3ab.jpg",
+      "hidden": true,
+      "percent": "3.7"
+    },
+    "ACValhalla_Ach_12": {
+      "name": "Disorder of the Ancients",
+      "description": "Eliminate all targets of the Order of Ancients",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e98efa477537496d662ab92adb2c96d967ad9546.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/65d28d9f435f656287ee99b0ff518dae85a2da64.jpg",
+      "hidden": true,
+      "percent": "5.4"
+    },
+    "ACValhalla_Ach_62": {
+      "name": "Do What Is Right",
+      "description": "Complete the Siege of Paris campaign (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/f654cb18879ab77b4ccada51b25b9c4c982aaa70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d1a417f69bbf420cf628302be54b465540595924.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "ACValhalla_Ach_58": {
+      "name": "Double Trouble",
+      "description": "Equip a Sickle in both hands (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/924e4baa98b9839423e119d81bbe0267d52eadeb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e4f84fa6ce09b53530aedf528f9e77da2d00b72e.jpg",
+      "hidden": true,
+      "percent": "1.5"
+    },
+    "ACValhalla_Ach_48": {
+      "name": "Dreamcatcher",
+      "description": "Destroy 10 Curse Symbols (Base game only)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/1ecd3ce0c93d19cbf8f87463f704df070478cf56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/0a0b9def1897da4bc91a56a50c34fe874e10c916.jpg",
+      "hidden": false,
+      "percent": "7.2"
+    },
+    "ACValhalla_Ach_11": {
+      "name": "England Subdued",
+      "description": "Complete Hamtunscire Arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/aac6077dab81398df2d20518d56f6c07f65601ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/54d63f32fbb08589ca064d563e7a585a63f4c8cb.jpg",
+      "hidden": true,
+      "percent": "6.7"
+    },
+    "ACValhalla_Ach_16": {
+      "name": "Equilibrium",
+      "description": "Complete 3 Cairn challenges",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/4e8ccd4e34d5844678a40790be8a41155832c1c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/a81b7baf190f578e297f8caab2ed37ffafbb1544.jpg",
+      "hidden": false,
+      "percent": "7.8"
+    },
+    "ACValhalla_Ach_20": {
+      "name": "Equine Attack",
+      "description": "Assassinate an enemy from your horse",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/1e5b40a7268de99086d57beabc682c55ac65f0c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/468aa1e5381d613b4241862d64a17f7ac6941a9a.jpg",
+      "hidden": false,
+      "percent": "4.4"
+    },
+    "ACValhalla_Ach_22": {
+      "name": "Everyday Life",
+      "description": "Complete 10 World Events",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/c7816697f54be140c03edab2af000ae36d4113ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/04b47337cde75f613df08c12d381d9d230cc606a.jpg",
+      "hidden": false,
+      "percent": "18.0"
+    },
+    "ACValhalla_Ach_76": {
+      "name": "Expert Storyteller",
+      "description": "Tell Kára a Tale with at least four Boasts (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e958c7bee47063e7ec4fcb1efd549b3ab04d12f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/14210216ffe3cca60de35750b73fd69a34d3a4d3.jpg",
+      "hidden": true,
+      "percent": "1.6"
+    },
+    "ACValhalla_Ach_33": {
+      "name": "Face My Might!",
+      "description": "Equip 8 abilities",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9d4758e3fb9341ce5a0ea73fe222dfcd77c0c686.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/daaa6f4909ddfc78b9d058886cd902470364bf48.jpg",
+      "hidden": false,
+      "percent": "21.4"
+    },
+    "ACValhalla_Ach_35": {
+      "name": "Flying Eivor",
+      "description": "Get thrown 30 meters away by a destroyer or a housecarl",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d2555894eadc4ea2a8485e202a3143dd85c17649.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/b7dfc62727ccfa796c80f8a9d3e1648593043a3c.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "ACValhalla_Ach_81": {
+      "name": "Flying Fortress",
+      "description": "Reach a Muspelheim Monolith (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/14c7ca8ece8a874ef997e61ccbc046dff8f282df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/05410ebe4448e47b4b2bb88517f0b953eb6c9aee.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "ACValhalla_Ach_84": {
+      "name": "Freedom Fighter",
+      "description": "Reunite the dead within Kaldstad, Døkkerland and Nidheim (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ff73264d17fb8c45e3441c9c9f5e6929668e559c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d79a5ecd5281cd381791f90554bfec68d9a53673.jpg",
+      "hidden": false,
+      "percent": "0.7"
+    },
+    "ACValhalla_Ach_82": {
+      "name": "Full Master",
+      "description": "Earn all Gold Medals available in Mastery Challenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/98e9ecdadcf605bb5f84f499e2c5ca3dc6b84e0f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/a49f980c5265d419391f430b3e4dc9a611bcb35c.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "ACValhalla_Ach_40": {
+      "name": "Full Mastery",
+      "description": "Spend your first Mastery point",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/873067662d6dd6ad7868506bb72aeaeea61ce77b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/62f8be3f8f4869afbd5ccffccaceec38e8a42caf.jpg",
+      "hidden": false,
+      "percent": "14.4"
+    },
+    "ACValhalla_Ach_66": {
+      "name": "Future Past",
+      "description": "Enter the Assassin Bureau in Francia (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/eb726b07110c7f9098eacf83b6a6462a43274048.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ffd9a0678f808d209238d8440ad6e46b88107283.jpg",
+      "hidden": false,
+      "percent": "3.2"
+    },
+    "ACValhalla_Ach_49": {
+      "name": "Godly Reward",
+      "description": "Obtain Thor's Helmet",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/1ecd3ce0c93d19cbf8f87463f704df070478cf56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/0a0b9def1897da4bc91a56a50c34fe874e10c916.jpg",
+      "hidden": true,
+      "percent": "7.3"
+    },
+    "ACValhalla_Ach_39": {
+      "name": "Good Catch!",
+      "description": "Catch a fish of each type using the fishing line",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/74cb621f38a88d4e1ac1abd192fa15e2625ca434.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/f6e78c94c9c23c2a09909216f3226da9c18d36ff.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "ACValhalla_Ach_3": {
+      "name": "Hard Choices",
+      "description": "Complete the Grantebridgescire Arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/79cd95d6d9ed6cb66f0325b1f387f0b803ed9b38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/981ae3c174cd2a3b8b57d464dffcc588b2f0c13e.jpg",
+      "hidden": true,
+      "percent": "25.3"
+    },
+    "ACValhalla_Ach_92": {
+      "name": "Heroes of Ancient Britain",
+      "description": "Complete all Tombs of the Fallen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8f446647e07876e917d61d97f495118ccb27b9f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/33cc15e411fc98df1ef291bb167ae12be4a420b1.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "ACValhalla_Ach_87": {
+      "name": "High Kick",
+      "description": "Knock 10 enemies off of ledges using the Kick of Tyr Ability (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8fc1394fb729a402476fedf5963d7ac4bc53e5b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/2b30863afad2b962246daf5af33277399490560a.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "ACValhalla_Ach_31": {
+      "name": "Home Decor",
+      "description": "Place an item on each settlement cosmetic spot (Base game only)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/60083c8a22c5c1ec6f7719b8065be34bf5e31951.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/4f88fc62e3ab1085a74ee8ea644703365b265768.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "ACValhalla_Ach_29": {
+      "name": "Home Sweet Home",
+      "description": "Reach settlement level 6",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e2cfe4ce8242c2b7fa92c1b4636f1d95eea5d30d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e1019191e83f8c08087e160bf90fe420b2e4f5ed.jpg",
+      "hidden": false,
+      "percent": "4.1"
+    },
+    "ACValhalla_Ach_75": {
+      "name": "Hugr Incarnate",
+      "description": "Fully upgrade the Hugr-Rip (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/a7de1770b7184007b1bdef980b9935a32f47016b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e71299bbfc045efbdbca29aa15a5dcb247b824a1.jpg",
+      "hidden": true,
+      "percent": "0.8"
+    },
+    "ACValhalla_Ach_9": {
+      "name": "In the Footsteps of the Gods",
+      "description": "Complete the Asgard and Jotunheim quests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/149418bc6c993904c35a9b399b84986635ece84e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9a42380bb88ceb903925bf7fd3a5228b19c3a810.jpg",
+      "hidden": true,
+      "percent": "5.3"
+    },
+    "ACValhalla_Ach_52": {
+      "name": "Ireland's Deliverance",
+      "description": "Complete the Wrath of the Druids campaign (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/3e668a9d631af0790382efa53ca9e4c2f9fd73d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/dd8f7d17855e3f5480ff3d6a671d15da79ef7f48.jpg",
+      "hidden": true,
+      "percent": "5.2"
+    },
+    "ACValhalla_Ach_51": {
+      "name": "Irish Legend",
+      "description": "Complete all territories of Ireland (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/70b10c1245d88eafb1b15b2f537588e35de36277.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/fba3b3770fe8a639d75d9a6082767cff22929e04.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "ACValhalla_Ach_41": {
+      "name": "Is There Anybody Out There?",
+      "description": "Light the unlit braziers on Hadrian's Wall",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/afd9fdfff474dce407a822714872a4036b9b2a12.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/fa291f16166a4ac9e6ef49cb7e3e884f8ed70976.jpg",
+      "hidden": false,
+      "percent": "1.0"
+    },
+    "ACValhalla_Ach_14": {
+      "name": "It's Alive!",
+      "description": "Create a Jomsviking",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/16952546ce2ade7a88f53ffd838fe040f5f64259.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/933884e8adffa98efead8cdb8e2e0f0ecf6d1ced.jpg",
+      "hidden": true,
+      "percent": "28.2"
+    },
+    "ACValhalla_Ach_77": {
+      "name": "It's All in the Wrist",
+      "description": "Kill 30 enemies with an Atgeir (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/fbd9fadd6ff0701c7315b9283453680564790c5c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e509d58173362dc0e8f9101384e216b56de67233.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "ACValhalla_Ach_44": {
+      "name": "It's Not a Bug, It's a Feature!",
+      "description": "Complete your first Animus Anomaly",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d51a6edc752249beef776b9916afcf21c5af5895.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/f27eeb71e20ec8e7305ad138be81940dfd85f3c5.jpg",
+      "hidden": true,
+      "percent": "19.8"
+    },
+    "ACValhalla_Ach_57": {
+      "name": "King’s Maker",
+      "description": "Complete 10 Royal Demands (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9f99c0c5a8e506a2f7ae318f039bb7d93a687eed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9017ba0293ee13072700f0857b23604c2c3ad4c1.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "ACValhalla_Ach_63": {
+      "name": "Know What Is Right",
+      "description": "Complete all territories of Francia (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/871e29184b6f5f040f757cae80c0771ac2264c3d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/1c8a7812e4ee4cdd64e43ef370e3b9c3ec49c3b7.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "ACValhalla_Ach_70": {
+      "name": "Lèse-majesté",
+      "description": "Complete 10 Rebel Missions (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/85aa0bf598383616d426cfbe576c868e95f9034c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/6550071135a7ff91ca998099914b3cefefc41f60.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "ACValhalla_Ach_54": {
+      "name": "Like a Druid",
+      "description": "Complete a Trial of the Morrigan (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/4d16fdae817566fdaa0e713def6ea27a39f8cc17.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e9ff8feb73ca350a4485211677352a6939e97bf4.jpg",
+      "hidden": false,
+      "percent": "4.5"
+    },
+    "ACValhalla_Ach_47": {
+      "name": "Master Hunter",
+      "description": "Defeat all Alpha animals (Base game only)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/4d02480064e90f556b71250c715300cf02314215.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/23400e1f49c11b1f45815cf5e0dac323257133c1.jpg",
+      "hidden": false,
+      "percent": "2.6"
+    },
+    "ACValhalla_Ach_79": {
+      "name": "Motsognir's Blessing",
+      "description": "Purify Hreidmar's Cursed Armor (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8ebaf6ffe44233dccbab014f63eb6178bb4dbf0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/927a5a10f37739e8469741cb2a6fe896334c0edf.jpg",
+      "hidden": true,
+      "percent": "1.1"
+    },
+    "ACValhalla_Ach_32": {
+      "name": "Not the Norse You're Looking For",
+      "description": "Successfully pass close to a guard in a distrust area by blending with a group of monks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/940aee5d0f234043159e944c49bc74fe9fe11009.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d683ec94946b85734f8b86d0e6abdcefe368f614.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    },
+    "ACValhalla_Ach_17": {
+      "name": "Old School Treasure Hunt",
+      "description": "Collect 5 Treasure Hoard rewards (Base game only)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ea5588b51ff78befcaa80cabfbd6149b56a08fe4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/987a787d859cd74eb4d3d51bd5416646b0921eed.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "ACValhalla_Ach_38": {
+      "name": "Orlog Champion",
+      "description": "Beat all the Orlog players",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9f512f7b90ebc42a632c54965ae0ec3b693a9479.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/f5c2cefcc7049da393f9085e647e27d0e73c8267.jpg",
+      "hidden": false,
+      "percent": "1.1"
+    },
+    "ACValhalla_Ach_73": {
+      "name": "Over the Hills…",
+      "description": "Complete all territories of Svartalfheim (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/7c8b73dea06c27a3ba347777016decd4b7388058.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/de1de7e2d0d263a8ed3f9193bd99b54cfba40bbf.jpg",
+      "hidden": false,
+      "percent": "1.0"
+    },
+    "ACValhalla_Ach_23": {
+      "name": "Overdesign II",
+      "description": "While on fire during a fight, kill 3 hard difficulty soldiers without breaking their shields",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/937549d79557bf4f76855bf0ad9514a7b2467c3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/7454af4440f8f3d7e0ba03d0412cfc45a870e108.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "ACValhalla_Ach_69": {
+      "name": "Pat the Cats",
+      "description": "Pat all the cats in Evreux (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/6036c7a3883994286b7a4bc67af0ea3f22394dc1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/750461987dcd8551811a3db1304632553f457bc2.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "ACValhalla_Ach_30": {
+      "name": "Pioneer",
+      "description": "Reach Vinland",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d27396d0982f3eabd7f95364c4f7e234603687c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/21a95f16e656591caa83b21127336be6ea0f8081.jpg",
+      "hidden": true,
+      "percent": "10.6"
+    },
+    "ACValhalla_Ach_85": {
+      "name": "Pure of Heart",
+      "description": "Defeat Nidhogg without using an Elk Shrine (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/1c0ee59dd23fbfee62fa8d0e480c3ea5ce7759d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/df2f67b4743c4615a01d6db1fdd98f593e7f2407.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "ACValhalla_Ach_13": {
+      "name": "Rampage",
+      "description": "Complete your first raid in England",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/3b7751902754669a21f97755d82bd384ff2109d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/730722b457690630388ddde541accd76f9e8c2a3.jpg",
+      "hidden": true,
+      "percent": "33.6"
+    },
+    "ACValhalla_Ach_91": {
+      "name": "Returning to the Roots",
+      "description": "Return to Odin's Camp for the first time (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/35a68716bf39cc3ac9b77c0284df104d73965d3f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/70ebb2f8fd99a1d03c59092af9131ea89a3ea129.jpg",
+      "hidden": false,
+      "percent": "13.2"
+    },
+    "ACValhalla_Ach_25": {
+      "name": "Row Rage",
+      "description": "Ram and destroy 5 boats in under 2 minutes with your longship (Base game only)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/669424198cc4edd191d144e6fbaca9d6d16da8fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/36ad51573a1fe35faf3084cd83b007f759713ad5.jpg",
+      "hidden": false,
+      "percent": "0.7"
+    },
+    "ACValhalla_Ach_88": {
+      "name": "Royal Treatment",
+      "description": "Find Hel's Majordomo (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/6d1e95df7667c70e38d2a69e4fe0def851836864.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/2864e87dca33780e8b7f93012614943d522bb77c.jpg",
+      "hidden": false,
+      "percent": "3.5"
+    },
+    "ACValhalla_Ach_83": {
+      "name": "Sacrificial Victory",
+      "description": "Defeat Hel with the Draugr's Toll Outfit equipped (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/f344d49fe950c79ae80db7963498b84429fe5ab0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/bb24cba1d5dc44da88a2a824e237d27990e773e6.jpg",
+      "hidden": true,
+      "percent": "0.7"
+    },
+    "ACValhalla_Ach_45": {
+      "name": "Seahorse",
+      "description": "Swim a total of 3km with the horse",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9ddec282588f1ccc6c516282d897ec5febc1e794.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/c8731d8e71f78cd5198f1f5235bbcf11b14651ec.jpg",
+      "hidden": true,
+      "percent": "3.7"
+    },
+    "ACValhalla_Ach_80": {
+      "name": "See No Evil",
+      "description": "Teleport-Assassinate two enemies and fly away without being detected (Dawn of Ragnarök)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/fe842a560074324b73ac23820942027a9396105b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8eb983f36a2bc266c9a0268343e3ef509785994d.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "ACValhalla_Ach_21": {
+      "name": "Silent Viking",
+      "description": "Assassinate 10 enemies in a row without triggering a conflict",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/fb773ceec6c34cbf9f7acf56be984a793ea66dda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/5fb395996b51bbbe557ed9c658aaa6502005bbac.jpg",
+      "hidden": false,
+      "percent": "14.2"
+    },
+    "ACValhalla_Ach_18": {
+      "name": "Skadi's Hobby",
+      "description": "Perform a 150m slide in the snow",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/94cc554265a37d677e3c059737509f8434dc4cb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d09334fc6437fff1d1280d139d6119c4151eefaa.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACValhalla_Ach_42": {
+      "name": "Slam Master",
+      "description": "Complete all the flytings",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9d83b54d499d1a38d97a7066556533e5384a8d90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ce09c12de28793e3ba73a13b7aff4c73571f605c.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "ACValhalla_Ach_71": {
+      "name": "Spelunker",
+      "description": "Complete one Tomb of the Fallen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8225dd45865abbaa61371795d763f6cf44145222.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/c24dbe456a58b96adc990037bf56bfd13345f280.jpg",
+      "hidden": false,
+      "percent": "10.8"
+    },
+    "ACValhalla_Ach_6": {
+      "name": "Take My Hand",
+      "description": "Complete the Cent Arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/a1c7032e69f6561e7ba17f85456adacca74c4db2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9d449631f6f0968095b168dd08dcb37d01f1e431.jpg",
+      "hidden": true,
+      "percent": "12.2"
+    },
+    "ACValhalla_Ach_8": {
+      "name": "The Enemy of My Enemy",
+      "description": "Complete the Wincestre Arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9b790bdd6fa4d7753c894120069e0419a4f26e6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/495258467920decc83ef6a2bcf881a8833025650.jpg",
+      "hidden": true,
+      "percent": "8.6"
+    },
+    "ACValhalla_Ach_5": {
+      "name": "The Good Saxon",
+      "description": "Complete the East Anglia Arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/707cf13412fc2c18119a10b1667e82c80b943292.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e05589176ec15b2dd70a22337097902a86005621.jpg",
+      "hidden": true,
+      "percent": "17.8"
+    },
+    "ACValhalla_Ach_46": {
+      "name": "The Hidden Truth",
+      "description": "Obtain all video fragments and watch the hidden truth video",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/9bad80c014a63527458895c844c06a1d44aaa6d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/0e1f4df066778292bb7861a2fa8df52eed8fcd42.jpg",
+      "hidden": true,
+      "percent": "2.2"
+    },
+    "ACValhalla_Ach_56": {
+      "name": "The Legend of St. Patrick",
+      "description": "Kill the only snake in Ireland (Wrath of the Druids).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e25b182f7f1dbbd01e6e5d3e9bf8dd9b5767dac2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/946fa4a2e1d3872a071db63f444fdcafbc3273cb.jpg",
+      "hidden": false,
+      "percent": "2.1"
+    },
+    "ACValhalla_Ach_4": {
+      "name": "The Order Is Revealed",
+      "description": "Complete the Lunden Arc",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/cd8618d57e99cfc34a05e1a78b362f93856ff557.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/2a8d64c195ca6362f547b52718033547988363d4.jpg",
+      "hidden": true,
+      "percent": "15.9"
+    },
+    "ACValhalla_Ach_90": {
+      "name": "The Queen's Fall",
+      "description": "Defeat Hel, ruler of Niflheim (The Forgotten Saga)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/e3271e35cd17245b0ccc4d4b270b3a11193f74ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8a2ef667dee28f8be8a1e9112f212d55c29f0ed4.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "ACValhalla_Ach_1": {
+      "name": "The Saga Begins",
+      "description": "Complete the Prologue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/8723ae33fa74d0f87453042b9743f51e815069bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/3de0d5968ed31abe0570802ec1dbd429e44c2624.jpg",
+      "hidden": true,
+      "percent": "52.4"
+    },
+    "ACValhalla_Ach_2": {
+      "name": "To England!",
+      "description": "Leave Norway",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/65d06594fd0cd4c463ae66d7b43c5c176a51fd2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/020ebc4f57cf456898e321798f2c0737403a6ad5.jpg",
+      "hidden": true,
+      "percent": "35.7"
+    },
+    "ACValhalla_Ach_15": {
+      "name": "Tranquility",
+      "description": "Complete a Standing Stone puzzle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/b2a73f257c1badc2a41a258ac15ad4d4d571226e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/06aca89021520032cb340edc3ad08f7c8c55c70e.jpg",
+      "hidden": false,
+      "percent": "19.4"
+    },
+    "ACValhalla_Ach_36": {
+      "name": "Twinkle Twinkle",
+      "description": "Release a firefly in your settlement",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/7e3fd9c3a73a7fa34ae4d036e6533c7e13355b8e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/148d4b51c3e90a3bc195ee6cebf6024264c0a9df.jpg",
+      "hidden": false,
+      "percent": "5.1"
+    },
+    "ACValhalla_Ach_34": {
+      "name": "Ultimate Refinement",
+      "description": "Fully upgrade and enhance a piece of gear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/3450c408c81a0f7ab436d7793dc932535030445e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/04eda59004ec7ffa44c0f6315916c2bf75f98faa.jpg",
+      "hidden": false,
+      "percent": "14.5"
+    },
+    "ACValhalla_Ach_68": {
+      "name": "Vendange",
+      "description": "Kill an enemy with a scythe while wearing the full Reaper armor set (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d983e942592f128a4c03a049290b1ae82e8a2adc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/84f138e7e820d94eebc94820b0b5054c43bf2a2f.jpg",
+      "hidden": false,
+      "percent": "0.8"
+    },
+    "ACValhalla_Ach_65": {
+      "name": "Vive la Résistance",
+      "description": "Reach maximum Infamy in the Rebel Missions (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/5581b905127f39228062ca101e4054782a04e843.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/3c0f62e5c5a405588b8d50b1bd9490cbda75f7c4.jpg",
+      "hidden": false,
+      "percent": "2.0"
+    },
+    "ACValhalla_Ach_64": {
+      "name": "We Nobles Three",
+      "description": "Defeat all three Frankish Nobles (The Siege of Paris).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/bc0cba5a6e30a23012fbd2e55b2ec39ad6589f50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/d6a4a3e77bc08a40fd58a1e4ab883a8a0aabcbbf.jpg",
+      "hidden": false,
+      "percent": "1.9"
+    },
+    "ACValhalla_Ach_26": {
+      "name": "We're in the End Game Now",
+      "description": "Reach Power 280",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ba7c4df5cd3559a60709a103a8be6216c4ef257d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/f06029fb9796bce3bf1fb64ba0567bc150e7208f.jpg",
+      "hidden": false,
+      "percent": "11.6"
+    },
+    "ACValhalla_Ach_19": {
+      "name": "Witch Hunter",
+      "description": "Defeat one Daughter of Lerion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/3a8fc2baf679cb55e3834fa2a0768a60727fa68a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/c19e52bdc861b674b708ce8f4ed2c170a92d094a.jpg",
+      "hidden": false,
+      "percent": "10.3"
+    },
+    "ACValhalla_Ach_50": {
+      "name": "Worthy",
+      "description": "Wield Mjolnir",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/c99694361630a97672a74d03a1602d5266bf921f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2208920/ab81b82f43a3709c859fb7a87055392f8d35af7b.jpg",
+      "hidden": true,
+      "percent": "3.3"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

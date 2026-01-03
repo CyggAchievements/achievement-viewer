@@ -1,0 +1,314 @@
+{
+  "appid": "1649240",
+  "name": "Returnal™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/header.jpg?t=1750956860",
+  "achievements": {
+    "FirstBoss": {
+      "name": "A Shadow in the Fog",
+      "description": "Defeat Phrike",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/2afaa2bccb84ebbde4af968286aaad6eb44aa2ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/37ff9e0ead9abe51a53ec56ded1158fa4acb50a9.jpg",
+      "hidden": true,
+      "percent": "62.5"
+    },
+    "MaxProficiency": {
+      "name": "Adapting to Circumstance",
+      "description": "Achieve Weapon Proficiency level 30",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/18a32b6ddc44d43b3003ae0d8bedf8f81ea80a47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1ed9aa6799d620864580be2d37c4c131654bac30.jpg",
+      "hidden": false,
+      "percent": "21.5"
+    },
+    "MaxAdrenaline": {
+      "name": "Adrenaline Spike",
+      "description": "Achieve maximum Adrenaline Level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/260e7e4c4b769bbc4427a0ce3b74b192a73c49b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/41cb202e62a0977b7296a1f4705c6629c3f7a766.jpg",
+      "hidden": false,
+      "percent": "82.9"
+    },
+    "FindLogs": {
+      "name": "Alternate Fates",
+      "description": "Retrieve 10 Scout Logs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/a9a2fdf6037e17bb1d89046c09f1e707f93a97e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/2caf39309f64ccac6d3e5c6a81425398653c4303.jpg",
+      "hidden": false,
+      "percent": "66.4"
+    },
+    "CD_Mastery": {
+      "name": "Ascending the Mountain",
+      "description": "Finish Crimson Wastes Survey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/301b76c583f1ba0a87244e5ba95a58c7497804df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/ad295818fa12e1b35645386d25e01917adf877f4.jpg",
+      "hidden": true,
+      "percent": "1.4"
+    },
+    "SecondBoss": {
+      "name": "Ascension",
+      "description": "Defeat Ixion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1a6617d111960c5d5cb816ef475a16ed70bed7bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1427f5f8854da7d4a42ae2a3c7ca7677af0f0703.jpg",
+      "hidden": true,
+      "percent": "47.2"
+    },
+    "OnboardingComplete": {
+      "name": "Atropian Survival",
+      "description": "Learn the basics of survival on Atropos",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/7b8a8b757498b25fabcc3af21226330dab83d7d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/0b2da429b7e0a298de36d334c8231836b13d2360.jpg",
+      "hidden": false,
+      "percent": "75.8"
+    },
+    "FinishHospital": {
+      "name": "Broken, Restored, Empty",
+      "description": "Complete the first Hospital sequence",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/cca532c0684e7088b79cbe8fb595fe6d94e08a47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/33dae8e55a14e4408f287e8afc5d209bff32cb88.jpg",
+      "hidden": true,
+      "percent": "26.1"
+    },
+    "FoundXenoglyph": {
+      "name": "Cryptic Messages",
+      "description": "Scan a Xenoglyph",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/645bebb0bcd8cd03fdad714d01d13ed13aa43eba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/c0d345a1327560743446aec024d78087d3402b70.jpg",
+      "hidden": false,
+      "percent": "84.3"
+    },
+    "FinishedXenoglyph": {
+      "name": "Cryptic Translations",
+      "description": "Unlock all translation tiers of a Xenoglyph",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/3a58ba10f4c25f7633e4072a7bef0f80f921bc55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dae66774cbeea488401ef1f84b71e31d01d88279.jpg",
+      "hidden": false,
+      "percent": "60.9"
+    },
+    "KillWithSuperWeapons": {
+      "name": "Destroyer",
+      "description": "Kill 100 Hostiles with Disgorgers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/71a5d8dc8d31d824ade0d4b7738e4181cc1f5851.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/7d280c6b83b061dc4c68727a53843231bea4ea84.jpg",
+      "hidden": true,
+      "percent": "2.2"
+    },
+    "SW_Mastery": {
+      "name": "Echoes of the Past",
+      "description": "Finish Echoing Ruins Survey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/39ef5cafdced35fbcd02ac83be3e3d327a15e3d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8a629136e71f418995d7ab7626d7c201fdcf8fea.jpg",
+      "hidden": true,
+      "percent": "3.7"
+    },
+    "DLCEnding": {
+      "name": "Empty Embrace",
+      "description": "Open the Locked Door",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e749f7822b09e242f226461196e328ba2752d961.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1490afc0fd94177626655775b039af50c26dbe83.jpg",
+      "hidden": true,
+      "percent": "4.5"
+    },
+    "FirstDeathInTower": {
+      "name": "Eternal Ascent",
+      "description": "Die and return in the Tower",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dee6388b6ecd469e399e13e8443408cdbf765291.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/07a5e9a2f784e392b2b8df11dcc7f15b860e3a7e.jpg",
+      "hidden": true,
+      "percent": "29.2"
+    },
+    "FirstDeath": {
+      "name": "Eternal Return",
+      "description": "Experience a new cycle after death",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/5d1f14dd932b7bb381b5a4083740da923e712668.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/87f36f3de9755e0918c99598bfa046d291f677be.jpg",
+      "hidden": true,
+      "percent": "93.7"
+    },
+    "ThreePhaseBoss": {
+      "name": "Eyes Closed",
+      "description": "Defeat Algos' final form ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/cde8a1784b16dd8e9d4caf4b4ccaff48c31b8f05.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/6129e6733baeee3f38da94de2e10904a3f75e14d.jpg",
+      "hidden": true,
+      "percent": "8.0"
+    },
+    "Act1Complete": {
+      "name": "Failed Escape",
+      "description": "Finish Act 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/7b09ffc533c1b7f4b17e992b69e078746bf187b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/25d6ab45badc8ab00186ee119ab1bb349648b2ff.jpg",
+      "hidden": true,
+      "percent": "37.9"
+    },
+    "SecretEnding": {
+      "name": "Find Release",
+      "description": "Gain a moment of peace",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/4b5756fc241f59526fe311b0c72dd802d6c11f13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/240d698f633258aac30fb407e9a8d3d89c962092.jpg",
+      "hidden": true,
+      "percent": "2.3"
+    },
+    "IC_Mastery": {
+      "name": "Frozen in Time",
+      "description": "Finish Fractured Wastes Survey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/3e5fc76b70c9f5f05f986d602a18031e9c4fa23e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/a0aa1d507685b29bea6839150a1c3e57286c06ad.jpg",
+      "hidden": true,
+      "percent": "2.1"
+    },
+    "MaxHP": {
+      "name": "Hardened Shell",
+      "description": "Achieve 200% Max Integrity",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e12703b23c5ef4f34da4a0c6b7df66fc0ddeecd6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/0960c8912c1456b4010564684560990ab1b31762.jpg",
+      "hidden": false,
+      "percent": "35.6"
+    },
+    "AllTrophies": {
+      "name": "Helios",
+      "description": "Collect all main Achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/b219efc361789e3bf10242c365d97456152fae8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/91939753278e41f8cbc965181066eb9d175f7fe7.jpg",
+      "hidden": false,
+      "percent": "1.2"
+    },
+    "DailyChallenge": {
+      "name": "In-Field Training",
+      "description": "Complete a daily challenge in Simulation Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/0c24838872015d45189b22ac30328bca0f0a216b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8aebc3c882d16d72ded52d7b850e71e23e144e21.jpg",
+      "hidden": false,
+      "percent": "13.5"
+    },
+    "FifthBoss": {
+      "name": "Inner Darkness",
+      "description": "Defeat Ophion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/0c4024c014aed254f9ad7c61c7df527df27654b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/cf41d94caa29f6265ab4720a75eaefcfa97d67f4.jpg",
+      "hidden": true,
+      "percent": "24.9"
+    },
+    "MaxParasites": {
+      "name": "Irreversibly Contaminated",
+      "description": "Have 5 Parasites simultaneously",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/40fcb9f62eed1207e052eb9514218906b0866f76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/4d1f7782f54a5531cff4be8fb6601dcb693aedec.jpg",
+      "hidden": false,
+      "percent": "30.4"
+    },
+    "Act2Complete": {
+      "name": "Last Drive",
+      "description": "Finish Act 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/2e44be217a3c6830efa48efc2a729ee1f08ec748.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dbd0b21b790375770dbe1acd78b1c350265dfedd.jpg",
+      "hidden": true,
+      "percent": "24.8"
+    },
+    "AF_Mastery": {
+      "name": "Past the Ruins",
+      "description": "Finish Overgrown Ruins Survey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/942a0a82a8aa47a92769bf2ebb83410f841fd9f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/9f4bbdc3119770dcb5830209cf631091d99bbd0a.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "CurseActivity": {
+      "name": "Risk Assessment",
+      "description": "Finish Calculated Risk",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/3dd2f628679050abc3be029098d6cdc969ba730b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/68ce40f99bfc28bdd0dad8280069ea1a5971e273.jpg",
+      "hidden": false,
+      "percent": "37.5"
+    },
+    "FirstResurrect": {
+      "name": "Second Chance",
+      "description": "Returned by an Artifact",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/c71aee624e9efd12d06c0f4f930a8e51bf70f404.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/54d32869521ace2e9b2686d0db2d2ff1c3146ebe.jpg",
+      "hidden": true,
+      "percent": "66.5"
+    },
+    "FourthBoss": {
+      "name": "Silence the Song",
+      "description": "Defeat Hyperion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/97315bb57b8791532db31602adfd5af069457276.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1b16e0bdc16568aa8c4477d6693dcec8b9a509c5.jpg",
+      "hidden": true,
+      "percent": "32.0"
+    },
+    "FinishAllHouses": {
+      "name": "Sins of the Mother",
+      "description": "Complete all House sequences",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/64a8e60f154f9ab3a25ec48ebe26263a629fc57c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8d268c43d0d404dce744dea36a2846ec2d68eb30.jpg",
+      "hidden": true,
+      "percent": "6.9"
+    },
+    "UR_Mastery": {
+      "name": "Submerged in Memories",
+      "description": "Finish Abyssal Scar Survey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/c1aeb99b0d3a53b36d66052fecfda0fbf24545de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/4b99c15ec92685a662ed81d79fda12cd7461ef6a.jpg",
+      "hidden": true,
+      "percent": "1.6"
+    },
+    "ReloadCombo": {
+      "name": "Surgical Precision",
+      "description": "Perform 5 successful Overloads in a row",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e15f8c892901d462e2c3541635a9f1174a21acf5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/00e7f8e52e53ed0d191f64e5e79bb8836dce8c38.jpg",
+      "hidden": false,
+      "percent": "69.6"
+    },
+    "SinglePhaseBoss": {
+      "name": "The Watcher",
+      "description": "Defeat Algos' first form",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/cc7445cc1b67e3092a3177fedfc277e689aa3f61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e08b484774d93a717a720744417e0afae0cdc0bd.jpg",
+      "hidden": true,
+      "percent": "24.8"
+    },
+    "CI_Mastery": {
+      "name": "Through the Forgotten City",
+      "description": "Finish Derelict Citadel Survey",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/556c0c0692cab204e7bee791989d209b8720c1f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/2c5bc8f2fbf09f6c3b21ea2e04a3d5977f6e2c8d.jpg",
+      "hidden": true,
+      "percent": "1.7"
+    },
+    "ThirdBoss": {
+      "name": "Trial by Judgement",
+      "description": "Defeat Nemesis",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/3679541df0d7f6a813a0752efc6928a91663a582.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8c809aed0a3c37c7bdccec26416f64d59b6907c2.jpg",
+      "hidden": true,
+      "percent": "37.9"
+    },
+    "FinishMural": {
+      "name": "Visions of the Past",
+      "description": "Complete a Xeno-archive set (excluding Tower of Sisyphus)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/d58479400831b5b60c475476126833ce53a892ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/3c929f8a45a403bfed427b0089fa7ed362e8071f.jpg",
+      "hidden": false,
+      "percent": "36.8"
+    },
+    "FinishHouse": {
+      "name": "Welcome Home",
+      "description": "Complete the first House sequence",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/07e045e5b8f3cdb463e078299484c95485d5a5b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/ec990ee8a3719a536bc12548c8857eb633ab13de.jpg",
+      "hidden": true,
+      "percent": "69.3"
+    },
+    "Act3Complete": {
+      "name": "White Shadow",
+      "description": "Finish Act 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/24de1e89305f8cbec336f16db958ff1305fc3391.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/a2a50d74c1bdcf59e9a320c4f7a6c7fdefab29d1.jpg",
+      "hidden": true,
+      "percent": "6.3"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,298 @@
+{
+  "appid": "847290",
+  "name": "Community College Hero: Knowledge is Power",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847290/header.jpg?t=1734033288",
+  "achievements": {
+    "deadwombat": {
+      "name": "A Classmate Killed",
+      "description": "Witness the death of a classmate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "13.1"
+    },
+    "deadhedonist": {
+      "name": "A Hero Shattered",
+      "description": "Witness the death of a faculty member.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "17.7"
+    },
+    "tollyplanteam": {
+      "name": "Advanced Hacking 102",
+      "description": "Find Dean Tolly's secret memo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "12.5"
+    },
+    "hackmccormick": {
+      "name": "Basic Hacking 101",
+      "description": "Find Professor McCormick's letter to Mega Cat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "5.4"
+    },
+    "batteredend": {
+      "name": "Bruised and Battered",
+      "description": "End the spring semester with high Ouch.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "34.4"
+    },
+    "freeburger": {
+      "name": "Burger Me",
+      "description": "Enjoy free burgers with your sidekick.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "13.4"
+    },
+    "nilwarning": {
+      "name": "But I Trusted Her",
+      "description": "Receive a warning about a faculty member.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "29.1"
+    },
+    "killwyvern": {
+      "name": "Dragon Slayer",
+      "description": "Kill a dangerous villain.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/aea185fa7dec405597a851830d3730d4964aedd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "17.9"
+    },
+    "healthyend": {
+      "name": "Feelin' Fine",
+      "description": "Escape the spring semester with low Ouch.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "8.4"
+    },
+    "savepug": {
+      "name": "For Pug's Sake",
+      "description": "Save a pug on the mean streets of New York.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "42.1"
+    },
+    "avoidkidnap": {
+      "name": "Hands Off",
+      "description": "Avoid getting kidnapped by a villain.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "16.5"
+    },
+    "blockwyvern": {
+      "name": "I Didn't Feel a Thing",
+      "description": "Perfectly block a villain's attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "9.5"
+    },
+    "topgpa": {
+      "name": "I'm Really Good at This",
+      "description": "Earn a GPA over 3.00.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/aea185fa7dec405597a851830d3730d4964aedd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "41.9"
+    },
+    "helltopgrade": {
+      "name": "Insurance Nerd",
+      "description": "Ace the HELL test.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "60.7"
+    },
+    "takedownmanip": {
+      "name": "It's About Damn Time",
+      "description": "Defeat a hated villain.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/aea185fa7dec405597a851830d3730d4964aedd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "67.3"
+    },
+    "justthetip": {
+      "name": "Just the Tip",
+      "description": "Invite a classmate to pleasure you in private.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "6.6"
+    },
+    "keephopealive": {
+      "name": "Keep Hope Alive",
+      "description": "Refuse to give up on a fallen classmate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "43.0"
+    },
+    "breakingtopgrade": {
+      "name": "Kicking Ass and Taking Names",
+      "description": "Ace the Breaking People and Things test.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/c790e1a83bf9b27de6640fd2060f605b96610922.jpg",
+      "hidden": false,
+      "percent": "29.5"
+    },
+    "fakeenhancer": {
+      "name": "Maybe I Can Fake It",
+      "description": "Convince a classmate to give you a fake combat enhancer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "36.5"
+    },
+    "mediatopgrade": {
+      "name": "Media Savvy",
+      "description": "Ace the Media Relations test.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "17.4"
+    },
+    "becomeleader": {
+      "name": "Now the Boss",
+      "description": "Win the leadership position.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "31.4"
+    },
+    "pathbrilliance": {
+      "name": "Path to Brilliance",
+      "description": "Start on a path to brilliance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "44.8"
+    },
+    "pathpower": {
+      "name": "Path to Power",
+      "description": "Start on a path to power.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "61.3"
+    },
+    "pathredemption": {
+      "name": "Path to Redemption",
+      "description": "Start on a path to redemption.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "megcov": {
+      "name": "Prestige University Issue Seven Cover",
+      "description": "Unlock the Prestige Issue Seven cover.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "56.6"
+    },
+    "punchingbag": {
+      "name": "Punching Bag",
+      "description": "Refuse to stay down in a fight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/aea185fa7dec405597a851830d3730d4964aedd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "25.9"
+    },
+    "pokerchamp": {
+      "name": "Read 'Em and Weep",
+      "description": "Win the biggest poker hand.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "28.5"
+    },
+    "crashcar": {
+      "name": "Remedial Driver's Education",
+      "description": "Crash a Speck-issued vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "35.0"
+    },
+    "savcov": {
+      "name": "Savior Institute Issue Seven Cover",
+      "description": "Unlock the Savior Issue Seven cover.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "32.8"
+    },
+    "notaquickie": {
+      "name": "Sometimes You Need a Quickie",
+      "description": "Escape from a villain's lair with the help of a classmate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "68.1"
+    },
+    "keepleader": {
+      "name": "Still the Boss",
+      "description": "Keep your leadership position.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "18.4"
+    },
+    "ultimateupgrade": {
+      "name": "Ultimate Upgrade",
+      "description": "Upgrade all of your abilities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "29.4"
+    },
+    "stoichug": {
+      "name": "Who Needs a Hug",
+      "description": "Hug an unhuggable classmate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/85e467ac1338e03b5b9f40245feb08c15790f721.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "18.4"
+    },
+    "hidewyvern": {
+      "name": "You Can't See Me",
+      "description": "Perfectly avoid a villain's attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "25.6"
+    },
+    "dodgewyvern": {
+      "name": "You Can't Touch Me",
+      "description": "Perfectly dodge a villain's attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "16.7"
+    },
+    "defensetopgrade": {
+      "name": "You Shall Not Pass",
+      "description": "Ace the Defense test.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/2f94b2c32bdc0b5c12ed315fe94c64ccce7fb810.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/847290/8554c4b5eb18e484a11a9ceadb04b5eb8403f9c5.jpg",
+      "hidden": false,
+      "percent": "14.4"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

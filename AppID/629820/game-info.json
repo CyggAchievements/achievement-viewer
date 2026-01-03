@@ -1,0 +1,362 @@
+{
+  "appid": "629820",
+  "name": "Maneater",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629820/header.jpg?t=1744396107",
+  "achievements": {
+    "ACH_DLC01_REACHED_LVL_40": {
+      "name": "40 and Flirty",
+      "description": "Reach level 40",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/daffeb63b47d4957088e8bc47a852c5829988bcf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "16.5"
+    },
+    "ACH_ADAPTATION": {
+      "name": "Adaptation",
+      "description": "Evolve for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/6b05591f7c5a28ce66c9c4042e128bef800e9ccd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "85.4"
+    },
+    "ACH_DLC01_DEFEATED_APEX_LEVIATHAN": {
+      "name": "Apex Eater",
+      "description": "Kill the Atomic Leviathan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2bf4a032051701da535313b4d19907a17c1c15a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/62355503517c6637e493b3f7c2b2d5ad1435362d.jpg",
+      "hidden": false,
+      "percent": "12.1"
+    },
+    "ACH_DLC01_ACQUIRED_ATOMIC_EVOLUTIONS": {
+      "name": "Atomic Bomb",
+      "description": "Acquire 100% of the Atomic Evolution set",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/287e303790c22c4e286fb7932102833caa995067.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "16.5"
+    },
+    "ACH_DLC01_DEFEATED_APEX_WHALE": {
+      "name": "Bone Breaker",
+      "description": "Kill the Bone Sperm Whale",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/ec80a975cccbfb60105b58788ebe986d3e9c2f2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "17.6"
+    },
+    "ACH_DEEP_SEA_EXPLORER": {
+      "name": "Deep Sea Explorer",
+      "description": "Find all nutrient caches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/0bcd2152711c517cb90feb68ee20dd420b6febcd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "17.9"
+    },
+    "ACH_DELICIOUS": {
+      "name": "Delicious",
+      "description": "Kill The Apex Predator in Dead Horse Lake",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/4b72925780333ffe346545b405eac6c25aaf2cb0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/d434e36e8f16979a1a0fc31663845c005f3bb011.jpg",
+      "hidden": false,
+      "percent": "51.9"
+    },
+    "ACH_DOMINATING_THE_BAYOU": {
+      "name": "Dominating the Bayou",
+      "description": "Complete all objectives in Fawtick Bayou",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/a94d9a1806bb2cf0afc74d30cd2cb8e345a8bfdd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "29.2"
+    },
+    "ACH_DROPPING_PROPERTY_VALUES": {
+      "name": "Dropping Property Values",
+      "description": "Complete all objectives in Sapphire Bay",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/880669b8c1bab2dd03265024ebe44fb16341939a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "21.0"
+    },
+    "ACH_DLC01_DEFEATED_APEX_SHARK": {
+      "name": "Electric Burn",
+      "description": "Kill the Electric Great White ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/8f0afeb96ef243118d9fabb7fe117fabaa0080d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "18.5"
+    },
+    "ACH_ENTERTAINED_TO_DEATH": {
+      "name": "Entertained to Death",
+      "description": "Complete all objectives in Caviar Key",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/53685f26296139298561553552fffe97fa22bb51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "19.9"
+    },
+    "ACH_DLC01_FOUND_TRUTHERS": {
+      "name": "Fan Fare",
+      "description": "Eat all the Questers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/7a5103ce85038bf54f85ed9c07d42d8d642bf5f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "10.1"
+    },
+    "ACH_DLC01_DEFEATED_BOUNTY_BOSS_5": {
+      "name": "Four-Star Rank",
+      "description": "Defeat Adm. Barbara Terranova",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/92e9aff2d22195560d2e5ad46fd46b58bba3aeac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "14.4"
+    },
+    "ACH_GARBAGE_COLLECTOR": {
+      "name": "Garbage Collector",
+      "description": "Find all license plates",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/e66ecdfdd7d8ff8e5334579d17f5488911251851.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "18.1"
+    },
+    "ACH_GATOR_MEAT": {
+      "name": "Gator Meat",
+      "description": "Kill The Apex Predator in Fawtick Bayou",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/35cb83939bdc5d7fef67fd9ed6412b57c46d8e66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "43.5"
+    },
+    "ACH_GROWING_UP": {
+      "name": "Growing Up",
+      "description": "Reach Teen Growth",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/eabeaa3ad54d1ff3eb69fba85a76b9d1c970bf63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/d434e36e8f16979a1a0fc31663845c005f3bb011.jpg",
+      "hidden": false,
+      "percent": "74.3"
+    },
+    "ACH_DLC01_COMPLETED_ALL_OBJECTIVES": {
+      "name": "I Can Handle the Truth!",
+      "description": "Complete all available objective in Truth Quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/ba6bfe1241db4c8ea50be8f30e776a854091e4b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "7.9"
+    },
+    "ACH_DLC01_REACHED_ISLAND": {
+      "name": "I See Site P",
+      "description": "Reach the Plover Island Complex",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/19840a83b691a37aa587a5b49ec5150264c7bb61.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "19.9"
+    },
+    "ACH_I_THOUGHT_YOU_WERE_TOUGH": {
+      "name": "I Thought You Were Tough",
+      "description": "Kill The Apex Predator in The Gulf",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/d3c6ef0b73197cbdc3f4e5f8958d4c9c9467295b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "31.0"
+    },
+    "ACH_INFAMY_LEVEL_1": {
+      "name": "Infamy Level 1",
+      "description": "Reach Infamy Level 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/33835b150425506e2ad3019920dde5d0b9f6528b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "59.7"
+    },
+    "ACH_INFAMY_LEVEL_10": {
+      "name": "Infamy Level 10",
+      "description": "Reach Infamy Level 10",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/cc482b5fde9b53017b5cfa21f59d1ad0f87264d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "28.1"
+    },
+    "ACH_DLC01_COMPLETED_ISLAND_OBJECTIVES": {
+      "name": "Island Queen",
+      "description": "Complete all objectives in the Plover Island Complex",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/128e58f224a6581b83026f8c25ffa3a93055bd62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "9.8"
+    },
+    "ACH_LEARNED_TO_SWIM": {
+      "name": "Learned To Swim",
+      "description": "Complete the tutorial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/f32425955fdaf1f177afb19100cb3dbb3a1d802d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "91.9"
+    },
+    "ACH_NEW_BREED": {
+      "name": "New Breed",
+      "description": "Acquire 50% of available evolutions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/7cc2ce43ebc4ab67052a3045b74c83d965a9a08a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "40.4"
+    },
+    "ACH_OCEAN_TERROR": {
+      "name": "Ocean Terror",
+      "description": "Reached Mega Growth",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/bc1d5f384ed1755d79f159621583eea460baab36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/d434e36e8f16979a1a0fc31663845c005f3bb011.jpg",
+      "hidden": false,
+      "percent": "36.7"
+    },
+    "ACH_ON_YOU_OWN": {
+      "name": "On Your Own",
+      "description": "Reached Adult Growth",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/c3f4fa32152959f87f930e701ca63c190dcaf561.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "53.6"
+    },
+    "ACH_DLC01_COMPLETED_TIME_TRIALS": {
+      "name": "Perfect Timing",
+      "description": "Complete 100% of the Time Trials",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/ce7020674f74803248af9de844f19426dcddbde3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "8.7"
+    },
+    "ACH_POUND_IT": {
+      "name": "Pound it",
+      "description": "Kill The Apex Predator in Sapphire Bay",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/8b046f53647a5dd45c033fc49cb9e3f170d6d8ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "40.0"
+    },
+    "ACH_KING_OF_THE_OCEAN": {
+      "name": "Queen of the Ocean",
+      "description": "Reach 100% objective completion in all regions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/dcae1ed836b0240ba7ef9d5035f0ff074b6de9a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "17.1"
+    },
+    "ACH_KING_OF_THE_WASTELAND": {
+      "name": "Queen of the Wasteland",
+      "description": "Complete all objectives in Dead Horse Lake",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/dc27dfd530d6a4a7f79c8e726efdd880b47fd33d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/d434e36e8f16979a1a0fc31663845c005f3bb011.jpg",
+      "hidden": false,
+      "percent": "22.9"
+    },
+    "ACH_RULER_OF_THE_DEEP": {
+      "name": "Ruler of the Deep",
+      "description": "Complete all objectives in The Gulf",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/b6d9e21b89159c0de1332707669d571f4391d9bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "19.2"
+    },
+    "ACH_SCIENCE_EXPERIEMENT": {
+      "name": "Science Experiment",
+      "description": "Acquire 100% of available evolutions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/ae36185ebe60482008fa85fd5c45fc177d792f51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "18.8"
+    },
+    "ACH_DLC01_DEFEATED_APEX_ORCA": {
+      "name": "Shadow Killer",
+      "description": "Kill the Shadow Orca",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/5a7a1ae25be59d65462e4265706ff84970aac1fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/76301817db6878b174b0da31a028c39d251c11c6.jpg",
+      "hidden": false,
+      "percent": "18.2"
+    },
+    "ACH_SHARK_ON_SHARK_VIOLENCE": {
+      "name": "Shark on Shark Violence",
+      "description": "Kill The Apex Predator in Golden Shores",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/61fc8fd8a9cede8b6e3507185b8b3e845842c908.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "44.1"
+    },
+    "ACH_SURVIVED_AGAIN": {
+      "name": "Survived Again",
+      "description": "Survive Again",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/0d8402b9c6c1de5b8eb01c91c4334309e35f89e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "38.8"
+    },
+    "ACH_SURVIVOR": {
+      "name": "Survivor",
+      "description": "Survive Birth",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/32e9693c65283b632268f3b30692d94f3b8dc398.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "89.5"
+    },
+    "ACH_THE_NEW_APEX_PREDATOR": {
+      "name": "The New Apex Predator",
+      "description": "Destroy all Apex Predators",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/ab84a0951bf676db7c4eb27df5d773a356be2136.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "31.0"
+    },
+    "ACH_THIS_IS_MY_MOVIE": {
+      "name": "This is My Movie",
+      "description": "Kill The Apex Predator in Prosperity Sands",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/264cb27b3b06ea6064ba5023f00ab8d1f14257c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "35.1"
+    },
+    "ACH_TOURIST": {
+      "name": "Tourist",
+      "description": "Find all landmarks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/f3fc42b8bb407839420cadde7f0e0f193728cd07.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "21.6"
+    },
+    "ACH_TOURIST_TERROR": {
+      "name": "Tourist Terror",
+      "description": "Complete all objectives in Golden Shores",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/99a07d881ac198c5ff51d9bfa8299579246935d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/d434e36e8f16979a1a0fc31663845c005f3bb011.jpg",
+      "hidden": false,
+      "percent": "23.8"
+    },
+    "ACH_TRICKS_DIDNT_HELP_YA": {
+      "name": "Tricks Didn't Help Ya",
+      "description": "Kill The Apex Predator in Caviar Key",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/d986f4127ceb1fe099f58777c8f205d73cd91ca4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "32.8"
+    },
+    "ACH_VACATION_FROM_HELL": {
+      "name": "Vacation from Hell",
+      "description": "Complete all objectives in Prosperity Sands",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/8e58f2ceab12fb84f0e03cfdab9b386dfe61e52e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "21.3"
+    },
+    "ACH_VENGEANCE_IS_MINE": {
+      "name": "Vengeance is Mine",
+      "description": "Get revenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/4eee74945d2fd1e58e9c689c17c50efddf999fb3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "29.4"
+    },
+    "ACH_WISER": {
+      "name": "Wiser",
+      "description": "Reached Elder Growth",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2eda40828f00d38c9692086b8f09e5ac242348d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/629820/2d847d210d989743b51291fd7c98891e6c8d4204.jpg",
+      "hidden": false,
+      "percent": "38.8"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

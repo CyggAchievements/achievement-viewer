@@ -1,0 +1,522 @@
+{
+  "appid": "850190",
+  "name": "Goat Simulator 3",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/9c10bb6a9cbcc010cfe86b8ef1f60359a1d9bc59/header_alt_assets_5.jpg?t=1766166445",
+  "achievements": {
+    "AchievementRedactedID": {
+      "name": "[REDACTED]",
+      "description": "Equip the [REDACTED] while playing as [REDACTED] with the [REDACTED] fur",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/38d7e721242066c3834ef23808307cceaf4d5c0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/91ca56f54b312eb744fc14ae7ad2029414572c1d.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "AchievementTantID": {
+      "name": "401(K.O.)",
+      "description": "Use your Kärring to knock another Kärring down",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9990560c211b09a71cdc222cc4672b55cd717388.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/bd41fbf298b2e4f7c6b9624e6691b8dfc3d56169.jpg",
+      "hidden": false,
+      "percent": "15.8"
+    },
+    "AchievementShrinkHouseID": {
+      "name": "A Center for Ants?",
+      "description": "Interact with the shrunken shrink house",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3034e1760dae7be0be206709157a29c3dbbe7909.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ac47b75ed4b13a8a11ceaf5cf92087eecff4e61b.jpg",
+      "hidden": true,
+      "percent": "8.4"
+    },
+    "AchievementMultiverseSpaceStoneID": {
+      "name": "Appliance in Disguise",
+      "description": "Find the Space Stone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/60effdcef190f24297c914278449aeff9f9b8614.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/400cf4a6206334b6c85c36230837fdf9a0d8d1b7.jpg",
+      "hidden": true,
+      "percent": "5.9"
+    },
+    "AchievementINirvanaID": {
+      "name": "Beauty, Mindfulness and Meditation",
+      "description": "Sit through the entire yoga session",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/538e5e351bcb72b3ee4e533bdd665443400c4e62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/02bdba16af47d42f7a9534c45ff6f2c435b9345e.jpg",
+      "hidden": true,
+      "percent": "13.4"
+    },
+    "AchievementLootBoxID": {
+      "name": "Black Market",
+      "description": "Find the shady merchant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/700dcb8bca44ae4fb719b8fb6d92dca29913657e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/23383422bb8a46535dfcdcb92f3a81ae50094008.jpg",
+      "hidden": true,
+      "percent": "10.9"
+    },
+    "AchievementBananaLickerID": {
+      "name": "Cannibanana",
+      "description": "Lick a banana as an Abominana",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3a368ff067a372163e9b0e67cca57603b1c48e20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f709d5c02e6739a0b04f37b62ad13ea9b018c53d.jpg",
+      "hidden": true,
+      "percent": "4.2"
+    },
+    "AchievementBatGoatID": {
+      "name": "Car Cave",
+      "description": "Find the secret garage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9aeccd7c7f82ba9d428dc369afddd5ca53a34dc7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/fcbb9927b93a80cbd4ee1e6eda698b3b9ee8a41d.jpg",
+      "hidden": true,
+      "percent": "9.6"
+    },
+    "AchievementMovieID": {
+      "name": "Certified Fresh",
+      "description": "Find all movie tapes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d7a87b304800db699a831c4420266292b2bdeb8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b93d2d9bc54bf96c605954a71af6566fc5cb1629.jpg",
+      "hidden": false,
+      "percent": "2.9"
+    },
+    "AchievementContainerPartyID": {
+      "name": "Club Mohair",
+      "description": "Enter the super secret container rave",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ef73a340ddc390c2527872f19bd0e9603b1c76f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/82f1ba5cc9388a2a6832dfde15fdda6b104ab918.jpg",
+      "hidden": true,
+      "percent": "7.7"
+    },
+    "AchievementThroneID": {
+      "name": "Covert Consortium",
+      "description": "Goat Castle - Reach C Tier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d1df44a821fd6bd24084000dfb929dcad30e31fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/52b18688db5cdcd82161619e9948da6d9d76bf6e.jpg",
+      "hidden": true,
+      "percent": "40.8"
+    },
+    "AchievementApocArenaTrialsID": {
+      "name": "Crash Course",
+      "description": "Complete all Hooferdome Courses",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/70d299bedd071437adfc4828992e1db527cdd904.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3b138e67f336b9eaa2b870b281aef5af9a3c624e.jpg",
+      "hidden": true,
+      "percent": "0.4"
+    },
+    "AchievementBigFootID": {
+      "name": "Crocsquatch",
+      "description": "Give Big Foot some shoes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9cc45b0d88f0c5e7339e97b6d64bc1935f68c87b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/43b1277b7924a4ff18b6bf12874bd5a6211fe4ac.jpg",
+      "hidden": false,
+      "percent": "3.6"
+    },
+    "AchievementRampID": {
+      "name": "Daredevil",
+      "description": "Jump off all Ramps",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4d3d226de76bf63b2bff45498bced98b06dc045b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b5095809ce7382d0dadfa10ccfad2eed2d6feb27.jpg",
+      "hidden": false,
+      "percent": "3.3"
+    },
+    "AchievementApocRampsID": {
+      "name": "Daredevil of the Wasteland",
+      "description": "Jump off all Ramps",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f5663090005fa0e9e2266d39c9b711f4d8e8951b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c1f3e6a54c7e00868d7caa5cfde0159e7c8cac67.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "AchievementApocPizzaID": {
+      "name": "Deliciously Disgusting",
+      "description": "Make a pineapple pizza",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/33a90feb06b71eae2933e3df72f43f83fb4e6981.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e36875470d7de7f18eaf7ff121c67c4aef10a369.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "AchievementCrashGameID": {
+      "name": "Don't touch the servers",
+      "description": "You touched the servers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/14f75b51da32b2cfbed49801eb60135653e6b4ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/58aeca72225eed093a277c8a66363d75b3b631e9.jpg",
+      "hidden": true,
+      "percent": "19.6"
+    },
+    "AchivementMultiverseDrPhilgorID": {
+      "name": "Dr. Pheelsgood",
+      "description": "Help all the patients as Dr. Pilgor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d223276279a6222dee6b48df6febc1bfacf3c5a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/fda8f0b1bf8e77679088f64db4ae1d83c997adb3.jpg",
+      "hidden": true,
+      "percent": "1.8"
+    },
+    "AchievementApocCompactCarID": {
+      "name": "Dude, where's my square car?",
+      "description": "Drive a compacted vehicle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9bb4348c106fa92927dcea57a86e399c34e1d50e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6686adcbedf4e83aaae45297af367c94eeb51227.jpg",
+      "hidden": true,
+      "percent": "0.5"
+    },
+    "AchievementEggID": {
+      "name": "Egg Simulator",
+      "description": "Become an Egg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f45c5f15b830e9b365b5dbdb2b236af75d77ece6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5de8bc882947c4492e3a58c9b976d16d1502c834.jpg",
+      "hidden": false,
+      "percent": "30.0"
+    },
+    "AchievementCastleRenovationID": {
+      "name": "Forgotten Sorority",
+      "description": "Goat Castle - Reach F Tier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9e35a2d588fc8dbbfd113989375200cd6e494403.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8cf24d0e3ea1ba60dd6a9479fa37d1dcce2e103f.jpg",
+      "hidden": true,
+      "percent": "88.5"
+    },
+    "AchievementFrenchFikaID": {
+      "name": "French Fika",
+      "description": "Lick the croissant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3f6f4943db6949a18d6fbe579ab3e3536ca1f780.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/624b59d2302249887e90f4d3a7920d8137311dca.jpg",
+      "hidden": false,
+      "percent": "8.5"
+    },
+    "AchievementGoatID": {
+      "name": "G.O.A.T.",
+      "description": "Unlock all the achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/46140d90532bb9b85789bce2d0d4c77cbb31d94a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c49625b52f8ff1fe41c8617b7a7eaec59c471284.jpg",
+      "hidden": false,
+      "percent": "1.7"
+    },
+    "AchievementMultiverseKidneyStoneID": {
+      "name": "Gastroscopy",
+      "description": "Find the Kidney Stone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/167c15deb36b0cca68011bb61458c0218be66244.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/816e7e8f32d32ec6c3cf8e664c2a47c178a91436.jpg",
+      "hidden": true,
+      "percent": "5.8"
+    },
+    "AchievementMultiverseKnowledgeStoneID": {
+      "name": "Goat Got Brains",
+      "description": "Find the Knowledge Stone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/42513bcd052e7e0b0af13e06abe0f09f16f0ae9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8ddaa6c8362f5b2ed33559e618a14b4dd9f6e09e.jpg",
+      "hidden": true,
+      "percent": "7.3"
+    },
+    "AchievementGoatQueenID": {
+      "name": "Goat Queen",
+      "description": "Become Queen of all the goats",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e34880e30aad5249c111a1b0e495a9bb03b60ca9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8644945b453160b7752e6c56a70e17d0d864d4ba.jpg",
+      "hidden": false,
+      "percent": "39.1"
+    },
+    "AchievementMultiverseCharonsBoatID": {
+      "name": "Hell of a Ride",
+      "description": "Take a ride on Charons boat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1b85511553adbc2d9ccb6cac3d99a45d3e976084.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/cec7c42803f37ce1ad5c202ae8508358e3da4ad8.jpg",
+      "hidden": true,
+      "percent": "3.8"
+    },
+    "AchievementMultiverseHistoryLessonID": {
+      "name": "I Love History",
+      "description": "Sit through the whole history documentary",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/72e91aa29553de304bb7bd03fea981c785f17cac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ec7e0426be19b4430b6f2408a4a8e6d9a207a4c9.jpg",
+      "hidden": true,
+      "percent": "1.7"
+    },
+    "AchievementIntroID": {
+      "name": "I Watched the Intro",
+      "description": "Sit through the intro",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f1f147ad3cd4c7c43d24168c7e23bbfa776e8f30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ee6b16daadd6c305cd7f89de13795f7e89d915ab.jpg",
+      "hidden": true,
+      "percent": "60.8"
+    },
+    "AchievementHarryPotterID": {
+      "name": "Into the Matrix",
+      "description": "Find the trainstation",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/0d341725c81d9927b0de9eae5ea432c29571b692.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e46456268611a13c5a3f9d0275e67bb67649df41.jpg",
+      "hidden": true,
+      "percent": "29.6"
+    },
+    "AchievementMultiverseBeatDLCID": {
+      "name": "It's All a Simulation",
+      "description": "What a cop-out",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3518a72de451c992046da66fbefca0f5b1eb2f0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/843e4258ad8d6abb5685e47090e35f361e20d475.jpg",
+      "hidden": true,
+      "percent": "5.7"
+    },
+    "AchievementApocTrinketsID": {
+      "name": "Live Free and Try Hard",
+      "description": "Find all Baadlands Trinkets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e755f53b4cf444f3b9ef6d5927a7aca753481fb7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/304f6cf02d88d437307cf6354c0b49b1f49b19ed.jpg",
+      "hidden": false,
+      "percent": "0.6"
+    },
+    "AchievementMultiverseBrokenRelicsID": {
+      "name": "Lousy References",
+      "description": "Find all Broken Relics",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/83c1d284e0bbde1081cc1dc2a6f0ab94f5e6ff5b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/98f5abc6b765f8e19be68ea7c35ed9106d242fde.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    },
+    "AchievementApocMotorcycleDistID": {
+      "name": "Marathon Rider",
+      "description": "Drive 42.195 km with your motorcycle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5c3255e781e70cd1ec6f984bcbe1b6bc044ec1e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9dbc37acbacfcd0e14d4152913dce7110a1a3a73.jpg",
+      "hidden": false,
+      "percent": "0.7"
+    },
+    "AchievementApocInstinctsID": {
+      "name": "Maximus Instinctus",
+      "description": "Complete all Baadlands Instincts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d09be8654a327555c2fbedd72d71d5897882d50d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/0fa112808a97bc4be326b59c1a6980fde21676e1.jpg",
+      "hidden": false,
+      "percent": "0.4"
+    },
+    "AchievementRedecorationID": {
+      "name": "Move! That! Bus!",
+      "description": "Redecorate the entire Goat Castle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3fa2f53e92f0c58fab861a7feeca6ca4f919fe34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b2eb7b534ebc03ded6dffb3408595a8cb9bf80b7.jpg",
+      "hidden": true,
+      "percent": "2.4"
+    },
+    "AchievementMascotPoopID": {
+      "name": "Nasty!",
+      "description": "Get squirted on by the Fossil Fuel mascot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e105f24328d9d82925d21560d93f42a9b3efa51c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/78f44882c466a9e0a7b3935472a4ebc5f42e96f0.jpg",
+      "hidden": true,
+      "percent": "6.9"
+    },
+    "AchievementBossID": {
+      "name": "New Goat Order",
+      "description": "Goat Castle - Reach S Tier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/8da2fb5b4bfb67123bbf378345d299f05e8ea47d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9516aa55bd976f040e5a6ad0adcd87319a1c5a86.jpg",
+      "hidden": true,
+      "percent": "21.0"
+    },
+    "AchievementRoomUpdateID": {
+      "name": "Private Club",
+      "description": "Goat Castle - Reach E Tier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d069d82b948631e2ef3b27d142e41a62defa86ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/bc6054c754747e368947f4bdd77f6966e7bb3e0b.jpg",
+      "hidden": true,
+      "percent": "60.7"
+    },
+    "AchievementBoulderID": {
+      "name": "Raider of the Lost Parking Garage",
+      "description": "Find the perfectly round boulder",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7c8fe24778390abad072a30b6b9017642760d81a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/7612310a5241717db342558f94c99eb17250c4ad.jpg",
+      "hidden": false,
+      "percent": "19.8"
+    },
+    "AchievementStratosphereID": {
+      "name": "Reach the Stratosphere",
+      "description": "Get flung out of the map",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/e419e26aaa065c950d9457072c868c4726575d3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/6c3ed6b81b23a3180ec0d4eaf1198c5d415e920c.jpg",
+      "hidden": false,
+      "percent": "52.8"
+    },
+    "AchievementWhaleID": {
+      "name": "Real Buoy",
+      "description": "Make like Pinocchio and get eaten!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/17a6deb957ab08b9efa30ba7dcda4c148f233f3a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/08acb75234c963fa6c256dd7ad1374e6ac79da12.jpg",
+      "hidden": false,
+      "percent": "26.5"
+    },
+    "AchievementWarRoomID": {
+      "name": "Rogue Guild",
+      "description": "Goat Castle - Reach D Tier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3314cd1ab8f74892ffe9ff5e0d279c5e5189bc54.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/1fb55ca4e56eb89831f2763779dd8a22008599c2.jpg",
+      "hidden": true,
+      "percent": "50.8"
+    },
+    "AchievementBecomeHumanID": {
+      "name": "San Angora: Become Human",
+      "description": "Unlock the Capra Erectus",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f0f66ed585ca6f9ba8b325722243a7b1afa6e42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/542c12d7ce6e1ed24d6731619066d010c7eb67ec.jpg",
+      "hidden": true,
+      "percent": "17.1"
+    },
+    "AchievementInteriorDesignID": {
+      "name": "Secret Society",
+      "description": "Goat Castle - Reach B Tier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/13add7843df1e8283c8a599a8ccdd5e2a6278e2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/2f475bacc8bdffad75b4318207e46323a1a745b7.jpg",
+      "hidden": true,
+      "percent": "32.5"
+    },
+    "AchievementPortalsID": {
+      "name": "Shadow Syndicate",
+      "description": "Goat Castle - Reach A Tier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/0bdbff7543b0b006b497cd8586d019c6621b2d0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/67db180dbf277f005e0579279f8ee39ccf29716c.jpg",
+      "hidden": true,
+      "percent": "26.8"
+    },
+    "AchievementMultiverseTrojanGoatID": {
+      "name": "So Aerodynamic",
+      "description": "Get flattened while driving the Trojan Goat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/3fc4aa11076eecb5c81339e9d3512d4920d279d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/48839d701d89834d5f628c1dceeb9cbf598f882e.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "AchievementStreakingID": {
+      "name": "Streaking",
+      "description": "Run naked on the football field",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/d4b855906b7810c3f64a6a204f684c4f786c5451.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4d6326512e9975c07b996db1a48f29dc04666e60.jpg",
+      "hidden": false,
+      "percent": "3.8"
+    },
+    "AchievementTowerSyncID": {
+      "name": "Synchronization Complete",
+      "description": "Synchronize with all the Goat Towers",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/25dae2daa49ed3a8832dac9382d316b95694e737.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/609f14ac75a8db353bbaf15cfd09c175f727bb6a.jpg",
+      "hidden": false,
+      "percent": "37.9"
+    },
+    "AchievementMultiverseIntroCartID": {
+      "name": "This Took Half My Life",
+      "description": "Experience the entire Black Meze tour",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/29c73316ff2534d90c229a4cdb15947fed50507c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/40e969fb4dec43e36a900cb2e78a45352c355a95.jpg",
+      "hidden": true,
+      "percent": "12.3"
+    },
+    "AchievementTrinketID": {
+      "name": "Try Hard 2",
+      "description": "Find all Trinkets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/84a7686a08de5fcc18449d875e68dc957cf093b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/b281d401a1890bee4838b80c400a1145fb4299ff.jpg",
+      "hidden": false,
+      "percent": "2.7"
+    },
+    "AchievementMultiverseTrinketsID": {
+      "name": "Try Hard With a Vengeance",
+      "description": "Find all Multiverse Trinkets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/54fe0561d58994b6e80fa18beddfcfe4703a2c8e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/35824916ea6c3d7a1fad171a0b9616455f42b52a.jpg",
+      "hidden": false,
+      "percent": "2.3"
+    },
+    "AchievementMultiverseLickSanicID": {
+      "name": "Ultrasonic Speedy",
+      "description": "Lick Speedy while looking like Speedy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/317e75508656399feedf0688aea5849fa4990cb5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/0f0825f57038c90f42e46b6639aff09661ffedf0.jpg",
+      "hidden": false,
+      "percent": "1.6"
+    },
+    "AchievementApocUpgradeCampID": {
+      "name": "Utopia",
+      "description": "Fully Upgrade Pilgor Town",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/ba74bcb3449a36378617320e73c7f700986bada3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/18da52443fa36755e99f8f67a21fc219fd17d747.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "AchievementApocOpenVaultID": {
+      "name": "Vault 55",
+      "description": "Open the Vault",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/9e2d7dca957fbb1859943afaead1196033f01857.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a4454b4b3c22a7dfccc515db8bc20c6473ae7b2e.jpg",
+      "hidden": false,
+      "percent": "1.8"
+    },
+    "AchievementAliensID": {
+      "name": "Welcome to Earth",
+      "description": "Start the Alien invasion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/225e7834ace8048cfd28efc53b9acc3878fe06c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/648a1c8791d66d139c2d95ebe6a66e3a303999fc.jpg",
+      "hidden": true,
+      "percent": "17.7"
+    },
+    "AchievementGatorID": {
+      "name": "What a Waste of Money",
+      "description": "Buy the Gators shoes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/281304d33907d1d660a1d8610ca661f65ac82044.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/f419fb069a2150e1355f1d02ea03f452155d94c2.jpg",
+      "hidden": true,
+      "percent": "24.8"
+    },
+    "AchievementApocVehicleCollectiblesID": {
+      "name": "Wheels of Fortune",
+      "description": "Find all Golden Wheels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/88ffd3717fa11da20076fae5c53cc0151c1487ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/78c65362cf015a3e925d656e3615f2d2a188328a.jpg",
+      "hidden": false,
+      "percent": "0.5"
+    },
+    "AchievementClownID": {
+      "name": "Where is it?",
+      "description": "Find That clown",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/dc848ed57e8d786213e8988f2cb816ad2f983742.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/4a96d0de2a9656fcee6a58c64aafcf3f1ce061ad.jpg",
+      "hidden": false,
+      "percent": "14.1"
+    },
+    "AchievementBaywatchID": {
+      "name": "Who Baywatches the Baywatch?",
+      "description": "Run on the beach in slow motion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/69244edbfac36eb1db531fddc179075183229b4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c68de3aa791593a54362fbdc0a7871a96317e0b4.jpg",
+      "hidden": false,
+      "percent": "10.8"
+    },
+    "AchievementMultiverseInstinctID": {
+      "name": "Wow, Such Instincts",
+      "description": "Complete all Instincts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/5583a1586e36c045f3caa4c3ebfeb0a782eedb85.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/0e31e7490dd1eda48a19386104c2122b158c5c31.jpg",
+      "hidden": false,
+      "percent": "1.4"
+    },
+    "AchivementMultiverseFlyingTrainID": {
+      "name": "You Gotta Licket to Ride",
+      "description": "Lick the flying train",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/c8084b2f01822abc682a0194d67b8aa7b4293e3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/10ad059cd6eae47443a3ff89bd762ed3d75eaa96.jpg",
+      "hidden": true,
+      "percent": "2.3"
+    },
+    "AchievementMultiverseDeepStoneID": {
+      "name": "You Mined Too Greedily and Too Deep",
+      "description": "Find the Deep Stone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/211e8b590c61b7eaf0d29ff2c032ebcf4db70902.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/de62cafba15c42d62f8c5ec92f27797985f6d17e.jpg",
+      "hidden": true,
+      "percent": "8.5"
+    },
+    "AchievementInstinctID": {
+      "name": "You Trusted Your Instincts",
+      "description": "Complete all Instincts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/acd8e0b9bdade33bb63378fae153322f6aae2959.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/850190/a0ae89f7c6f574fbcda55c083f823a877d7c8ed7.jpg",
+      "hidden": false,
+      "percent": "2.2"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

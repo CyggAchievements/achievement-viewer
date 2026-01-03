@@ -1,0 +1,514 @@
+{
+  "appid": "1235140",
+  "name": "Yakuza: Like a Dragon",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg?t=1763642826",
+  "achievements": {
+    "YAZAWA_PART_TIME_RANK_B": {
+      "name": "A New Hero",
+      "description": "Raised Part-time Hero Member Rank to Executive Hero.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/4b5321050b3de724b803339ab0bb03e8f3bffa51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "10.2"
+    },
+    "YAZAWA_PART_TIME_RANK_A": {
+      "name": "A New Legend",
+      "description": "Raised Part-time Hero Member Rank to Senior Hero.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/e51be2c01a03185270d25b9bc4596881f159e8ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "32.3"
+    },
+    "YAZAWA_M_AND_A": {
+      "name": "Aggressive Executive",
+      "description": "Bought up over 10 companies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/be8a71d0b203510a8b8e293152365a05dc6b8c2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/434b40b679bdc1ca13072668afe79e602957fc14.jpg",
+      "hidden": false,
+      "percent": "39.7"
+    },
+    "YAZAWA_KASUGA_LEVEL_A": {
+      "name": "Awakening Dragon",
+      "description": "Reached level 10 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/fbf248a186fd7ad8cd25a24e813adfa077951a64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "69.6"
+    },
+    "YAZAWA_HOMELESS_ALL_CLAER": {
+      "name": "Can Quest Hero",
+      "description": "Beat all the can-collecting courses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/33dfe194717f2cdd5902ad63d0c5058a575e46d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "33.6"
+    },
+    "YAZAWA_JOB_CHANGE_C": {
+      "name": "Career Counseling",
+      "description": "Changed all four party members to jobs different from their default jobs and won a battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/5fb6e380bd44776dd39ac16431e120ab7b231238.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "34.0"
+    },
+    "YAZAWA_QUALIFICATION_A": {
+      "name": "Certified Genius",
+      "description": "Obtained over 10 certificates from the vocational school.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/70822d9660e6b6ea606f869dab87008eee3d6a60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "31.9"
+    },
+    "YAZAWA_MAIN_STORY_12": {
+      "name": "End of an Era",
+      "description": "Completed Chapter 12.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/8244ebaa84a879e23eea5a640a732ba5b20bec90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "37.9"
+    },
+    "YAZAWA_MAIN_STORY_13": {
+      "name": "Fate of Our Fathers",
+      "description": "Completed Chapter 13.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/2f6cb95ead1202b981a2ae9be89f3aa8b3109924.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "36.8"
+    },
+    "YAZAWA_UNKNOWN_A": {
+      "name": "Fight on the Sidewalk!",
+      "description": "Someone got run over by a car in battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/2152236e70f439b74d5d3bf89b34e1480d5ebf78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "56.1"
+    },
+    "YAZAWA_PARTY_TALK_A": {
+      "name": "Food for Thought",
+      "description": "Viewed more than 20 Table Talk scenes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/062b4f94c5cf2ae8b38fc5656a5dcc702406bb07.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "7.1"
+    },
+    "YAZAWA_MAIN_STORY_1": {
+      "name": "For the Family",
+      "description": "Completed Chapter 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/8d6bb2c561475baef8ef0c415b12c1ea16cf76f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "78.4"
+    },
+    "YAZAWA_KIZUNA_ERI": {
+      "name": "Friends From Work",
+      "description": "Maxed Eri's Bond Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/2fdee64dcb4403d301e0eafb8b53f3e8e27fe462.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "38.1"
+    },
+    "YAZAWA_KIZUNA_NANBA": {
+      "name": "Friends in Low Places",
+      "description": "Maxed Nanba's Bond Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/84e01b5fe5fc5a44325480fbb8a0d00471c5bcff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "29.1"
+    },
+    "YAZAWA_KIZUNA_CHO": {
+      "name": "Friends in the Gang",
+      "description": "Maxed Zhao's Bond Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/c1a6e5d7c3ef8be6d6668bfa2fad66d2f0d802d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "22.0"
+    },
+    "YAZAWA_KIZUNA_SAEKO": {
+      "name": "Friends Like Sisters",
+      "description": "Maxed Saeko's Bond Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/fcc880c6d745c9b4c4f3d7b5d2462a5a45a57370.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "38.6"
+    },
+    "YAZAWA_KIZUNA_ADACHI": {
+      "name": "Friends on the Force",
+      "description": "Maxed Adachi's Bond Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/59cb7ff7db7f76a70f7f66a716a77f79e61b8dd2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "41.7"
+    },
+    "YAZAWA_KIZUNA_HAN": {
+      "name": "Friends With Familiar Faces",
+      "description": "Maxed Joon-gi Han's Bond Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/00f514c96585a463e5af041a469d74453d1bb41c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "25.7"
+    },
+    "YAZAWA_DUNGEON_FINAL_MILLENNIUM": {
+      "name": "Fulfiller of Dreams",
+      "description": "Completed the last dungeon in Premium Adventure.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/e58e0c5328d074949d7a21d9c5ec8afc0ab1f113.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "9.1"
+    },
+    "YAZAWA_BUKI_COLLECTOR_A": {
+      "name": "Gear Fanatic",
+      "description": "Collected over 100 pieces of gear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/94933da0df5bce6c6db20e4510431d82a6f01450.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "48.3"
+    },
+    "YAZAWA_BUKI_COLLECTOR_B": {
+      "name": "Gear Hoarder",
+      "description": "Collected over 200 pieces of gear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/b146b9f24b3da003600aa324b21dc9f0c58c00b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/434b40b679bdc1ca13072668afe79e602957fc14.jpg",
+      "hidden": false,
+      "percent": "35.4"
+    },
+    "YAZAWA_SUJIMON_B": {
+      "name": "Gotta Catch 'Em All",
+      "description": "Registered over 200 Sujimon to the Sujidex.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/c01875c3c50aa899de09363655b818c0230e0b21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "32.9"
+    },
+    "YAZAWA_DUNGEON_ALL_CLEAR": {
+      "name": "Heir to the Legend",
+      "description": "Beat the Sotenbori Battle Arena.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/b136f7a808775f8edcb39bcadbd7a84a1bbd0213.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "35.2"
+    },
+    "YAZAWA_MAIN_STORY_3": {
+      "name": "Heroes and Villains",
+      "description": "Completed Chapter 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/646eeb59a22badfcde2fafa99dffcffb4ee6c65b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "70.0"
+    },
+    "YAZAWA_NIGINIGI_COMPLETE": {
+      "name": "Honk-Honk Hero",
+      "description": "Found all the people who will give you a honk-honk.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f44104b454cb635ddab9044c65355bcdef3d85d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "5.8"
+    },
+    "YAZAWA_SUJIMON_A": {
+      "name": "I Wanna Be the Very Best",
+      "description": "Registered over 100 Sujimon to the Sujidex.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/ed2b1dd46ff6f5da0bc090ca6b2c2242a802457c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "48.2"
+    },
+    "YAZAWA_MAIN_STORY_6": {
+      "name": "Ignition",
+      "description": "Completed Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/2e7581615b037f993feadc0916bda29215d441f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "52.9"
+    },
+    "YAZAWA_MAIN_STORY_10": {
+      "name": "Illuminations",
+      "description": "Completed Chapter 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f38103776ca89e5605b89a2d6b8a3a6de599788d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "43.3"
+    },
+    "YAZAWA_JOB_MASTER_C": {
+      "name": "Jack of All Trades",
+      "description": "Raised 7 jobs' ranks to max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/cc2965db49d9fcab798f0bb83b3ee159e4cd3c39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "21.7"
+    },
+    "YAZAWA_JOB_CHANGE_A": {
+      "name": "Job Hopper",
+      "description": "Changed Kasuga to three different jobs other than his starting job.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/99cf55634ad380bacce95929a057d0a37b76f20d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "25.4"
+    },
+    "YAZAWA_JOB_CHANGE_B": {
+      "name": "Life Experiences",
+      "description": "Changed Kasuga to eight different jobs other than his starting job.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/01d1762f427e594e605258b0bfb56bf9c9a1a76f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "15.2"
+    },
+    "YAZAWA_KASUGA_LEVEL_C": {
+      "name": "Like a Dragon",
+      "description": "Reached level 50 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/8810566620975e21384291746007f3d020411015.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "38.7"
+    },
+    "YAZAWA_JUNTAKUNA_SHIKIN": {
+      "name": "Make That Money",
+      "description": "Exceed 10 billion yen in capital for Kasuga's company.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/6b360b8d6b654ed219db748677736c6456fbe49a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "19.5"
+    },
+    "YAZAWA_PLAY_ALL_SPOT": {
+      "name": "Man About Town",
+      "description": "Played over 10 minigames.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/6ebbd4861e47b807ea579647d7a158201e571b63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "20.9"
+    },
+    "YAZAWA_JOB_MASTER_B": {
+      "name": "Master of Trades",
+      "description": "Raised 3 jobs' ranks to max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/7f4e6444db2ff7d2d34ac3f2fe541b19cde873e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "30.8"
+    },
+    "YAZAWA_OWN_BUILDING": {
+      "name": "New Digs!",
+      "description": "Moved Kasuga's company into a new office.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/db8d12463382a639c5b67885bc0b8f5e2782e53b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "43.5"
+    },
+    "YAZAWA_SPRING_NA_HOUGEKI": {
+      "name": "Playing With Fire",
+      "description": "Entered into intimate relationships with over two female characters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/e2756a6f938f5c0c5903d5dc9720abfcecbee4c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "15.3"
+    },
+    "YAZAWA_DRAGON_CART_ALL_CLAER": {
+      "name": "Pop the Cork",
+      "description": "Beat all Dragon Kart cups and rival races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/9acec0eaae2ef76d905cc7037ebda2151088f3ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "10.2"
+    },
+    "YAZAWA_DELIHELP_A": {
+      "name": "Pound It",
+      "description": "Called for Poundmates 30 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/61f86d5f3c7049b2b28a4fd7c9bb422b7df6bc8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "11.3"
+    },
+    "YAZAWA_MANAGEMENT_STORY_ALL_CLEAR": {
+      "name": "Presidential Power",
+      "description": "Raised Kasuga's company into the top company in Yokohama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/de4d18e1149b17a1cc4e7dce3ffa3c683a1d53a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "38.1"
+    },
+    "YAZAWA_JOB_MASTER_A": {
+      "name": "Professional",
+      "description": "Raised 1 job's rank to max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/9fad424a8de29b8946b09d6766a75891a8e6069b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "33.3"
+    },
+    "YAZAWA_KASUGA_LEVEL_B": {
+      "name": "Rising Dragon",
+      "description": "Reached level 30 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/1972158a1eb1f71d7f4803078ec64bfe3a6da018.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "46.5"
+    },
+    "YAZAWA_MAIN_STORY_2": {
+      "name": "Rock Bottom",
+      "description": "Completed Chapter 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/d787706dcad980550c57fbc9380774caffca6276.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "74.0"
+    },
+    "YAZAWA_BUKI_C": {
+      "name": "Romance of the 10 Pieces",
+      "description": "Made 10 pieces of gear at Romance Workshop.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f18fb454944fb669b4a3e0ceae21681f47922df1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "39.9"
+    },
+    "YAZAWA_BUKI_ROMAN_SEISAKUJO": {
+      "name": "Romancing the Forge",
+      "description": "Fully upgraded Romance Workshop's equipment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/8f9cb06d8352e58f29aa6331a8995884c6ca0aae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "34.3"
+    },
+    "YAZAWA_KASUGA_LEVEL_D": {
+      "name": "Ryu Ga Gotoku",
+      "description": "Reached level 70 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/80ba72a92b67b4cf0ddf9dc0109ac588755475e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "18.3"
+    },
+    "YAZAWA_MEIGAZA_ALL_CLEAR": {
+      "name": "Sleep Sheep Slapper",
+      "description": "Watched all the movies at the theater without falling asleep.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/9f266a24196d23b6721536706d676b5658828815.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "10.5"
+    },
+    "YAZAWA_MAIN_STORY_5": {
+      "name": "Smoked",
+      "description": "Completed Chapter 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/19359d24f924e36ce80e352cd026e2679cd1244c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "54.5"
+    },
+    "YAZAWA_MAIN_STORY_4": {
+      "name": "Soap on a Rope",
+      "description": "Completed Chapter 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/8958219ca8f8c67fd4f364ebd6ad84caf4c664eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "61.7"
+    },
+    "YAZAWA_KASUGA_NINGENRYOKU_MAX": {
+      "name": "Sound Character",
+      "description": "Raised one of Kasuga's personality stats to max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/d736740b115f2471491910a41b5659640850906f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "27.0"
+    },
+    "YAZAWA_SUBSTORY_C": {
+      "name": "Stories of the Streets",
+      "description": "Completed 40 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/d8c482c4ca6a098ff7559a8293ecf63e75be8594.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "20.0"
+    },
+    "YAZAWA_SUBSTORY_B": {
+      "name": "Stories to Live",
+      "description": "Completed 20 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/b63ebd791c1dd25ae86b3b0727541dc6cc885ae2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "37.9"
+    },
+    "YAZAWA_SUBSTORY_A": {
+      "name": "Stories to Tell",
+      "description": "Completed 10 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/0f7c2316f092692ee152d0ac59fd20f2e2bc935b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "54.8"
+    },
+    "YAZAWA_KASUGA_NINGENRYOKU_ALL_MAX": {
+      "name": "Super Human",
+      "description": "Raised all of Kasuga's personality stats to max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/1174138b65b61daff9e9b8919328e9d11d8145ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "13.5"
+    },
+    "YAZAWA_MAIN_STORY_CLEAR": {
+      "name": "Thank You",
+      "description": "Completed the final chapter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/078974ba90fa45cb0efc2165cd7ed153f5d70f94.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "33.4"
+    },
+    "YAZAWA_MAIN_STORY_11": {
+      "name": "The Dragon Stirs",
+      "description": "Completed Chapter 11.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/0031706e9582699ccc9e4d1093c2ceba53305ffc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "42.0"
+    },
+    "YAZAWA_PLATINUM": {
+      "name": "The New Dragon",
+      "description": "Obtained all achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/2a976280a73e1083434a6de2b18c3cf7c3ad61f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "3.4"
+    },
+    "YAZAWA_MAIN_STORY_8": {
+      "name": "The Statesman",
+      "description": "Completed Chapter 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/e03a7926c77fb1c9f6961fa876117a4237c3e455.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "48.6"
+    },
+    "YAZAWA_MAIN_STORY_14": {
+      "name": "The Torch is Passed",
+      "description": "Completed Chapter 14.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/3a7086fa8d7800805cefafefbd3859d5bebb05fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "35.6"
+    },
+    "YAZAWA_MAIN_STORY_7": {
+      "name": "Three Spiders",
+      "description": "Completed Chapter 7.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/0907d031a16f8f31034f77f6e5274de7017ed71c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "49.5"
+    },
+    "YAZAWA_MAIN_STORY_9": {
+      "name": "Time to Talk",
+      "description": "Completed Chapter 9.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/d271d145a8ce56a112b8e23dc687313dbe3da827.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "46.2"
+    },
+    "YAZAWA_UNKNOWN_B": {
+      "name": "Treasure Displeasure",
+      "description": "A creep crawled out of a safe for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/84cbf2863488696fc68f1ea49969d9a3a58fd0e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "53.2"
+    },
+    "YAZAWA_EX_DENSETSU_HA_KURIKESU": {
+      "name": "Victory of the Millennium",
+      "description": "Beat the True Final Millennium Tower.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/4c77b45c00944d54af1a703ea472109aaa5cd9c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
+      "hidden": false,
+      "percent": "4.3"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}
