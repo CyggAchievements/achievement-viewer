@@ -9,11 +9,11 @@ import {
     getVisitorUsername
 } from './GameCompare.js';
 
-// UPDATED: Global search state (Default is now 'name')
+// Global search state (Default is now 'name')
 let currentSearchTerm = '';
 let currentSearchType = 'name'; 
 
-// UPDATED: Search handlers
+// Search handlers
 window.setSearchTerm = function(term) {
     currentSearchTerm = term;
     displayGames();
@@ -24,7 +24,7 @@ window.setSearchType = function(type) {
     displayGames();
 };
 
-// NEW: Toggle Search Visibility
+// Toggle Search Visibility
 window.toggleSearch = function() {
     const searchContainer = document.getElementById('search-container');
     const searchBtn = document.getElementById('search-toggle-btn');
@@ -60,18 +60,22 @@ export function displayGames() {
         return;
     }
 
-    // NEW: Show search bar
+    // Show search bar
     if (searchDiv) {
         searchDiv.classList.remove('hidden');
     }
 
-    // Calculate totals
-    let totalGames = gamesData.size;
+    // Get filtered games first
+    let sortedGames = sortGames(window.gridSortMode || 'percentage');
+    let filteredGames = applySearchFilter(sortedGames);
+
+    // Calculate totals based on filtered games
+    let totalGames = filteredGames.length;
     let totalAchievements = 0;
     let totalUnlocked = 0;
     let perfectGames = 0;
 
-    for (let game of gamesData.values()) {
+    for (let game of filteredGames) {
         totalAchievements += game.achievements.length;
         const unlocked = game.achievements.filter(a => a.unlocked).length;
         totalUnlocked += unlocked;
@@ -83,20 +87,76 @@ export function displayGames() {
 
     const overallPercentage = calculatePercentage(totalUnlocked, totalAchievements);
 
-    // Render summary
+    // Render summary with filtered stats
     renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, totalAchievements, overallPercentage);
 
     // Render games grid
-    renderGamesGrid(resultsDiv);
+    renderGamesGrid(resultsDiv, filteredGames);
     
-    // ✅ Backup call to adjust card heights
+    // Backup call to adjust card heights
     setTimeout(adjustCardHeights, 50);
+}
+
+function applySearchFilter(games) {
+    if (!currentSearchTerm) {
+        return games;
+    }
+
+    const term = currentSearchTerm.toLowerCase().trim();
+    if (!term) {
+        return games;
+    }
+
+    return games.filter(game => {
+        // 1. Check Game Name
+        if (currentSearchType === 'name') {
+            return game.name.toLowerCase().includes(term);
+        }
+        
+        // 2. Check AppID
+        if (currentSearchType === 'appid') {
+            return game.appId.includes(term);
+        }
+        
+        // 3. Check Platform
+        if (currentSearchType === 'platform') {
+            const platform = game.platform || (game.usesDb ? 'Steam' : '');
+            return platform.toLowerCase().includes(term);
+        }
+        
+        // 4. Check Achievements
+        if (currentSearchType === 'achievement') {
+            return game.achievements.some(ach => {
+                const name = String(ach.name || '').toLowerCase();
+                const description = String(ach.description || '').toLowerCase();
+                const apiname = String(ach.apiname || '').toLowerCase();
+                
+                return name.includes(term) || description.includes(term) || apiname.includes(term);
+            });
+        }
+
+        return false;
+    });
 }
 
 function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, totalAchievements, overallPercentage) {
     summaryDiv.style.display = 'block';
 
     const gamerCard = window.gamerCardHTML || '';
+
+    // Check if we're in filtered mode
+    const isFiltered = currentSearchTerm && currentSearchTerm.trim() !== '';
+    
+    // Purple color for filtered stats
+    const statColor = isFiltered ? '#b794f6' : '#66c0f4';
+    const progressGradient = isFiltered ? 'linear-gradient(90deg, #b794f6, #9370db)' : 'linear-gradient(90deg, #66c0f4, #56a0d4)';
+
+    // Show filter indicator if search is active
+    const filterIndicator = isFiltered ? `
+        <div style="background: rgba(183, 148, 246, 0.1); border: 1px solid #b794f6; border-radius: 6px; padding: 8px 15px; margin-top: 10px; font-size: 0.9em;">
+            📊 Showing filtered results and stats for: <strong>"${currentSearchTerm}"</strong> in <strong>${getSearchTypeLabel()}</strong>
+        </div>
+    ` : '';
 
     summaryDiv.innerHTML = `
         <div class="summary" id="summary-box">
@@ -115,27 +175,29 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
                 ${gamerCard ? `<div class="gamer-card-container">${gamerCard}</div>` : ''}
             </div>
             
-            <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
-                <div class="progress-fill ${overallPercentage < 6 ? 'low-percentage' : ''}" style="width: ${overallPercentage}%">${overallPercentage}%</div>
+            ${filterIndicator}
+            
+            <div class="progress-bar" style="max-width: 600px; margin: 15px auto 0;">
+                <div class="progress-fill ${overallPercentage < 6 ? 'low-percentage' : ''}" style="width: ${overallPercentage}%; background: ${progressGradient};">${overallPercentage}%</div>
             </div>
             
             <div class="summary-stats">
                 <div class="stat-item">
-                    <div class="stat-value">${totalGames}</div>
+                    <div class="stat-value" style="color: ${statColor};">${totalGames}</div>
                     <div class="stat-label">Games</div>
                 </div>
                 ${perfectGames > 0 ? `
                 <div class="stat-item">
-                    <div class="stat-value">${perfectGames}</div>
+                    <div class="stat-value" style="color: ${statColor};">${perfectGames}</div>
                     <div class="stat-label">Perfect Game${perfectGames !== 1 ? 's' : ''}</div>
                 </div>
                 ` : ''}
                 <div class="stat-item">
-                    <div class="stat-value">${totalUnlocked}/${totalAchievements}</div>
+                    <div class="stat-value" style="color: ${statColor};">${totalUnlocked}/${totalAchievements}</div>
                     <div class="stat-label">Achievements Unlocked</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-value">${overallPercentage}%</div>
+                    <div class="stat-value" style="color: ${statColor};">${overallPercentage}%</div>
                     <div class="stat-label">Completion</div>
                 </div>
             </div>
@@ -143,7 +205,17 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
     `;
 }
 
-function renderGamesGrid(resultsDiv) {
+function getSearchTypeLabel() {
+    switch(currentSearchType) {
+        case 'name': return 'Game Name';
+        case 'appid': return 'Steam AppID';
+        case 'platform': return 'Platform';
+        case 'achievement': return 'Achievement Info';
+        default: return 'Search';
+    }
+}
+
+function renderGamesGrid(resultsDiv, sortedGames) {
     // Check state for button styling
     const isSearchOpen = document.getElementById('search-container')?.style.display !== 'none';
 
@@ -176,49 +248,8 @@ function renderGamesGrid(resultsDiv) {
 
     let html = '<div class="games-grid" id="games-grid">';
 
-    let sortedGames = sortGames(window.gridSortMode || 'percentage');
-
-    // NEW: Apply Search Filter
-    if (currentSearchTerm) {
-        const term = currentSearchTerm.toLowerCase().trim();
-        if (term) {
-            sortedGames = sortedGames.filter(game => {
-                
-                // 1. Check Game Name
-                if (currentSearchType === 'name') {
-                    return game.name.toLowerCase().includes(term);
-                }
-                
-                // 2. Check AppID
-                if (currentSearchType === 'appid') {
-                    return game.appId.includes(term);
-                }
-                
-                // 3. Check Platform
-                if (currentSearchType === 'platform') {
-                    const platform = game.platform || (game.usesDb ? 'Steam' : '');
-                    return platform.toLowerCase().includes(term);
-                }
-                
-                // 4. Check Achievements
-                if (currentSearchType === 'achievement') {
-                    return game.achievements.some(ach => 
-                        (ach.name && ach.name.toLowerCase().includes(term)) || 
-                        (ach.description && ach.description.toLowerCase().includes(term)) ||
-                        (ach.apiname && ach.apiname.toLowerCase().includes(term))
-                    );
-                }
-
-                return false;
-            });
-        }
-    }
-
     if (sortedGames.length === 0) {
-        let typeLabel = "Game Name";
-        if (currentSearchType === 'appid') typeLabel = "Steam AppID";
-        if (currentSearchType === 'platform') typeLabel = "Platform";
-        if (currentSearchType === 'achievement') typeLabel = "Achievement Info";
+        let typeLabel = getSearchTypeLabel();
 
         html += `<div style="grid-column: 1/-1; text-align: center; color: #8f98a0; padding: 40px; font-size: 1.2em;">
                     No games found matching "${currentSearchTerm}" in <strong>${typeLabel}</strong>
@@ -242,11 +273,11 @@ function renderGamesGrid(resultsDiv) {
         searchInput.focus();
     }
 
-    // ✅ Adjust card heights based on platform labels
+    // Adjust card heights based on platform labels
     adjustCardHeights();
 }
 
-// UPDATED: sortGames now handles 'name'
+// sortGames now handles 'name'
 function sortGames(mode) {
     // 1. Sort by Name (Alphabetical)
     if (mode === 'name') {
@@ -357,7 +388,7 @@ export function renderGameDetail() {
     document.getElementById('summary-box').classList.add('hidden');
     document.getElementById('grid-sort-controls').classList.add('hidden');
     
-    // NEW: Hide search bar in detail view
+    // Hide search bar in detail view
     const searchContainer = document.getElementById('search-container');
     if (searchContainer) searchContainer.classList.add('hidden');
 
@@ -378,34 +409,82 @@ export function renderGameDetail() {
     }
 }
 
-// Normal view with compare button
+// Normal view with Unlocked/Locked Categories
 function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
-    let unlockedAchievements = game.achievements.filter(a => a.unlocked);
-    let lockedAchievements = game.achievements.filter(a => !a.unlocked);
+    // Clone achievements to avoid modifying the original array during sort
+    let achievements = [...game.achievements];
 
+    // Apply sorting first
     if (sortMode === 'rarity-asc') {
-        unlockedAchievements.sort((a, b) => {
+        achievements.sort((a, b) => {
             const rarityA = a.rarity !== null ? parseFloat(a.rarity) : 999;
             const rarityB = b.rarity !== null ? parseFloat(b.rarity) : 999;
             return rarityA - rarityB;
         });
     } else if (sortMode === 'rarity-desc') {
-        unlockedAchievements.sort((a, b) => {
+        achievements.sort((a, b) => {
             const rarityA = a.rarity !== null ? parseFloat(a.rarity) : -1;
             const rarityB = b.rarity !== null ? parseFloat(b.rarity) : -1;
             return rarityB - rarityA;
         });
     } else if (sortMode === 'date-newest') {
-        unlockedAchievements.sort((a, b) => (b.unlocktime || 0) - (a.unlocktime || 0));
+        achievements.sort((a, b) => (b.unlocktime || 0) - (a.unlocktime || 0));
     } else if (sortMode === 'date-oldest') {
-        unlockedAchievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
+        achievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
+    } else if (sortMode === 'group-base-first') {
+        // Sort by Group: Base Game First
+        achievements.sort((a, b) => {
+            const groupA = a.group || 'Base Game';
+            const groupB = b.group || 'Base Game';
+
+            if (groupA === 'Base Game' && groupB !== 'Base Game') return -1;
+            if (groupB === 'Base Game' && groupA !== 'Base Game') return 1;
+
+            const groupCompare = groupA.localeCompare(groupB);
+            if (groupCompare !== 0) return groupCompare;
+
+            return a.name.localeCompare(b.name);
+        });
+    } else if (sortMode === 'group-dlc-first') {
+        // Sort by Group: DLCs First
+        achievements.sort((a, b) => {
+            const groupA = a.group || 'Base Game';
+            const groupB = b.group || 'Base Game';
+
+            if (groupA === 'Base Game' && groupB !== 'Base Game') return 1;
+            if (groupB === 'Base Game' && groupA !== 'Base Game') return -1;
+
+            const groupCompare = groupA.localeCompare(groupB);
+            if (groupCompare !== 0) return groupCompare;
+
+            return a.name.localeCompare(b.name);
+        });
+    }
+
+    // Split achievements into Unlocked and Locked
+    const unlockedAchievements = achievements.filter(a => a.unlocked);
+    const lockedAchievements = achievements.filter(a => !a.unlocked);
+
+    let achievementsHTML = '';
+
+    if (unlockedAchievements.length > 0) {
+        achievementsHTML += `
+            <h3 class="achievements-section-title">Unlocked Achievements (${unlockedAchievements.length})</h3>
+            ${unlockedAchievements.map(ach => renderAchievement(ach, true)).join('')}
+        `;
+    }
+
+    if (lockedAchievements.length > 0) {
+        achievementsHTML += `
+            <h3 class="achievements-section-title locked-title">Locked Achievements (${lockedAchievements.length})</h3>
+            ${lockedAchievements.map(ach => renderAchievement(ach, false)).join('')}
+        `;
     }
 
     // Check for "Passport" (Visitor) from URL
     const visitor = getVisitorUsername();
     
     // Show compare button ONLY if we have a visitor username in URL AND it's not the own profile
-    // Guests (no URL param) will not see this button
     const compareButton = (visitor && !isOwnProfile()) ? `
         <button class="compare-button" onclick="window.enableCompareMode()">
             🔄 Compare Achievements
@@ -445,30 +524,31 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         </div>
         
         <div class="achievements-list">
-            ${unlockedAchievements.length > 0 ? `
-                <h3 class="achievements-section-title">Unlocked Achievements</h3>
-                <div class="sort-controls">
-                    <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="window.setSortMode('rarity-asc')" data-tooltip="Rarest First">
-                        🏆↑
-                    </button>
-                    <button class="sort-button ${sortMode === 'rarity-desc' ? 'active' : ''}" onclick="window.setSortMode('rarity-desc')" data-tooltip="Most Common First">
-                        🏆↓
-                    </button>
-                    <button class="sort-button ${sortMode === 'date-newest' ? 'active' : ''}" onclick="window.setSortMode('date-newest')" data-tooltip="Newest First">
-                        🕐↓
-                    </button>
-                    <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="window.setSortMode('date-oldest')" data-tooltip="Oldest First">
-                        🕐↑
-                    </button>
-                    ${sortMode !== 'default' ? `<button class="sort-button" onclick="window.setSortMode('default')" data-tooltip="Reset Sorting">↺</button>` : ''}
-                </div>
-                ${unlockedAchievements.map(ach => renderAchievement(ach, true)).join('')}
-            ` : ''}
-            
-            ${lockedAchievements.length > 0 ? `
-                <h3 class="achievements-section-title locked-title">Locked Achievements</h3>
-                ${lockedAchievements.map(ach => renderAchievement(ach, false)).join('')}
-            ` : ''}
+            <div class="sort-controls">
+                <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="window.setSortMode('rarity-asc')" data-tooltip="Rarest First">
+                    🏆↑
+                </button>
+                <button class="sort-button ${sortMode === 'rarity-desc' ? 'active' : ''}" onclick="window.setSortMode('rarity-desc')" data-tooltip="Most Common First">
+                    🏆↓
+                </button>
+                <button class="sort-button ${sortMode === 'date-newest' ? 'active' : ''}" onclick="window.setSortMode('date-newest')" data-tooltip="Newest First">
+                    🕐↓
+                </button>
+                <button class="sort-button ${sortMode === 'date-oldest' ? 'active' : ''}" onclick="window.setSortMode('date-oldest')" data-tooltip="Oldest First">
+                    🕐↑
+                </button>
+                
+                <button class="sort-button ${sortMode === 'group-base-first' ? 'active' : ''}" onclick="window.setSortMode('group-base-first')" data-tooltip="Base Game First">
+                    📥↓
+                </button>
+                <button class="sort-button ${sortMode === 'group-dlc-first' ? 'active' : ''}" onclick="window.setSortMode('group-dlc-first')" data-tooltip="Extra Content First">
+                    📥↑
+                </button>
+
+                ${sortMode !== 'default' ? `<button class="sort-button" onclick="window.setSortMode('default')" data-tooltip="Reset Sorting">↺</button>` : ''}
+            </div>
+
+            ${achievementsHTML}
         </div>
     `;
 }
@@ -529,6 +609,12 @@ function renderAchievement(ach, isUnlocked) {
         }
     }
 
+    // DLC / Group Label Logic (SteamDB style)
+    let groupHTML = '';
+    if (ach.group && ach.group !== 'Base Game') {
+        groupHTML = `<div class="achievement-group">${ach.group}</div>`;
+    }
+
     return `
         <div class="achievement ${isUnlocked ? 'unlocked' : 'locked'}">
             ${ach.icon || ach.icongray ? 
@@ -537,6 +623,7 @@ function renderAchievement(ach, isUnlocked) {
             <div class="achievement-info">
                 <div class="achievement-name">${ach.name}</div>
                 ${descriptionHTML}
+                ${groupHTML}
                 ${isUnlocked && ach.unlocktime ? 
                     `<div class="achievement-unlock-time">Unlocked: ${formatUnlockDate(ach.unlocktime)}</div>` : 
                     ''}
@@ -562,7 +649,7 @@ export function hideGameDetail() {
     document.getElementById('summary-box').classList.remove('hidden');
     document.getElementById('grid-sort-controls').classList.remove('hidden');
     
-    // NEW: Show search bar when returning to grid
+    // Show search bar when returning to grid
     const searchContainer = document.getElementById('search-container');
     if (searchContainer) searchContainer.classList.remove('hidden');
 
@@ -625,7 +712,7 @@ window.disableCompareMode = function() {
     renderGameDetail();
 };
 
-// ✅ Adjust card heights dynamically
+// Adjust card heights dynamically
 function adjustCardHeights() {
     // Check if ANY game card has a platform label with content
     const allGameCards = document.querySelectorAll('.game-card');

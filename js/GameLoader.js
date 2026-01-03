@@ -239,7 +239,8 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
                 icongray: achInfo.icongray || achInfo.icon || '',
                 unlocked: userAch ? (userAch.earned || userAch.unlocked || userAch.achieved || false) : false,
                 unlocktime: userAch ? (userAch.earned_time || userAch.unlock_time || userAch.unlocktime || 0) : 0,
-                rarity: achInfo.percent || null
+                rarity: achInfo.percent || null,
+                group: achInfo.group || null
             });
         }
     } else {
@@ -261,7 +262,8 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
                 icongray: ach.icongray || ach.icon_gray || ach.icon || '',
                 unlocked: ach.earned || ach.unlocked || ach.achieved || false,
                 unlocktime: ach.earned_time || ach.unlock_time || ach.unlocktime || 0,
-                rarity: ach.percent || null
+                rarity: ach.percent || null,
+                group: ach.group || null
             });
         }
     }

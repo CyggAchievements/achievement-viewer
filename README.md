@@ -50,6 +50,7 @@ Your `achievements.json` should look like this:
 
 By default they are stored in: `%AppData%\Achievement Watcher\steam_cache\data`
 and/or `%AppData%\Achievement Watcher\steam_cache\user\{SteamID}\`
+A **Steam** label will be added automatically to these types of games.
 
 Your `{AppID}.db` should look like this:
 
@@ -188,6 +189,7 @@ The workflow runs daily at midnight UTC, or manually:
 - **Responsive Design** - Works on desktop and mobile
 - **The Hub feature** - A community interface. Everybody who forks the [main repo](https://github.com/Roschach96/achievement-viewer) automatically gets added to it.
 - **Compare achievements** - From your profile go to the Hub ("Open Hub" button in the upper right) and press on the user you want to be compared to.
+- **Achievement groups** - Achievements that were added later with a DLC or an update, it will be displayed in a new row.
 
 ## 📄 License
 

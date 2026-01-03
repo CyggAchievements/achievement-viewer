@@ -362,6 +362,17 @@ grid-template-columns: 1fr;
     color: #8f98a0;
 }
 
+/* NEW: Group Headers for DLCs/Updates */
+.achievements-section-title.group-header {
+    background: rgba(0, 0, 0, 0.3);
+    padding: 10px 15px;
+    border-radius: 4px;
+    border-bottom: none;
+    margin-top: 30px;
+    border-left: 4px solid #66c0f4;
+    font-size: 1.1em;
+}
+
 .sort-controls {
     display: flex;
     gap: 10px;
@@ -1250,4 +1261,13 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
 
 .game-card.uniform-height .game-source {
     min-height: 1.2em;
+}
+
+/* Add this at the end of your CSS file or near other achievement classes */
+.achievement-group {
+    color: #f9b44d;
+    font-size: 0.9em;
+    margin-top: 4px;
+    display: block;
+    letter-spacing: 0.5px;
 }

@@ -59,6 +59,7 @@ DEFAULT_OWNERS = [
 
 async def fetch_steamhunters_achievements(appid):
     url = f"https://steamhunters.com/apps/{appid}/achievements?group=&sort=name"
+    print(f"    → Fetching groups from SteamHunters...")
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=True, args=["--disable-blink-features=AutomationControlled"]
@@ -69,18 +70,52 @@ async def fetch_steamhunters_achievements(appid):
         )
         page = await context.new_page()
         try:
-            await page.goto(url, timeout=10000)
+            await page.goto(url, timeout=15000)
             await page.wait_for_function(
                 """() => Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh'));"""
             )
             await page.evaluate(
                 """() => { const scripts = Array.from(document.querySelectorAll('script')); const target = scripts.find(s => s.textContent.includes('var sh')); eval(target.textContent); }"""
             )
-            achievements = await page.evaluate(
-                """() => sh?.model?.listData?.pagedList?.items || []"""
-            )
-            return [
-                {
+            
+            # Fetch the entire data model
+            sh_model = await page.evaluate("""() => sh?.model || {}""")
+            
+            # 1. Build a lookup map for Update IDs -> Group Names
+            updates_map = {}
+            if "updates" in sh_model:
+                for update in sh_model["updates"]:
+                    u_id = update.get("updateId")
+                    
+                    # Robust Naming Logic:
+                    # 1. Official DLC Name
+                    if update.get("dlcAppName"):
+                        name = update.get("dlcAppName")
+                    # 2. Steam Event Name (e.g. "Summer Sale")
+                    elif update.get("steamEventName"):
+                        name = update.get("steamEventName")
+                    # 3. Base Game detection (Update #0 and no DLC ID)
+                    elif update.get("updateNumber", 0) == 0 and not update.get("dlcAppId"):
+                         name = "Base Game"
+                    # 4. Numbered Content Update (e.g. "Update 1.5")
+                    elif update.get("updateNumber", 0) > 0:
+                        name = f"Update {update.get('updateNumber')}"
+                    # 5. Fallback
+                    else:
+                        name = "Base Game" 
+                        
+                    updates_map[u_id] = name
+
+            # 2. Process the achievements items
+            achievements = sh_model.get("listData", {}).get("pagedList", {}).get("items", [])
+            
+            results = []
+            for item in achievements:
+                # Use the updateId to find the group name
+                update_id = item.get("updateId", 0)
+                group_name = updates_map.get(update_id, "Base Game")
+                
+                results.append({
                     "name": item.get("apiName"),
                     "default_value": 0,
                     "displayName": item.get("name"),
@@ -88,11 +123,11 @@ async def fetch_steamhunters_achievements(appid):
                     "description": item.get("description") or " ",
                     "icon": item.get("icon"),
                     "icongray": item.get("iconGray"),
-                }
-                for item in achievements
-            ]
+                    "group": group_name 
+                })
+            return results
         except Exception as e:
-            print(f"Error: {e}")
+            print(f"Error fetching from SteamHunters: {e}")
             return []
         finally:
             await browser.close()
@@ -324,17 +359,20 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
     achievement_names_map = {}
     achievements_info = {}
 
+    # ALWAYS fetch from SteamHunters to get Group Data (if possible)
+    # Even if we have an API key, the API key doesn't give us Groups/DLCs
+    steamhunters_data = {}
     try:
-        if not STEAM_API_KEY:
-            achievements = asyncio.run(fetch_steamhunters_achievements(appid))
-            for ach in achievements:
-                ach["icon"] = (
-                    f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
-                )
-                ach["icongray"] = (
-                    f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
-                )
-        else:
+        print("  → Fetching extra data (groups) from SteamHunters...")
+        sh_data = asyncio.run(fetch_steamhunters_achievements(appid))
+        for item in sh_data:
+            steamhunters_data[item["name"]] = item
+    except Exception as e:
+        print(f"  ⚠ Could not fetch SteamHunters data: {e}")
+
+    try:
+        # 1. Prefer Steam API if Key exists
+        if STEAM_API_KEY:
             response = requests.get(
                 f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
                 timeout=10,
@@ -346,6 +384,18 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                     .get("availableGameStats", {})
                     .get("achievements", [])
                 )
+            else:
+                # Fallback to SH data if API fails
+                achievements = sh_data if 'sh_data' in locals() else []
+        else:
+            # No API Key -> Use SteamHunters data
+            achievements = sh_data if 'sh_data' in locals() else []
+            # Fix icons for SH data if needed
+            for ach in achievements:
+                if not ach["icon"].startswith("http"):
+                    ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
+                if not ach["icongray"].startswith("http"):
+                    ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
 
         for ach in achievements:
             api_name = ach["name"]
@@ -353,18 +403,31 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
             display_name = ach.get("displayName", ach["name"])
             achievement_names_map[display_name.lower()] = api_name
 
-            if api_name in achievements_from_xml:
-                achievements_info[api_name] = achievements_from_xml[api_name].copy()
-                achievements_info[api_name]["hidden"] = is_hidden
-            else:
-                achievements_info[api_name] = {
-                    "name": display_name,
-                    "description": ach.get("description", ""),
-                    "icon": ach.get("icon", ""),
-                    "icongray": ach.get("icongray", ""),
-                    "hidden": is_hidden,
-                }
+            # Base info
+            achievements_info[api_name] = {
+                "name": display_name,
+                "description": ach.get("description", ""),
+                "icon": ach.get("icon", ""),
+                "icongray": ach.get("icongray", ""),
+                "hidden": is_hidden,
+            }
 
+            # Merge XML data if exists (often better descriptions)
+            if api_name in achievements_from_xml:
+                # Keep XML description if API has none
+                if not achievements_info[api_name]["description"]:
+                    achievements_info[api_name]["description"] = achievements_from_xml[api_name]["description"]
+                
+                # Keep hidden status from API/SH though
+                achievements_info[api_name]["hidden"] = is_hidden
+
+            # MERGE GROUP DATA FROM STEAMHUNTERS
+            if api_name in steamhunters_data:
+                achievements_info[api_name]["group"] = steamhunters_data[api_name].get("group", "Base Game")
+            else:
+                achievements_info[api_name]["group"] = "Base Game"
+
+            # Fallback for description from existing file
             if not achievements_info[api_name]["description"]:
                 old_desc = (
                     existing_info.get("achievements", {})
@@ -373,8 +436,10 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                 )
                 if old_desc:
                     achievements_info[api_name]["description"] = old_desc
+            
             if is_hidden and not achievements_info[api_name]["description"]:
                 hidden_achievements.append(api_name)
+
     except Exception as e:
         print(f"Error fetching schema achievements for {appid}: {e}")
 
@@ -382,29 +447,25 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
 
 # --- Determine AppIDs to process --- #
-# Check for changed AppIDs first
-appids = get_changed_appids()
 
-# If it's a scheduled run AND no changes detected, process all games
-# If it's manual dispatch AND no changes detected, process all games
-# If there ARE changes (file upload), process only those games
-if not appids and EVENT_NAME in ("schedule", "workflow_dispatch"):
-    # True scheduled run or manual trigger with no file changes - process all games
+# Process all games for scheduled or manual triggers
+if EVENT_NAME in ("schedule", "workflow_dispatch"):
     appids = [f.name for f in appid_dir.iterdir() if f.is_dir() and f.name.isdigit()]
-    print(f"Processing all {len(appids)} games ({'scheduled' if EVENT_NAME == 'schedule' else 'manual'} run)")
-elif appids:
-    # Changes detected (file upload or push) - process only changed games
-    print(f"Processing {len(appids)} changed game(s): {', '.join(appids)}")
+    print(f"Processing all {len(appids)} games (Reason: {EVENT_NAME} trigger)")
+
+# Process changed games only for other triggers
 else:
-    # No changes detected and not a scheduled/manual run
-    print("No game-specific changes detected. Exiting.")
-    exit(0)
+    appids = get_changed_appids()
+    if appids:
+        print(f"Processing {len(appids)} changed game(s): {', '.join(appids)}")
+    else:
+        print("No game-specific changes detected. Exiting.")
+        exit(0)
 
 # --- Load existing game-data.json --- #
 existing_game_data = {}
 existing_data_file = load_json_file(game_data_path)
 
-# Handle both old format (list) and new format (dict with games key)
 if existing_data_file:
     if isinstance(existing_data_file, dict) and "games" in existing_data_file:
         existing_data_list = existing_data_file["games"]
@@ -420,11 +481,9 @@ for appid in appids:
     print(f"\nProcessing AppID {appid}...")
     base_path = appid_dir / appid
 
-    # Detect platform file
     platform_files = list(base_path.glob("*.platform"))
     current_platform = platform_files[0].stem if platform_files else None
 
-    # Load blacklist
     blacklist_file = base_path / "blacklist"
     current_blacklist = (
         [
@@ -436,7 +495,6 @@ for appid in appids:
         else []
     )
 
-    # Manage Skip file
     skip_file = base_path / "skip"
     if skip_file.exists():
         print(f"  ! 'skip' file found, skipping data fetch for {appid}")
@@ -457,10 +515,8 @@ for appid in appids:
             print(f"  ✗ Could not load existing info/achievements for skipped game {appid}")
         continue
     
-    # Load previous game-info for memory
     existing_info = load_json_file(base_path / "game-info.json") or {}
 
-    # Initial game info
     game_info = {
         "appid": appid,
         "name": f"Game {appid}",
@@ -472,25 +528,21 @@ for appid in appids:
     }
 
     # --- Fetch data --- #
-    # Steam Store Info
     store_info = fetch_steam_store_info(appid)
     game_info.update(store_info)
     game_info["platform"] = current_platform
     time.sleep(1.5)
 
-    # Community XML Achievements
     achievements_from_xml = fetch_community_achievements(appid)
     print(f"  ✓ Got {len(achievements_from_xml)} achievements from XML")
     time.sleep(1.5)
 
-    # Steam API schema achievements
     achievements, hidden_achievements, achievement_names_map = fetch_achievements(
         appid, existing_info, achievements_from_xml
     )
     game_info["achievements"].update(achievements)
     print(f"  ✓ Merged {len(achievements)} achievements")
 
-    # Scrape hidden achievements
     if hidden_achievements:
         print(
             f"  → Found {len(hidden_achievements)} hidden achievements without descriptions"
@@ -521,7 +573,6 @@ for appid in appids:
                 break
             time.sleep(2)
 
-    # Fetch percentages
     percent_url = f"https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v0002/?gameid={appid}"
     percent_response = requests.get(percent_url, timeout=10)
 
@@ -536,7 +587,6 @@ for appid in appids:
 
         print(f"  ✓ Got percentages")
 
-    # Save missing hidden achievements file
     missing_file_path = base_path / "missing hidden achievements"
     still_missing_api_names = [
         api
@@ -555,17 +605,14 @@ for appid in appids:
             "  ✓ All hidden descriptions found, removed 'missing hidden achievements' file"
         )
 
-    # Save individual game-info.json
     save_json_file(base_path / "game-info.json", game_info)
 
-    # Load achievements data
     achievements_data, file_type = load_achievements_file(base_path)
     if achievements_data is None:
         print(f"  ✗ No achievements file found for {appid}")
         continue
     print(f"  ✓ Loaded achievements from {file_type} format")
 
-    # Update memory
     existing_game_data[str(appid)] = {
         "appid": str(appid),
         "info": game_info,
@@ -579,7 +626,6 @@ for folder in appid_dir.iterdir():
         current_appid = folder.name
         achievements_data, _ = load_achievements_file(folder)
         
-        # Skip games without achievement files
         if achievements_data is None:
             print(f"  ⚠ Skipping {current_appid} - no achievements file found")
             continue
@@ -600,7 +646,6 @@ for folder in appid_dir.iterdir():
                 }
             )
 
-# Wrap games with metadata
 final_output = {
     "last_updated": int(time.time()),
     "total_games": len(all_game_data),
