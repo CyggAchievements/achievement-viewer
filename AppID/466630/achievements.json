@@ -1,0 +1,42 @@
+{
+  "Warehouse": {
+    "earned": true,
+    "earned_time": 1671568236
+  },
+  "Subway": {
+    "earned": true,
+    "earned_time": 1671570798
+  },
+  "Downtown": {
+    "earned": true,
+    "earned_time": 1671571231
+  },
+  "University": {
+    "earned": true,
+    "earned_time": 1671574885
+  },
+  "InnerCity": {
+    "earned": true,
+    "earned_time": 1671639209
+  },
+  "Rooftops paint!": {
+    "earned": true,
+    "earned_time": 1671639360
+  },
+  "Rooftops dark": {
+    "earned": true,
+    "earned_time": 1671640565
+  },
+  "Rooftops cake": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Finale": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Apartments": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
