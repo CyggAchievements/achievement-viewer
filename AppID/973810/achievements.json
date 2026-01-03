@@ -1,0 +1,58 @@
+{
+  "Threshold": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Mirage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Explore": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Adventure": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Trials": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Ancestors": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "History": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Crossing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Rebirth": {
+    "earned": true,
+    "earned_time": 1379346401
+  },
+  "Companion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Reflection": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Wonder": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Return": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Transcendence": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
