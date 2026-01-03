@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c432029d82a4f7645552ed3dc8c10e369f897191.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7525b342dc0352b6e44a18c1dcf10ae75b966fb1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.6"
     },
     "Trophy017": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8218fdb6de68a1761931b12791378a176e558deb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0fb2c06befa6c561ac026f4d587384f7d6164628.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "35.6"
     },
     "Trophy065": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ba498e32ee53f47ad7b726ce0fd4f48700b12003.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/52a6e2c9738f21c1017104f06c373e02bd0f4263.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "17.8"
     },
     "Trophy000": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cc2b435f695c2b264f0a85e998b8f15d3e5b466d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2c8b44c8234b96b83696c2205bc50977ef31ee5b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.5"
     },
     "Trophy028": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/d7a3875c33270ac7c4225d29095ddc45243e8ee5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ada9e8b08c9c564d9087b682d4ff63ea2c0ee5af.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "33.6"
     },
     "Trophy030": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6f4cedfc60a035b041b7745dba59895e193840ab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/391e727fb3caac92d285e083c6a138fdc3c4e87f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.2"
     },
     "Trophy025": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0b9bb2d812a48cd1479bd6c974764490aed10daf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cca9b1e6d2fed9789fc5b3af39265132c4e8c4e2.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "28.5"
     },
     "Trophy033": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/1cf1250f4ca615a6c052f44f1db1fccb22257b58.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/4e846e9ef44ee46d96232b1c29ded35a760d33d9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.1"
     },
     "Trophy073": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/95f8ba59eb0a776d35e43e170e43f4fe17d92a66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/805b9ecadd4a54be21c29caa226dd3045ba0a12e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.5"
     },
     "Trophy067": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/5a61195b685238c8239bcf2c2e262e7a768687ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0e13e84cf1627021bec432c94a274d7ab71d3144.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "9.7"
     },
     "Trophy062": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/5489c2d37afeb9d5456f72cd75bf0a6b5817e71a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/98db50ef55ac41fe34a1140b15460d024dd4fbcb.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "13.3"
     },
     "Trophy029": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/569bccafdf7e85239f14c4c4c9da1499fdf60db4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ac3aca7e7d2ae4808aa98aa31f26225677d6904a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "50.8"
     },
     "Trophy021": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/b483a3b78792a0cc00d925bc1d1fa244174e9c0c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/75539c5c08dc80e6fe5ea67537f5843a40181397.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.2"
     },
     "Trophy031": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/66a254975bbe5770b7d57e20808cd7c1d251164a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c05cf1bcd358ccf1428fb8648f320c20fe18b100.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.0"
     },
     "Trophy006": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c6db39c32f43c0199ba6b75235d8cd0da528ae91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/fdee585002a44975bc3843507dc4676709dc1802.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "72.5"
     },
     "Trophy072": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/4395f8d1bc72b78ddefb5a944218893f4bd058e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ae43ccb77881dcf76e23e989ac20f3d98bbb1345.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "15.1"
     },
     "Trophy015": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a1650f1996c23cfb67501af1cee4eea924c95a0c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8ed34ce5d2a73ec8e4078903bd3f4336614d76a7.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "37.1"
     },
     "Trophy035": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/4b4af80c782f9d537a75f9130ef181560623c295.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/70faa8173afaa1926b5bd6de0769f23b5a6c0377.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "25.1"
     },
     "Trophy039": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c1178ce30fd29a774a01e548d6b7829e1acb9f2c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f1cb1fa6ad34b73fcd64e4d2490937e0925d9eeb.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "41.1"
     },
     "Trophy038": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/e0b2de4b008b84ca467f8a9690e2af2f63a7717a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/70022bdb7a704c54aca29a773d18e3696d289288.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "43.7"
     },
     "Trophy034": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/debe016a266e59b742f386534fceff02ccf4ea2a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f113ea9c05ca9162a6347a50893a2fe84ab45f37.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "24.2"
     },
     "Trophy037": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/03e4f9b5cd8d559f19051214afb9ff0de92a102a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c2c851ab7d1412e46f7a90d6df57ef5c3896bc10.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "49.5"
     },
     "Trophy040": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/d0e46cf4dbc9d9d3610ec40ecf512134be401c06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/01e51edfcbe05370c4324ac49a12ac716f9d97b4.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "26.3"
     },
     "Trophy059": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7dcd1a4160a324955a53fb7ec1ae10b94efb6f2a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/d1a8f4832e0b97791c03529828dd992a5e4599e5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.5"
     },
     "Trophy074": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f49eb6861e3c925f998fac2b7a79843c68cba7bf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/dde6d421acd28a248d61daea4c7643a8d12bf754.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "11.4"
     },
     "Trophy060": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8aaa64b27ddbe34c2eac72821084f340050e4766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8d7128ff8e242adaf2068f06c22eaeb24f432aea.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.7"
     },
     "Trophy064": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7709e8e7988be9d87f450ca52fe3e649cd313756.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/aba2df8a51b10414add852bba15843695980fabf.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "27.0"
     },
     "Trophy023": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/67e47f11b10a5e2618f262f73ab524a983a4b119.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/899b246eab1b4a168cba6bafcec0decc4678b842.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "25.8"
     },
     "Trophy066": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/42e7da2c7b35649df18b94fa18eb752541033dbe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0ec9711432241fa313481b15bf3392379da89c03.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "25.7"
     },
     "Trophy041": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0cce375211ba9d5c7ff65e3f43854e1f4db8ceb4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0d91b8a6fd60d416e61bfb132b6be5abea4bd3b1.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "15.3"
     },
     "Trophy049": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/47a2c067e92b2b51f063e69a6590875e4b8e501f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/639889b2bddab16f6aefc079a93a50118dd1f7fa.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "16.1"
     },
     "Trophy012": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a9420aabcd37a9baa208ccdf248ef1f0a201a351.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6eeeaa800f2bbeffe96a1d9261e837df3ba3b67b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "46.0"
     },
     "Trophy014": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/dabba5c5c240d370110703ee14cc678819ae792e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2dceef597dc30f6e38688aebeb510f764ca1c72b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "39.8"
     },
     "Trophy063": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/04c02ad1844b7de52105c1355e9b6015ead6adb0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cdf7ec9daff8a1a67075b596e3bfa3dddeca103f.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "28.5"
     },
     "Trophy054": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ed9388294ba4568267fd8271f444dda0acd6f8b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c443faa32c265383309c9607a02eec44d5039c7b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "48.3"
     },
     "Trophy070": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/894a8060b90810d1755919a9f9a35857d22e2ee1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cf7a7d12111c130f5e3a64de3b221c3ece0ee59d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.3"
     },
     "Trophy007": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/741e99c1a88cb613073e2dc319a6a19ee940fe2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7274c42a592010ec6161147148cc31cbbf0b9646.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "62.6"
     },
     "Trophy024": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6f8878e07d36f7b1d77192df99a14bb6a254e6e0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2370dceeb8c3b213e6f6bc9ec44931255fa18a05.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "55.2"
     },
     "Trophy022": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/b92b1127420c24f76c1c5ce472e4e119a5683792.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/54ec565f21fdf7f10b6af6c522ff462cb1bf527b.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "59.5"
     },
     "Trophy020": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8e9f824f8e39465bbb652b24fbf7c3065f23c947.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/19a614b8b458131a2336f8d375ae7328b488da2a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "67.5"
     },
     "Trophy013": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/962ce7428584968ed72328a42d355d9a60ed3952.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/fa319935778d112a8cb5953f540739b1aa35c05e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "43.6"
     },
     "Trophy050": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8571126d1b28b3ccf620c94c0beed5d59597d3ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/173165a51c39b91420e894e210816af9a2e40fdd.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "52.5"
     },
     "Trophy018": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/415a9462bf3e301083c240aeedd6655de3d9ec6a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c55818d5fc49964ec6ba25ba30f6f33bad7f6934.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "37.3"
     },
     "Trophy079": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/5cd46b82316bb19b1b7308f7ea7ad7ae1cb42876.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3d3e61a98db7a42ecd7cc2b1adb8836d9537159f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.6"
     },
     "Trophy078": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0939e43545fa01fc68560ebc7c4a0738e19819aa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c279eeaf46be79d0f63bac58d5f4cccbdd0ff256.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "Trophy026": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ab568f5201e4db02622e2e3bca6ce22e00718c95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/bd8fcd92a3611d9657593531409d73a94e59e3fd.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.7"
     },
     "Trophy027": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/9f379fe8da0584ff074da11c074f3652dfdaa725.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/78ea4f73b7bd943a56f3a33fe33d06b02b17d3e8.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "11.6"
     },
     "Trophy061": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2c2fce2119bc44b4eb1b557cc6a6be8150f52f25.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/91230a0d055d6eae515f467fc701c49394227601.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.9"
     },
     "Trophy042": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/e8f78509532814deeca94f656788d7c56357d75d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8b7a0dd555c32c549610fa9fdf7934c374a207d6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.5"
     },
     "Trophy044": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3c426f590df40b7803f4e250b0a09d095a2fa820.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6c1ac8838c154ae87dad6e7cb1b7deaf99a9d6a8.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "48.1"
     },
     "Trophy047": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/45ffb7062dc32454949d9118445d8a48f0bec283.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8418af25ca2ac4724cc5cc5eacece5f84d0f6ec0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "46.5"
     },
     "Trophy001": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/77e33757ae8a6f1137dd15c24a98d83fcb8d628c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/1d0eae53efdd71f2848a5a405520a437ab6a4883.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "59.6"
     },
     "Trophy002": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ba5ae4dadf0eef683baf254f2ab7eb6aa4687eb1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/23cc82255584fbdff7e079e64d62b6f8170f5195.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "51.8"
     },
     "Trophy003": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f73ffd8ea0c683487fd0dd80a80d81bb567c9a87.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/96315c38c0f7efdc01df0898210312296f06b825.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.3"
     },
     "Trophy068": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ba3860e14d30d5d30ee5dfa320a628c56ad52da3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/091b3d0c3bdf2e45d35f18794fe130d7077f41aa.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.4"
     },
     "Trophy004": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3631f296fae2e10eed2899d9a2636c5933974828.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6743276612351148ad254b745d68eae4712c85a0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "81.1"
     },
     "Trophy057": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c34af53c735a486648cbdd9229a8fe4b7fa9a4e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cab79b0fa85808a4545b1816e76458d8eb055988.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "40.5"
     },
     "Trophy008": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/178d0f08e6e80ef195b51589cecb5728706a1e6c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3f33b3d0e809fd8621bf176e2c96c36806280005.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "54.4"
     },
     "Trophy076": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7257b1814e3b21d5f87521c47c535f3813504044.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/14d9e17e3fcfaaecd7f3cf1db70934f1685b98e5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.7"
     },
     "Trophy019": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a54bb4917014a6565611e2fd0c35f95e05dde0e3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/d1eb47d2ef8b06017def6be750efef20cfeb39af.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "30.9"
     },
     "Trophy011": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/51dd1790ec1f721342e84dafda758807deae3c69.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/52cfbafd41f279de09904ecc02166b1f4590ad59.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "54.9"
     },
     "Trophy010": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/4c4d05b67bfa617b6fc905c89d01c91573218618.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/c9149d2b9ba06c43dbd133ee46f8eff236cb29c4.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "49.7"
     },
     "Trophy009": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/5595a4d5bb25ec327df987d1ffe8d2cdff6ed6c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a0d942a5eccf0b41b7713fb91cb2a2032b2ccdf9.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "52.5"
     },
     "Trophy075": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3adb2f9ccf605a4df543d6ba4dc861f1e3abb410.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7995230d24afeafbf1d8e7f6c5781462156dca11.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.0"
     },
     "Trophy032": {
@@ -521,6 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/afcbcc4aa9e52dc5e1fe181f60ec256f43c1448b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/65443ab9fc9c52871f7d98317eff5f67fd13a616.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "28.6"
     },
     "Trophy016": {
@@ -529,6 +594,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ba984a39c0a2c710694621e9663a54f8cfa7ba16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6f83b77897bfaa2089484c2abb1abdfe4e67c279.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "49.3"
     },
     "Trophy005": {
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/9eb836854444f43950dfa84a176f543de7d75824.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/0efbedf5722fbb3bd4411ab9aac44e13293880f9.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "75.2"
     },
     "Trophy056": {
@@ -545,6 +612,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f1fabb1837bb61b00f94afdf5602bfc9813e2c34.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2a274a9fc371db85076deada8105ecfbcb2b6bef.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.5"
     },
     "Trophy071": {
@@ -553,6 +621,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/64abd940719f98a304e037710a3157325e61b99f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7d1982b0f994d8efe0da7d490206c9d32e269162.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "18.4"
     },
     "Trophy045": {
@@ -561,6 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/fe22d4e86400a1d49e8fd34d7055954da1c2cfb7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/cfa29ef9ccda1b9373cc0b669d3fd0dd8050b54e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "74.9"
     },
     "Trophy046": {
@@ -569,6 +639,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/ee476b1699d64ae4fe8971f1d1470d46751cd22e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2ea37993d9f694ffc102437c6b9a03a3cf86e213.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "62.0"
     },
     "Trophy055": {
@@ -577,6 +648,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/2ba3ef8e371e5b1b3f3c5c7ab1ff4d3d9e8235d0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/e144e5379ad0e783735619d9357e95bb055cab19.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "54.5"
     },
     "Trophy052": {
@@ -585,6 +657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/4760e256a23633f08beac0e525293e0a8156d875.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8e90c757fb3979eec8e828424e56835989b307d2.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "31.4"
     },
     "Trophy051": {
@@ -593,6 +666,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/f302b49e65cfb61bea92b1458d67c83319d2acc6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/75de4ac30bae5b316c3af8cd7ecc840ac1c8e5d0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "58.0"
     },
     "Trophy053": {
@@ -601,6 +675,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7240e6b85328924c03a5e2535c7bcc36d818beda.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/523f9c395b77a545b3f27616ac93f7feb531aef9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.6"
     },
     "Trophy043": {
@@ -609,6 +684,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/412bcf599784fc6e8c94fd7331d9dc9d34c88716.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/e29d6bf0235e6a5b218491bda69821b5e9f6c6ad.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.9"
     },
     "Trophy069": {
@@ -617,6 +693,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/1599180d4931ea428f4a03ebaed63f78f7bc4748.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/6bab7cc1021d4a39d3dd07f49437451398648617.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.9"
     },
     "Trophy058": {
@@ -625,6 +702,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/a5554f4fbdb4ee8206404aa8db82948d5419b640.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/8f9016fb606b5e1d4ea52c30134d1eb83b887545.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "26.6"
     },
     "Trophy077": {
@@ -633,6 +711,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/7b6da31d0b0b9b239c70b5a6dce25621d20f7f52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/39425957e7246b738088337cbb45b2d477ba9b65.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.8"
     },
     "Trophy036": {
@@ -641,6 +720,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/5eeb137b3b2920e35f11c66e0576899a5bea5fb3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2420110/3c57b131bd266caef176e96deecaeec17d4277bf.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "17.2"
     }
   },

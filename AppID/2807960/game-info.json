@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/0ee90d395ad8b0bc99646e84dc61d0deabcf4306.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/0ee90d395ad8b0bc99646e84dc61d0deabcf4306.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.2"
     },
     "ACHIEVEMENT34": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d4364e38bf36e1dd66d1e67666a4f6352f5476b5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d4364e38bf36e1dd66d1e67666a4f6352f5476b5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "0.8"
     },
     "ACHIEVEMENT39": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/7ed5e16927c332bd987875affd79c8b404b540c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/7ed5e16927c332bd987875affd79c8b404b540c9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.8"
     },
     "ACHIEVEMENT15": {
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/665d9a49325780af09afc857d091668bd1c04ce7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/665d9a49325780af09afc857d091668bd1c04ce7.jpg",
       "hidden": false,
-      "percent": "13.6"
+      "group": "Base Game",
+      "percent": "13.7"
     },
     "ACHIEVEMENT47": {
       "name": "Army of Two",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d64621a9873375e9703ff933096e24a10707c23f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d64621a9873375e9703ff933096e24a10707c23f.jpg",
       "hidden": true,
-      "percent": "0.8"
+      "group": "Battlefield™ REDSEC",
+      "percent": "0.9"
     },
     "ACHIEVEMENT23": {
       "name": "Being Watched",
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/c8dbc0b23e7a21e0fd270d543ce4fa3aad4f6ca0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/c8dbc0b23e7a21e0fd270d543ce4fa3aad4f6ca0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "5.6"
     },
     "ACHIEVEMENT21": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d9661076c2b8534a4898aa52b4f364c3d0f4a1c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d9661076c2b8534a4898aa52b4f364c3d0f4a1c0.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.4"
     },
     "ACHIEVEMENT06": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/2cf23b9ba327c86ae9fd11fe82a538572e9dd656.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/2cf23b9ba327c86ae9fd11fe82a538572e9dd656.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.0"
     },
     "ACHIEVEMENT44": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/629e837942216efa73a695a14f93452e5b6b0acf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/629e837942216efa73a695a14f93452e5b6b0acf.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "33.3"
     },
     "ACHIEVEMENT28": {
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d942e56b6c5e43839e5eb3d7b129f42191e0191a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d942e56b6c5e43839e5eb3d7b129f42191e0191a.jpg",
       "hidden": false,
-      "percent": "11.0"
+      "group": "Base Game",
+      "percent": "11.1"
     },
     "ACHIEVEMENT05": {
       "name": "Damned If You Do",
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/212d2d9d21976710b26b1738e2b0668efc404882.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/212d2d9d21976710b26b1738e2b0668efc404882.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.5"
     },
     "ACHIEVEMENT18": {
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/758b09dabe7fda373d7edb4c2709d0fdde78f2b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/758b09dabe7fda373d7edb4c2709d0fdde78f2b3.jpg",
       "hidden": true,
-      "percent": "14.3"
+      "group": "Base Game",
+      "percent": "14.4"
     },
     "ACHIEVEMENT02": {
       "name": "Devil in the Dark",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/0b8f78ce16dd7329797543666b47180f7faf32cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/0b8f78ce16dd7329797543666b47180f7faf32cf.jpg",
       "hidden": false,
-      "percent": "13.7"
+      "group": "Base Game",
+      "percent": "13.8"
     },
     "ACHIEVEMENT51": {
       "name": "Dog of War",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/249298ba2ba8157de7eca84e453111a413b013c2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/249298ba2ba8157de7eca84e453111a413b013c2.jpg",
       "hidden": true,
-      "percent": "7.7"
+      "group": "Battlefield™ REDSEC",
+      "percent": "7.8"
     },
     "ACHIEVEMENT08": {
       "name": "Dogs of War",
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/98ec07d329f103ea552e6f71fe05653b05e88fc1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/98ec07d329f103ea552e6f71fe05653b05e88fc1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.1"
     },
     "ACHIEVEMENT17": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/1ef85c0e1f03d23d94aa8896bf48ab83c79aa63c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/1ef85c0e1f03d23d94aa8896bf48ab83c79aa63c.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "17.6"
     },
     "ACHIEVEMENT16": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/ec2f70126dc76471138ad3a05ef444c8b4f1e327.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/ec2f70126dc76471138ad3a05ef444c8b4f1e327.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "ACHIEVEMENT49": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4f3d4fdfb3a25a2be297138319973190d68c5928.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4f3d4fdfb3a25a2be297138319973190d68c5928.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "11.2"
     },
     "ACHIEVEMENT40": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b1ea5fccdc7c4be65f1d733514ec6805e1bc88c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b1ea5fccdc7c4be65f1d733514ec6805e1bc88c7.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "ACHIEVEMENT31": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/1ece4a3b300b451b0c829df9932e73ea942456a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/1ece4a3b300b451b0c829df9932e73ea942456a0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.2"
     },
     "ACHIEVEMENT29": {
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/f08b5a858f485391372524615ede3680d8e12543.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/f08b5a858f485391372524615ede3680d8e12543.jpg",
       "hidden": false,
-      "percent": "19.8"
+      "group": "Base Game",
+      "percent": "19.9"
     },
     "ACHIEVEMENT36": {
       "name": "Heavy Weaponry",
@@ -177,7 +198,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/1a31b47488d95d427f1857cc69db6fa99e61063b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/1a31b47488d95d427f1857cc69db6fa99e61063b.jpg",
       "hidden": false,
-      "percent": "19.2"
+      "group": "Base Game",
+      "percent": "19.3"
     },
     "ACHIEVEMENT43": {
       "name": "Here's Your Birthday Present ",
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d83cbe9e84eb10f3064ffe5b7fabcb1d3562b54e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d83cbe9e84eb10f3064ffe5b7fabcb1d3562b54e.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "7.8"
     },
     "ACHIEVEMENT04": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/e87339709a9beca45b512e7e3b7dcd6f83f5ed72.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/e87339709a9beca45b512e7e3b7dcd6f83f5ed72.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.2"
     },
     "ACHIEVEMENT09": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/3f53d5b34882e0bbf810a2e893e712878c91af45.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/3f53d5b34882e0bbf810a2e893e712878c91af45.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.5"
     },
     "ACHIEVEMENT07": {
@@ -209,7 +234,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b4e639eef3a6ed280dd31868ee1c945d62a495c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b4e639eef3a6ed280dd31868ee1c945d62a495c9.jpg",
       "hidden": false,
-      "percent": "14.5"
+      "group": "Base Game",
+      "percent": "14.6"
     },
     "ACHIEVEMENT26": {
       "name": "Lance Corporal Matkovic",
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/2379514048937d36b36a6a24067d6122dc71c7cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/2379514048937d36b36a6a24067d6122dc71c7cf.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "41.8"
     },
     "ACHIEVEMENT13": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/acc8e2fdc6b47946fc164c8a3fe797a6328032a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/acc8e2fdc6b47946fc164c8a3fe797a6328032a5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.4"
     },
     "ACHIEVEMENT20": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/ee1356b61f160f4a0fdbb2e4afa1f86c6298c4ec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/ee1356b61f160f4a0fdbb2e4afa1f86c6298c4ec.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.1"
     },
     "ACHIEVEMENT42": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4b08a8decd8c29841ebd20a04e78ced306b2b45b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4b08a8decd8c29841ebd20a04e78ced306b2b45b.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "5.3"
     },
     "ACHIEVEMENT35": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/9b4fd8435a3cea37d6f347717f491c190b504622.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/9b4fd8435a3cea37d6f347717f491c190b504622.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.6"
     },
     "ACHIEVEMENT50": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b2322517393014a45b4280b1ab6c28c4424b0497.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b2322517393014a45b4280b1ab6c28c4424b0497.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "0.8"
     },
     "ACHIEVEMENT52": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b352539423f5ab0e1882507f39579932411e6d47.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b352539423f5ab0e1882507f39579932411e6d47.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "11.9"
     },
     "ACHIEVEMENT48": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/628b342bbd2355a5d3c594320a2eda453fb581e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/628b342bbd2355a5d3c594320a2eda453fb581e7.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "1.6"
     },
     "ACHIEVEMENT24": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/21972c64d39f7307588fe086e498accab616b3d6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/21972c64d39f7307588fe086e498accab616b3d6.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "6.3"
     },
     "ACHIEVEMENT14": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/c0d2f93cd05b93295982d3449be1213f7fab5a5a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/c0d2f93cd05b93295982d3449be1213f7fab5a5a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.3"
     },
     "ACHIEVEMENT11": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/041a4cde9e6dd7cd891c060d556b5aac68f0d784.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/041a4cde9e6dd7cd891c060d556b5aac68f0d784.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.6"
     },
     "ACHIEVEMENT12": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/77a32ee9f542c7c3008ed23dff011172282e5caf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/77a32ee9f542c7c3008ed23dff011172282e5caf.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.0"
     },
     "ACHIEVEMENT25": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/3b82b159694a593fb0ace2c7cb23e17a42da6eb5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/3b82b159694a593fb0ace2c7cb23e17a42da6eb5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "45.5"
     },
     "ACHIEVEMENT41": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/cecf674d7d80cfdde5f21bc49f0cd4b68d1d2798.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/cecf674d7d80cfdde5f21bc49f0cd4b68d1d2798.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "43.9"
     },
     "ACHIEVEMENT46": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/6a343e2f39927330419df2b72ea45d91a3b560b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/6a343e2f39927330419df2b72ea45d91a3b560b3.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "0.0"
     },
     "ACHIEVEMENT38": {
@@ -337,7 +378,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/a098f3546906258e84641e0c9591288d109ded8a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/a098f3546906258e84641e0c9591288d109ded8a.jpg",
       "hidden": false,
-      "percent": "25.2"
+      "group": "Base Game",
+      "percent": "25.3"
     },
     "ACHIEVEMENT22": {
       "name": "Roadside Assistance",
@@ -345,7 +387,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/484bbc39cdb7650d1e595d91bb80c00f76b04889.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/484bbc39cdb7650d1e595d91bb80c00f76b04889.jpg",
       "hidden": true,
-      "percent": "6.4"
+      "group": "Base Game",
+      "percent": "6.5"
     },
     "ACHIEVEMENT01": {
       "name": "Rock of Gibraltar",
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/91b79cfadb3d9ef18f9dd94ed8c3052e3f0429df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/91b79cfadb3d9ef18f9dd94ed8c3052e3f0429df.jpg",
       "hidden": false,
-      "percent": "15.7"
+      "group": "Base Game",
+      "percent": "15.8"
     },
     "ACHIEVEMENT03": {
       "name": "Secret Service",
@@ -361,7 +405,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/2c1bd5cad972a4c494c1931f9afaaa26b3fff0ec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/2c1bd5cad972a4c494c1931f9afaaa26b3fff0ec.jpg",
       "hidden": false,
-      "percent": "10.7"
+      "group": "Base Game",
+      "percent": "10.8"
     },
     "ACHIEVEMENT27": {
       "name": "Sergeant Redford",
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/e069f1d8036e155a09e054ea2e4a628fe7fc8f2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/e069f1d8036e155a09e054ea2e4a628fe7fc8f2e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.1"
     },
     "ACHIEVEMENT19": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/c06fd3276ae7b36700e8dac0866465134c38ddba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/c06fd3276ae7b36700e8dac0866465134c38ddba.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "1.4"
     },
     "ACHIEVEMENT00": {
@@ -385,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/30fc2a6cc0f2e271c90187a7e76be65ce87d4f15.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/30fc2a6cc0f2e271c90187a7e76be65ce87d4f15.jpg",
       "hidden": false,
-      "percent": "22.5"
+      "group": "Base Game",
+      "percent": "22.6"
     },
     "ACHIEVEMENT33": {
       "name": "Stolz der Nation",
@@ -393,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4ad38975e9664e23759d0b8c6717784694b954b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4ad38975e9664e23759d0b8c6717784694b954b2.jpg",
       "hidden": false,
-      "percent": "10.9"
+      "group": "Base Game",
+      "percent": "11.0"
     },
     "ACHIEVEMENT45": {
       "name": "Stone Cold",
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d19cee08016b601ed50bddb2b5e12c7d8a328274.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d19cee08016b601ed50bddb2b5e12c7d8a328274.jpg",
       "hidden": true,
+      "group": "Battlefield™ REDSEC",
       "percent": "0.0"
     },
     "ACHIEVEMENT30": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/5ecd07e96afca319a52bcb4eba1b933830f73428.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/5ecd07e96afca319a52bcb4eba1b933830f73428.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.0"
     },
     "ACHIEVEMENT10": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4790f504ac2e243ae3e060bc4f3408de107105c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/4790f504ac2e243ae3e060bc4f3408de107105c5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "ACHIEVEMENT32": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/75ae7d44428d5d6f971a1b5b359e6bae7c1f538c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/75ae7d44428d5d6f971a1b5b359e6bae7c1f538c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.7"
     }
   },

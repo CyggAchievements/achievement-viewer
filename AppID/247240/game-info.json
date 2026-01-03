@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/295f34d605ac17d6d2eb81f7cf5b4cf43d6fb86b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "ACHIEVEMENT_0": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/ec60b440a3f69c2e0cd11a7a21e1168d5e08fe7b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "51.7"
     },
     "ACHIEVEMENT_16": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/ce734cefc5e83a37bf957901da6c3c327f013fe3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "1.6"
     },
     "ACHIEVEMENT_2": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/25adde173cfc30df0ae9c56b5833f29426048b5a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.1"
     },
     "ACHIEVEMENT_4": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/63c066f32a0c4526b017291cd0e584c280536f96.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.1"
     },
     "ACHIEVEMENT_8": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/410ffcb8c56a904d9beb653d1ebaa231f551a3cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "40.3"
     },
     "ACHIEVEMENT_10": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/c2847b2708b2d1f3ab93c2258aa446250e6e6405.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.6"
     },
     "ACHIEVEMENT_9": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/1ef4d23aa31cf9a146af71768083b83750084d4b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "ACHIEVEMENT_5": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/1e102f66f94bd20532f90c08dc6c586166f68ac4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "ACHIEVEMENT_6": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/6fd22a4ac8b5225312c4258f9833c68793a44a27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.5"
     },
     "ACHIEVEMENT_7": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/0a046762a5cb55feb15baa83dbc2080ec42b5247.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "34.3"
     },
     "ACHIEVEMENT_3": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/056c26f6c64801430d6b2467eaed56402f328066.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.5"
     },
     "ACHIEVEMENT_15": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/30c945976f30bb7c6be74bfa48fcd254aa56241d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "ACHIEVEMENT_1": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/bb35417efa60b8eb9412dd786d866535e1bad16f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.8"
     },
     "ACHIEVEMENT_19": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5ee2f94dbcedb2206684c6f9897ea745413d57a3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "ACHIEVEMENT_17": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/602901fbce0bac2595e61afccca373a0d0613d92.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.7"
     },
     "ACHIEVEMENT_14": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/265482a4a13a335313754e36914b5bc0fe378c89.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.7"
     },
     "ACHIEVEMENT_12": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/a12485bbf8a0cc8b53e6f5062f183b1f23c790f5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.9"
     },
     "ACHIEVEMENT_13": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5265c4f9b5b094d49d02e956427e60d1f3c12337.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "9.0"
     },
     "ACHIEVEMENT_11": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/874669713ab72a10cafbe299cd02dc49babbc9e3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.4"
     }
   },

@@ -1,0 +1,298 @@
+{
+  "appid": "493340",
+  "name": "Planet Coaster",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg?t=1725377481",
+  "achievements": {
+    "CoasterDrop1": {
+      "name": "A Head for Heights",
+      "description": "Create a coaster with an 80m drop.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/81838053ce59f982c517c78ce112df4e24db8065.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/0b3eb57a5e60a7917bc6a9078a2bee034d617446.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.3"
+    },
+    "OneBronzeStar": {
+      "name": "A Star is born",
+      "description": "Gain a bronze star in career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/190699f2a630dc8068a12148391e87148c681ac4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/1b3442daea71736245027eb8e639ec962cda9b9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.0"
+    },
+    "CoasterAirtime3": {
+      "name": "Air Miles",
+      "description": "Wow guests with a coaster with 15 moments of airtime.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/4616ebaf49d343a4068f332536259231684292fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/9e1e704106c4d41dfb5ebde814e53ccd685d6d6e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "CoasterAirtime2": {
+      "name": "Air Raising",
+      "description": "Create a coaster with 10 moments of airtime.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/322309c84ba22fee416dd89fef24a30d195a1b09.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/aa861f97bdd52dd3ab88c8f89ac1a4c2b62f6b9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "OneGoldStar": {
+      "name": "Brightest Star in the Sky",
+      "description": "Gain a gold star in career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/ab00fdf0024688f07a63efa00738f0bb36ec1c21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/839ffb16387d433ed49a89b15a6c13465b8f12b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "CompleteChallenges2": {
+      "name": "Challenge Experience",
+      "description": "Complete five challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/76e586415772fe937c05e6c642c6c441ab8018e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/2d420a4320b046faa548755e52a5de6ecb883269.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "CompleteChallenges3": {
+      "name": "Challenge Veteran",
+      "description": "Complete ten challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/5ecdd304d02f89a47509e7588cb0ddfa551049d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/83824c0b98dd187844bd736fcac901e1ca600993.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "CoasterLength1": {
+      "name": "Coasting Along",
+      "description": "Build a 750m long coaster.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/5746bd517410e341fa88647d9f0198a1251c639f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/bc2e8752575325449e0d637058693dd9fb30acae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "CoasterCrash1": {
+      "name": "Crashing the Party",
+      "description": "Create a coaster crash involving 300 guests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/5dd23a1818666a6e0f749959418b48a2526f0a4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/43ca00dd64acac9dc962b3bd25646f6cb4a98668.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "UnlockSet3": {
+      "name": "Dex-R's Science Shenanigans",
+      "description": "Unlock DexR's Science Shenanigans.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/81ba5538df54b1dfcd8ffc54a236adcd455f5ac0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/0ac6f2a6c373f5145932aabf675f716741114cf0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "Research1": {
+      "name": "Doing Your Homework",
+      "description": "Complete a research project.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/0f5714473a452d4f7d2f44168c5202fa9b1aa65f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/7610fc21c2c2ee2352113e411f377773fbc4a015.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.7"
+    },
+    "CoasterLength2": {
+      "name": "Don't Stop Me Now",
+      "description": "Build a coaster 1500m long.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/23fe821fb7b258c331c0c9c4a4504c95b088aed6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/4e7c99dcfd97adf98fca332ca30e30afb49db0b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "CoasterSpeed3": {
+      "name": "Faster than Lightning",
+      "description": "Get a coaster up to 200mph.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/a20df53aec26f92f3140ef25b4e1747f6b45a0e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/3a294a28fe6cef787e0db7e557b1dfab6dccf55d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "CoasterAirtime1": {
+      "name": "Hang Time",
+      "description": "Create a coaster with 5 moments of airtime.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/d151ebec796ed0d9574f7448744041c920412fcc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/49f6321ab0feeedf939d4e85ddbce919b8427846.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "StaffTraining": {
+      "name": "Investing in People",
+      "description": "Train a member of staff to the highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/a989f8c181991fa0e9f3bc94b2c3cfe4060f20fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/3f0c9478bbea662dd99b2ff0d1624901ff7e08b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "CoasterDrop2": {
+      "name": "Jaw Dropping",
+      "description": "Create a coaster with a 150m drop.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/988d69f37c7f1aa35097709907a9451839e99959.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/ee45f4687e990ac720435f747476fb3c7e52b57b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "UnlockSet4": {
+      "name": "King Coaster's Royal Decree",
+      "description": "Unlock King Coaster's Royal Decree.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/bd518db93478cb7ffc19fcfdd639c67e4f97cce6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/c311f328d17835ecd133bb729415799ee592cfb4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "Loan1": {
+      "name": "Loan Survivor",
+      "description": "Repay a loan of $20,000.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/39e423cf3193920b220939bac6da3b985e8896ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/743109d61cd8d83ae70ec471cbc4751dd92389a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "Marketing1": {
+      "name": "Marketing Mogul",
+      "description": "Spend $10,000 on marketing in one month.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/ea901166b9c6dfc4d153b5f4c150ba062dc68f1d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/c6413131c779c62f45675df94b4846d23bc9c7ea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "Profit1_v2": {
+      "name": "Money Spinner",
+      "description": "Achieve a monthly profit of $10,000.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/8e9340167178918264bd5472b066e1522ce8b5e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/0e057db1fa0fbd1365874ce40233e2d380fed2b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "UnlockSet2": {
+      "name": "Princess Amelie's Fairy Tale",
+      "description": "Unlock Princess Amelie's Fairy Tale.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/b5900b15e98fa05e6c235bcb597c33440db48f33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/dac3a0b221dc147b544d69037022cf627fa6c0a8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "CompleteChallenges1": {
+      "name": "Rise to the Challenge",
+      "description": "Complete a challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/7328558f62789228f9f7931dd8baf671d6faeb9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/c57af8505bc3814d943dc96ff6cf964cb3653e2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.8"
+    },
+    "OneSilverStar": {
+      "name": "Rising Star",
+      "description": "Gain a silver star in career mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/f078f06512e1133ce2409231dc5b14b88028c261.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/2d39673c34490c82470e89816a51912ce5c55db9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "SaltOnFries": {
+      "name": "Salt on the Senses ",
+      "description": "Add the maximum amount of salt to your fries.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/effbda956a9178894c7b735fea5236198cfad674.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/21eb99de4762506b7a1cb82bdd96ee8eb2be26e8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "CoasterSpeed1": {
+      "name": "Scream if You Want to Go Faster!",
+      "description": "Get a coaster up to 100mph.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/d71aa2f049b231f4164a354a116e1bb7b001acdd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/fcdcdb4467f5496d840a26ec514f86b5a061bd15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "CoasterSpeed2": {
+      "name": "Speed Freak ",
+      "description": "Get a coaster up to 150mph.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/fa674a95234dcda364166f825ef2d8e1720f3824.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/970435158b8f14ad91d5f307aec92d5ab6d9c962.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "AllMainCampaignStars": {
+      "name": "Star Studded Career",
+      "description": "Gain all the stars in career mode!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/4600256c5cd3f9fccc9768899d089016ce1b795d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/5f9296a09bdf5be7e5f0e8cb2c47e54ace38995f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ParkRating1": {
+      "name": "The Ratings Are Through the Roof!",
+      "description": "Achieve a Park Rating of 1000.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/fe62b6057f787a739827964e664a05ddb983c0c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/3e284e6338f9592f54687464d736b7276ba7f3d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "CoasterLength3": {
+      "name": "The Ride of Your Life",
+      "description": "Build a coaster 2500m long.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/4d61346f9452ff18c64c702637ffc78d77d56924.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/ae42864bd2827e073775d42e08b9b9edda302edc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "CreatedAvatar": {
+      "name": "Welcome to Planet Coaster.",
+      "description": "Create your avatar and place them on the globe..",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/10f14bbfa70786d7a48fe04a9937ada981eb6ed3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/7a39e488e0eb71b5566e18c4383e517452189a87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.8"
+    },
+    "RaceWinner": {
+      "name": "You're a winner!",
+      "description": "Win a Go Karts race while driving the kart.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/e2ea40e0fee9c6a2332988ad3d7f44b62da4df6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/77f89dbadbec298a98c9dff0955193300f8ad55e.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "0.7"
+    },
+    "FireStaffMember": {
+      "name": "You're Fired!",
+      "description": "Fire a staff member.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/84cb324ae4f05e8745a4e2322e41486631aa6260.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/493340/e383881c5136e8a219642a5c08e8e93cb8cfa04b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.4"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

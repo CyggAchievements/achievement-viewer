@@ -1,0 +1,1153 @@
+{
+  "appid": "265930",
+  "name": "Goat Simulator",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/header.jpg?t=1728895842",
+  "achievements": {
+    "ACH_CAMEL_DANCERS": {
+      "name": " Camel Cavalry",
+      "description": "Spray the dancers using Humphrey Ciabatta.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/956ad90ea5d2844c4d14c9ce55b0156de45147c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/782b1370b68a4cd44e6a0d6b191272298884fe00.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.6"
+    },
+    "ACH_A_NEW_CHALLENGER": {
+      "name": "A new challenger has appeared",
+      "description": "Clear 25 survival quests in one game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a322b05ebe31322e3ff48c13f873e12bbc3c4572.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/089e1cb95f18332c94341bc4ee6c6a675007a274.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.7"
+    },
+    "ACH_ASAMU_ELEVATOR": {
+      "name": "A Story about my elevator",
+      "description": "Get up on the skyscraper without using the elevator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/745e156be3f301ac0fe2986eaa9e948501fdf652.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7830c2106b5fdd0b9b7767c3afc9e15fa3965001.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "ACH_UNCLEGOAT": {
+      "name": "A story about my goat",
+      "description": "I'm sorry about my goat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ef87aae18e8a29571cbe949cf3dafe19dc9ed0a7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e9055739f1b4dfd2ce0c8bdc6a29b6a90716d77c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.7"
+    },
+    "ACH_RIPPED_GOAT": {
+      "name": "Alexander Goatstafsson",
+      "description": "Win the title bout!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ecda2ee8b6097eb99bf1f3cc17c4dc67569cb2dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a8cda512ec8adb08a927b595788d31d2673da6c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.1"
+    },
+    "ACH_UNNECESSARYJOURNEY": {
+      "name": "An Unnecessary Journey",
+      "description": "Throw the dwarf Bilbo into the lava",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/cb488b72e5ff463ce5f8da2979897a2da14fae0f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/de4fb0bf07a9ca9266bf29de6bc2dea6a0b8a7fb.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.4"
+    },
+    "ACH_ANGELGOAT": {
+      "name": "Angel Goat",
+      "description": "Do no evil.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/761d4d1b6ac541b840a5a7cd619d637ae7076a72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/809b5fde0822ebdd98b7369f271799308c7a7db2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "ACH_ALLTRAMPOLINES": {
+      "name": "Around the World on 5 Trampolines",
+      "description": "Visit 5 trampolines in one jump, bouncing on each trampoline once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0c8a3526b08111b810c8bcbffb4cd7b026a99e2f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c1aaf60641f68bb4ec1b52142c6be674be0dce85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ACH_BACON_MARAUDER": {
+      "name": "Bacon marauder",
+      "description": "Shoot down 30 police ships.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d15da2e4f717e6480d81dbb496d376d9f4186eb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/9a90b13535297e20071f4d375a6b480061e08585.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.4"
+    },
+    "ACH_NOT_AFRIGHT": {
+      "name": "Be not afreight",
+      "description": "Destroy all freighters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d2e6f46c0843438641903979fe9c4485dea0e4a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/87388887afd20219e877c03db87794593bf7a80d.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.4"
+    },
+    "ACH_LEVEL_101": {
+      "name": "Better than Warlords of Dredmor",
+      "description": "Reach level 101",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/9e861e5251dedb4b7886a2ddb69d6020a6102d1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5717223b9b4daee30ea98bcd3443ade9451a5469.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.4"
+    },
+    "ACH_BFF": {
+      "name": "BFF",
+      "description": "Lick a friend",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/058c14c2f53f7db3f55b9468c807dad84ad24584.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/22f92231b00c3ba21677585a4a144868df17bae4.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.1"
+    },
+    "ACH_BIG_IN_JAPAN": {
+      "name": "Big in japan",
+      "description": "Beat the whiplash course without getting wet",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/96d2d3dedecdca228466d504f033b57537657c7d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d08a65ddf55bf433ccd39a1bda80edcffa30cba0.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.9"
+    },
+    "ACH_BOATRIDE": {
+      "name": "Boat ride",
+      "description": "Enjoy your trip",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/eb4adaecf95edd19c671d1041abc4d04982d6e15.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6220e0901ac46c412349edab6bfa88ac5ee44876.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "10.2"
+    },
+    "ACH_BOULDER_OF_DEATH": {
+      "name": "Boulder of Death",
+      "description": "Hit the party with the Boulder of Death.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fc8f73a7ba7231905e682feba0e08b5c8b6f2b07.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/3a19f2cf06a857af23925a7289200c91ce0f3f9b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.9"
+    },
+    "ACH_HYDRAULIC_CARS": {
+      "name": "Bounce it!",
+      "description": "Enable the hydraulic cars.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/3c5d657e61947e85e9f69d85de1ddfa29ced08ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/914872eeef354df264253be88af2c628094570a7.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.9"
+    },
+    "ACH_BUILDER_GOAT": {
+      "name": "Builder Goat",
+      "description": "Find all the blocks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/57d0ebf43890bec27c28aa865a796f075595f3f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fc6ec18e2a63186a7cd4b558c28c04cafbea4d04.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACH_BUTTSLAM": {
+      "name": "Butthurt",
+      "description": "Do a lot of hurt. With your butt.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a7a815716d601c50a9f100eefb333674519d748e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0a8a2fac43bfb8fb3e6a42b9518de2cd11e68e22.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "20.1"
+    },
+    "ACH_CAPTAIN_INDUSTRY": {
+      "name": "Captain industry",
+      "description": "Mine 10 pieces of channitatium.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6510e531a639a944778322cf62bd22b41e7bec70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0f81d9da32c75fe3ecfd5dd28c3375db10e4bc4f.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.7"
+    },
+    "ACH_NPC_TREADMILL": {
+      "name": "Cardio kills your gains",
+      "description": "Drag a person into the treadmill with your tongue.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4efc9e28f6fda087812eacea72418f31b4cfe815.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/911e8392bfeae2d2428330124b091e309d6add28.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "ACH_SUGAR_LORD": {
+      "name": "Columbian Sugar Lord",
+      "description": "Ride the boat while on a sugar rush",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6aa0fc859d429d82a2f0fe7423f32952cbdb2e2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/94b727548f2772684adc58ca90d760aad8fbcd0e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACH_NPC_TRAIN": {
+      "name": "Dastardly",
+      "description": "Place a Hogtied NPC on the train tracks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/8e8686b59a630e108acde398f51c6079931b29f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7598b3f06bdf6eb2d3f1e255e25750a358d1cb67.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.6"
+    },
+    "ACH_DEMOGOAT": {
+      "name": "Demogoat",
+      "description": "Have 10 gas cannisters explode at the same time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/beab844383325453b8bfcc70eeb596976d104dd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/db2b16044038ec8be4adc0d8004005127ad4ab01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACH_DEVILGOAT": {
+      "name": "Devil Goat",
+      "description": "We are each our own devil, and we make this world our hell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/8a7687d29568c8f829b289d0790a4daa9745732a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f1998affd0159f1e98c82d2568c862e9def9a0ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ACH_REPULSIVE_GOAT": {
+      "name": "Disgusting",
+      "description": "Why did you step in that? Yuck",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6ad50655da6aef521cd8097527bf31480cc6055a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/9df98aabf208aee1486f2294fc3e8a7ba341581c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "ACH_DODGE_THIS": {
+      "name": "Dodge This",
+      "description": "Make sure the Hillbilly never drives again.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2cb6ca09634fb0764a6df7aec0e45062f5738f16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/9313fc35dd0adb5550fabd3e803162f1c544a6a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "ACH_HITCHHIKER": {
+      "name": "Don't Panic",
+      "description": "srsly",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/16f91691a7b9c6c0cb718ad198e4e67a674ced62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/dce8ff30928c98d7c9d4c796be36c36cf88794ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACH_NOSTARVE": {
+      "name": "Don't starve",
+      "description": "Eat 50 food items in one game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/9212b8b7a007c1c6c4a0fbbfd5916e9491947806.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/61666ab4fa7d7b17787def633e9fb2629774dd2e.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.9"
+    },
+    "ACH_ELFSTREETBOYS": {
+      "name": "Elfstreet Boys",
+      "description": "Baa with the choir",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/72a8bb914c42412599bb7f376c012aa158bbf4ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4d52913b0b2a9dd5e35e690f0c3db208f9146399.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.8"
+    },
+    "ACH_EXCALIGOAT": {
+      "name": "ExcaliGoat",
+      "description": "Unlock the ExcaliGoat mutator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/00885e4b2c2cf67a3aac729df8e3570fc2d6ad89.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f19ab8c59f9c8bf1f62819ee696ce1c32a31ba29.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.2"
+    },
+    "ACH_CABLE_TIE": {
+      "name": "Fifty Shades of NPC",
+      "description": "Hogtie 50 NPCs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/bd9d3bad1cf2e7e03f35675749ff2a7f3a5dfb0b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4528a6eb7c286564dfd20407f9d52267dad44ebc.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.6"
+    },
+    "ACH_FINALLY": {
+      "name": "FINALLY",
+      "description": "Become the master of the goat tower.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/baeac1703ddc0a180e8db99f444217220b54fd8a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f5b62599d60956a10abf7e5194fad56dff7f8c37.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.9"
+    },
+    "ACH_KICK_BACKFLIP": {
+      "name": "Flip-Kick",
+      "description": "Kick something in the air while doing a backflip",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/400e09e87ad1ad15c51d714f0fd688f03665c2d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/cf367a7592550ba8d3afb66a4eaf8f4d61572490.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACH_FUND_THIS": {
+      "name": "Fund this!",
+      "description": "Headbutt Lawrence S.Windler in his lair.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/169a5991b70d00159fcad56af1c38faacb903155.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/8b5c10a86434ff419eb71c26cd0da2e27055b83d.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "2.2"
+    },
+    "ACH_BAAHLIONAIRE": {
+      "name": "Gather $1000000",
+      "description": "I wanna be a baahlionaire.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e63598e61537a240b3b6630cca02437f4288afb0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/31ab05187e60b6236176a77eb69ba08fb802d7f7.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.8"
+    },
+    "ACH_BULLETDIVE": {
+      "name": "Goat from above",
+      "description": "Hit 5 zombies in one bullet dive",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/32fa58b10ccc50623a13d2e56c58779f2c8a2cc8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1b71b7c27f07315217c8ea2d75916ad9d4e68ca4.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.9"
+    },
+    "ACH_GOAT_OF_THE_HILL": {
+      "name": "Goat of the hill",
+      "description": "Everything the light touches is your kingdom.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/3eb454e134028c802ff72f5d0d014e505de79dde.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6e073af48ee120f8b3988132fea5a9f59212b4aa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "ACH_GOAT_QUEEN": {
+      "name": "Goat Queen",
+      "description": "Become the Queen of Goat Ville",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a45beb00bcb2c794a536c7a09d17ff538048d986.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f2c4ece09046b1dcf56a28b8060886788beb9148.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.0"
+    },
+    "ACH_GTA": {
+      "name": "Goat Theft Auto",
+      "description": "Headbutt someone out of their car, then run them over!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ac2fa2de94b92a7235e22c51a4fcfa8155b81796.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ae8c9e197e541a8504e88f0d31153bbb5b64e1b6.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "2.0"
+    },
+    "ACH_GOAT_BUILT": {
+      "name": "GoatBuilt",
+      "description": "Get on top of the Parkour obstacle course",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ef89e74f421274ebdbe5f3986cec3fec8c8cf91a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2816f573618b7e7f838bfdd2d244876bffa23387.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ACH_CREW_BIO": {
+      "name": "Goatfellas",
+      "description": "Gather the crew for some drive-in movies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0b7b91af3624d30746e04d76111dc9a92dc9c627.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7bf799e4393bd2b0443802d6da877a5064fe5884.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.7"
+    },
+    "ACH_CREW_LICK": {
+      "name": "Goatipede",
+      "description": "Lick all crew members together to form a Goatipede.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/b6b76984326b40ddff732d43a1c533094a2245bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/381e4e253a5fd84d6326f458218250c63e996817.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.8"
+    },
+    "ACH_DEADGOA7": {
+      "name": "Goats 'n' Stuff",
+      "description": "Hold your own concert",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ac933b6f29e8a27751de6af160c3199dc590e8e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d46e9d9f4ef42619ea3f16fd63a072784d9bdfef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "ACH_GOATA_GET_EM_ALL": {
+      "name": "Goatta catch 'em all!",
+      "description": "How do you catch goats?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/059074efb55c28dd429ce18e233502a458b09ee6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/b4670ea877efeb99905e5f4964226cbf5e8366f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACH_GRAVITYGOAT": {
+      "name": "Gravity Goat",
+      "description": "Unlock the gravity goat mutator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/648fc72ae5e133db2bf1a9686179a1335e86bcfa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/56fa0a0d11811456a664a2570e991c3635d8c165.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.8"
+    },
+    "ACH_PARACHUTE": {
+      "name": "Hang tight",
+      "description": "Paraglide in the air for 1 minute",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e96a41629c752287ffaed9cb9c21399ca2f1b248.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5353b824be99251b544bdeaf0cf8e390d8ff0bcf.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "2.3"
+    },
+    "ACH_HAT_SIMULATOR": {
+      "name": "Hat Simulator",
+      "description": "Buy all hats",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/277f583feb16dd022db92a8c773c7e5e107eff87.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5882931aa9a29114d75bf2e01bc62beab5013b00.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ACH_JOHNNY": {
+      "name": "Here's Johnny!",
+      "description": "Wield an axe with your tongue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/96256c05ca3030c4c1bab7e2b2eb1b86b3e6909e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0bdfccd0ad7711b871d1625677da18f60bf421ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "ACH_ALL_COLLECTIBLES_ZOMBIE": {
+      "name": "Hoarder",
+      "description": "Find all the trophies in GoatZ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/81bb9cd85fe377d190d69566e00d88b07f6359b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4795997c3089050bff6ce23b818051dcab21bebd.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.7"
+    },
+    "ACH_I_AM_BREAD": {
+      "name": "I am Bread",
+      "description": "Are you bread?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fc5d223714f7fce75fba6f4ad985b19702fd5288.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f59b24f857a5b69ac31a21d33cd8cd7561ed7f93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ACH_I_AM_GOAT": {
+      "name": "I Am Goat",
+      "description": "Play GoatSimSim for 5 minutes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6496f7e16198c0e7d158ad077bb2038a93c16656.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c6f60912ce7f86afbcaa040b058c478f10d53f62.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.8"
+    },
+    "ACH_TEN_FLIPS": {
+      "name": "I can't believe that worked",
+      "description": "Do 10 front flips in one trick.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/44da1c5258c50d36a21bdbd18edba57b51b998cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c7dbb67bdb32e9cbb39023ab4f5bdf8b8f63af93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "ACH_ALL_COLLECTIBLES_LEVEL_2": {
+      "name": "I freaking love goats",
+      "description": "Find all the trophies in Goat City Bay.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ce1928aec8beb731ac03bbd8d7ffc76b8f647702.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/306f724c4be20768d8df4119dd4a4a2985f4d6c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ACH_CRASH": {
+      "name": "Involuntary QA",
+      "description": "Ooops, the game seems to have crashed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5e618c0c36a419452b9cfe20c3a28fdb61abb6de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7d2468609dd80ef41c05d138ccb3461aa4bd6bc0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ACH_ROLLER_COASTER": {
+      "name": "Is that a goat?",
+      "description": "Lick the rollercoaster with 6 batteries attached",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2fecbe5b14b1b23476e895de531b637a9ec60ede.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c555ab6e0c274fed3de19dc50624a1a8124cc470.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACH_ITS_WORKING": {
+      "name": "It's working... IT'S WORKING!",
+      "description": "Run wild with the podracer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/b62bed0f9fa933ff3eae62edb6a9ec3062c3bf5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1f7801d0d8b2ce22415b0e6ad909c392c995e4f3.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "2.9"
+    },
+    "ACH_ISLAND_IN_THE_AIR": {
+      "name": "Itsamee!",
+      "description": "Use a cannon to travel to the Island in the Sky.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c7ac0cdc58f54d6c69cef29e2062112212589925.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/df50873d360d56bd263bdf7e519ed36089d81f20.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "2.2"
+    },
+    "ACH_BEAR": {
+      "name": "Jörgen",
+      "description": "Jörgen.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7f2debb57e356600240ad84a3538f73a184b0ce6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/000a4a686b7a06e97107d102bdcae4d3a79c088e.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "7.2"
+    },
+    "ACH_JOUST": {
+      "name": "Jousting Goat",
+      "description": "Unlock the jousting mutator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2890d7901418667dd1d2ac3f8a1fba1ec4cc89d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/736d122eb94d4f6ac7ca124010d2b373711ca2c3.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "16.2"
+    },
+    "ACH_TO_THE_MOON": {
+      "name": "Le Voyage Dans la Lune.",
+      "description": "A Trip to the Moon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/72513d283d58319728e35201237177c51c8c0e1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/910a1de77ef96ec2132f96ea42ade3bf75796c3a.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "2.5"
+    },
+    "ACH_TURDLE": {
+      "name": "Ling Ling into battle go",
+      "description": "Fight the turtles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e51747ec9e5cf9a1f39cbc07588e3dd534a9539d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e7057073dd668b07537abad8e637a32bc6586343.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.2"
+    },
+    "ACH_WALKER_S2": {
+      "name": "LOEK master",
+      "description": "Find the Sanctum 2 Walker Statue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ab936c5792221f531eb7c8da3512055a1005141f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0cc81436153493b131ed202dfede84df216e77ff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.7"
+    },
+    "ACH_LOOKATIT": {
+      "name": "Look at it go!",
+      "description": "Hit 4 at once with a voodoo bomb",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5fb12a9e4ed9ed20399a64188ac1adb528c6baf5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/37f29dc6bcadb2247724532f6f614aa992939df0.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "2.3"
+    },
+    "ACH_ALL_COLLECTIBLES_MMO": {
+      "name": "Love or Hate?",
+      "description": "Find all the trophies on the MMO Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/73489383981e1244b42166f1e4bfa9f4fe5d7b13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4794b44c672a3bc207be7fc57130526f7975a924.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.1"
+    },
+    "ACH_WITCHBURN": {
+      "name": "Malleus Maleficarum",
+      "description": "Burn them!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fe78f7c43e8921b1b7f29fd730b91f3db77befb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5d03866e2d9816a7af9e4a5d6dc424d09ef3b9d9.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "11.6"
+    },
+    "ACH_MASTER_CHEF": {
+      "name": "Masterchef",
+      "description": "Make the stew taste as good as HUMANLY possible",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/022504f9d287cb72d1cbcbbb36e220d7f3a0764f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2f3cd359a2012984215926d1ed2f881241daba37.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "2.8"
+    },
+    "ACH_MATTRESS_MADNESS": {
+      "name": "Mattress Madness",
+      "description": "Bounce 100 times on mattresses within 30 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/76022987fa3525c16dfaee1aa22b0381ce6568ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ca5b65ae4a397805ef0cbd9a8454eb325226f14d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACH_MAX_MLG": {
+      "name": "Maximum MLG Big Plays",
+      "description": "Knock a bucket into a person",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6cdc01ae601f026e4d1a7ddb1319ee3ffb51a02e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/79deee42411875647983aa04476b47cfda40279e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "ACH_MERMAID": {
+      "name": "Mermaid Goat",
+      "description": "Unlock the mermaid mutator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f3f20061d1a8bd4f6b600f09cb7e0cfe41cb13f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/455d66b1ed6b30471f2a6865776c060193d78427.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "5.1"
+    },
+    "ACH_MILE_HIGH_CLUB": {
+      "name": "Mile High Club",
+      "description": "Lick the Hanging Glider.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/89f0f21cfcfa0008016a10b26fdb3bcaf65a522d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ba9b4b38f44eac75f0d7f274d7c4367f8774e5e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "ACH_MINER_INCONVENIENCE": {
+      "name": "Miner inconvenience",
+      "description": "Destroy 100 asteroids.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e087c8d96c529985fd2a144a500c58bea058fa35.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d2308376ea9b47b2c9e5047bdbd65eb0c781345f.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.3"
+    },
+    "ACH_GOATPAD": {
+      "name": "Music Non Stop",
+      "description": "Jump on the launchpad",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fbbefd5845c0a447928416a4bc4a053109d38269.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fd24d600a6fec00febd573b501bf1c575d16903a.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.3"
+    },
+    "ACH_MY_LITTLE_BRONY": {
+      "name": "My little brony",
+      "description": "Find all the pony horses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/09f55609e1fd494e4cd26c9bd183f56b4fa60a9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1599da9ad5e29f785fd775ad5bc707d7c1c290ff.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.6"
+    },
+    "ACH_NECKBEARD": {
+      "name": "Neckbeard",
+      "description": "Smell and look like one",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/00b79684bf6e37d233b4e611703851600851fff0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/250778789fe8e476149b22ef50b4c016a3a89667.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACH_NERD": {
+      "name": "NERD!",
+      "description": "Find all trophies in Space.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1e85cb6a3fab8135a8f2e1bbc608406b32da4a9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ccef32040a88d8103add948cbb61882c0cd22c55.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.4"
+    },
+    "ACH_TRAPAGAIN": {
+      "name": "Not again...",
+      "description": "Get deviously trapped again",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/48c25c729e02fa8995d1a2837361ae755778d69d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2be7db3f5953b1977d081f8a83727fc79fbed0c1.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "5.6"
+    },
+    "ACH_OLDGOAT": {
+      "name": "Old Goat",
+      "description": "OMG IS THAT WHAT I THINK IT IS?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/68bbf1932018131f164ee239b67ed10484c47494.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4b32169a50f2a9419446eab4d60a0031ef1da078.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "8.0"
+    },
+    "ACH_ONE_BALL": {
+      "name": "One Ball",
+      "description": "Ride a bike for 60 sec",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/73be43bd174455d6aafe106730db6605eef1a391.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/53389553c8b89f6865f81bac5a1f2333cb0451e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_INFLATEKNEE": {
+      "name": "One man, two shots and a religion",
+      "description": "Inflate that guy's knee",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/14eb6d0035e826bdeee5d9658e37269c1cf61602.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/087a7a149a3130fc99ca72ae3fd015757219cc9d.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "8.1"
+    },
+    "ACH_WALKER_S1": {
+      "name": "Pedestrian",
+      "description": "Find the Sanctum 1 Walker Statue",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7e713e027e2001cd7379ec532ce29a71b49de94e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0416d30c2a06fe9e17c3fe4bc0fb269572b11d3e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.5"
+    },
+    "ACH_MASKS": {
+      "name": "Plentiful masquerade",
+      "description": "Wear 30 masks at once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/50d6cab3a196ea97638e54a5c3bb44ecd1c71b66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/183d93f1d2cc287798f3bc5029091d867db9eb55.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.6"
+    },
+    "ACH_POWERHOOF": {
+      "name": "Powerhoof SMASH",
+      "description": "Kick a person into a car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/53521e9b49cb9703ef45bad12159204ba490226d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/9014f44dee08bec65d7bdee6aba41c3fa79ee96b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "ACH_GRILL_PREP": {
+      "name": "Ready for the grill",
+      "description": "Wrap a garl'eek in tinfoil.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/01ff51a88a0c02d4ad16a04a9b94d3886ffaf7fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c8392d3606fcd1c9227fb21e81adeaacdcafd351.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.5"
+    },
+    "ACH_ALL_PRANKS": {
+      "name": "Retirement",
+      "description": "Just finish that one LAST job.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e7b7ca986bd135dcfce0590b7d4e898706cd5701.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2f74703ca1c0f0676b9fb10e430d6bef36ef6658.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "2.7"
+    },
+    "ACH_BOOST_FLYING": {
+      "name": "Rocket League",
+      "description": "Show off your vehicle air control skills in the desert.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a098f12a8b1ab7dca09bf15268ee881a57805377.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1dcf808e9ea08e96daf664cb7934f596f131f3ac.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.8"
+    },
+    "ACH_RULER_OF_SKIES": {
+      "name": "Ruler of the seven skies",
+      "description": "Blow up all pirate ships.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6143a21eecef40e53c9085acbd396155fd13e9e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/bfc2ce8cd89d900a52e18488390926116f7983a6.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.4"
+    },
+    "ACH_RYMDSKEPP": {
+      "name": "Rymdskepp i Rymden",
+      "description": "Travel to space!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/448085e1f388006e266ed5bb3732b54c95c95549.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/561448ced11f95240817034f2c8ed5b0090d3862.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "ACH_ALL_MMO_ZONES": {
+      "name": "Sällskapsresan",
+      "description": "Visit all zones on the MMO level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ed36d40533b2d2019934301b780e658bf2b1eae2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/cb72f6ca862e0c361ee68e74d5388d1f7a89ed3a.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "5.1"
+    },
+    "ACH_SHATTER": {
+      "name": "Shattered dreams",
+      "description": "Crystallize and break 30 zombies in one game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d597d61b5b8532f703d29ef53dfb29bcde19b614.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/54bf3178bf01b357bc9cb2a2d3e4b058ed0dcc14.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.7"
+    },
+    "ACH_SPEND_TO_MAKE": {
+      "name": "Spend money to make money",
+      "description": "Put a money crate in the mining shredder.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ed6fa3c36e178dc6e4b931ae26ad8e3bc4d4418e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d836862b25c6de679c5550c23c88f3945bb5895c.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.6"
+    },
+    "ACH_SPLISH_SPLASH": {
+      "name": "splishy splashy wibbly wobbly timey wimey",
+      "description": "Visit the badehaus.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7ed506ddfa66a7aea8a73d4f3fecf1a68ced128d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/50945db61fb4f5202e894be21a50b067a3de930a.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.6"
+    },
+    "ACH_GOATFALL": {
+      "name": "Stand by for Goatfall",
+      "description": "Finish all wallrun quest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2f030350ce9302bdfd5ecd3557eb0e88836d6cd0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/eabfdc39d2307cb79ccfdd3e787deb50ab2202ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.0"
+    },
+    "ACH_MAGICIAN": {
+      "name": "Steal the show",
+      "description": "Do a card trick at the magician",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/7b5d05baa8a12aa763385b18bad64915b01861bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4aae146b36d93f9ea1a5bec0a2962f62be4a0d62.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.2"
+    },
+    "ACH_DIG": {
+      "name": "SteamWorld Goat",
+      "description": "Get to a depth of 200 in SteamWorld Goat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/82abc40f8e1d7dcbb9605924f7beae588114d9a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/b41b75688edc5e1790624f5efa57a7dfd714c5c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACH_STEVES_QUEST": {
+      "name": "Steve's Quest",
+      "description": "Give Steve Works the apples",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/0abd616a7b83ce7f086d33ccd35b3cb60ca8152d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/b4821c7df181605b6bc659d8c13fb3d5241898fe.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "18.8"
+    },
+    "ACH_IMPRISON_POLICE": {
+      "name": "Suppress the Suppressor",
+      "description": "Throw 5 police officers into prison.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ef0e8c2fe6489781c798c001f0bd206676a945b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/788a366bd8ec410686b3ff55595c40b40fd22e51.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.8"
+    },
+    "ACH_CRAFTALL": {
+      "name": "Survivalist",
+      "description": "Craft all items in one game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/dee18d34666409029fb6b7162c141c43ad975e32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4043feea1a22fc7e2bd7bd133482c04c8855af7d.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.6"
+    },
+    "ACH_SURVIVELIFE": {
+      "name": "Survive for your life",
+      "description": "Survive 10 days",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4f938b542ebd80961b23c0f6e207bb1053c052e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5accdee095513cd9e149749996b1635db31664be.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "2.2"
+    },
+    "ACH_SWEET_COLLECTION": {
+      "name": "Sweet collection!",
+      "description": "Find 10 trophies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ab2fb98763c971e6efd951e181d6573de9b5c88c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f8b718b5d01b3a4f8970128a0ed9e82421abe5b7.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.8"
+    },
+    "ACH_TESTAHOLIC": {
+      "name": "Testaholic",
+      "description": "Complete test chambers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/683acca9b7283f7ca01f8a025f61301b454d075f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/aaf6e89baca260f95c678e57acdc7e7346df4e64.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.9"
+    },
+    "ACH_FEDORABLE": {
+      "name": "That's Fedorable",
+      "description": "Wear 30 things as a hat at the same time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c787a2630f7f21dcfe5801f4b639c53b84bf789f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4ec01f5a0be498ec9cb4bc978f0c556f7d0dfede.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.4"
+    },
+    "ACH_ALL_COLLECTIBLE_HEIST": {
+      "name": "The Big Score",
+      "description": "Find all the trophies on the Payday Level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/55139a0bc44060be0513d0d91bda85f2a2938079.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f7c1db3914aadcf1c0673d9c9d8afcadd98306e6.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.9"
+    },
+    "ACH_CHARM_COW": {
+      "name": "The Cow Whisperer",
+      "description": "Charm a cow using Valentino Salami.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/69a3c728f0c88c326c42c7c9cb27112ace98d052.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4cc9a850086561f3104d4de20acd10600f668b00.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "2.6"
+    },
+    "ACH_FLAPPY_GOAT_TEN": {
+      "name": "The Flapmaster",
+      "description": "Score 10 points in Flappy Goat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2e180cfc8575db2cc3bd0d2d13771619b72bc386.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/09c900192bfb64fe7f3b7a17cc1d92785c3b2193.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ACH_CRAFTALLWEAPONS": {
+      "name": "The goa'th amendment",
+      "description": "Craft all the weapons in one game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/508f03db90b423eea63ac6c3b942e9d8484a7150.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/9b114deec5e8c9a16be4a54b59c5f5736a00ffb4.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "5.7"
+    },
+    "ACH_TROLL_GEISER": {
+      "name": "The Icelandic Experience",
+      "description": "It never erupts when you want it to.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/8774a51e66bccaa6a3473b91a5a96201e36555a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/d22f9213042f27401280bf98a300ecdd38f1d0fe.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.9"
+    },
+    "ACH_MAGE_FAVO": {
+      "name": "The mage's favourite",
+      "description": "Burn people from afar",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e1dbc99a952d20f0befb33717aff9a24f6336c9f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/63eb273538f8f76daf1caf7c6a3d663d0932db60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ACH_PUKE_MACHINE": {
+      "name": "The puke machine",
+      "description": "Complete centrifuge event.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/13ccc96657397b46d1ee710195bbde269691331b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a9e159f5a899e8da8fa95a395bd56b3c4a3496de.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "2.7"
+    },
+    "ACH_TORNADO_GOAT": {
+      "name": "The Savage",
+      "description": "Paint with all the colors of the wind",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/cab787c431f8a21f32f43bb612685f8ffa634e2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/3d8c4c3a41c21ac32bbb236d46daf5b840743683.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ACH_PAN_FLUTE": {
+      "name": "The Song of my People",
+      "description": "Listen to the whole pan flute song.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/58529302bcd96a9a3bd2fac88decef6513f6670e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/f650d7a8ff8bc5f44ff501d20bcb79495e795461.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.7"
+    },
+    "ACH_CANVAS_WORLD": {
+      "name": "The world is your canvas",
+      "description": "Tag 10 walls.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/6bb809a71dc193058c10a05d83bd5c128020a765.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e288532f4036c4e66b824c92ef13bc5b0fed71a1.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.7"
+    },
+    "ACH_TONYGOAT": {
+      "name": "Tony Goat",
+      "description": "Finish all manual quests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/24e2ce408eb76a4759f7e522552206096f8612ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/2e5640b181106abe31ace6c35a2d047e78875068.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "ACH_MINIGUN": {
+      "name": "Too much fun",
+      "description": "Kill 7 zombies with one minifun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fd700b23eb886a153dfe944c237576a9a8910604.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/45f0a5c7170cb9e6c2f25062f4777808ce386979.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "3.3"
+    },
+    "ACH_ALL_COLLECTIBLES": {
+      "name": "Try Hard",
+      "description": "Find all the trophies in Goat Ville!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/459340c31af41f247d71948b6eb7169e248e9358.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/59029b2aa58117b2271145c7fc62b04bd4d2d68d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACH_SANCTUMSACRIFICE": {
+      "name": "Trying to bring forth Sanctum 3?",
+      "description": "Sacrifice the 3 Sanctum items.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/72cf99837dee360af57c01ed2660498be9175b97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/99b360628ca88e2e2fd4e360a26e3f256541434c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACH_JEDI_SITH": {
+      "name": "Use the sword, goat",
+      "description": "Pickup a photon sword as father or good goat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fa580c983542c888fb7a7265e4a06274dc7d3efb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/42af158fd23b2c735b3dc0ae719c291adb34ed85.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.7"
+    },
+    "ACH_VALKYRIE": {
+      "name": "Valkyrie",
+      "description": "Go on the catapult with a rider on your back",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ae96ed9793e5c2cc14870e3653405d7c1a6a9ab6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/fc6f6c740accbe17cd7d10e74a33b6eba42a5511.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACH_JACKPOT": {
+      "name": "Vegas, baby!",
+      "description": "Hit The jackpot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ef1d557140798f40033667196d27b77778072466.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/e787500153e83a8fea713adb3cc65f84f4dc6c90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ACH_VOLUNTARYQA": {
+      "name": "Voluntary  QA",
+      "description": "Trash the server room",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/53cf35e4d0e452f9dc1d2a2855c737f7aeb829a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/4f0d768c6b0dc36c316d942626e85be688c2e94d.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.3"
+    },
+    "ACH_WARM_BATH": {
+      "name": "Warm bath",
+      "description": "Use the slippery slide to land in the kiddie pool",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a787cd9a24877e8be888e5564b2dc09f050c4eae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/033b247b7dc1999144129551a60034f661019fdc.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "1.8"
+    },
+    "ACH_ALIEN_OR_EGG": {
+      "name": "What came first? The alien or the egg?",
+      "description": "Headbutt all alien eggs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/59389ef11abbfadabe5d6a44da4049bd92c25aa5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/ec06ad5bffa92047e77e31507b7c96476df78fab.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.5"
+    },
+    "ACH_GOATHENGE": {
+      "name": "What is its purpose?",
+      "description": "Thrash the Goathenge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5a93b6a0b4dcaac4beb6fd5d350f3090ec33a3ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/259c7fa00bc00cafbdbe7d458ee1e5b21c1e4120.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.1"
+    },
+    "ACH_BLACKJACK": {
+      "name": "What’s the count?",
+      "description": "Win 3 hands at a Blackjack table.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1d875ce016a0534e9208f9d735b623b3dd685e8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/c6bfd15f0e378708a9699089566cff9de9b8a831.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.8"
+    },
+    "ACH_WHEELGOAT": {
+      "name": "Wheel Goat",
+      "description": "Unlock the wheel of time mutator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/aa4537da5aaa2508eb2ce2f75d4c2c911c50c39d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1571b644323c73ccaa6ba95555d45e19eeab47fc.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.8"
+    },
+    "ACH_LIMITED_EDITION": {
+      "name": "Wow is that a limited edition?",
+      "description": "Find 20 trophies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/1ff8a382a2f148102adff435861278f554fdd7f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/a025d8fbb26d2a604b4034d649442367a06bce6b.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: Waste of Space",
+      "percent": "1.5"
+    },
+    "ACH_DOLPH_LIFT": {
+      "name": "You raise me up!",
+      "description": "Use Dolph Spaghetti to lift a crewmember on top of the tallest building.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/73a3a9b4a198a16102bf40535d7e95891ed7e69a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/b76546f53804e7f02883f89683da55981b0ca82b.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: PAYDAY",
+      "percent": "1.6"
+    },
+    "ACH_KILLZOMBIES": {
+      "name": "Zombie slayer",
+      "description": "Kill 20 zombies in one game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/657eb6c6696d64fc9f1f3cbb56211223bf2a98a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/265930/5403981d8e097356eac192aaca412d845b1cc9b3.jpg",
+      "hidden": false,
+      "group": "Goat Simulator: GoatZ",
+      "percent": "2.9"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/16b824b59c0598449b57c37a50ee05e5bc73fe48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/be23e79f36ff277bc672a3b7f82e88922ce61e3d.jpg",
       "hidden": false,
-      "percent": "22.9"
+      "group": "Base Game",
+      "percent": "22.8"
     },
     "COLLECT_500_GOLD": {
       "name": "A Piglin's Best Friend",
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/774ff0821b7bf18583d7c5b6b6dc5b4267675ada.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9984fdc425d697da05b58d3380bd06b77431c5bd.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.9"
     },
     "UPDRAFT_WINDCALLERS_3": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/c66cfb11322f8514c6d15eb01a20efbf51b9a578.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/998d9611342989f1ead07721a4efceb86c0938ef.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Howling Peaks",
       "percent": "1.5"
     },
     "SUMMON_15_BEES_AT_ONCE": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/5f8409a30cd99bf0b08d586f5ef509dfde49ce80.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/933d4db834503512c7468757b2ca8bcb313764c4.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "2.2"
     },
     "DEFEAT_JUNGLE_ABOMINATION_ADVENTURE": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/d42ee3fef018b19a6df4eb31e420884f56d8e22f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/184f237a5fcf2902f7e53ee2d5406f918c8d43e3.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Jungle Awakens",
       "percent": "8.1"
     },
     "SPINWHEEL_70": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b87fce82363ec9897d6f4d5215f7355e228dee78.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/5907fcb5d881be67dab62fb93e6c31b088f6dbd6.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Flames of the Nether",
       "percent": "1.4"
     },
     "COMPLETE_LOWER_TEMPLE_APOC_PLUS_WITH_DESERT_RABBIT": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/38b302ab82e1f9e02a8ec92f2dfe8ef394a3ff9f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/fc7105ab03bcb6397596525c1f5390668518b616.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "1.0"
     },
     "KILL_100_TOWER_GUARDS": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/32c49e752ab184776849581e00ff26e5ff12a13c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/183484c3b63c8577e1122256274b471f6a73c36b.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "0.8"
     },
     "DEFEAT_ANCIENT_15": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/4a333f03ddf8fda954669cc42a61d27ab79ded8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/15f9c08f440a4e213b28bbfa05f8ecf61d83f0fd.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "LVL_25": {
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1470a54946c4d655d3b6609d54af462f355c4445.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/91049a27220fba9e2026ae7ffe83d85ca2b4f881.jpg",
       "hidden": false,
-      "percent": "53.8"
+      "group": "Base Game",
+      "percent": "53.9"
     },
     "SURVIVE_AFFLICTED_BY_VOIDED_X999": {
       "name": "Avoidable",
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/aea480b33ec59c54b2555296d464b7425092ce7d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/644c17e3a8ff3dd4e950c35e964273b9d31761ba.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "1.3"
     },
     "WILDFIRES_10": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/541d4f1737f7b1da6b5e9003a4ce91739d436fd1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/13de638653201961080355adb74eb8bfd95917fe.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "4.8"
     },
     "HYPERMISSIONS_4": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a570f7afde3ed46876384787f119b17e920d48b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/2b82c1d9eb73793ba14d02e674db093de7cbea18.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "0.9"
     },
     "RAID_CAPTAIN_10": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/52ae2b8c9c5d9886218f9b4483dd31a3f7382463.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/60aea4dade170b2d4db6b41286a68199137b069d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.4"
     },
     "TNT_KILL_10": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/c9e0a6dea10d0f2b3790adc7dd0033da34646280.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9425d055278126d3624a8411942dc83f88537bea.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "42.8"
     },
     "KILL_50_ENCHANTED": {
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b46561157372ce199e7e7ad7fa80303448170805.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/226196bb8cf634bcf0f96b30a91d42370bf9f253.jpg",
       "hidden": false,
-      "percent": "52.6"
+      "group": "Base Game",
+      "percent": "52.7"
     },
     "BUBBLE_BOW": {
       "name": "Bubble Trouble",
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/76ec4bc83c86c349c832f894a1253121fe22790f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/73233dc9c6d900c4e826814c2c33f3c42c2bb701.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "4.4"
     },
     "COMPLETE_LEVEL_GROUP2": {
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/16ce50748f2bd2b715a2e0fa6246d9ba579ff969.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/e4a4ba36ce6eaf7bb1da05aed800eeca85ce2269.jpg",
       "hidden": false,
-      "percent": "62.6"
+      "group": "Base Game",
+      "percent": "62.7"
     },
     "BURNING_BREW_DEFEAT_MOB_WITH_FIRE_ENCHANTMENT": {
       "name": "Burning Up",
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/cb9a69fa2e79d11395c18deb6bdda509fb82f2f1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b89255c7710a95945cc9b7f141840cd2533e5ff0.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "7.5"
     },
     "EMERALD_1000": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b8a37974e69e24f8c5648b6da9b5800d47aecc8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b6899689965e40cbc38aa5107b99eead189c434c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "78.1"
     },
     "ICE_WAND_KILL_5": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/4f6fce54c1e24e831cf6f5e78f3382d52d1b9197.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/8d306c955949af6daa7d996f1dc410142bc11955.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Creeping Winter",
       "percent": "5.9"
     },
     "CREEPER_WOODS_NO_KILLS": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/00f8178e26ad8fe11c40aa29f59a84e8b00237e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/06dca29b750e7e4b4583191d86cde35d86bbe63c.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "1.3"
     },
     "ENCHANTSMITH_SERVICES_3": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/68e93279872e260a57bce820d54b0e018747314f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6f45a207f98ba1f29ca53eb05ba30c9240b7c8d9.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "17.3"
     },
     "COMPLETE_DAILY_TRIALS_IN_ONE_DAY_3": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/bc466a36ea236e10ced5169a00369ebb22acae91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/fb31ca5c82c3d08bb3b62bd7a0770999914682d5.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "7.9"
     },
     "COMPLETE_DESERT_TEMPLE_UNDER_4_MIN": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/00bdde73b835f020ab569fea1472a39bc37f31ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/645bc78703528f73acbe8a64cbfc8ac04e0060bb.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "2.1"
     },
     "KILL_2500_MOBS": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/31b6d8651d297af5480c2e0742b8e67191e1ec48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/53608bbbade7652b6ea5654b86779dc037f606e9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "65.0"
     },
     "ELYTRA_DIVE_ATTACK_12_ENEMIES_AT_ONCE": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/652526da42e85c1f40a646cd5e39216ea7afe553.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/8e52e502d0c4dfd4eb87e55d8cc3f8c0c6da3009.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "0.7"
     },
     "COMPLETE_DAILY_TRIAL_EMERALD_ARMOUR": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3194f4a4f0d3f31db1ceb5de5d344fd5e7fb0015.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/c7c38e6d829a63ca1eb9df61f5837d99da9c8dcb.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Howling Peaks",
       "percent": "1.1"
     },
     "GONG_6": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/96a9ea5c1596bb8b754e7c71635f70279651f07c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/4c676b0d1a6692ef46470d62d5975cbdeca74503.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Flames of the Nether",
       "percent": "1.1"
     },
     "DEFEAT_1000_ENDERLINGS_WITH_OBSIDIAN_BLADE": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/0789757fa37bffff919770ed06dd47fc0796c31e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/20adbf9817dc7aaa18d6c3b61da061b305569a97.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "1.0"
     },
     "LVL_50": {
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/f4450245006cffac9774669d283a31ac01284a9d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/cdf2ec73276ee8552fb6fcf57f8a724c905066ff.jpg",
       "hidden": false,
-      "percent": "32.1"
+      "group": "Base Game",
+      "percent": "32.2"
     },
     "FANCY_CHEST": {
       "name": "Fancy That!",
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/d0e2210bea865706075f3489aa4e76e73840fd81.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/e8f668d8062f6f7c521b487196a30903d3c006ac.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "83.2"
     },
     "TOWER_ALL_EQUIPMENT": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/e66e6d9f7d372e57d4630228251b2645a2ea0a8e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/bba29aa4bf2a049eaf7869d19793a10cb04fe218.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "46.5"
     },
     "RELAX_BUBBLE_COLUMN": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/7b9ba6cb75783f172860a2917df997f4d6a8e295.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/c2966f79ddadbd509c96f66e26fdb7496caca7ab.jpg",
       "hidden": true,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "4.1"
     },
     "ICE_NO_WEAPONS": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/0be32b73e03d425e16708c39304315213cc88a25.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9bb5096c519b0531edc3788bec8da5630a0e916c.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Creeping Winter",
       "percent": "1.1"
     },
     "KILL_RAVAGER_SQUALL_GOLEM_TIMED": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/861a8128b085b826bcf84b3ecc778edc8c892506.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/d5cb672a7d7c0cfe2abf4ce1ce0d68c90cc8aa8e.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Howling Peaks",
       "percent": "2.4"
     },
     "COMPLETE_RADIANT_RAVINE_APOCALYPSE_PLUS": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/7f342f85047c763e1586443908be452d88e34646.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/5445cb439994d12a2071747ee16d090252430fb1.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "2.2"
     },
     "WEEKLY_CHALLENGES_10": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3ca1fe7ebbecee1dfcd0f53715da28aaa8e366f5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9a1a4b6eff3698859191b4764250695f3cda17d1.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "8.9"
     },
     "GAUNTLET_GALES_GOLDEN_PARROT": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/eb81baf83d28aa7828f62f414e4da1f309798289.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/140941368dc2065e99bb4e88887aa41066f3d38a.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "0.7"
     },
     "FISHING_ROD": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/bfde6f28592dc3814065e9cd2bf3bed4ef193c61.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/15f3e26280a6c40f2f788bc9ba7a31b9c6a5ee6a.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "0.7"
     },
     "COMPLETE_SQUID_COAST": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b6e5c117c5ed58aec4b85e18dfc52fc2cbb0c0fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3a8e66ee578146f906a66891f23d72c99b6175f0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "84.5"
     },
     "DEFEAT_BROKEN_HEART_OF_ENDER": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b554e61346e203bec77e0349cc296decd239fa4b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6220b614df050b90bb9cdd2fca8de96ae28da8ad.jpg",
       "hidden": true,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "9.5"
     },
     "DEFEAT_TEMPEST_GOLEM_PETS": {
@@ -345,7 +387,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/59862898b96461b4731f3e9193f11efb16465c33.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/0ebd0612f82808138b752af0e2be0037ae22ea0e.jpg",
       "hidden": false,
-      "percent": "2.8"
+      "group": "Minecraft Dungeons Howling Peaks",
+      "percent": "2.7"
     },
     "COMPLETE_LEVEL_GROUP3": {
       "name": "High and Dry",
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a3162fd11b8dc3abdcb7e42350affb3abbf0c9ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b6c978ee9e56819c70074584c51933000e32f89a.jpg",
       "hidden": false,
-      "percent": "49.3"
+      "group": "Base Game",
+      "percent": "49.4"
     },
     "DEFEAT_ARCH_ILLAGER_HARD": {
       "name": "High Treason",
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/15e724c6d996aa5d37c96914a5a1d64c15cd8be2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1a1c73960368cb2cf511194bf377e211b0292b8d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.0"
     },
     "HOMECOMING": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6ca55cc859dbf6aff3e2e54370757434547e9119.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3ec8644ebce6aeb924857a465649d984f0006d85.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "0.6"
     },
     "COMPLETE_CACTI_CANYON_UNDER_5_MIN": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1f34a19493cc09234237145d5f0c759f703a90e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6b7b633353a3e953f62fbca091e38f175f580d20.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "2.2"
     },
     "STORAGE_CHEST_50": {
@@ -385,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9683b67cb4f559fbd61af8cacaa127d23cad61d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/31c68116eb5297c3184f38dfdadb9288f2f82b6f.jpg",
       "hidden": false,
-      "percent": "14.9"
+      "group": "Update 2",
+      "percent": "14.8"
     },
     "UNLOCK_ALL_ITEMS_BASE_AND_DLC": {
       "name": "I Need Them All",
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/f733c02c0adab6d0943f1dd874ad9629d0bf1136.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/05f57839e1b8d07306a6194934e31a92f9c1af32.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "2.2"
     },
     "GLOWSQUID_ICEWAND": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b2cbdbe7fa4ab5e2b3d2e0f1ef414af493d088ef.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/25b9ff9441916764bd0e6ad75e16227cc2dec10c.jpg",
       "hidden": true,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "0.8"
     },
     "COMPLETE_TOWER_APOCALYPSE": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b60520154157c5bad592fc984a4d67ffff0d7bbd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/80ef80a6b51b340317be7023fa38373c321af0a9.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "11.7"
     },
     "DEFEAT_MOOSHROOM_MONSTROSITY_ITEMS": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/078a4928e29ae961788ff175fcdd3e4c4205ac2c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/da31dbebac400ba763a6ef844c6bdd8322425eaa.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Jungle Awakens",
       "percent": "0.9"
     },
     "OCELOT_ARMOUR": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/2568eb9b61cab23d94f3c7b8cd33a674ad869343.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/04c93f610567db3aec92d427727fa2adeadaf2ca.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Jungle Awakens",
       "percent": "1.3"
     },
     "REVIVE_20": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1958d20686690299d4b5bf66212b171310822404.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/332895d623f73673753d0267513d2b7f5c15d7d6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.4"
     },
     "MERCHANTS_6": {
@@ -441,7 +495,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/f5bce3da8077f7db885ba4697451a08ecc5b2ca9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a470c5ab52ba6fd1f2d55652f974f16a71063f4d.jpg",
       "hidden": false,
-      "percent": "32.1"
+      "group": "Base Game",
+      "percent": "32.0"
     },
     "DEFEAT_WRETCHED_WRAITH_ADVENTURE": {
       "name": "Lone Champion",
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/bc01b45e7788429f0a6df3a5a0db36e45a45efd6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a154707fd586e5efadcbe4ebdf5b5575f202ef97.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Creeping Winter",
       "percent": "6.7"
     },
     "COMPLETE_LOST_SETTLEMENT": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/7334318f8dcce749cfb1c721cc528a44fe36d988.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/56e334989e1a1a9f3c7101cf7b7f94e45010e9ab.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Creeping Winter",
       "percent": "4.2"
     },
     "LOST_CONDUIT": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a0ac6213c3ed66912406c0f71fc432ed2fe62754.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/143b9d9e8e104389e15c92726c17fd53d19cffb6.jpg",
       "hidden": true,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "1.0"
     },
     "FULL_ENCHANTED_GEAR_SET": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/26fd3722d7cd07fc1a961607a58fe9ac3dd0e0b0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/f6782cbe91497124fa5bed348ed29e3040a4b3cb.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.9"
     },
     "TOWER_ALL_VENDOR_PURCHASE": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1ea50b75cd4b2ddc99f723ab48f93b3c16ecf05d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/5cde78ae965607ea02e01459dbd1a1f505120382.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "32.7"
     },
     "DEFEAT_REDSTONE_MONSTROSITY_PETS": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3c2d7778641378d07234b3b3e19549e402410746.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/8676ccb048bce8c650d9f5403ce6dbdd84c7613a.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "6.4"
     },
     "CHEST_100": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/d71fe3ce3e614679c6b3b9fd01545371ce35eefa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1211bc3908d9b36c8bf16a246d57c2b0a9dd8930.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.8"
     },
     "COMPLETE_NETHER_WASTES_APOCALYPSE": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/10c0c1a37f05fbb18f2b3b2e4dec6dbdaf951dec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/21823c07206b4586aa46d65434b8a1ead9c7f925.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Flames of the Nether",
       "percent": "7.8"
     },
     "EAT_200_FOOD": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/7fdea0e00d0f65ab08d70ee596fae9cf4815c9b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/58dd679dae2f701b48c3a9a631f7a470a549a17b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "52.8"
     },
     "EMERALD_5000": {
@@ -521,6 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/8d4436e2fea04a1c27a88faedc3f5b64a535a17c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/99fab8f827872c7ee26557bb551badea2d7d0e74.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "59.6"
     },
     "COMPLETE_CREEPER_WOODS": {
@@ -529,7 +594,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6e3a0e8ce9bdf86902011d3037618fa8ed77aa30.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3b6624ae920ed496e7a5cd6dcf82bf894a3152cc.jpg",
       "hidden": false,
-      "percent": "84.3"
+      "group": "Base Game",
+      "percent": "84.4"
     },
     "COMPLETE_PANDA_PLATEAU": {
       "name": "Pandamonium",
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/021b133d12a7312c4230b957c714509b74fa0375.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/ef601752f6dff2378f4c8a85d8d080471fdc1d56.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Jungle Awakens",
       "percent": "6.3"
     },
     "KILL_50_PASSIVE": {
@@ -545,6 +612,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/c33c67de3f0f7f476509e35a2579e038ad479556.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3d9a1b6a0401cb75436fcf737c5de74417e54f44.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "60.2"
     },
     "PET_THE_DOG": {
@@ -553,7 +621,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/4da3ac6234cb571e354763610857b4a383b995da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/908a4a2e986b402054c63bbad3bbcbae82bb6249.jpg",
       "hidden": false,
-      "percent": "19.6"
+      "group": "Update 1",
+      "percent": "19.7"
     },
     "COMPLETE_OBSIDIAN_PINNACLE_APOCALYPSE5": {
       "name": "Post Post-Apocalypse",
@@ -561,6 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/ed0dff6b13815095b04f13ba4b2ee7c50f34a959.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/46c706ebba46140bcc779f0b0769864ccac9ed7c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.2"
     },
     "COMPLETE_COLOSSAL_RAMPART": {
@@ -569,6 +639,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/afc5c2b7b3e37cf83e99a72e87ff26233ddb2534.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/f8798e93c74be3affda3ef085dcf8a76e232631e.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Howling Peaks",
       "percent": "3.6"
     },
     "DEATH_BARTER_2": {
@@ -577,7 +648,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/64848b4340a284b4c9dccd0f44f2345929c2bf73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/ff98e80ababbbb52a8da2a61176e9ceed85cb0a2.jpg",
       "hidden": false,
-      "percent": "7.2"
+      "group": "Base Game",
+      "percent": "7.1"
     },
     "HORSE_EMOTE_AT_SKELETON_HORSEMAN": {
       "name": "Same To You, Buddy 2.0",
@@ -585,6 +657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/f2a7dc20548d625f22e17d002c0952a0e8765e3d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b67e127607a42b3d5f962a71ab3f6c38743481e3.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "1.0"
     },
     "ROAR_AT_JBOMINATION": {
@@ -593,6 +666,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/2083d9b3037fe46f23f2a07fab1a7fef81cb6b7b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9389122f78bed3ad0cb6218b5ebc7513681ce8df.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "0.8"
     },
     "NO_OXYGEN_60": {
@@ -601,6 +675,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b8227f3d6cd3d42e03dc06540c643667c3191597.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a732037ed0bba619330dc269a258b58555657d72.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "1.9"
     },
     "DEFEAT_ARCH_ILLAGER_ANY": {
@@ -609,6 +684,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/cd6d1739f6873eb68d24c6ca87c6f521aceaa9da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/7389bacb84d40568cbde61ef7e3905858c7a86af.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "45.6"
     },
     "LVL_10": {
@@ -617,6 +693,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/477aa231c7ae8174b948c469504910ef14ccc6a8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/90f4c59b200643968be045997baf5964bd78fb06.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "72.4"
     },
     "TRIDENT": {
@@ -625,6 +702,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/61fb619bfd737c956c9eeab4a6304687c3798ed1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/05b8e411afc0d97b36b2a117a447cdfcfd6ec00a.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "2.6"
     },
     "EFFECTS_TRIGGER_5": {
@@ -633,7 +711,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/ac7bb37e3ca103abbd60493f0f12b0ddbce079ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6b0982a3de1b4ca40e46ffd03b236287b1bca032.jpg",
       "hidden": false,
-      "percent": "11.9"
+      "group": "Base Game",
+      "percent": "12.0"
     },
     "ICE_SLIDE_500": {
       "name": "Smooth Operator",
@@ -641,7 +720,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/d6e39d41351cf9b1c6fc67325562694e67ab4699.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b7137cdb23c659ae60acad4d59205f868e755349.jpg",
       "hidden": false,
-      "percent": "21.5"
+      "group": "Minecraft Dungeons Creeping Winter",
+      "percent": "21.4"
     },
     "COMPLETE_LEVEL_WITH_OLD_SEASON_COSMETICS": {
       "name": "So Last Season",
@@ -649,6 +729,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6c8bbae95d3a6ff0177ea66b936a48ad988ce618.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/567f473b68dc5d451f7dcd4b9bcb4e46c2d0eb2c.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "1.7"
     },
     "CLEAR_X_TOWER_FLOORS": {
@@ -657,6 +738,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/90c8c6f19eeed97feb9435dff53e2b1c686eb873.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a807604043eb7b8bbf74b40da8be9bb89d414c29.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "19.5"
     },
     "USE_SOUL_TOTEM_50": {
@@ -665,6 +747,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a36dfb1c8aa5d2cf685d9e7d4d11a7ace1e7fbf9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b212352355a040c53eafd9950000f05b52761b87.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "1.7"
     },
     "STORAGE_ROOM": {
@@ -673,7 +756,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/df8bfdd7f5be34172d5aad5ea5ee3de2cbb98d40.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/2cce086d26e9d1108bb0e6f0142b5533addb3c1f.jpg",
       "hidden": true,
-      "percent": "3.8"
+      "group": "Update 1",
+      "percent": "3.7"
     },
     "COMPLETE_DINGY_JUNGLE_POTION": {
       "name": "Survival Skills",
@@ -681,6 +765,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b66e9d9d3e511e577293fcd752e53587c7bd3127.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/e08c12b3a3e7795935e976c89a35179e313375ec.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Jungle Awakens",
       "percent": "2.9"
     },
     "REACH_TOP_OF_BROKEN_CITADEL_NO_HIT_SHULKERS_BULLET": {
@@ -689,6 +774,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/628dc13fb8936c2295315ecf15b8f285aba183c8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/ed74bd5351ff3ff9d15aac85ca0286dd54112d3b.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "0.9"
     },
     "COMPLETE_GALE_SANCTUM_ADVENTURE": {
@@ -697,6 +783,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/0a861ca0f41a746b679a234605f99481c146b522.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/c5dc70b2c9b0a8575c14b8bd4d7a2f3acd1d894d.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Howling Peaks",
       "percent": "6.4"
     },
     "COMPLETE_TOWER_WITHOUT_USING_MERCHANTS": {
@@ -705,6 +792,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/0a9cba051ccb772cc3dcfd24301b60627ed2ed83.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/56cc7ced742a1e2b7494683885b45a86c58ed790.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "3.3"
     },
     "SQUID_COAST_EASTER_EGG": {
@@ -713,6 +801,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/67560efeb0f7120f1920c9bc8f58b125c5d0118f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/6a58ece71467d94735585ff70782204f28bd55f5.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "1.6"
     },
     "COMPLETE_LEVEL_GROUP1": {
@@ -721,7 +810,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/3befaefb2ebb4d4a6bf2296c2745c2da63fe6292.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/c4131d9d64489c2c31eb26f9e75c137eb9214572.jpg",
       "hidden": false,
-      "percent": "62.9"
+      "group": "Base Game",
+      "percent": "63.0"
     },
     "TRAVEL_THROUGH_END_PORTAL": {
       "name": "To the End!",
@@ -729,6 +819,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/2bf07159b72db03ef72049d91ec8b53434071bab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/2b51dbf044c0ddae38fbf4c21eedf52bdbd96e99.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "23.1"
     },
     "COMPLETE_TOWER_ADVENTURE": {
@@ -737,6 +828,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/ebac1cde6977031256de6324e5d87d3f46e042e3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/f9a09d4121eef42f4cbcd609d5a1c74d7b3a6b42.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "17.3"
     },
     "VISIT_15_TOWER_BIOMES": {
@@ -745,6 +837,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/4863d3702800c84e669f4b15a222a9a30a1cc634.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1e57b8d211731eb108a49e133abafa78f939c5d2.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "14.0"
     },
     "ENTER_STRONGHOLD_VAULT": {
@@ -753,6 +846,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/68ae897e9f61da335cad0e845c6a97cd2ae566f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/331268c439c7087b927bafaf1906b4feede39b0c.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Echoing Void",
       "percent": "3.5"
     },
     "COMPLETE_TREETOP_WEARING_ROOT_ROT": {
@@ -761,6 +855,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/d4d4b43267fca37d31bf8e24a7f5669054026ecd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1d392d487b8e4d4d17a4139c554295eaa0614727.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "1.2"
     },
     "COMPLETE_TREETOP_TANGLE_APOCALYPSE_PLUS": {
@@ -769,6 +864,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b15b5480580a3e4aee0f878f285344d924bf3b91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/1e87fdf1022f0f2e76fe518aeef4cefbfa75ef49.jpg",
       "hidden": false,
+      "group": "Update 3",
       "percent": "4.1"
     },
     "SEASON_RANK_25": {
@@ -777,6 +873,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/cf1e1ccee0b054256d3a984f358557a1c6d2f0a7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/d3a7d8761dade81bae4498633cbe0321b18b5b45.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "11.2"
     },
     "COMPLETE_NETHER_SECRET_APOCALYPSE_PLUS": {
@@ -785,6 +882,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9128172c0d1e1e61c1117727e227f0c40c0c1515.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/034429c7ed4414047e5438b5f4bb8cea350f14c3.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Flames of the Nether",
       "percent": "1.5"
     },
     "COMPLETE_ABYSSAL_MONUMENT_APOCALYPSE": {
@@ -793,6 +891,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/969f6ff1d7b8e4e5f4089cb6b5042d8e17f449dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b911369129a56547b707553243edee054f9cd478.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Hidden Depths",
       "percent": "4.3"
     },
     "SEASON_RANK_10": {
@@ -801,7 +900,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/97f2b34463baafffb2e1d9900d26559e98619904.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/b3937e8c7587a4bd889f8eaf0e50f080ba2be95a.jpg",
       "hidden": false,
-      "percent": "38.9"
+      "group": "Update 1",
+      "percent": "38.8"
     },
     "KILL_10_MOUNTAINEER_TEMPEST_KNIFE_TIMED": {
       "name": "Whirlwind Warrior",
@@ -809,6 +909,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/565cecc078de4ea7e3784f4bb04667bb36dd9808.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a24039b11b9af79ef37c7590fd88b6009f07a7fd.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Howling Peaks",
       "percent": "1.4"
     },
     "KILL_50_MOBS": {
@@ -817,6 +918,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/de4aa9e8cc5f3029301aca4071eafb2ed425c4cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/bbdf5cbc2cd14bbfc0a9f51ea591b29919b94d91.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "87.8"
     },
     "LLAMA_OFFERING": {
@@ -825,6 +927,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/a104114608858d0fa0f883024a7de875eb61ec76.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/9e9b3fdf56973bff391018c1e6cb60f77d765601.jpg",
       "hidden": false,
+      "group": "Minecraft Dungeons Howling Peaks",
       "percent": "3.4"
     },
     "FULLY_UPGRADE_ENCHANTMENT": {
@@ -833,7 +936,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/5052eba8e7377553aadd9626f27f3b34a3726d32.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1672970/23391f8e46efd56baf1d3bdea401e1566d8f947b.jpg",
       "hidden": false,
-      "percent": "69.5"
+      "group": "Base Game",
+      "percent": "69.6"
     }
   },
   "platform": "PlayStation",

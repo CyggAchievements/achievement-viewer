@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/3945a4e6479605ab55c7dae52857e040d118d5c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": false,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "23.2"
     },
     "IHateSpider": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/cf77d0555d0222cdcbe7fb19a7e38871c820f230.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "22.8"
     },
     "Gearhead": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/7ae50754d5cf0c37a73c2e0d4e88410cd51dd5b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.8"
     },
     "NeverFadeAway": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/27664ed21cfe3db65108a6ed1b25e383a6aafdb8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "17.3"
     },
     "BushidoAndChill": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/ddedbfc44a125a864027e504de48fde92751c7b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.2"
     },
     "MasterRunner": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/8af08786073d0d2ba2374f00eb6bd876c593891e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "42.0"
     },
     "Bladerunner": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/31d389c6630c86434f193e7645cc78d22a790bff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.0"
     },
     "NotTheMobile": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/b3d81a567599dacdbf32fa024e4d9baafc19599b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.1"
     },
     "DirtyWork": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/d02f68667532c5497561799ccb2dae4692cad14d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": false,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "8.8"
     },
     "EasyComeEasyGo": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/594432b0da5af1d3cc01394cc853c04abb5baf4b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": false,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "10.3"
     },
     "GetMeThereScottie": {
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/f5aa6c12eef1c0e2a3d102ebf01b3a1048bd6b20.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "9.9"
+      "group": "Base Game",
+      "percent": "10.0"
     },
     "Cyberjunkie": {
       "name": "Full Body Conversion",
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/a3acd634e21dea672bb35c0d6a9707ff5079aed1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "42.5"
     },
     "ThisIsPacifica": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/c2294767a5ee7ef08429307a739f99e51e453a97.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.0"
     },
     "GunKata": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/96b9d0c95bc80867a61a2870c6ddec9ab424f728.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.8"
     },
     "Gunslinger": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/d13a7170dd835e73cf30a7ee6da0ebf3670c23a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.3"
     },
     "IAmMaxTac": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/0b89d8dacb03eabb93041f02e623729ca3e4c41b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.3"
     },
     "YipMan": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/b7512099ad421258b91b49ab12d46ffd2bb948da.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.8"
     },
     "HydraIsDead": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/dffa26250fa32ba85772c75eec4fd7d8765fe157.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": false,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "5.8"
     },
     "UnderPressure": {
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/0a1df4318c75f42845fc3a1a28739d8acea3b7e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
-      "percent": "30.2"
+      "group": "Base Game",
+      "percent": "30.3"
     },
     "KingOfTheCups": {
       "name": "King of Cups",
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/51413a8a5e4f2e9de1c2d76b87d5c7980c9f7344.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "4.2"
     },
     "KingOfThePentacles": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/172f9e9e8e3b8eaeae2bb84feb87127b58353dba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "5.3"
     },
     "KingOfTheSwords": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/c6e7c9cc51fde9a554fcf07e5f1114edcc4090c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "5.9"
     },
     "KingOfTheWands": {
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/ad8075ab98162f93a200fc6a8c55cccf4c8d1b1d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
-      "percent": "10.0"
+      "group": "Cyberpunk 2077: Phantom Liberty",
+      "percent": "9.9"
     },
     "YouKnowWhoIAm": {
       "name": "Legend of The Afterlife",
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/997859e0c89dda10f11a091a566999e68e6f9ce3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "41.9"
     },
     "QueenOfTheHighway": {
@@ -201,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/ce6eab1ce0ee6621350749c53e4bace6518e3056.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
-      "percent": "40.7"
+      "group": "Base Game",
+      "percent": "40.8"
     },
     "LittleTokyo": {
       "name": "Little Tokyo",
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/96ca1665384409e4a0ea76cc7271021da58cc896.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.9"
     },
     "HandyMan": {
@@ -217,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/0b30a85424064ad230d3d0b0101fb2f4c731366d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "30.8"
+      "group": "Base Game",
+      "percent": "30.9"
     },
     "LikeFatherLikeSon": {
       "name": "Mean Streets",
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/f95b51e241c93e045c9adea4e199d2980b972b6f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.5"
     },
     "MustBeTheRats": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/9f6b540aa3fa924f3600afdff35a763e75454c8c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.6"
     },
     "RelicMaster": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/79b4c15ba2ec5fa27e4cac0a19cb740cbb53b5ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": false,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "7.0"
     },
     "Denied": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/33a8a122a08532ec727598142e6b5689ae7eed8b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "66.7"
     },
     "ThatIsSoHardForTheKnees": {
@@ -257,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/514ebb07bb23ed93234a4f299761db840d06bbbb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "7.2"
+      "group": "Base Game",
+      "percent": "7.3"
     },
     "Kingmaker": {
       "name": "Spin Doctor",
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/b2c92946b6ac64d267e486616ad9a55d7364b4eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "12.8"
     },
     "Roleplayer": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/943a38cb96238b7b020672cf360d9e763dcf6feb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "52.0"
     },
     "Temperance": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "12.6"
     },
     "Specialist": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/a9109d1262f0121dd2c4369a5cbbdde0b7c347bb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.1"
     },
     "DogtownLaw": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/6d73d22167309783b6128282dbd00154df5fb0ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": false,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "6.5"
     },
     "TheDevil": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.4"
     },
     "TheFool": {
@@ -313,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
-      "percent": "88.8"
+      "group": "Base Game",
+      "percent": "88.7"
     },
     "TheHermit": {
       "name": "The Hermit",
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "51.2"
     },
     "TheHightPriestess": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "46.2"
     },
     "TradeUnion": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/3162cccaaaa83b1f5b3fe50af30a74d6a1541298.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.2"
     },
     "TheLovers": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "68.3"
     },
     "MaxPain": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/7d368314167adc79672ac5ccb090704352f7f733.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "26.0"
     },
     "TheStar": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "16.9"
     },
     "TheSun": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "16.8"
     },
     "TheTower": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/c3c3b1235ae0dde8783ea38bf696c7269a63b3cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/030b090723c739fcfbcdef35390ff0b491732705.jpg",
       "hidden": true,
+      "group": "Cyberpunk 2077: Phantom Liberty",
       "percent": "6.0"
     },
     "Fortuneteller": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/5fe10094d667c5f6da21589aad5c8ebd07f0e78b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.3"
     },
     "NoMansLand": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/58f6286727bb4a5a43a373149ff1ede77345b1a8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.2"
     },
     "TheWheelOfFortune": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "54.7"
     },
     "TheWorld": {
@@ -409,7 +459,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
-      "percent": "35.8"
+      "group": "Base Game",
+      "percent": "35.9"
     },
     "BornToBeWild": {
       "name": "To Bad Decisions!",
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/3ac542374888a4a57a2ef35fb2bf3a5546daaaca.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "15.9"
     },
     "FollowingTheRiver": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/a51caf46e315b285be58a7d6cf7013a7b0c44a41.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "27.0"
     },
     "TrueSoldier": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/2f63e6b9c0774f8f63b9f053ba9ec145e90c678c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "47.0"
     },
     "TrueWarrior": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/714db842d4bbf426994d8cc7450769e75c47da8b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.0"
     },
     "TwoHeadsOneBullet": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/26d6c25c2ca7e5877b26347fc05f5eb2dd504bbf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/35a05a2c50d604f54724d65b7fdf6f9ee71fe88c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.7"
     },
     "VForVendetta": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/5d34ce9108d8ac3018a1de3a2a485956bb7a9109.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1091500/961e51e8bd9e1ec292687055b6d1a4486b0e124d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "17.8"
     }
   },

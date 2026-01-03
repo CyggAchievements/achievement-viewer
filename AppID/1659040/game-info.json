@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/8e1277ad0f53be2def24974b2a378e73de89904a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/0392a31a19f74abd264393e40a5a3587e3b5e7a3.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "28.2"
     },
     "ACH_8": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/4a59c20b315b804516665b01961b8831c18b03a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/7d3ba86ae5ffd818e3eb581e18e114e9baddc769.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.7"
     },
     "ACH_74": {
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f0f7273012ef03b398927a633e4d64c59fbdfb79.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/78857f3464073f21b94079c442434593ab6806df.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
+      "percent": "5.4"
     },
     "ACH_76": {
       "name": "Ancient Marrakesh",
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/e41ae05fceaaf24d98972672bdb25bed88bf409a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/11b9eba530ce8418335a9d2ec6127926ac1a21ec.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "3.6"
     },
     "ACH_28": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/743457689c5a600f120aef3b4847b423e31136b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/1e331b2cdf66853e4f4de402cea7453c2786c5dc.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "1.7"
     },
     "ACH_51": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/c2d2d1b11d558e603b4fb9a3264cbbdaee99b374.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/1513a3e431f382ded97e10317c659a7e1173a5af.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "11.4"
     },
     "ACH_44": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d8b8ef27369b07e99c99dff372b9c18d480292ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/7af5b22998196f6dafe9b83bfc39d018d9158383.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "14.3"
     },
     "ACH_55": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/879861b2e1f6f166af1ce036c8d587b66c09f38e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/0f86b561a52ff9265e4fadadd580978dec17bd13.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "1.3"
     },
     "ACH_72": {
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9bb5740c181c33a9482d720831f3d1efde437f86.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/81a4b088072c0c6ba83ab041901d67809f0f8a0d.jpg",
       "hidden": false,
-      "percent": "6.3"
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
+      "percent": "6.2"
     },
     "ACH_2": {
       "name": "Cleared for Field Duty",
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6a36c2bb6e605d218c82eca92b5f0343794594b5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/8d26a2c525a11b12ea6e78e4ba6a3de82df855c8.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "56.3"
     },
     "ACH_34": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/a75881fb0dc207cc04b4ad33a88d5f9ca29d6c13.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/fd132334ae08545c4dadceb049f2907838572816.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "6.0"
     },
     "ACH_45": {
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/49dd569cc940d2fa473d42c45eeb2bcaf774327b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/bdacbf08ce8ff2020167650556a1a3f870e6d7e8.jpg",
       "hidden": true,
-      "percent": "4.3"
+      "group": "Base Game",
+      "percent": "4.2"
     },
     "ACH_60": {
       "name": "Damage Control",
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/149ca765692e1fd42bd8d67d3aa037de62f481a6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9edf2bf5af63be006c5e9728c59d2b7b59d59eab.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "24.0"
     },
     "ACH_63": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/3ebf99c83a1618e247e4ad12b06dad54813db78a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9365078443e233999d6678b99d2b52e397d1fbc0.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "3.1"
     },
     "ACH_13": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/60d5c3f4afa2961364c49c06bdd929f94e8e062f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f90c711ffbaab6dbb6c7d0bcfccee521c7fdc2ae.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "23.8"
     },
     "ACH_25": {
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/078a3d0607a765a2aac0dd74558e905a0c2fd228.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/acccb5e509654a290a2dc39b3555e440b960a598.jpg",
       "hidden": false,
-      "percent": "19.8"
+      "group": "Base Game",
+      "percent": "19.7"
     },
     "ACH_73": {
       "name": "Die By the Sword",
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/cb2cae561c6b8066e8fb1905564cdf7f290f0d82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f982d45602c0f39ec7946f5610ac57c201510555.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "43.1"
     },
     "ACH_14": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/b98223f80f2b12710cba6649ab19a04596228c95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/4fe185e634dcbc66ce96ea0245a72f05ab92b6e5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.2"
     },
     "ACH_40": {
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/91f15d493a208e4494bab3f59ef2ccfab2109f19.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/e1d1c62ee271b95c5cfebc38311300d6a14e676b.jpg",
       "hidden": true,
-      "percent": "6.4"
+      "group": "Base Game",
+      "percent": "6.3"
     },
     "ACH_22": {
       "name": "Family Feud",
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6625df3c78e287bee58084b2e61b35645fa32d43.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/0a1e9d50b3f2a35a40c81d5e31083f3c199e6047.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "3.8"
     },
     "ACH_26": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/a19b12fc8936ae6c0b9fefc4d266f86fc4085482.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/5cb9e03b725914615ec107c0fcd6035477a9c9be.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.1"
     },
     "ACH_23": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/bb7a2d332e55fd1a025f0912627fd8c29939f002.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/0fd3a1cbd9340833fbe7b479215ec0b4a2f9c3be.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.3"
     },
     "ACH_33": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d02c4a99221dcbc20dc179ba853961252edbba9d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/58e7ef9b1dae2f8d6190cac482a148827ab43ad9.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.1"
     },
     "ACH_80": {
@@ -193,7 +216,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d12edd2d767ecea5557f695ebf65e2b6e80dcbaf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/8c5e79b5b086c1234ede7811c13ef65586a389db.jpg",
       "hidden": false,
-      "percent": "27.5"
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
+      "percent": "27.4"
     },
     "ACH_36": {
       "name": "Hack the Planet",
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/73ac3d27850c3c38dd3e32fb857584671d0baa88.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9a3b2db73b8031dfc2cbc2c1119efe975cba86bb.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "ACH_49": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/645e6f6b56afdfb912fcf84c1a62ca97996261e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/25470aeccbfd2d5cc291a989f59c03943edb64f4.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "1.6"
     },
     "ACH_69": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/7cdf906e70ee874a56df293633ce7808b692c956.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/77961cf109a0fbd2d194f4a172bd1713dc24c4c3.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "2.6"
     },
     "ACH_35": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/54685e7772ac128458c90b4c6977f57886f75a42.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/492ee178f09928546cb01592d17f0eff5814e889.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.8"
     },
     "ACH_53": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/c1f54e761b5d3ce22af14e50e9e29c027bfa0293.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f453b1b59e1a68d4034d898c18bc67cb700268d7.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "1.3"
     },
     "ACH_58": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/499209ba9bfad28a06d4c717f7ab59e832b93aeb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/144bca325cd31273557e3eab04a51531f065385a.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "25.1"
     },
     "ACH_56": {
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d1a541d0665d226d313d7f47fbeadaf41575c3d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/e376eb9ff6363f969258f26b5ec30414938ad908.jpg",
       "hidden": false,
-      "percent": "10.7"
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
+      "percent": "10.6"
     },
     "ACH_16": {
       "name": "Keep Your Eyes Peeled",
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/57d930a0bc5a98189dca7d3349416a9ca83021c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/0355b48d754a3f70330f9f956d86ab5366322993.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "ACH_65": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/414f5c61e4e9ca7dd61dfdd548323894028647dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/526e95b67b496c770999d8f1fb069d55ff2c79a6.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "3.1"
     },
     "ACH_29": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/857aec35521590ad3f1b4f9d54b7d1ec7792fa17.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/c71468ba6b208a3b9ef4bb1a34a0d9c2aee93926.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.7"
     },
     "ACH_47": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/00330aeece092b995b150209f10a6c10b89f10a6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/02c175d03ed8e312a68faf74f549f38ee9e279ce.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.9"
     },
     "ACH_59": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f1acdc389bb20a1e309f9f0f0d5b9e32f3fd8099.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/0a2af2719f7d270a49d8b351cc09ee568554956c.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "7.8"
     },
     "ACH_66": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/bce2972aede38a07d638f9b8a17f4ca71f7c36c8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/bc9fb7c5f11e1eba96ba0dab8d90653548300d5b.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "19.5"
     },
     "ACH_19": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/7b36be05337fc79ecd7047de8a4068f8290f3d6b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/481ec0cef1f53fa872c24318d38b08c8c3e821d8.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.7"
     },
     "ACH_38": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/0d4b275cb337d1d6ec9a926eec5217ff3ebfd83d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9a16ff8bce9c52523160afb5113e2c198cf3a5d2.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.4"
     },
     "ACH_61": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/19e7896e11f133f8cad857980faad4e7ad822d77.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/8cbbd401afcb6b05325d7d562dbdeddc56d8cebd.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "3.8"
     },
     "ACH_81": {
@@ -329,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9f9f18908f3fbcb674a0d747464b7a3fea434005.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/54c6fc00effc82d34ec1dadcf783d5b1b25a6811.jpg",
       "hidden": false,
-      "percent": "3.3"
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
+      "percent": "3.2"
     },
     "ACH_54": {
       "name": "Never Knew What Hit Them",
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/60c1c5f794167de2167a5d6024b2ee86b2a6a94c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/580cb311d27ce7615954e762fa78e8204c152dc6.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "1.6"
     },
     "ACH_31": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/62fc6c65e8b3b220d4154b8971dc6e112bffe016.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/2156e72e390bf8a06f26571e2d1ff64bcbdc5fc2.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.5"
     },
     "ACH_43": {
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d96de512c20ddeb5b301134718e9379b8494099b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/3400e4adc7e68a1725ed337b2184d93134f22d21.jpg",
       "hidden": false,
-      "percent": "17.8"
+      "group": "Base Game",
+      "percent": "17.7"
     },
     "ACH_20": {
       "name": "No Stone Unturned",
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/29c01f660ff8e9cff09ba70d50275df8118260fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/56879be3ed35de0a553a529e8ed1cf0a3e199e5b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.7"
     },
     "ACH_57": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/a5f771b2f40182d6897a5e84f7cf4e1f524b5416.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/66b8a6e1ebbbcfee881f47d0f9ea93ae6d50d61e.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "2.3"
     },
     "ACH_79": {
@@ -377,7 +423,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/49a85cb375195842e7169a286d9372edc66e125d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/616fb129b282a927bbded46f31fe5e275617904c.jpg",
       "hidden": false,
-      "percent": "3.6"
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
+      "percent": "3.5"
     },
     "ACH_27": {
       "name": "Partied Out",
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/b8e2bd60943133a10311176e07482fea60f82cde.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/c1e8b1b5355edd57ba1e11fe14e79fe8d631663a.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.4"
     },
     "ACH_77": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/80677db1b2e79a6b5115a2f4813e13eb637a85ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/4cf2fb88d1683e761f23c6199cca5e8ac4fccfa7.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "3.5"
     },
     "ACH_67": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/027b8ca39021bad403e8f0c6fab5eec21ae40572.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/afeb3f4027644a48c2e1115e72d534a9571a8f64.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "3.5"
     },
     "ACH_64": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/72ecf3ff8bac12b487eea710d2ff2c5f0189b812.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f0ce51f80c56c586ed10cdd2bd410fbc5c20a47d.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "19.6"
     },
     "ACH_50": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/7fb419050c172a98a4de9114973b57f775724d0d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9497322b27a574b27339ba9ee4b2abafec186e05.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "1.3"
     },
     "ACH_41": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/3f75a714e5ff8880b58099fe2c5ee931375c8a36.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/5a365ad3872610b344ce92d2473395f4b77e6c34.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.4"
     },
     "ACH_39": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f1f34a9b4a6bc1deecde98600e03719b59fbfd32.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/7b3e1e48103f64824a4082301161ab0cde419ade.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "1.3"
     },
     "ACH_17": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/aa810af056dc607eadd89de9dce0250d4d03c2c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/db6711d5cdea2aa6d5a7445fd2b6c66ab3127269.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.5"
     },
     "ACH_83": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/a43a5f19262e7deba2a3ef18ff8d4f878223c7a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/41e86c8811eb78cf4a3ffeda6c8d8c657af7b788.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "4.2"
     },
     "ACH_3": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/73c96e8d1d2f32ab9a784ad995c29aab9a86733f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/17a982709dbb15b6d4272c5026831289ff1def56.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "54.0"
     },
     "ACH_48": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/2f7e4876b0d32bd80028d3b2cf139cfa4c7ed7c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/8fc7ea4a9b3cc4dc1995a8996349e4c13f288916.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "1.3"
     },
     "ACH_78": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/eed0364226d5d957012480a7079ec6edff5a3bed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/52fd12fc6f560975ad11d65843dd2827f90a64c5.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "32.6"
     },
     "ACH_11": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/28a4cd72410a98ccdb34783a0f5278980715ee29.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/ca6d47f156beb56f888d315740fc929408f1df5e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.5"
     },
     "ACH_5": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6c707e23f346f4f4e34e53a14e8fc50d0a4abf25.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/1d433f5c9c620ae857bdda7c5966660cd1011699.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "26.8"
     },
     "ACH_70": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/bc36c454d24521660273cce27fbba8212ae00103.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/efaf1cba1f13aa90c905ea688e927d3605378ead.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "2.5"
     },
     "ACH_18": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/969490f2d599908f34c1265d6075c826ae832983.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/b46e3b11d5247b775df746ee5613857904f58a3b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.7"
     },
     "ACH_12": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/e4b3965bb5fc58ff73fb2f03f69bfd72b73ae8ad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/76f946608dff1bf5e5ea97ffce9407f2ece23602.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "23.0"
     },
     "ACH_32": {
@@ -521,7 +585,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/5acbf28460b040ee340f4c6fb0c7f9b20588c4c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/a8f36e901ec68429a0b24610056c4a2b9027d2c4.jpg",
       "hidden": false,
-      "percent": "2.9"
+      "group": "Base Game",
+      "percent": "2.8"
     },
     "ACH_62": {
       "name": "Tactical Strike",
@@ -529,6 +594,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6e9e8b6ae5d2b3c3f3f00abb68241c61a93255ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9365078443e233999d6678b99d2b52e397d1fbc0.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
       "percent": "21.5"
     },
     "ACH_4": {
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/984b7d2052d471f4ea10262bfc428cd4cc1ae871.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/5f4fd59e30997611333b76e35b7706bcefb53134.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.9"
     },
     "ACH_24": {
@@ -545,6 +612,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/378d97169d8da61a57a464361854bf9456614e2b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/c937689ef367c497a1edf18997f70585028a1aa0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.7"
     },
     "ACH_37": {
@@ -553,6 +621,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d3d115ccba6dee621333bcf5aef87aa2958752fc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/52b9364e4d9be82d6634e4b0f0163898fa4620a1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.0"
     },
     "ACH_1": {
@@ -561,6 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d2cb371b73c0e72a0903fbe06c0c71d5ed4411e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/79f76678c22b4ddd2a608d765e646789230c855b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "58.7"
     },
     "ACH_68": {
@@ -569,7 +639,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/d01af1e58771ee0783b6673f754ecdb65badb804.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/63208155cad76d7b9d20fddb9e17a632b9060885.jpg",
       "hidden": false,
-      "percent": "17.4"
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
+      "percent": "17.3"
     },
     "ACH_75": {
       "name": "Too Big to Fail",
@@ -577,6 +648,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6c7238a968ded6839b1ddf9ca22325214855e007.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/2b227c457ef66e05e9856bdc99b7e4e8679dcdcc.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "36.1"
     },
     "ACH_9": {
@@ -585,6 +657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f734b20e72ffd11d1110b74bc1b1af015bea8d34.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/215bdf59b3a6657a2e36f474bbd0591152b5d2ea.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.7"
     },
     "ACH_7": {
@@ -593,6 +666,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/82c4adc31882d19ff3fb6e2a98f8c1c9ecb6203b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/da3d6ee68907e57ae3eb4514ea82ba454d45d70d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "ACH_52": {
@@ -601,6 +675,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/41fd11ce2eadcebfa42bd6cb1de0493175304aaa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/400fc42864b2a9924ba9e800c830379dc4d7e747.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 2 Expansion",
       "percent": "2.7"
     },
     "ACH_46": {
@@ -609,6 +684,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/195dea011e83dc9b1037a428723913f13073935b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/2db77fe7794b358d632eca0899ecc1a27948ac9e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.7"
     },
     "ACH_6": {
@@ -617,6 +693,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9ff7f834780aed1bf995088b447b80b4678aa374.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/510ba51e2c3c12c83818fe1a370793614c92628d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.1"
     },
     "ACH_15": {
@@ -625,6 +702,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/1764035a59201f1bbfe7f6767319646d1b75c396.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/1bc0496eccca23c055c5a70a24e403a96861b956.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "ACH_10": {
@@ -633,6 +711,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/79c615cd7d3feef4deb072173a36ee546e916615.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/02aa32dfb5455a165c5ebb3dafe1e091eb44e5e7.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "59.7"
     },
     "ACH_21": {
@@ -641,6 +720,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/47c41c6aec25fa847a7110777287edd62f7e2c07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6dd82ca524cc542af912dc7a04f31ce461df4119.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "2.4"
     },
     "ACH_42": {
@@ -649,7 +729,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/5d36c2778866f2b609ff039c34bbb9cac14077e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/4f4d5d918657b633afdcc3859bf177fd18b854c2.jpg",
       "hidden": false,
-      "percent": "2.1"
+      "group": "Base Game",
+      "percent": "2.0"
     },
     "ACH_30": {
       "name": "Warehouse Veteran",
@@ -657,6 +738,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/5b7bfd003fc9f84a5a6cd54934cfce42baabe226.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/cf08ede9ed6361e23e99b067bfb66d4e2a8d7033.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.5"
     },
     "ACH_71": {
@@ -665,6 +747,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/e21c07943f9da3e034f868a0385b0f317c63b52a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6f4731128113959b5415a9a7f1dc0004f1ea4254.jpg",
       "hidden": false,
+      "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
       "percent": "48.5"
     }
   },

@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d45b3589850743f91bd90987e6faad13f1175b5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/78981ae076c6d877cc548055d2a99d28c056b69a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.2"
     },
     "ach_46": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d71a34ae727a7df85b3969e1491c9e5c16b2f403.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/c405414f4abc74293a5190971716284ebb814b14.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.8"
     },
     "ach_1": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/807b7e570a5a0a7f31c713292f422a2e8735ab98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/627aa54395f1d8601bceeda3d0d03c1337c60bbb.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "48.2"
     },
     "ach_37": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/eab0d2483033d4e2f5d85c438e29b45683c4f2ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/a176c6eec27f782ad071bf66358cada53e988fc1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.1"
     },
     "ach_52": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/12c725773d1c68ebaad2a66b1fd9d01bd689d695.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/2ccaad715cc4c4400a4d5dd5662a2685ae0c82f5.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "12.9"
     },
     "ach_30": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/feb89d397cee6bb3bd3b5c17cb0ba4dfe4502743.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/66e8d3626fc1040512ac9d53f945c4785e1780fe.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "45.1"
     },
     "ach_10": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/9c03132c264c7029360e57220631b47ff373dc94.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/6289211247960c556dcebe8d3e66e9af1ae92a16.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.8"
     },
     "ach_35": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/69f552f57d58785a3a94efa8b520dc8f9d433884.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/76dc9692587663df638b1c48a0b5e3d3dd0c4505.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "31.5"
     },
     "ach_18": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/76cd557d504a37a5852d5360218e82030fa6e83c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/f9a50b63f0eb28ad6379ff50aab911c771e37baf.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "ach_22": {
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d209ebe4a363676f6fee7f7d091297777e479056.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/97c1c9a348d298ea1cf24f9b08c787780e197477.jpg",
       "hidden": false,
-      "percent": "29.1"
+      "group": "Base Game",
+      "percent": "29.0"
     },
     "ach_39": {
       "name": "Dev Graffiti",
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/22e3992a69538e2ba5e5a2493141faeb3b446806.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/96697abd5f4b5ce036b3a18a0a799df0e39f8e87.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.0"
     },
     "ach_55": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d41cb0c274ccb0115b386bfecc15d6074ecff5ef.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/5871b6adcf3c5fd98c9e49b835301c6b58093f17.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "7.5"
     },
     "ach_57": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/5253ec905eeaf041e85c98c16b232867faf50728.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/e20b477db72f86104af00f3524021d57a41b4762.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "2.1"
     },
     "ach_49": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/94515912d6980a21afc56ba669e5be4d54641322.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/ca506ec828ed1e5922cef833bd2049b12b5aa12b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.5"
     },
     "ach_25": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d0653a72de926a88f323ec78a0b427f2393bdf0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d9128f757e4560ca407a8f9c63410a1be1e467e0.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "82.9"
     },
     "ach_27": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/34aed885d7e0d36cfeeb8c66b3bf2cd19b35692a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/8c24e678ba59dc52fe866b48eca4076683dca18f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "50.9"
     },
     "ach_13": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/61480b964f42e89a7f1d71c585fd4261ef4e9bc5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/147ee10b96f4754b1761b40bd03ef812fa47bb2f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.1"
     },
     "ach_15": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/18c56b0534e6411d81843b12ae8663541668957c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/02c2e4e61748d43496063a351666c6c0aebea11f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.4"
     },
     "ach_9": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/0019727ac194666229a921d6f668c6b60abec0a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/11a90c5bd9cc64757ea874f2388935f83fa41a9e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.2"
     },
     "ach_40": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/bc038268e0f1221e43b5cd62167ecb46765ab70a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/e7c33402111297d215c2297d044ea046d2ec9bc5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "30.0"
     },
     "ach_41": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/b6c2f43cdcf5d746f964c3878c2ba64679ca6f44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/af2c0238b37e9b53ae4e86c14e3549062149d69b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "22.4"
     },
     "ach_28": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/8a44bf5a0c86b64c652303f9f4792481c7de44cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/33140b92bd2b92b03d26bedcb6da20844a74cfa6.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "45.1"
     },
     "ach_23": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/1a729d85fae4632ba657c75a9e6a8b3d5accc418.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/e8f029decf4e63f2658eadf3120f3c023b1dd9b3.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.5"
     },
     "ach_16": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/acce1f127ed4d32eb787399222a067fe4bd4eb8c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/462d5cab1788085476cef9b3b76ecb7ca2af1c5b.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.1"
     },
     "ach_32": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d57bc415399d465eb36258fa5d5fd3b9500928e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/6c91b2d45dc063771e1cf39fe90ce10c874626d8.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "39.6"
     },
     "ach_7": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/8da023104f558129bd68b4ec9d9d576ffcabdbba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/580a9d18451075f53e2e85bfd875a7570dedb9b7.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "30.5"
     },
     "ach_12": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/cd631516e90a80f44e39787c4bef7184b96d73b0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/0578eb48853b913c8e1bd6b5b94c17e3e3380c77.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.4"
     },
     "ach_17": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/57ee148d293a263f76966e887b3c5cfa2b36f715.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/c561de125ae4080d30e3915948452b4ef873e756.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.4"
     },
     "ach_5": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/288a90a449432be1615a56b353a19f05c17c5b94.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/f7cc4f0ba0ebaeb30972b5166cd7960285ea5689.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.7"
     },
     "ach_20": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/af8cf423b14573a915d75bc88871ea5ce9688b12.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/e545e6999dd7a7cc542f703d84c76f5f62795274.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "59.0"
     },
     "ach_56": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/44960dc0df5fc7f087dc799a40f3d991f81e2d64.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/7aa047c88c5b672caad71203b401ca2cef62a2a0.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "2.2"
     },
     "ach_14": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/e0e30786511ca5762faa6545187d6c7ba2852d59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/0d799112096b3938cc24de2ddc4184b4fdf30942.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.7"
     },
     "ach_6": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/c64106035c8fc847b7de4e18899a1d1959eb586b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/7f11c1a024d2923c2d017f63995382b69254d07d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.3"
     },
     "ach_19": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/60d2fb31af6015afbad7875ed31e927ece80f93c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/2fd67d580197d9148b0f07af06e4c1cb3bf2a5fb.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.4"
     },
     "ach_38": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d356e0fda5aac3680a124f28a48c6ede2b37090f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/678ffc50021771f2c22ba2feebc62ceaf5e484d7.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.3"
     },
     "ach_36": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/a2f8ebe93a177865f2c433d062c45072512c206f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/2e5772c4ede763e04252d35e9024e62d8c52f252.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.2"
     },
     "ach_50": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/e675af283f2486afff08fade2697ead0eda01564.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d65fb7158b8a392cfcb059331381453991b064ef.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.2"
     },
     "ach_51": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/f66590f9342a57841692c91af493ca47d4bc93f0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/cf2fad2c3840072c0418b64506cc1affba1330c6.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "1.5"
     },
     "ach_48": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/b43dec79f3a0c9dac709ceb079fee6148726d7e9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/cde9657f6ff2df9d1782d6d4b061126fe9929499.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.2"
     },
     "ach_44": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/56d85a2ef13b1b3ad4ebf9edcfd2aa4a57ff0998.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/348b619e22e939f12724d6ca7d646e6dc2193abc.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.6"
     },
     "ach_11": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/92383b9eaf95828009ffa33d8ce2b2d91b1199fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/2ab4a76cf7ec8250626435945d4cd2979b00c8a2.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.2"
     },
     "ach_3": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/6f357e4990616d3b20d0ccba51fac73ce8acdbed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/808a290451485537af93854198a82499876a575e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "17.7"
     },
     "ach_53": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/e6fc5bfe7149f0529786449fd8923bfd3d178ad5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/028e9ae192912e49fc4173544199a4b16c179c59.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "10.3"
     },
     "ach_34": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/79c3a2076e8e00ed142e5776319115ddc530865a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/cae25c2dec4a7d62e1dd8d41e746a37e18035beb.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.9"
     },
     "ach_21": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/4c0065a21d873873b30aa72a6cb7670f917a6fb9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/fb4a55d6f4a17632736731aea24eecf8261668be.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.1"
     },
     "ach_43": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/a4496b079949f3f0d1671a3558757522117f3b7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/3b826c21c97dfa2782cce37a670201ccab86d6b7.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.1"
     },
     "ach_59": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/b76cd12c07ecedf103cab04075ceed2197bdbf70.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/602ca40a9eba85c62f6999518ff880bfd2918a7d.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "8.5"
     },
     "ach_60": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/a5e5114a437c6b78008546b22da76b1af5757665.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/6dd63bedcae66de78663b3cce1f8fff8e9b52bb8.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "7.8"
     },
     "ach_24": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/1c6cfb542f0d7084525019b12e73c03f1ffefb1d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/79b41619a446437abe6d424a19efedb49522f810.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "14.8"
     },
     "ach_8": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/3b505d379a7745bdca050a85b9c52abeafce9842.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/7292723ae2ea89e1444508d0825461ec8a01a0b5.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.1"
     },
     "ach_45": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/f291d82af70b60fc0627e1afd8d76906576677ad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/14e1848a44e411f49608731e46dd76bf05b9b310.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.6"
     },
     "ach_54": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/360440803414f6166787a909cf294e44e933c6cc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/bcd7b464c04cad7ba6aaa8cac0a4acd22f8f5e84.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "8.2"
     },
     "ach_4": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/674c717381a33bce4432ed0fedb1b7c5084a0665.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/679f0a0b9d93e7319748d0966d6ad435e0954b22.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.6"
     },
     "ach_2": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/9875aee1aa13b3184d23d0598da01a0e3785092d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/f474b69e80fc1477c5c63c91dfea0e3e760407c3.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "26.4"
     },
     "ach_42": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/17e1252c59ad0fa1fa9ab31cc2f875047d3dfd8b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/21982c36e6628568be5af6f71c5a4f6579a66d52.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.6"
     },
     "ach_33": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/32b1d2686a982bf957154ec13ea86dbe225ae959.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/7b76be3466340902904968f81c780a53b493f0bf.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.7"
     },
     "ach_58": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/b9d9e84103611279dd37f0e658eff0bfd4582195.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/82f1aede9b41ce04ee1f1faf06fa740c5ce876ee.jpg",
       "hidden": false,
+      "group": "Rage: The Scorchers™",
       "percent": "2.1"
     },
     "ach_26": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/5886e58cb497752ad758ad041c12964f1e525b1a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/8d4ff46cc92379399eb6d077f38f1db9712eedb2.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "66.6"
     },
     "ach_29": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/a8bea772412ec783f4e9b7b900dbd16b0b895b04.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/0688f7044ea45a916c0e83bdb6f501aaf4294f15.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "41.9"
     },
     "ach_31": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/d89b6a139206202eb64f55a2b7607c50a02a1c95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/9200/8b26b2c130816f38dcf5d9f71c0c8be5f6596c79.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.8"
     }
   },

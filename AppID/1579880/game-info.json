@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/2afba7e0dfd34df39f84d7d29fcc25e552f5cf66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/2f0dd294c0252efcad57cef97237f97accf78234.jpg",
       "hidden": false,
-      "percent": "30.7"
+      "group": "Base Game",
+      "percent": "30.8"
     },
     "ACHIEVEMENT_NAME_PROGRESS_BOSS_1": {
       "name": "Altair's End",
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/02a6026d745c6cfb75386c5b664973462c97a40e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/e73efcab812d6d7f49590c0804126442cf7755ae.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.1"
     },
     "ACHIEVEMENT_NAME_SPECIAL_GUN_COCKER": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/de6c341c5e234b0b2023bc401e3bc17d1db0e62b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/f4607eafdd2a162f1e9ff77249a498320342f60c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.7"
     },
     "ACHIEVEMENT_NAME_STATS_GUNSHOTS_LANDED": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/995532b447a929b4a7dfd7a12edb5a7ce6834459.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/18f7195f19052317d7552ecc59d9de3437ae0cbd.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "63.5"
     },
     "ACHIEVEMENT_NAME_STATS_TRAVELDISTANCE": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/aebabd17b26dd012d46361d389a12c2c99630fe2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/753f2563cef4749ff2d16e375a38e5e7f68ada51.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "89.7"
     },
     "ACHIEVEMENT_NAME_STATS_FORGOTRELOAD": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/62597764ec500a14b52ca66643f38a1a5ee6f4b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/ee2d0da6c39c8a6432123038f586f5f8c7ffe08c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "53.0"
     },
     "ACHIEVEMENT_NAME_ACTION_WISHING_WELL": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/26381ea46303836b3b42ab919d861c1af2674e9a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/39fa78eef504a543a060c2ef7457a3ea16224219.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.6"
     },
     "ACHIEVEMENT_NAME_PROGRESS_BOSS_3": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/067818c732b29740443f88278da283b589af5194.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/9b6c1014fe702f5206ab18ae79a6c1ad183f6431.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "17.3"
     },
     "ACHIEVEMENT_NAME_SPECIAL_HYPNO_KILL": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/438f26a96065a591f7b769be51a6797ac051cddc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/ecd05c5f3e47a8701df3034a7aaca9508f5c89cd.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.9"
     },
     "ACHIEVEMENT_NAME_IRONIC_BOMBER": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/51c1e14f523726eba574d8edd3781a8fe0de4b6e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/cf26572028e622af3bd69831d8db41c820b39a47.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.4"
     },
     "ACHIEVEMENT_NAME_IRONIC_SNIPER": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/5d2d9ff769b4f8e5b60903dafd7f13fabcbb2070.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/bb98c5f514b429a25605b1adcaedcffa1c819279.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "29.3"
     },
     "ACHIEVEMENT_NAME_IRONIC_MAGE": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/4236342bf3a00961809facb4e8eb918c347db6b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/4b01e2bc3866607cf281f94ad41551bd2eeeb136.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.4"
     },
     "ACHIEVEMENT_NAME_PROGRESS_MOTHER": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/26a037c5149cb97b0b0e9d08f1bd1ea809df9aac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/b14c009032d4c68ad33bc3da741a4850c71abaf1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "94.2"
     },
     "ACHIEVEMENT_NAME_ACTION_GHOST_PRAYER": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/916ec730a82012e00ad28473661c4420f6837e11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/a79706826b16df7de3602f62103b28c381c6828d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "90.2"
     },
     "ACHIEVEMENT_NAME_STATS_COINS": {
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/095da90cb52b0437da6d338ee731bbe85f560595.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/375891df37fb80d1ee9d325a961b4323617e7d18.jpg",
       "hidden": false,
-      "percent": "30.8"
+      "group": "Base Game",
+      "percent": "30.9"
     },
     "ACHIEVEMENT_NAME_RUN_ALL_HEADSHOTS": {
       "name": "Perfect Shot",
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/7b78e33822c35295ae3f4c7391ff6954a343280a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/4e645604143d966ede7c850d741eee3681384288.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "0.5"
     },
     "ACHIEVEMENT_NAME_PROGRESS_DEATH": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/56fef3cfa9a445058e42705ee39d292dc221a9c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/d5d6ebdc413b272951832083a8f76ec655c0f62a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "92.1"
     },
     "ACHIEVEMENT_NAME_ACTION_ENEMY_WEAPON_KILL": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/26fa7a1d81663e64fd4b0f483277be4e27362b46.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/0d12a01fa8a2f2aa4ce15e6ebe31c9ba85336e99.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "70.8"
     },
     "ACHIEVEMENT_NAME_PROGRESS_RESCUE": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/15ad8ec0187b5fcab8670914a93bc9514b0d3808.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/84bc22cbfb26a358d03a71b938af74a74382cfca.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.0"
     },
     "ACHIEVEMENT_NAME_STATS_HEADSHOTS": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/93307b8d4f2187a0151201ba3a109a43c95f41af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/b13f9c23ad00fafc4f73ad227548ee09e4d63243.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.9"
     },
     "ACHIEVEMENT_NAME_STORE_SELLOUT": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/a440b246020baadd0c1831fde4c71826e58624b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/e895584ba3b22ec3916749abca4d4696ba9380ee.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.4"
     },
     "ACHIEVEMENT_NAME_RUN_NO_MISS": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/77ddba72eb75b916e04e7b112761ea41e18afe82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/72580ac860cbab8dfbe8e0bef40bbe8d14f3c513.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "0.6"
     },
     "ACHIEVEMENT_NAME_COMPLETE_A_RUN": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/20ea1909904d33c7b255d600bb51cf5c9e89d325.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/987d43370d041106e2b6a4b4186491bb3848f527.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.9"
     },
     "ACHIEVEMENT_NAME_STATS_RELOADCOUNT": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/0722d8d8dfb60cc8829e6acc6db779dcfa9f6655.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/f9614cc28f09ae20b6a4c4a7c8ba1f2828ee054e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "53.7"
     }
   },

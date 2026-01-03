@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/4d41b3f46067320737ee1b1d6014f2faefa7f598.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "39.9"
     },
     "arrow": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/661e448655d7b86458899daa7163ec3cd3a8a7f9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.1"
     },
     "no_damage": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/23aab2e93f11b8c652f58535f3faec54f8934205.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "solo_pontius": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/64d4d92409a2c9b41a9700fbf56f0bdd700b2a7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "level16_exp": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "2.5"
     },
     "bounce": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1a0eee1d97630207bd03dcda705bbef58b483863.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.5"
     },
     "level17_exp": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.6"
     },
     "grenade": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/6ccbf36af884fbc58cf0fda8f7cc57ef99dc195e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "7.7"
     },
     "charge": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e6e39e30235f9de37596bd92712c40dfce61bfd2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "2.7"
     },
     "hard_hc": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7998e8cdc0c2d86bc2b012dbe508f06636278f64.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "rope": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/6196c421095ae8f85d9d3516340743b79d4c6b65.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.8"
     },
     "level18_exp": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.7"
     },
     "level15_exp": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.8"
     },
     "friendly_fire": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7e7486c627ef04a8cfb10a164f474c5d34041a82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "19.2"
     },
     "allhc_dlc": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/b86ec2e79b838f9cd703dfea4fd0dd2b73ffebeb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.3"
     },
     "level11_exp": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.8"
     },
     "solo": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/01e3938773800af073bc0e52376318d0c7a42d60.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "level2_exp": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.5"
     },
     "level8_completed": {
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "percent": "33.4"
+      "group": "Base Game",
+      "percent": "33.5"
     },
     "allexp_dlc": {
       "name": "Goblin Menace Collector",
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.6"
     },
     "allexp_both": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.6"
     },
     "level17_completed": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "15.8"
     },
     "hammer": {
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0d90b6dc174ec1f316aafcf8be8608b4a2dc6770.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "percent": "35.8"
+      "group": "Base Game",
+      "percent": "35.9"
     },
     "level19_completed": {
       "name": "Happy Reunion",
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/59cc125bc8fdaa538351c2e8bbe144282be61348.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "14.6"
     },
     "tower": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/4b1a06dd7054d0ed3038bdcba565a5d152a63f8a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.3"
     },
     "level7_completed": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "35.9"
     },
     "level12_completed": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "25.8"
     },
     "level7_exp": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.3"
     },
     "hazard": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/5e0d67da3decca3646cc6713a41715050e6082b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "57.8"
     },
     "game_completed": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1eb5412ebaf2548a30e8ae47012b443fa865afdc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.1"
     },
     "shatter": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1d42c57412464408f7815967156984135e5fc773.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.6"
     },
     "level12_exp": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.9"
     },
     "level18_completed": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "15.0"
     },
     "level16_completed": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "16.8"
     },
     "level1_completed": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "80.8"
     },
     "solo_zoya": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/27ecff890d0d957e2f35f70bd52f5c5352569eb3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "allchest": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/bc6dd7d5765b40b816ee6203735952ee5971b38c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "level4_completed": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "51.6"
     },
     "allexp": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.8"
     },
     "level4_exp": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.3"
     },
     "level3_completed": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "56.4"
     },
     "level3_exp": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.5"
     },
     "level8_exp": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.0"
     },
     "level9_exp": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.3"
     },
     "sandworm": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/c7305e49a05cb619cad77822e64187639a5ffea7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "3.5"
     },
     "level6_completed": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "40.6"
     },
     "level14_completed": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "20.0"
     },
     "solo_amadeus": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/25c94d9352f9fbef1e7aff71fa6a03b2b397b880.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.9"
     },
     "catapult": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/9ff3472e38b519fd0e72aab76d89ac0630f1d1c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "2.8"
     },
     "level10_completed": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "30.9"
     },
     "level5_exp": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.7"
     },
     "catch": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7b221803c5856c24afc4a4c9cb1b92985b3c9af3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "5.3"
     },
     "air_hammer": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/65cd801ec95b8e05d3382b1b4daac1a81b9be5c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.9"
     },
     "pontiusglide": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ae24719e9d898bb338d6093fe45de2659b752b3b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "4.1"
     },
     "raft": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ab5440d9e2fe7e551f41f270a23b822bfd0e8f56.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.6"
     },
     "hard_hc_dlc": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e76e22aba217366a0b64d2a41d6fb8d7f2b40c31.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.5"
     },
     "level13_chest": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "5.6"
     },
     "level10_exp": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.9"
     },
     "level16_chest": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "7.4"
     },
     "level17_chest": {
@@ -481,6 +540,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "5.9"
     },
     "level18_chest": {
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "5.9"
     },
     "level15_chest": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "6.4"
     },
     "level11_chest": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.0"
     },
     "level2_chest": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "42.9"
     },
     "level7_chest": {
@@ -521,6 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.2"
     },
     "level12_chest": {
@@ -529,6 +594,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.4"
     },
     "level4_chest": {
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "23.5"
     },
     "level3_chest": {
@@ -545,6 +612,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.6"
     },
     "level8_chest": {
@@ -553,6 +621,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "20.6"
     },
     "level9_chest": {
@@ -561,6 +630,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.6"
     },
     "level5_chest": {
@@ -569,6 +639,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.8"
     },
     "level10_chest": {
@@ -577,6 +648,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.4"
     },
     "level6_chest": {
@@ -585,6 +657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.8"
     },
     "level14_chest": {
@@ -593,6 +666,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "7.4"
     },
     "level6_exp": {
@@ -601,6 +675,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.7"
     },
     "expbottle": {
@@ -609,6 +684,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e21249f3821e1a01850a9952abb7afa70019bb02.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.1"
     },
     "expbottle_dlc": {
@@ -617,6 +693,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e21249f3821e1a01850a9952abb7afa70019bb02.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "2.7"
     },
     "level9_completed": {
@@ -625,6 +702,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.5"
     },
     "level11_completed": {
@@ -633,6 +711,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "28.1"
     },
     "frozen_tower": {
@@ -641,6 +720,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0b2b125c3057c918018b10be39d49f209c36b1c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.9"
     },
     "level15_completed": {
@@ -649,6 +729,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "18.4"
     },
     "surf": {
@@ -657,6 +738,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/438efab3896436d5e628a076564675a5769bdaaf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.7"
     },
     "level14_exp": {
@@ -665,6 +747,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.8"
     },
     "pontiustower": {
@@ -673,6 +756,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/73013673f6aacd149924e5d65e439b9e8aee7605.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "4.7"
     },
     "level1_exp": {
@@ -681,6 +765,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "25.8"
     },
     "allchest_dlc": {
@@ -689,6 +774,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/bc6dd7d5765b40b816ee6203735952ee5971b38c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "2.7"
     },
     "pit": {
@@ -697,6 +783,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/042ec82a8a332a34a00485e259ba5917b9431d19.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.4"
     },
     "bubble": {
@@ -705,6 +792,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/15ba8c833b567edfe0e0c6330f044ffb04d5df3f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.0"
     },
     "level13_completed": {
@@ -713,6 +801,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "25.1"
     },
     "level5_completed": {
@@ -721,6 +810,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "45.7"
     },
     "platinum": {
@@ -729,6 +819,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0c4bb821a4eb1c614c026079c1f820c05b504890.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.6"
     },
     "platinum_dlc": {
@@ -737,6 +828,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/933327fe235d91a8c36aea99b43e0e1c5bfa0eda.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.3"
     },
     "solo_dlc_levels": {
@@ -745,6 +837,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/5668565896c5bf79d468b095ebcbad3609d0800f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Goblin Menace DLC",
       "percent": "1.3"
     },
     "solo_all": {
@@ -753,6 +846,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/a2dfd066c5b2b4b2e3626ab2588ca6d49cd83e76.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.7"
     },
     "allhc": {
@@ -761,6 +855,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/f7501eb53ad9305e4d3ab3e449b993829acd334b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "1.4"
     },
     "trapstack": {
@@ -769,6 +864,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/01bca7710eda2d62d2ed47cafeaed7ae1c35899b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.3"
     },
     "level2_completed": {
@@ -777,6 +873,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "63.8"
     }
   },

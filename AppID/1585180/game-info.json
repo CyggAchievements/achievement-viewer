@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/bf5241a3dfd8247e72cb71d441298fcc5dd7e9c2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/4c1419b352222b9706f30cb6412883d910fb1490.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "59.9"
     },
     "a5c936f4df9c1684196795f40bc469b5": {
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/4abcb9c9c0fdc561ffde3eec8d43f41a95dc7a98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/d83aeacc38630822eda063d2906760f4ede2bf1a.jpg",
       "hidden": true,
-      "percent": "17.3"
+      "group": "Base Game",
+      "percent": "17.4"
     },
     "28e18e58371edb344a1f48b92e809c93": {
       "name": "Alone in the Forest",
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/8b854717f6a17f6b15bcb5d47fc2f65f9a8600d7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/8b417083215b7f058afc844389c6c0fc7f144abd.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "18.6"
     },
     "3cf8d6184d61031479599d0797af988a": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/64490a867ed81be63e8492cb68b39d51cf92956e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/aa6185d1f68255650f54d29ce340521aa5bce73c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.6"
     },
     "fe420c681f5481340b72c36abfe441ac": {
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/3057c263707a49708f091527f416396605cd9a76.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/9fefed3a9e177e2a99b27b746d4304402d4ace45.jpg",
       "hidden": true,
-      "percent": "12.8"
+      "group": "Base Game",
+      "percent": "12.9"
     },
     "0f7346ccb737aba439a2e6c0573a141b": {
       "name": "Animal Whisperer",
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/d93b4496a89efb2823edb687683e262aafdb16b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/cbc4fb3e6530c846351c78d4f8f628d9277a51c1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "4.1"
     },
     "07bdd49fb5b319c4ba8d8f68f70ab641": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/8265865e5aa6c6d5cb44b8a12151cc17e1cfd009.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/f4f9c23c9d3a7aa3980e6ab0623fc0dc18cd8444.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.6"
     },
     "f0225762fa050404aa37e60971b35c45": {
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b3c468edb51f076a32a48279ad24414b6688454f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/73db904cf7af44edeaed7e15b83099e4a20e1f5b.jpg",
       "hidden": true,
-      "percent": "8.6"
+      "group": "Base Game",
+      "percent": "8.7"
     },
     "a84d6a91531170b4eb35a812d820c13d": {
       "name": "Bookworm",
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/79c00153dad4e90973728486b38f6d42b7d6fb61.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/0ce62f693c9ffc428e44a1967cd3f9bd2ad968f7.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "20.0"
     },
     "f1ec41cb7801e1b46aee21d8b60fc8e4": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/5e734331295d794212c5b226fd25c89624f6f05b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/57a26291b5e25517587ec23c6e9fc6ebbcf44126.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "15.1"
     },
     "02875a29e6878f54e930ecce859e835a": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/bd5a2ae9910214009ed53680e8c18b2ac8dee099.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/4c3e86ff17b9da93d530264293213899c1582392.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.2"
     },
     "a16b91e3b47c64a4ea4a026b39380c06": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b664066e59e7dab0cc6fbd2d24299fffdf122861.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/559ee28a03ba9588067af9362b0a1d9b359a3224.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "38.4"
     },
     "2ca3956c840390a41aa96e9775b7bf87": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/25ce21fdb8b53f4360c82bed7517e09f67387216.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/c9628bc99f8c76eef8347d416eb867e4e32ac0cb.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "0.4"
     },
     "0f838c722d0ba3f4cb5eff8a85478bd8": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/5099d60e342425104d12cb661344c094d75f521f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/9c60d7dd8082ec4ad1222bb4aa82a506e7d8f3cb.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "8.3"
     },
     "34416e459989bde49a4d63f768b12541": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/01d93565ec6c3f3e9eb873143b855c5f8ce03e2f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/95340a2e46f845fb9ccb51c76c8cc5f234cd82e9.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "16.2"
     },
     "d4427662fc55d2c4bbba3af213a71435": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b4e63d5d3305ee26565b9b92e98cf8f25de8541f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/a4715bbdfce79b8b56d7a379c490f6c4e9d4b25c.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "10.7"
     },
     "6b26b0dc2f4017642b7b864a4208f5c5": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/abd94ef51bf5c912d135c9a854a961044acdb1a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/ce3f892f389d2ab2914c1035137e0c5f8148a68e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.3"
     },
     "a47490609ac173d46ae6ece9ebb14d94": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/baaed9e2b474edd20ef5e5bb7ce50c69b16687d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/eb0221660dc818d2a7e1eec715b0ab54f911ffa0.jpg",
       "hidden": false,
+      "group": "Update 2",
       "percent": "1.7"
     },
     "aecf8ac972057d14a82782fa9e46633c": {
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/6f588fbbaeaba918f8548d912ed5e9fcc7761e59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/22d7b69242b24d00ff3a3939c3c79312e65ac7cf.jpg",
       "hidden": true,
-      "percent": "27.4"
+      "group": "Base Game",
+      "percent": "27.5"
     },
     "4962a14da18744a42a943bd740c4520c": {
       "name": "Gladiator",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/f5b9ff7e601b35263d1bcfc3f314990de7cf5746.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/51b1d61add496b9c8f4bd15a1dbb530fc12ae03b.jpg",
       "hidden": false,
-      "percent": "15.1"
+      "group": "Base Game",
+      "percent": "15.2"
     },
     "c45f1925e50fac44687d37e4bf5c9dba": {
       "name": "Hardcore",
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b83c1a17f35fd31978cbde06dd3fe3fd74f5f251.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/7fde741163a8226bfdb092414924386df23d12ba.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "0.3"
     },
     "9c19c768a339fcf4f81d374ff5a2ee05": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/938078980eb29eef86c9649107e43a30c64365a7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/23874c6a8163e74fae9118b9e789745a61c948f9.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "20.0"
     },
     "2b4b20cadf9d5774c9dc92b1de52ad24": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/1b703bb05bdf79a6d770796962a69296836c038b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/56a083fb45ca380e7748c08cfe7c22c5a9ecf309.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "18.5"
     },
     "c386cfddb14f5a046934cfa8e9d830ca": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/ee9138e02b45b0dca54e13e9aa5c5e548d1b1ec6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/1c565ff7dfce045672ffc23b2c257af08a5bee06.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "36.6"
     },
     "57dd2b51161c4714db258bfc50b91875": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/9cc56e71c3b568208dba7463a442d89770679c1c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/adff74ca7133c2981953652f36bc5b6cb4e6a793.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "16.6"
     },
     "79362b96c8342eb428973ffbe9f6d722": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b22d2c576b576bed3acd8c43ea0fdf213063a2f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/34f93bbd5d36319d9d0f63a458573d5f6d2b27d6.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "0.8"
     },
     "3a3764a914e904d44823cf76b86ae6ee": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/9a7303d481c34ad75a5e43b939c608a4ee6226d1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/e025fe52ed44fd66f9bc61ebda4063804c1c5373.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.0"
     },
     "e0a17c98c2124b94989c36e1091f929d": {
@@ -225,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/9631045893f641d697b58f80240aed31fa8fd26a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/1171ffe76b3856e739407e4dd0b386228931c4ea.jpg",
       "hidden": false,
-      "percent": "10.0"
+      "group": "Base Game",
+      "percent": "10.1"
     },
     "1bbc811f19c564542b258d8acad9ff74": {
       "name": "Joining the Remnants",
@@ -233,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/ce29c1a5a8ceaffaa053a1999dceadc3335ca49d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/f0b0efeed27eb3161f3f64daa35bfd283d66a0ba.jpg",
       "hidden": true,
-      "percent": "9.7"
+      "group": "Base Game",
+      "percent": "9.8"
     },
     "efe7f6a807915b34ca5524863e4371c1": {
       "name": "Last One Standing",
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/94a1e05da0ba294f62ec186cf89a8435e5be46fa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/c8d869e68347bc4cf77adc7f42ef191025a12c20.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "3.5"
     },
     "0ec6ef1fd7bf51b48a74f8f012d7549b": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/9c1a891c9b78ac5dd7a55c03630b978060895057.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/fd25349b1fb574b2cfa353ac093e15963bab1809.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "f2cf59a1f7828c34f9678c7d4bf33648": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/81f1c9cb473286e77c5c57af0d31c8ed170b0e87.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/3d37ec937eb4823aaa79c53e21a32d96826461c9.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "25.8"
     },
     "4843088a721779849b07a03af5402c92": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/59fae5c2aa4cba3b369329c8d39277737fa6a978.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b191edeadd678a938fc7691abaef8c265d4e00ab.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "11.1"
     },
     "8406391e2b638b949b0aeccdfd6031a3": {
@@ -273,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/518d3b8b5699716397fbe508e58785a013f2671d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/ee1905eb86f6f285b227ce6cb4b1507805f5df9b.jpg",
       "hidden": false,
-      "percent": "18.7"
+      "group": "Base Game",
+      "percent": "18.8"
     },
     "bbbfc1c8c405c184297df8809d00b096": {
       "name": "Of Fights and Foxes",
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/62982a0719a4b145665af687684e0458642a2013.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/a1f096c02f0bed56610a4caf96c5f8d9d38fd93c.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "33.4"
     },
     "92a82ae8ca6ed124abdccda9215e27a8": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b877aac9133f9e702fafe58ea0c9bf637b289385.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/29343fa6ebfb6b16d6000a46795495c99341833a.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "37.0"
     },
     "7d8e19953bc4c5243bf31e037ff5aee1": {
@@ -297,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/0f67e8f2d096664f10e60a5e7ebbb81f095c5505.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/fbdc3b35e2662cef723f737fd7e85500b3b07605.jpg",
       "hidden": true,
-      "percent": "22.6"
+      "group": "Base Game",
+      "percent": "22.7"
     },
     "a9c86a09550dbfb4ba11a3be8a2ae613": {
       "name": "Only with the Rune",
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/76c52851b32f9f6d0615e0d050326c8e5c7e36d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/802a3f22aa6a4fb579561d3679e1701caf8ccdf2.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "22.4"
     },
     "d8efeef3acdfbed478275521a422fc75": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/96cfb3af7649093812bd85b33af040d4f8f10793.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/873cf8c9d95dd6ee8fb5477632e98176e7277f06.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "14.3"
     },
     "fa10dc72e2796f54988e25e8d8c8bab3": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/52dc9643555abd3e548e51c560cdeac82d91446a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/084fa98b37afa63aeadca2044054bf0bdcb04b79.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "26.2"
     },
     "d7e5b75ebf1e0a24eb3f1f83aa3f9806": {
@@ -329,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/b5d64716b1de683ede64d519e724d0417ab75f14.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/aae7c17fa1de123a8aaca310b272468c6648c9e6.jpg",
       "hidden": true,
-      "percent": "25.0"
+      "group": "Base Game",
+      "percent": "25.1"
     },
     "d093eab4b06d39e4a986bca7ffeb77b3": {
       "name": "Samaritan",
@@ -337,7 +378,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/74579c6f00f4494a335019685276fa52ce1d9653.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/666362b642c9d7d497f2d9d0abfbb1213cae29e5.jpg",
       "hidden": true,
-      "percent": "15.3"
+      "group": "Base Game",
+      "percent": "15.4"
     },
     "9a7c64b6c67481a4597f55a6bb486ef1": {
       "name": "Scavenger Hunt",
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/93a58c38fb8b5424e8eef243d4358e8b3a86045a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/e486af90938d2fc69fccccf368d8cb70782961df.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "13.5"
     },
     "71b8c106fdf0616478cb001e50fbf003": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/02134aaf720d5b54577840d69773b84f8956ef9c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/dc25c47147d2aafaa207d6f2549331f8fa7b08db.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.5"
     },
     "fdac186098785da48bbba16d6cacab2f": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/a49261cb0b34d9f36836ff6829f22d4ec62eb28f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/6f3f91494b4764cfc37dc6423f357b87491707d9.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "22.8"
     },
     "1d5dfc85492c65945bbae38b6aab697b": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/31d2bac8cdad988a915f1ad9858f74ff757f23ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/78e5a96f4d162eee4c7946701031f07b9ee17011.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "12.1"
     },
     "8563a01d43ea37d4abb8d5a139e82bd8": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/176cbc691ed52bc3d22d83890d8aa1e0b36cf54b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/0bfd195ac36563ce2e4117ad0f93e1af6e7cd9d1.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "21.2"
     },
     "9414568c7ed5f314f80e1c156ab954e9": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/08cf9384641ebacb0bdea77e7d15ffa9046d4908.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/491e49d5252c6af647eb0b90c5e6da1586194fc1.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "14.8"
     },
     "5eaaae2cf6c6e694d976bf9429fe5320": {
@@ -393,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/d31f287b0598b089e3f7dcbd13becda69b941a02.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/8fc878f18f4f7b6a7ef5d1277013f35f043e915d.jpg",
       "hidden": true,
-      "percent": "17.6"
+      "group": "Base Game",
+      "percent": "17.7"
     },
     "529f3219f7a9aee41aa44e450683e8b2": {
       "name": "Utter Trust",
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/db124f89bb0da1bd47b526cda31fe46a64243b37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/0bfae29da67a6ada95480fc797c741f591eb5d54.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "7.0"
     },
     "a00f1c88a60e2b047aa4225b3f67342e": {
@@ -409,7 +459,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/22be140372a4bf0b30aba7ec8140d991d4dc600c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/d6c6b34a71a5db468897794bdb4cfdb611975f9f.jpg",
       "hidden": true,
-      "percent": "2.8"
+      "group": "Base Game",
+      "percent": "2.9"
     },
     "34d787c42da7a8047882dc2fa0d66982": {
       "name": "Welcome to Drova",
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/e1a50a93b814c1febe0e53e5a53de0dda8294a0a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1585180/cf8873632aff2a7552489dce84da9ac832e2be42.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "73.2"
     }
   },

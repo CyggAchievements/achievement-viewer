@@ -9,6 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/ec19ae11d78cf15a4ca69611b12551bfdab2b115.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "18.2"
     },
     "dlc_02_a_man_of_principle": {
@@ -17,6 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/ab747c7d87b6c316e0c18d959068ac1510a33aa5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "3.9"
     },
     "a3": {
@@ -25,6 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3166abbe91c022ec035fababf99676ae9f57163d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "29.5"
     },
     "mutant_killer": {
@@ -33,6 +36,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/471e4b788fdf895d1aa0b7235a5189ce92dec268.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "32.7"
     },
     "aurora": {
@@ -41,6 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/e6e30081fcc1112739115e182514a1945eac66cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "70.0"
     },
     "coachman": {
@@ -49,6 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/8d162e9a834d4a224320af0ba190bc71790da745.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "4.6"
     },
     "carmaheddon": {
@@ -57,6 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/e9a72f85437adcafc11b4f08ab99420a98ba6e24.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "3.5"
     },
     "dlc_02_cinephile": {
@@ -65,6 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/88418fb3610839d63e0f7493252fcb69876cb0e1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "7.1"
     },
     "all_road_map": {
@@ -73,6 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/6a4c70dc3b9c31e866e92b5b89a935a1c66ee291.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "43.8"
     },
     "d2": {
@@ -81,6 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/f54240c7dd1e9f7643780a47747299158b022714.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "16.9"
     },
     "decommunization": {
@@ -89,6 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/5bcd7c94697e08e9313f2e0ff4e095a87a74f825.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "8.4"
     },
     "dlc_01_dodge_master": {
@@ -97,6 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/0da9e952f132b673db4d1a4a5799be79f4a6c201.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/c78b0e37d4ae8619d1f7752a9a328a753e73448f.jpg",
       "hidden": true,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "4.2"
     },
     "full_armor_set": {
@@ -105,6 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/81b217a12caf22179d6157464d0b8d7d70f715ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "6.1"
     },
     "driver": {
@@ -113,6 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/793900535be90f18b4d912e8765d51b86a7aed40.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "45.8"
     },
     "d1": {
@@ -121,6 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/c04a69e0323538abfff9b8ec818cbfc87f077548.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "29.4"
     },
     "dlc_01_duty_and_conscience": {
@@ -129,6 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/8f93112ab6bfc4c8129f5a2e591e262213737944.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "15.8"
     },
     "all_bad": {
@@ -137,6 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/056a0a08c027a7f97ad2eac7bde72c1b72482ad8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/c78b0e37d4ae8619d1f7752a9a328a753e73448f.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "14.9"
     },
     "exodus": {
@@ -145,6 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/5ed2d78de7c6fd9509f29b60a2b5775459b47036.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "71.1"
     },
     "dlc_01_father_and_son": {
@@ -153,6 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/8923d0f0d386366518e5fc0e36aa1962a8b60689.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "15.5"
     },
     "firebird": {
@@ -161,6 +180,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/880bf3380f4eb84f0012bb9698576dc0bed6d1af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.4"
     },
     "fisherman": {
@@ -169,6 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/8556d84ee3c85a6512e319b6a5067a7e50c77cf8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/c78b0e37d4ae8619d1f7752a9a328a753e73448f.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.8"
     },
     "forest_child": {
@@ -177,6 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3156992612653470941401ae70b02dd51b14b4f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "crew_friend": {
@@ -185,6 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/f345b4928511d99b004605a183a6273184e063cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "39.7"
     },
     "full_band": {
@@ -193,6 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/a3e809e707689f4a773e4ca86ccbb1ad26db418e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "12.9"
     },
     "gorko": {
@@ -201,6 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/b1eb87b0e62bb7c107a7b009bdb53747cd8201f1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "38.8"
     },
     "dlc_02_great_owl": {
@@ -209,6 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/5bd4b96945cee0f94f213133b4237079057cdb0e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "2.6"
     },
     "guide": {
@@ -217,6 +243,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/027f5be176b2a72e4c8b3b7ec395239018af1766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "14.6"
     },
     "gunsmith": {
@@ -225,6 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/d4d9bb45fb15ba3b4ead3b9a79193c9497df5552.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "51.5"
     },
     "constructor": {
@@ -233,6 +261,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/4a19cd08c774ff1f719d8636a2f25024b4101bf9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.7"
     },
     "hardcore": {
@@ -241,6 +270,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/a1c2b7de9a65f538bfef01cc8c36b8be2beff30f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "3.3"
     },
     "headhunter": {
@@ -249,6 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/9494c9ac3435883bab4c10b221e3affe8fa4a587.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "22.3"
     },
     "iron_man_1": {
@@ -257,6 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/73c8ab0f39f370946cc5a1055f7bc3617969c3a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "1.8"
     },
     "dlc_01_just_scratch": {
@@ -265,6 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/bfa3e4ed2515eed9db80c5d56a5b1438caab9da8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "2.5"
     },
     "on_the_air": {
@@ -273,6 +306,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/c02a038c5cbe73249488454cd10f28137aff8141.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "26.7"
     },
     "kaleidoscope": {
@@ -281,6 +315,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/1937083ca8f2dd05f993715ec756611b1f19239b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.6"
     },
     "last_minute_man": {
@@ -289,6 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/a160e7b2794e6f8b911570412ccd0b8d88cc2990.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "11.3"
     },
     "librarian": {
@@ -297,6 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/dfd2ac83ca9b90777655f0e84fad5acd3904c721.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "long_distance_passenger": {
@@ -305,6 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/ca4db252266a73d1cbae3f1f9e71ae1e378b2d24.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "49.7"
     },
     "dlc_02_lord_of_war": {
@@ -313,6 +351,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/b3b3b98f48e47303bd4518d8c5e375407cd8577a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "8.0"
     },
     "lower_the_b": {
@@ -321,6 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/382381a6c0c41230900c28976121c8fe49071882.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "48.2"
     },
     "martian": {
@@ -329,6 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/fa6195288293a560962dff7486914a3fbcc96650.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "69.0"
     },
     "master_of_the_forest": {
@@ -337,6 +378,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/9907f8feeb2e1a47326fdb814279af83f5b71462.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "27.7"
     },
     "dlc_01_quite_heavy": {
@@ -345,6 +387,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/b8c8278a0b5c8b007a325e16812dd1804a65ea58.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "2.8"
     },
     "dlc_02_music_lover": {
@@ -353,6 +396,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/496a4048e0c258ed127862e7dde2205760cf7313.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "2.4"
     },
     "mutation_1": {
@@ -361,6 +405,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/c7e81c3f8d3b49e11f81e63db66764e974d8135e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "2.6"
     },
     "new_order": {
@@ -369,6 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/0bbea6ea8e6791ffda8e0dda1027269fa2638854.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "39.1"
     },
     "dlc_01_new_year": {
@@ -377,6 +423,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/079b05f64af83a428f1042dfe015606a8c8d2026.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/c78b0e37d4ae8619d1f7752a9a328a753e73448f.jpg",
       "hidden": false,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "16.2"
     },
     "old_world_pictures": {
@@ -385,6 +432,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/65c39e14580c90ad46a12e6a952eaee6a1fee7a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.6"
     },
     "professional": {
@@ -393,6 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/edf66485112a621966b3852003ce12247fa70ca6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "12.2"
     },
     "putrification": {
@@ -401,6 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/d96e119ef0a8e5d7be4d69dd9245107fdb9207a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "34.2"
     },
     "railwayman": {
@@ -409,6 +459,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/bfb06d8a4812e713577231156ba1a3e75610af67.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "50.6"
     },
     "dlc_01_real_colonel": {
@@ -417,6 +468,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/05038febfc230891525be34211bd4c371b1453bb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "14.9"
     },
     "regatta": {
@@ -425,6 +477,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/b13a8b4205bbf6fbd90a1d8ea8be407a5a4d3321.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "67.9"
     },
     "righteous_vengeance": {
@@ -433,6 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/d37761caf2aa7a5e7171a19ec20860fcb1e18b1d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "41.7"
     },
     "robin_hood": {
@@ -441,6 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/80a58e2fe9648a0624acb02c5e5ad0d0d655ab0a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "24.8"
     },
     "roller_coaster": {
@@ -449,6 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/a732f0d95414ef772ecf062c759d42c8053f9c42.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "7.2"
     },
     "polite_saboteur": {
@@ -457,6 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/552114c8c17a1572f2b98ab88f006b933bced5b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "33.7"
     },
     "silent_marksman": {
@@ -465,6 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/cc996112a41d42adf07335df84f59b39ff49805f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "40.5"
     },
     "spoiled_dinner": {
@@ -473,6 +531,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/69135035e7241c53e28bf71daa3daf2d8461efb9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "47.0"
     },
     "sniper": {
@@ -481,7 +540,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/af7e153dab3db25277af49fc64710aee8abe5c3a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
-      "percent": "4.2"
+      "group": "Base Game",
+      "percent": "4.1"
     },
     "sword_of_damocles": {
       "name": "Sword of Damocles",
@@ -489,6 +549,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/241bee666eac94bf084047ffcfefb90e52d41118.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "35.2"
     },
     "dlc_02_the_last_hero": {
@@ -497,6 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/d332a2f71b9e3b3a38095a50803bb09ab13e7a47.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "12.4"
     },
     "dlc_01_the_whole_picture": {
@@ -505,6 +567,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/99826103df3c7be3e03b5d99eb1985d0ee39ac59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - The Two Colonels",
       "percent": "2.9"
     },
     "tidyman": {
@@ -513,6 +576,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/370435bca0a026dd83c86ad3c5739aeca9546324.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "9.3"
     },
     "toy_seller": {
@@ -521,6 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/bc47b9985df70781c07ee28aeec6620b1e2c092d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Update 1",
       "percent": "2.0"
     },
     "dlc_02_trapper": {
@@ -529,6 +594,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/6d6ce6f3eb9f91965b0500149f569a7b40f88e37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "8.9"
     },
     "dlc_02_untouchable": {
@@ -537,6 +603,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/7ee60982c90f7aa79958812aa9ae2e30999889e3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
+      "group": "Metro Exodus - Sam's Story",
       "percent": "4.1"
     },
     "all_good": {
@@ -545,6 +612,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/bf435b851f66589fe4e5708c677242aba36dc737.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
+      "group": "Base Game",
       "percent": "22.4"
     }
   },
