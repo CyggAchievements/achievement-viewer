@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/825e4d5cf7734fd7db64d1fbacb694d6ed44068c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/661e148b1d480a888fc1b07e02cf3285c8da0b31.jpg",
       "hidden": false,
-      "percent": "74.9"
+      "percent": "74.8"
     },
     "Airborne": {
       "name": "Airborne",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/b208422c7e2aa573dae36645a0e1166edc841a1b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/ffbbdfd797753531f73d51a7c0f3d7341e614142.jpg",
       "hidden": false,
-      "percent": "85.9"
+      "percent": "85.8"
     },
     "ColossAlloy": {
       "name": "Coloss Alloy",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/d2340c39ebdd3ea9240b32b3392a82a0aa446e49.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/1eb32dff36e6e3e3676a4508114d8b1287dab8af.jpg",
       "hidden": true,
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "EchoesOfThePast": {
       "name": "Echoes of the Past",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/3b3995ed46c8f1308b2071165454256d598108cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/07dfb0e75eba4388949d1f0bbeee5fc452681a45.jpg",
       "hidden": false,
-      "percent": "84.7"
+      "percent": "84.6"
     },
     "GeneralLudovic": {
       "name": "General Ludovic",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/1516a0c077440df657b54a427fed163559110d2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/7f2aa4a53f4e8f876257d71d1cc06dfce5ef1876.jpg",
       "hidden": true,
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "GoodCatch": {
       "name": "Good Catch",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/2e6f75a7433393c3768ccb78f8db43eb53a2ba46.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/9ba5c6f13b1dd8ad3859873322ef3893cf8f2012.jpg",
       "hidden": false,
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "Lognbryter": {
       "name": "Lognbryter",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/6831d666f650b3954a530e7175fac3137326eea6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/033d6cc18b22da959b77a117883c8b5002a295b9.jpg",
       "hidden": true,
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "Shacklehide": {
       "name": "Shacklehide",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/2ef2206786662e41a5f5235b2561641aeb8752cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/655955c4b7325bc36b450cbc9084c2cc9ef340c8.jpg",
       "hidden": true,
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "SoraVrisak": {
       "name": "Sora Vrisak",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/bff5460989c5fa92cb439d0d53d2eccd324ca23e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/0b59573401518419db0b5d33bccfa259f43225a8.jpg",
       "hidden": true,
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "TheGrappler": {
       "name": "The Grappler",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/3c91e5b90ba18fd7ee7b0e09e63f285dd78f4904.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/a13fc3e274b939e2c4293027f42d887e53acdefb.jpg",
       "hidden": false,
-      "percent": "81.8"
+      "percent": "81.7"
     },
     "TheMadMarauder": {
       "name": "The Mad Marauder",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/42d0812f7e099386464c8d8891defb221ff8e25f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/6ff44674d1ee485902b4a3d636aa549c9e423f1e.jpg",
       "hidden": true,
-      "percent": "78.9"
+      "percent": "78.8"
     },
     "ThePaleArcher": {
       "name": "The Pale Archer",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/6c9777c65e0486926b45d6009f08a7c18cf79c63.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/bbd021f8be6fcff5cd006cfaf655f5bcb58c8e14.jpg",
       "hidden": false,
-      "percent": "80.0"
+      "percent": "79.9"
     },
     "WhispersFromTheDark": {
       "name": "Whispers from the Dark",
