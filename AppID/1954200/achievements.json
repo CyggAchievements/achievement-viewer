@@ -1,169 +1,165 @@
 {
-  "All Trophies Obtained": {
-    "earned": true,
-    "earned_time": 1687361933
-  },
-  "Hunter in the Forest": {
+  "ACH_ABILITY_BOW": {
     "earned": true,
     "earned_time": 1682860558
   },
-  "Harness Your Power": {
+  "ACH_ABILITY_BOMB": {
     "earned": true,
     "earned_time": 1683042606
   },
-  "Crossing Over": {
+  "ACH_ABILITY_DASH": {
     "earned": true,
     "earned_time": 1687105431
   },
-  "Found a Friend": {
+  "ACH_HERO_ROT": {
     "earned": true,
     "earned_time": 1682777751
   },
-  "Haikyo": {
+  "ACH_LOCATION_VILLAGE": {
     "earned": true,
     "earned_time": 1682779552
   },
-  "Into the Woods": {
+  "ACH_LOCATION_FOREST": {
     "earned": true,
     "earned_time": 1682794251
   },
-  "The Open Range": {
+  "ACH_LOCATION_FARM": {
     "earned": true,
     "earned_time": 1683044473
   },
-  "The Lonely Path": {
+  "ACH_LOCATION_MOUNTAIN": {
     "earned": true,
     "earned_time": 1687261911
   },
-  "Taro's Fear": {
+  "ACH_RELIC_KNIFE": {
     "earned": true,
     "earned_time": 1682863431
   },
-  "Taro's Regret": {
+  "ACH_RELIC_LANTERN": {
     "earned": true,
     "earned_time": 1682961464
   },
-  "Taro's Love": {
+  "ACH_RELIC_FOOD_OFFERING": {
     "earned": true,
     "earned_time": 1682886687
   },
-  "Adira's Love": {
+  "ACH_RELIC_OX": {
     "earned": true,
     "earned_time": 1686870705
   },
-  "Adira's Fear": {
+  "ACH_RELIC_HAMMER": {
     "earned": true,
     "earned_time": 1686922391
   },
-  "Adira's Regret": {
+  "ACH_RELIC_VILLAGE_HEART": {
     "earned": true,
     "earned_time": 1686951180
   },
-  "Toshi's Love": {
+  "ACH_RELIC_VILLAGE_CREST": {
     "earned": true,
     "earned_time": 1687193151
   },
-  "Toshi's Fear": {
+  "ACH_RELIC_INCENSE": {
     "earned": true,
     "earned_time": 1687183016
   },
-  "Toshi's Regret": {
+  "ACH_RELIC_HARPOON": {
     "earned": true,
     "earned_time": 1687188463
   },
-  "Spirit Guide": {
+  "ACH_BOSS_TARO": {
     "earned": true,
     "earned_time": 1683040515
   },
-  "A Heavy Hammer": {
+  "ACH_BOSS_WOODSMITH": {
     "earned": true,
     "earned_time": 1687101037
   },
-  "A Leader Walks Alone": {
+  "ACH_BOSS_TOSHI": {
     "earned": true,
     "earned_time": 1687261829
   },
-  "Restore Balance": {
+  "ACH_BOSS_ROT_GOD": {
     "earned": true,
     "earned_time": 1687266270
   },
-  "Piercing Blow": {
+  "ACH_CHALLENGE_ARROW": {
     "earned": true,
     "earned_time": 1682864474
   },
-  "Weigh Them Down": {
+  "ACH_CHALLENGE_MOTH": {
     "earned": true,
     "earned_time": 1683042855
   },
-  "Quick Draw": {
+  "ACH_CHALLENGE_CRIT": {
     "earned": true,
     "earned_time": 1686867492
   },
-  "Bow Master": {
+  "ACH_CHALLENGE_MULTISHOT": {
     "earned": true,
     "earned_time": 1682864378
   },
-  "Sharpshooter": {
+  "ACH_CHALLENGE_BOMB": {
     "earned": true,
     "earned_time": 1683044108
   },
-  "Between the Eyes": {
+  "ACH_CHALLENGE_SHIELD_STICKS": {
     "earned": true,
     "earned_time": 1682792775
   },
-  "Return to Sender": {
+  "ACH_CHALLENGE_MAGE_BOMB": {
     "earned": true,
     "earned_time": 1682887411
   },
-  "Triple Threat": {
+  "ACH_CHALLENGE_PARRY_KILL": {
     "earned": true,
     "earned_time": 1682793194
   },
-  "Rot Commander": {
+  "ACH_CHALLENGE_COMBAT_ACTIONS": {
     "earned": true,
     "earned_time": 1682778667
   },
-  "Triple Tap": {
+  "ACH_CHALLENGE_DASH_KILL": {
     "earned": true,
     "earned_time": 1687181880
   },
-  "No Stone Unturned": {
+  "ACH_ROT_ALL": {
     "earned": true,
     "earned_time": 1687361907
   },
-  "Hat Collector": {
+  "ACH_HATS_ALL": {
     "earned": true,
     "earned_time": 1687361329
   },
-  "Curse Collector": {
+  "ACH_CHESTS_ALL": {
     "earned": true,
     "earned_time": 1687357635
   },
-  "Skillful Spirit Guide": {
+  "ACH_ABILITY_ALL": {
     "earned": true,
     "earned_time": 1687361933
   },
-  "Good as New": {
+  "ACH_JIZO_FIRST": {
     "earned": true,
     "earned_time": 1682793477
   },
-  "Restoration Master": {
+  "ACH_JIZO_ALL": {
     "earned": true,
     "earned_time": 1687361189
   },
-  "Zen Master": {
+  "ACH_MEDITATION_ALL": {
     "earned": true,
     "earned_time": 1687354382
   },
-  "The Last Stop": {
+  "ACH_MAIL_ALL": {
     "earned": true,
     "earned_time": 1687361848
   },
-  "Say Cheese": {
+  "ACH_PHOTO_MODE": {
     "earned": true,
     "earned_time": 1687267245
   },
-  "Master Spirit Guide": {
+  "ACH_DIFFICULTY_MASTER": {
     "earned": true,
     "earned_time": 1687267149
   }

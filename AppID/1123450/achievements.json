@@ -1,137 +1,133 @@
 {
-  "The Whole Picture": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Helpful": {
+  "story_1": {
     "earned": true,
     "earned_time": 1665163521
   },
-  "Meet Your Hero": {
+  "story_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Phone Call": {
+  "story_3": {
     "earned": false,
     "earned_time": 0
   },
-  "Muse": {
+  "story_4": {
     "earned": false,
     "earned_time": 0
   },
-  "Ancient Beast of the Darkness": {
+  "story_5": {
     "earned": false,
     "earned_time": 0
   },
-  "Apprenticeship": {
+  "story_6": {
     "earned": false,
     "earned_time": 0
   },
-  "Standing on the Mountain Top": {
+  "story_trial_mtn": {
     "earned": false,
     "earned_time": 0
   },
-  "Honored History": {
+  "story_trial_rainforest": {
     "earned": false,
     "earned_time": 0
   },
-  "More Than Myself": {
+  "story_trial_island": {
     "earned": false,
     "earned_time": 0
   },
-  "Respect": {
+  "story_trial_canyon": {
     "earned": false,
     "earned_time": 0
   },
-  "Something New": {
+  "story_7": {
     "earned": false,
     "earned_time": 0
   },
-  "End of an Era": {
+  "story_8": {
     "earned": false,
     "earned_time": 0
   },
-  "Clothing Curious": {
+  "clothing_1": {
     "earned": false,
     "earned_time": 0
   },
-  "Clothing Collector": {
+  "clothing_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Clothing Hunter": {
+  "clothing_3": {
     "earned": false,
     "earned_time": 0
   },
-  "Trash Mammal": {
+  "litter_1": {
     "earned": false,
     "earned_time": 0
   },
-  "Good Samaritan": {
+  "litter_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Ultimate Samaritan": {
+  "litter_3": {
     "earned": false,
     "earned_time": 0
   },
-  "Casual Decorator": {
+  "decor_1": {
     "earned": false,
     "earned_time": 0
   },
-  "Serious Decorator": {
+  "decor_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Master Decorator": {
+  "decor_3": {
     "earned": false,
     "earned_time": 0
   },
-  "Stylist": {
+  "styles_1": {
     "earned": false,
     "earned_time": 0
   },
-  "Style Pro": {
+  "styles_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Kitten Caboodle": {
+  "kids_1": {
     "earned": false,
     "earned_time": 0
   },
-  "Lost and Found": {
+  "kids_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Graduate": {
+  "classes_all": {
     "earned": false,
     "earned_time": 0
   },
-  "Postal Service": {
+  "mail_1": {
     "earned": false,
     "earned_time": 0
   },
-  "Such Great Heights": {
+  "mail_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Explorer": {
+  "map_1": {
     "earned": false,
     "earned_time": 0
   },
-  "Cartographer": {
+  "map_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Picture Perfect": {
+  "gelato": {
     "earned": false,
     "earned_time": 0
   },
-  "Turnabout Squeeze": {
+  "investigation": {
     "earned": false,
     "earned_time": 0
   },
-  "Passion for Fashion": {
+  "oats": {
     "earned": false,
     "earned_time": 0
   }

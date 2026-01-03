@@ -1,113 +1,109 @@
 {
-  "Tier 1": {
+  "BOOM": {
     "earned": false,
     "earned_time": 0
   },
-  "Press [BOOM] to Defuse": {
+  "ASHES": {
     "earned": false,
     "earned_time": 0
   },
-  "Ashes to Ashes": {
+  "HANGTIME": {
     "earned": false,
     "earned_time": 0
   },
-  "Hang Time": {
+  "PILOTKILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Long Way Down": {
+  "WILDFIRE": {
     "earned": false,
     "earned_time": 0
   },
-  "Wild Fire": {
+  "SMOKEDIRECT": {
     "earned": false,
     "earned_time": 0
   },
-  "Good Effect on Target": {
+  "VETFINISH": {
     "earned": false,
     "earned_time": 0
   },
-  "Out of the Fire": {
+  "FINISH": {
     "earned": false,
     "earned_time": 0
   },
-  "Tea Time": {
+  "FOGFRAG": {
     "earned": false,
     "earned_time": 0
   },
-  "Nothing but Net": {
+  "NOFRIENDLYFIRE": {
     "earned": false,
     "earned_time": 0
   },
-  "Trigger Discipline": {
+  "PLAYDEAD": {
     "earned": false,
     "earned_time": 0
   },
-  "Play Dead": {
+  "CINDERBLOCK": {
     "earned": false,
     "earned_time": 0
   },
-  "Companion Block": {
+  "WALLHAX": {
     "earned": false,
     "earned_time": 0
   },
-  "Wall Hax": {
+  "GOLDENPATH": {
     "earned": false,
     "earned_time": 0
   },
-  "Golden Path": {
+  "SMOKEOUT": {
     "earned": false,
     "earned_time": 0
   },
-  "Circus Tour": {
+  "LOVEFROMABOVE": {
     "earned": false,
     "earned_time": 0
   },
-  "Love from Above": {
+  "PITSTOP": {
     "earned": false,
     "earned_time": 0
   },
-  "Pit Stop": {
+  "DRIVERSED": {
     "earned": false,
     "earned_time": 0
   },
-  "Driver's Ed": {
+  "TWOBIRDS": {
     "earned": false,
     "earned_time": 0
   },
-  "Two Birds": {
+  "TUNNELRAT": {
     "earned": false,
     "earned_time": 0
   },
-  "Tunnel Rat": {
+  "DODGEBULLET": {
     "earned": false,
     "earned_time": 0
   },
-  "Dodged a Bullet": {
+  "BARKOVSPIT": {
     "earned": false,
     "earned_time": 0
   },
-  "Got Something on Your Face": {
+  "HOTSWAP": {
     "earned": false,
     "earned_time": 0
   },
-  "Hot Swap": {
+  "LIGHTSOUT": {
     "earned": false,
     "earned_time": 0
   },
-  "Lights Out": {
+  "OWNTHENIGHT": {
     "earned": false,
     "earned_time": 0
   },
-  "We Own the Night": {
+  "WARONFORE": {
     "earned": false,
     "earned_time": 0
   },
-  "Warheads on Foreheads": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Liberation": {
+  "PICKLES": {
     "earned": false,
     "earned_time": 0
   }

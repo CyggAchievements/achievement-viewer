@@ -1,77 +1,77 @@
 {
-  "All S Rank": {
+  "all_perfect": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 1 Complete": {
+  "level1_complete": {
     "earned": true,
     "earned_time": 1629995853
   },
-  "Level 2 Complete": {
+  "level2_complete": {
     "earned": true,
     "earned_time": 1630093401
   },
-  "Level 3 Complete": {
+  "level3_complete": {
     "earned": true,
     "earned_time": 1630436833
   },
-  "Level 4 Complete": {
+  "level4_complete": {
     "earned": true,
     "earned_time": 1631211121
   },
-  "Level 5 Complete": {
+  "level5_complete": {
     "earned": true,
     "earned_time": 1631628699
   },
-  "Level 6 Complete": {
+  "level6_complete": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 7 Complete": {
+  "level7_complete": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 8 Complete": {
+  "level8_complete": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 9 Complete": {
+  "level9_complete": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 1 S Rank": {
+  "level1_perfect": {
     "earned": true,
     "earned_time": 1629997118
   },
-  "Level 2 S Rank": {
+  "level2_perfect": {
     "earned": true,
     "earned_time": 1630093407
   },
-  "Level 3 S Rank": {
+  "level3_perfect": {
     "earned": true,
     "earned_time": 1630436839
   },
-  "Level 4 S Rank": {
+  "level4_perfect": {
     "earned": true,
     "earned_time": 1631211127
   },
-  "Level 5 S Rank": {
+  "level5_perfect": {
     "earned": true,
     "earned_time": 1631628705
   },
-  "Level 6 S Rank": {
+  "level6_perfect": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 7 S Rank": {
+  "level7_perfect": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 8 S Rank": {
+  "level8_perfect": {
     "earned": false,
     "earned_time": 0
   },
-  "Level 9 S Rank": {
+  "level9_perfect": {
     "earned": false,
     "earned_time": 0
   }

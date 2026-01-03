@@ -1,109 +1,105 @@
 {
-  "Full Wormage": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Boot Camp": {
+  "ACH_TRAINING": {
     "earned": true,
     "earned_time": 1606915543
   },
-  "Express Yourself": {
+  "ACH_EMOTE": {
     "earned": false,
     "earned_time": 0
   },
-  "Fashionista": {
+  "ACH_BUYITEM": {
     "earned": true,
     "earned_time": 1607112480
   },
-  "Finisher": {
+  "ACH_COMPLETEGAME": {
     "earned": true,
     "earned_time": 1606917558
   },
-  "Gratz": {
+  "ACH_LEVEL_1": {
     "earned": true,
     "earned_time": 1607107564
   },
-  "Making Progress": {
+  "ACH_LEVEL_10": {
     "earned": true,
     "earned_time": 1608921018
   },
-  "Swing Batter Batter!": {
+  "ACH_REBOUND": {
     "earned": false,
     "earned_time": 0
   },
-  "High Life": {
+  "ACH_GAMES_TOWER": {
     "earned": true,
     "earned_time": 1617549046
   },
-  "Go Sports!": {
+  "ACH_GAMES_PARK": {
     "earned": true,
     "earned_time": 1608910555
   },
-  "Retail Therapy": {
+  "ACH_GAMES_MALL": {
     "earned": true,
     "earned_time": 1608050699
   },
-  "Double Figures": {
+  "ACH_KILLS_10": {
     "earned": true,
     "earned_time": 1606917512
   },
-  "Three Sir!": {
+  "ACH_HOLY": {
     "earned": true,
     "earned_time": 1607251714
   },
-  "Hot Streak": {
+  "ACH_KILLSTREAK_3": {
     "earned": true,
     "earned_time": 1606917367
   },
-  "Born Winner": {
+  "ACH_DEATHMATCH": {
     "earned": true,
     "earned_time": 1607110032
   },
-  "On a Roll": {
+  "ACH_ROLL": {
     "earned": true,
     "earned_time": 1607107782
   },
-  "Fall Guy": {
+  "ACH_FALL": {
     "earned": true,
     "earned_time": 1607107529
   },
-  "Better Than Most": {
+  "ACH_TOP50": {
     "earned": true,
     "earned_time": 1606917558
   },
-  "Half Way There": {
+  "ACH_LEVEL_25": {
     "earned": false,
     "earned_time": 0
   },
-  "Last Worm Standing": {
+  "ACH_LASTWORM": {
     "earned": true,
     "earned_time": 1607108343
   },
-  "Centurion": {
+  "ACH_KILLS_100": {
     "earned": true,
     "earned_time": 1607166643
   },
-  "Tooled Up": {
+  "ACH_WEAPONS": {
     "earned": false,
     "earned_time": 0
   },
-  "Challenger": {
+  "ACH_DAILY": {
     "earned": false,
     "earned_time": 0
   },
-  "Big Spender": {
+  "ACH_MONEY": {
     "earned": false,
     "earned_time": 0
   },
-  "One Worm Army": {
+  "ACH_WEAPON_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Geared Up": {
+  "ACH_UNLOCK_ALL": {
     "earned": false,
     "earned_time": 0
   },
-  "Maxed Out": {
+  "ACH_LEVEL_50": {
     "earned": false,
     "earned_time": 0
   }

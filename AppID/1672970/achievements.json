@@ -1,421 +1,417 @@
 {
-  "Bragging Rights": {
+  "REVIVE_20": {
     "earned": false,
     "earned_time": 0
   },
-  "Life of the Party": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Wooden Sword": {
+  "KILL_50_MOBS": {
     "earned": true,
     "earned_time": 1678310642
   },
-  "Diamond Sword": {
+  "KILL_2500_MOBS": {
     "earned": false,
     "earned_time": 0
   },
-  "Passive Aggressive": {
+  "KILL_50_PASSIVE": {
     "earned": false,
     "earned_time": 0
   },
-  "Break the Spell": {
+  "KILL_50_ENCHANTED": {
     "earned": false,
     "earned_time": 0
   },
-  "Scrappy Scout": {
+  "LVL_10": {
     "earned": true,
     "earned_time": 1678314654
   },
-  "Apprentice Adventurer": {
+  "LVL_25": {
     "earned": false,
     "earned_time": 0
   },
-  "Expert Explorer": {
+  "LVL_50": {
     "earned": false,
     "earned_time": 0
   },
-  "Fancy That!": {
+  "FANCY_CHEST": {
     "earned": true,
     "earned_time": 1678310768
   },
-  "More for Me": {
+  "CHEST_100": {
     "earned": false,
     "earned_time": 0
   },
-  "Cha-ching!": {
+  "EMERALD_1000": {
     "earned": true,
     "earned_time": 1678313963
   },
-  "Oooh! Shiny!": {
+  "EMERALD_5000": {
     "earned": false,
     "earned_time": 0
   },
-  "Om Nom Nom": {
+  "EAT_200_FOOD": {
     "earned": false,
     "earned_time": 0
   },
-  "Happy Camper": {
+  "COMPLETE_SQUID_COAST": {
     "earned": true,
     "earned_time": 1678310166
   },
-  "Out of the Woods": {
+  "COMPLETE_CREEPER_WOODS": {
     "earned": true,
     "earned_time": 1678311410
   },
-  "The Plot Thickens": {
+  "COMPLETE_LEVEL_GROUP1": {
     "earned": false,
     "earned_time": 0
   },
-  "Built On Sand, Set in Stone": {
+  "COMPLETE_LEVEL_GROUP2": {
     "earned": true,
     "earned_time": 1678313801
   },
-  "High and Dry": {
+  "COMPLETE_LEVEL_GROUP3": {
     "earned": false,
     "earned_time": 0
   },
-  "Saved the Overworld": {
+  "DEFEAT_ARCH_ILLAGER_ANY": {
     "earned": false,
     "earned_time": 0
   },
-  "High Treason": {
+  "DEFEAT_ARCH_ILLAGER_HARD": {
     "earned": false,
     "earned_time": 0
   },
-  "Blast Radius": {
+  "TNT_KILL_10": {
     "earned": false,
     "earned_time": 0
   },
-  "Maxed Out and Geared Up": {
+  "FULL_ENCHANTED_GEAR_SET": {
     "earned": false,
     "earned_time": 0
   },
-  "Worked Like a Charm": {
+  "FULLY_UPGRADE_ENCHANTMENT": {
     "earned": true,
     "earned_time": 1678315184
   },
-  "A Friend in Need": {
+  "BEAST_MASTER": {
     "earned": false,
     "earned_time": 0
   },
-  "Abomination Domination": {
+  "DEFEAT_JUNGLE_ABOMINATION_ADVENTURE": {
     "earned": false,
     "earned_time": 0
   },
-  "Pandamonium": {
+  "COMPLETE_PANDA_PLATEAU": {
     "earned": false,
     "earned_time": 0
   },
-  "Leader of the Pack": {
+  "OCELOT_ARMOUR": {
     "earned": false,
     "earned_time": 0
   },
-  "Survival Skills": {
+  "COMPLETE_DINGY_JUNGLE_POTION": {
     "earned": false,
     "earned_time": 0
   },
-  "Jungle Fungus": {
+  "DEFEAT_MOOSHROOM_MONSTROSITY_ITEMS": {
     "earned": false,
     "earned_time": 0
   },
-  "Lone Champion": {
+  "DEFEAT_WRETCHED_WRAITH_ADVENTURE": {
     "earned": false,
     "earned_time": 0
   },
-  "Lost in the Snow": {
+  "COMPLETE_LOST_SETTLEMENT": {
     "earned": false,
     "earned_time": 0
   },
-  "Chill Out": {
+  "ICE_WAND_KILL_5": {
     "earned": false,
     "earned_time": 0
   },
-  "Smooth Operator": {
+  "ICE_SLIDE_500": {
     "earned": false,
     "earned_time": 0
   },
-  "Frozen Fists": {
+  "ICE_NO_WEAPONS": {
     "earned": false,
     "earned_time": 0
   },
-  "Taming the Storm": {
+  "COMPLETE_GALE_SANCTUM_ADVENTURE": {
     "earned": false,
     "earned_time": 0
   },
-  "Rampart Rampage": {
+  "COMPLETE_COLOSSAL_RAMPART": {
     "earned": false,
     "earned_time": 0
   },
-  "Whirlwind Warrior": {
+  "KILL_10_MOUNTAINEER_TEMPEST_KNIFE_TIMED": {
     "earned": false,
     "earned_time": 0
   },
-  "A Taste Of Their Own Medicine": {
+  "UPDRAFT_WINDCALLERS_3": {
     "earned": false,
     "earned_time": 0
   },
-  "Wooly Wisdom": {
+  "LLAMA_OFFERING": {
     "earned": false,
     "earned_time": 0
   },
-  "Giant Slayer": {
+  "KILL_RAVAGER_SQUALL_GOLEM_TIMED": {
     "earned": false,
     "earned_time": 0
   },
-  "Herd Mentality": {
+  "DEFEAT_TEMPEST_GOLEM_PETS": {
     "earned": false,
     "earned_time": 0
   },
-  "Post Post-Apocalypse": {
+  "COMPLETE_OBSIDIAN_PINNACLE_APOCALYPSE5": {
     "earned": false,
     "earned_time": 0
   },
-  "Dress for Success": {
+  "COMPLETE_DAILY_TRIAL_EMERALD_ARMOUR": {
     "earned": false,
     "earned_time": 0
   },
-  "Repeat Customer": {
+  "DEATH_BARTER_2": {
     "earned": false,
     "earned_time": 0
   },
-  "Nether Been Better": {
+  "COMPLETE_NETHER_WASTES_APOCALYPSE": {
     "earned": false,
     "earned_time": 0
   },
-  "Trial by Fire": {
+  "COMPLETE_NETHER_SECRET_APOCALYPSE_PLUS": {
     "earned": false,
     "earned_time": 0
   },
-  "Ancient Hunter": {
+  "DEFEAT_ANCIENT_15": {
     "earned": false,
     "earned_time": 0
   },
-  "A Piglin's Best Friend": {
+  "COLLECT_500_GOLD": {
     "earned": false,
     "earned_time": 0
   },
-  "Locally Sourced": {
+  "MERCHANTS_6": {
     "earned": false,
     "earned_time": 0
   },
-  "Ear Protection Recommended": {
+  "GONG_6": {
     "earned": false,
     "earned_time": 0
   },
-  "Acclaimed Acrobat": {
+  "SPINWHEEL_70": {
     "earned": false,
     "earned_time": 0
   },
-  "Back to Back": {
+  "HYPERMISSIONS_4": {
     "earned": false,
     "earned_time": 0
   },
-  "Homecoming": {
+  "HOMECOMING": {
     "earned": false,
     "earned_time": 0
   },
-  "Seriously Overpowered": {
+  "EFFECTS_TRIGGER_5": {
     "earned": false,
     "earned_time": 0
   },
-  "Turn the Tide": {
+  "COMPLETE_ABYSSAL_MONUMENT_APOCALYPSE": {
     "earned": false,
     "earned_time": 0
   },
-  "Glow and Behold": {
+  "COMPLETE_RADIANT_RAVINE_APOCALYPSE_PLUS": {
     "earned": false,
     "earned_time": 0
   },
-  "Iceologer's Revenge": {
+  "GLOWSQUID_ICEWAND": {
     "earned": false,
     "earned_time": 0
   },
-  "Gone Fishin'": {
+  "FISHING_ROD": {
     "earned": false,
     "earned_time": 0
   },
-  "Lost Power": {
+  "LOST_CONDUIT": {
     "earned": false,
     "earned_time": 0
   },
-  "Feeling Bubbly": {
+  "RELAX_BUBBLE_COLUMN": {
     "earned": false,
     "earned_time": 0
   },
-  "Save Your Breath": {
+  "NO_OXYGEN_60": {
     "earned": false,
     "earned_time": 0
   },
-  "Seafood Skewer": {
+  "TRIDENT": {
     "earned": false,
     "earned_time": 0
   },
-  "Bad Omen, Good Loot": {
+  "RAID_CAPTAIN_10": {
     "earned": false,
     "earned_time": 0
   },
-  "Bubble Trouble": {
+  "BUBBLE_BOW": {
     "earned": false,
     "earned_time": 0
   },
-  "To the End!": {
+  "TRAVEL_THROUGH_END_PORTAL": {
     "earned": false,
     "earned_time": 0
   },
-  "Treasure Trove": {
+  "ENTER_STRONGHOLD_VAULT": {
     "earned": false,
     "earned_time": 0
   },
-  "Heartbreaker": {
+  "DEFEAT_BROKEN_HEART_OF_ENDER": {
     "earned": false,
     "earned_time": 0
   },
-  "I Need Them All": {
+  "UNLOCK_ALL_ITEMS_BASE_AND_DLC": {
     "earned": false,
     "earned_time": 0
   },
-  "Take the High Road": {
+  "REACH_TOP_OF_BROKEN_CITADEL_NO_HIT_SHULKERS_BULLET": {
     "earned": false,
     "earned_time": 0
   },
-  "End Run": {
+  "DEFEAT_1000_ENDERLINGS_WITH_OBSIDIAN_BLADE": {
     "earned": false,
     "earned_time": 0
   },
-  "Avoidable": {
+  "SURVIVE_AFFLICTED_BY_VOIDED_X999": {
     "earned": false,
     "earned_time": 0
   },
-  "Diver's Dozen": {
+  "ELYTRA_DIVE_ATTACK_12_ENEMIES_AT_ONCE": {
     "earned": false,
     "earned_time": 0
   },
-  "Burning Up": {
+  "BURNING_BREW_DEFEAT_MOB_WITH_FIRE_ENCHANTMENT": {
     "earned": false,
     "earned_time": 0
   },
-  "The Eponymous Squid": {
+  "SQUID_COAST_EASTER_EGG": {
     "earned": false,
     "earned_time": 0
   },
-  "Fashionable Climber": {
+  "TOWER_ALL_EQUIPMENT": {
     "earned": false,
     "earned_time": 0
   },
-  "Meet and Greet": {
+  "TOWER_ALL_VENDOR_PURCHASE": {
     "earned": false,
     "earned_time": 0
   },
-  "Tower Power": {
+  "COMPLETE_TOWER_ADVENTURE": {
     "earned": false,
     "earned_time": 0
   },
-  "Indomitable": {
+  "COMPLETE_TOWER_APOCALYPSE": {
     "earned": false,
     "earned_time": 0
   },
-  "Staff Only (secret)": {
+  "STORAGE_ROOM": {
     "earned": false,
     "earned_time": 0
   },
-  "Well-Seasoned": {
+  "SEASON_RANK_10": {
     "earned": false,
     "earned_time": 0
   },
-  "Trendsetter": {
+  "SEASON_RANK_25": {
     "earned": false,
     "earned_time": 0
   },
-  "Golden Gauntlet": {
+  "GAUNTLET_GALES_GOLDEN_PARROT": {
     "earned": false,
     "earned_time": 0
   },
-  "So Many Stairs!": {
+  "CLEAR_X_TOWER_FLOORS": {
     "earned": false,
     "earned_time": 0
   },
-  "Pet the Dog": {
+  "PET_THE_DOG": {
     "earned": false,
     "earned_time": 0
   },
-  "So Last Season": {
+  "COMPLETE_LEVEL_WITH_OLD_SEASON_COSMETICS": {
     "earned": false,
     "earned_time": 0
   },
-  "Mine Is Cuter Than Yours!": {
+  "DEFEAT_REDSTONE_MONSTROSITY_PETS": {
     "earned": false,
     "earned_time": 0
   },
-  "Same To You, Buddy!": {
+  "ROAR_AT_JBOMINATION": {
     "earned": false,
     "earned_time": 0
   },
-  "Tower Tourist": {
+  "VISIT_15_TOWER_BIOMES": {
     "earned": false,
     "earned_time": 0
   },
-  "Goal Driven": {
+  "WEEKLY_CHALLENGES_10": {
     "earned": false,
     "earned_time": 0
   },
-  "Daily Destroyer": {
+  "COMPLETE_DAILY_TRIALS_IN_ONE_DAY_3": {
     "earned": false,
     "earned_time": 0
   },
-  "Hot-Footed Hero": {
+  "COMPLETE_CACTI_CANYON_UNDER_5_MIN": {
     "earned": false,
     "earned_time": 0
   },
-  "Creeper In The Woods": {
+  "CREEPER_WOODS_NO_KILLS": {
     "earned": false,
     "earned_time": 0
   },
-  "How Does It All Fit?": {
+  "STORAGE_CHEST_50": {
     "earned": false,
     "earned_time": 0
   },
-  "Back From Whence You Came!": {
+  "WILDFIRES_10": {
     "earned": false,
     "earned_time": 0
   },
-  "Desert Dynamo": {
+  "COMPLETE_DESERT_TEMPLE_UNDER_4_MIN": {
     "earned": false,
     "earned_time": 0
   },
-  "Customized Customer": {
+  "ENCHANTSMITH_SERVICES_3": {
     "earned": false,
     "earned_time": 0
   },
-  "Treetop Trespasser": {
+  "COMPLETE_TREETOP_WEARING_ROOT_ROT": {
     "earned": false,
     "earned_time": 0
   },
-  "Treetop Untangled": {
+  "COMPLETE_TREETOP_TANGLE_APOCALYPSE_PLUS": {
     "earned": false,
     "earned_time": 0
   },
-  "Adorable Explorer": {
+  "COMPLETE_LOWER_TEMPLE_APOC_PLUS_WITH_DESERT_RABBIT": {
     "earned": false,
     "earned_time": 0
   },
-  "Same To You, Buddy 2.0": {
+  "HORSE_EMOTE_AT_SKELETON_HORSEMAN": {
     "earned": false,
     "earned_time": 0
   },
-  "Alpha Centurion": {
+  "KILL_100_TOWER_GUARDS": {
     "earned": false,
     "earned_time": 0
   },
-  "Soul Powered": {
+  "USE_SOUL_TOTEM_50": {
     "earned": false,
     "earned_time": 0
   },
-  "Thanks But No Thanks!": {
+  "COMPLETE_TOWER_WITHOUT_USING_MERCHANTS": {
     "earned": false,
     "earned_time": 0
   },
-  "A, B, Bee, Bee, Bee, Bee, Bee": {
+  "SUMMON_15_BEES_AT_ONCE": {
     "earned": false,
     "earned_time": 0
   }

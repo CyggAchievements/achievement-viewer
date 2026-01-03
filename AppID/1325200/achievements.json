@@ -1,381 +1,353 @@
 {
-  "You Are Nioh": {
+  "TROPHY_PLATINUM": {
     "earned": true,
     "earned_time": 1617127857
   },
-  "Samurai of Legend": {
-    "earned": true,
-    "earned_time": 1617029937
-  },
-  "The Beginning of a Samurai": {
+  "TROPHY_ACHIEVE_LEVEL_A": {
     "earned": true,
     "earned_time": 1614425904
   },
-  "Full-fledged Samurai": {
+  "TROPHY_ACHIEVE_LEVEL_B": {
     "earned": true,
     "earned_time": 1616278278
   },
-  "Dawn of a Dream": {
+  "TROPHY_MISSION_01": {
     "earned": true,
     "earned_time": 1614375302
   },
-  "An Electrifying Triumph": {
+  "TROPHY_MISSION_02": {
     "earned": true,
     "earned_time": 1614793130
   },
-  "Hideyoshi": {
+  "TROPHY_MISSION_03": {
     "earned": true,
     "earned_time": 1615236323
   },
-  "The Paths We Tread": {
+  "TROPHY_MISSION_04": {
     "earned": true,
     "earned_time": 1615999741
   },
-  "Dream's Toll": {
+  "TROPHY_MISSION_05": {
     "earned": true,
     "earned_time": 1616179277
   },
-  "Mother and Child": {
+  "TROPHY_MISSION_06": {
     "earned": true,
     "earned_time": 1616277723
   },
-  "What is Written": {
+  "TROPHY_MISSION_07": {
     "earned": true,
     "earned_time": 1616774244
   },
-  "Dream Within a Dream": {
+  "TROPHY_MISSION_08": {
     "earned": true,
     "earned_time": 1616871958
   },
-  "A Weapon's Mind": {
+  "TROPHY_SPIRIT_WEAPON_MAX": {
     "earned": true,
     "earned_time": 1615304825
   },
-  "Sword Master": {
+  "TROPHY_SKILL_HIDDEN_KATANA": {
     "earned": true,
     "earned_time": 1616873913
   },
-  "Dual Sword Master": {
+  "TROPHY_SKILL_HIDDEN_NITOU": {
     "earned": true,
     "earned_time": 1616873712
   },
-  "Spear Master": {
+  "TROPHY_SKILL_HIDDEN_YARI": {
     "earned": true,
     "earned_time": 1617036904
   },
-  "Axe Master": {
+  "TROPHY_SKILL_HIDDEN_ONO": {
     "earned": true,
     "earned_time": 1617123166
   },
-  "Kusarigama Master": {
+  "TROPHY_SKILL_HIDDEN_KAMA": {
     "earned": true,
     "earned_time": 1616873837
   },
-  "Odachi Master": {
+  "TROPHY_SKILL_HIDDEN_ODACHI": {
     "earned": true,
     "earned_time": 1616873523
   },
-  "Tonfa Master": {
+  "TROPHY_SKILL_HIDDEN_TONFA": {
     "earned": true,
     "earned_time": 1616873863
   },
-  "Hatchet Master": {
+  "TROPHY_SKILL_HIDDEN_TEONO": {
     "earned": true,
     "earned_time": 1617121135
   },
-  "Switchglaive Master": {
+  "TROPHY_SKILL_HIDDEN_NAGIGAMA": {
     "earned": true,
     "earned_time": 1616873891
   },
-  "Ninjutsu Master": {
+  "TROPHY_SKILL_HIDDEN_NIN": {
     "earned": true,
     "earned_time": 1617127857
   },
-  "Onmyo Magic Master": {
+  "TROPHY_SKILL_HIDDEN_ONMYOU": {
     "earned": true,
     "earned_time": 1617122021
   },
-  "Burst Breaker": {
+  "TROPHY_SPIRIT_ACTION_ATTACK": {
     "earned": true,
     "earned_time": 1616875254
   },
-  "Match Made in Heaven": {
+  "TROPHY_FIRST_FUSION": {
     "earned": true,
     "earned_time": 1617098620
   },
-  "Latest Masterpiece": {
+  "TROPHY_FIRST_FORGING": {
     "earned": true,
     "earned_time": 1616169122
   },
-  "Remodeling Novice": {
+  "TROPHY_FIRST_REMODELING": {
     "earned": true,
     "earned_time": 1617098776
   },
-  "Tea Connoisseur": {
+  "TROPHY_APPRAISAL_TEASET": {
     "earned": true,
     "earned_time": 1617127410
   },
-  "Lover of Letters": {
+  "TROPHY_FIRST_SET_KAKEJIKU": {
     "earned": true,
     "earned_time": 1616940463
   },
-  "Trinket Triumph": {
+  "TROPHY_FIRST_KODAMA_SHOP": {
     "earned": true,
     "earned_time": 1614463253
   },
-  "Teamwork": {
+  "TROPHY_ACHIEVE_COOP": {
     "earned": true,
     "earned_time": 1616168291
   },
-  "Help Wanted": {
+  "TROPHY_USE_GIJINDUKA": {
     "earned": true,
     "earned_time": 1616941850
   },
-  "Twilight Walker": {
+  "TROPHY_FIRST_OUMA": {
     "earned": true,
     "earned_time": 1614879505
   },
-  "Spa Healer": {
+  "TROPHY_FIRST_SPA": {
     "earned": true,
     "earned_time": 1614450704
   },
-  "Spa Lover": {
+  "TROPHY_COMPLETE_SPA": {
     "earned": true,
     "earned_time": 1617098368
   },
-  "Yokai Quelling Master": {
+  "TROPHY_COMPLETE_ENEMY": {
     "earned": true,
     "earned_time": 1616871503
   },
-  "Kodama Leader": {
+  "TROPHY_COMPLETE_KODAMA": {
     "earned": true,
     "earned_time": 1617039003
   },
-  "Friend of Guardians": {
+  "TROPHY_COMPLETE_GUARDIAN": {
     "earned": true,
     "earned_time": 1617028533
   },
-  "Sudama Swapper": {
+  "TROPHY_FIRST_SUDAMA_TRADE": {
     "earned": true,
     "earned_time": 1614429332
   },
-  "Core Score": {
+  "TROPHY_FIRST_GET_TAMASHIRO": {
     "earned": true,
     "earned_time": 1614375316
   },
-  "Friend to the Kodama": {
+  "TROPHY_KODAMA_TAMASHIRO": {
     "earned": true,
     "earned_time": 1616944669
   },
-  "Soul Searcher": {
+  "TROPHY_COMPLETE_TAMASHIRO": {
     "earned": true,
     "earned_time": 1617113937
   },
-  "Fuse It or Lose It": {
+  "TROPHY_TAMASHIRO_RANK": {
     "earned": true,
     "earned_time": 1614603750
   },
-  "Seasoned Traveler": {
+  "TROPHY_COMPLETE_MAP_ITEM": {
     "earned": true,
     "earned_time": 1615400290
   },
-  "Let There Be Light": {
+  "TROPHY_COMPLETE_TOKOYAMI": {
     "earned": true,
     "earned_time": 1617042246
   },
-  "Grazer Eraser": {
+  "TROPHY_GOZUMEZU": {
     "earned": true,
     "earned_time": 1615812899
   },
-  "Dungball Roller": {
+  "TROPHY_COMPLETE_KUSO": {
     "earned": true,
     "earned_time": 1617045834
   },
-  "Hidden Hopes": {
+  "TROPHY_COMPLETE_USURABI": {
     "earned": true,
     "earned_time": 1615896717
   },
-  "Clean Sweep": {
+  "TROPHY_COMPLETE_KUSABI": {
     "earned": true,
     "earned_time": 1616276910
   },
-  "Devout Believer": {
+  "TROPHY_SHIRAHEBI_STATUE": {
     "earned": true,
     "earned_time": 1617035181
   },
-  "Seven Wonders": {
+  "TROPHY_COMPLETE_7YARI": {
     "earned": true,
     "earned_time": 1616769833
   },
-  "Feather Buster": {
+  "TROPHY_COMPLETE_TATARIMOKKE": {
     "earned": true,
     "earned_time": 1615305431
   },
-  "Bold Wrangler": {
+  "TROPHY_DEFEAT_CH1_GOZUKI": {
     "earned": true,
     "earned_time": 1617033073
   },
-  "Schemer": {
+  "TROPHY_GYUKI_HIT_SEKI": {
     "earned": true,
     "earned_time": 1616954830
   },
-  "Peal of Ten Thousand Bells": {
+  "TROPHY_COMPLETE_BELL": {
     "earned": true,
     "earned_time": 1617095524
   },
-  "A Kindred Light": {
+  "TROPHY_DLC1_MISSION_01": {
     "earned": false,
     "earned_time": 0
   },
-  "The Will to Fight": {
+  "TROPHY_DLC1_MISSION_02": {
     "earned": false,
     "earned_time": 0
   },
-  "Casting Out the Shadows": {
+  "TROPHY_DLC1_MISSION_03": {
     "earned": false,
     "earned_time": 0
   },
-  "Genpei Samurai": {
+  "TROPHY_DLC1_COMPLETE_KODAMA": {
     "earned": false,
     "earned_time": 0
   },
-  "Genpei Demon": {
+  "TROPHY_DLC1_HIDDEN_SANSETSU": {
     "earned": false,
     "earned_time": 0
   },
-  "Kodama General": {
+  "TROPHY_DLC1_UTAHUDA_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "Splitstaff Master": {
+  "TROPHY_DLC1_COMPLETE_SPA": {
     "earned": false,
     "earned_time": 0
   },
-  "Poetry in Motion": {
+  "TROPHY_DLC1_COMPLETE_BIG_BOW": {
     "earned": false,
     "earned_time": 0
   },
-  "Spa Addict": {
+  "TROPHY_DLC1_COMPLETE_GOLDEN_AMRITA": {
     "earned": false,
     "earned_time": 0
   },
-  "Sundering Arrows": {
+  "TROPHY_DLC1_KNOCK_OFF_YOSHITSUNE": {
     "earned": false,
     "earned_time": 0
   },
-  "Heretical Glow": {
+  "TROPHY_DLC1_EMAKI_CLEAR_10": {
     "earned": false,
     "earned_time": 0
   },
-  "Tengu Crusher": {
+  "TROPHY_DLC2_MISSION_01": {
     "earned": false,
     "earned_time": 0
   },
-  "Demonic Parade-Goer": {
+  "TROPHY_DLC2_MISSION_02": {
     "earned": false,
     "earned_time": 0
   },
-  "The Demon and the Phoenix": {
+  "TROPHY_DLC2_MISSION_03": {
     "earned": false,
     "earned_time": 0
   },
-  "Guardian of the Gate": {
+  "TROPHY_DLC2_COMPLETE_KODAMA": {
     "earned": false,
     "earned_time": 0
   },
-  "What Must Be Done": {
+  "TROPHY_DLC2_HIDDEN_TEKKOU": {
     "earned": false,
     "earned_time": 0
   },
-  "Heian Samurai": {
+  "TROPHY_DLC2_GOMA_FIRE_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "Heian Demon": {
+  "TROPHY_DLC2_COMPLETE_SPA": {
     "earned": false,
     "earned_time": 0
   },
-  "Kodama Pathfinder": {
+  "TROPHY_DLC2_MISSION_04": {
     "earned": false,
     "earned_time": 0
   },
-  "Fist Master": {
+  "TROPHY_DLC2_TSUCHIGUMO": {
     "earned": false,
     "earned_time": 0
   },
-  "The Flame That Lights the Darkness": {
+  "TROPHY_DLC2_OBOROGURUMA_AMRITA": {
     "earned": false,
     "earned_time": 0
   },
-  "Spa Fanatic": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "The Ultimate Recognition": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Tsuchigumo Exterminated": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Behind the Bamboo Blinds": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "True Atonement": {
+  "TROPHY_DLC2_COMPLETE_NANGYOU": {
     "earned": true,
     "earned_time": 1617125176
   },
-  "All Things Begin": {
+  "TROPHY_DLC3_MISSION_01": {
     "earned": false,
     "earned_time": 0
   },
-  "A Dream of Peace": {
+  "TROPHY_DLC3_MISSION_02": {
     "earned": false,
     "earned_time": 0
   },
-  "The Original Samurai": {
+  "TROPHY_DLC3_COMPLETE_KODAMA": {
     "earned": false,
     "earned_time": 0
   },
-  "The Original Demon": {
+  "TROPHY_DLC3_SHINSUI": {
     "earned": false,
     "earned_time": 0
   },
-  "Spirit Guide": {
+  "TROPHY_DLC3_MISSION_03": {
     "earned": false,
     "earned_time": 0
   },
-  "Cleansing Caskmaster": {
+  "TROPHY_DLC3_COMPLETE_SPA": {
     "earned": false,
     "earned_time": 0
   },
-  "Scent of Danger": {
+  "TROPHY_DLC3_MUJINA_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "Spa Connoisseur": {
+  "TROPHY_DLC3_SHIKI_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "A Friend Indeed": {
+  "TROPHY_DLC3_MISSION_04": {
     "earned": false,
     "earned_time": 0
   },
-  "The Demons' Den": {
+  "TROPHY_DLC3_FUDE_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "Way of the Vanquisher": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Honoring the Dead": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "The Path We've Taken": {
+  "TROPHY_DLC3_COMPLETE_SUB92_GIJINDUKA": {
     "earned": false,
     "earned_time": 0
   }

@@ -1,153 +1,153 @@
 {
-  "Helios": {
+  "AllTrophies": {
     "earned": false,
     "earned_time": 0
   },
-  "Atropian Survival": {
+  "OnboardingComplete": {
     "earned": true,
     "earned_time": 1621263535
   },
-  "Past the Ruins": {
+  "AF_Mastery": {
     "earned": true,
     "earned_time": 1621611015
   },
-  "Ascending the Mountain": {
+  "CD_Mastery": {
     "earned": false,
     "earned_time": 0
   },
-  "Through the Forgotten City": {
+  "CI_Mastery": {
     "earned": false,
     "earned_time": 0
   },
-  "Echoes of the Past": {
+  "SW_Mastery": {
     "earned": true,
     "earned_time": 1621864550
   },
-  "Frozen in Time": {
+  "IC_Mastery": {
     "earned": false,
     "earned_time": 0
   },
-  "Submerged in Memories": {
+  "UR_Mastery": {
     "earned": false,
     "earned_time": 0
   },
-  "A Shadow in the Fog": {
+  "FirstBoss": {
     "earned": true,
     "earned_time": 1621349953
   },
-  "Ascension": {
+  "SecondBoss": {
     "earned": true,
     "earned_time": 1621431549
   },
-  "Trial by Judgement": {
+  "ThirdBoss": {
     "earned": true,
     "earned_time": 1621580583
   },
-  "Silence the Song": {
+  "FourthBoss": {
     "earned": true,
     "earned_time": 1621586969
   },
-  "Inner Darkness": {
+  "FifthBoss": {
     "earned": true,
     "earned_time": 1621599595
   },
-  "Failed Escape": {
+  "Act1Complete": {
     "earned": true,
     "earned_time": 1621580829
   },
-  "Last Drive": {
+  "Act2Complete": {
     "earned": true,
     "earned_time": 1621600515
   },
-  "White Shadow": {
+  "Act3Complete": {
     "earned": true,
     "earned_time": 1621940464
   },
-  "Second Chance": {
+  "FirstResurrect": {
     "earned": true,
     "earned_time": 1621264062
   },
-  "Cryptic Messages": {
+  "FoundXenoglyph": {
     "earned": true,
     "earned_time": 1621258594
   },
-  "Cryptic Translations": {
+  "FinishedXenoglyph": {
     "earned": true,
     "earned_time": 1621347128
   },
-  "Surgical Precision": {
+  "ReloadCombo": {
     "earned": true,
     "earned_time": 1621257572
   },
-  "Adapting to Circumstance": {
+  "MaxProficiency": {
     "earned": true,
     "earned_time": 1621598245
   },
-  "In-Field Training": {
+  "DailyChallenge": {
     "earned": true,
     "earned_time": 1621351818
   },
-  "Hardened Shell": {
+  "MaxHP": {
     "earned": true,
     "earned_time": 1621574989
   },
-  "Risk Assessment": {
+  "CurseActivity": {
     "earned": true,
     "earned_time": 1621434667
   },
-  "Adrenaline Spike": {
+  "MaxAdrenaline": {
     "earned": true,
     "earned_time": 1621255255
   },
-  "Irreversibly Contaminated": {
+  "MaxParasites": {
     "earned": true,
     "earned_time": 1621349434
   },
-  "Eternal Return": {
+  "FirstDeath": {
     "earned": true,
     "earned_time": 1621254328
   },
-  "Alternate Fates": {
+  "FindLogs": {
     "earned": true,
     "earned_time": 1621340202
   },
-  "Welcome Home": {
+  "FinishHouse": {
     "earned": true,
     "earned_time": 1621263402
   },
-  "Sins of the Mother": {
+  "FinishAllHouses": {
     "earned": true,
     "earned_time": 1621802349
   },
-  "Visions of the Past": {
+  "FinishMural": {
     "earned": true,
     "earned_time": 1621435452
   },
-  "Eternal Ascent": {
+  "FirstDeathInTower": {
     "earned": true,
     "earned_time": 1665411878
   },
-  "The Watcher": {
+  "SinglePhaseBoss": {
     "earned": true,
     "earned_time": 1665404621
   },
-  "Eyes Closed": {
+  "ThreePhaseBoss": {
     "earned": true,
     "earned_time": 1665418040
   },
-  "Destroyer": {
+  "KillWithSuperWeapons": {
     "earned": false,
     "earned_time": 0
   },
-  "Broken, Restored, Empty": {
+  "FinishHospital": {
     "earned": true,
     "earned_time": 1665412113
   },
-  "Empty Embrace": {
+  "DLCEnding": {
     "earned": false,
     "earned_time": 0
   },
-  "Find Release": {
+  "SecretEnding": {
     "earned": false,
     "earned_time": 0
   }

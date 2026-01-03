@@ -1,229 +1,229 @@
 {
-  "Overlord": {
+  "ACHIEVE_01": {
     "earned": false,
     "earned_time": 0
   },
-  "Cartographer": {
+  "ACHIEVE_02": {
     "earned": false,
     "earned_time": 0
   },
-  "Item Collector": {
+  "ACHIEVE_03": {
     "earned": false,
     "earned_time": 0
   },
-  "Demonologist": {
+  "ACHIEVE_05": {
     "earned": false,
     "earned_time": 0
   },
-  "Shardmaster": {
+  "ACHIEVE_04": {
     "earned": false,
     "earned_time": 0
   },
-  "Kickstopper": {
+  "ACHIEVE_06": {
     "earned": false,
     "earned_time": 0
   },
-  "Marathon": {
+  "ACHIEVE_08": {
     "earned": false,
     "earned_time": 0
   },
-  "Gilded Youth": {
+  "ACHIEVE_10": {
     "earned": false,
     "earned_time": 0
   },
-  "True Haggler": {
+  "ACHIEVE_11": {
     "earned": false,
     "earned_time": 0
   },
-  "Dare to Devour": {
+  "ACHIEVE_13": {
     "earned": false,
     "earned_time": 0
   },
-  "Arvantville's Angel": {
+  "ACHIEVE_19": {
     "earned": false,
     "earned_time": 0
   },
-  "Bloodstained": {
+  "ACHIEVE_15": {
     "earned": false,
     "earned_time": 0
   },
-  "Growing Pains": {
+  "ACHIEVE_16": {
     "earned": false,
     "earned_time": 0
   },
-  "Army of the Night": {
+  "ACHIEVE_18": {
     "earned": false,
     "earned_time": 0
   },
-  "Dethroned": {
+  "ACHIEVE_21": {
     "earned": false,
     "earned_time": 0
   },
-  "Moonwalker": {
+  "ACHIEVE_09": {
     "earned": false,
     "earned_time": 0
   },
-  "Able Alchemist": {
+  "ACHIEVE_14": {
     "earned": false,
     "earned_time": 0
   },
-  "Shardbinder": {
+  "ACHIEVE_22": {
     "earned": true,
     "earned_time": 1680447996
   },
-  "Treasure Hunter": {
+  "ACHIEVE_23": {
     "earned": false,
     "earned_time": 0
   },
-  "Demon Hunter": {
+  "ACHIEVE_24": {
     "earned": false,
     "earned_time": 0
   },
-  "Make a Wish": {
+  "ACHIEVE_25": {
     "earned": false,
     "earned_time": 0
   },
-  "Down Pat": {
+  "ACHIEVE_27": {
     "earned": false,
     "earned_time": 0
   },
-  "Bookworm": {
+  "ACHIEVE_28": {
     "earned": false,
     "earned_time": 0
   },
-  "Scrap Heaper": {
+  "ACHIEVE_29": {
     "earned": false,
     "earned_time": 0
   },
-  "Might've Known": {
+  "ACHIEVE_30": {
     "earned": true,
     "earned_time": 1680449454
   },
-  "A New You": {
+  "ACHIEVE_31": {
     "earned": true,
     "earned_time": 1680538618
   },
-  "Déjà vu": {
+  "ACHIEVE_07": {
     "earned": false,
     "earned_time": 0
   },
-  "Recital": {
+  "ACHIEVE_17": {
     "earned": false,
     "earned_time": 0
   },
-  "Storm Abolisher": {
+  "ACHIEVE_34": {
     "earned": true,
     "earned_time": 1680450258
   },
-  "Samurai Showdown": {
+  "ACHIEVE_36": {
     "earned": true,
     "earned_time": 1680527759
   },
-  "Show of Hands": {
+  "ACHIEVE_37": {
     "earned": false,
     "earned_time": 0
   },
-  "Wing Clipper": {
+  "ACHIEVE_38": {
     "earned": false,
     "earned_time": 0
   },
-  "Snake Charmer": {
+  "ACHIEVE_39": {
     "earned": false,
     "earned_time": 0
   },
-  "Loco Motive": {
+  "ACHIEVE_40": {
     "earned": false,
     "earned_time": 0
   },
-  "Speed Demon": {
+  "ACHIEVE_41": {
     "earned": false,
     "earned_time": 0
   },
-  "Dragonslayer": {
+  "ACHIEVE_42": {
     "earned": false,
     "earned_time": 0
   },
-  "Just a Flicker": {
+  "ACHIEVE_43": {
     "earned": false,
     "earned_time": 0
   },
-  "Tourniquet": {
+  "ACHIEVE_44": {
     "earned": false,
     "earned_time": 0
   },
-  "Hermetically Sealed": {
+  "ACHIEVE_45": {
     "earned": false,
     "earned_time": 0
   },
-  "Transcendence": {
+  "ACHIEVE_46": {
     "earned": false,
     "earned_time": 0
   },
-  "Rodeo Star": {
+  "ACHIEVE_47": {
     "earned": false,
     "earned_time": 0
   },
-  "His Blade": {
+  "ACHIEVE_48": {
     "earned": false,
     "earned_time": 0
   },
-  "All Bets Are Off": {
+  "ACHIEVE_49": {
     "earned": false,
     "earned_time": 0
   },
-  "Moonscraper": {
+  "ACHIEVE_50": {
     "earned": false,
     "earned_time": 0
   },
-  "Usurper": {
+  "ACHIEVE_20": {
     "earned": false,
     "earned_time": 0
   },
-  "Manic Mansion": {
+  "ACHIEVE_51": {
     "earned": false,
     "earned_time": 0
   },
-  "Like Clockwork": {
+  "ACHIEVE_52": {
     "earned": false,
     "earned_time": 0
   },
-  "Fortress of Water Demons": {
+  "ACHIEVE_53": {
     "earned": false,
     "earned_time": 0
   },
-  "Gateway to Abyss": {
+  "ACHIEVE_54": {
     "earned": false,
     "earned_time": 0
   },
-  "Believe in the Dawn": {
+  "ACHIEVE_55": {
     "earned": false,
     "earned_time": 0
   },
-  "A Discerning Eye": {
+  "ACHIEVE_56": {
     "earned": false,
     "earned_time": 0
   },
-  "Organ Trade": {
+  "ACHIEVE_57": {
     "earned": false,
     "earned_time": 0
   },
-  "Perfect Selection": {
+  "ACHIEVE_58": {
     "earned": false,
     "earned_time": 0
   },
-  "Nailed It": {
+  "ACHIEVE_59": {
     "earned": false,
     "earned_time": 0
   },
-  "Limbo Coin": {
+  "ACHIEVE_60": {
     "earned": false,
     "earned_time": 0
   },
-  "Hunter Coin": {
+  "ACHIEVE_61": {
     "earned": false,
     "earned_time": 0
   },
-  "In The End": {
+  "ACHIEVE_62": {
     "earned": false,
     "earned_time": 0
   }

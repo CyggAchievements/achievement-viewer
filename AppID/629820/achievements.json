@@ -1,181 +1,177 @@
 {
-  "Platinum": {
-    "earned": true,
-    "earned_time": 1611590189
-  },
-  "Survivor": {
+  "ACH_SURVIVOR": {
     "earned": true,
     "earned_time": 1609855996
   },
-  "Learned To Swim": {
+  "ACH_LEARNED_TO_SWIM": {
     "earned": true,
     "earned_time": 1609855526
   },
-  "Growing Up": {
+  "ACH_GROWING_UP": {
     "earned": true,
     "earned_time": 1609859547
   },
-  "On Your Own": {
+  "ACH_ON_YOU_OWN": {
     "earned": true,
     "earned_time": 1610206595
   },
-  "Wiser": {
+  "ACH_WISER": {
     "earned": true,
     "earned_time": 1611438277
   },
-  "Ocean Terror": {
+  "ACH_OCEAN_TERROR": {
     "earned": true,
     "earned_time": 1611499767
   },
-  "Adaptation": {
+  "ACH_ADAPTATION": {
     "earned": true,
     "earned_time": 1609856298
   },
-  "New Breed": {
+  "ACH_NEW_BREED": {
     "earned": true,
     "earned_time": 1611497302
   },
-  "Science Experiment": {
+  "ACH_SCIENCE_EXPERIEMENT": {
     "earned": true,
     "earned_time": 1611590066
   },
-  "Dominating the Bayou": {
+  "ACH_DOMINATING_THE_BAYOU": {
     "earned": true,
     "earned_time": 1611505955
   },
-  "Queen of the Wasteland": {
+  "ACH_KING_OF_THE_WASTELAND": {
     "earned": true,
     "earned_time": 1611507649
   },
-  "Tourist Terror": {
+  "ACH_TOURIST_TERROR": {
     "earned": true,
     "earned_time": 1611508323
   },
-  "Dropping Property Values": {
+  "ACH_DROPPING_PROPERTY_VALUES": {
     "earned": true,
     "earned_time": 1611585357
   },
-  "Vacation From Hell": {
+  "ACH_VACATION_FROM_HELL": {
     "earned": true,
     "earned_time": 1611589145
   },
-  "Entertained to Death": {
+  "ACH_ENTERTAINED_TO_DEATH": {
     "earned": true,
     "earned_time": 1611590189
   },
-  "Ruler of the Deep": {
+  "ACH_RULER_OF_THE_DEEP": {
     "earned": true,
     "earned_time": 1611587596
   },
-  "Queen of the Ocean": {
+  "ACH_KING_OF_THE_OCEAN": {
     "earned": true,
     "earned_time": 1611590189
   },
-  "Gator Meat": {
+  "ACH_GATOR_MEAT": {
     "earned": true,
     "earned_time": 1610209242
   },
-  "Delicious": {
+  "ACH_DELICIOUS": {
     "earned": true,
     "earned_time": 1609864005
   },
-  "Shark on Shark Violence": {
+  "ACH_SHARK_ON_SHARK_VIOLENCE": {
     "earned": true,
     "earned_time": 1610211280
   },
-  "Pound It": {
+  "ACH_POUND_IT": {
     "earned": true,
     "earned_time": 1611420397
   },
-  "This Is My Movie": {
+  "ACH_THIS_IS_MY_MOVIE": {
     "earned": true,
     "earned_time": 1611440376
   },
-  "Tricks Didn't Help Ya": {
+  "ACH_TRICKS_DIDNT_HELP_YA": {
     "earned": true,
     "earned_time": 1611498434
   },
-  "I Thought You Were Tough": {
+  "ACH_I_THOUGHT_YOU_WERE_TOUGH": {
     "earned": true,
     "earned_time": 1611503706
   },
-  "The New Apex Predator": {
+  "ACH_THE_NEW_APEX_PREDATOR": {
     "earned": true,
     "earned_time": 1611503706
   },
-  "Survived Again": {
+  "ACH_SURVIVED_AGAIN": {
     "earned": true,
     "earned_time": 1611438184
   },
-  "Vengeance Is Mine": {
+  "ACH_VENGEANCE_IS_MINE": {
     "earned": true,
     "earned_time": 1611504873
   },
-  "Deep Sea Explorer": {
+  "ACH_DEEP_SEA_EXPLORER": {
     "earned": true,
     "earned_time": 1611590189
   },
-  "Garbage Collector": {
+  "ACH_GARBAGE_COLLECTOR": {
     "earned": true,
     "earned_time": 1611589905
   },
-  "Tourist": {
+  "ACH_TOURIST": {
     "earned": true,
     "earned_time": 1611590066
   },
-  "Infamy Level 1": {
+  "ACH_INFAMY_LEVEL_1": {
     "earned": true,
     "earned_time": 1609860807
   },
-  "Infamy Level 10": {
+  "ACH_INFAMY_LEVEL_10": {
     "earned": true,
     "earned_time": 1611589398
   },
-  "Four-Star Rank": {
+  "ACH_DLC01_DEFEATED_BOUNTY_BOSS_5": {
     "earned": false,
     "earned_time": 0
   },
-  "I See Site P": {
+  "ACH_DLC01_REACHED_ISLAND": {
     "earned": false,
     "earned_time": 0
   },
-  "40 and Flirty": {
+  "ACH_DLC01_REACHED_LVL_40": {
     "earned": false,
     "earned_time": 0
   },
-  "Atomic Bomb": {
+  "ACH_DLC01_ACQUIRED_ATOMIC_EVOLUTIONS": {
     "earned": false,
     "earned_time": 0
   },
-  "Island Queen": {
+  "ACH_DLC01_COMPLETED_ISLAND_OBJECTIVES": {
     "earned": false,
     "earned_time": 0
   },
-  "I Can Handle the Truth!": {
+  "ACH_DLC01_COMPLETED_ALL_OBJECTIVES": {
     "earned": false,
     "earned_time": 0
   },
-  "Electric Burn": {
+  "ACH_DLC01_DEFEATED_APEX_SHARK": {
     "earned": false,
     "earned_time": 0
   },
-  "Shadow Killer": {
+  "ACH_DLC01_DEFEATED_APEX_ORCA": {
     "earned": false,
     "earned_time": 0
   },
-  "Bone Breaker": {
+  "ACH_DLC01_DEFEATED_APEX_WHALE": {
     "earned": false,
     "earned_time": 0
   },
-  "Apex Eater": {
+  "ACH_DLC01_DEFEATED_APEX_LEVIATHAN": {
     "earned": false,
     "earned_time": 0
   },
-  "Fan Fare": {
+  "ACH_DLC01_FOUND_TRUTHERS": {
     "earned": false,
     "earned_time": 0
   },
-  "Perfect Timing": {
+  "ACH_DLC01_COMPLETED_TIME_TRIALS": {
     "earned": false,
     "earned_time": 0
   }

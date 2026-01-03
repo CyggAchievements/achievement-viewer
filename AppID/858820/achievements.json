@@ -1,109 +1,105 @@
 {
-  "Ultimate Saga": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Make It Rain": {
+  "TOM_ACHIEVEMENT_NAME_0001": {
     "earned": true,
     "earned_time": 1651699444
   },
-  "Make It Pour": {
+  "TOM_ACHIEVEMENT_NAME_0002": {
     "earned": true,
     "earned_time": 1652008778
   },
-  "Make It Hail": {
+  "TOM_ACHIEVEMENT_NAME_0003": {
     "earned": false,
     "earned_time": 0
   },
-  "Villager In Need": {
+  "TOM_ACHIEVEMENT_NAME_0008": {
     "earned": true,
     "earned_time": 1651694908
   },
-  "Friend In Need": {
+  "TOM_ACHIEVEMENT_NAME_0009": {
     "earned": true,
     "earned_time": 1652034284
   },
-  "New Viking": {
+  "TOM_ACHIEVEMENT_NAME_0010": {
     "earned": true,
     "earned_time": 1651620305
   },
-  "New Hersir": {
+  "TOM_ACHIEVEMENT_NAME_0011": {
     "earned": true,
     "earned_time": 1651696090
   },
-  "New Jarl": {
+  "TOM_ACHIEVEMENT_NAME_0012": {
     "earned": false,
     "earned_time": 0
   },
-  "Ragnarök": {
+  "TOM_ACHIEVEMENT_NAME_0013": {
     "earned": false,
     "earned_time": 0
   },
-  "New Konungr": {
+  "TOM_ACHIEVEMENT_NAME_0014": {
     "earned": false,
     "earned_time": 0
   },
-  "New Einherjar": {
+  "TOM_ACHIEVEMENT_NAME_0015": {
     "earned": false,
     "earned_time": 0
   },
-  "A Viking is Björn": {
+  "TOM_ACHIEVEMENT_NAME_0016": {
     "earned": true,
     "earned_time": 1651617835
   },
-  "Surthrival": {
+  "TOM_ACHIEVEMENT_NAME_0017": {
     "earned": false,
     "earned_time": 0
   },
-  "Like Svaðilfari": {
+  "TOM_ACHIEVEMENT_NAME_0018": {
     "earned": false,
     "earned_time": 0
   },
-  "Back to Jötunheim": {
+  "TOM_ACHIEVEMENT_NAME_0019": {
     "earned": true,
     "earned_time": 1651622786
   },
-  "Back to Múspelheim": {
+  "TOM_ACHIEVEMENT_NAME_0020": {
     "earned": true,
     "earned_time": 1651853033
   },
-  "Back to Asgarð": {
+  "TOM_ACHIEVEMENT_NAME_0021": {
     "earned": true,
     "earned_time": 1651849972
   },
-  "Back to Niflheim": {
+  "TOM_ACHIEVEMENT_NAME_0022": {
     "earned": true,
     "earned_time": 1651700766
   },
-  "Valhalla Can Wait": {
+  "TOM_ACHIEVEMENT_NAME_0023": {
     "earned": false,
     "earned_time": 0
   },
-  "Common Crafter": {
+  "TOM_ACHIEVEMENT_NAME_0024": {
     "earned": true,
     "earned_time": 1651618409
   },
-  "Uncommon Crafter": {
+  "TOM_ACHIEVEMENT_NAME_0025": {
     "earned": true,
     "earned_time": 1651621635
   },
-  "Rare Crafter": {
+  "TOM_ACHIEVEMENT_NAME_0026": {
     "earned": true,
     "earned_time": 1651699595
   },
-  "Epic Crafter": {
+  "TOM_ACHIEVEMENT_NAME_0027": {
     "earned": true,
     "earned_time": 1651849366
   },
-  "Legendary Crafter": {
+  "TOM_ACHIEVEMENT_NAME_0028": {
     "earned": true,
     "earned_time": 1651852620
   },
-  "Dragonchild": {
+  "TOM_ACHIEVEMENT_NAME_0030": {
     "earned": false,
     "earned_time": 0
   },
-  "Paw Paw": {
+  "TOM_ACHIEVEMENT_NAME_0031": {
     "earned": true,
     "earned_time": 1651620724
   }

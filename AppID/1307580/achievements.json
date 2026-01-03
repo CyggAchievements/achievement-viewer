@@ -1,197 +1,193 @@
 {
-  "And that completes the list!": {
-    "earned": true,
-    "earned_time": 1662669441
-  },
-  "Going long!": {
+  "10K_WALKING_CLOGS": {
     "earned": true,
     "earned_time": 1662578297
   },
-  "A sparkling jump": {
+  "CLOSE_UP_DANCER": {
     "earned": true,
     "earned_time": 1662668221
   },
-  "100 followers!": {
+  "CLOSE_UP_FOOD_INFLUENCER": {
     "earned": true,
     "earned_time": 1662656477
   },
-  "A great story": {
+  "CLOSE_UP_MOUNTAIN_EXPLORER": {
     "earned": true,
     "earned_time": 1662668566
   },
-  "Happy youth": {
+  "CLOSE_UP_OLD_MAN": {
     "earned": true,
     "earned_time": 1662657125
   },
-  "Flight ready": {
+  "CLOSE_UP_SEAGULL": {
     "earned": true,
     "earned_time": 1662578675
   },
-  "Just a sock": {
+  "CLOSE_UP_SOCKMAN": {
     "earned": true,
     "earned_time": 1662493428
   },
-  "A new job": {
+  "CLOSE_UP_STRESSED_HUMAN": {
     "earned": true,
     "earned_time": 1662655249
   },
-  "Calmed down": {
+  "CLOSE_UP_SUNE_THE_SKELETON": {
     "earned": true,
     "earned_time": 1662493190
   },
-  "A true completionist": {
+  "COMPLETE_ALL_QUESTS": {
     "earned": true,
     "earned_time": 1662668999
   },
-  "Employee of the month": {
+  "EMPLOYEE_OF_THE_MONTH_AWARD": {
     "earned": true,
     "earned_time": 1662668275
   },
-  "Cosplayer": {
+  "EQUIP_EVERY_ITEM": {
     "earned": true,
     "earned_time": 1662669441
   },
-  "Collect them all": {
+  "FILL_COMPENDIUM": {
     "earned": true,
     "earned_time": 1662668482
   },
-  "All geared up": {
+  "FULL_SNOW_GEAR": {
     "earned": true,
     "earned_time": 1662657104
   },
-  "You found us!": {
+  "HOTEL_EASTER_EGG": {
     "earned": true,
     "earned_time": 1662496681
   },
-  "The beginning": {
+  "LEAVE_HOME_WITH_BUS": {
     "earned": true,
     "earned_time": 1662491749
   },
-  "Who's a good boy?!": {
+  "PET_DOG_MECK": {
     "earned": true,
     "earned_time": 1662493016
   },
-  "Look at those cuties": {
+  "PHOTOGRAPH_TEAM_PETS": {
     "earned": true,
     "earned_time": 1662657234
   },
-  "City professional": {
+  "PHOTO_CHALLENGES_CITY": {
     "earned": true,
     "earned_time": 1662656298
   },
-  "Nature's showstopper": {
+  "PHOTO_CHALLENGES_FOREST": {
     "earned": true,
     "earned_time": 1662496347
   },
-  "Calm as the sea": {
+  "PHOTO_CHALLENGES_HARBOR": {
     "earned": true,
     "earned_time": 1662578593
   },
-  "The biggest hurdle": {
+  "PHOTO_CHALLENGES_MOUNTAIN": {
     "earned": true,
     "earned_time": 1662665993
   },
-  "Business executed": {
+  "QUEST_REGION_CITY": {
     "earned": true,
     "earned_time": 1662656298
   },
-  "Strong as an oak": {
+  "QUEST_REGION_FOREST": {
     "earned": true,
     "earned_time": 1662667476
   },
-  "Seaworthy": {
+  "QUEST_REGION_HARBOR": {
     "earned": true,
     "earned_time": 1662580214
   },
-  "Ice fighter": {
+  "QUEST_REGION_MOUNTAIN": {
     "earned": true,
     "earned_time": 1662668999
   },
-  "The grand clock tower": {
+  "SIGHT_PHOTO_CITY_CLOCK_TOWER": {
     "earned": true,
     "earned_time": 1662644967
   },
-  "A majestic hotel": {
+  "SIGHT_PHOTO_FOREST_OAKHOTEL": {
     "earned": true,
     "earned_time": 1662496026
   },
-  "Photograph the Smiling Huntsman": {
+  "SIGHT_PHOTO_HARBOR_SHIPWRECK": {
     "earned": true,
     "earned_time": 1662579497
   },
-  "Home sweet home": {
+  "SIGHT_PHOTO_HOME_HOUSE": {
     "earned": true,
     "earned_time": 1662491985
   },
-  "Experience TOEM": {
+  "SIGHT_PHOTO_MOUNTAIN_TOEM": {
     "earned": true,
     "earned_time": 1662667013
   },
-  "Slow and steady": {
+  "SNAIL_RACE": {
     "earned": true,
     "earned_time": 1662668190
   },
-  "The big city": {
+  "VISIT_REGION_CITY": {
     "earned": true,
     "earned_time": 1662580288
   },
-  "The calm forest": {
+  "VISIT_REGION_FOREST": {
     "earned": true,
     "earned_time": 1662492416
   },
-  "Set sail for good weather": {
+  "VISIT_REGION_HARBOR": {
     "earned": true,
     "earned_time": 1662497414
   },
-  "Snowy peaks": {
+  "VISIT_REGION_MOUNTAIN": {
     "earned": true,
     "earned_time": 1662656569
   },
-  "So close now!": {
+  "VISIT_REGION_MOUNTAIN_TOP": {
     "earned": true,
     "earned_time": 1662666928
   },
-  "Tropical paradise": {
+  "VISIT_RESORT": {
     "earned": false,
     "earned_time": 0
   },
-  "Vacation Mode": {
+  "VACATION_CLOTHES_SUNCHAIR": {
     "earned": false,
     "earned_time": 0
   },
-  "King's new shirt": {
+  "CLOSE_UP_KING": {
     "earned": false,
     "earned_time": 0
   },
-  "Moonlit beauty": {
+  "CLOSE_UP_NIX": {
     "earned": false,
     "earned_time": 0
   },
-  "Self portrait": {
+  "CLOSE_UP_PLAYER": {
     "earned": false,
     "earned_time": 0
   },
-  "Wazzuuppp": {
+  "COOL_MOON": {
     "earned": false,
     "earned_time": 0
   },
-  "Pro gamer": {
+  "CARNIVAL_HERO": {
     "earned": false,
     "earned_time": 0
   },
-  "Splish-splash": {
+  "TAKE_A_SPLASH": {
     "earned": false,
     "earned_time": 0
   },
-  "The Royal Castle": {
+  "SIGHT_PHOTO_RESORT": {
     "earned": false,
     "earned_time": 0
   },
-  "And some more": {
+  "FILL_COMPENDIUM_RESORT": {
     "earned": false,
     "earned_time": 0
   },
-  "A Viking's holiday": {
+  "QUEST_REGION_RESORT": {
     "earned": false,
     "earned_time": 0
   }

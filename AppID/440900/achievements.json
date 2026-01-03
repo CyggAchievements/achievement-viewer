@@ -1,149 +1,145 @@
 {
-  "To crush all trophies beneath sandaled feet": {
-    "earned": true,
-    "earned_time": 1586791351
-  },
-  "Hither Came the Exile…": {
+  "ACH_ReachLevel10": {
     "earned": true,
     "earned_time": 1586461187
   },
-  "…A Scavenger…": {
+  "ACH_ReachLevel20": {
     "earned": true,
     "earned_time": 1586461188
   },
-  "…A Reaver…": {
+  "ACH_ReachLevel30": {
     "earned": true,
     "earned_time": 1586461199
   },
-  "…A Slayer…": {
+  "ACH_ReachLevel40": {
     "earned": true,
     "earned_time": 1586461202
   },
-  "…A Warrior…": {
+  "ACH_ReachLevel50": {
     "earned": true,
     "earned_time": 1586461206
   },
-  "…A Champion…": {
+  "ACH_ReachLevel60": {
     "earned": true,
     "earned_time": 1586461212
   },
-  "By this Axe I Rule!": {
+  "ACH_GetDedicatedWeapon": {
     "earned": true,
     "earned_time": 1586464088
   },
-  "The Scarlet Citadel": {
+  "ACH_CreateAHome": {
     "earned": true,
     "earned_time": 1586464345
   },
-  "O Sleeper Awake": {
+  "ACH_SleepInABed": {
     "earned": true,
     "earned_time": 1586464442
   },
-  "The God in the Bowl": {
+  "ACH_VenerateTheGods": {
     "earned": true,
     "earned_time": 1586464508
   },
-  "What do I know of Cultured Ways?": {
+  "ACH_WheelOfPain": {
     "earned": true,
     "earned_time": 1586465199
   },
-  "The Gilt, The Craft and the Lie": {
+  "ACH_CraftExceptional": {
     "earned": true,
     "earned_time": 1586465859
   },
-  "The Hour of the Dragon": {
+  "ACH_DefeatUndeadDragon": {
     "earned": true,
     "earned_time": 1586517838
   },
-  "It is the King, or his ghost!": {
+  "ACH_DefeatKingBeneath": {
     "earned": true,
     "earned_time": 1586517845
   },
-  "The Devil in Iron": {
+  "ACH_DefeatKinscourge": {
     "earned": true,
     "earned_time": 1586517854
   },
-  "Gods of the North": {
+  "ACH_DefeatFrostGiantKing": {
     "earned": true,
     "earned_time": 1586518087
   },
-  "From What Hell Have You Crawled?": {
+  "ACH_DefeatGiantSpider": {
     "earned": true,
     "earned_time": 1586517839
   },
-  "The Snout in the Dark": {
+  "ACH_DefeatGiantCrocodile": {
     "earned": true,
     "earned_time": 1586517829
   },
-  "The Haunter of the Pits": {
+  "ACH_DefeatSewerAbomination": {
     "earned": true,
     "earned_time": 1586518202
   },
-  "Wolves Beyond the Border": {
+  "ACH_ReachHighlands": {
     "earned": true,
     "earned_time": 1586517297
   },
-  "Dying Embers": {
+  "ACH_ReachVolcano": {
     "earned": true,
     "earned_time": 1586517642
   },
-  "The Cliffs Reel": {
+  "ACH_LongFall": {
     "earned": true,
     "earned_time": 1586463136
   },
-  "Iron Shadows in the Moon": {
+  "ACH_CloudCity": {
     "earned": true,
     "earned_time": 1586463082
   },
-  "The Tower of the Elephant": {
+  "ACH_PeerPressure": {
     "earned": true,
     "earned_time": 1586791351
   },
-  "The Road of Kings": {
+  "ACH_StartJourney": {
     "earned": true,
     "earned_time": 1586518506
   },
-  "In the Vault": {
+  "ACH_Siptah_FindVault": {
     "earned": false,
     "earned_time": 0
   },
-  "The Temple": {
+  "ACH_Siptah_Leyshrine": {
     "earned": false,
     "earned_time": 0
   },
-  "Beyond the Wall of Sleep": {
+  "ACH_Siptah_EnterTheMaelstrom": {
     "earned": false,
     "earned_time": 0
   },
-  "The Haunter of the Dark": {
+  "ACH_Siptah_VisitSiptahTower": {
     "earned": false,
     "earned_time": 0
   },
-  "Memory": {
+  "ACH_Siptah_UseSigil": {
     "earned": false,
     "earned_time": 0
   },
-  "The Outsider": {
+  "ACH_Siptah_DefeatSurgeEnemy": {
     "earned": false,
     "earned_time": 0
   },
-  "The Gem in the Tower": {
+  "ACH_Siptah_ExploreEntireSiptah": {
     "earned": false,
     "earned_time": 0
   },
-  "The Shadow Out of Time": {
+  "ACH_Siptah_CraftEldariumItem": {
     "earned": false,
     "earned_time": 0
   },
-  "From Beyond": {
+  "ACH_Siptah_StackSigils": {
     "earned": false,
     "earned_time": 0
   },
-  "The Silver Key": {
+  "ACH_Siptah_ObtainGreaterEssence": {
     "earned": false,
     "earned_time": 0
   },
-  "The Other Gods": {
+  "ACH_Siptah_SummonTopTierSurge": {
     "earned": false,
     "earned_time": 0
   }

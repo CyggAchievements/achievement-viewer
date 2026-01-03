@@ -1,209 +1,205 @@
 {
-  "Master Marsupial": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Beat ‘Em Any Which Way": {
+  "trophy.bizarro_boss_first": {
     "earned": true,
     "earned_time": 1657391285
   },
-  "Backwards & Forwards": {
+  "trophy.bizarro_level_all": {
     "earned": false,
     "earned_time": 0
   },
-  "IT’S MESSING WITH MY HEAD, MAN!!!": {
+  "trophy.bizarro_level_first": {
     "earned": true,
     "earned_time": 1657391285
   },
-  "Taking the Side Road": {
+  "trophy.bonus_first": {
     "earned": true,
     "earned_time": 1657115307
   },
-  "The Whole Picture": {
+  "trophy.buddy_all": {
     "earned": false,
     "earned_time": 0
   },
-  "Putting Things In Perspective": {
+  "trophy.buddy_first": {
     "earned": true,
     "earned_time": 1657219046
   },
-  "Fleet of Feet": {
+  "trophy.checkpoint_race": {
     "earned": false,
     "earned_time": 0
   },
-  "Settle the Score": {
+  "trophy.crate_combo_clash": {
     "earned": false,
     "earned_time": 0
   },
-  "What Has Been, Will Be Again": {
+  "trophy.defeat_cortex_final": {
     "earned": false,
     "earned_time": 0
   },
-  "The Fourth Time": {
+  "trophy.defeat_cortex_first": {
     "earned": true,
     "earned_time": 1657534950
   },
-  "Master Mixologist": {
+  "trophy.defeat_nbrio": {
     "earned": true,
     "earned_time": 1657390934
   },
-  "Beaten With His Own Drum": {
+  "trophy.defeat_ngin": {
     "earned": true,
     "earned_time": 1657201247
   },
-  "Twinsanity": {
+  "trophy.defeat_tropies": {
     "earned": true,
     "earned_time": 1659544991
   },
-  "Overachiever": {
+  "trophy.ending_100": {
     "earned": false,
     "earned_time": 0
   },
-  "OVER-Overachiever": {
+  "trophy.ending_200": {
     "earned": false,
     "earned_time": 0
   },
-  "Sapphire-er Acquirer": {
+  "trophy.gem_blue": {
     "earned": false,
     "earned_time": 0
   },
-  "Like a Rhinestone Bandicoot": {
+  "trophy.gem_clear_50": {
     "earned": false,
     "earned_time": 0
   },
-  "King of Bling": {
+  "trophy.gem_clear_100": {
     "earned": false,
     "earned_time": 0
   },
-  "gnilB fo gniK": {
+  "trophy.gem_clear_all_bizarro": {
     "earned": false,
     "earned_time": 0
   },
-  "Emerald Gemerald": {
+  "trophy.gem_green": {
     "earned": false,
     "earned_time": 0
   },
-  "Ruby Red": {
+  "trophy.gem_red": {
     "earned": false,
     "earned_time": 0
   },
-  "Topaz Pizazz": {
+  "trophy.gem_yellow": {
     "earned": false,
     "earned_time": 0
   },
-  "Altitude Sickness": {
+  "trophy.high_jump": {
     "earned": true,
     "earned_time": 1657116665
   },
-  "Silent Protagonist": {
+  "trophy.mask_dark_matter": {
     "earned": true,
     "earned_time": 1657203289
   },
-  "Ups & Downs": {
+  "trophy.mask_gravity": {
     "earned": true,
     "earned_time": 1659367044
   },
-  "Reality-Shattering Proportions": {
+  "trophy.mask_phase_shift": {
     "earned": true,
     "earned_time": 1657116963
   },
-  "I Can See Through Time": {
+  "trophy.mask_time_slow": {
     "earned": true,
     "earned_time": 1657448921
   },
-  "No It’s MY Turn": {
+  "trophy.pass_and_play": {
     "earned": true,
     "earned_time": 1657535983
   },
-  "Ladies First": {
+  "trophy.play_as_coco": {
     "earned": true,
     "earned_time": 1657391285
   },
-  "Sudden But Inevitable": {
+  "trophy.quisine": {
     "earned": true,
     "earned_time": 1665165894
   },
-  "Model Test Subject": {
+  "trophy.relic_flashback_first": {
     "earned": true,
     "earned_time": 1657118920
   },
-  "Closing the Experiment Log": {
+  "trophy.relic_flashback_platinum_all": {
     "earned": false,
     "earned_time": 0
   },
-  "Perfectionist": {
+  "trophy.relic_n_sane_all": {
     "earned": false,
     "earned_time": 0
   },
-  "So-Called Perfectionist": {
+  "trophy.relic_n_sane_first": {
     "earned": false,
     "earned_time": 0
   },
-  "Faster Than a Tortoise": {
+  "trophy.relic_time_trial_any": {
     "earned": true,
     "earned_time": 1657391634
   },
-  "Faster Than Sound": {
+  "trophy.relic_time_trial_platinum_all": {
     "earned": false,
     "earned_time": 0
   },
-  "All Gussied Up": {
+  "trophy.skin_first": {
     "earned": true,
     "earned_time": 1657118025
   },
-  "Whoa!": {
+  "trophy.triple_spin_first": {
     "earned": false,
     "earned_time": 0
   },
-  "Showoff": {
+  "trophy.triple_spin_win": {
     "earned": false,
     "earned_time": 0
   },
-  "N. Vincible": {
+  "trophy.undying": {
     "earned": true,
     "earned_time": 1657115390
   },
-  "A/V Club Founder": {
+  "trophy.vhs_first": {
     "earned": true,
     "earned_time": 1657118627
   },
-  "Tree Droppings": {
+  "trophy.z_bizaroo_tree": {
     "earned": false,
     "earned_time": 0
   },
-  "Here Kitty Kitty": {
+  "trophy.z_cat_in_dumpster": {
     "earned": false,
     "earned_time": 0
   },
-  "Give 'Em a Broadside!": {
+  "trophy.z_dingo_cannons": {
     "earned": false,
     "earned_time": 0
   },
-  "Bad Signs": {
+  "trophy.z_dingo_target_practice": {
     "earned": false,
     "earned_time": 0
   },
-  "Junkyard Jams": {
+  "trophy.z_klank_tunes": {
     "earned": false,
     "earned_time": 0
   },
-  "WOAH YEAH!": {
+  "trophy.z_spin_lani_loli": {
     "earned": false,
     "earned_time": 0
   },
-  "Silence the Scientist": {
+  "trophy.z_stfu_nbrio": {
     "earned": true,
     "earned_time": 1657209836
   },
-  "Megaphoning It In": {
+  "trophy.z_stfu_ngin": {
     "earned": true,
     "earned_time": 1657117522
   },
-  "Hammer it Home": {
+  "trophy.z_temple_gongs": {
     "earned": false,
     "earned_time": 0
   },
-  "Channel Surfer": {
+  "trophy.z_tv_stations": {
     "earned": true,
     "earned_time": 1657115117
   }

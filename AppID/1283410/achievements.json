@@ -1,145 +1,145 @@
 {
-  "King of Kings": {
+  "CompleteAll": {
     "earned": true,
     "earned_time": 1681127841
   },
-  "Become King": {
+  "BecomeKing": {
     "earned": true,
     "earned_time": 1680638017
   },
-  "Rescue Redgi's Brothers": {
+  "RescueBrothers": {
     "earned": true,
     "earned_time": 1680724825
   },
-  "Meet the Creatures from the Deep": {
+  "MeetTheMoles": {
     "earned": true,
     "earned_time": 1680969440
   },
-  "Two Handed Weapon": {
+  "GetTHWeapon": {
     "earned": true,
     "earned_time": 1680643872
   },
-  "Ranged Weapon": {
+  "GetRangedWeapon": {
     "earned": true,
     "earned_time": 1680640260
   },
-  "Defeat 25 Frogs": {
+  "Kill25Frogs": {
     "earned": true,
     "earned_time": 1680639991
   },
-  "Defeat 25 Grubs": {
+  "Kill25Bugs": {
     "earned": true,
     "earned_time": 1680643542
   },
-  "Defeat 25 Mozis": {
+  "Kill25Mozi": {
     "earned": true,
     "earned_time": 1680797712
   },
-  "Complete Guard Faction": {
+  "CompleteGuardFaction": {
     "earned": true,
     "earned_time": 1680637062
   },
-  "Complete Ranger Faction": {
+  "CompleteHunterFaction": {
     "earned": true,
     "earned_time": 1681125839
   },
-  "Complete Elder Faction": {
+  "CompleteElderFaction": {
     "earned": true,
     "earned_time": 1680868604
   },
-  "Complete Arena Faction": {
+  "CompleteArenaFaction": {
     "earned": true,
     "earned_time": 1681126344
   },
-  "Complete Redgi's Armoury": {
+  "CollectAllWeaponsAndGear": {
     "earned": true,
     "earned_time": 1681127841
   },
-  "Complete the Chef's Book": {
+  "CompleteChefsBook": {
     "earned": true,
     "earned_time": 1681126865
   },
-  "Return the Statues": {
+  "CollectAllStatues": {
     "earned": true,
     "earned_time": 1680981185
   },
-  "Defeat Ratnor Rodentson": {
+  "DefeatRatnorRodentson": {
     "earned": true,
     "earned_time": 1680872154
   },
-  "Defeat Rattus Augustail": {
+  "DefeatRattusAugustus": {
     "earned": true,
     "earned_time": 1680981294
   },
-  "Collect Monster Parts": {
+  "Collect50MonsterParts": {
     "earned": true,
     "earned_time": 1680642753
   },
-  "Collect Iron Ore": {
+  "Collect20Iron": {
     "earned": true,
     "earned_time": 1680799253
   },
-  "Collect Gold": {
+  "Collect20Gold": {
     "earned": true,
     "earned_time": 1680867294
   },
-  "Kitchen Ready To Cook": {
+  "RepairChef": {
     "earned": true,
     "earned_time": 1680798171
   },
-  "Smithy Ready to Craft": {
+  "RepairSmith": {
     "earned": true,
     "earned_time": 1680867591
   },
-  "Throne Room Fit For A King": {
+  "RepairThroneRoom": {
     "earned": true,
     "earned_time": 1680876651
   },
-  "Return Power To The Depths": {
+  "ReturnPowerInMines": {
     "earned": true,
     "earned_time": 1680888739
   },
-  "End of the Mozis": {
+  "DefeatMoziQueen": {
     "earned": true,
     "earned_time": 1680876363
   },
-  "Fix the Traveller's Wagon": {
+  "FixTheTravellersWagon": {
     "earned": true,
     "earned_time": 1680869138
   },
-  "A new Warchief rises": {
+  "CompleteStoryDM": {
     "earned": false,
     "earned_time": 0
   },
-  "Defeat Avor Warden of the Northern Wastes": {
+  "DefeatAvor": {
     "earned": true,
     "earned_time": 1681124774
   },
-  "Discover the mystery of the Kings Chambers": {
+  "MysteryKingsChamber": {
     "earned": true,
     "earned_time": 1681125361
   },
-  "The Bright Fir": {
+  "TravelToBrightFirForest": {
     "earned": false,
     "earned_time": 0
   },
-  "Shield Maiden Yellow Tongue": {
+  "DefeatYellowTongue": {
     "earned": false,
     "earned_time": 0
   },
-  "Defeat Croakhis Khan": {
+  "DefeatCroakhisKhan": {
     "earned": false,
     "earned_time": 0
   },
-  "I Remember My First Beer": {
+  "FirstBeer": {
     "earned": false,
     "earned_time": 0
   },
-  "Defeat the Stalker Queen": {
+  "DefeatStalkerQueen": {
     "earned": false,
     "earned_time": 0
   },
-  "Defeat the Grub Buster": {
+  "DefeatGrubBuster": {
     "earned": false,
     "earned_time": 0
   }
