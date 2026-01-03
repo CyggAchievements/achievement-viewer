@@ -1,0 +1,352 @@
+{
+  "appid": "236430",
+  "name": "DARK SOULS™ II",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236430/header.jpg?t=1726158600",
+  "achievements": {
+    "ACHIEVEMENT_26": {
+      "name": "Abysmal Covenant",
+      "description": "Discover the abysmal covenant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/9d2d953fe6a68343d91fdb2929718733083559be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.6"
+    },
+    "ACHIEVEMENT_03": {
+      "name": "Ancient Dragon",
+      "description": "Acquire Ashen Mist Heart",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/2d24775f6fa06a41686546c378c5d7fce763e2e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "ACHIEVEMENT_09": {
+      "name": "Brightstone Bonfire",
+      "description": "Light the primal bonfire in Brightstone Cove Tseldora",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/fd714fa281dba96bb1d6fcc794189bbc2439939c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.9"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "Brilliant Covenant",
+      "description": "Discover a most brilliant covenant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/e89a3854afd46ab03af41438c591dd87d29dd89d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.6"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "Change of Clothes",
+      "description": "Give Rosabeth of Melfia something to wear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/3202de4b27232626f84c5f148058ef08d82c30ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.3"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "Clangorous Covenant",
+      "description": "Discover the clangorous covenant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/63edb2abc0489d0e01dc94c6d984ecc53c79df73.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Covenant of Ancients",
+      "description": "Discover an ancient covenant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/b7de478fcae10a3236d112119955ec7f5e6374a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Covenant of the Fittest",
+      "description": "Discover the covenant of the fittest",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/101abb3d0899210f31f6edf41a48c65931678d7f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.1"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Covenant of the Meek",
+      "description": "Discover the covenant of the meek",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/e21d479398de04d3cef990ceafa3612944999023.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.1"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Curious Map",
+      "description": "Light all flames on the map in Majula",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/0d926f0cd8f6ccbc65d73dc36a28af4286e7047a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "Garrulous Miser",
+      "description": "Inherit Laddersmith Gilligan's equipment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/96e62caab029db9b0dbbb091a398fee5db0cffe2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.6"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Gathering of Exiles",
+      "description": "Increase the population of Majula",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/50063a8a81459bfc3187ae1479874837ae3ceeb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Gesture Maestro",
+      "description": "Learn all gestures",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/997165ebef2ac99d04d874d88623de9d8f22d212.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Gnawing Covenant",
+      "description": "Discover the covenant of rodents",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/965e9b33f80dbb51defe995a5a1f8e2338733a2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.0"
+    },
+    "ACHIEVEMENT_08": {
+      "name": "Gulch Bonfire",
+      "description": "Light the primal bonfire in the Black Gulch",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/797ad97096eda6136b04db431cf5cf122d0f6808.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Holder of the Fort",
+      "description": "Inherit Captain Drummond's equipment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/5f1d22a65b7ef25ab77bbd0451613915184b0628.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ACHIEVEMENT_07": {
+      "name": "Iron Keep Bonfire",
+      "description": "Light the primal bonfire in the Iron Keep",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/b0ca04bab6cfd0e27f57042c3e680371e55e638a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.7"
+    },
+    "ACHIEVEMENT_02": {
+      "name": "King's Ring",
+      "description": "Acquire the King's Ring",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/5db726786191c4eb4721da684b2e86a19c527254.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.3"
+    },
+    "ACHIEVEMENT_05": {
+      "name": "Last Giant",
+      "description": "Defeat the Last Giant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/9f3129c23bab8afe74e931ab1c75e0d47b15cc68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.9"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Looking Glass Knight",
+      "description": "Defeat Looking Glass Knight",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/2997b177d68540210ba6ab494437fddb74e05ea1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Lucatiel",
+      "description": "Inherit equipment from Lucatiel of Mirrah",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/14268568dd81c8b25fb19313d726bfa5516be59d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "Master of Hexes",
+      "description": "Learn all hexes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/c2320c11e3d5ca749daf0192b2b3cb9e130a71b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Master of Miracles",
+      "description": "Learn all miracles",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/b47e5faac0b54b0721ba459f671182f59210b6e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Master of Pyromancy",
+      "description": "Learn all pyromancies",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/2d3f2a01d6ce6fa2eccb6df69702b0b1576f1c83.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Master of Sorcery",
+      "description": "Learn all sorceries",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/2acfd86908289710db8c07f7ce206d96aa775c47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Moonlight Greatsword",
+      "description": "Inherit Benhart of Jugo's equipment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/fa75571056dede30bb61f8f730c2942857c765f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Protector Covenant",
+      "description": "Discover the covenant of the protectors",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/71c242e0acb0efe0b05436e87d10b669a43ec63b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.7"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Reflections on Disembodiment",
+      "description": "Inherit equipment from the head of Vengarl",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/f40a7bed44a2de34cedbfb4edef7964ecdef334e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Sanguinary Covenant",
+      "description": "Discover the covenant of the bloodthirsty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/ed1e32b38b12542482b355f06a69dc6477108770.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.7"
+    },
+    "ACHIEVEMENT_01": {
+      "name": "Self Recollection",
+      "description": "Reclaim flesh and set out as an Undead",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/a44b9e31b85cab826f76b3d13dd98981b380d9f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.8"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "Selfless Giver",
+      "description": "Max-out devotion to covenant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/1e4566fc3f7bdf97a14d58b74686011c239135aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "ACHIEVEMENT_06": {
+      "name": "Sinner's Bonfire",
+      "description": "Light the primal bonfire in Sinner's Rise",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/9fc6174d3c6fd5391642e8dd78898dcb259cac5b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.6"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Smith for Life",
+      "description": "Inherit Steady Hand McDuff's equipment",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/5cc0fe419a75794b573a6f7746144639f3c811d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Supreme Weapon",
+      "description": "Reinforce a weapon to its limit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/cfaa9e2694cd9b4e5a073f4621897fa31bd3a11d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "ACHIEVEMENT_00": {
+      "name": "The Dark Soul",
+      "description": "Earn all achievements",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/9679384a4ad573ec4c1ccb549a1528b1926d6040.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ACHIEVEMENT_04": {
+      "name": "The Heir",
+      "description": "See the ending",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/bb494120f6a612f6d1abcf54c2c8d70bdc26a4d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.4"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "This is Dark Souls",
+      "description": "Die for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/77c26da0afbbac96294a04b0dab9e2c19e7534be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.3"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Vendrick",
+      "description": "Defeat Vendrick",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/4f0059c674b2003367626e2533f508c67ced2f6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/236430/92c00dca5daa0006ae0f8e1ad6e089d6d05a8b85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.2"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

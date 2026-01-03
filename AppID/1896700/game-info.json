@@ -1,0 +1,370 @@
+{
+  "appid": "1896700",
+  "name": "Wylde Flowers",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896700/241af42c2fcaaa5f08327acd1cd079aee359f5ca/header.jpg?t=1765310909",
+  "achievements": {
+    "BuildBarn": {
+      "name": "A Place for Hay",
+      "description": "Restore the barn",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/5950a92ad01dac1669e742ef79fd791df89b6316.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.1"
+    },
+    "BuildCoop": {
+      "name": "A Place to Lay",
+      "description": "Restore the chicken coop",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/f32c12d04ea412de54227639f56518000d5dfee6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.0"
+    },
+    "SeasonFall": {
+      "name": "Autumn Harvest",
+      "description": "Turn the season to Fall",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/19a9baf0452eada66602822f0701ccebe62dc294.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.2"
+    },
+    "RelationshipFiancee": {
+      "name": "Bending The Knee",
+      "description": "Get engaged to be married",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/ca8f409eb249a85efaa3804fb70f090a5640f80b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.6"
+    },
+    "QuestBuildRanch": {
+      "name": "Cool Ranch",
+      "description": "Restore the ranch",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/61d4dd595255a8ed64c736e9627737de6f16f279.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "CraftingEverything": {
+      "name": "Crafty Witch",
+      "description": "Craft every item",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/c0627fcf08cc8d9fe1a53c3b8e63275999c226d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "FlyBroom": {
+      "name": "Fly, My Pretty",
+      "description": "Fly the broomstick for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/b22d679d41c1d91e691b42d3399d7b9b0d7304aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "MarriedAmira": {
+      "name": "Forever Amira's",
+      "description": "Marry Amira",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cee38bc8e5bba437d492ef29fb03867d437ebd3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "MarriedCameron": {
+      "name": "Forever Cameron's",
+      "description": "Marry Cameron",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/2c7719bc2f420bdc908ab7d1ac735a70c9d07e33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "MarriedDamon": {
+      "name": "Forever Damon's",
+      "description": "Marry Damon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/1ccec32c8b57bfe385a133d73baccaeee79a4f0b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "MarriedGiva": {
+      "name": "Forever Giva's",
+      "description": "Marry Giva",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/3b123c838a1ba3069f07ffccafddd682315de444.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "MarriedKai": {
+      "name": "Forever Kai's",
+      "description": "Marry Kai",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/1c43dd1da5f2f5f955ac093e261a44c92b47caa0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "MarriedKim": {
+      "name": "Forever Kim's",
+      "description": "Marry Kim",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/8328534389a6727c9d6c2e334528c290d1c6cae1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "MarriedWestley": {
+      "name": "Forever Westley's",
+      "description": "Marry Westley",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/826d7fab444d702957468b0c8bcffb3ccc835973.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "RelationshipPetCat": {
+      "name": "Furry friend",
+      "description": "Adopt the cat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/f6959b227998b1defc53f69aa658f6931e798d0f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.6"
+    },
+    "RelationshipGoodFriend": {
+      "name": "Getting To Know You",
+      "description": "Make a good friend",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/2a28b71bab9675118d4d46e6610a827d392b5d38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.0"
+    },
+    "RelationshipPartner": {
+      "name": "Going Steady",
+      "description": "Form a romantic partnership",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/5b1e0f32af4bcb30ff3d8fca8938a6cb92ad52f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.1"
+    },
+    "MineCollection": {
+      "name": "Gold Stars for Tara",
+      "description": "Get gold stars on all 20 mine collection boards",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/ebb85cd003850b4146f721bfb1b2dc1b777a3586.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "FishingCatchEverything": {
+      "name": "Happy Angler",
+      "description": "Catch every type of fish",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/eb298fd4d6737d0af5e3328c11784e6bc5042f74.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "QuestBuildMountainBridge": {
+      "name": "Higher Altitudes",
+      "description": "Repair the mountain bridge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/4efd9095bbb3e35fbd139228511dc7b5b5e1ad09.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.3"
+    },
+    "CookEverything": {
+      "name": "Hope You're Hungry",
+      "description": "Cook every recipe",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/ef5afc0b24bb1732f9d64fcc10261149bad8aeb8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "QuestBasement": {
+      "name": "It's Not Moonshine",
+      "description": "Discover Gramma's basement",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/f9fa7e219e6b19ebd2a3e69fdb83bb9b9b5abd26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "86.4"
+    },
+    "RelationshipCasualFriend": {
+      "name": "Making Friends",
+      "description": "Make a casual friend",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/ffccb92ab282af6b87a9f2fb8c539e5b720f3ccc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.8"
+    },
+    "QuestTransmogrify": {
+      "name": "Meow You've Done It",
+      "description": "Shapeshift into a cat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/5d45219ec2bacf6a101069a0bc4fb3c678b61ca6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "RelationshipDating": {
+      "name": "More Than Friends",
+      "description": "Start dating someone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cb8c1159d2832df836bed7992c9336456ab33a99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "QuestMeetEveryone": {
+      "name": "New Acquaintances",
+      "description": "Meet all of the residents of Fairhaven",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/d666b80e2999925eb90275eed631b202052d50ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.3"
+    },
+    "RelationshipNewAcquaintance": {
+      "name": "New Acquaintances",
+      "description": "Make a new acquaintance",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/665d804165c72ca55f273936662235fc87e910e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "76.4"
+    },
+    "BuildGreenhouse": {
+      "name": "Out-of-Season Produce",
+      "description": "Build the greenhouse",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/c7937a6ae10233a6fb50ac50fabc885c55081bf2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.1"
+    },
+    "UnlockAllGifts": {
+      "name": "People Pleaser",
+      "description": "Discover everyone's favorite foods",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/b1412fc0f241a5da3f7be75a65dea72aac7b4a38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "RelationshipIntimateFriend": {
+      "name": "Plumbing the Depths",
+      "description": "Make an intimate friend",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/7fcba6556200690255358879e1290a174c6f3d21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.1"
+    },
+    "StatBulletins": {
+      "name": "Pocket Money",
+      "description": "Complete 20 bulletins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/2fb39cc276cefcaa9224fc250cae2428e128d60a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "BuildToolShed": {
+      "name": "Room for Everything",
+      "description": "Upgrade the tool shed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/0027f89011493a189d27324fb9fd6016901d2e03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.6"
+    },
+    "BuildVegetablePatch": {
+      "name": "Room to Grow",
+      "description": "Construct a larger garden plot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/093312ae1c132555092b2ae6746d714d2e0b1545.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "GameEnd": {
+      "name": "Spring Again",
+      "description": "Turn the season to Spring again",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/95392709562dbebaca25dd638ae2fe0df128bacd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.7"
+    },
+    "SeasonSummer": {
+      "name": "Sweet Summer Sunshine",
+      "description": "Turn the season to Summer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/af4cb1e1e483751f03ef7b3c4fc3d80063438455.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "arcadeFTUX": {
+      "name": "This Isn't the City",
+      "description": "Start your farming life",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/babfe75f024dd52cd203389c4ee539755f66403e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.0"
+    },
+    "StatBulletins2": {
+      "name": "Tycoon",
+      "description": "Complete 100 bulletins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/4ebee07e0937a9358e443db836ed3deb2bb90b7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "DiscoverWitches": {
+      "name": "Which Witch",
+      "description": "Discover the identity of all coven members",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/6cae31ab906fff94bae37995fdbf7ab8921768e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.4"
+    },
+    "FlowersEverywhere": {
+      "name": "Wylde Flowers",
+      "description": "Grow 20 flowers at once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/f62c2a8b83c7c0a0c9cf818d84cd38c7d3931725.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "QuestIntroIncantation": {
+      "name": "You're a Witch, Tara",
+      "description": "Cast the initiation rite",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/9dba5db5c79cd837b3b71cfd1846154e466b06bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1896700/cfeb2f575da1ba6932690641e44fa28daea78f17.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "76.2"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

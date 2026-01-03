@@ -1,0 +1,505 @@
+{
+  "appid": "2988580",
+  "name": "Yakuza 0 Director's Cut",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/aaceda0f5c16fce191e63f7342d07323e86a1156/header.jpg?t=1765213234",
+  "achievements": {
+    "17_I_Did_it": {
+      "name": "...I Did It for the Achievement",
+      "description": "Watch a sexy video.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/570b3c5053931a9379e6945a1e9dc6216c1208a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/1a2b4b86e644fc561a16a8039aac2522e6cb0c40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "44_A_Familiar": {
+      "name": "A Familiar Name",
+      "description": "Complete Chapter 12.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/b183b9d0815f720e25e5c92dfab439bedff04fef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/0c1829647c6933178825902473b4a7cc0bc8302e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "05_A_Host_of_Hostesses": {
+      "name": "A Host of Hostesses",
+      "description": "Get started with Cabaret Club Czar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/71a74fe7cb01918de7cf0a709fa72d5b09a5ebe2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/34fe8369fd31c1fbe31fa4d07d21a04d5110ce10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "36_A_Matter": {
+      "name": "A Matter of Life or Death",
+      "description": "Complete Chapter 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/48385adaf5366c1efd7cd02aaf513a00a8034a3d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/ddf6d56d265cf7773547555c65d1105e04e61d5b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "21_A_Wise": {
+      "name": "A Wise Investment",
+      "description": "Purchase ten or more abilities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/42f4da31ce1aba3a3f90a5f53b8ebc2ec6675c0e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/553e28ddad3d2d5617c28b450e7d3a5e47f20227.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.9"
+    },
+    "55_Amon_Defeated": {
+      "name": "Amon Defeated",
+      "description": "Defeat So and Jo Amon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/9ee9256ab2c718403dfe061357aa84e79feee88d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/a7b27ebf0c4bbd9cdf2aaee2f3125e8c09c2fa96.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "50_Awakened_And": {
+      "name": "Awakened and Unleashed",
+      "description": "Complete the Final Chapter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/3fdef672513c13d76709e3eaebf725bb70af4558.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d2594be69ee8594387e7563384682d7faddd5c15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "41_Best_Served": {
+      "name": "Best Served Cold?",
+      "description": "Take more than 15 minutes bringing the takoyaki.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d82ff3e45538a25b6ec902f599e4158dbe0b1ffd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/7cbfc163fab7cad567577047291f7dfa8fe9e898.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "47_Big_Hair": {
+      "name": "Big Hair in the Crosshairs",
+      "description": "Defeat the yakuza with an afro on the highway.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d342131e436dc9ae79951172e65916537fc085ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/cd3995db807fa139a7127e74f3047ba73476b90f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "39_Business_Etiquette": {
+      "name": "Business Etiquette 101",
+      "description": "Impress Oda with your perfect manners.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/47a7004786d3c25fcf9be5159945b06fb46f3ac8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/857e4fcca8f1f46ed371dd8c6a60a124ec18e4d4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "29_Call_Me": {
+      "name": "Call Me",
+      "description": "Go on a date with a girl you met at the telephone club.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/69610a2e3972bdf1ce20d22dbd11c8d5d28a2cea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/70f7105e7ba6fcc7180a2a7af1096985cfb76541.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "31_Cat_Scratch": {
+      "name": "Cat Scratch Fever",
+      "description": "Win ten bets on three-round tournaments at JCC.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/ef476c9a906b2b1062d716305c62ccf9b775d1c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/2aca6377c7c2f5077dc91376ee84bc4fb3978961.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "26_Eye_Of": {
+      "name": "Eye of the Dragon and Tiger",
+      "description": "Obtain all equipment parts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/504f72f3850bb5c05c76cd24c83bdd2b16423ba8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/8177b1ba5a3ff219d80b3a2e43c75b36c29d32fb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "53_Generosity_Of": {
+      "name": "Generosity of Strangers",
+      "description": "After you become undisputed king of an area, get someone to light a cigarette for you on the street.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d6d3de048fba0fd7c6021648a48689f752833ab6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/87f2df6bd838c850243f1acc85a50d9aac53ac42.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "08_Half_the_Battle": {
+      "name": "Half the Battle",
+      "description": "Get over 50% on your Completion List.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d5e221e1286e6909877e4939b9e619d7f78fdb39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/513dda0f2a1d0eacd84ccdca61f8a2eed9ab72bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "11_Hero_of_the_Story": {
+      "name": "Hero of the Story",
+      "description": "Complete 40 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/6213dc809352476f2ca1c27cb2c9964dea77d2c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/063d29006867675901ea901523d5e1a9bee57481.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "13_High_Roller": {
+      "name": "High Roller",
+      "description": "Spend one billion yen.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/67657455e987698c6f9ff8f94bcdfb5ec16b9fa9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/5ed7fa41d143f58f51c26f8ea802d76a0bb42adf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "49_Hitting_The": {
+      "name": "Hitting the Bottle",
+      "description": "Suffer the full force of Reina's attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/637e70b0a865a6427d98322c8b7a4faf8a755a02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/84b4384aff7b1ac70150e4b978ee869df67688aa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "43_It_Takes": {
+      "name": "It Takes Two",
+      "description": "Defeat 3 foes using co-op moves with Oda or Tachibana.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/e4a7508e6682d85a9aeadce6da9f1d844d6cb787.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d1cce037bf94f56232cb7fb7692f2d04d97cf778.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "54_Just_Beat": {
+      "name": "Just Beat It",
+      "description": "Complete all Climax Battles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/39c1c9a6143ea8c09017b165b9bb6ac0cea2965f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/10aba567e870330340a799f14c32a7c06b946f16.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "48_Lion_In": {
+      "name": "Lamb in the Lion's Den",
+      "description": "Complete Chapter 16.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/a2957098d81879a84e71ef8770bbfbf32d6754c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/2d9c6ec6ae8c7d468c28f9c66029600348242426.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "19_Lucky_Star": {
+      "name": "Lucky Star",
+      "description": "Get a top-grade item from a Dream Machine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/07318ffcacfd7d0d05fd8d6212c0412b932f900f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/072ede2a0a8ded1bd3debc8cce869abf49c7dc63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "14_Make_It_Rain": {
+      "name": "Make It Rain",
+      "description": "Throw away money on the street.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/b420bfab23daa52fb1173a3b98fa48548a527a6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/2172adf0e6cf5e9aba73b27cf6f68505ae28ddc7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "22_Master_Of": {
+      "name": "Master of Style",
+      "description": "Obtain all abilities for every style.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/daba674ea53d44a05284ece653d0156f214db19e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/351b41d96fdd0be38af5f04b8b77ba59862fc5b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "24_Mr_Shakedown": {
+      "name": "Mr. Shakedown Takedown",
+      "description": "Defeat Mr. Shakedown for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/8c377119b1398033dd58f796f8e9dc3ea2583936.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/82da584e6999d4f90f2dc1d3993b58e67b2b4410.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "34_New_Allies": {
+      "name": "New Allies, New Foes",
+      "description": "Complete Chapter 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d4dad473b782a9318407b289de49ae82dd242fd1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/9803f3a7672ff72874616ff708256c791296a221.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "33_Nostalgic_For": {
+      "name": "Nostalgic for the 80s",
+      "description": "Visit Kamurocho in December 1988.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/718d53bf45b987ec851293f07ff6dfb48aec3581.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/03da3e4ca42efc4c0693d2afda02277bb66fb8b0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "91.1"
+    },
+    "46_Painful_Reunion": {
+      "name": "Painful Reunion",
+      "description": "Complete Chapter 14.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/cd580ebd905d5880fc9ba11d2b347786e0e146c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/1d31b928820cf037c49f3bdd65f259f80166c3b5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "09_Perfectionist": {
+      "name": "Perfectionist",
+      "description": "Get 100% on your Completion List.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/b4307cbc7ed88e7751039dc07a6bfff706fabc0c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d3b3abbb7e6317a959cb0a722d89b202b00deccf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "02_President_Kiryu": {
+      "name": "President Kiryu",
+      "description": "Get started with Real Estate Royale.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/071733b8ac79a45ca74341de10b82352aa3412f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/63792d8ca6be0ad52d802f527632a82511d29aad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.8"
+    },
+    "27_Prizefighter": {
+      "name": "Prizefighter",
+      "description": "Defeat 30 or more opponents in Endless Rout.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/dda35ab37cfb9fdf2a4982240a7b0ecbe5ba9b59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/567b32cdb7cafe02273bf6e5f4c0bb43dc594201.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "35_Rich_Taste": {
+      "name": "Rich Taste",
+      "description": "Treat a homeless man to a ¥20,000 bottle of booze.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/3b2e6d445270efba2ab7e0a3435e214a3254d98f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/65cc32a6cbd454b9e7dbc2a4c18087bfc31d7993.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "30_Say_You": {
+      "name": "Say You Wanna Dance",
+      "description": "Complete every disco song on any difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/4f1c5ac9d92dfe5217f8a725207d359739eff3fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/eaeab84fc957e548e78c524c10f0c74454668a3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "37_Smooth_Criminal": {
+      "name": "Smooth Criminal",
+      "description": "Successfully negotiate ideal terms with Yamagata.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/c77a80de9087845165399caf7ab56cf35af8643b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/712784e0231faf125571e24a6aa32186b24c2528.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "12_Story_of_My_Life": {
+      "name": "Story of My Life",
+      "description": "Complete all substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/c6f59908a3d4b99f410e1dd6afa3bd7e1df150c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/c8f5f7d488f49b2383ed73808bd10b2bccf0944c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "01_Stuff_of_Legend": {
+      "name": "Stuff of Legend",
+      "description": "Complete the main story on Legend difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/66a9f2571c262e79d638b631ae20074dc0f89568.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/b1b9a1c7151ccf85a2bde4143de3c55949972037.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "06_Talk_of_the_Town": {
+      "name": "Talk of the Town",
+      "description": "Get over 1,000 fans in any area.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/13303ee9316fce7c3ccc48c5b8cdaa1302a1bf30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/4ccb3cb4883b8f6da351c45fdaa26488e84deea7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "10_Tell_Me_a_Story": {
+      "name": "Tell Me a Story",
+      "description": "Complete 10 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/77b5b6f574cc422023965421cfadae2b4d45a0b2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/336d52a57472c9ab8ec3e07c2664f9dce3607661.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "42_The_Big": {
+      "name": "The Big Reveal",
+      "description": "Complete Chapter 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/3f04d5b5d43964869f7c6913e7338f5f327a81c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/78b35f0f46a3ae38a2ca56dac61bb0609b2f836e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "32_The_Dragon": {
+      "name": "The Dragon of Pocket Circuit",
+      "description": "Win all Pocket Circuit races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d00f423c8b5b751f91943567ed9e4abc40fa21f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/2e3a6f75cfd5b2906905d03e89169b1c5d97a0be.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "04_The_Glamorous_Life": {
+      "name": "The Glamorous Life",
+      "description": "Purchase the most expensive property.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/791fe6fc8fe8e9606d7699aecc054e4f34ca8eda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/300a6028824b882acd1223fb5e055a7575c9655f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "03_The_Promised_Land": {
+      "name": "The Promised Land",
+      "description": "Get 100% share in any area.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/6954092868990ca6055f0355741630e91e30b419.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/3eb15fae5af2e20ea9158eededfbd81701bfc280.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "45_They_Wont": {
+      "name": "They Won't Mind",
+      "description": "Steal Nikkyo Consortium funds from their safe.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/d24f0638ca2b9d818bc590f90d9b2b1a20b94be6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/78d9df03f55b574e2d462b4e63ce90bf027f8fd5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "38_Time_To": {
+      "name": "Time to Say Goodbye",
+      "description": "Complete Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/9b82bcc21f0d944748ee3969128e367db3467b2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/6b3fbeefa555ffb72525cbe100d9552283ffd096.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.7"
+    },
+    "20_Training_in": {
+      "name": "Training in Style",
+      "description": "Complete one training mission with each master.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/62eee94cc5a27d68218b0fe065ae613597be7694.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/8199e544910b1746b0ef324dc741d9aa0714ec98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "52_Walking_On": {
+      "name": "Walking On Sunshine",
+      "description": "Complete the Cabaret Club Czar storyline.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/fff328cbbd4ae98afd7999f929a5bc6090cc6ae2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/07874ad6bf2796a1ad93194740756a36cec1b83d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "51_We_Built": {
+      "name": "We Built This City",
+      "description": "Complete the Real Estate Royale storyline.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/78a584e11a8b9f637e4e1f8eab5610be65194d71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/e3eb0cb215042b866d482d5bb3db022b8581a8ed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "25_Welcome_To": {
+      "name": "Welcome to the Jungle",
+      "description": "Get the best weapon search results report.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/667147f08cbfb7df3fd4bfd052ef91353cffa0c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/9c2e9a271c991ea40ffec14f6c96e266b47aa6fa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "28_What_A": {
+      "name": "What a Player",
+      "description": "Play every minigame.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/ea60a25206d0f9f3b00311af1b9c99a2fa166fc4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/53827380f49830570825ada8854de4a7bf6bf3a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "40_When_It": {
+      "name": "When It All Goes Wrong",
+      "description": "Complete Chapter 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/2d7885c7cdbfd62bb130d390eff7babd78823721.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/98b5d58f997664d6d87ae1b62301f10a5ca32f34.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "00_Where_It_All_Began": {
+      "name": "Where It All Began",
+      "description": "Obtain all other achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/81ff550f94e182baa67e8649c5e3de15b195d353.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/40a8424908de14f76018318df36b5a62e154aa46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "23_Whip_It": {
+      "name": "Whip It Good",
+      "description": "Get five or more play bonuses fighting a single enemy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/8705accee6ca6b619f9f93327515cde088e22503.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/abdafbe01163c0feb1658eb514eb18e99d4b060b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.7"
+    },
+    "16_Who_Ya": {
+      "name": "Who Ya Gonna Call?",
+      "description": "Pick up a telephone card.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/af0b34ffe1f081016ef45dc842e37dc8bee5b3cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/1f7ce266ac3a26a28162d8af0f3d6bd8c57b61bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "15_Worked_Hard": {
+      "name": "Worked Hard for the Money",
+      "description": "Throw away a total of five million yen.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/97736110a126804f1ea1b9eb00dae91e253a8152.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/61870303f27aaaef7ba62a4a15a1605683f795cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "07_You're_Still_Number_One": {
+      "name": "You're Still Number One",
+      "description": "Max out the level of a platinum hostess.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/250db864b0d7902a3251810da2f8f09d0d1d4191.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2988580/98c2cfb41b6ce7eff98876fce626f004e2c40f6a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

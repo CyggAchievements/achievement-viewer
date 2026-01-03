@@ -1,0 +1,523 @@
+{
+  "appid": "460930",
+  "name": "Tom Clancy's Ghost Recon® Wildlands",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/header.jpg?t=1764776201",
+  "achievements": {
+    "GRWildlands_Ach_20": {
+      "name": "A Better Mousetrap",
+      "description": "Killed 7 enemies with a single mine.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/e99f680b3900399e914cb1d18fa761f9a846e5d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/fc454f47e6d1c6841bffef0d3a2ade9cd5cd2eac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "GRWildlands_Ach_16": {
+      "name": "A Good Start",
+      "description": "Completed the first mission \"Amaru's rescue\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/479d069837e5f2989fcaf505ecc85df28f30f0a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/08f5f59d3c06cb93641b570029e78a3809c98f73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "GRWildlands_Ach_52": {
+      "name": "A hero once, a hero twice",
+      "description": "Fallen Ghosts: complete the operation",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/78aeef738ad53171886469e7950fd9400a899ae2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/c35615426722ed1aba76457743d16b5e0ab1f45f.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "percent": "0.6"
+    },
+    "GRWildlands_Ach_57": {
+      "name": "Artisanal SAM",
+      "description": "Fallen Ghosts: Destroy an enemy helicopter using an explosive bolt.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/3a6f0b7e2d4598535f975f41606a6ae09f40efe8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/991198bbeacf8cd154d0ed7ee13586176b6e4e12.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "percent": "0.1"
+    },
+    "GRWildlands_Ach_43": {
+      "name": "Assault Rifle Fanatic",
+      "description": "Collected all assault rifle models.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/0071acae2a093e772c794374d1a70efa91038399.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/d959aae486737807b1f2f5f2a15be92974c625c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "GRWildlands_Ach_12": {
+      "name": "Bad Reputation",
+      "description": "Completed the Influence operation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/25e618c86f383a6ab4c6309add84cc18bff9e06a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/73616473cde3abf05b0617a271770b07f292343c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "GRWildlands_Ach_7": {
+      "name": "Beat the Boss",
+      "description": "Defeated your first boss.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/818966a23279034cf33a74c566878a3b98cf370f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/569b481bb00443f00a0c4a24d3e323a8d8a6ddfc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "GRWildlands_Ach_39": {
+      "name": "Black-out Boomer",
+      "description": "Destroyed a generator with a C4 blast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/778cbc0780508b4fe4e4f93b81609ca0a147b385.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/bcc899cf98f2a5bdc936a7a117b5a0f8aa3f5a85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "GRWildlands_Ach_50": {
+      "name": "Brake a leg",
+      "description": "Operation Narco Road: Complete a trial without using the brakes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/8dcf5160f28ea3bbd98e90ed03553c5f3b7b5bd3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/6f5a5578ffdd2d8779664337ed40bfcdbf9832b4.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "percent": "0.2"
+    },
+    "GRWildlands_Ach_11": {
+      "name": "Broken Locks",
+      "description": "Completed the Security operation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/37cc441a360d7e893ae3657948181bd23830886c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/3b467bf61c84e937df14def6ec0e58529a52cd95.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "GRWildlands_Ach_19": {
+      "name": "Cluster Bomber",
+      "description": "Killed 7 enemies with a single C4 blast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/f1d96a9b43b47574bbeee106d108cf20ca6f6a97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/8a7520087e3ae9740d115531880de76ea4572f5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "GRWildlands_Ach_48": {
+      "name": "Cristina",
+      "description": "Operation Narco Road: Kill 50 enemies with any gang's vehicle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/304427b5bd2dde607b2d9a1fc7868d2603c28ee8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/5c4867ac88b238b2acf03af16f6216c3abf24e41.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "percent": "0.0"
+    },
+    "GRWildlands_Ach_4": {
+      "name": "Deadly Curious",
+      "description": "Interrogated 20 sources.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/bdcf99719b2f734efe46bfcb871c0cf5280bb09b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/bdd4c72d72a618dea5de8106a677cef4ea27553c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "GRWildlands_Ach_38": {
+      "name": "Death from Above",
+      "description": "Killed an enemy with a drone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/37d8eeb8b249665bf257da53a18d7f6b2c6c516d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/4608744416a7c70c88ba0c0b3aa9ac5f4cf33be2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "GRWildlands_Ach_36": {
+      "name": "Death in the Dark",
+      "description": "Made a close-combat kill at night.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/14983b2e814ae9226488fd5f21c1520c575ea90d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/38adb39ec291088a384acefbe107ae547b7366f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "GRWildlands_Ach_18": {
+      "name": "Eagle-Eyed",
+      "description": "Marked 100 enemies with the binoculars.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/04791ad1e240554f5895d63906373448e6186fce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/4a6a8d859daf229917a0e576570f7bfd7aadbb4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "GRWildlands_Ach_45": {
+      "name": "El Visible",
+      "description": "Operation Narco Road: Kill the final target",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/27fe0561cc83b73fa6dda83b4dfa7321eb9b9604.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/1817a4709c60fd1026115a0e11c3a3d4f8e99647.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "percent": "0.2"
+    },
+    "GRWildlands_Ach_17": {
+      "name": "Eye in the Sky",
+      "description": "Marked 100 enemies with a drone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/ffef8c72df9b89a76aea72ed2d8a222a6d352a2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/3161ec858db6581eea0dc013145b6b37de0713a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "GRWildlands_Ach_1": {
+      "name": "Fearless",
+      "description": "Skydived 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/04ec20c1986d5947e75c31b3d261c73253a4f3cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/14cb9cd01d5c2448756fb54121250dbee24c0a36.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "GRWildlands_Ach_37": {
+      "name": "Finished the Job",
+      "description": "Killed an enemy in close combat who was hurt by another player.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/df5b7ae3b4dbfaf161ed3816f3e9513128df3fbb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/88770dbde50f22a337ea8efd6ee9819f754d80d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "GRWildlands_Ach_44": {
+      "name": "Gang Leader",
+      "description": "Operation Narco Road: Kill One boss of the cartel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/62c6a9ee77b5ea81847c53e56e761e520b4adbdb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/551e8d5fd54fbaaba1daf10067df26a86eb6c298.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "percent": "0.4"
+    },
+    "GRWildlands_Ach_33": {
+      "name": "Handgun Fanatic",
+      "description": "Collected all handguns models.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/4a89c01e239d4e380f0a35dfd3985d43c8db53ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/fbe66d93f09057b370aa7bb6d74c8c756f9d11df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "GRWildlands_Ach_28": {
+      "name": "Heavy Medals",
+      "description": "Collected all the bonus medals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/ab2f3674e2971c84cb19fb9340beea931c3be39a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/fb4a20ecb7f7db9f8051a5ace1fd61d1b24fbff8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "GRWildlands_Ach_24": {
+      "name": "Highway Bandit",
+      "description": "Tagged 10 convoys.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/7a538d56473073a4c2b213b6a72cfac7503297a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/dc228d240ee651ebf9810839d0b4cad25f44a099.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "GRWildlands_Ach_51": {
+      "name": "Kill list",
+      "description": "Fallen Ghosts: Kill one of each Extranjeros squad archetypes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/8e7d608b8f324145d996bcaa4f4c74d740538a96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/2c93e712a7f715d7404cde3ee6b5d4bcf6593660.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "percent": "1.1"
+    },
+    "GRWildlands_Ach_21": {
+      "name": "Legend Hunter",
+      "description": "Discovered one legend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/5adb90129f15f71d67e097abc97fc7c1b9f5962c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/652fbc66fb2f7a08d4233c56fe1de9d75c6b2bbb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "GRWildlands_Ach_22": {
+      "name": "Legendary Hunter",
+      "description": "Discovered all  legends.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/df06a973356ad08953b04eef3601d045bb0e8717.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/a6a25d4d5c8a10f8f1e515520cba945877315371.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "GRWildlands_Ach_41": {
+      "name": "Light Machine-Gun Fanatic",
+      "description": "Collected all light machine-gun models.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/86337581ad930ce69a5053dcdc28b12aaec1cd6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/454fc92d509e8f693435f949f6f35f8dc9e531b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "GRWildlands_Ach_35": {
+      "name": "Long Shot",
+      "description": "Hit a target more than 400m away.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/1b151e93ec78f29fc306e561e330395d4d8e2815.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/e3edf6cff47dba22fccef659e710a22c9f414202.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "GRWildlands_Ach_49": {
+      "name": "Mal Rodilla-Ternera",
+      "description": "Operation Narco Road: Complete an Electro™ challenge while freefalling",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/0886ab2f3c33920659717920372b02abba1f980d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/964307f3df20482714b08cca2fa6af08bd45b710.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "percent": "0.1"
+    },
+    "GRWildlands_Ach_13": {
+      "name": "Mission Master",
+      "description": "Completed all Story missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/82d7a0a88ee899e7340b74ae7d51ee3b50dd65b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/b11552c718d99762773ba5dbb69ece4eb7ba936d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "GRWildlands_Ach_46": {
+      "name": "More Followers than Escobar",
+      "description": "Operation Narco Road: Fill the Followers Gauge of all regions to 100%",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/3cd41e6542140880030ea327c017f98a71461e71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/3d4cc87ea39ec027848384f832f9f2d8c4082f71.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "percent": "0.0"
+    },
+    "GRWildlands_Ach_31": {
+      "name": "No Better Rebel",
+      "description": "Maxed out each Rebel skill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/538f68d43a3f8c9ccd79bce222b8e43bb54c233c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/1e70fa7048900a4e27601790f5033c18c9510107.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "GRWildlands_Ach_56": {
+      "name": "Nondescript jungle hero",
+      "description": "Fallen Ghosts: Kill 10 Covert Ops Extranjeros using your knife",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/b1a296b038cea5d28ea2da7deab89f4eeef8f4db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/d1317be64fb982bb7e0602c3cfdc9c8acad7be22.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "percent": "0.1"
+    },
+    "GRWildlands_Ach_26": {
+      "name": "Only the Best",
+      "description": "Bought all upgrades.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/03926c391a8ae29db2078ac1b5e81f3769b5ca69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/e8addd80067e70a3d840fad2058fd2e7738ad050.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "GRWildlands_Ach_2": {
+      "name": "Pull!",
+      "description": "Shot an enemy chopper out of the air with a mortar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/3468f05f2cb9d3ced7ff277b11ced8eaee7dbf0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/486ab4acb66b91e1cfdfd52f090c715f4409909c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "GRWildlands_Ach_30": {
+      "name": "Real Rebel",
+      "description": "Unlocked all the Rebel skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/d14ff98ae10a4f0db741fe812cea74cd06d3f871.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/35a47a93b2142a303387017f29937906de407951.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "GRWildlands_Ach_54": {
+      "name": "Rebel leader",
+      "description": "Fallen Ghosts: Complete a Final Rebel Op",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/126e7516d0473c753c780b9c92cf12729797a068.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/668f2d8c0900794d1c842189ba34f09cfc700194.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "percent": "0.3"
+    },
+    "GRWildlands_Ach_29": {
+      "name": "Rebel Sympathizer",
+      "description": "Unlocked a Rebel skill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/3fdfbba6bda7a7e4f2b5f06bac8b2acdd2feb900.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/354c0b5270fc869473687e3bfedc2908351925c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "GRWildlands_Ach_3": {
+      "name": "Road Warrior",
+      "description": "Drove a vehicle for 100 km.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/112eee80ce966adac9a898aab28ebbe392987d66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/e88a596cc240bb494d1720df7885dad096573509.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "GRWildlands_Ach_47": {
+      "name": "Scenic Route",
+      "description": "Narco Road: Go from Eddie's party villa to Arturo's bar in 8 minutes or less in a ground vehicle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/1688e75eb16ef521881f726c78240b82333dc526.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/b98c1faf0fc2fb1387db7094cce1df909cf880b4.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "percent": "0.0"
+    },
+    "GRWildlands_Ach_5": {
+      "name": "Serious Collector",
+      "description": "Found 50% of the documents in the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/a6b93c18ff202e46b6502eac8586472517c89d96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/017a16019118f81e23c4588bfbacc5675266fe08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "GRWildlands_Ach_32": {
+      "name": "Shotguns Fanatic",
+      "description": "Collected all shotguns models.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/6499718bec412291eacf554cd8a94a8a5097b96e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/8b83e3ec6b77ff33b1d8796b1a16631600cd5928.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "GRWildlands_Ach_10": {
+      "name": "Shut Down",
+      "description": "Completed the Production operation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/923a128ec7e3b89a68b5d9235c3cad7f18f680f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/8556ce050a083c3321927ab31866edbe0befc1df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "GRWildlands_Ach_9": {
+      "name": "Smuggler's Blues",
+      "description": "Completed the Smuggling operation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/82a3029f498eb64353557c3b82297e1da846813e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/65a2e5ecabbfb1fcf59eb7bcb0835eb4fbc7d7cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "GRWildlands_Ach_42": {
+      "name": "Sniper Rifle Fanatic",
+      "description": "Collected all sniper rifle models.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/bff5b3948a447716b321b620484f06209ee1846c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/ce3a0cb9501f0b6ac054e5a80f531d64fcd773eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "GRWildlands_Ach_23": {
+      "name": "Spice of Life",
+      "description": "Played each type of side mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/27969572d5d07400b790f4eef061fbbddbf24f35.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/9364ea16ed86da494849476fa0e1d6c513a8982d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "GRWildlands_Ach_40": {
+      "name": "Submachine-Gun Fanatic",
+      "description": "Collected all submachine-gun models.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/b1ea724787ab35c4540e96847f5e4ee704ecd5f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/e9d3b50c877e9a30ca70d406df4250b228a3def5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "GRWildlands_Ach_55": {
+      "name": "Tactical genius",
+      "description": "Fallen Ghosts: Blind yourself using the Flash Drone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/c71badc76ec2f3d7ab3b765be5418362d1a01209.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/39eea2c8150b71eb2e60eaca08e8d10a2b071c94.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "percent": "0.1"
+    },
+    "GRWildlands_Ach_15": {
+      "name": "Teamwork!",
+      "description": "Completed 3 missions with another player.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/76662e2c66585e289a68e829a848cbe058f8e1fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/f7f182c8da70abf973c15fb8d90643118435362d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "GRWildlands_Ach_34": {
+      "name": "The Champion",
+      "description": "Maxed out your XP and levels.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/8956846dc0eb2e7783206b148b65c1baa9b138c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/38d8065cbaa1994cc9f10fe053b96fa3226b0e5f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "GRWildlands_Ach_8": {
+      "name": "The End",
+      "description": "Finished the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/dd7521df1e031ae5801506f5046b70da899f547f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/4c096aa6dbe1ffa8dfcdd08366d7147e39287e8b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "GRWildlands_Ach_6": {
+      "name": "The Whole Story",
+      "description": "Found all documents.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/ff033ff5027f5f2709d802526ee622ba53a3e1c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/b434c7ab26c7038ee73dcdfee5e0eaf6a3ba5dfa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "GRWildlands_Ach_53": {
+      "name": "Thorough supporter",
+      "description": "Fallen Ghosts: Complete every Rebel Op and Mission",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/9cf232310a2f43f5d5ac791f2f5e754026d53a95.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/18cd945e6d7a1a1a4986771b6542741f37f6397d.jpg",
+      "hidden": false,
+      "group": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "percent": "0.2"
+    },
+    "GRWildlands_Ach_27": {
+      "name": "Top Drone",
+      "description": "Bought all drone-related upgrades.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/b212c89998582b94f464d0a1ca350fcd44d405d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/a5498d48e50bff2aa00b68d0f53fe51f41da1ee2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "GRWildlands_Ach_25": {
+      "name": "Ultimate Skill",
+      "description": "Bought all the upgrades of a Skill branch.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/b4f4cb758fbd5d0966d0b1985ccddd74110b36a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/ab345a8a8d8cae1c8cd5f02302530acea2b20e68.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "GRWildlands_Ach_14": {
+      "name": "With a Pistol!",
+      "description": "Took out a sniper with a pistol.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/a1cfd6d9cc7825571c4be471c490557fffb31c10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/460930/939f16224c03c118a847a3994045864eae4cba02.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

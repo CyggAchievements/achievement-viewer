@@ -1,0 +1,442 @@
+{
+  "appid": "1222140",
+  "name": "Detroit: Become Human",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+  "achievements": {
+    "21": {
+      "name": "A GLIMPSE OF JERICHO",
+      "description": "Connor connected to Simon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "19": {
+      "name": "A SMILE ON HER FACE",
+      "description": "Alice enjoyed a ride on the merry-go-round",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f910c857df8243e9ae3be27b6d0e44f80957366d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.7"
+    },
+    "36": {
+      "name": "AN ARMY OF ME",
+      "description": "Connor converted the androids",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "29": {
+      "name": "BLOODHOUND",
+      "description": "Connor got the location of Jericho by himself",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "42": {
+      "name": "BOOKWORM",
+      "description": "Find every single magazine in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/5b45a85131c22b6b99d1acd19511526142f83114.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8cacd8c9e84a37f33e3fbb5098969e7d910ec362.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "23": {
+      "name": "BURN THE PLACE",
+      "description": "Markus conducted a violent riot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "12": {
+      "name": "CATCH IT",
+      "description": "Connor caught up with Rupert",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "39": {
+      "name": "COMPLIANT",
+      "description": "Connor stayed a machine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "8": {
+      "name": "CONFESSION",
+      "description": "Connor made the android confess",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.4"
+    },
+    "25": {
+      "name": "CONFRONTATION",
+      "description": "Markus attacked the police",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "6": {
+      "name": "DEFEND YOURSELF",
+      "description": "Markus pushed Leo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.6"
+    },
+    "4": {
+      "name": "DEVIANT LOCATED",
+      "description": "Connor found the deviant in the attic",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.1"
+    },
+    "16": {
+      "name": "DOUBTS",
+      "description": "The Tracis escaped",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/b60ea21b50a40b9b13dae881ab713d12130223ff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "34": {
+      "name": "ESCAPE DEATH",
+      "description": "Kara and Alice escaped the recycling center",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f6fcc063bc3a13e9cb3fe31eb70480b34229ac43.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "14": {
+      "name": "ESCAPE THE MANOR",
+      "description": "Kara and Alice escaped Zlatko's house",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8b37bebb32a4d19b9658ef5715bd3edb439d4b65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f6fcc063bc3a13e9cb3fe31eb70480b34229ac43.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.6"
+    },
+    "44": {
+      "name": "HAPPY FAMILY",
+      "description": "Kara, Alice, Luther are together at the end",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/1718d9190159cfc5eef9777af6fffa68972f92d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/fe53f99e0cc5100d9949cc999a2d7cc43a9c2b82.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "45": {
+      "name": "I'LL BE BACK",
+      "description": "Connor died and returned at every opportunity before reaching the end",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/3e76abe8949d38b6bb04c9e4032f298b548d0bef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/204d4fbe01899d39dddc83924c0dd66574ad81c1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "17": {
+      "name": "JERICHO'S HERO",
+      "description": "Markus got enough parts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "18": {
+      "name": "JUST A MACHINE",
+      "description": "Hank killed Connor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "28": {
+      "name": "KINSHIP",
+      "description": "Connor refused to kill the Chloe",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.2"
+    },
+    "10": {
+      "name": "KNOW YOUR PARTNER",
+      "description": "Connor found all the clues about Hank",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.9"
+    },
+    "32": {
+      "name": "LIBERATION",
+      "description": "Markus reached the camp and liberated the androids",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "2": {
+      "name": "MISSION ACCOMPLISHED",
+      "description": "Connor saved Emma",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "87.3"
+    },
+    "37": {
+      "name": "MISSION COMPLETE",
+      "description": "Connor killed the leader of the deviants",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "33": {
+      "name": "MORAL VICTORY",
+      "description": "Markus succeeded in making the soldiers stand back",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "38": {
+      "name": "MY TURN TO DECIDE",
+      "description": "Connor resisted hacking attempt from Cyberlife",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.7"
+    },
+    "24": {
+      "name": "NOTHING TO SEE HERE",
+      "description": "Kara succeeded to make the cop go away",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f6fcc063bc3a13e9cb3fe31eb70480b34229ac43.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "40": {
+      "name": "ONE OF US",
+      "description": "Connor became deviant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "43": {
+      "name": "PARTNERS",
+      "description": "Hank and Connor were friends until the end",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/3e76abe8949d38b6bb04c9e4032f298b548d0bef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/204d4fbe01899d39dddc83924c0dd66574ad81c1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "27": {
+      "name": "PRIORITIES",
+      "description": "Connor killed the Chloe",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "11": {
+      "name": "RUN KARA RUN",
+      "description": "Kara and Alice escaped the police",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f910c857df8243e9ae3be27b6d0e44f80957366d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.7"
+    },
+    "15": {
+      "name": "RUTHLESS",
+      "description": "The Tracis were killed",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/a28759f742f348777c8b0ece4b45285209b4e783.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "35": {
+      "name": "SAFE HARBOR",
+      "description": "Kara and Alice passed the border",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f6fcc063bc3a13e9cb3fe31eb70480b34229ac43.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "13": {
+      "name": "SAVE HANK",
+      "description": "Connor saved Hank",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/4f558537c7846963f9cab2f7f489f6034d168dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/6bfc6747e3d7144443b8c540f509409b731a60f5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.9"
+    },
+    "31": {
+      "name": "SCORCHED EARTH",
+      "description": "Markus or Connor detonated the freighter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/708ce8cefbf25bef1cf0c860ce765cfeeb795a59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/c3cb5f17ee4b2f402878c13592d140dd1d9bb62c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "3": {
+      "name": "SECRETS",
+      "description": "Kara discovered the content of Alice's box",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f6fcc063bc3a13e9cb3fe31eb70480b34229ac43.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.5"
+    },
+    "7": {
+      "name": "SELF-CONTROL",
+      "description": "Markus let Leo win",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "22": {
+      "name": "SEND A MESSAGE",
+      "description": "Markus conducted a pacifist riot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/77466141ae5b80688a9c0dfa35fdc82a02dd495e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.7"
+    },
+    "9": {
+      "name": "SHELTER",
+      "description": "Kara and Alice slept in the motel or the squat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f910c857df8243e9ae3be27b6d0e44f80957366d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.6"
+    },
+    "26": {
+      "name": "STAND YOUR GROUND",
+      "description": "Markus stood his ground against the police",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "48": {
+      "name": "SURVIVORS",
+      "description": "Everyone is alive at the end",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/82bfe4861ab7fe41c2e15c1145e5bbc0dc900a51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/478470569ceda0e434b05b5f0f244d2c19e34514.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "1": {
+      "name": "THANK YOU",
+      "description": "Play the first chapter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/708ce8cefbf25bef1cf0c860ce765cfeeb795a59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/c3cb5f17ee4b2f402878c13592d140dd1d9bb62c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.3"
+    },
+    "47": {
+      "name": "THESE ARE OUR STORIES",
+      "description": "Spend 20,000 bonus points",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/82bfe4861ab7fe41c2e15c1145e5bbc0dc900a51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8a8545daf7ce4b9ea26410f2958f5a00c5261eb9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "46": {
+      "name": "THIS IS MY STORY",
+      "description": "Finish the game once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/82bfe4861ab7fe41c2e15c1145e5bbc0dc900a51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8a8545daf7ce4b9ea26410f2958f5a00c5261eb9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.6"
+    },
+    "30": {
+      "name": "THREE AT JERICHO",
+      "description": "Bring the three characters to Crossroads",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/708ce8cefbf25bef1cf0c860ce765cfeeb795a59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/c3cb5f17ee4b2f402878c13592d140dd1d9bb62c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "41": {
+      "name": "UNDEFEATED",
+      "description": "Don't lose any fight before reaching the end",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/5b45a85131c22b6b99d1acd19511526142f83114.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8cacd8c9e84a37f33e3fbb5098969e7d910ec362.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "5": {
+      "name": "WE ARE FREE",
+      "description": "Kara and Alice escaped Todd's House",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/001d3062e54db74c34ea567a0e1748e4e245daf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/f6fcc063bc3a13e9cb3fe31eb70480b34229ac43.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.7"
+    },
+    "20": {
+      "name": "WHEN A PLAN COMES TOGETHER",
+      "description": "Markus broadcasted his message without raising an alarm or having a team casualty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/9d397ff2425007d41714fc8ff4aa98e1f2e58fc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1222140/8072711d662b1794f0c193d46cbdacc0a4d8ddf5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.8"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

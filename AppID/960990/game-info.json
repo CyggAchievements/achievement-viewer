@@ -1,0 +1,415 @@
+{
+  "appid": "960990",
+  "name": "Beyond: Two Souls",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960990/header.jpg?t=1667468566",
+  "achievements": {
+    "STEAM_ACHIEVEMENT_41": {
+      "name": "A Better World",
+      "description": "Let every possible character die and chose to go with them to the Infraworld.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/75a8548abbcbf8e783153a9e16c8a9fad14ce8a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "STEAM_ACHIEVEMENT_30": {
+      "name": "Agent 894732",
+      "description": "Told the truth during the interrogation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "STEAM_ACHIEVEMENT_22": {
+      "name": "Aiden's Apocalypse",
+      "description": "Destroyed the gas station, the church, the gun store and the helicopter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "STEAM_ACHIEVEMENT_44": {
+      "name": "All Endings...",
+      "description": "Saw all endings.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/956730d7c95cc66e421b16fcd36c8228e112834d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "STEAM_ACHIEVEMENT_31": {
+      "name": "Almost Too Easy",
+      "description": "Went to the containment shield with the General.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.2"
+    },
+    "STEAM_ACHIEVEMENT_35": {
+      "name": "Black Sun Down",
+      "description": "Deactivated the Black Sun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.8"
+    },
+    "STEAM_ACHIEVEMENT_18": {
+      "name": "Casual Girl",
+      "description": "Ordered a pizza, watched some TV and wore something casual.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/15f67a2283b8c0191dc08ce7399b31ede7ff99d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "STEAM_ACHIEVEMENT_21": {
+      "name": "Catch Me if You Can",
+      "description": "Escaped the train without being arrested.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "STEAM_ACHIEVEMENT_11": {
+      "name": "Channeling Master",
+      "description": "Channeled all dead bodies in the condenser compound.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/490d861d764b7ef4dfc5244f5595077c1bb63dae.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "STEAM_ACHIEVEMENT_32": {
+      "name": "Chose Afterlife",
+      "description": "Entered the Infraworld.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "STEAM_ACHIEVEMENT_33": {
+      "name": "Chose Life",
+      "description": "Stayed in reality.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.6"
+    },
+    "STEAM_ACHIEVEMENT_15": {
+      "name": "Clean Job",
+      "description": "Shut down the monitor and finished the mission using only Aiden.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/15f67a2283b8c0191dc08ce7399b31ede7ff99d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.4"
+    },
+    "STEAM_ACHIEVEMENT_8": {
+      "name": "Cold Blood",
+      "description": "Did not impress or scare the teens with Aiden.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "STEAM_ACHIEVEMENT_34": {
+      "name": "Convince Dawkins",
+      "description": "Helped Dawkins see the truth.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "STEAM_ACHIEVEMENT_4": {
+      "name": "Entities Apprentice",
+      "description": "Vanquished the entities with Aiden.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.3"
+    },
+    "STEAM_ACHIEVEMENT_40": {
+      "name": "Entities Master",
+      "description": "Was victorious in every battle with the evil entities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/ee0e0ff12758a39d53daadb92cd66d14b533dfb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "STEAM_ACHIEVEMENT_42": {
+      "name": "Explorer",
+      "description": "Found all the bonuses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/ee0e0ff12758a39d53daadb92cd66d14b533dfb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "STEAM_ACHIEVEMENT_29": {
+      "name": "Eye for an Eye",
+      "description": "Didn't speak during the interrogation.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "STEAM_ACHIEVEMENT_13": {
+      "name": "Fight Apprentice",
+      "description": "Won every fight whilst taking less than 5 hits.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.3"
+    },
+    "STEAM_ACHIEVEMENT_23": {
+      "name": "Houdini",
+      "description": "Got arrested three times and escaped each time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "STEAM_ACHIEVEMENT_19": {
+      "name": "In Love with Ryan",
+      "description": "Slept with Ryan.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "STEAM_ACHIEVEMENT_27": {
+      "name": "Medicine Girl",
+      "description": "Successfully performed the entire ritual.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.9"
+    },
+    "STEAM_ACHIEVEMENT_26": {
+      "name": "Miracles",
+      "description": "Looked after Tuesday's baby, healed Jimmy and channeled Stan.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "STEAM_ACHIEVEMENT_24": {
+      "name": "Money to Eat",
+      "description": "Earned enough money to have some chocolate during dinner.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "STEAM_ACHIEVEMENT_39": {
+      "name": "Never Alone",
+      "description": "Started at least one romance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/ee0e0ff12758a39d53daadb92cd66d14b533dfb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.6"
+    },
+    "STEAM_ACHIEVEMENT_28": {
+      "name": "Not Just Sand",
+      "description": "Ran from the sandstorm and took less than 3 hits.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "STEAM_ACHIEVEMENT_6": {
+      "name": "Not My Father",
+      "description": "Choked Philip with Aiden.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/15f67a2283b8c0191dc08ce7399b31ede7ff99d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "STEAM_ACHIEVEMENT_2": {
+      "name": "Obedience",
+      "description": "Stopped the experiment voluntarily.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.1"
+    },
+    "STEAM_ACHIEVEMENT_17": {
+      "name": "Perfect Lover",
+      "description": "Cooked a meal, cleaned the apartment, took a shower, wore the elegant dress and put on some music.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "STEAM_ACHIEVEMENT_12": {
+      "name": "Perfect Soldier",
+      "description": "Completed most of the physical training successfully.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/15f67a2283b8c0191dc08ce7399b31ede7ff99d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "STEAM_ACHIEVEMENT_10": {
+      "name": "Portal Shutdown",
+      "description": "Successfully shut down the condenser portal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "STEAM_ACHIEVEMENT_16": {
+      "name": "Possessive Spy",
+      "description": "Finished the mission using only the Sheik.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/15f67a2283b8c0191dc08ce7399b31ede7ff99d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "STEAM_ACHIEVEMENT_7": {
+      "name": "Revenge",
+      "description": "Taught 3 or more of the teens a lesson, or started the house fire, with Aiden.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/490d861d764b7ef4dfc5244f5595077c1bb63dae.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "STEAM_ACHIEVEMENT_45": {
+      "name": "Saved All",
+      "description": "Saved every character that could be saved.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/3684ce6b972cc25fe7bfd40c4d5a09d62b6a4715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "STEAM_ACHIEVEMENT_25": {
+      "name": "Smart Thief",
+      "description": "Deactivated the supermarket's camera.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "STEAM_ACHIEVEMENT_1": {
+      "name": "Somebody Else?",
+      "description": "Played as Aiden for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/15f67a2283b8c0191dc08ce7399b31ede7ff99d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.3"
+    },
+    "STEAM_ACHIEVEMENT_5": {
+      "name": "Sorry",
+      "description": "Forgave Jodie's father.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.1"
+    },
+    "STEAM_ACHIEVEMENT_14": {
+      "name": "Stealth Apprentice",
+      "description": "Completed all stealth training without being spotted.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "STEAM_ACHIEVEMENT_20": {
+      "name": "Stealth Master",
+      "description": "Made it to the cathedral without being spotted.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "STEAM_ACHIEVEMENT_3": {
+      "name": "Teammates",
+      "description": "Did 3 mischievous things with Jodie and Aiden.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "STEAM_ACHIEVEMENT_37": {
+      "name": "The End",
+      "description": "One possible reality has been uncovered...",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/ee0e0ff12758a39d53daadb92cd66d14b533dfb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "STEAM_ACHIEVEMENT_9": {
+      "name": "Together Forever",
+      "description": "Protected Jodie from her attackers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.5"
+    },
+    "STEAM_ACHIEVEMENT_43": {
+      "name": "Together Till the End",
+      "description": "Finished the game in Duo mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/3684ce6b972cc25fe7bfd40c4d5a09d62b6a4715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "STEAM_ACHIEVEMENT_36": {
+      "name": "Two Souls",
+      "description": "Launched a scene in Duo mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/da7e36bb56778ee9276c6245b1bdc3cdff582706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "STEAM_ACHIEVEMENT_38": {
+      "name": "Uncontrollable",
+      "description": "Took every opportunity to be evil as Aiden.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/75a8548abbcbf8e783153a9e16c8a9fad14ce8a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960990/0cb4021220bb97ea80fe73222daa349e15ca51fc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

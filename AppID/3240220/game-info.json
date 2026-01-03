@@ -1,0 +1,703 @@
+{
+  "appid": "3240220",
+  "name": "Grand Theft Auto V Enhanced",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1765479644",
+  "achievements": {
+    "ACH02": {
+      "name": "A Fair Day's Pay",
+      "description": "It's time for a little getaway.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3e73a071eff77c31bfe6fd5f252685acb11e0311.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3e73a071eff77c31bfe6fd5f252685acb11e0311.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "ACH01": {
+      "name": "A Friendship Resurrected",
+      "description": "With friends like this who needs enemies?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f8d1ec571d81f8ad48a2dd9f028cf6bb0414b9c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f8d1ec571d81f8ad48a2dd9f028cf6bb0414b9c9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "ACH24": {
+      "name": "A Lot of Cheddar",
+      "description": "Spend a total of $200 million across all three characters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/28876d93d4cd3bb7750c552298f7ed491829188e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/28876d93d4cd3bb7750c552298f7ed491829188e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACH16": {
+      "name": "A Mystery, Solved",
+      "description": "Solve the mystery of Leonora Johnson.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/0ca947ce37980d4efab407bd36b5ad5d905ef70d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/0ca947ce37980d4efab407bd36b5ad5d905ef70d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACH51": {
+      "name": "A New Perspective",
+      "description": "You played GTA V in first person mode for 15 hours.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/13997e656988c7cc780b26e1e3165bb437b3d26d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/13997e656988c7cc780b26e1e3165bb437b3d26d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ACHGO5": {
+      "name": "A World Worth Saving",
+      "description": "GTA Online: You completed The Doomsday Heist as Leader or Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/669aecd1f2b82f12e6e21b69fe09e4138c782d70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/669aecd1f2b82f12e6e21b69fe09e4138c782d70.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "ACH33": {
+      "name": "Above the Law",
+      "description": "GTA Online: Reach Rank 100.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/aa55434f37dadab31e74ca75de8d500cc6777817.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/aa55434f37dadab31e74ca75de8d500cc6777817.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.7"
+    },
+    "ACH12": {
+      "name": "All's Fare in Love and War",
+      "description": "Purchase Downtown Cab Co. and complete a private fare.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2c7e02d888277066667da17fa529cbde1efef640.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2c7e02d888277066667da17fa529cbde1efef640.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ACH23": {
+      "name": "Altruist Acolyte",
+      "description": "Deliver an unsuspecting victim to the Altruist Cult.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/46eb28c4c5065567bb6f57d775551fdbbeda099d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/46eb28c4c5065567bb6f57d775551fdbbeda099d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACH49": {
+      "name": "American Dream",
+      "description": "GTA Online: Own an Apartment, Garage and an Insured Vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/54705fbb27c56b0c3e00ff4dbd7b5b8039e45966.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/54705fbb27c56b0c3e00ff4dbd7b5b8039e45966.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.7"
+    },
+    "ACHR5": {
+      "name": "Animal Lover",
+      "description": "Enter Director Mode as an unlocked animal actor for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/fb94ef0784e338a379c871da099c0c89a92ce8ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/fb94ef0784e338a379c871da099c0c89a92ce8ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH38": {
+      "name": "Backseat Driver",
+      "description": "GTA Online: Direct a driver to 1st place as co-driver in Rally Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/dff6293d41074b91c2e6e8dbf937802a4f85deae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/dff6293d41074b91c2e6e8dbf937802a4f85deae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACHH1": {
+      "name": "Be Prepared",
+      "description": "GTA Online: You completed a Heist Setup mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/feafc37edae850fb5265af911c79c790d6cc7a29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/feafc37edae850fb5265af911c79c790d6cc7a29.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "ACH42": {
+      "name": "Blitzed",
+      "description": "You performed a classic blitz play.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2f50a69673ee905a6c3f43fb85e9b1b7d6c26d2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2f50a69673ee905a6c3f43fb85e9b1b7d6c26d2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "ACHH8": {
+      "name": "Can't Touch This",
+      "description": "GTA Online: Complete a Heist finale without taking any damage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/130c08096332253004392ed86e4b3a1a5a27abdf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/130c08096332253004392ed86e4b3a1a5a27abdf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "ACH11": {
+      "name": "Career Criminal",
+      "description": "Attain 100% Game Completion.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/06d8ea22220f88e23accc97e2363a28bd526def5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/06d8ea22220f88e23accc97e2363a28bd526def5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH40": {
+      "name": "Clean Sweep",
+      "description": "GTA Online: Finish a Gang Attack without dying and kill at least 10 enemies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/adb627ccd60b5984b19d6efa267fafed76b75878.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/adb627ccd60b5984b19d6efa267fafed76b75878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.3"
+    },
+    "ACH29": {
+      "name": "Close Shave",
+      "description": "Complete all Under the Bridge and Knife Flight challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/5d2297eb30b1c4b077f93ccdbdd01b681cb4dc7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/5d2297eb30b1c4b077f93ccdbdd01b681cb4dc7b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ACH46": {
+      "name": "Crew Cut",
+      "description": "GTA Online: Complete a Job as a member of a Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e17fcace5546edd7cd00901e13e4b24bf1b47d6f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e17fcace5546edd7cd00901e13e4b24bf1b47d6f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "ACHR10": {
+      "name": "Cryptozoologist",
+      "description": "You unlocked all animals for use in Director Mode...  or did you?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/7f32e0c977b465951a64b3ac01b29f90bbfb2b64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/7f32e0c977b465951a64b3ac01b29f90bbfb2b64.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHR7": {
+      "name": "Cult Movie",
+      "description": "Enter Director Mode as Cris Formage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2c9ffebd7e6c34dfdef49e6f2d250dba8fc3e2f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2c9ffebd7e6c34dfdef49e6f2d250dba8fc3e2f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHH3": {
+      "name": "Dead Presidents",
+      "description": "GTA Online: You completed The Fleeca Job and The Pacific Standard Job as Heist Leader or Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/015ce0a19ec3a2819b1e21594946c39127e3020e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/015ce0a19ec3a2819b1e21594946c39127e3020e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ACH41": {
+      "name": "Decorated",
+      "description": "GTA Online: Earn 30 Platinum Awards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/dd71aa8b6617cb7ddba275a39be75ed9c7e46d2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/dd71aa8b6617cb7ddba275a39be75ed9c7e46d2c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "ACH48": {
+      "name": "Dialling Digits",
+      "description": "GTA Online: Call for a Backup Helicopter for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/00da743dcc9ca6db78159cc65a68df9081b10341.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/00da743dcc9ca6db78159cc65a68df9081b10341.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ACH05": {
+      "name": "Diamond Hard",
+      "description": "You cleaned out Vangelico to pay back Martin Madrazo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/c198e03dc06a2b1db3de7415e06a370e6af68063.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/c198e03dc06a2b1db3de7415e06a370e6af68063.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "ACHGO7": {
+      "name": "Elitist",
+      "description": "GTA Online: Complete all 3 Elite Challenges in The Doomsday Heist.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/c74e2b7214944b4734e11628a4f12c2936f011d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/c74e2b7214944b4734e11628a4f12c2936f011d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACH45": {
+      "name": "Enjoy Your Stay",
+      "description": "GTA Online: Participate in everything Los Santos has to offer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/8a7ee651732912536db07b006ff6ba37f30670e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/8a7ee651732912536db07b006ff6ba37f30670e7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACHR6": {
+      "name": "Ensemble Piece",
+      "description": "Unlock all Story Characters and enter Director Mode as an actor from this category.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/99e329671a7803fdd48a6616aa152fc5053a6597.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/99e329671a7803fdd48a6616aa152fc5053a6597.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACHR4": {
+      "name": "First Time Director",
+      "description": "Enter Director Mode for the first time as an unlocked actor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/786d389af54d2ed60c40da399e35694fbb2d03b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/786d389af54d2ed60c40da399e35694fbb2d03b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACHH6": {
+      "name": "Four Way",
+      "description": "GTA Online: As Heist Leader set the finale cut as 25% across all players.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/bf744e66bd43f0be2df0138d88dba55d41bd0025.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/bf744e66bd43f0be2df0138d88dba55d41bd0025.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACH15": {
+      "name": "From Beyond the Stars",
+      "description": "Collect and return all spaceship parts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/d26a8bb2b5cd36fbf51e4fd22badc01c7812b77c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/d26a8bb2b5cd36fbf51e4fd22badc01c7812b77c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ACH47": {
+      "name": "Full Refund",
+      "description": "GTA Online: Kill the thief that mugged you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/262a6b43c119506e1a2b715503d444e30d6862f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/262a6b43c119506e1a2b715503d444e30d6862f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "ACHGO1": {
+      "name": "Getting Started",
+      "description": "GTA Online: Set up The Doomsday Heist.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f90e04c37044f961f50fb9169ab163f78b125b44.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f90e04c37044f961f50fb9169ab163f78b125b44.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ACHR3": {
+      "name": "Humans of Los Santos",
+      "description": "Unlock all Special Characters and enter Director Mode as an actor from this category.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e719d10446337e05fde7a16d6c9a094add7a9b6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e719d10446337e05fde7a16d6c9a094add7a9b6d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHH2": {
+      "name": "In the Name of Science",
+      "description": "GTA Online: You completed The Humane Labs Raid and Series A Funding as Heist Leader or Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/465f0eba5540b4d743d280bfc13ecdfba88cdf28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/465f0eba5540b4d743d280bfc13ecdfba88cdf28.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ACH20": {
+      "name": "Kifflom!",
+      "description": "Complete your path to enlightenment... or not.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/389f5a0c31c78c041a6a7fdb549678802ba1bc83.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/389f5a0c31c78c041a6a7fdb549678802ba1bc83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ACHH7": {
+      "name": "Live a Little",
+      "description": "GTA Online: Spend a total of $8,000,000 purchasing vehicles included as part of The Heists Update.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/b43851b77c62cebc7f4b05cdc9429dde9c44c8e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/b43851b77c62cebc7f4b05cdc9429dde9c44c8e7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ACHR8": {
+      "name": "Location Scout",
+      "description": "Visit all Locations in Director Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2d98ca2d42b753cd9de78fb8de9ecea17d9420fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2d98ca2d42b753cd9de78fb8de9ecea17d9420fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ACH28": {
+      "name": "Los Santos Customs",
+      "description": "Fully mod a vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2e83b6bfdaf014f5e179411b76331fbffbcefe73.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2e83b6bfdaf014f5e179411b76331fbffbcefe73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.8"
+    },
+    "ACHR2": {
+      "name": "Majestic",
+      "description": "Create and export 10 videos using the Rockstar Editor or enter Director Mode 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/ba9d3e93ecfe549fddfb3ba06e5ab8ba12bd9a42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/ba9d3e93ecfe549fddfb3ba06e5ab8ba12bd9a42.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH32": {
+      "name": "Making Moves",
+      "description": "GTA Online: Reach Rank 50.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e539102e76b24bffc04c4d3cdcf29c7784aaa4cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e539102e76b24bffc04c4d3cdcf29c7784aaa4cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.7"
+    },
+    "ACHH10": {
+      "name": "Mastermind",
+      "description": "GTA Online: Earn 25 platinum medals across Heist Setups and Finales.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/0f3e966b7faa1c60160a9c82b5f9ccc3a269448a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/0f3e966b7faa1c60160a9c82b5f9ccc3a269448a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ACHGO8": {
+      "name": "Masterminds",
+      "description": "GTA Online: Complete all 3 Criminal Mastermind challenges in The Doomsday Heist.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/81f369a70592f32f088c7af1631154ea76762b3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/81f369a70592f32f088c7af1631154ea76762b3e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ACHR9": {
+      "name": "Method Actor",
+      "description": "Enter Director Mode using any of your own GTA Online characters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/0b8048fe061f2d2f85346ecf8ab7355313bc72e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/0b8048fe061f2d2f85346ecf8ab7355313bc72e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ACH14": {
+      "name": "Multi-Disciplined",
+      "description": "Attain a gold medal in all applicable hobbies and pastimes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/bb1f988f6f928b5dd32825f08b0c9d32b4aca9ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/bb1f988f6f928b5dd32825f08b0c9d32b4aca9ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACH34": {
+      "name": "Numero Uno",
+      "description": "GTA Online: Obtain first place in all competitive game types.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/92c6fe4c5df0d8a2b09e8c67efebf24aaaad7092.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/92c6fe4c5df0d8a2b09e8c67efebf24aaaad7092.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ACH30": {
+      "name": "Off the Plane",
+      "description": "GTA Online: Complete the Introduction.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/c5cf82d82a32918a9562229f12fe6a88691342a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/c5cf82d82a32918a9562229f12fe6a88691342a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.4"
+    },
+    "ACHGO6": {
+      "name": "Orbital Obliteration",
+      "description": "GTA Online: Kill another player with the Orbital Cannon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/6c94dd71fb8f8a829bd520a97adf3bacf2e072c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/6c94dd71fb8f8a829bd520a97adf3bacf2e072c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACH22": {
+      "name": "Out of Your Depth",
+      "description": "You're gonna need a bigger boat...",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/179e49d940f5ef97f775a4f91f454ef3d4330c49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/179e49d940f5ef97f775a4f91f454ef3d4330c49.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACHH4": {
+      "name": "Parole Day",
+      "description": "GTA Online: You completed The Prison Break as Heist Leader or Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/bf3176af1755a26b80830b2ae47c2c418ade8e46.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/bf3176af1755a26b80830b2ae47c2c418ade8e46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ACH26": {
+      "name": "Pimp My Sidearm",
+      "description": "Fully mod a weapon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3fa275527df718f8342d608f6e46ee0a10b3b1d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3fa275527df718f8342d608f6e46ee0a10b3b1d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.3"
+    },
+    "ACH18": {
+      "name": "Red Mist",
+      "description": "Complete all Rampages.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/90445d47ba8f20348f5524a1250b78e8c69f2b38.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/90445d47ba8f20348f5524a1250b78e8c69f2b38.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACH39": {
+      "name": "Run Like The Wind",
+      "description": "GTA Online: Survive for a day with a Bounty on your head.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/ce255c268be04fb73602464b42556e963b6d7789.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/ce255c268be04fb73602464b42556e963b6d7789.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.5"
+    },
+    "ACH50": {
+      "name": "San Andreas Sightseer",
+      "description": "Explore all of Los Santos and Blaine County.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/5d30f848b95c98f88101e53b1606410df7e3b29f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/5d30f848b95c98f88101e53b1606410df7e3b29f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACHH5": {
+      "name": "Shot Caller",
+      "description": "GTA Online: Invest your hard earned cash to set up a Heist.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/1b013c9160d60461f8085ea12bca524533321fa3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/1b013c9160d60461f8085ea12bca524533321fa3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACH19": {
+      "name": "Show Off",
+      "description": "Complete all Stunt Jumps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/1d960b9d0bd93f47caf00fb0e0906fa63877b1ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/1d960b9d0bd93f47caf00fb0e0906fa63877b1ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ACH07": {
+      "name": "Small Town, Big Job",
+      "description": "You made a big impression at the Paleto Bay Chicken Festival.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/11a6e2de29101e7eba04623538cee1417365160c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/11a6e2de29101e7eba04623538cee1417365160c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "ACH10": {
+      "name": "Solid Gold, Baby!",
+      "description": "Earn any 70 Gold Medals on Missions, Strangers and Freaks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/7493961594876611e522233de6ff4c5dfd4f655d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/7493961594876611e522233de6ff4c5dfd4f655d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACH43": {
+      "name": "Stick Up Kid",
+      "description": "GTA Online: Hold up all 20 Stores.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f4ef0e577366789060ce283dbafbd09fd7fe36ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f4ef0e577366789060ce283dbafbd09fd7fe36ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ACH06": {
+      "name": "Subversive",
+      "description": "You stole an experimental super weapon from Merryweather... and gave it back.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/b8333b0c643acb9e115774bdf6996d34a77f7391.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/b8333b0c643acb9e115774bdf6996d34a77f7391.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACH09": {
+      "name": "The Big One!",
+      "description": "This ain't no dream no more.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/d7e3cd1c9fb9e9a18cfa045f6d97cb7e2d5bbd1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/d7e3cd1c9fb9e9a18cfa045f6d97cb7e2d5bbd1e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACHGO3": {
+      "name": "The Bogdan Problem",
+      "description": "GTA Online: You completed Act II of The Doomsday Heist as Leader or Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/7325bc611b519a3b679f8e8f32c1acbc63abe126.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/7325bc611b519a3b679f8e8f32c1acbc63abe126.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "ACHGO2": {
+      "name": "The Data Breaches",
+      "description": "GTA Online: You completed Act I of The Doomsday Heist as Leader or Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e8e1d0385d1b6d2e343c5fe9fa81afc9a31db5f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e8e1d0385d1b6d2e343c5fe9fa81afc9a31db5f8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "ACHGO4": {
+      "name": "The Doomsday Scenario",
+      "description": "GTA Online: You completed Act III of The Doomsday Heist as Leader or Crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/531cfbe659ab701f764ccd74b6350e3ba89c7cf6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/531cfbe659ab701f764ccd74b6350e3ba89c7cf6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "ACH08": {
+      "name": "The Government Gimps",
+      "description": "You recovered sensitive information from a highly defended federal building.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/5dcbdbf0b8505ea3a673cd585ef188042b36f854.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/5dcbdbf0b8505ea3a673cd585ef188042b36f854.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "ACH35": {
+      "name": "The Midnight Club",
+      "description": "GTA Online: Use custom vehicles to win 5 races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/cdd9c30274e74616b3b02c16f989bdbcccc7cc86.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/cdd9c30274e74616b3b02c16f989bdbcccc7cc86.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACH03": {
+      "name": "The Moment of Truth",
+      "description": "You have uncovered the truth about Brad.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/4a82448f49ec53edfe6fa91d8cab3d31f95612ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/4a82448f49ec53edfe6fa91d8cab3d31f95612ed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACH21": {
+      "name": "Three Man Army",
+      "description": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3a35cf6717f925dba016162bd3d0baa41aef76ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3a35cf6717f925dba016162bd3d0baa41aef76ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACH31": {
+      "name": "Three-Bit Gangster",
+      "description": "GTA Online: Reach Rank 25.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/30a5e9e71f62397b5278ed15ec48dcbaac16eebb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/30a5e9e71f62397b5278ed15ec48dcbaac16eebb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "ACH04": {
+      "name": "To Live or Die in Los Santos",
+      "description": "Completed the final mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/950cc34858acd878b1b8fd91dff79a4e2afea343.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/950cc34858acd878b1b8fd91dff79a4e2afea343.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACH13": {
+      "name": "TP Industries Arms Race",
+      "description": "Purchase McKenzie Field Hangar and win the arms race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2382c7bd3ceba45aa5c06b0bb1a76162bb045c4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2382c7bd3ceba45aa5c06b0bb1a76162bb045c4f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ACH25": {
+      "name": "Trading Pure Alpha",
+      "description": "Make a profit over your total investments in the stock market.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/825057660ea997e76e7d3b334eedbb71fd66e67b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/825057660ea997e76e7d3b334eedbb71fd66e67b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ACH36": {
+      "name": "Unnatural Selection",
+      "description": "GTA Online: Complete all 10 waves of a Survival.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/efd0f79d67721e98cca81e41a33069abf32b19d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/efd0f79d67721e98cca81e41a33069abf32b19d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "ACHH11": {
+      "name": "Vinewood Visionary",
+      "description": "Create and export a video using the Rockstar Editor or enter Director Mode 5 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f089ee1b161e0d0485ff0cf42e6af9fe9cbc7b66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f089ee1b161e0d0485ff0cf42e6af9fe9cbc7b66.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACH27": {
+      "name": "Wanted: Alive or Alive",
+      "description": "Deliver a bail bond target alive.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/6183e7fea5820482a230af9a9dcba656355d0950.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/6183e7fea5820482a230af9a9dcba656355d0950.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACH17": {
+      "name": "Waste Management",
+      "description": "Purchase the old dock and collect all nuclear waste.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/ff8fe7ceb5b4ff6986132af8c501dafa695fb77c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/ff8fe7ceb5b4ff6986132af8c501dafa695fb77c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACH00": {
+      "name": "Welcome to Los Santos",
+      "description": "You repo'd a car and raced it through the heart of a sun-soaked metropolis.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/10049685f640607f6c41826aabef9d87210b4c86.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/10049685f640607f6c41826aabef9d87210b4c86.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.4"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

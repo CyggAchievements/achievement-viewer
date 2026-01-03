@@ -1,6 +1,6 @@
 {
   "appid": "2215430",
-  "name": "Ghost of Tsushima DIRECTOR'S CUT",
+  "name": "Ghost of Tsushima VERSÃO DO DIRETOR",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
   "achievements": {
     "_autoGenTrophy_0030": {
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/c5653ea14d3859f718e10d108cadd84c7663dd45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "_autoGenTrophy_0070": {
       "name": "A Few Splinters",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/4b7c4b3b3300e925c440fa5d877876a0f6e8fd2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "_autoGenTrophy_0042": {
       "name": "Avid Reader",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/61971b79fdbf4525a3fd43fa8fc0bcb1d8835bde.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.4"
     },
     "_autoGenTrophy_0072": {
       "name": "Blood on Your Hands",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/93747aa61a8ecd716906eda6f56aa0bb1d0f304c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.5"
     },
     "_autoGenTrophy_0039": {
       "name": "Cooper Clan Cosplayer",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/fd27cc0c34aaf405b0587f5367e82e00bd5ba7f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "_autoGenTrophy_0061": {
       "name": "Friend to All Raiders",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/74312d4a04bea17efdf4f8212b2cd164ea3166fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "93.0"
+      "percent": "92.9"
     },
     "_autoGenTrophy_0031": {
       "name": "Gifted",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/e012155cece66f2351c2e554568de7e5f81d9e75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.7"
     },
     "_autoGenTrophy_0047": {
       "name": "Good Riddance",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1d443a32a95de5b7834a0c398bf2693eb491acd2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "_autoGenTrophy_0025": {
       "name": "Haunting Precision",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/be5f6080e8557183fdd3653801081e9f2a423d30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "_autoGenTrophy_0024": {
       "name": "Have a Nice Fall",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/12688ee3e69f6842d19dc796a44b17c0177788c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "_autoGenTrophy_0043": {
       "name": "Know Your Enemy",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/75b57c24d7d3aa0b179e730525e849f5c4048448.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "_autoGenTrophy_0006": {
       "name": "Leader of the People",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/81c09625d2cc4c6c3fbe53b9b51cca333b9976f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.5"
+      "percent": "65.4"
     },
     "_autoGenTrophy_0049": {
       "name": "Mass Eviction",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/92f9da2cb506f18edd273744deb5961d4af51af5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "_autoGenTrophy_0038": {
       "name": "Monochrome Masters",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/3814375b60ac37289410d28bea3ef06debaa2f99.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "21.8"
     },
     "_autoGenTrophy_0022": {
       "name": "Open for Business",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/13e423b1ad52e85078515eda1a098b59bf34f786.jpg",
       "hidden": true,
       "group": "Update 4",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "_autoGenTrophy_0002": {
       "name": "Point of No Return",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/0f9c29b93dade9214e33af9bd8a04c81cf92e159.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.1"
+      "percent": "84.0"
     },
     "_autoGenTrophy_0068": {
       "name": "Pride of Ishikawa",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/7246bed30fa81db8b95a49699a60e269c3fbc9f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "_autoGenTrophy_0011": {
       "name": "Sovereign End",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/1410e78b34fe0601927e8fb5cb9099a1dc9d3d00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "_autoGenTrophy_0062": {
       "name": "The Benefit of All Beings",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/c1eeb10569048e83566e2f77a8520b31a03571ed.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "_autoGenTrophy_0063": {
       "name": "The Butcher Redeemed",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/15c0201634bd651cb08cb8ead1c8ce04338a1e30.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "_autoGenTrophy_0009": {
       "name": "The Ghost",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/cb925e786bb6fd1d537d4fda85a172cd69aabc3e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "_autoGenTrophy_0029": {
       "name": "The Perfect Storm",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/8e9adf8247ef5767a70d4287776e104165efddec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "_autoGenTrophy_0015": {
       "name": "The Unbending Archer",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/7f06f79aac181866a9d9c073cb8289379b8ae92d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "_autoGenTrophy_0023": {
       "name": "There Can Be Only One",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/5cf9122fe2d8b27fe710a5fa89c3ac8c6a04efe3.jpg",
       "hidden": true,
       "group": "Update 4",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "_autoGenTrophy_0056": {
       "name": "True Understanding",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/78b7f21dcf49ce79a8bffc74f00ce9aec0271b96.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "_autoGenTrophy_0053": {
       "name": "Ultimate Warrior",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2215430/fa0c0847b6505cbc564588153dad93221457eea5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     }
   },
   "platform": "PlayStation",

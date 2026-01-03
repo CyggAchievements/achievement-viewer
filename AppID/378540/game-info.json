@@ -1,0 +1,613 @@
+{
+  "appid": "378540",
+  "name": "The Surge",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/header.jpg?t=1727864911",
+  "achievements": {
+    "ID_ACHIEV_57": {
+      "name": "3-2-1",
+      "description": "Unlocked the Rusty Spring Tower",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/1fa258ebd8d0ff226144335ddd6c8710f48f218c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/87da1ae5af4de45cab28ebf7b5d7fe48b4b07085.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "6.9"
+    },
+    "ID_ACHIEV_03": {
+      "name": "Big Sister",
+      "description": "Defeated the Big SISTER 1/3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/048bbe78c79e543d66d6b8f62b46c60a097ac9c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/0a05aafb60c4e0c6920aa7da2c811bb2db4e2a01.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "ID_ACHIEV_64": {
+      "name": "Bling-Bling",
+      "description": "Acquired all Frontier Gear Western Attire",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/ac8fc533f2195d9f259f50238b53e616230d39df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/93a4a51b2f0c057e1374caf24292c886f3230429.jpg",
+      "hidden": true,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "2.5"
+    },
+    "ID_ACHIEV_05": {
+      "name": "Brave New World",
+      "description": "Finish the game without corrupting the Utopia protocols",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/56e31027b11c48df27001132f0edb01c775fb26b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/4e1f0bf00afe2d1d1a3dec0df585cb1427893dc3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ID_ACHIEV_32": {
+      "name": "Butcher's Bill",
+      "description": "Cut each limb from human enemies at least once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/80e55a811360fbbfeebb8bf95e060fc9b42a93c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/2fb922f462af7555238b7ed0c1889cd48f510ac2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.2"
+    },
+    "ID_ACHIEV_50": {
+      "name": "Carbon Cat",
+      "description": "Defeated Carbon Cat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/44ae9e90ef75de8aff68f28a2c110f12eb460df6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/ba5b1cc5d1f78207eae1ddb9961e5b00d53a07a0.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "7.2"
+    },
+    "ID_ACHIEV_51": {
+      "name": "Carbon Cat vs Iron Maus",
+      "description": "Defeated Carbon Cat as Iron Maus",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/e2a1a3de1743e0b29362b46215c3b963bbce47b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/e4c3d06c5272e4203653803c735a7cfbaaddd340.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "3.8"
+    },
+    "ID_ACHIEV_24": {
+      "name": "Core Power",
+      "description": "Reached a Core Power of 80",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/34b369fa66ab778475fa3b361167e6999ebbb6f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/f7e3c8b4d54c39484ab1f5f8703dc66df5d091cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "ID_ACHIEV_11": {
+      "name": "CREO Killed the Video Star",
+      "description": "Met Don Hackett",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/fea41b2914ad7223359acb05dc37275d4255f76a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/5c2124bbe30faf6cbc622af66f0c8578857cc39d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "ID_ACHIEV_67": {
+      "name": "Desecration",
+      "description": "Destroyed all graves in \"Frontier Crypt\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/432306eee79e8afaae507e6760f147e9619264c7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/2d9f85de75cc31c846748c96bd925986f049cb81.jpg",
+      "hidden": true,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "4.6"
+    },
+    "ID_ACHIEV_52": {
+      "name": "Dress Up",
+      "description": "Collected and crafted all 4 mascot heads",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/858f1540beb6e00006766d50956b06ab404cfac5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/1a512e1b489c52538cc8bb598582113aac60ceac.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "3.8"
+    },
+    "ID_ACHIEV_25": {
+      "name": "Duty-Bound",
+      "description": "Accompanied a lost soul on her quest to find herself",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/141d1be262b0f813889f78d59f5e0cef9ad31b9a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b7412abe50dff16aa20ac93489a4c873d29be467.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "ID_ACHIEV_65": {
+      "name": "End of Transmission",
+      "description": "Turned off Rischboter",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/cc998e79a253a5b3aa6da565e49b298328b98f42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/3761d28755e7d8e322233856367882395cdc05ef.jpg",
+      "hidden": true,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "3.1"
+    },
+    "ID_ACHIEV_61": {
+      "name": "Episodic",
+      "description": "Finished every episode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/14f2a8b6e6bbc5b3893b9d7b27ad1c80fed66db6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/2776a18cd3dc66522cfdda39d55ecb3a52ef8a0b.jpg",
+      "hidden": false,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "3.1"
+    },
+    "ID_ACHIEV_31": {
+      "name": "Evolution Theory",
+      "description": "Found all of Dr. Murphy's audio logs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/bb899813c44196af40bd0f6fd74f395e31dba8fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/0d801a8669698688925ca8b1dd08e22afa65d666.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ID_ACHIEV_02": {
+      "name": "Firebug",
+      "description": "Defeated the LU-74 \"Firebug\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/d55f0779cc56d4aa56422aadffdeea0a2dc5437e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/c56a19a976539593c5a273e7beae0b0267cd950e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ID_ACHIEV_28": {
+      "name": "First Day on the Job",
+      "description": "Acquired your selected job gear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/abe7391e2779e57dad66edb4704c68261418acf9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/8dcc92abb1c2e53cf531fdd9fdf08833ddd78133.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.6"
+    },
+    "ID_ACHIEV_27": {
+      "name": "Follow the White Rabbit",
+      "description": "Found all of Mallory's audio logs",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/181cf3d24cb015d990028773de2807b9ad85f341.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/0b42225e1fe411e7868fec00abb1592237b944d3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "ID_ACHIEV_06": {
+      "name": "For the Good of Mankind",
+      "description": "Finish the game after corrupting the Utopia protocols",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/d0609ad233d985bfd4a1644cebe949988783432e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/353800812339eae9857f21f181212dd347152a91.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "ID_ACHIEV_12": {
+      "name": "Gear Up",
+      "description": "Enhanced your Exo-Rig for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/2b4878fb01efcbe1effbfcf8f48f39253ca7b90a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/e5f94242cebce0b1c6f296649671d944cb256e01.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "ID_ACHIEV_26": {
+      "name": "Ghost in the Machine",
+      "description": "Accompanied a father and his little daughter on their way through the facility",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/f37bc25a6d0177445d09f80dff6a0928770384e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/ad91203151cd707af511f66006e5f4df982dff0a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ID_ACHIEV_44": {
+      "name": "GOLIATH",
+      "description": "Acquired a full set of GOLIATH gear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/0dd161a64442a547c69ee7a3e6c153292d47db80.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/261de2502d00391344101f7db3d7ed8b7533f2f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.7"
+    },
+    "ID_ACHIEV_55": {
+      "name": "Good Listener",
+      "description": "Collected all 21 audio logs found in CREO World",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6694b6ddbae5eaa6f4dfa71ea207d980aa797f60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b656d382249910ec84e0137df5a2684ea136bb05.jpg",
+      "hidden": true,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "3.6"
+    },
+    "ID_ACHIEV_66": {
+      "name": "Gramophone Enthusiast",
+      "description": "Collected all 7 audiologs found in the Testing Chamber",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/0cdaa5ba27292cc832a292c2f91fa55adf18d710.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/525032788cf8d4078bb92b89faebfffa130f7630.jpg",
+      "hidden": false,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "3.0"
+    },
+    "ID_ACHIEV_41": {
+      "name": "Guard Dog",
+      "description": "Acquired the complete Black Cerberus gear and the MG Judge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/41cd7d1fa5e3a89f3e26d1ad26e824e3b2142995.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/ad21c30c2262e3f1c2381818fda6c2eee96b806a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ID_ACHIEV_10": {
+      "name": "Hey Listen",
+      "description": "Acquired your personal CREO companion drone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/d3f9c639f2e150c81effc499188d82bdfd37242f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/af2358f0b51399fba238c09bc20a8a667bbcf149.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "ID_ACHIEV_39": {
+      "name": "Homo Machinalis",
+      "description": "Killed Barrett after his transformation into Homo Machinalis",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/73396c0f2d09e02449bbe5c4a03601bdebe60278.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/51fee3e843997a39fd3d4a9d5eeba2265fe5f074.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ID_ACHIEV_38": {
+      "name": "I Choose You",
+      "description": "Found a BOTECS Power Core for your companion drone",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/41fe621027970649646f076d14541a9bb162b864.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/bcd8e5e6039299aa862c267277b6eb857ff2d0c2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "ID_ACHIEV_07": {
+      "name": "I'll Be Back",
+      "description": "Died for the first time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/a17df9745a3385b981ac98fb02f8fabe361780f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/a5f4da9ca3bd19cd3b24ffb6df58cce1712ab0a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.6"
+    },
+    "ID_ACHIEV_36": {
+      "name": "Infidel",
+      "description": "Defeated the vending machine cult",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/909cd8ff9941ed67ce8cb402dfccf123891fa998.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/76f434a22c467278bf805a3c32716e706be375aa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.6"
+    },
+    "ID_ACHIEV_58": {
+      "name": "Is This Real Life?",
+      "description": "Survived rebooting the network in the Project Resolve Center",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/a0e5a27132e593ebf226e28ae52d745f8d556dae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/fe09c52cc199f6d3895956302f9075ddc3c13d7a.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "9.8"
+    },
+    "ID_ACHIEV_16": {
+      "name": "It Lives! It Sniffs! It Conquers!",
+      "description": "Acquired the Iron Maus gear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/46cf05fc917281afde4f881ae0dcc933a2487b1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/c9e85eb299933a5d709af68fa888d49c1119ef69.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ID_ACHIEV_37": {
+      "name": "It's Blue Light",
+      "description": "Killed an enemy in a dark zone using the ASTir SpecterBite",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b300bcfa09d67b5f69e5a7a060abed934cdffb60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/fb115fa1b620691d4f5dfed3296272fdf85057a0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.8"
+    },
+    "ID_ACHIEV_34": {
+      "name": "Jack of All Trades",
+      "description": "Reached level 5 weapon proficiency in each of the weapon types",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/3789308c7eb09ae535f13efdde117c805655ea3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/5071dbe1c9d2641dd8a282f5afb692bcad2d246e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ID_ACHIEV_29": {
+      "name": "Liberation",
+      "description": "Found all audio logs about the infamous \"Liberator\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/bb321c5ca0b4227aeb35ff51da3e98db47e0ffb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/caaba29db8fa9773ab3aefab847ba68bbb502439.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ID_ACHIEV_23": {
+      "name": "Man of Steel",
+      "description": "Upgraded a full gear set using the Nano Core crafting component",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6ed0d303121da83d99d26fb35abaa7a3801601a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/5ec1d158e3ef90ce70cb21398cc87bd65fbb0fd7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ID_ACHIEV_19": {
+      "name": "Melting Down",
+      "description": "Defeated all five smelting machines",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6355575f809e882f723970489f8cd5cec2e4121e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b6db46c19f58de5491df6144e050393d1758cd74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "ID_ACHIEV_60": {
+      "name": "Modus Operandi",
+      "description": "Finished an episode with the 4 hardest modifiers turned on",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/f1cecfb4c413d5f6a683a1e6cf140b2b180a1bf1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/75b7d0c94a96d9afa3d7f923cfb6a7ea829008ad.jpg",
+      "hidden": true,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "2.1"
+    },
+    "ID_ACHIEV_35": {
+      "name": "Most Wanted",
+      "description": "Provoked and defeated the security forces in Central Production B",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/e71eca6ada9ed6e29c55b031e20ce42db3f6a33e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6d7c5692b3905aa7a3b1cbb4aa6679837b46cdba.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "ID_ACHIEV_53": {
+      "name": "New Gear",
+      "description": "Crafted all gear sets found in CREO World",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/20ef634018ac22f54978fe8fe44fb89a0146f4d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/f40918279addf76f166a39ad7bad81193f89d776.jpg",
+      "hidden": true,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "3.2"
+    },
+    "ID_ACHIEV_54": {
+      "name": "No More Marching",
+      "description": "Killed all the mascots of the Popcorn Parade",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/c171e2c0ed8db6bee35ead64fb1304dc587f4fea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b4d0fb2583eb232fecd97b909e477b84554c3183.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "9.7"
+    },
+    "ID_ACHIEV_42": {
+      "name": "Nothing to Lose",
+      "description": "Carried more than 50,000 Tech Scrap",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/8cee142e8966436bddae51c97a06d8d7f37ffb50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/14ab740d10a5320ee6d82211184e59ce3b85bf9b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "ID_ACHIEV_08": {
+      "name": "On My Own Two Feet",
+      "description": "Acquired your personal CREO Exo-Rig",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/314dddae53ea7bb049f2824b35b695b5bdc7fcd8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/5587cae02d5eeb3dd9ae4abd431b3cf319643f01.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "92.3"
+    },
+    "ID_ACHIEV_59": {
+      "name": "One-Armed Bandit",
+      "description": "Cut 42 arms in the Testing Chamber",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b3ac261871772f4be1f0d52f8397fab157f9ddfc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/9d8e157458d5a5b86053a179687f682205704d7c.jpg",
+      "hidden": true,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "2.7"
+    },
+    "ID_ACHIEV_45": {
+      "name": "OPERATOR",
+      "description": "Acquired a full set of OPERATOR gear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/f3c077387c222b76379a94e1a43e3802b6925fa3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/d4cd8a73cadbfcb0e89da10c5ce9f30bc03deeaa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.4"
+    },
+    "ID_ACHIEV_43": {
+      "name": "Overconfident",
+      "description": "Defeated a boss while carrying at least 20,000 Tech Scrap",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/a79ebfbb3ec96c9825a39187c2a280d4a188c560.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/8f5c7c8606d5c8da87f812a845cf11ccdff1837d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "ID_ACHIEV_01": {
+      "name": "P.A.X",
+      "description": "Defeated the Pacification Automaton X",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/d56f156081fe7e80a0c29889d3c9440292a22836.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/659c40c708651561fb933509d70d2974d6a100b6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "ID_ACHIEV_18": {
+      "name": "Pusher Man",
+      "description": "Helped someone refill their supply of medicine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/a92bd517db65503d8b8d89829eacbf905adee138.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b913b32fc9394d0337f05cafb233155102ce9850.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "ID_ACHIEV_30": {
+      "name": "Raging Drones",
+      "description": "Found all audio logs from and about Ferguson",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/7a514eceebef9bd5b769334f7035978a84a5ee0f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/4a72d4dca5d407fe098a6a0c750e4b79b247299d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "ID_ACHIEV_20": {
+      "name": "Repeat Customer",
+      "description": "Gave Jo Tech Scrap three times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/12fff7b3855899d212bf666d766ecb53d46a220e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/9b92a26c4e686b0e0bfcb8d73058bba372e27098.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ID_ACHIEV_22": {
+      "name": "Right Tool for the Job",
+      "description": "Upgraded a weapon using the Nano Core crafting component",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/dbb9996390cf52c3c2ffa708926ecd35f315c61d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/fe4cb842478c5a149ad2a36eda928db890458264.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "ID_ACHIEV_68": {
+      "name": "Risk Assessment",
+      "description": "Finished an episode with at least 1 modifier turned on",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b2cb866f3d190f6ecfbbf6aa9c8a24f604168f7d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/67d871ea3942d2186a8c5b06dba46f1cadb43cff.jpg",
+      "hidden": false,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "6.9"
+    },
+    "ID_ACHIEV_56": {
+      "name": "Rusty Rat",
+      "description": "Saved Rusty Rat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/cd2168a5f0b7a1cbc3811f1b60ca1cf4c4b3d87a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6319f78cbcb16b8de8d9fdfbcde36c8418f823ee.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "6.0"
+    },
+    "ID_ACHIEV_46": {
+      "name": "SENTINEL",
+      "description": "Acquired a full set of SENTINEL gear",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/76d61fe917ef245345fb45d05e711d9378510569.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/d5e9f0776900eabbb8c65acc256a297e0190ba88.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "ID_ACHIEV_21": {
+      "name": "Shall Not Pass",
+      "description": "Defeated the guard at the NUCLEUS elevator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/e94c3ea487e49a1c9fbf92d70b95a798ae29c34e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6ff98fc29e71cc95fb44a0adb308d5efa408d761.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "ID_ACHIEV_47": {
+      "name": "Sniffing Around",
+      "description": "Completed your Iron Maus comic collection",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6cc7f1f1827b5ddad88d137a42fb3ebc1b5fbc56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/4d388a25da2cfc92cdda1b6cdd430dafbeb2a38d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ID_ACHIEV_09": {
+      "name": "Sorry, I Dropped This",
+      "description": "Found your lost Tech Scrap after dying",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/dac1b89742a091c25a6b8fd2bb1a1bbe4b68936d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/29dc0388e3e9fd06dc66dd28d996ea21c601f137.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.3"
+    },
+    "ID_ACHIEV_49": {
+      "name": "Squad Chief Helvig",
+      "description": "Defeated S&R Squad Chief Helvig",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/f5b1794503924a970f3707c76039941229a2839e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/15643edac10c5fd09006328db1288ee6e35c50f6.jpg",
+      "hidden": false,
+      "group": "The Surge - A Walk in the Park DLC",
+      "percent": "9.4"
+    },
+    "ID_ACHIEV_62": {
+      "name": "Suited and Booted",
+      "description": "Crafted all Frontier Gear sets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/a355d7929f2cbcb8446e79191d7db241febf3c85.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6988c04da63a3ac0399b83b93c51f342c0b6e71a.jpg",
+      "hidden": false,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "2.2"
+    },
+    "ID_ACHIEV_17": {
+      "name": "Sunglasses at Night",
+      "description": "Found yourself some sunglasses",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/c90e0689feb9521c85701808181608512f030178.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/8bdef707d6a1354342acc66ad88030ec48968765.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "ID_ACHIEV_04": {
+      "name": "The Black Cerberus",
+      "description": "Defeated the security chief of Echelon 9",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/ec5d9da02c6ecff394741ef43a6f20743c63d273.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/4f1faeb0c3e01419831f98becfddf33ec3e86abb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "ID_ACHIEV_48": {
+      "name": "The Surge",
+      "description": "Unlocked all achievements in the base game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/324f0e47f623f795ccabf8d12533601617e55ae1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/11dbf3c4920117ce0a36bc7ce67be78b134c3987.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ID_ACHIEV_63": {
+      "name": "Tools of War",
+      "description": "Collected all Frontier Weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/1fb6d06538b31e08427910552ec3edd3fe8cb754.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/60bf69e58c93c5fae67666401c0e6fdfef6ea585.jpg",
+      "hidden": false,
+      "group": "The Surge - The Good, the Bad and the Augmented Expansion",
+      "percent": "2.1"
+    },
+    "ID_ACHIEV_15": {
+      "name": "Turing Test",
+      "description": "Met Sally in person",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/ba49d88bd3447a14ecde11652c07e39d1db44a2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/13cda5c7c0ee70d46f52e2d4eb566be48922b29e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ID_ACHIEV_40": {
+      "name": "Was That Yours?",
+      "description": "Defeated a boss with its own weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/eda5b3bc440f619b1fe15d6ceaff6cb1fae4b2a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/9ddbeb4dc07a06f6fd0cb3077f394f86b329812b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ID_ACHIEV_13": {
+      "name": "Watchman",
+      "description": "Received the security upgrade for your Exo-Rig",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/c0b40cb99e0ca723e7caf6f2cd3c15e42f476c08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/7e4e162362843e490ab1d6751961e406ac0567bd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "ID_ACHIEV_14": {
+      "name": "Who's in Charge Here?",
+      "description": "Found the Board",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/143d59090f99a5f0b92696111327199d6049c370.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/8fb1362d5c12b5123e106b054278f248e44ad832.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.3"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,469 @@
+{
+  "appid": "429660",
+  "name": "Tales of Berseria™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429660/header.jpg?t=1763571708",
+  "achievements": {
+    "TROPHY_ID_SCENARIO_ZAVEID": {
+      "name": "A Promise Made",
+      "description": "Proof a promise was made between the reaper and a fighter. You can be sure that promise will be fulfilled.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/612bc88d368c5c4ca9ff1aff256e4aa454eeeaee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "TROPHY_ID_CHARACTER_TITLE_COMPLETE": {
+      "name": "A Solid B",
+      "description": "Bring all characters' titles to level 2. You seem to have a pretty good grasp of what each character can do.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/8c37378997107c449e9a9a50c5f00db4d87f212f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "TROPHY_ID_GALD_HIGHER": {
+      "name": "A Veritable Gald Mine",
+      "description": "Proof of doing whatever it takes in the pursuit of Gald. Don't spend it all in one place! Unless you really want to.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/7508c7b68434043e5580cf9bd56f001a99a11719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "TROPHY_ID_WANDERING_ENEMY_004": {
+      "name": "Backtalker",
+      "description": "Defeat the dire foe, Bacturnian Man. You can walk away happy now.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/72af226678ae3a649b85695a3d07acc553788b14.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "TROPHY_ID_WANDERING_ENEMY_002": {
+      "name": "Bee Stinger",
+      "description": "Defeat the dire foe, Queen Bee. Discretion is the better part of valor, but failing to escape is just fate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/77c9bd80465c7ac90652453ad0ff3c0f81230e6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "TROPHY_ID_HIT_HIGHER": {
+      "name": "Centurion",
+      "description": "Perform a combo with 100 or more hits. Overwhelm your foe with artistic style!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/c6029ccc8f9623f5bf07eb82b0ce229504306187.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "TROPHY_ID_COMPLETE": {
+      "name": "Champion of Berseria",
+      "description": "Proof of conquering the world with Velvet and company. Thank you for playing!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/5743c0718cc51fcac716eb0f1f42ed853f746498.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "TROPHY_ID_COOK_COMPLETE": {
+      "name": "Chef's Soul",
+      "description": "You can make any type of food. That's pretty cool, right? Well, eat up and get back to battle!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/444e52143b05816d58567290d0d0152c4de47e20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "TROPHY_ID_HUNT_COMPLETE": {
+      "name": "Code Red? More Like Code Dead",
+      "description": "Proof of hunting every last code red daemon. You've brought an end to that battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/27b7859544bf0c9a12e36d376d3e67587e8186af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "TROPHY_ID_SCENARIO_KAMENIN": {
+      "name": "Dawn of Darkness",
+      "description": "Proof of witnessing and overcoming the dawn of darkness. But beware, for a turtle never forgetz.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/2d41b4da3101ac04de1850f7cc1e5dc1da6affd8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "TROPHY_ID_SHOP_RANK_MAX": {
+      "name": "Economic Linchpin",
+      "description": "You buy. You sell. You strengthen equipment. A preferred customer like you is a mover, a shaker, and a genuine job creator.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/2f338cb3b7faf20b192820aa926e1cb63d2c8ebb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "TROPHY_ID_ARENA_COMPLETE": {
+      "name": "Emergency Management",
+      "description": "Proof of conquering every Class 4 Administrative Zone. Yeah, you can brag about this.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/cced4fec7526048a517b4888a9a94191721257df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "TROPHY_ID_WANDERING_ENEMY_003": {
+      "name": "Enough Monkeying Around",
+      "description": "Defeat the dire foe, Sacred Baboon. Where's the fun in being polite all the time?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/ab70dda4c586d50458408d65e52fab0a5dc20579.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.1"
+    },
+    "TROPHY_ID_SCENARIO_AIZEN": {
+      "name": "Follower of the Creed",
+      "description": "Proof Eizen has settled one score. But there are still payments to be made. That's part of the creed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/805fff9afa12df077373fd7a43f7f319a40884c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "TROPHY_ID_WANDERING_ENEMY_001": {
+      "name": "Hanging with the Hanged Man",
+      "description": "Defeat the dire foe, Hanged Man. You'll always have a friend nearby.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/536da0e20dfb2d3144827d91dc0f00f982ee2a08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "TROPHY_ID_SCENARIO_ELEANOR": {
+      "name": "Hope Surpassing Reason",
+      "description": "Proof Eleanor found her answer. She sees with her own two eyes now, but where is her gaze fixed?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/78590bd633f0aad256d6e8967f64a13201398a0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "TROPHY_ID_VEHICLE_COMPLETE": {
+      "name": "I'll Take My Board",
+      "description": "Proof of unlocking every geotree. Can you do any sweet tricks on that thing?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/f1637b93e7356e7013fdd09892b7b6f0f4e10d81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "TROPHY_ID_ITEM_COMPLETE": {
+      "name": "Item Collector",
+      "description": "Gels, equipment, food, costumes, valuables. From the powerful and precious to the downright weird, this is proof you've collected it all.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/d7ce2e89d30ec4c00bd6e0aab3a286c2ef068b5c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "TROPHY_ID_CATBOX_COMPLETE": {
+      "name": "Katz Person",
+      "description": "You must really love katz to have collected so many katz spirits! That's the spirit, meow!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/4cb8c83976a638c4873e6f2e504b6644b62bded2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "TROPHY_ID_ENEMY_COMPLETE": {
+      "name": "Know Thine Enemy",
+      "description": "Proof of earning untold wisdom through  defeating countless foes in battle after battle. There's no weakness you can't exploit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/2103ca72cdeab7aea0f5f9d26b033c4e44f2f136.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "TROPHY_ID_SCENARIO_MAGIROUX": {
+      "name": "Magilou's Magnificent Menagerie",
+      "description": "Proof that Magilou's Menagerie performed perfectly. A capacity crowd! A standing ovation! No refunds!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/def6c3fe05c1852fb37def30fcfac0f262888fb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "TROPHY_ID_MINIGAME": {
+      "name": "Making a Mint",
+      "description": "You've earned Tales Coins by relaxing and playing. Who knew they'd pile up like this?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/6c7abda47aeddad48188e3dae46941f3dfa7cf42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "TROPHY_ID_DAMAGE_HIGHER": {
+      "name": "Miraculous Myriad",
+      "description": "Inflict 10,000 or more damage with a single hit. Use Break Soul combos, increased damage from stuns, and various skills to create the ultimate crushing blow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/29bf82aa30b6eeb5d2bf56356eec3cc81ee8c742.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "TROPHY_ID_SHIP_TREASURE_COMPLETE": {
+      "name": "Pirate Legend",
+      "description": "Proof of sailing every water and discovering every treasure. There's no stone in this world you've left unturned.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/d2bc1872787e24a53de567cd212304ca7a97f945.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "TROPHY_ID_CRYSTAL_COMPLETE": {
+      "name": "Potentite Purist",
+      "description": "Collect every glacite. The power is in your hands!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/c70146f91fca839d659c07827d4531298ab6c3d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "TROPHY_ID_SCENARIO_ROKUROU": {
+      "name": "Rangetsu Initiate",
+      "description": "Proof of conquering masters of the sword. Rokurou's skills have reached their zenith.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/5a2908335369c9bde6d8f5e924371adb8449423a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "TROPHY_ID_LONGCHAT_COMPLETE": {
+      "name": "Refreshing Conversation",
+      "description": "The main story is nice and all, but it's important to stop and smell the roses. You've learned some surprising things, haven't you?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/d6a3d3642af88f02e75eedf909e0a70102fe9316.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "TROPHY_ID_BREAK_SOUL_COMPLETE": {
+      "name": "Shattered Soul",
+      "description": "Proof of using every Break Soul. Use this unique power wisely and you'll be able to overcome any foe.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/040daf4afd9150ab460301e597835074ff8b5c67.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "TROPHY_ID_SOUL_HIGHER": {
+      "name": "Soul Vacuum",
+      "description": "Collect 20 or more souls in a single battle. Seek out dangerous fights and crush the reinforcements!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/3b2849ee29309fff223b6c79257a8d4fc675bc0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.5"
+    },
+    "TROPHY_ID_SCENARIO_GUEST": {
+      "name": "Striding Beyond the End",
+      "description": "Proof of defeating visitors from another world. They will travel on, though, as long as their mission remains.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/915b94c7778408d48dab8110cc724fb83cd929d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "TROPHY_ID_SCENARIO_001": {
+      "name": "The Beast Uncaged",
+      "description": "Proof of escaping the island prison. Velvet's fight for revenge begins here.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/fd7a1b2435bab43bb4bc28b9f366c4b51b37fd99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.0"
+    },
+    "TROPHY_ID_EQUIP_MASTER_LIFESET": {
+      "name": "The Curious Youth",
+      "description": "Proof Laphicet knows 50 or more skills. He is at an age of expanding curiosity and swift growth.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/f35cee4e97c1024977f4ca1fef1b4895bd181139.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "TROPHY_ID_EQUIP_MASTER_ELEANOR": {
+      "name": "The Earnest Soldier",
+      "description": "Proof Eleanor knows 50 or more skills. Despite her misgivings, she'll step steadily forward, her spear firmly in hand.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/acfefa39ab999623aaa1dde1fcc99834519ff175.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "TROPHY_ID_SCENARIO_VELVET": {
+      "name": "The Great Gorger",
+      "description": "Proof Velvet has relearned the culinary artes. Her Culinary Mystic Arte? Quiche, of course.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/96b325d46bab76d7b9114e34a661cbe82ee825f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "TROPHY_ID_SCENARIO_002": {
+      "name": "The Hero's Bane",
+      "description": "Proof of attacking the world's savior. You will defeat him by any means necessary!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/d11bba307c73d206e2b860c43667de907fefc0cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.4"
+    },
+    "TROPHY_ID_EQUIP_MASTER_ROKUROU": {
+      "name": "The Honorable Warrior",
+      "description": "Proof Rokurou knows 50 or more skills. He will pay the debts he owes. That's the Rangetsu way.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/6314abc89645dc4c3c74aabfbb705e7933fcc348.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "TROPHY_ID_SCENARIO_006": {
+      "name": "The Howling Calamity",
+      "description": "Proof of the will to finish the fight against the exorcists. Once all is devoured, it will be done.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/8f59e8a4c187b297e28d03371e42f9c58395f6b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "TROPHY_ID_LEVEL_MAX": {
+      "name": "The Last Level",
+      "description": "Raise a character to level 200. There's nothing that can challenge you now... Or is there?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/f400d0bb166f8224e337993a27dc0228898938d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "TROPHY_ID_WANDERING_ENEMY_005": {
+      "name": "The Lindwurm Turns",
+      "description": "Defeat the dire foe, Lindwurm. Did you ever think that maybe you're the real dire foe?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/c0431e2e7544ae3e8c4100b01e02c6b478dc37ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "TROPHY_ID_SCENARIO_LIFESET": {
+      "name": "The Praying Malak",
+      "description": "Proof of creating the Omega Elixir. Laphicet now has something more precious than any item.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/67f113e7403cdadfc33f850f5a518647b7ac9edf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "TROPHY_ID_EQUIP_MASTER_AIZEN": {
+      "name": "The Pugnacious Skipper",
+      "description": "Proof Eizen knows 50 or more skills. He's got a fist strong enough to overturn fate and protect his friends.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/740f3a313a5ce20615105396561ec2f48fb84f72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "TROPHY_ID_SCENARIO_003": {
+      "name": "The Sower of Strife",
+      "description": "Proof of destroying reason and plunging the world into chaos. Your quest still goes on.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/618c8fd41eeb895a965d395c529539e491dfffcb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "TROPHY_ID_EQUIP_MASTER_VELVET": {
+      "name": "The Stone-Cold Killer",
+      "description": "Proof Velvet knows 50 or more skills. She'll do whatever she has to in the pursuit of her goal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/8090e71752f05035551e59aabc6227c808fc2ce5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "TROPHY_ID_SCENARIO_004": {
+      "name": "The Transgressor's Chains",
+      "description": "Proof of knowing your sin and its price. There is no escape now.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/a4053c04358bfff8fd8f543d758b3db243774870.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "TROPHY_ID_EQUIP_MASTER_MAGIROUX": {
+      "name": "The Unorthodox Witch",
+      "description": "Proof Magilou knows 50 or more skills. Her words are questionable, but her ability is authentic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/e2e9eabd65f170779f489a3d01edbf2d0ffef7b3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "TROPHY_ID_SCENARIO_005": {
+      "name": "The Unquenchable Flame",
+      "description": "Proof of learning the true story. In spite of this—No, because of this, you must go on.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/bc4a3c67d132e9def93de906d28be188afbda2d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.8"
+    },
+    "TROPHY_ID_TREASUREBOX_COMPLETE": {
+      "name": "Treasure Hunter",
+      "description": "An award given to those who find treasure chests and open them. The contents don't matter. It's all for the thrill of pulling back that lid.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/b96e9fcac53f2f82b73df832bf520924017f670c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "TROPHY_ID_SCENARIO_SPA": {
+      "name": "Ultimate Stress Relief",
+      "description": "Proof of relaxing to the max in an unusual bath. The relief has washed away all memories of clearing the hidden dungeon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/4923ae21efa42f889cef7be3bfd4c56c1b26eba1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "TROPHY_ID_SCENARIO_007": {
+      "name": "Velvet Crowe",
+      "description": "Proof of seeing the end of the tale. Now you can go another round or aim at completion!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/64817a407a0fbd104088f4536198d4c1a2c2a0ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "TROPHY_ID_EQUIP_POWERUP_HIGHER": {
+      "name": "Whetstone and Polish",
+      "description": "You've strengthened equipment 50 times. You seem to have the hang of this. Now go out there and make the best equipment possible!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/44c9bcd6a208918b1d6d908f5fe9f203d9a9777a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "TROPHY_ID_MYSTIC_COMPLETE": {
+      "name": "Witness to the Mystic",
+      "description": "Proof of seeing every mystic arte. Luck is also a talent.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/a2b48e7b5a15d106bc8e17243a4ad4d75728331e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/429660/85de709d475a577a54bac421045503292b43b2cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

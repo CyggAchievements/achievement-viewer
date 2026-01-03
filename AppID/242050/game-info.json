@@ -1,0 +1,550 @@
+{
+  "appid": "242050",
+  "name": "Assassin’s Creed® IV Black Flag™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg?t=1752168657",
+  "achievements": {
+    "ACBF_Ach_9": {
+      "name": "A New Hope",
+      "description": "Complete memory sequence 9.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/5fe5d67bd26cb453a7ba407bce8813e09596b7dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/d88b8c01bd79039a41fbda4d17c08c9aa87b7531.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.0"
+    },
+    "ACBF_Ach_3": {
+      "name": "A Pirate's Life For Me",
+      "description": "Complete memory sequence 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/fd7e0d3d3799ce5e1437d7860e502ade02736334.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/e0514cecba3e4f378e3a58ea891f18895ff9e75d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "ACBF_Ach_8": {
+      "name": "Adrift",
+      "description": "Complete memory sequence 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/9cbe006cc2f5d687aea9378e1481ec89cc318559.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/5cd081379be47d3557a3e5200c917af620529ff3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ACBF_Ach_42": {
+      "name": "All Aboard!",
+      "description": "Board a ship without losing any crew members.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/975ec17bff4c735aca196aec44adfca88a45acb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/499c20a505184c179084d1e6cc80b767b8da85d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "ACBF_Ach_50": {
+      "name": "All Rounder",
+      "description": "Play on every game mode, and use every ability and ranged weapon once in Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/649e789878bfc8583ccdf3808bcfb7d7a4978be2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/eceb2c91fd600ff5ad7fc511ae1e32a31a25be28.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACBF_Ach_35": {
+      "name": "Barfly",
+      "description": "Unlock all taverns.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/c34822be06638b079b0d84af5b5d866742c4a28d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/d26a7b8ff26c56c30ef1d41c8f9df0dfa111ebc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACBF_Ach_11": {
+      "name": "Been Down So Long...",
+      "description": "Complete memory sequence 11.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/71970d2adf034a6fa93bf9318abfab8f9620befa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/70bd11f96421ff2ecc6a873c905fc6fcc367bcb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACBF_Ach_16": {
+      "name": "Bunker Buddies",
+      "description": "Complete present day mission 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/8dd55a247409c30f4135c2ed27de5c64389680c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/95902541a72b56bbaf479068ed73ca06bfde23ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "ACBF_Ach_28": {
+      "name": "Business And Pleasure",
+      "description": "Earn 50,000 reales.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/6b7c347b08344553d7e5b931a1c6a1a2c8af28e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/48235f671072aca7b07b1c15cc07bf700d9fdbbf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "ACBF_Ach_18": {
+      "name": "By The Book",
+      "description": "Complete 100% of all main mission constraints.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/f2415af0789629d69c239b8287c66b18af8fdbf0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/0adca23d5d89e32b0d1804c5335dda2ab7e42259.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACBF_Ach_36": {
+      "name": "Cannon fodder",
+      "description": "Recruit 500 crew members.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/76d2dbcda8112693dc386e4e0a6d4ba1b8ecf405.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/93b8ad41cf64178bb9366e2f3c129fc012783b28.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACBF_Ach_38": {
+      "name": "Cartographer",
+      "description": "Visit every location of the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/348d6a597fb25e6b89da66f7f3d9e0e2ed217781.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/e4aa1f4a46a533a8f044084da08ff66bc48da14a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACBF_Ach_46": {
+      "name": "Committed To The Cause",
+      "description": "Reach level 55 in Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/ba6a9f33ead575a93c6c461da19a152fd8119b9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/4e25f4f278e2daeae85b124c30e470704ab0f4b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACBF_Ach_5": {
+      "name": "Death Of A Salesman",
+      "description": "Complete memory sequence 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/eed58edc9713f414372e4447cfdbec6059a74f84.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/bbc2a8c8b69ee5f01c2a3d6d4c969e672a739b7a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "ACBF_Ach_33": {
+      "name": "Destroyer",
+      "description": "Fully upgrade the Jackdaw.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/c1fb3a0d7bc1b7f79c3b0d68b6d4210243e1d3c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/c921e900e190d344df887b7ee5796733188de89d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACBF_Ach_32": {
+      "name": "Devil Of The Caribbean",
+      "description": "Defeat all 4 legendary ships.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/4ca3bfb4cfe4185e56944dab67a17d5abc2ecae3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/6636bd2c7b138e40821e0d3a79d6a5f86432d4ea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ACBF_Ach_54": {
+      "name": "Elevator to the Gallows ",
+      "description": "Kill a player using a lift that has been trapped with Booby Trap.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/5b246309ae5c8c2712ea92fd617acd5c61e05901.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/55ce9564a710115a36ff0af923dc13480ea1cfd9.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Blackbeard's Wrath Pack Activation Key",
+      "percent": "0.1"
+    },
+    "ACBF_Ach_27": {
+      "name": "Employee Of The Month",
+      "description": "Complete 25 Abstergo challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/ae8c4c8be97f45787965d203ec6361d954b3523f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/7b1c6fad6ee2c16b1312d5f59e01e9e266e6b322.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "ACBF_Ach_45": {
+      "name": "Excavator",
+      "description": "Find a buried treasure.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/75598a40bc000eeffb99e408f913d1aced97e44f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/b3b757f9c84c886dcf2b889e20688b9b9e59da2f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACBF_Ach_57": {
+      "name": "Firepower",
+      "description": "Kill 5 guards at once with a blunderbuss.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/684bfb47026f8597b13c227a0d333097e055e7ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/29cc3c63b3c9838ac759b37e8013f91f1ba45521.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Freedom Cry (SP)",
+      "percent": "0.8"
+    },
+    "ACBF_Ach_37": {
+      "name": "FTFY",
+      "description": "Fully upgrade your hideout.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/de8af7e50985c10f0af67152ff0b687441bcec3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/695b37cb3beec791a19f5555be3e1adb7c52bd7e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACBF_Ach_15": {
+      "name": "Getting Weird Around Here",
+      "description": "Complete present day mission 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/7e03da0c8fadc45ab410d14c3002fef1e1ea0380.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/685211ee396a397c1b9611c782438a668d808942.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ACBF_Ach_39": {
+      "name": "Ghost In The Machine",
+      "description": "Hack 15 computers in Abstergo Entertainment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/0b50fe41dd01b7bef0ba1285b404e3343fbd05d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/919da76ca1328cbb6c279ca7bb04d6c735a6fb6e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACBF_Ach_2": {
+      "name": "Good While It Lasted",
+      "description": "Complete memory sequence 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/2a32324226a22e3472b0776086f14e601bd339d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/61ef31bb68df42f1e551f3e2361692de9244b95e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "ACBF_Ach_24": {
+      "name": "Help A Brother Out",
+      "description": "Complete a Templar Hunt sequence.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/69df1deab01e8e798f58af732061f60f4482544e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/85c411e9e8742746634e612c9a1a5fc7dfee34b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ACBF_Ach_1": {
+      "name": "Heroes Aren't Born",
+      "description": "Complete memory sequence 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/cb369ad85b6b25794a2137655eb959c2d7416c59.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/1dde7fe874117bacf7718b9a7ba2ee6fdc09b00b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.5"
+    },
+    "ACBF_Ach_60": {
+      "name": "His Full Attention",
+      "description": "Freedom Cry - Achieve 100% synchronization",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/fff82cad28dfaa4be39401d6d7281ca34f19225c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/9f315e03ca99d08bdde17a1a96501e864b30acb8.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Freedom Cry (SP)",
+      "percent": "0.4"
+    },
+    "ACBF_Ach_58": {
+      "name": "His Own Medicine",
+      "description": "Disarm the Gouverneur and kill him with the branding iron.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/42939caa431901c2eccd3a8a64b70b80d1ba3cec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/21917103de610a66a45d564fa0efdc6d5c0bdea1.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Freedom Cry (SP)",
+      "percent": "0.4"
+    },
+    "ACBF_Ach_59": {
+      "name": "His Word Was “Perhaps”",
+      "description": "Freedom Cry - Complete all missions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/aea9437703ac4a681f20cc460c5b471a85100042.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/5478e524f70c4ff8d4dbb762271ea9cba55d3834.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Freedom Cry (SP)",
+      "percent": "0.9"
+    },
+    "ACBF_Ach_19": {
+      "name": "Hungover",
+      "description": "Wake up in a haystack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/5f26925ae0e1994fc955f65be6c0b293215d427a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/8c99d894e069bbd018b100755a494f5d27d021df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACBF_Ach_17": {
+      "name": "It's All Good",
+      "description": "Complete present day mission 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/07ec431a9230298eda0e185576a0e33992ef6b7d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/c46b6bc9751bae26d566a4ec52e0c6a6478011ae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACBF_Ach_12": {
+      "name": "Just Like Starting Over",
+      "description": "Complete memory sequence 12.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/35de7d768d75b2aa6bf7e3acda062d324d9b5723.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/303f19162c681e8bff8ff6456438e6f6a8a9ff07.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACBF_Ach_23": {
+      "name": "Killer Killer",
+      "description": "Harpoon a killer whale.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/6f3035d58c85b809a5a342b5d1aa881e70db468b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/72fa291ea2534f1978e9218c286a98ec3548b6e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACBF_Ach_26": {
+      "name": "King Of The Castle",
+      "description": "Capture all forts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/4a362a39337f2266135aca82a2ec6543f97c598e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/4e54677221b57ae6246340961b0629a127c1b1e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "ACBF_Ach_49": {
+      "name": "Lab Technician",
+      "description": "Play and complete a game session of Game Lab in the Multiplayer Public playlist.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/823d7b31fd97242269aae2ea42136560c222b403.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/9ba35d5c7157e95660875ca6009e3847cfc403ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACBF_Ach_55": {
+      "name": "Liberation Day",
+      "description": "Free your first slave.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/57d831ef50a8900384753f0c6f9e508131043342.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/0b05e50add946557652cf07833a6bb9c23d30c44.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Freedom Cry (SP)",
+      "percent": "1.9"
+    },
+    "ACBF_Ach_48": {
+      "name": "Master Of The Caribbean",
+      "description": "Complete the Discovery Mode of Wolfpack in Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/b0cddb4ac676b2310fd7069af066bf919d7fa646.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/a79e1f48a2e82bd34c319ca86570b51d7de4d40f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "ACBF_Ach_29": {
+      "name": "Mer-man",
+      "description": "Swim a total of 1 nmi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/7de8e2a19e388898fbd02b493b27afb839e70319.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/2c4d719385eac23c2661a51515561e53ebbf9a4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "ACBF_Ach_6": {
+      "name": "Mixing Up The Medicines",
+      "description": "Complete memory sequence 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/b727d1d53f588bbc6ff7e8e04a0d77f61483e433.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/b399683773478b0b776602c902ed8cd141ffa34a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ACBF_Ach_10": {
+      "name": "My Elusive Fortune",
+      "description": "Complete memory sequence 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/bcbc57da80e0e556967820cbe370b06cdf409afb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/236ce864ae0ae3f442ebe5ef7174cafcad3dfbf2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "ACBF_Ach_4": {
+      "name": "No Apologies",
+      "description": "Complete memory sequence 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/03bd69cb5f4ffe84ce5989563e8688d9158ecdd9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/82f9edef40925708e0966b259d81dead9e126928.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ACBF_Ach_21": {
+      "name": "Owned",
+      "description": "Complete every activity in a single location.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/cd026cf5802003850e831aee3897e11b5fa47b4f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/bf746cb611fc54c164d13b7ca1cd024cee0bde50.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "ACBF_Ach_47": {
+      "name": "Personal Bag Of Tricks",
+      "description": "Finish a game session with an ability set that you customized in Multiplayer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/04b5541f24a19707bc897d1ca17c98a92d283b11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/5751255ebe236833d49d69dec6890b564dcfa6ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ACBF_Ach_53": {
+      "name": "Preemptive Strike ",
+      "description": "Playing as The Orchid, block 10 abilities from opponents with Sabotage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/242033a1ce869674b6b13807117633214a3494fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/a73435bb0119df57a8e23b637a0c39fc31c9372a.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Blackbeard's Wrath Pack Activation Key",
+      "percent": "0.1"
+    },
+    "ACBF_Ach_52": {
+      "name": "Queen Anne’s Revenge ",
+      "description": "Playing as Blackbeard, perform an acrobatic kill and a gun kill in less than 10 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/f32913adfca8f940b32bf69959ed44f18a3e29a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/c78ee517c4a04dbb3da19d064204c69ee47d08b1.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Blackbeard's Wrath Pack Activation Key",
+      "percent": "0.1"
+    },
+    "ACBF_Ach_30": {
+      "name": "Redingote Up!",
+      "description": "Craft the Hunter outfit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/23a199eb316ea56d5bb2e84639560bb921776c54.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/c21390421af810bed793a6ce10c2b421a8b979ab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ACBF_Ach_40": {
+      "name": "Roped In",
+      "description": "Perform 5 air assassinations from a swinging rope.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/41327b5374199fffa1b7b70c740419236b86b01a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/d15e2f512a76eeea5b81424b6870e5e113e7a1c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ACBF_Ach_14": {
+      "name": "Routine Hacking",
+      "description": "Complete present day mission 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/765b894b76c2ed791a79cce4f57f05147427dfff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/666afb7ff544be31156709ab7fc499fe3145a45c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "ACBF_Ach_51": {
+      "name": "Sacred Land",
+      "description": "Playing as The Jaguar, be the highest scoring player of a Domination game session.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/9212d99b16d0306288083aad070c097e833f8dda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/5fcd6ed5b759b57c94c2aeba2208d73081325d67.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Blackbeard's Wrath Pack Activation Key",
+      "percent": "0.1"
+    },
+    "ACBF_Ach_13": {
+      "name": "Saw That One Coming...",
+      "description": "Complete memory sequence 13.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/034ba70f672afd82fabf07313f5353a01770150f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/e839ed1444d5b3a95fa77ab1ea95636f6d320fc7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACBF_Ach_25": {
+      "name": "Sea Legs",
+      "description": "Complete all naval contracts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/4b131904192b6cc8ba26a15ca193dc1b936d3990.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/0d38906e6247dbb7dad5f645525867069b71ae03.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACBF_Ach_56": {
+      "name": "Seeds of independence",
+      "description": "Liberate 500 slaves.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/abddd259f4bb5cbaa06228c43f50652ccf0c704e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/b27c95d6b333eb0267f0f71e477f0c1ec2be298e.jpg",
+      "hidden": false,
+      "group": "Assassin's Creed Black Flag - Freedom Cry (SP)",
+      "percent": "0.7"
+    },
+    "ACBF_Ach_34": {
+      "name": "Seven Deadly Seas",
+      "description": "Explore all underwater shipwrecks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/f217e215a494c5fa1db73a2104121d81f3b8ea9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/e84702ded9507466e4681a185c65bdbab95ec719.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACBF_Ach_41": {
+      "name": "Sharing Is Caring",
+      "description": "Share each type of discovery with friends once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/9cabb7a05be52cdd8a8e3add33709840c64f515d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/41cca916186ee7199bae1a2a7858ca2ff17284b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACBF_Ach_20": {
+      "name": "Silence, Fool!",
+      "description": "Kill a guard ringing a bell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/c9fbb43f1d32fc61b4c762baf3defb4be9915353.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/6dcda77e03242e91530704c2a9c0a73a22a32981.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACBF_Ach_43": {
+      "name": "Siren Song",
+      "description": "Rescue pirate hostages by distracting enemies with \"dancers.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/ad1f02680a36feb63d49d8808059c2a8eb35ed30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/eec9f86469b364a202bb4bcfffa9f54b9d28a613.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ACBF_Ach_7": {
+      "name": "The Hammer Falls",
+      "description": "Complete memory sequence 7.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/33970e5ff6565389d18c97fb68a42777ac8fe867.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/37fd1d75fdde8e71956abd1a5233da4c4065b3a5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ACBF_Ach_31": {
+      "name": "Thug Life",
+      "description": "Plunder 30 ships.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/6c1511918642e68a8b27fcb134b739f0ed0ce2f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/2c412772b75dbd84da293d3793cb84133884fdfc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ACBF_Ach_22": {
+      "name": "Vault Raider",
+      "description": "Unlock the secret door in Tulum.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/feef77161d9d2b2e990bb5e25e18833e3df46ce7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/a6145b57ea10fb8651415f21b35f75a221864961.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "ACBF_Ach_44": {
+      "name": "Wild West Indies",
+      "description": "Kill 4 enemies in a row using multi-pistols.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/0659787f2672335d3bbc81861f39d9d4dff8640a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/242050/8e2c958a8a47044a9e0ae178ff9f0b111f6b8758.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}

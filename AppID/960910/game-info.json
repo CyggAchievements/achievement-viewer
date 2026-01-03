@@ -1,0 +1,514 @@
+{
+  "appid": "960910",
+  "name": "Heavy Rain",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/header.jpg?t=1675271942",
+  "achievements": {
+    "Trophy_11": {
+      "name": "Agoraphobia",
+      "description": "Lexington Station - Knock down at least 50 passers-by",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "Trophy_56": {
+      "name": "All Endings",
+      "description": "See all endings",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/d7e49936fd61966bc256bde196786a31850614a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b631871596d5f5d91597c5b471deb741d1aa090e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "Trophy_15": {
+      "name": "Baby Master",
+      "description": "Suicide Baby - Make no mistakes taking care of the baby",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/178773e64cdfd79d84915fe1359cd9d994278417.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "Trophy_23": {
+      "name": "Bad Cop",
+      "description": "Shrink and Punches - Do not stop Blake from hitting Dupré",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "Trophy_13": {
+      "name": "Blunder",
+      "description": "Nathaniel - Shoot Nathaniel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "Trophy_25": {
+      "name": "Butcher",
+      "description": "The Lizard - Cut your finger using saw or scissors",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/667d23bc70ddf4087ff768fdc388b15aa1702f6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/e216f3f9cefb111b25d4a9cbd207886138842741.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "Trophy_18": {
+      "name": "Cat & Mouse",
+      "description": "Covered Market - Beat Korda in the cold storage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.9"
+    },
+    "Trophy_46": {
+      "name": "Clever Dad",
+      "description": "The Rat - Work out where Shaun is held",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/8c7126a1c8c1a79bcb8065aaa0d36e7901b98714.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/8d42e0c28800162c8c8495d09f649eebbeaa3e81.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "Trophy_47": {
+      "name": "Cold as Ice",
+      "description": "Killer's Place - Survive the explosion by hiding in the fridge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "Trophy_20": {
+      "name": "Coward!",
+      "description": "The Butterfly - Give up or fail the Butterfly Trial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/bd6fc69ff9eeb38c8eebf9e9a84aa6b5631cd775.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/51a53598db4851ae8c5a661ea3a84ba4288c39b6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "Trophy_29": {
+      "name": "Detox",
+      "description": "Jayden Blues - Resist Triptocaine ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/178773e64cdfd79d84915fe1359cd9d994278417.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "Trophy_21": {
+      "name": "Electrified",
+      "description": "The Butterfly - Complete the Butterfly Trial successfully",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/bd6fc69ff9eeb38c8eebf9e9a84aa6b5631cd775.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/51a53598db4851ae8c5a661ea3a84ba4288c39b6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.1"
+    },
+    "Trophy_41": {
+      "name": "Escape Master",
+      "description": "On the Loose - Escape the police at the motel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.2"
+    },
+    "Trophy_6": {
+      "name": "FBI Investigator",
+      "description": "Crime Scene - Find all clues related to the Origami Killer in the scene",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "Trophy_51": {
+      "name": "Four Heroes",
+      "description": "Complete the story with four characters alive",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/5ac3b9419277cdca44c3fc08ea93c418b2c12936.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/8b89fcd781e7bb1d995f6bed73c0193a8ed95353.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "Trophy_26": {
+      "name": "Fugitive",
+      "description": "Fugitive - Manage to escape Blake in the subway station",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/305ae78ae198f4b59bcd64a7c6c9d8a9e865f578.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/e216f3f9cefb111b25d4a9cbd207886138842741.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "Trophy_24": {
+      "name": "Gold Finger",
+      "description": "The Lizard - Cut your finger using axe, knife or pliers + disinfect or cauterize the wound",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/667d23bc70ddf4087ff768fdc388b15aa1702f6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/e216f3f9cefb111b25d4a9cbd207886138842741.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "Trophy_22": {
+      "name": "Good Cop",
+      "description": "Shrink and Punches - Stop Blake from hitting Dupré",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "Trophy_17": {
+      "name": "Good Driver",
+      "description": "The Bear - Complete the Bear Trial successfully",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/edd01bc0c986bc285b319835c25cde0b395a4e2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/0250edb7cf874f641b46de82f6adeed50da5adeb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.9"
+    },
+    "Trophy_3": {
+      "name": "Good Father",
+      "description": "Father and Son - Follow the schedule with Shaun and put him to bed in a good mood",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/178773e64cdfd79d84915fe1359cd9d994278417.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "Trophy_7": {
+      "name": "Good Friends",
+      "description": "The Park - Play two games with Shaun successfully and buy him candy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "Trophy_35": {
+      "name": "Goodbye Mad Jack",
+      "description": "Mad Jack - Survive the fights against Mad Jack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "Trophy_8": {
+      "name": "Got To Remember!",
+      "description": "Welcome, Norman! - Remember the time it was at the park and what Shaun was wearing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "Trophy_27": {
+      "name": "Hands Up!",
+      "description": "Fugitive or On the Loose - Get arrested by Blake ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/667d23bc70ddf4087ff768fdc388b15aa1702f6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/e216f3f9cefb111b25d4a9cbd207886138842741.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "Trophy_1": {
+      "name": "Happy Birthday",
+      "description": "Prologue - Complete the drawing + Set the table + Play with kids",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "Trophy_50": {
+      "name": "HEAVY RAIN™ Hero",
+      "description": "Finish HEAVY RAIN™",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/d7140962cb054f1c94001ae13067fab8bfb1ec72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.1"
+    },
+    "Trophy_31": {
+      "name": "I'm a Killer...",
+      "description": "The Shark - Kill the Drug Dealer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/ea068c6ebd07de5087149746e3cc6e4ce9e3d275.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b0a18d75ef896f71f1205511c694d890a90a7257.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "Trophy_32": {
+      "name": "I'm not a Killer!",
+      "description": "The Shark - Do not kill the Drug Dealer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/ea068c6ebd07de5087149746e3cc6e4ce9e3d275.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b0a18d75ef896f71f1205511c694d890a90a7257.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "Trophy_37": {
+      "name": "I'm not Scared!",
+      "description": "Twins - Follow your brother without making any mistakes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/586ddce42afc5d8548ed95d81cb2d63da7de03d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/0fa9d5e463cc62592e8483c13a4d0b2b2eb75c47.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "Trophy_2": {
+      "name": "Interactive Drama",
+      "description": "Thank you for supporting Interactive Drama",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.1"
+    },
+    "Trophy_43": {
+      "name": "Invincible Scott",
+      "description": "Face to Face - Do not get shot in Kramer's villa",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "Trophy_16": {
+      "name": "Kamikaze",
+      "description": "The Bear - Take the best route on the highway",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/edd01bc0c986bc285b319835c25cde0b395a4e2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/0250edb7cf874f641b46de82f6adeed50da5adeb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "Trophy_44": {
+      "name": "Kind Hearted",
+      "description": "Face to Face - Give Kramer his medicine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "Trophy_40": {
+      "name": "Lover Boy",
+      "description": "On the Loose - Forgive Madison",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "Trophy_12": {
+      "name": "Lucky Locker",
+      "description": "Lexington Station - Find the correct locker on first try",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "Trophy_28": {
+      "name": "Ludwig Von",
+      "description": "Jayden Blues - Play the piano without a wrong note",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "Trophy_9": {
+      "name": "Negotiator",
+      "description": "Hassan's Shop - Persuade the Robber to leave",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "Trophy_53": {
+      "name": "Nerd",
+      "description": "Find all clues using ARI (Crime scene + Mad Jack + Fish tank) and find the Origami Killer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/5ac3b9419277cdca44c3fc08ea93c418b2c12936.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/8b89fcd781e7bb1d995f6bed73c0193a8ed95353.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "Trophy_55": {
+      "name": "Perfect Crime",
+      "description": "Clean Manfred's shop of evidence + Let Lauren, Hassan and Kramer die + Kill Madison and Jayden + Origami Killer free",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b5e2d41179fd7b61bf109f0aa86df965eb402e41.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/ef0fc5506bb53b4e67478cfc5d9d0ca611334deb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "Trophy_38": {
+      "name": "Pride Saved",
+      "description": "Sexy Girl - Take off no more than one item of clothing during the strip-tease",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "Trophy_5": {
+      "name": "Private Eye",
+      "description": "Sleazy Place - Lead Lauren to talk about her son",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.9"
+    },
+    "Trophy_34": {
+      "name": "Queen of Ropes",
+      "description": "The Doc - Escape before the Doc returns",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "Trophy_45": {
+      "name": "Sacrifice",
+      "description": "The Rat - Drink the poison",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/8c7126a1c8c1a79bcb8065aaa0d36e7901b98714.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/8d42e0c28800162c8c8495d09f649eebbeaa3e81.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "Trophy_54": {
+      "name": "Saved the Kid",
+      "description": "Save Shaun",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/5ac3b9419277cdca44c3fc08ea93c418b2c12936.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/8b89fcd781e7bb1d995f6bed73c0193a8ed95353.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "Trophy_14": {
+      "name": "Self Control",
+      "description": "Nathaniel - Do not shoot Nathaniel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "Trophy_48": {
+      "name": "Simple Mind",
+      "description": "The Old Warehouse - Save the Origami Killer before he falls, with Jayden or Madison",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "Trophy_33": {
+      "name": "Smart Girl",
+      "description": "The Doc - Do not drink the Doc's beverage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "Trophy_49": {
+      "name": "So Close...",
+      "description": "The Old Warehouse - Reach the end with all characters... and fail",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/d7140962cb054f1c94001ae13067fab8bfb1ec72.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "Trophy_42": {
+      "name": "Swimming Instructor",
+      "description": "Trapped - Save Lauren underwater",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/178773e64cdfd79d84915fe1359cd9d994278417.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.6"
+    },
+    "Trophy_36": {
+      "name": "The Chef",
+      "description": "Eureka - Prepare a good omelette on time",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "Trophy_19": {
+      "name": "Tough Guy",
+      "description": "Kramer's Party - Defeat Gordi's bodyguards",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "Trophy_52": {
+      "name": "Trial Master",
+      "description": "Succeeded in all Ethan's trials",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/13768f4bb722a3979815e427844ccf106df54365.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/4da704b18acbed441cc8956ff318baad2994226d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "Trophy_39": {
+      "name": "Unforgivable",
+      "description": "On the Loose - Do not forgive Madison",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "Trophy_10": {
+      "name": "VIP",
+      "description": "Paparazzi - Leave home without being spotted by the journalists",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.3"
+    },
+    "Trophy_4": {
+      "name": "White Knight",
+      "description": "Sleazy Place - Beat Troy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "Trophy_30": {
+      "name": "Wise Guy",
+      "description": "Under Arrest - Switch the camera off in the surveillance room before saving Ethan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/b263bb64103454975184555841a520a27823228a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/960910/17800a6aacb12082f3b6f2670bccfcdaf5eb66f4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.0"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}
