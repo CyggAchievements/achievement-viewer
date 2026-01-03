@@ -182,7 +182,8 @@
   "Outlaws_Ach_4": {
     "description": "Fully upgrade a blaster module configuration",
     "displayName": "No match for a good blaster",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767482054
   },
   "Outlaws_Ach_40": {
     "description": "Acquire a blaster, a starship, and a speeder",
