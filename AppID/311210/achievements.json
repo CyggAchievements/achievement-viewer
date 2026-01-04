@@ -1,397 +1,393 @@
 {
-  "Platinum": {
+  "CP_COMPLETE_PROLOGUE": {
     "earned": false,
     "earned_time": 0
   },
-  "Disavowed": {
+  "CP_COMPLETE_NEWWORLD": {
     "earned": false,
     "earned_time": 0
   },
-  "A Second Chance": {
+  "CP_COMPLETE_BLACKSTATION": {
     "earned": false,
     "earned_time": 0
   },
-  "High Tide": {
+  "CP_COMPLETE_BIODOMES": {
     "earned": false,
     "earned_time": 0
   },
-  "Belly of the Beast": {
+  "CP_COMPLETE_SGEN": {
     "earned": false,
     "earned_time": 0
   },
-  "Into the Abyss": {
+  "CP_COMPLETE_VENGEANCE": {
     "earned": false,
     "earned_time": 0
   },
-  "Blood for Blood": {
+  "CP_COMPLETE_RAMSES": {
     "earned": false,
     "earned_time": 0
   },
-  "Friends and Foes": {
+  "CP_COMPLETE_INFECTION": {
     "earned": false,
     "earned_time": 0
   },
-  "Understanding Madness": {
+  "CP_COMPLETE_AQUIFER": {
     "earned": false,
     "earned_time": 0
   },
-  "Fly, Swim, Shoot": {
+  "CP_COMPLETE_LOTUS": {
     "earned": false,
     "earned_time": 0
   },
-  "200 Stories of Sheer Adventure!": {
+  "CP_HARD_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "Full Circle": {
+  "CP_REALISTIC_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "No One Will Believe You": {
+  "CP_CAMPAIGN_COMPLETE": {
     "earned": false,
     "earned_time": 0
   },
-  "Another Side of the Story": {
+  "CP_FIREFLIES_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Hold Still!": {
+  "CP_UNSTOPPABLE_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Rolling Heavy": {
+  "CP_FLYING_WASP_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Sting like a Talon": {
+  "CP_TIMED_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Decimator": {
+  "CP_ALL_COLLECTIBLES": {
     "earned": false,
     "earned_time": 0
   },
-  "Curator": {
+  "CP_DIFFERENT_GUN_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Gun Game": {
+  "CP_ALL_DECORATIONS": {
     "earned": false,
     "earned_time": 0
   },
-  "Personal Decorator": {
+  "CP_ALL_WEAPON_CAMOS": {
     "earned": false,
     "earned_time": 0
   },
-  "Doing Camo Right": {
+  "CP_CONTROL_QUAD": {
     "earned": false,
     "earned_time": 0
   },
-  "Maximum Firepower": {
+  "CP_MISSION_COLLECTIBLES": {
     "earned": false,
     "earned_time": 0
   },
-  "Walking Encyclopedia": {
+  "CP_DISTANCE_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Crackshot": {
+  "CP_OBSTRUCTED_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Can't Hide": {
+  "CP_MELEE_COMBO_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Biff! Bap! KaPow!": {
+  "CP_COMPLETE_WALL_RUN": {
     "earned": false,
     "earned_time": 0
   },
-  "Inertial Distance": {
+  "CP_TRAINING_GOLD": {
     "earned": false,
     "earned_time": 0
   },
-  "For real this time": {
+  "CP_COMBAT_ROBOT_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Foe To Friend": {
+  "CP_KILL_WASPS": {
     "earned": false,
     "earned_time": 0
   },
-  "Throwing Flak": {
+  "CP_CYBERCORE_UPGRADE": {
     "earned": false,
     "earned_time": 0
   },
-  "Unlocked Potential": {
+  "CP_ALL_WEAPON_ATTACHMENTS": {
     "earned": false,
     "earned_time": 0
   },
-  "Lock, Stock, And Then Some": {
+  "CP_TIMED_STUNNED_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "In Their Sleep": {
+  "CP_UNLOCK_DOA": {
     "earned": false,
     "earned_time": 0
   },
-  "Silverback In Black": {
+  "ZM_COMPLETE_RITUALS": {
     "earned": false,
     "earned_time": 0
   },
-  "The Beginning of the End": {
+  "ZM_SPOT_SHADOWMAN": {
     "earned": false,
     "earned_time": 0
   },
-  "From the Shadows": {
+  "ZM_GOBBLE_GUM": {
     "earned": false,
     "earned_time": 0
   },
-  "Not out of Gobblegum!": {
+  "ZM_STORE_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Sorry, we’re DEAD": {
+  "ZM_ROCKET_SHIELD_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Strike!": {
+  "ZM_CIVIL_PROTECTOR": {
     "earned": false,
     "earned_time": 0
   },
-  "Beat CoP": {
+  "ZM_WINE_GRENADE_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "The Spider and the Fly": {
+  "ZM_MARGWA_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Margwa Party": {
+  "ZM_PARASITE_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Parasite-Seeing": {
+  "MP_REACH_SERGEANT": {
     "earned": false,
     "earned_time": 0
   },
-  "Welcome to the Club": {
+  "MP_REACH_ARENA": {
     "earned": false,
     "earned_time": 0
   },
-  "Battle Tested": {
+  "MP_SPECIALIST_MEDALS": {
     "earned": false,
     "earned_time": 0
   },
-  "Tactical Specialist": {
+  "MP_MULTI_KILL_MEDALS": {
     "earned": false,
     "earned_time": 0
   },
-  "Deadly Specialist": {
+  "ZM_CASTLE_EE": {
     "earned": false,
     "earned_time": 0
   },
-  "My Brother’s Keeper": {
+  "ZM_CASTLE_ALL_BOWS": {
     "earned": false,
     "earned_time": 0
   },
-  "Der Meisterbogenschuetze": {
+  "ZM_CASTLE_MINIGUN_MURDER": {
     "earned": false,
     "earned_time": 0
   },
-  "None Left Standing": {
+  "ZM_CASTLE_UPGRADED_BOW": {
     "earned": false,
     "earned_time": 0
   },
-  "Take a Bow": {
+  "ZM_CASTLE_MECH_TRAPPER": {
     "earned": false,
     "earned_time": 0
   },
-  "Not Big Enough": {
+  "ZM_CASTLE_SPIKE_REVIVE": {
     "earned": false,
     "earned_time": 0
   },
-  "Time to Slam": {
+  "ZM_CASTLE_WALL_RUNNER": {
     "earned": false,
     "earned_time": 0
   },
-  "Quick Off Your Feet": {
+  "ZM_CASTLE_ELECTROCUTIONER": {
     "earned": false,
     "earned_time": 0
   },
-  "That’s a lot of Jigawatts!": {
+  "ZM_CASTLE_WUNDER_TOURIST": {
     "earned": false,
     "earned_time": 0
   },
-  "Fling Me to the Moon": {
+  "ZM_CASTLE_WUNDER_SNIPER": {
     "earned": false,
     "earned_time": 0
   },
-  "Death From Above": {
+  "ZM_ISLAND_COMPLETE_EE": {
     "earned": false,
     "earned_time": 0
   },
-  "Seeds of Doubt": {
+  "ZM_ISLAND_DRINK_WINE": {
     "earned": false,
     "earned_time": 0
   },
-  "Sanguine Serum": {
+  "ZM_ISLAND_CLONE_REVIVE": {
     "earned": false,
     "earned_time": 0
   },
-  "Herbal Remedy": {
+  "ZM_ISLAND_OBTAIN_SKULL": {
     "earned": false,
     "earned_time": 0
   },
-  "The Ultimate Sacrifice": {
+  "ZM_ISLAND_WONDER_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Crop Duster": {
+  "ZM_ISLAND_STAY_UNDERWATER": {
     "earned": false,
     "earned_time": 0
   },
-  "Iron Lung": {
+  "ZM_ISLAND_THRASHER_RESCUE": {
     "earned": false,
     "earned_time": 0
   },
-  "In the Belly of the Beast": {
+  "ZM_ISLAND_ELECTRIC_SHIELD": {
     "earned": false,
     "earned_time": 0
   },
-  "Assault With Battery": {
+  "ZM_ISLAND_DESTROY_WEBS": {
     "earned": false,
     "earned_time": 0
   },
-  "Web of Defeat": {
+  "ZM_ISLAND_EAT_FRUIT": {
     "earned": false,
     "earned_time": 0
   },
-  "One Too Many": {
+  "ZM_STALINGRAD_NIKOLAI": {
     "earned": false,
     "earned_time": 0
   },
-  "Love And War": {
+  "ZM_STALINGRAD_WIELD_DRAGON": {
     "earned": false,
     "earned_time": 0
   },
-  "Wield a Fist of Iron": {
+  "ZM_STALINGRAD_TWENTY_ROUNDS": {
     "earned": false,
     "earned_time": 0
   },
-  "Time Attack": {
+  "ZM_STALINGRAD_RIDE_DRAGON": {
     "earned": false,
     "earned_time": 0
   },
-  "Taking Flight": {
+  "ZM_STALINGRAD_LOCKDOWN": {
     "earned": false,
     "earned_time": 0
   },
-  "Not One Inch": {
+  "ZM_STALINGRAD_SOLO_TRIALS": {
     "earned": false,
     "earned_time": 0
   },
-  "Viktorious Revenge": {
+  "ZM_STALINGRAD_BEAM_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Vaporeyezed": {
+  "ZM_STALINGRAD_STRIKE_DRAGON": {
     "earned": false,
     "earned_time": 0
   },
-  "Fire Mission": {
+  "ZM_STALINGRAD_FAFNIR_KILL": {
     "earned": false,
     "earned_time": 0
   },
-  "Blown Away": {
+  "ZM_STALINGRAD_AIR_ZOMBIES": {
     "earned": false,
     "earned_time": 0
   },
-  "Zombiepult": {
+  "ZM_GENESIS_EE": {
     "earned": false,
     "earned_time": 0
   },
-  "For The Good Of All": {
+  "ZM_GENESIS_SUPER_EE": {
     "earned": false,
     "earned_time": 0
   },
-  "A Better Tomorrow": {
+  "ZM_GENESIS_PACKECTOMY": {
     "earned": false,
     "earned_time": 0
   },
-  "Pack-A-Punch-ectomy": {
+  "ZM_GENESIS_KEEPER_ASSIST": {
     "earned": false,
     "earned_time": 0
   },
-  "Keep Close": {
+  "ZM_GENESIS_DEATH_RAY": {
     "earned": false,
     "earned_time": 0
   },
-  "Death Ray": {
+  "ZM_GENESIS_GRAND_TOUR": {
     "earned": false,
     "earned_time": 0
   },
-  "The Grand Tour": {
+  "ZM_GENESIS_WARDROBE_CHANGE": {
     "earned": false,
     "earned_time": 0
   },
-  "Wardrobe Change": {
+  "ZM_GENESIS_WONDERFUL": {
     "earned": false,
     "earned_time": 0
   },
-  "Wonderful": {
+  "ZM_GENESIS_CONTROLLED_CHAOS": {
     "earned": false,
     "earned_time": 0
   },
-  "Controlled Chaos": {
+  "DLC2_ZOMBIE_ALL_TRAPS": {
     "earned": false,
     "earned_time": 0
   },
-  "It's a Trap!": {
+  "DLC2_ZOM_LUNARLANDERS": {
     "earned": false,
     "earned_time": 0
   },
-  "The Eagle has Landers": {
+  "DLC2_ZOM_FIREMONKEY": {
     "earned": false,
     "earned_time": 0
   },
-  "Chimp on the Barbie": {
+  "DLC4_ZOM_TEMPLE_SIDEQUEST": {
     "earned": false,
     "earned_time": 0
   },
-  "Time Travel Will Tell": {
+  "DLC4_ZOM_SMALL_CONSOLATION": {
     "earned": false,
     "earned_time": 0
   },
-  "Small Consolation": {
+  "DLC5_ZOM_CRYOGENIC_PARTY": {
     "earned": false,
     "earned_time": 0
   },
-  "Cryogenic Slumber Party": {
+  "DLC5_ZOM_GROUND_CONTROL": {
     "earned": false,
     "earned_time": 0
   },
-  "Ground Control": {
+  "ZM_DLC4_TOMB_SIDEQUEST": {
     "earned": false,
     "earned_time": 0
   },
-  "Little Lost Girl": {
+  "ZM_DLC4_OVERACHIEVER": {
     "earned": false,
     "earned_time": 0
   },
-  "Overachiever": {
+  "ZM_PROTOTYPE_I_SAID_WERE_CLOSED": {
     "earned": false,
     "earned_time": 0
   },
-  "I said we’re CLOSED!": {
+  "ZM_ASYLUM_ACTED_ALONE": {
     "earned": false,
     "earned_time": 0
   },
-  "Acted Alone": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "I’ve seen some things…": {
+  "ZM_THEATER_IVE_SEEN_SOME_THINGS": {
     "earned": false,
     "earned_time": 0
   }

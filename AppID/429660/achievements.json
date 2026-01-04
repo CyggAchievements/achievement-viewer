@@ -1,205 +1,205 @@
 {
-  "Champion of Berseria": {
+  "TROPHY_ID_COMPLETE": {
     "earned": true,
     "earned_time": 1578157248
   },
-  "The Beast Uncaged": {
+  "TROPHY_ID_SCENARIO_001": {
     "earned": true,
     "earned_time": 1572006812
   },
-  "The Hero's Bane": {
+  "TROPHY_ID_SCENARIO_002": {
     "earned": true,
     "earned_time": 1572794493
   },
-  "The Sower of Strife": {
+  "TROPHY_ID_SCENARIO_003": {
     "earned": true,
     "earned_time": 1574607723
   },
-  "The Transgressor's Chains": {
+  "TROPHY_ID_SCENARIO_004": {
     "earned": true,
     "earned_time": 1575476926
   },
-  "The Unquenchable Flame": {
+  "TROPHY_ID_SCENARIO_005": {
     "earned": true,
     "earned_time": 1575812851
   },
-  "The Howling Calamity": {
+  "TROPHY_ID_SCENARIO_006": {
     "earned": true,
     "earned_time": 1576779219
   },
-  "Velvet Crowe": {
+  "TROPHY_ID_SCENARIO_007": {
     "earned": true,
     "earned_time": 1577099713
   },
-  "The Great Gorger": {
+  "TROPHY_ID_SCENARIO_VELVET": {
     "earned": true,
     "earned_time": 1577112939
   },
-  "Rangetsu Initiate": {
+  "TROPHY_ID_SCENARIO_ROKUROU": {
     "earned": true,
     "earned_time": 1577109951
   },
-  "The Praying Malak": {
+  "TROPHY_ID_SCENARIO_LIFESET": {
     "earned": true,
     "earned_time": 1577111447
   },
-  "Follower of the Creed": {
+  "TROPHY_ID_SCENARIO_AIZEN": {
     "earned": true,
     "earned_time": 1577113041
   },
-  "Magilou's Magnificent Menagerie": {
+  "TROPHY_ID_SCENARIO_MAGIROUX": {
     "earned": true,
     "earned_time": 1577109238
   },
-  "Hope Surpassing Reason": {
+  "TROPHY_ID_SCENARIO_ELEANOR": {
     "earned": true,
     "earned_time": 1577112580
   },
-  "Ultimate Stress Relief": {
+  "TROPHY_ID_SCENARIO_SPA": {
     "earned": true,
     "earned_time": 1577560922
   },
-  "Striding Beyond the End": {
+  "TROPHY_ID_SCENARIO_GUEST": {
     "earned": true,
     "earned_time": 1577562903
   },
-  "Dawn of Darkness": {
+  "TROPHY_ID_SCENARIO_KAMENIN": {
     "earned": true,
     "earned_time": 1577646490
   },
-  "A Promise Made": {
+  "TROPHY_ID_SCENARIO_ZAVEID": {
     "earned": true,
     "earned_time": 1577468399
   },
-  "Witness to the Mystic": {
+  "TROPHY_ID_MYSTIC_COMPLETE": {
     "earned": true,
     "earned_time": 1577651507
   },
-  "Centurion": {
+  "TROPHY_ID_HIT_HIGHER": {
     "earned": true,
     "earned_time": 1573489056
   },
-  "Soul Vacuum": {
+  "TROPHY_ID_SOUL_HIGHER": {
     "earned": true,
     "earned_time": 1572110696
   },
-  "Shattered Soul": {
+  "TROPHY_ID_BREAK_SOUL_COMPLETE": {
     "earned": true,
     "earned_time": 1577652700
   },
-  "Miraculous Myriad": {
+  "TROPHY_ID_DAMAGE_HIGHER": {
     "earned": true,
     "earned_time": 1573755666
   },
-  "The Last Level": {
+  "TROPHY_ID_LEVEL_MAX": {
     "earned": true,
     "earned_time": 1577731107
   },
-  "Hanging with the Hanged Man": {
+  "TROPHY_ID_WANDERING_ENEMY_001": {
     "earned": true,
     "earned_time": 1573389410
   },
-  "Bee Stinger": {
+  "TROPHY_ID_WANDERING_ENEMY_002": {
     "earned": true,
     "earned_time": 1577103208
   },
-  "Enough Monkeying Around": {
+  "TROPHY_ID_WANDERING_ENEMY_003": {
     "earned": true,
     "earned_time": 1577104922
   },
-  "Backtalker": {
+  "TROPHY_ID_WANDERING_ENEMY_004": {
     "earned": true,
     "earned_time": 1577118165
   },
-  "The Lindwurm Turns": {
+  "TROPHY_ID_WANDERING_ENEMY_005": {
     "earned": true,
     "earned_time": 1577118787
   },
-  "Potentite Purist": {
+  "TROPHY_ID_CRYSTAL_COMPLETE": {
     "earned": true,
     "earned_time": 1577716461
   },
-  "A Solid B": {
+  "TROPHY_ID_CHARACTER_TITLE_COMPLETE": {
     "earned": true,
     "earned_time": 1578157248
   },
-  "The Stone-Cold Killer": {
+  "TROPHY_ID_EQUIP_MASTER_VELVET": {
     "earned": true,
     "earned_time": 1576776284
   },
-  "The Honorable Warrior": {
+  "TROPHY_ID_EQUIP_MASTER_ROKUROU": {
     "earned": true,
     "earned_time": 1577122259
   },
-  "The Curious Youth": {
+  "TROPHY_ID_EQUIP_MASTER_LIFESET": {
     "earned": true,
     "earned_time": 1577118788
   },
-  "The Pugnacious Skipper": {
+  "TROPHY_ID_EQUIP_MASTER_AIZEN": {
     "earned": true,
     "earned_time": 1577118788
   },
-  "The Unorthodox Witch": {
+  "TROPHY_ID_EQUIP_MASTER_MAGIROUX": {
     "earned": true,
     "earned_time": 1577371047
   },
-  "The Earnest Soldier": {
+  "TROPHY_ID_EQUIP_MASTER_ELEANOR": {
     "earned": true,
     "earned_time": 1577113861
   },
-  "Whetstone and Polish": {
+  "TROPHY_ID_EQUIP_POWERUP_HIGHER": {
     "earned": true,
     "earned_time": 1577100721
   },
-  "A Veritable Gald Mine": {
+  "TROPHY_ID_GALD_HIGHER": {
     "earned": true,
     "earned_time": 1577733812
   },
-  "Economic Linchpin": {
+  "TROPHY_ID_SHOP_RANK_MAX": {
     "earned": true,
     "earned_time": 1577726629
   },
-  "Treasure Hunter": {
+  "TROPHY_ID_TREASUREBOX_COMPLETE": {
     "earned": true,
     "earned_time": 1577466287
   },
-  "Pirate Legend": {
+  "TROPHY_ID_SHIP_TREASURE_COMPLETE": {
     "earned": true,
     "earned_time": 1576776650
   },
-  "Refreshing Conversation": {
+  "TROPHY_ID_LONGCHAT_COMPLETE": {
     "earned": true,
     "earned_time": 1577472462
   },
-  "Item Collector": {
+  "TROPHY_ID_ITEM_COMPLETE": {
     "earned": true,
     "earned_time": 1577916000
   },
-  "Know Thine Enemy": {
+  "TROPHY_ID_ENEMY_COMPLETE": {
     "earned": true,
     "earned_time": 1577559875
   },
-  "Chef's Soul": {
+  "TROPHY_ID_COOK_COMPLETE": {
     "earned": true,
     "earned_time": 1577558619
   },
-  "I'll Take My Board": {
+  "TROPHY_ID_VEHICLE_COMPLETE": {
     "earned": true,
     "earned_time": 1577644843
   },
-  "Katz Person": {
+  "TROPHY_ID_CATBOX_COMPLETE": {
     "earned": true,
     "earned_time": 1577647589
   },
-  "Emergency Management": {
+  "TROPHY_ID_ARENA_COMPLETE": {
     "earned": true,
     "earned_time": 1577537013
   },
-  "Code Red? More Like Code Dead": {
+  "TROPHY_ID_HUNT_COMPLETE": {
     "earned": true,
     "earned_time": 1577537515
   },
-  "Making a Mint": {
+  "TROPHY_ID_MINIGAME": {
     "earned": true,
     "earned_time": 1577921495
   }

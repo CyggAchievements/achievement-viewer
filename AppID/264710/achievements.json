@@ -1,73 +1,69 @@
 {
-  "Platinum Trophy": {
-    "earned": true,
-    "earned_time": 1622217183
-  },
-  "Getting Your Feet Wet": {
+  "DiveForTheVeryFirstTime": {
     "earned": true,
     "earned_time": 1621010477
   },
-  "Extinction Event Avoided": {
+  "RepairAuroraReactor": {
     "earned": true,
     "earned_time": 1621880781
   },
-  "Ancient Technologies": {
+  "FindPrecursorGun": {
     "earned": true,
     "earned_time": 1622125985
   },
-  "Thermal Activity": {
+  "FindPrecursorLavaCastleFacility": {
     "earned": true,
     "earned_time": 1622135858
   },
-  "Find the Lost River": {
+  "FindPrecursorLostRiverFacility": {
     "earned": true,
     "earned_time": 1621949917
   },
-  "Fourteen Thousand Leagues Under the Sea": {
+  "FindPrecursorPrisonFacility": {
     "earned": true,
     "earned_time": 1622138729
   },
-  "Optimal Health": {
+  "CureInfection": {
     "earned": true,
     "earned_time": 1622141215
   },
-  "Leave Only Time Capsules": {
+  "DeployTimeCapsule": {
     "earned": true,
     "earned_time": 1622217183
   },
-  "Seaside Living with an Ocean View": {
+  "FindDegasiFloatingIslandsBase": {
     "earned": true,
     "earned_time": 1621176432
   },
-  "Follow the Degasi": {
+  "FindDegasiJellyshroomCavesBase": {
     "earned": true,
     "earned_time": 1621700409
   },
-  "Seamonsters": {
+  "FindDegasiDeepGrandReefBase": {
     "earned": true,
     "earned_time": 1621701525
   },
-  "Settling in for the Long Haul": {
+  "BuildBase": {
     "earned": true,
     "earned_time": 1621177681
   },
-  "Personal Propulsion": {
+  "BuildSeamoth": {
     "earned": true,
     "earned_time": 1621020107
   },
-  "40-foot Sub For One": {
+  "BuildCyclops": {
     "earned": true,
     "earned_time": 1621966472
   },
-  "Ordered the Prawn": {
+  "BuildExosuit": {
     "earned": true,
     "earned_time": 1621883667
   },
-  "Go Among the Stars": {
+  "LaunchRocket": {
     "earned": true,
     "earned_time": 1622217183
   },
-  "\"Man's Best Friend\"": {
+  "HatchCutefish": {
     "earned": true,
     "earned_time": 1621757011
   }

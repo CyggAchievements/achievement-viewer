@@ -3,7 +3,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "The Game is Afoot": {
+  "COYOTE_MAIN_STORY_FIRST": {
     "earned": true,
     "earned_time": 1630672989
   },
@@ -63,7 +63,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "On the Case": {
+  "COYOTE_SIDE_CASE_A": {
     "earned": true,
     "earned_time": 1631194429
   },
@@ -99,15 +99,15 @@
     "earned": false,
     "earned_time": 0
   },
-  "Skill Dabbler": {
+  "COYOTE_SKILL_A": {
     "earned": true,
     "earned_time": 1630839187
   },
-  "Skill Pro": {
+  "COYOTE_SKILL_B": {
     "earned": true,
     "earned_time": 1631280367
   },
-  "Skill Master": {
+  "COYOTE_SKILL_ALL": {
     "earned": false,
     "earned_time": 0
   },
@@ -171,7 +171,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "The Gamer Life": {
+  "COYOTE_ALL_ARCADE_GAME_PLAYED": {
     "earned": false,
     "earned_time": 0
   },

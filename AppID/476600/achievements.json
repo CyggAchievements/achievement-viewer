@@ -3,7 +3,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "Friend in Need": {
+  "MEDKIT_TOSS": {
     "earned": true,
     "earned_time": 1590833288
   },
@@ -11,135 +11,135 @@
     "earned": true,
     "earned_time": 1591037141
   },
-  "Praise and Pass": {
+  "AMMO_TOSS": {
     "earned": true,
     "earned_time": 1590785548
   },
-  "School of Hard Knocks": {
+  "GRENADE_TOSS": {
     "earned": true,
     "earned_time": 1590833420
   },
-  "Who Needs a Pendant?": {
+  "SMOKE_TOSS": {
     "earned": true,
     "earned_time": 1591453459
   },
-  "Potato Masher": {
+  "PROTECTOR": {
     "earned": true,
     "earned_time": 1590658684
   },
-  "Chain Smoker": {
+  "CHAIN_SMOKE": {
     "earned": true,
     "earned_time": 1591453580
   },
-  "I've Got You!": {
+  "DRAG": {
     "earned": true,
     "earned_time": 1591446352
   },
-  "Quarter Given": {
+  "SURRENDER": {
     "earned": true,
     "earned_time": 1591449333
   },
-  "Rescuer": {
+  "RESCUER": {
     "earned": true,
     "earned_time": 1591466110
   },
-  "Pieces of History": {
+  "MEMENTOS": {
     "earned": true,
     "earned_time": 1591462913
   },
-  "Slow and Steady": {
+  "FOCUS": {
     "earned": true,
     "earned_time": 1590703282
   },
-  "Distinguished Service": {
+  "VETERAN": {
     "earned": true,
     "earned_time": 1591455193
   },
-  "Long Way from Texas": {
+  "LEVEL_1": {
     "earned": true,
     "earned_time": 1590510288
   },
-  "One of the Lucky Few": {
+  "LEVEL_1A": {
     "earned": true,
     "earned_time": 1591462310
   },
-  "The Paddle": {
+  "LEVEL_2": {
     "earned": true,
     "earned_time": 1590513092
   },
-  "Ack Ack": {
+  "LEVEL_2A": {
     "earned": true,
     "earned_time": 1591463172
   },
-  "No Sanctuary": {
+  "LEVEL_3": {
     "earned": true,
     "earned_time": 1590656037
   },
-  "Marksman": {
+  "LEVEL_3A": {
     "earned": true,
     "earned_time": 1591464198
   },
-  "Last Stop": {
+  "LEVEL_4": {
     "earned": true,
     "earned_time": 1590658986
   },
-  "Sunday Driver": {
+  "LEVEL_4A": {
     "earned": true,
     "earned_time": 1590660652
   },
-  "Champagne and Caviar": {
+  "LEVEL_5": {
     "earned": true,
     "earned_time": 1590703923
   },
-  "Silent Night": {
+  "LEVEL_5A": {
     "earned": true,
     "earned_time": 1590681013
   },
-  "Human Cost": {
+  "LEVEL_6": {
     "earned": true,
     "earned_time": 1590787010
   },
-  "Gasoline Cowboy": {
+  "LEVEL_6A": {
     "earned": true,
     "earned_time": 1590788026
   },
-  "Death Factory": {
+  "LEVEL_7": {
     "earned": true,
     "earned_time": 1590835967
   },
-  "Fog of War": {
+  "LEVEL_7A": {
     "earned": true,
     "earned_time": 1590834552
   },
-  "Our Men": {
+  "LEVEL_8": {
     "earned": true,
     "earned_time": 1591037437
   },
-  "Suppressive Fire!": {
+  "LEVEL_8A": {
     "earned": true,
     "earned_time": 1591033237
   },
-  "Worst Christmas Ever": {
+  "LEVEL_9": {
     "earned": true,
     "earned_time": 1591383561
   },
-  "Flyboy": {
+  "LEVEL_9A": {
     "earned": true,
     "earned_time": 1591382846
   },
-  "No Sacrifice Too Great": {
+  "LEVEL_10": {
     "earned": true,
     "earned_time": 1591448086
   },
-  "Infiltrated": {
+  "LEVEL_10A": {
     "earned": true,
     "earned_time": 1591446881
   },
-  "To the End": {
+  "LEVEL_11": {
     "earned": true,
     "earned_time": 1591454949
   },
-  "Defender": {
+  "LEVEL_11A": {
     "earned": true,
     "earned_time": 1591453028
   },
@@ -223,7 +223,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "Going Up…": {
+  "Going Up\u2026": {
     "earned": false,
     "earned_time": 0
   },
@@ -243,7 +243,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "Stadtjäger Down": {
+  "Stadtj\u00e4ger Down": {
     "earned": false,
     "earned_time": 0
   },

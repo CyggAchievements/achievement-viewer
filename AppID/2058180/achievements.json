@@ -1,189 +1,189 @@
 {
-  "The Greatest Detective": {
+  "JUDGE_PLATINUM": {
     "earned": false,
     "earned_time": 0
   },
-  "The Game is Afoot": {
+  "JUDGE_MAIN_STORY_FIRST": {
     "earned": true,
     "earned_time": 1630672989
   },
-  "Trust Issues": {
+  "JUDGE_MAIN_STORY_01": {
     "earned": true,
     "earned_time": 1631023712
   },
-  "I'll Make it Double": {
+  "JUDGE_MAIN_STORY_01_HIDDEN": {
     "earned": true,
     "earned_time": 1630947560
   },
-  "Skeletons in the Closet": {
+  "JUDGE_MAIN_STORY_02": {
     "earned": true,
     "earned_time": 1631299645
   },
-  "Way Too Thorough!": {
+  "JUDGE_MAIN_STORY_02_HIDDEN": {
     "earned": true,
     "earned_time": 1631383815
   },
-  "The Kansai Factor": {
+  "JUDGE_MAIN_STORY_03": {
     "earned": true,
     "earned_time": 1631715972
   },
-  "The Art of Conversation": {
+  "JUDGE_MAIN_STORY_03_HIDDEN": {
     "earned": false,
     "earned_time": 0
   },
-  "Blowing the Lid Off": {
+  "JUDGE_MAIN_STORY_04": {
     "earned": true,
     "earned_time": 1640352561
   },
-  "Professional Password Presenter": {
+  "JUDGE_MAIN_STORY_04_HIDDEN": {
     "earned": true,
     "earned_time": 1640347644
   },
-  "Enemies of My Enemies": {
+  "JUDGE_MAIN_STORY_05": {
     "earned": false,
     "earned_time": 0
   },
-  "Hung Jury": {
+  "JUDGE_MAIN_STORY_05_HIDDEN": {
     "earned": false,
     "earned_time": 0
   },
-  "Politics of Justice": {
+  "JUDGE_MAIN_STORY_06": {
     "earned": false,
     "earned_time": 0
   },
-  "The Final Nail": {
+  "JUDGE_MAIN_STORY_06_HIDDEN": {
     "earned": false,
     "earned_time": 0
   },
-  "Thank You!": {
+  "JUDGE_CLEAR": {
     "earned": false,
     "earned_time": 0
   },
-  "Detective of Legend": {
+  "JUDGE_EXHARD_CLEAR": {
     "earned": false,
     "earned_time": 0
   },
-  "On the Case": {
+  "JUDGE_SIDE_CASE_A": {
     "earned": true,
     "earned_time": 1631194429
   },
-  "Local Detective": {
+  "JUDGE_SIDE_CASE_B": {
     "earned": false,
     "earned_time": 0
   },
-  "Got to the Bottom of It": {
+  "JUDGE_SIDE_CASE_ALL": {
     "earned": false,
     "earned_time": 0
   },
-  "A Friendly Guy": {
+  "JUDGE_FREND_A": {
     "earned": true,
     "earned_time": 1631293229
   },
-  "A Popular Guy": {
+  "JUDGE_FREND_B": {
     "earned": false,
     "earned_time": 0
   },
-  "A Guy Everybody Knows": {
+  "JUDGE_FREND_ALL": {
     "earned": false,
     "earned_time": 0
   },
-  "Going Steady": {
+  "JUDGE_GIRL_FREND_A": {
     "earned": false,
     "earned_time": 0
   },
-  "Ladies, Please": {
+  "JUDGE_GIRL_FREND_B": {
     "earned": false,
     "earned_time": 0
   },
-  "Now You're Just Bragging": {
+  "JUDGE_GIRL_FREND_C": {
     "earned": false,
     "earned_time": 0
   },
-  "Skill Dabbler": {
+  "JUDGE_SKILL_A": {
     "earned": true,
     "earned_time": 1630839187
   },
-  "Skill Pro": {
+  "JUDGE_SKILL_B": {
     "earned": true,
     "earned_time": 1631280367
   },
-  "Skill Master": {
+  "JUDGE_SKILL_ALL": {
     "earned": false,
     "earned_time": 0
   },
-  "KamuroGo Shopper": {
+  "JUDGE_KAMGO_SHOP_A": {
     "earned": false,
     "earned_time": 0
   },
-  "KamuroGo Trendsetter": {
+  "JUDGE_KAMGO_SHOP_B": {
     "earned": false,
     "earned_time": 0
   },
-  "KamuroGo Socialite": {
+  "JUDGE_KAMGO_SHOP_ALL": {
     "earned": false,
     "earned_time": 0
   },
-  "KamuroGo Tourist": {
+  "JUDGE_KAMGO_COMPLETE_A": {
     "earned": true,
     "earned_time": 1631089487
   },
-  "KamuroGo Local": {
+  "JUDGE_KAMGO_COMPLETE_B": {
     "earned": false,
     "earned_time": 0
   },
-  "KamuroGo Guide": {
+  "JUDGE_KAMGO_COMPLETE_ALL": {
     "earned": false,
     "earned_time": 0
   },
-  "Pawn Star": {
+  "JUDGE_SELL_ITEMS": {
     "earned": false,
     "earned_time": 0
   },
-  "Retail Therapy": {
+  "JUDGE_BUY_ITEMS": {
     "earned": false,
     "earned_time": 0
   },
-  "The Bird's the Word": {
+  "JUDGE_DRONE_OPERATOR": {
     "earned": false,
     "earned_time": 0
   },
-  "Electronic Perspective": {
+  "JUDGE_PLAYED_FPS_MODE_BY_DRONE": {
     "earned": true,
     "earned_time": 1630949620
   },
-  "Oh Look, a Cat!": {
+  "JUDGE_ALL_CATS_FOUND_IN_SEARCH_MODE": {
     "earned": false,
     "earned_time": 0
   },
-  "Zombie Apocalypse Survivor": {
+  "JUDGE_ZOMBIE_HANTER": {
     "earned": false,
     "earned_time": 0
   },
-  "Drone Champion": {
+  "JUDGE_DRONE_RACE_ALL_WIN": {
     "earned": false,
     "earned_time": 0
   },
-  "Drone Enthusiast": {
+  "JUDGE_GET_ALL_DRONE_PARTS": {
     "earned": false,
     "earned_time": 0
   },
-  "Yagami Party": {
+  "JUDGE_ALL_SUGOROKU_COURCE_CLEAR": {
     "earned": false,
     "earned_time": 0
   },
-  "The Gamer Life": {
+  "JUDGE_ALL_ARCADE_GAME_PLAYED": {
     "earned": false,
     "earned_time": 0
   },
-  "He Just Doesn't Quit": {
+  "JUDGE_TOP_IN_KAMURO": {
     "earned": false,
     "earned_time": 0
   },
-  "Pay Your Rent, Yagami": {
+  "JUDGE_EAT_ALL_OF_COOKING": {
     "earned": false,
     "earned_time": 0
   },
-  "KamuroGo Master": {
+  "JUDGE_ALL_COMPLETE": {
     "earned": false,
     "earned_time": 0
   }

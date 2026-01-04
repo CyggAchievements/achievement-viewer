@@ -3,7 +3,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "Star Studded Career": {
+  "AllMainCampaignStars": {
     "earned": false,
     "earned_time": 0
   },
@@ -11,7 +11,7 @@
     "earned": false,
     "earned_time": 0
   },
-  "Air Miles": {
+  "CoasterAirtime3": {
     "earned": false,
     "earned_time": 0
   },
@@ -27,35 +27,35 @@
     "earned": false,
     "earned_time": 0
   },
-  "Challenge Veteran": {
+  "CompleteChallenges3": {
     "earned": false,
     "earned_time": 0
   },
-  "Money Spinner": {
+  "Profit1_v2": {
     "earned": true,
     "earned_time": 1644000969
   },
-  "Marketing Mogul": {
+  "Marketing1": {
     "earned": false,
     "earned_time": 0
   },
-  "Crashing the Party": {
+  "CoasterCrash1": {
     "earned": false,
     "earned_time": 0
   },
-  "Faster than Lightning": {
+  "CoasterSpeed3": {
     "earned": false,
     "earned_time": 0
   },
-  "Jaw Dropping": {
+  "CoasterDrop2": {
     "earned": false,
     "earned_time": 0
   },
-  "The Ride of Your Life": {
+  "CoasterLength3": {
     "earned": false,
     "earned_time": 0
   },
-  "Air Raising": {
+  "CoasterAirtime2": {
     "earned": false,
     "earned_time": 0
   },
@@ -63,15 +63,15 @@
     "earned": true,
     "earned_time": 1643992150
   },
-  "A Star is Born": {
+  "OneBronzeStar": {
     "earned": true,
     "earned_time": 1644000334
   },
-  "Rising Star": {
+  "OneSilverStar": {
     "earned": true,
     "earned_time": 1644000488
   },
-  "Brightest Star in the Sky": {
+  "OneGoldStar": {
     "earned": true,
     "earned_time": 1644001010
   },
@@ -95,31 +95,31 @@
     "earned": true,
     "earned_time": 1644510007
   },
-  "Rise to the Challenge": {
+  "CompleteChallenges1": {
     "earned": false,
     "earned_time": 0
   },
-  "Challenge Experience": {
+  "CompleteChallenges2": {
     "earned": false,
     "earned_time": 0
   },
-  "Loan Survivor": {
+  "Loan1": {
     "earned": false,
     "earned_time": 0
   },
-  "Doing Your Homework": {
+  "Research1": {
     "earned": true,
     "earned_time": 1644513624
   },
-  "The Ratings Are Through the Roof!": {
+  "ParkRating1": {
     "earned": true,
     "earned_time": 1644076367
   },
-  "Salt on the Senses": {
+  "SaltOnFries": {
     "earned": false,
     "earned_time": 0
   },
-  "Investing in People": {
+  "StaffTraining": {
     "earned": false,
     "earned_time": 0
   },
@@ -127,31 +127,31 @@
     "earned": false,
     "earned_time": 0
   },
-  "Scream if You Want to Go Faster!": {
+  "CoasterSpeed1": {
     "earned": false,
     "earned_time": 0
   },
-  "Speed Freak": {
+  "CoasterSpeed2": {
     "earned": false,
     "earned_time": 0
   },
-  "A Head for Heights": {
+  "CoasterDrop1": {
     "earned": false,
     "earned_time": 0
   },
-  "Coasting Along": {
+  "CoasterLength1": {
     "earned": true,
     "earned_time": 1643991557
   },
-  "Don't Stop Me Now": {
+  "CoasterLength2": {
     "earned": false,
     "earned_time": 0
   },
-  "Hang Time": {
+  "CoasterAirtime1": {
     "earned": true,
     "earned_time": 1643998347
   },
-  "You're A Winner!": {
+  "RaceWinner": {
     "earned": false,
     "earned_time": 0
   }
