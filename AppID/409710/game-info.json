@@ -1,0 +1,595 @@
+{
+  "appid": "409710",
+  "name": "BioShock™ Remastered",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/header.jpg?t=1740443728",
+  "achievements": {
+    "ACHIEVEMENT_147": {
+      "name": "\"A Shocking Turn of Events\" - Rescuer",
+      "description": "Rescued the Little Sister in “A Shocking Turn of Events”",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/4e5402afa64a0effca63fbe1e566c1d7d8355e2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/3434f238c246b7e71dd8527b84ce893206c32bfa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_149": {
+      "name": "“A Shocking Turn of Events” – Collector",
+      "description": "Found all collectable Roses in “A Shocking Turn of Events”",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a4248f84024904f6fd801ea8a9bbfe25d0ae6113.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a079289ea2c62f294b9371101a2b8b1483f351b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_148": {
+      "name": "“A Shocking Turn of Events” – Expert",
+      "description": "The player has rescued the Little Sister in “A Shocking Turn of Events” in under 4:00",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/34f57e4204ffa5bc086553f420d316267f36fa88.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/6977964c6951c5b5fce6884993e27fec553f294e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_150": {
+      "name": "“A Shocking Turn of Events” – Master Electrician",
+      "description": "Charged up the Ferris Wheel 9 different times in “A Shocking Turn of Events”",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/98ce33db5fc41480d8e9299d5ea18e5ca3bcbdb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/e6391774b00df66a857ead943de222a3bf85770a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_145": {
+      "name": "“The ‘I’ in Team” – Collector",
+      "description": "Found all collectable Roses in “The ‘I’ in Team”",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/4e1bf42441b865cee61db61cada55e959e174938.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/06439d4bacfa3df7dfbaa5d9e49614a68a50640d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_144": {
+      "name": "“The ‘I’ in Team” – Expert",
+      "description": "Rescued the Little Sister in “The ‘I’ in Team” in under 3:00",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/19bd94a525af5f8f7fa65c9d0697b1c8b7f8ae47.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/6059a1bd01a5934dfaa71a04ea766b2da5e417a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_146": {
+      "name": "“The ‘I’ in Team” – Pacifist",
+      "description": "Rescued the Little Sister in “The ‘I’ in Team” without destroying any Machine Gun Turrets",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/ed0039200cdf64de65460f59113799df28baa4eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/d0cdab446d77506d0b37cbd579e47e49143a3222.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_143": {
+      "name": "“The ‘I’ in Team” - Rescuer",
+      "description": "Rescued the Little Sister in “The ‘I’ in Team”",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/df6986fa4cc7f3fbbc611092637e9f671d84b8a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/1be0c6c5918c8ea46c9fb03e089a54bcfdd28f77.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ACHIEVEMENT_153": {
+      "name": "“Worlds of Hurt” – Collector",
+      "description": "Found all collectable Roses in “Worlds of Hurt”",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/0acf263ccaf1e198c0350aea0638d679f69e5f78.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/834163763e3cd0577e212f21c7decc882c0848cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ACHIEVEMENT_152": {
+      "name": "“Worlds of Hurt” – Expert",
+      "description": "Rescued the Little Sister in “Worlds of Hurt” in under 15:00, on Medium or higher difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/bc2f56cde7f9fb72dd4f1b67dc0ddacd9c6e8d1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/40a92296e8c27d09b1f059ba4a580066fa3db430.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACHIEVEMENT_151": {
+      "name": "“Worlds of Hurt” - Rescuer",
+      "description": "Rescued the Little Sister in “Worlds of Hurt”",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/5256bcac62f5083bc7e4ccc5db15df3990b85d02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/adef64720ef08c34b5ef7e16f3dfd7624e0bdb2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_154": {
+      "name": "“Worlds of Hurt” – Tough Guy",
+      "description": "Rescued the Little Sister in “Worlds of Hurt” using only plasmids, tonics, the wrench, and the research camera, on Medium or higher difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/807379f40dccb6925549e613110ca7d13ad8ae6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a67dd8d21ac1dafee7b2b5095704658791555850.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "ACHIEVEMENT_200": {
+      "name": "A Man Chooses",
+      "description": "The player has beaten the game on survivor difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/0b4683fd2baf7833bc9fa6b0a3839ec511312f76.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a94b5a74a5514cb5b3e0b5f37814d479f67d5d06.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACHIEVEMENT_129": {
+      "name": "Ammo Inventor",
+      "description": "Invent all possible ammunication types",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/75724011fb40d8e15e32346e4bf7d95c7489764f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/8b591cd5a3349eb731e850450edce5d0c930c12f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "ACHIEVEMENT_128": {
+      "name": "Avid Inventor",
+      "description": "Successfully invent at least 100 items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/9e0ad61537bfcb931f46d82422fb2824d084d361.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/9a85d5e84042de65af00cd8d673bb4a87b2742d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "ACHIEVEMENT_125": {
+      "name": "Basic Inventer",
+      "description": "Invent at least one item",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/9eb8f5086a9395d86fe8096e53a88fa5086487f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/546b29aac3390ff57db3599f6250d3734d44f17a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "ACHIEVEMENT_135": {
+      "name": "Became a Big Daddy",
+      "description": "The player has become a Big Daddy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/64a05ba3ebf283e4475bf24e2333dae26e03efa2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/ed649857137a360e3020219baf2c42d0158b1a4c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "ACHIEVEMENT_96": {
+      "name": "Bought One Slot",
+      "description": "Purchase a Plasmid Slot or Tonic Slot in any track",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/e626df8bf726b047e716c7e1215d211288cca951.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/13a0b595457238c378044a5c9adb155189a3ad17.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "ACHIEVEMENT_141": {
+      "name": "Brass Balls",
+      "description": "Complete the game on Hard difficulty without using a Vita-Chamber",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/12a1557c65439006deeffe6a5649c13a87440dfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/fdb682c59b4e79094c869cf23d5c5dd3284e8ca9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Broke Fontaine's Mind Control",
+      "description": "The player has broken Fontaine's mind control",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/30261b53fe843fcf573d81c540cf4a520733da7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/95e425d24b955abc14de2f6ed566806ef57d446f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Completed Cohen's Masterpiece",
+      "description": "The player has completed Sander Cohen's great masterpiece",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/10aa51c91c431e07234bc63cca46214267887577.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/f3657993f9bfb06728d597b2195fd0429d1fd343.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "ACHIEVEMENT_7": {
+      "name": "Completed Welcome to Rapture",
+      "description": "Successfully complete the Welcome To Rapture Level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/5f0fa6f71c73e5c8d73067be81eddce2d7deda32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/e3d7c0d5c88d9975872a6c2fa6897c9f597ec978.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.5"
+    },
+    "ACHIEVEMENT_134": {
+      "name": "Dealt with every Little Sister",
+      "description": "Either Harvest or Rescue every Little Sister in the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/43a24e9f08ddc2abd3e37837825fe2d7d255ea11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/1483996342b036fbe9250146acb293e56a978b5c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Defeated Andrew Ryan",
+      "description": "The player has defeated Andrew Ryan",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/027c4e31e28bc53dc498fd2f84dfcf42eaf94e6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/caad93414f7667a8aa5095ecb450f46ef8fb7d76.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "ACHIEVEMENT_55": {
+      "name": "Defeated Atlas",
+      "description": "The player has defeated Atlas",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/46e9221f87eb4131044b6ca8263bbe58a395c609.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/44cd0dfff94b3dd4b9616e15bce05b3adcca89c6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Defeated Dr. Steinman",
+      "description": "The player has defeated the crazed J.S. Steinman",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/14266c1e3b03381b2f5a7861ce3c2770bc35615c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/899b6a2d97818a3579da24a69e6b9a53bb124fdb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.1"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Defeated Peach Wilkins",
+      "description": "The player has defeated Peach Wilkins",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/087ad085a9caee4820205b2a1ce5d8a6acf4d87a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/cd50c8c05119d1d681651ce61d47005e4f43bab8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.0"
+    },
+    "ACHIEVEMENT_102": {
+      "name": "Five Fully Upgraded Weapons",
+      "description": "Fully upgrade five weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/e4834bda14731a432743da172672d640fef131fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/54593469d522998ac931b391f5b00293f46fc101.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ACHIEVEMENT_138": {
+      "name": "Found Cohen's Room",
+      "description": "The player has entered Sander Cohen's personal quarters in Mercury Suites",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/5e3a226001cc5f9c682b18bf2e88978ea1bb5147.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/8685b165d17e00988929565aa403ab691742fd3e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "ACHIEVEMENT_101": {
+      "name": "Four Fully Upgraded Weapons",
+      "description": "Fully upgrade four weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/34d9a1e7ab161a44261d611a59cfc02d96aea04c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/ccbd4f2b6b2f11582867e781f58e3b9c4664e94c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "ACHIEVEMENT_111": {
+      "name": "Fully Researched a Bouncer",
+      "description": "Fully research the Bouncer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/8adad3763b49949141d897d520ded1d0d07e0cf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/b0d8037fc6e80a7434e8d69b03c69e4a6a29033f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACHIEVEMENT_107": {
+      "name": "Fully Researched a Houdini Splicer",
+      "description": "Fully research the Houdini Splicer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/03064cea680936e1b9d674d18a4422329e27d318.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/59dbeb8b41c555e24b2e406089298f2fe1f8f08f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACHIEVEMENT_105": {
+      "name": "Fully Researched a Leadhead Splicer",
+      "description": "Fully research the Leadhead Splicer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/ceef6434c8ab181f4b943a1e7dc26f0ae10c68af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/3415de44ff85b77672caadc93f0991c5a21b5863.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "ACHIEVEMENT_113": {
+      "name": "Fully Researched a Little Sister",
+      "description": "Fully research the Little Sister",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/0662bd6e714077001dd970b8f41975388b612947.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/f59db89e03c50dd54a6a71669eeb6a3b5208ee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "ACHIEVEMENT_108": {
+      "name": "Fully Researched a Nitro Splicer",
+      "description": "Fully research the Nitro Splicer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/e373d6b6aeb5759635a991e6ec521bf739e7665d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/37c2f5031282138b298cd7082cb263acb25e96dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACHIEVEMENT_110": {
+      "name": "Fully Researched a Rosie",
+      "description": "Fully research the Rosie",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/f3d0ff9b406e6b6ec83c40922f573627639baaf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/772182d9726f2fe7a17c7541ca2a132a76f9ab7e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ACHIEVEMENT_106": {
+      "name": "Fully Researched a Spider Splicer",
+      "description": "Fully research the Spider Splicer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/5eb0ab524f568a9791255bbdc0bc146cac2561a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/3f1a586d6b56475b8e8b260638030b145e15578e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACHIEVEMENT_104": {
+      "name": "Fully Researched a Thuggish Splicer",
+      "description": "Fully research the Thuggish Splicer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a09104402a5f8e0b26db95574551b8a46fd33d5f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/f05456826a1395c94bfbdc5c92d105e586e4c4b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "ACHIEVEMENT_123": {
+      "name": "Hacked a Safe",
+      "description": "Successfully hack a safe",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/7336db17a87b9ce87a6d3578e742ae360996a41a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/0baf60f555095d451e6fb18e145967b8d0478b1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.8"
+    },
+    "ACHIEVEMENT_119": {
+      "name": "Hacked a Security Bot",
+      "description": "Successfully hack a security bot",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/79d4d974569025a64a57ac5ad8f60f2ab028a63a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/107724c3bea6c151b2ba815fc55a376343c7a8ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.5"
+    },
+    "ACHIEVEMENT_120": {
+      "name": "Hacked a Security Camera",
+      "description": "Successfully hack a Security Camera",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/63cc31b8b603daedd2924a69ed4262ee035f8a6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/fca02536e70b37a3be23ede2ffd3e2dee225964c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.9"
+    },
+    "ACHIEVEMENT_121": {
+      "name": "Hacked a Turret",
+      "description": "Successfully hack a Turret",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/b433ca00d314d776e5182cc8b239ca3a47063a86.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/0a65855de10151afd0e33419410f5638c06b7ffd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.3"
+    },
+    "ACHIEVEMENT_122": {
+      "name": "Hacked a Vending Machine",
+      "description": "Successfully hack a Vending Machine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/3f8e539215223a3e6062d00eca9b143740855bda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/1312c80fb8a239f0aa7f70be236dfae8f3ca8222.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.7"
+    },
+    "ACHIEVEMENT_132": {
+      "name": "Historian",
+      "description": "Find every audio diary",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/c1a59c600ed9f1fe393e77794217653381b5e43d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/86b70332ca6f03ff272966f9197798537f6f1e87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_142": {
+      "name": "I Chose the Impossible",
+      "description": "Complete the game on Survivor difficulty without using a Vita-chamber",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/32ebb1df025592fab78eebff8d92a12eb8a09166.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a2d70537b413e0c1c934016cc2c09975aedfab24.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACHIEVEMENT_137": {
+      "name": "Irony",
+      "description": "The player has taken a picture of Sander Cohen's corpse",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/7618e755c3ab4cef35429eb0c51e6a1b6222535c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/68fdf47c96c48422432a507e7971ebb5649626c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ACHIEVEMENT_130": {
+      "name": "Little Sister Savior",
+      "description": "Complete the game without harvesting any Little Sisters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/acd101c88619fe8e01cbd35bb46ad1d171205d71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/198b63366d143e3a3d17abde4d7274a5a2d7bed8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "ACHIEVEMENT_136": {
+      "name": "Lucky Winner",
+      "description": "Hit the jackpot at a slot machine",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/239cec9b61d5cefaae4324bc6d8c73ac00e24731.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/087067c0f7b26f340408c8425e6d610fc08ff8e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ACHIEVEMENT_94": {
+      "name": "Maxed All Tracks",
+      "description": "Purchase every slot in all four Plasmid and Tonic tracks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/d9afcf48d93891cac1b44405b0f275f41c839180.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/9d172ea197ed382f5158f30b1cc735c259485b14.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "ACHIEVEMENT_72": {
+      "name": "Maxed One Track",
+      "description": "Purchased every slot in one of the Plasmid or Tonic tracks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a6e489f3aba829d5b7077508a1df905b7adf6222.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/3fe4a3bdcc9421aa0d597466c5bc45b811ebd28a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ACHIEVEMENT_98": {
+      "name": "One Fully Upgraded Weapon",
+      "description": "Fully upgrade one weapon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a4448d76f93b84d43a3e8895249b247c541c4e95.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/5bcb71f85f4b09b8bc1697dcef1550b1df75bf85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.5"
+    },
+    "ACHIEVEMENT_118": {
+      "name": "One Successful Hack",
+      "description": "Perform at least one successful hack",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/d3ccfc2aafff586176eb582f6fe5b7048a807bae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/691cf95c505afb3c173d7977124609d9116b21ab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.7"
+    },
+    "ACHIEVEMENT_114": {
+      "name": "Prolific Photographer",
+      "description": "Take at least one photo in every research group",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/e425a348e5f0f16a94f43d346326639893c7e709.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/aa6f610d05c55d1fbaf718d196b5ec2cb819a572.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACHIEVEMENT_116": {
+      "name": "Quality Research Photo",
+      "description": "Take a Research Photo of the highest grade",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/f1dfd0403c569e20681d82e1f9a989d3dd35300e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/948918e4fcc35173d3c51231b3e383b70a774168.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "ACHIEVEMENT_115": {
+      "name": "Research PhD",
+      "description": "Max out all possible research",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/ee33c6e3ec5c45827e81ce8921a04398e3273b0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/153e26a2e4c0b54b0a6b53e670a5eaaf6a0cb0de.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ACHIEVEMENT_117": {
+      "name": "Researched a Splicer",
+      "description": "Take at least one Research Photo of a Splicer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/113392897e54b27914ac0bc86cf00300b13261a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/bcbfd937ce5b1c0f08a7f26ec900593a010a366d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Restored the Forest",
+      "description": "The player has restored the forests of Arcadia",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/8d3b41305e82132eb71a1eb8d4329853ce98af36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/a7b59c5526695a9df56c0edc0ac59f9499104617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ACHIEVEMENT_133": {
+      "name": "Seriously Good at This",
+      "description": "Complete the game on the hardest difficulty setting",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/435357bc07233f48116bcd798f4338da82c1a873.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/98170f4b1f72ded82e01965d4aea6ceb9fc0fa73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACHIEVEMENT_124": {
+      "name": "Skilled Hacker",
+      "description": "Successfully complete 50 hacks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/259d714bec6694d8e45c6ed702926b07ec2092b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/14e8845af84ab997c32e92ce400236174db3cf4a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "ACHIEVEMENT_100": {
+      "name": "Three Fully Upgraded Weapons",
+      "description": "Fully upgrade three weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/483a6f35e722d4e89d101a9bd6fa8cbbba2a32fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/1ad0b37e9bea2bf9263e2ea43473126bfbb649f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ACHIEVEMENT_139": {
+      "name": "Toaster in the Tub",
+      "description": "Shock an enemy in the water",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/c7a071c803ebc9e6a122ba15b35d3407ae8d0038.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/fc732b97815016b5a6b62a550f19c2d5156a022b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.8"
+    },
+    "ACHIEVEMENT_131": {
+      "name": "Tonic Collector",
+      "description": "Collect or Invent 53 Tonics in the Physical, Engineering and Combat tracks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/371a8efbc6ba5e16d7248c8f883270da42096bbf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/32d03ba995ca851b0bb42b62539bac810133eaf4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "ACHIEVEMENT_99": {
+      "name": "Two Fully Upgraded Weapons",
+      "description": "Fully upgrade two weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/973c19f23157555b6c75f5a15d6ec236ea4e509c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/c05aca91a706b268b150573ededd673929ca09e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "ACHIEVEMENT_97": {
+      "name": "Upgraded a Weapon",
+      "description": "Acquire at least one weapon upgrade",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/11b9658bdaedcc06cb3f819e31769f08c44800f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/fdea216caeb3a74d50015bed162db1e3fec346d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.7"
+    },
+    "ACHIEVEMENT_103": {
+      "name": "Weapon Specialist",
+      "description": "Acquire all upgrades for all weapons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/941909f19a0f31d25dbb39ca29d4d78cc8039c3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/409710/c4448901d89b43e912c8c717e8d5711e47a0bfd6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    }
+  },
+  "platform": "PlayStation",
+  "blacklist": [],
+  "uses_db": false
+}
