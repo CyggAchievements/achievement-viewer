@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/bd8376716078f63ef42a89673a42fb4f6e824257.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "HeirBorn": {
       "name": "Heir Born",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1c904e59bca2f1b897b44cb7e4ef34bae334bfe0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "QuiteTheAdventure": {
       "name": "Smart and Resourceful",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/6fc5eba2af286babaad25357e4c6e891d0509d09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "SpoiledForChoice": {
       "name": "Spoiled For Choice",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b8df572635ae75683f43e116ef24e288e2c142fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.6"
     },
     "UnderwaterArcheologist": {
       "name": "Underwater Archeologist",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1d84fc72d0d79ad5d2e79bc9d5812787210efba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     }
   },
   "platform": "Steam",
