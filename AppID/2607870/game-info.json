@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2607870/bc9ae74cbd3ba693f662a59a315461bdf4b7c94f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "ACH_WIN_ALL_MAPS_NORMAL": {
       "name": "Hero",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2607870/ecfd7e473571931f9d73c8200e378b120c77aa19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "ACH_WIN_ALL_MAPS_MEDIUM": {
       "name": "Legend",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2607870/9b4f9e71dd3e2bbcf5acc935c4804337e3bd798a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     }
   },
   "platform": "PlayStation",

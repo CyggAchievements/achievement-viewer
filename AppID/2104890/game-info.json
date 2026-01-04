@@ -1,7 +1,7 @@
 {
   "appid": "2104890",
   "name": "RoadCraft",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/header_alt_assets_0_brazilian.jpg?t=1765883840",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/header_alt_assets_0.jpg?t=1765883840",
   "achievements": {
     "ach_47": {
       "name": "01001110 01101001 01100011 01100101",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.3"
+      "percent": "95.2"
     },
     "ach_26": {
       "name": "I Know The Pieces Fit",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.0"
     },
     "ach_63": {
       "name": "Slow Learner",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "ach_56": {
       "name": "Wilhelm scream",
