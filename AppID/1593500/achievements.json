@@ -1,146 +1,150 @@
 {
-  "Trophy of Zeus": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "1.21 Gigawatts": {
+  "ACHIEVEMENT_ALL": {
     "earned": true,
-    "earned_time": 1372962424
+    "earned_time": 1525182735
   },
-  "Rocking Out": {
+  "ACHIEVEMENT_1": {
     "earned": true,
-    "earned_time": 1372965984
+    "earned_time": 1524238743
   },
-  "Bolt Action": {
+  "ACHIEVEMENT_2": {
     "earned": true,
-    "earned_time": 1373042517
+    "earned_time": 1524250132
   },
-  "Sword Man": {
+  "ACHIEVEMENT_3": {
     "earned": true,
-    "earned_time": 1375566858
+    "earned_time": 1524390896
   },
-  "Soul Search": {
+  "ACHIEVEMENT_4": {
     "earned": true,
-    "earned_time": 1375734470
+    "earned_time": 1524479379
   },
-  "Matador": {
+  "ACHIEVEMENT_5": {
     "earned": true,
-    "earned_time": 1372965191
+    "earned_time": 1524562415
   },
-  "Scape Goat": {
+  "ACHIEVEMENT_6": {
     "earned": true,
-    "earned_time": 1375735280
+    "earned_time": 1524574318
   },
-  "Roll Over ... and Die": {
+  "ACHIEVEMENT_7": {
     "earned": true,
-    "earned_time": 1375647269
+    "earned_time": 1524582059
   },
-  "Don't They Ever Shut Up!": {
+  "ACHIEVEMENT_8": {
     "earned": true,
-    "earned_time": 1373732635
+    "earned_time": 1524842231
   },
-  "Beat a Dead Horse": {
+  "ACHIEVEMENT_9": {
     "earned": true,
-    "earned_time": 1375651465
+    "earned_time": 1524845279
   },
-  "Kickboxer": {
+  "ACHIEVEMENT_10": {
     "earned": true,
-    "earned_time": 1375739013
+    "earned_time": 1524915542
   },
-  "Rockin' the Boat": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Don't Leave Her Hanging": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Get the Ball Rolling": {
+  "ACHIEVEMENT_11": {
     "earned": true,
-    "earned_time": 1375570275
+    "earned_time": 1524932713
   },
-  "Totally Baked": {
+  "ACHIEVEMENT_12": {
     "earned": true,
-    "earned_time": 1375648597
+    "earned_time": 1525010375
   },
-  "Splash": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Get Me a Beer Kid": {
+  "ACHIEVEMENT_13": {
     "earned": true,
-    "earned_time": 1376079732
+    "earned_time": 1525016809
   },
-  "Zero Health = Bronze Trophy": {
+  "ACHIEVEMENT_14": {
     "earned": true,
-    "earned_time": 1372963205
+    "earned_time": 1524907236
   },
-  "Hitman": {
+  "ACHIEVEMENT_15": {
     "earned": true,
-    "earned_time": 1375648520
+    "earned_time": 1524311455
   },
-  "Getting My Ass Kicked": {
+  "ACHIEVEMENT_16": {
     "earned": true,
-    "earned_time": 1375650036
+    "earned_time": 1524239982
   },
-  "Kratos' Marble Collection": {
+  "ACHIEVEMENT_17": {
     "earned": true,
-    "earned_time": 1375731919
+    "earned_time": 1525100639
   },
-  "Stick it in Your Cap!": {
+  "ACHIEVEMENT_18": {
     "earned": true,
-    "earned_time": 1375740429
+    "earned_time": 1525014770
   },
-  "It's the HUGE One": {
+  "ACHIEVEMENT_19": {
     "earned": true,
-    "earned_time": 1372963151
+    "earned_time": 1524327783
   },
-  "Take the Bull by the Horns": {
+  "ACHIEVEMENT_20": {
     "earned": true,
-    "earned_time": 1375734202
+    "earned_time": 1524311509
   },
-  "God Killer": {
+  "ACHIEVEMENT_21": {
     "earned": true,
-    "earned_time": 1376083218
+    "earned_time": 1524854884
   },
-  "Head Hunter": {
+  "ACHIEVEMENT_22": {
     "earned": true,
-    "earned_time": 1375741516
+    "earned_time": 1524948621
   },
-  "The Power to Kill a God": {
+  "ACHIEVEMENT_23": {
     "earned": true,
-    "earned_time": 1375741990
+    "earned_time": 1524950012
   },
-  "Hitman 2": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Legend of the Twins": {
+  "ACHIEVEMENT_24": {
     "earned": true,
-    "earned_time": 1376164184
+    "earned_time": 1525175175
   },
-  "Seeing Red": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Prepare to be a God": {
+  "ACHIEVEMENT_25": {
     "earned": true,
-    "earned_time": 1376164108
+    "earned_time": 1525179636
   },
-  "You Got the Touch!": {
+  "ACHIEVEMENT_26": {
     "earned": true,
-    "earned_time": 1376079093
+    "earned_time": 1524491164
   },
-  "I’ll Take the Physical Challenge": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Speed of Jason McDonald": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "Key to Success": {
+  "ACHIEVEMENT_27": {
     "earned": true,
-    "earned_time": 1375733034
+    "earned_time": 1524992548
+  },
+  "ACHIEVEMENT_28": {
+    "earned": true,
+    "earned_time": 1524999202
+  },
+  "ACHIEVEMENT_29": {
+    "earned": true,
+    "earned_time": 1524950480
+  },
+  "ACHIEVEMENT_30": {
+    "earned": true,
+    "earned_time": 1525180426
+  },
+  "ACHIEVEMENT_31": {
+    "earned": true,
+    "earned_time": 1524751542
+  },
+  "ACHIEVEMENT_32": {
+    "earned": true,
+    "earned_time": 1525182735
+  },
+  "ACHIEVEMENT_33": {
+    "earned": true,
+    "earned_time": 1525093846
+  },
+  "ACHIEVEMENT_34": {
+    "earned": true,
+    "earned_time": 1525001792
+  },
+  "ACHIEVEMENT_35": {
+    "earned": true,
+    "earned_time": 1525009608
+  },
+  "ACHIEVEMENT_36": {
+    "earned": true,
+    "earned_time": 1525179364
   }
 }
