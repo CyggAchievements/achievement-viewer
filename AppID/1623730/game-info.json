@@ -1,7 +1,7 @@
 {
   "appid": "1623730",
   "name": "Palworld",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/46c7a93f68e36766853bba2ad41de54da1ff625d/header_alt_assets_3.jpg?t=1766121276",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1766121276",
   "achievements": {
     "Pal_Achievement_54": {
       "name": "A Nose for Treasure",
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/e96c44944d6a722d1fa56f84058971f86d2bb7de.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "Pal_Achievement_24": {
       "name": "All for One",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/ac497d2d8ed411d64a02254a16d376a909de19f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "Pal_Achievement_6": {
       "name": "Beginning of the Legend",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3c96c9096981d6294b791fadfd737e459c4927e8.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "Pal_Achievement_31": {
       "name": "Blood and Iron",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/a405d83f3ed68e18fecec3adc42a29a0887c7324.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "Pal_Achievement_28": {
       "name": "Champion of the Palpagos Islands",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/1c8074278f73364c75c0d7bdc2b331cad6bb2096.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "Pal_Achievement_20": {
       "name": "Dark Knight of Legend",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/4124fff11c2a8d6bce6cb85a856ca294b3795a72.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "Pal_Achievement_15": {
       "name": "Exceptional Pal Tamer",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/f719f2864d6ae3da1858c8d5db4bd53be1a4b139.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "Pal_Achievement_40": {
       "name": "Freshman Surveyor",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/982ef0d29bf5edaca781e3b94f751c39e625edb8.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "Pal_Achievement_1": {
       "name": "Hillside Sovereign",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/22b42db0dd58e2b49eb4a208b8a22702afc3cd70.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "Pal_Achievement_14": {
       "name": "Incarnation of the Eternal Flame",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/873efeab09c76d86a2567c181fb8a95f8d3f4744.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "Pal_Achievement_41": {
       "name": "Junior Surveyor",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3456010dd838ccc1d1bad3c3625f1339a72f5f0f.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "Pal_Achievement_57": {
       "name": "King of Salvation",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/9437780e2f0431e3f2fbc8cda7749f9f13ff811b.jpg",
       "hidden": true,
       "group": "Update 6",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "Pal_Achievement_18": {
       "name": "Legendary Celestial Dragon",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/b3a0c89db4ab17c1129025b913b8c670fc2d0761.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "Pal_Achievement_38": {
       "name": "Novice Pal Dispatcher",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/1435e920d4a6181482412ddd70c90a7ae16cd35b.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "Pal_Achievement_16": {
       "name": "Overhunting",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/e8ef321401694fe69a462addff85c8e590163969.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "Pal_Achievement_43": {
       "name": "Predator Hunter",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/ccd6fa1b9c96efdde0a91df4add94a133fded555.jpg",
       "hidden": true,
       "group": "Update 4",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "Pal_Achievement_55": {
       "name": "Rookie Pal Slayer",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/087e1016479d1dc1d4a9a1062ac86cb1502eac23.jpg",
       "hidden": true,
       "group": "Update 5",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "Pal_Achievement_46": {
       "name": "Seasoned Angler",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/4ac207eefd45a1aa5534ba7ef2355f337c51d7d4.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "Pal_Achievement_49": {
       "name": "Silver Champ",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/02d774c1bbf88ba1a023b71381b179c60a6cfc9d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "Pal_Achievement_32": {
       "name": "Sovereign of the Feybreak Realm",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/ca960963581db1b69c7ada2aa185cb936321fda9.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "Pal_Achievement_22": {
       "name": "Trail of the Castaway",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/5ed8acd1e447cb7f6892621482f3f35310efa79e.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "Pal_Achievement_53": {
       "name": "Unstoppable Streak",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1623730/3c1563349e7b1e2d8cc4208e6b23cd00c5a4b88c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     }
   },
   "platform": "Steam",

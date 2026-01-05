@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244950/451d8a013cd663f86612320cb4080cb29aa564d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "ACHIEVEMENT_COMPLETE_E2_C1": {
       "name": "Came, Sawed, Conquered",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244950/8651263f069a089952f1997e28c2f09720a8b25c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_WIN_HAND_OF_TOADSHAMBO": {
       "name": "Dealt a Lucky Hand",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244950/b5a92a3a30a17ed59f443f6945580b3df600069e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.9"
     },
     "ACHIEVEMENT_X_COMBAT_A_RANKS": {
       "name": "Straight-A Student",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244950/3276115eb694da0e439be56fd5e3ab7f4d7def4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACHIEVEMENT_ESCAPE_TOPIAN_UNDER_X_MINUTES": {
       "name": "The Purge",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244950/7ce2d5d2750ea8139166ff6f30c154fa41a5d53e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "ACHIEVEMENT_REPAIRED_SHIP_NO_REBOOTS": {
       "name": "Toad it Off & On Again",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1244950/7f159eba98404efd896586a794201b4b56e1d0b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.5"
     },
     "ACHIEVEMENT_SURRENDER_TO_TOPIANS": {
       "name": "You're Dead, You Ding-Dongs!",
