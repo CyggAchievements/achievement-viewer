@@ -314,6 +314,7 @@
   "Outlaws_Ach_9": {
     "description": "Discover all planet areas",
     "displayName": "Adventure and excitement",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767639745
   }
 }
