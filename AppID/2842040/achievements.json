@@ -7,7 +7,8 @@
   "Outlaws_Ach_10": {
     "description": "Buy an item from a merchant's VIP stock",
     "displayName": "Give me the good stuff",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767644787
   },
   "Outlaws_Ach_11": {
     "description": "Acquire the Disruptor gear set",
@@ -78,7 +79,8 @@
   "Outlaws_Ach_22": {
     "description": "Cheat and win a Sabacc game against Lando",
     "displayName": "No such thing as luck",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767644669
   },
   "Outlaws_Ach_23": {
     "description": "Get a high score in an arcade game",
