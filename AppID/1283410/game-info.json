@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/9f2ffe3f3a605d697bdfc0df6762cfe0e85cfa38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.5"
     },
     "Collect20Iron": {
       "name": "Collect Iron Ore",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/bfb4b484f5adf3f457274dd03acbf8698cdc2eae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.7"
+      "percent": "89.6"
     },
     "CompleteHunterFaction": {
       "name": "Complete Ranger Faction",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/17154126661b69c0c89d869c2ab67ef04309abf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "Kill25Bugs": {
       "name": "Defeat 25 Grubs",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/1b6abc6903ede4a8b9fcdbcf2c9fd0e00ceff6e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "DefeatGrubBuster": {
       "name": "Defeat the Grub Buster",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/f87c87d2bc628aa2c2037c9f3784ca717107918d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "CollectAllStatues": {
       "name": "Return the Statues",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/0e3ce351ed5ededf685240a74988cc8d08ead83b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.8"
+      "percent": "40.7"
     },
     "GetTHWeapon": {
       "name": "Two Handed Weapon",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/1041d4bed88e958aa97039f1b8078fe5322f4536.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "59.9"
     }
   },
   "platform": "PlayStation",
