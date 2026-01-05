@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/43a91c3b0174a1be23f9e93773e7c6e3445ec529.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "37_JustParry": {
       "name": "Agile Gladiator",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/b773b9b6b9a4e745eb922b01e16d9b9fd8ca696c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.6"
     },
     "36_JustEvade": {
       "name": "Battlefield Martial Artist",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/b5050c5c26ea17caa18bf5e4e065cd0b860620c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "39_CharKill_BetaSkill": {
       "name": "Naytiba Hunter",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/16577751adcc82ba33b963cdb1e4507c82bdc737.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     }
   },
   "platform": "Steam",

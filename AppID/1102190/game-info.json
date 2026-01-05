@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/d1ae536404fec99a7ae070d0922f3e169e8db8ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "ACH_SPELL_BIG_DAMAGE": {
       "name": "All Brain, No Brawn",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/e9f746d51654abe7273b454ab91cbfc242bb9101.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "ACH_CLASS4_LEVEL5": {
       "name": "Guardian of the Styx",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/1e3795de07a2c477ebcabb82712485142c3dfc99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "ACH_DEFEAT_BIGBOSS1_VARIANT_EARLY": {
       "name": "Ta-ta Talos",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/1aab294de7a09f53b715b65c2ec00890e50eadac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.9"
+      "percent": "87.0"
     }
   },
   "platform": "Steam",

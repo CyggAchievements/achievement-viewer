@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f6f4a0c0f4b7736c6f33c6dd29b8eda10913ba9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ONE_PUNCH": {
       "name": "One punch",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/557d2a398c8c580905dc4b42ebe7e608bebf5314.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "READY_FOR_BATTLE": {
       "name": "Ready for battle",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/e353607d0daf75064d93df020f8c8caa8ed1981f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.5"
+      "percent": "67.6"
     },
     "SCOOPER": {
       "name": "Scooper",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/9c10650868ae95a0eb24fdfa0e931a32534c4fda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "51.9"
     },
     "YOU_SHALL_NOT_PASS": {
       "name": "You shall not pass!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f4105eed5440dff450b007613985b063d411668f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.5"
     }
   },
   "platform": "Steam",

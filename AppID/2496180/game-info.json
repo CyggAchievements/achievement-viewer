@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/23e660fff64e7c504e34b898bc0d0dde3433cb4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.4"
     },
     "Last_Collectable": {
       "name": "Collector",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/727681f9c196f619a99edfcc3b0b4bdff97795a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "Weaver_Complete": {
       "name": "Dark Disclosure",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/600f946949f2316d10c65cec8975771f6ac27607.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.2"
     },
     "Flat2_Complete": {
       "name": "Divine Intervention",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/fa43fe9e5d5e3239a63d64150d88467b7a19a50e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.5"
     },
     "Epilogue_Complete": {
       "name": "Final Curtain",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/d22ba8133318c7588ebaf40bd1b62d715c8371cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "Flat1_Complete": {
       "name": "High Rise Hardware",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/3115a10224952e9eb2d88294869bb903e41b9e50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "60.1"
     },
     "Mid_Collectable": {
       "name": "Hobbyist",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/308577a10e3466125095d529950f24e3989340cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.4"
     },
     "First_Collectable": {
       "name": "Novice",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/fa9c12e7cfaa2c591c7d36e46de2bfc3438d2e2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.9"
+      "percent": "76.7"
     },
     "Underground_Complete": {
       "name": "Off the Rails",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/4255e15bfe7dfd7746fa9417143b9d9a524fc698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.6"
     },
     "Black_Doorway_Complete": {
       "name": "Redemption",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/490ef88c07d28758a73c2814e5c059126ad82c47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "Theatre_Flashback_Complete": {
       "name": "Stage Fright",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/84c1c916ccd8a7b0a2f45697d4990c204164f491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.1"
+      "percent": "87.8"
     }
   },
   "platform": "Steam",
