@@ -33,7 +33,8 @@
   "Outlaws_Ach_15": {
     "description": "Reach maximum reputation with the Hutt Cartel",
     "displayName": "What you see is what you get",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767643780
   },
   "Outlaws_Ach_16": {
     "description": "Reach maximum reputation with the Ashiga Clan",
