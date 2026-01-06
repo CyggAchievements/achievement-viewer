@@ -221,7 +221,8 @@
   "Outlaws_Ach_45": {
     "description": "Liberate the original Super Viper Droid",
     "displayName": "Spiked",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767732636
   },
   "Outlaws_Ach_46": {
     "description": "Complete all main quests on Akiva",
