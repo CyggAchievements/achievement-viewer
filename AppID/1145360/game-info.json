@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/b7c76cc4b66e34f402827320e75b4dc029a82b54.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "AchGreaterCallSpurned": {
       "name": "Bad Call",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/f8a9c89952662a15f4b0e7b44f09ef14eb79f72c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "AchPickedManyBoons": {
       "name": "Blessed by the Gods",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/383e6ad31e9220702766ec8d241eaacc32c480e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "AchMirrorUpgradeClears": {
       "name": "Dark Reflections",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/6cd96e67dc6bb32b95fcd6ffbab9cfa4aed4f268.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "AchCrushedThanatos": {
       "name": "Death Dealer",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/0c11f316f61f451afee1d8aa32a2f3e86a5c7556.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "AchClearAsphodel": {
       "name": "Escaped Asphodel",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/8c6f2d9c0f260b491306c43c59e651a63d9ded4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "AchClearTartarus": {
       "name": "Escaped Tartarus",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4c936bef605fe82e00145c7b37287a13cd690af3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.4"
+      "percent": "82.3"
     },
     "AchLeveledKeepsakes": {
       "name": "Friends Forever",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/4816a943b9819ff3c41637d02d6d007626295283.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "AchPactUpgradesClears": {
       "name": "Harsh Conditions",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/32d7dfaf32cbfe2b66b4c229820aaa585d5f03e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "AchClearAnyRun": {
       "name": "Is There No Escape?",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/82503cdccf3c215bb576d5ad46b8e2a3fb686112.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.3"
     },
     "AchWeaponClears": {
       "name": "Master of Arms",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/960cf10648d010198f5702b6a85c7c2d4e721b3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.5"
     },
     "AchNyxChaosReunion": {
       "name": "Night and Darkness",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/17dda5279c9827fa7f73ff10351de0c6995f4cd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "AchReachedEpilogue": {
       "name": "One for the Ages",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/f3a8943fccd7b910a274876d503dd28f13474929.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.6"
     },
     "AchSkellyKills": {
       "name": "Skelly Slayer",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/d906f027d0660ddf293dde23d61e50986e8af1a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "AchSilverSkellyTrophy": {
       "name": "Skelly's Last Lamentations",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7f28d8f536199e50ca7be805c23823d35ef97cd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "AchEliteAttributeKills": {
       "name": "Slashed Benefits",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/73ac4c443921b62bd3ddd9697fecb165d6e709fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "AchPurgedLegendBoon": {
       "name": "Thanks, But No Thanks",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/250a486032b2de409cb9425da20b1f82bdb4d61f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "AchCerberusPets": {
       "name": "Three-Headed Boy",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7afc7adee8813f8905e99526255633f7f904e3ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "AchWellShopItems": {
       "name": "Well Stocked",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/13a8384c7167c517b8a9bea743af722dbd1b1cbb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "AchOlympiansCodex": {
       "name": "Well Versed",
