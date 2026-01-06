@@ -1,6 +1,6 @@
 {
   "appid": "292030",
-  "name": "Відьмак 3: Дикий гін",
+  "name": "The Witcher 3: Wild Hunt",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1765462356",
   "achievements": {
     "FRIEND_IN_NEED": {
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/5c617bc94010e4bb7d23eb0db50108a5f2cf233e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.4"
     },
     "EP1_8": {
       "name": "Can Quit Anytime I Want",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/93ae2c276206d0996af7642447937edfb61b72d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "EP2_10": {
       "name": "Dressed to Kill",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/ff1d6abba9cc160bca253bf104cee24f3729bbb4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "GERALT_AND_FRIENDS": {
       "name": "Geralt and Friends",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/05a5acce6fcd8109ee0d0347659c2f150a90c7d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "THE_PROFESSIONAL": {
       "name": "Geralt: The Professional",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/1e9b6f363ae3da0b725e730d8a694182483d5631.jpg",
       "hidden": true,
       "group": "The Witcher 3: Wild Hunt - Hearts of Stone",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "PASSED_THE_TRIAL": {
       "name": "Passed the Trial",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/bb97d70c40da71cdf38b1485cf549c128ba073fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "SOMETHING_MORE": {
       "name": "Something More",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/623f3f8eca35da6aba96d116a5e4ad23e654a3ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "THE_EVILEST_THING": {
       "name": "That Is the Evilest Thing",

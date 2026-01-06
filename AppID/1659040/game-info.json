@@ -1,7 +1,7 @@
 {
   "appid": "1659040",
   "name": "HITMAN World of Assassination",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/3b6274a8341565597f41ab756285f56a20d99b5e/header_alt_assets_17.jpg?t=1767616149",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/3b6274a8341565597f41ab756285f56a20d99b5e/header_alt_assets_17.jpg?t=1767643206",
   "achievements": {
     "ACH_82": {
       "name": "A Long Time Coming",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/1e331b2cdf66853e4f4de402cea7453c2786c5dc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "ACH_51": {
       "name": "Break the Bank",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/f90c711ffbaab6dbb6c7d0bcfccee521c7fdc2ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "ACH_25": {
       "name": "Death of the Party",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/afeb3f4027644a48c2e1115e72d534a9571a8f64.jpg",
       "hidden": false,
       "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "ACH_64": {
       "name": "Pirate Hunter",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/17a982709dbb15b6d4272c5026831289ff1def56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "54.1"
     },
     "ACH_48": {
       "name": "Seven Figures",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/52b9364e4d9be82d6634e4b0f0163898fa4620a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "ACH_1": {
       "name": "The Result of Previous Training",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/63208155cad76d7b9d20fddb9e17a632b9060885.jpg",
       "hidden": false,
       "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "ACH_75": {
       "name": "Too Big to Fail",

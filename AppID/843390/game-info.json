@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/1eb654352103dfdadf84ca89f611ea007e1bd8d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "ACH_GET_GUN": {
       "name": "Armed and Dangerous",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/cef57d14f2040a08a80e0c3e57f6f59fca74b540.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "ACH_LOWHEALTH": {
       "name": "Close Call",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/961c6da1e509a595008332acc3bef33b3e050f39.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.2"
     },
     "ACH_VORTEX": {
       "name": "Forseen Consequences",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/3336b72e4d6b62a435886d7371dbadbb734f6da5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.7"
+      "percent": "67.6"
     },
     "ACH_NODEATHS": {
       "name": "Immortal",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/5506fdcd0c5664fd9539ffea04fcaa6a331b2ca4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.4"
+      "percent": "69.3"
     },
     "ACH_ROBOTKILLS_500": {
       "name": "Terminator",
