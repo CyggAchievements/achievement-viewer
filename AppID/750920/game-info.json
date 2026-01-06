@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/517cb0c4332e8207392f2cf60f044a040a1ce919.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "BetterEquipped": {
       "name": "Better Equipped",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/78b5f0dd1467200ddc2c89a5ce4457d88c43568c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.6"
     },
     "camouflage": {
       "name": "First Blood",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/bd8376716078f63ef42a89673a42fb4f6e824257.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "HeirBorn": {
       "name": "Heir Born",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/e106541fb34f1fed6971fcc286da8141efd26e17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.0"
     },
     "HowlLong": {
       "name": "Howl Long",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/e1817d7d4375c92925659e5a886a20ef5bad2423.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.1"
     },
     "TheLesserEvil": {
       "name": "Quite the Adventure",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/7f909e0928b7de782d3e77a52e96d6ecb01ec9d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "Rapids": {
       "name": "Rapids",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/9f03988cf178e3412a2613a21c176f6f4e543393.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "Specialized": {
       "name": "Specialized",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/6fc5eba2af286babaad25357e4c6e891d0509d09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "SpoiledForChoice": {
       "name": "Spoiled For Choice",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/d4de8dcc691fd4ca7ed81d3e53a25427b6c4aa4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "TheChosenOne": {
       "name": "The Chosen One",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1d84fc72d0d79ad5d2e79bc9d5812787210efba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.4"
     }
   },
   "platform": "Steam",
