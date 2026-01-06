@@ -8,6 +8,7 @@ on:
         required: false
         type: string
         default: 'push'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -53,8 +54,8 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           GITHUB_SHA: ${{ github.sha }}
           GITHUB_BEFORE: ${{ github.event.before }}
-          # Set TRIGGER_SOURCE based on workflow inputs
-          TRIGGER_SOURCE: ${{ inputs.trigger_source }}
+          # Set TRIGGER_SOURCE: 'manual' if workflow_dispatch, otherwise use the input (defaults to 'push')
+          TRIGGER_SOURCE: ${{ github.event_name == 'workflow_dispatch' && 'manual' || inputs.trigger_source }}
         run: python /tmp/scripts/fetch_game_data.py
 
       - name: Commit changes
