@@ -2,7 +2,431 @@
   "appid": "524220",
   "name": "NieR:Automata™",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1760991364",
-  "achievements": {},
+  "achievements": {
+    "ACH_CLEAR_B": {
+      "name": "A New Battle Begins",
+      "description": "Achieve ending B.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/91df4ff96e60f0f0434afd1105c82a59dddb20a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.9"
+    },
+    "ACH_FISHING": {
+      "name": "A Round by the Pond",
+      "description": "20 different kinds of fish caught.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/08f09efe530ca0dc577b3808a7d7a94a936df655.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ACH_HACKING_KILL": {
+      "name": "A Scanner's Power",
+      "description": "100 machine lifeforms destroyed by hacking.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/a8077834157c6407d5855157d0a902f5415edf07.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "ACH_ANIMAL_RUN": {
+      "name": "Animal Rider",
+      "description": "Any animal ridden for 5 kilometers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/6985b5f0ff4c7b03aa8e652015e548d72198c575.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "ACH_CLEAR_A2": {
+      "name": "Beautiful World",
+      "description": "Achieve A2's ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/c36712e0b97b65ee1ecb027db8e3ff8798d3bb55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "ACH_RECOVERY_CORPSE": {
+      "name": "Cherish Our Resources",
+      "description": "Have 100 bodies collected.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/1940860e6bd542954652853f5fbbe8bcd58fbac4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.3"
+    },
+    "ACH_COLLECT_CHIP": {
+      "name": "Chip Collector",
+      "description": "80% of all plug-in chips collected.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/c8600b37d39a3d09ba4730a480d4ea5c87790a22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "ACH_EMILE_SHOP": {
+      "name": "Come Take a Look!",
+      "description": "Emil's shop used for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/99f6388ed11b885d386eb979a2a8736290a4a235.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "ACH_CLEAR_ALIEN_SHIP": {
+      "name": "Creation and Insurrection",
+      "description": "Complete the alien ship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/52cadba291448ae488147c0a31e9ffddd64adab7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACH_DEVOLA_NOVEL_END": {
+      "name": "Crime and Punishment",
+      "description": "Watch the final moments of Devola and Popola.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/9eb6d496221f65495a09764d3ae1ec453f12208f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACH_RICH_MAN": {
+      "name": "Desire Without Emotion",
+      "description": "At least 100,000 G in possession.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/e899966832c71f405fc33a0e0302212efc66ee5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACH_COLLECT_EM_LIST": {
+      "name": "Destruction is My Job",
+      "description": "80% of all unit data unlocked.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/8048ddee99c03defd4562520d28bc4445938bda0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "ACH_LAST_REQUEST_PASCAL": {
+      "name": "Farewell, Pascal",
+      "description": "Grant Pascal's final request.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/392b60acb70e7d048edbd4de5cfb5bb39ccc524c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "ACH_CLEAR_HACKING_9S": {
+      "name": "Fighting's Not My Thing",
+      "description": "Play your first hacking game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/aa7810edbe2376ebe0456f553bd3d33a139bd539.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "ACH_SEE_2B_DIE": {
+      "name": "Final Wish",
+      "description": "Watch 2B die.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/9337b450a269e175ac5c96606237f7b5cedf52e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "ACH_CLEAR_QUEST_FIRST_TIME": {
+      "name": "First Errand",
+      "description": "Complete your first quest.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/f31eb13d16a028fb3de23f5623955b8441e57c7c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.2"
+    },
+    "ACH_EXTRACTION": {
+      "name": "Harvest King",
+      "description": "Materials gathered at a hidden harvest point 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/7434e8cf28fa79d62acf02c37359155c42223bef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "ACH_COLLECT_ARCHIVE": {
+      "name": "Information Master",
+      "description": "80% of all archives found.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/8d536964d4eabac2027adfc2705661fea25ede6b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACH_WEAPON_LV_MAX_ALL": {
+      "name": "Inorganic Blade",
+      "description": "All weapons upgraded to the highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/54bf4e0bef1e06348ccc291d1e87d49ce58e63db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACH_CLEAR_ROBOT_MT": {
+      "name": "Iron Soul",
+      "description": "Complete the abandoned factory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/80808a96458c14f827bb66a12c1ef0a5c877b9d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "ACH_CLEAR_DESERT_AREA": {
+      "name": "It's a Healthy Baby Boy!",
+      "description": "Complete the desert area.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/9c038749e650134ddbe142a76c7a920e98947a82.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.8"
+    },
+    "ACH_KILL_ROBOT_BROTHER": {
+      "name": "Justice",
+      "description": "Stop all resource recovery units.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/c81d259248687088bc59cdb50a668434bbb1e246.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "ACH_CLEAR_9S": {
+      "name": "Leaving for the New World",
+      "description": "Achieve 9S's ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/f92c92e085c3d6edec542f25b3561d8eb810c5d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ACH_CALL_AT_KAINES_ROOM": {
+      "name": "Lunar Tear",
+      "description": "The place of memories has been visited.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/6b6e361e2917f8996a39b977b8df7a8fc640729d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACH_REMOTO_KILL": {
+      "name": "Machines vs. Machines",
+      "description": "50 machine lifeforms destroyed by remote control.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/ac4bc0d5ea71c94f14b5b6d18c7aee30804fff55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ACH_KILL_EM1010": {
+      "name": "Naughty Children",
+      "description": "Emil destroyed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/6e29e9ce653df1b4f4e51778df371f40851e409c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "ACH_PANTS": {
+      "name": "Not That I Mind...",
+      "description": "1 hour played with 9S in a certain state.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/31aef58a56f5e92d65437f17718c3dd01c54cf56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACH_CLEAR_A": {
+      "name": "One Battle Ends",
+      "description": "Achieve ending A.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5172a623c717e83a83c41b52f52e9b39077f0289.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.0"
+    },
+    "ACH_GET_ALL_POD": {
+      "name": "Pod Hunter",
+      "description": "All Pods found.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/1f40b92b07294e7c25ef3b1d19dfb14f452e662c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ACH_VISITED_BUNKER": {
+      "name": "Resuscitated Body",
+      "description": "Stare into space from the Bunker.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/3396a4732f6c521900195182eadc9c523988e271.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.0"
+    },
+    "ACH_CLEAR_SUBMERGE_CITY": {
+      "name": "Ruler of the Deep",
+      "description": "Complete the flooded city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/6af7569b29b4f6f2b62f4a8d4b3be6f25183e8da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.6"
+    },
+    "ACH_SHOOTING": {
+      "name": "Ruler of the Skies",
+      "description": "255 enemies destroyed using a flight unit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/ed342c90ae36c5655e9e5ff2bef89162a5af8f62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.2"
+    },
+    "ACH_POD_LV_MAX_ALL": {
+      "name": "Supreme Support Weapons",
+      "description": "All Pods upgraded to the highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/254d29f9ddf775427dec4ea2e2456ee32100f0bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACH_RECOVERY_SELF_CORPSE": {
+      "name": "The Circle of Death",
+      "description": "Have your body collected.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/076ec7fa27bb95797b07da45c3b65af5c3a447a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "ACH_CLEAR_CASTLE_FOREST": {
+      "name": "The Mechanical Kingdom",
+      "description": "Complete the forest castle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/f57deb02acdf63c9cf9adc21abb5a3158db77cfa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.9"
+    },
+    "ACH_CLEAR_MANY_QUEST": {
+      "name": "The Mercenary",
+      "description": "80% of all quests completed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/bbdd00f461406cbf64726d753dac5f3abe066ef8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "ACH_TRUE_END": {
+      "name": "The Minds That Emerged",
+      "description": "View the final credits.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/2989eb6c7f2918ecfc7c756e401a271c17157c74.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "ACH_BERSERKER_KILL": {
+      "name": "The Power of Hate",
+      "description": "50 machine lifeforms destroyed with berserk mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/ca0c9026a53cc307519c09b43b198823bd4a28b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ACH_CLEAR_COPY_CITY": {
+      "name": "Those Who Love Humans",
+      "description": "Complete the copied city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/ef85393debcb1c87e0f48f50b8afd89305d65c73.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.0"
+    },
+    "ACH_WEAPON_LV_MAX": {
+      "name": "Tools of the Trade",
+      "description": "Any weapon upgraded to the highest level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/6bd93e150b03f8de3c857e3589a4e92eed0b03cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "ACH_BAD_END": {
+      "name": "Transcendent Being",
+      "description": "All endings achieved.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5649159a9e23e6f490360e0de38dd65da1fa9fdb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ACH_PLAY_A2_FIRST_TIME": {
+      "name": "Treacherous Blade",
+      "description": "Control A2 for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/f8bbe8253972c94d1692dcc3733e98f37c0fd92e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "ACH_VISITED_RUINS_CITY": {
+      "name": "Vestiges of Prosperity",
+      "description": "Arrive at the city ruins.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/a68518be86868a69b68d64b9720d65a33068713f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.4"
+    },
+    "ACH_NPC_KILL": {
+      "name": "Wait! Don't Kill Me!",
+      "description": "10 friendly machine lifeforms destroyed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/41b7f8c6625f9a566c625b49f1c6cc8314202aad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "ACH_CLEAR_AMUSEMENT_PARK": {
+      "name": "We Await Your Next Visit",
+      "description": "Complete the amusement park ruins.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/e028dca2f5773e58e6a36c0bbb5e3dfc4de1806a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.9"
+    },
+    "ACH_HAS_ALL_ACTIVE_SKILL": {
+      "name": "Weapons Maniac",
+      "description": "All Pod programs obtained.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/bd78a999e5b0eea50d60e7e1158a93a58d82a517.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACH_SKIRT_ESCAPE": {
+      "name": "What Are You Doing?",
+      "description": "2B's secret discovered 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/bf5e3ee4db9b1cd77223e1f30657325fda93b9f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.6"
+    }
+  },
   "platform": "Steam",
   "blacklist": [],
   "uses_db": false

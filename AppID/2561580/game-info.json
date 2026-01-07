@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/9ed2f04f66097dd09098713e7236eff360682695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "5dismountstrikes": {
       "name": "5 Dismount Strikes",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/6d0f0cb53d7e5f661ced06ddc1725f934d8b9ca6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "allactivitiescompleted": {
       "name": "All Activities completed",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/3f61d096eaa7ca1b56d7371c5f6a2c2823a04c02.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "allcoresoverridden": {
       "name": "All Cores Overridden",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/f803c74ef51649d2ab6092992ea4348dbf66203f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "firstancientvesselfound": {
       "name": "First Ancient Vessel found",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/76f5e2b678ad59f78a05ef36acbf262e4cc71d80.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "firstbanditcampcleared": {
       "name": "First Bandit Camp cleared",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/db583e6a9609340a9349ece60d5a9837947c9097.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.9"
     },
     "firstcorruptedzonecleared": {
       "name": "First Corrupted Zone cleared",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/a332eff90b1edd940306d933ac3482d7888f0694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "killed10frostclaws": {
       "name": "Killed 10 Frostclaws",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/9d56281b859da99358266a9a9deb418975ffe4eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "toreoff10components": {
       "name": "Tore off 10 components",

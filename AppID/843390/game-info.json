@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/e187cc77ed19a1c2b4366187412c3c4299cfac7f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "ACH_JOINCHURCH": {
       "name": "Anti-Antifa",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/1eb654352103dfdadf84ca89f611ea007e1bd8d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "ACH_GET_GUN": {
       "name": "Armed and Dangerous",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/cef57d14f2040a08a80e0c3e57f6f59fca74b540.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "ACH_LOWHEALTH": {
       "name": "Close Call",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/f876353ecef677165ab3a55e125f0f261ab822cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "ACH_FINGERGUN": {
       "name": "Deadly Digit",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/961c6da1e509a595008332acc3bef33b3e050f39.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "ACH_VORTEX": {
       "name": "Forseen Consequences",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/3336b72e4d6b62a435886d7371dbadbb734f6da5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.7"
     },
     "ACH_NODEATHS": {
       "name": "Immortal",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/19e6fd06def28dd8cf22a91431f6f0fe5437a157.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ACH_KILLGHRONTO": {
       "name": "Revolution",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/5011fccd125d485b60ce5ec73aaa619e84f8cdef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "ACH_SACRILEGE": {
       "name": "Sacrilege",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/788554b3382210979aba37bff60fde2fcd6e812f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "ACH_ANNIHILATORMKI": {
       "name": "Super Shotgun",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/5506fdcd0c5664fd9539ffea04fcaa6a331b2ca4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.4"
     },
     "ACH_ROBOTKILLS_500": {
       "name": "Terminator",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/23de30f2128601e994e0963f7725d946608219fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "ACH_ALIENKILLS_100": {
       "name": "Xenocide",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/542f6da0d0011768487282eb0e01663eb142095f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     }
   },
   "platform": "Steam",

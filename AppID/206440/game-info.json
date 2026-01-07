@@ -2,7 +2,17 @@
   "appid": "206440",
   "name": "To the Moon",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/header.jpg?t=1760622861",
-  "achievements": {},
+  "achievements": {
+    "ACH_DEBUG_MOON": {
+      "name": "\"Wish Granted\"",
+      "description": "Send Johnny to the Moon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/206440/45f30af066061beda28b04d10400ea550416193c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/206440/e9690592d6392489585fd2731661c417af47f573.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.7"
+    }
+  },
   "platform": "Steam",
   "blacklist": [],
   "uses_db": false
