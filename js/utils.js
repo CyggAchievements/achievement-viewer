@@ -61,7 +61,7 @@ export async function fetchAllForks(owner, repo) {
   if (cached) {
     try {
       const { time, data } = JSON.parse(cached);
-      // If cache is fresh (less than 10 mins old), use it!
+      // If cache is fresh (less than 30 mins old), use it!
       if (Date.now() - time < CACHE_TTL && data) return data;
     } catch (e) {
       // ignore parse errors
@@ -81,4 +81,43 @@ export async function fetchAllForks(owner, repo) {
   // Save to cache
   localStorage.setItem(CACHE_KEY, JSON.stringify({ time: Date.now(), data: forks }));
   return forks;
+}
+
+// ==========================================
+// CACHE CLEANUP
+// ==========================================
+
+// Clean up old caches not matching current user
+export function cleanOldCaches() {
+    const currentUser = getGitHubUserInfo().username;
+    const cacheVersion = 'v2'; // Should match CACHE_VERSION in GameLoader.js
+    const currentCacheKey = `game-data-cache-${cacheVersion}-${currentUser}`;
+    const currentTimestampKey = `game-data-last-updated-${cacheVersion}-${currentUser}`;
+    
+    let cleaned = 0;
+    const keysToRemove = [];
+    
+    // Collect keys to remove (can't modify localStorage during iteration)
+    for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        
+        // Remove old cache data keys
+        if (key && key.startsWith('game-data-cache-') && key !== currentCacheKey) {
+            keysToRemove.push(key);
+        }
+        // Remove old timestamp keys
+        if (key && key.startsWith('game-data-last-updated-') && key !== currentTimestampKey) {
+            keysToRemove.push(key);
+        }
+    }
+    
+    // Remove collected keys
+    keysToRemove.forEach(key => {
+        localStorage.removeItem(key);
+        cleaned++;
+    });
+    
+    if (cleaned > 0) {
+        console.log(`✓ Cleaned ${cleaned} old cache entries from other users`);
+    }
 }
