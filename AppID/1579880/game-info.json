@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/e73efcab812d6d7f49590c0804126442cf7755ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.0"
+      "percent": "49.1"
     },
     "ACHIEVEMENT_NAME_SPECIAL_GUN_COCKER": {
       "name": "Cocked & Loaded",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/f4607eafdd2a162f1e9ff77249a498320342f60c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ACHIEVEMENT_NAME_STATS_GUNSHOTS_LANDED": {
       "name": "Eagle Eye",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/18f7195f19052317d7552ecc59d9de3437ae0cbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.5"
     },
     "ACHIEVEMENT_NAME_STATS_TRAVELDISTANCE": {
       "name": "Endless Pilgrimage",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/9b6c1014fe702f5206ab18ae79a6c1ad183f6431.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "ACHIEVEMENT_NAME_SPECIAL_HYPNO_KILL": {
       "name": "Hypnotic Kill",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/cf26572028e622af3bd69831d8db41c820b39a47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACHIEVEMENT_NAME_IRONIC_SNIPER": {
       "name": "Ironically Sniped",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/bb98c5f514b429a25605b1adcaedcffa1c819279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "ACHIEVEMENT_NAME_IRONIC_MAGE": {
       "name": "Ironically Spelled",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/a79706826b16df7de3602f62103b28c381c6828d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.1"
+      "percent": "90.2"
     },
     "ACHIEVEMENT_NAME_STATS_COINS": {
       "name": "Penny Pincher",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/d5d6ebdc413b272951832083a8f76ec655c0f62a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.0"
+      "percent": "92.1"
     },
     "ACHIEVEMENT_NAME_ACTION_ENEMY_WEAPON_KILL": {
       "name": "Resourceful Kill",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/84bc22cbfb26a358d03a71b938af74a74382cfca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "ACHIEVEMENT_NAME_STATS_HEADSHOTS": {
       "name": "Sharpshooter",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/b13f9c23ad00fafc4f73ad227548ee09e4d63243.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "ACHIEVEMENT_NAME_STORE_SELLOUT": {
       "name": "Spendthrift",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/f9614cc28f09ae20b6a4c4a7c8ba1f2828ee054e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.7"
     }
   },
   "platform": "Steam",

@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/85030f0473eab1cba910aa2eed9f8029f42d4f4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "FREEBIE_LOVER": {
       "name": "Freebie Lover",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f97df32aebfd7ed1f79e6119613c171296b2e5b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "LAST_MAN_STANDING": {
       "name": "Last man standing",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/020b2390a198e64d562de4c545bd07e16a040d4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "LONG_WAY_HOME": {
       "name": "Long way home",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/e353607d0daf75064d93df020f8c8caa8ed1981f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.5"
     },
     "SCOOPER": {
       "name": "Scooper",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f13614f869bc3171cf7bb37c4e1766b7c57b63f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "TREASURER": {
       "name": "Treasurer",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/9c10650868ae95a0eb24fdfa0e931a32534c4fda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "YOU_SHALL_NOT_PASS": {
       "name": "You shall not pass!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f4105eed5440dff450b007613985b063d411668f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.4"
     }
   },
   "platform": "Steam",

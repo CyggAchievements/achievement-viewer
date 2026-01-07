@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/78b5f0dd1467200ddc2c89a5ce4457d88c43568c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.7"
+      "percent": "64.6"
     },
     "camouflage": {
       "name": "First Blood",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/bd8376716078f63ef42a89673a42fb4f6e824257.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "HeirBorn": {
       "name": "Heir Born",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/7f909e0928b7de782d3e77a52e96d6ecb01ec9d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "Rapids": {
       "name": "Rapids",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1c904e59bca2f1b897b44cb7e4ef34bae334bfe0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "QuiteTheAdventure": {
       "name": "Smart and Resourceful",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/6fc5eba2af286babaad25357e4c6e891d0509d09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "SpoiledForChoice": {
       "name": "Spoiled For Choice",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/d4de8dcc691fd4ca7ed81d3e53a25427b6c4aa4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "TheChosenOne": {
       "name": "The Chosen One",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b8df572635ae75683f43e116ef24e288e2c142fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.5"
     },
     "UnderwaterArcheologist": {
       "name": "Underwater Archeologist",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1d84fc72d0d79ad5d2e79bc9d5812787210efba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.4"
     }
   },
   "platform": "Steam",
