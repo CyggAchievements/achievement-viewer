@@ -11,3 +11,5 @@ jobs:
       contents: write
     uses: ./.github/workflows/fetch-game-data.yml
     secrets: inherit
+    with:
+      trigger_source: ${{ github.event_name == 'schedule' && 'scheduled' || 'manual' }}

@@ -14,6 +14,18 @@ import hashlib
 # --- Constants & environment --- #
 STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
 EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
+TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")
+
+# NEW: Detect GitHub Pages URL for fallback icon
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")  # Format: "owner/repo"
+if GITHUB_REPOSITORY:
+    owner, repo = GITHUB_REPOSITORY.split("/")
+    FALLBACK_ICON_URL = f"https://{owner}.github.io/{repo}/default_icon.png"
+else:
+    # Fallback if not running in GitHub Actions
+    FALLBACK_ICON_URL = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Crect width='64' height='64' fill='%233d5a6c'/%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dy='.3em' fill='%23c7d5e0' font-size='24'%3E%3F%3C/text%3E%3C/svg%3E"
+
+print(f"Using fallback icon URL: {FALLBACK_ICON_URL}")
 
 appid_dir = Path("AppID")
 game_data_path = Path("game-data.json")
@@ -390,12 +402,25 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
         else:
             # No API Key -> Use SteamHunters data
             achievements = sh_data if 'sh_data' in locals() else []
-            # Fix icons for SH data if needed
+        
+        # Fix icons for ALL achievements (both from API and SteamHunters)
+        try:
             for ach in achievements:
-                if not ach["icon"].startswith("http"):
-                    ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
-                if not ach["icongray"].startswith("http"):
-                    ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
+                # Safely handle icon
+                if ach.get("icon"):
+                    if not ach["icon"].startswith("http"):
+                        ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
+                else:
+                    ach["icon"] = FALLBACK_ICON_URL
+        
+                # Safely handle icongray
+                if ach.get("icongray"):
+                    if not ach["icongray"].startswith("http"):
+                        ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
+                else:
+                    ach["icongray"] = FALLBACK_ICON_URL
+        except Exception as e:
+            print(f"  ⚠ Error fixing icon URLs: {e}")
 
         for ach in achievements:
             api_name = ach["name"]
@@ -441,19 +466,19 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                 hidden_achievements.append(api_name)
 
     except Exception as e:
-        print(f"Error fetching schema achievements for {appid}: {e}")
+        print(f"  ✗ Error fetching schema achievements for {appid}: {e}")
 
     return achievements_info, hidden_achievements, achievement_names_map
 
 
 # --- Determine AppIDs to process --- #
 
-# Process all games for scheduled or manual triggers
-if EVENT_NAME in ("schedule", "workflow_dispatch"):
+# FIXED: Process all games ONLY for scheduled runs or explicit manual trigger
+if EVENT_NAME == "schedule" or (EVENT_NAME == "workflow_dispatch" and TRIGGER_SOURCE == "manual"):
     appids = [f.name for f in appid_dir.iterdir() if f.is_dir() and f.name.isdigit()]
-    print(f"Processing all {len(appids)} games (Reason: {EVENT_NAME} trigger)")
+    print(f"Processing all {len(appids)} games (Reason: {EVENT_NAME} trigger with source: {TRIGGER_SOURCE or 'scheduled'})")
 
-# Process changed games only for other triggers
+# Process changed games only for push events or workflow calls triggered by push
 else:
     appids = get_changed_appids()
     if appids:
@@ -540,6 +565,27 @@ for appid in appids:
     achievements, hidden_achievements, achievement_names_map = fetch_achievements(
         appid, existing_info, achievements_from_xml
     )
+    
+    # Skip games with 0 achievements (similar to skip file behavior)
+    if len(achievements) == 0:
+        print(f"  ! Steam returned 0 achievements, skipping data fetch for {appid}")
+        existing_info = load_json_file(base_path / "game-info.json")
+        achievements_data, file_type = load_achievements_file(base_path)
+        
+        if existing_info and achievements_data:
+            existing_info["platform"] = current_platform
+            existing_info["blacklist"] = current_blacklist
+            
+            existing_game_data[str(appid)] = {
+                "appid": str(appid),
+                "info": existing_info,
+                "achievements": achievements_data,
+            }
+            print(f"  ✓ Existing data preserved with platform: {current_platform}")
+        else:
+            print(f"  ✗ Could not load existing info/achievements for game {appid} with 0 achievements")
+        continue
+    
     game_info["achievements"].update(achievements)
     print(f"  ✓ Merged {len(achievements)} achievements")
 

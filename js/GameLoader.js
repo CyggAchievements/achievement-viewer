@@ -4,10 +4,11 @@ let userInfo = getGitHubUserInfo();
 let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
 export const gamesData = new Map();
 
-// Smart cache management
-const CACHE_VERSION = 'v2'; // Increment this to force cache refresh
-const CACHE_TIMESTAMP_KEY = `game-data-last-updated-${CACHE_VERSION}`;
-const CACHE_DATA_KEY = `game-data-cache-${CACHE_VERSION}`;
+// Smart cache management - NOW USER-SPECIFIC!
+const CACHE_VERSION = 'v2';
+// ✅ FIX: Include username in cache keys
+const CACHE_TIMESTAMP_KEY = `game-data-last-updated-${CACHE_VERSION}-${userInfo.username}`;
+const CACHE_DATA_KEY = `game-data-cache-${CACHE_VERSION}-${userInfo.username}`;
 const CACHE_MAX_AGE = 60 * 60 * 1000; // 1 hour - fallback if fetch fails
 
 async function loadGameDataWithCache() {
@@ -19,30 +20,26 @@ async function loadGameDataWithCache() {
         let needsFullFetch = true;
 
         // 1. SMART CHECK: Fetch only the first 200 bytes to check the timestamp
-        // This avoids downloading the full 5MB+ file if nothing changed.
         try {
             const partialResponse = await fetch(baseUrl + 'game-data.json', {
-                headers: { 'Range': 'bytes=0-200' }, // Request only the beginning
+                headers: { 'Range': 'bytes=0-200' },
                 cache: 'no-cache'
             });
 
-            // Status 206 means the server respected the Partial Content request
             if (partialResponse.status === 206) {
                 const text = await partialResponse.text();
-                // Regex to find "last_updated": 1234567890 at the start of the file
                 const match = text.match(/"last_updated":\s*(\d+)/);
 
                 if (match && match[1]) {
                     const serverTimestamp = match[1];
                     
                     if (cachedTimestamp && cachedGames && serverTimestamp === cachedTimestamp) {
-                        console.log('✓ Smart check: Timestamp unchanged, using cache.');
+                        console.log(`✓ Smart check: Timestamp unchanged for ${userInfo.username}, using cache.`);
                         return JSON.parse(cachedGames);
                     }
-                    console.log(`✓ Smart check: Update detected (Old: ${cachedTimestamp}, New: ${serverTimestamp})`);
+                    console.log(`✓ Smart check: Update detected for ${userInfo.username} (Old: ${cachedTimestamp}, New: ${serverTimestamp})`);
                 }
             } 
-            // If status is 200, the server ignored Range and sent the whole file (rare but possible)
             else if (partialResponse.status === 200) {
                 console.log('ℹ Server ignored Range request, processing full response...');
                 data = await partialResponse.json();
@@ -54,14 +51,14 @@ async function loadGameDataWithCache() {
 
         // 2. Full Fetch (only if smart check found an update or failed)
         if (needsFullFetch) {
-            console.log('Fetching full game data...');
-        const dataResponse = await fetch(baseUrl + 'game-data.json', {
-            cache: 'no-cache'
-        });
-        
-        if (!dataResponse.ok) {
-            throw new Error('Failed to fetch game-data.json');
-        }
+            console.log(`Fetching full game data for ${userInfo.username}...`);
+            const dataResponse = await fetch(baseUrl + 'game-data.json', {
+                cache: 'no-cache'
+            });
+            
+            if (!dataResponse.ok) {
+                throw new Error('Failed to fetch game-data.json');
+            }
             data = await dataResponse.json();
         }
         
@@ -69,20 +66,18 @@ async function loadGameDataWithCache() {
         let games, lastUpdated, isNewFormat;
         
         if (Array.isArray(data)) {
-            // Old format - no timestamp
             console.log('Using old format game-data.json (no timestamp)');
             games = data;
             lastUpdated = null;
             isNewFormat = false;
         } else if (data.games && Array.isArray(data.games)) {
-            // New format with timestamp
             games = data.games;
             lastUpdated = data.last_updated;
             isNewFormat = true;
             
             if (lastUpdated) {
                 const updateDate = new Date(lastUpdated * 1000);
-                console.log(`Game data last updated: ${updateDate.toLocaleString()}`);
+                console.log(`Game data for ${userInfo.username} last updated: ${updateDate.toLocaleString()}`);
             }
         } else {
             throw new Error('Invalid game-data.json format');
@@ -90,11 +85,10 @@ async function loadGameDataWithCache() {
         
         // Update Cache (Safely)
         if (isNewFormat && lastUpdated) {
-            // Only update if it's different or we just fetched it fresh
             try {
-            localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
-            localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
-                console.log('✓ Cache updated successfully');
+                localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
+                localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
+                console.log(`✓ Cache updated successfully for ${userInfo.username}`);
             } catch (e) {
                 if (e.name === 'QuotaExceededError' || e.name === 'NS_ERROR_DOM_QUOTA_REACHED') {
                     console.warn('⚠ LocalStorage quota exceeded. Caching disabled for this session.');
@@ -109,7 +103,7 @@ async function loadGameDataWithCache() {
         return games;
         
     } catch (error) {
-        console.error('Error loading game data:', error);
+        console.error(`Error loading game data for ${userInfo.username}:`, error);
         
         // Fallback to cached data if available and not too old
         const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
@@ -120,7 +114,7 @@ async function loadGameDataWithCache() {
             const cacheAge = (now - parseInt(cachedTimestamp)) * 1000;
             
             if (cacheAge < CACHE_MAX_AGE) {
-                console.log('⚠ Using fallback cached data due to error (cache age: ' + 
+                console.log(`⚠ Using fallback cached data for ${userInfo.username} due to error (cache age: ` + 
                             Math.round(cacheAge / 60000) + ' minutes)');
                 return JSON.parse(cachedGames);
             }
@@ -129,6 +123,8 @@ async function loadGameDataWithCache() {
         throw error;
     }
 }
+
+// ... rest of your GameLoader.js code remains the same ...
 
 // Loading games from GitHub API
 export async function loadGamesFromAppIds(appIds) {
@@ -142,11 +138,9 @@ export async function loadGamesFromAppIds(appIds) {
                 <div>Loading game ${++loadedCount} of ${appIds.length}...</div>
             `;
 
-            // Try achievements.json first
             let achievementsPath = `AppID/${appId}/achievements.json`;
             let achResponse = await fetch(baseUrl + achievementsPath);
             
-            // Fallback to .db file
             if (!achResponse.ok) {
                 achievementsPath = `AppID/${appId}/${appId}.db`;
                 achResponse = await fetch(baseUrl + achievementsPath);
@@ -156,7 +150,6 @@ export async function loadGamesFromAppIds(appIds) {
 
             let achievementsData = await achResponse.json();
             
-            // Convert array format to dict
             if (Array.isArray(achievementsData)) {
                 const converted = {};
                 for (const ach of achievementsData) {
@@ -170,7 +163,6 @@ export async function loadGamesFromAppIds(appIds) {
                 achievementsData = converted;
             }
             
-            // Load game-info.json
             let gameInfo = null;
             try {
                 const infoPath = `AppID/${appId}/game-info.json`;
@@ -190,7 +182,6 @@ export async function loadGamesFromAppIds(appIds) {
     }
 }
 
-// Loading games from game-data.json
 export async function loadGamesFromData(gameDataList) {
     const loadingDiv = document.getElementById('loading');
     
@@ -207,7 +198,6 @@ export async function loadGamesFromData(gameDataList) {
     }
 }
 
-// Processing game data
 async function processGameData(appId, achievementsData, gameInfo = null) {
     appId = String(appId);
     let gameName = gameInfo?.name || `Game ${appId}`;
@@ -221,7 +211,6 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
     
     if (gameInfo && gameInfo.achievements) {
         for (let key in gameInfo.achievements) {
-            // Skip blacklisted achievements
             if (blacklist.includes(key)) {
                 console.log(`Skipping blacklisted achievement: ${key}`);
                 continue;
@@ -245,7 +234,6 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
         }
     } else {
         for (let key in achData) {
-            // Skip blacklisted achievements
             if (blacklist.includes(key)) {
                 console.log(`Skipping blacklisted achievement: ${key}`);
                 continue;
@@ -278,7 +266,6 @@ async function processGameData(appId, achievementsData, gameInfo = null) {
     });
 }
 
-// Initialization
 export async function init() {
     document.getElementById('loading').style.display = 'block';
 
@@ -287,7 +274,14 @@ export async function init() {
         baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
     }
     
-    // Fetch correct casing from GitHub API (Hub Logic)
+    // ✅ Clean up old user caches on init
+    try {
+        const { cleanOldCaches } = await import('./utils.js');
+        cleanOldCaches();
+    } catch (e) {
+        console.log('Cache cleanup skipped:', e);
+    }
+    
     try {
         if (userInfo.username !== 'User') {
             const repoResponse = await fetch(`https://api.github.com/repos/${userInfo.username}/${userInfo.repo}`);
@@ -306,7 +300,6 @@ export async function init() {
     window.githubAvatarUrl = userInfo.avatarUrl;
 
     try {
-        // Loading gamercard.html
         const cardResponse = await fetch(baseUrl + 'gamercard.html');
         if (cardResponse.ok) {
             window.gamerCardHTML = await cardResponse.text();
@@ -337,7 +330,6 @@ export async function init() {
             }
         }
 
-        // Fallback to game-data.json with smart caching
         const gameData = await loadGameDataWithCache();
         await loadGamesFromData(gameData);
         return;
