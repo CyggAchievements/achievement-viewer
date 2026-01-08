@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/590152ab360a0e794bce14ffe1e45b1a8c281f95.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACH_ACTIONS_BUTTON_MAPPING": {
       "name": "Button Architect",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/dd792f1625f3ac79ad509d6ce35256885d5103be.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "ACH_STAT_500K_Combined_Presses": {
       "name": "Button Legend",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/867ab19d6682eecfbe8d3d21f687fda51c10aa18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "ACH_STAT_50K_Combined_Presses": {
       "name": "Button Maestro",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e6aea6b5db4708a4d767af691ffb5cbdda741f69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "11.1"
     },
     "ACH_STAT_1K_Combined_Presses": {
       "name": "Button Master",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2cb1f7c0b1c762324a46e9cb7f2c22d411a9f8c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "27.0"
     },
     "ACH_STAT_100_Combined_Presses": {
       "name": "Button Newbie",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/8e5e08acfacaa2007c19be8cf40dff2130e8a040.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "30.3"
+      "percent": "30.7"
     },
     "ACH_STAT_100K_Combined_Presses": {
       "name": "Button Prodigy",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/547468af14f06d3004bd91096f36ab37c1cf47cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.7"
     },
     "ACH_STAT_500_Combined_Presses": {
       "name": "Button Rookie",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/37a8c8401e08a80eca0338b7e26ceae153af0d61.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "27.9"
+      "percent": "28.4"
     },
     "ACH_STAT_1M_Combined_Presses": {
       "name": "Button Titan",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/9413fb75b360aca7f9446d906480e9444f83a562.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "19.1"
     },
     "ACH_CLOSE_ONE": {
       "name": "Close One",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e6220dacf2fb3402b116131d0e51ec7f5201925b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.3"
     },
     "ACH_DEAD_BEGONE": {
       "name": "Dead Begone",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/3abfb12cff0c22f21dd00e80518c22c172d8d885.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "ACH_DISCO": {
       "name": "Disco Time!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/3eee4b063726dfe32ec6159b619b6bac59b0d4ab.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "19.8"
+      "percent": "20.2"
     },
     "ACH_ANNIVERSARY": {
       "name": "DSX Anniversary",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/6f2a93413426a4fa75a79cc090d501b9b6d55c9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     },
     "ACH_HAPTIC_FEEDBACK": {
       "name": "Feel the Buzz",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/680643d64338bcedc7d4ef94d04d2ee0ee75c483.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.0"
+      "percent": "6.2"
     },
     "ACH_FULL_CYCLE": {
       "name": "Full Cycle",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/7e859f3246c6801a9cd079608adad8497925baf4.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH_KONAMI_CODE": {
       "name": "Go back to your roots",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e83df4761934125e6fb5b602d7618a91127b1464.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.6"
     },
     "ACH_LIGHTS_OUT": {
       "name": "Lights Out",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/2110bee2485fa863359ca06bea7da6d808e144ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "ACH_ACTIONS_MOUSE_MAPPING": {
       "name": "Mouse Mapper",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/93e9846cfb5d751140f13fa0e6d7c897cfb90c05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "ACH_MY_STYLE": {
       "name": "My Style",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/aa3811fe1568893886bbf793c9d951980744ecca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "34.2"
     },
     "ACH_LOGGER": {
       "name": "Professional logger",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/b82f6cbaa7f1ffeecfb60a9bdc16eddfa54ee902.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "ACH_VIRTUAL_BOX": {
       "name": "Virtual Box",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/a99d84a738805e4486335d3e995c3ecf1d9af839.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.7"
     },
     "ACH_VIRTUAL_STATION": {
       "name": "Virtual Station",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/0ede676fd1278a21e3c2356ed82fb4aaf65cb268.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "28.3"
     }
   },
   "platform": "Steam",
