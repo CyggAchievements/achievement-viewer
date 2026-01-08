@@ -121,7 +121,8 @@
   "Outlaws_Ach_3": {
     "description": "Defeat 6 enemies simultaneously using Adrenaline Rush",
     "displayName": "Shoot first",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767913268
   },
   "Outlaws_Ach_30": {
     "description": "Defeat an enemy ship after doing a loop maneuver",
