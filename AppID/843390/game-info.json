@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/e187cc77ed19a1c2b4366187412c3c4299cfac7f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "ACH_JOINCHURCH": {
       "name": "Anti-Antifa",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/f876353ecef677165ab3a55e125f0f261ab822cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "ACH_FINGERGUN": {
       "name": "Deadly Digit",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/961c6da1e509a595008332acc3bef33b3e050f39.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "ACH_VORTEX": {
       "name": "Forseen Consequences",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/61017a2dbb037a708d1f38860c48dfbc89876753.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.9"
     },
     "ACH_GRAVEDIGGER": {
       "name": "Gravedigger",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/19e6fd06def28dd8cf22a91431f6f0fe5437a157.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ACH_KILLGHRONTO": {
       "name": "Revolution",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/5011fccd125d485b60ce5ec73aaa619e84f8cdef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "ACH_SACRILEGE": {
       "name": "Sacrilege",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/af96af1abeeb70bbe354f75c79b36f54ab7c454a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "ACH_SECRET_WEAPONS": {
       "name": "Secret Keeper",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/23de30f2128601e994e0963f7725d946608219fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "ACH_ALIENKILLS_100": {
       "name": "Xenocide",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/542f6da0d0011768487282eb0e01663eb142095f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     }
   },
   "platform": "Steam",
