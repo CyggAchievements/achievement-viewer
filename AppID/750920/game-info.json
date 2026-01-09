@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/bd8376716078f63ef42a89673a42fb4f6e824257.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "HeirBorn": {
       "name": "Heir Born",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/6fc5eba2af286babaad25357e4c6e891d0509d09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "SpoiledForChoice": {
       "name": "Spoiled For Choice",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1d84fc72d0d79ad5d2e79bc9d5812787210efba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.4"
     }
   },
   "platform": "Steam",

@@ -1,7 +1,7 @@
 {
   "appid": "323190",
   "name": "Frostpunk",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/abcd2bf3c275092d637d7dd98e0061dbdd2fd2da/header.jpg?t=1765218599",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/abcd2bf3c275092d637d7dd98e0061dbdd2fd2da/header.jpg?t=1767971892",
   "achievements": {
     "Builders: A for Effort": {
       "name": "A for Effort",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/323190/19a0c86247e9e00d13a4228c0e0215dec6748b30.jpg",
       "hidden": false,
       "group": "Frostpunk: On The Edge",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "Builders: Waterfront": {
       "name": "On the Waterfront",
@@ -1018,7 +1018,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/323190/ee133e4db10326d02854bbf78a5ca8fa6fadcccd.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "Economy: Worse than London": {
       "name": "Worse than London",

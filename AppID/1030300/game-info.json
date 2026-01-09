@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/3a2247d35131f1fc0730d29b392440ceea13345f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.6"
+      "percent": "88.4"
     },
     "ALL_MAPS": {
       "name": "Cartographer",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/15f25c595de1701982b97d171e369381ced4a352.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "71.7"
     },
     "COMPLETION": {
       "name": "Completion",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/f851c8d42eac15ec3765b5f0eb64fbd51f9f47cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "BELLWAYS_FULL": {
       "name": "Connected",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/e02ba52f889a714a7ef5661d312f07912d71527e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "ALL_CRESTS": {
       "name": "Consumed",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/cd7fc82d4d611968070685af221e055523c11eea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.9"
+      "percent": "90.8"
     },
     "ALL_SILK_SPOOLS": {
       "name": "Extended",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/12fcd52816573fe623f5e427ef3c97975f262c31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.4"
     },
     "PINSTRESS_WISH": {
       "name": "Fatal Resolve",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/739f88cab592b9cb2da086d2999adf5b13fab993.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "FLEAS_HALF": {
       "name": "Flea Finder",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/0e3f76a3dd29bfd2171d42e0232eebc4404f0522.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "FLEAS_ALL": {
       "name": "Fleafriend",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/00c63e08deb453ec284b83b2222e035cab9e2211.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "FIRST_WISH": {
       "name": "Granted",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/c6cec86630d601d0e5c73f009d25882f1ec70c51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.2"
+      "percent": "82.9"
     },
     "DEFEATED_PHANTOM_1": {
       "name": "Grey Ghost",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/80ce647d65b10e3575f7a0d2b76ac1129850e0b3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.6"
     },
     "CITADEL_SONG": {
       "name": "Harmonious",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/d4906884adf278b18b730b6adab7888a6170b5d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "DEFEATED_FIRST_SINNER": {
       "name": "Heretic",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/03e3ee55fd85d65ce25e4d66b3645e5c99f0b3fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "GARMOND_FINAL_QUEST": {
       "name": "Hero's Call",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/6ead0a16f77127aff450db5df6d075a938a48cb8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "JOURNAL_HALF": {
       "name": "Keen Hunter",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/1c0fd320b485062b595e6f1a338f47c50301fde6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "53.9"
     },
     "DEFEATED_GREEN_PRINCE": {
       "name": "Lamenter",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/5784a4bcfe658a2b595d5acd371e0cd25bdac39a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.0"
     },
     "DEFEATED_BELLBEAST": {
       "name": "Liberated",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/5ecfe521ca09d24601f4b0cff62b775404a56bde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.7"
+      "percent": "86.5"
     },
     "ALL_MASKS": {
       "name": "Masked",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/7b43e153a4b2a6c49f8774a906bb13cd63146172.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.3"
+      "percent": "78.0"
     },
     "FIRST_MASK": {
       "name": "Protected",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/d5c2ad265894fd7a2e4ff305a55d5268d87a40c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.0"
     },
     "ALL_SILK_HEARTS": {
       "name": "Regenerated",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/a7f80ffaa953a78e190652ec11e77c8b07ca0d38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "WHITE_FLOWER_GAINED": {
       "name": "Remembrance",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/589423606af7680b4cc5af5be195b526eaf38545.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "FIRST_SILK_SPOOL": {
       "name": "Restored",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/3320c6e3d0154d688bd3e9bf5c9f8d91d7ee9779.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "66.8"
     },
     "DEFEATED_FLOWER_QUEEN": {
       "name": "Seed",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/dcee821236ad653b6844990806c4c466b1d60ca9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "75.9"
     },
     "ENDING_E": {
       "name": "Sister of the Void",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/7cc0488ebd2e0e7a03a03752ab82c196d60899d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "SPEEDRUN_1": {
       "name": "Speedrunner",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/65c7108093f2efc39d5fc3eaddecc35675b8dfb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "STEEL_SOUL": {
       "name": "Steel Soul",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/092e058a946972dd5ba3b895f6a98cede60f069a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.1"
     },
     "SHAKRA_FINAL_QUEST": {
       "name": "Trail's End",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/429353ce716dd7f8c4a3eddc1be91147aa5fdda9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "44.8"
     },
     "JOURNAL_FULL": {
       "name": "True Hunter",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/91181ffaae2a7cbb3cc406d2904d28629bf2d8a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "DEFEATED_CORAL_KING": {
       "name": "Tyrant",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/38c54c2ec54ae7fbd56b6e0eafadca194c6e307e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "DEFEATED_LACE_2": {
       "name": "White Knight",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/ca601e6500237f90c0ff42745226de063a7d0022.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.2"
     },
     "ALL_SILK_SKILLS": {
       "name": "Woven",
