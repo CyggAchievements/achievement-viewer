@@ -307,7 +307,8 @@
   "Outlaws_Ach_6": {
     "description": "Sample all galactic street food",
     "displayName": "Galactic gourmet",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767997829
   },
   "Outlaws_Ach_7": {
     "description": "Listen to the longest sob story in the galaxy",
