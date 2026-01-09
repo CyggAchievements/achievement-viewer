@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/959c87862d225a411b43c8728817d91b22ea36e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.5"
     },
     "win-wardens": {
       "name": "Aggressor",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/c4ec77d13f882b4f0a5f5ceff53553cfd611b47d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "burn-contacts": {
       "name": "Bridge Burner",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/c3ec547bac9da999c98276e30d2d380fa679367f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "kill-with-thumper": {
       "name": "Flatlined",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/a462e5d20d0380d05c32e8c9cdeb9a2f6f0b99d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "70.0"
     },
     "jack-arm-rip": {
       "name": "Jackn't",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/e570a21c09511684babe2109e5fb1cf550146e55.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "win-pricella-without-damage": {
       "name": "Not A Scratch",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/8f16aed5649541ed8d4b91bfecb36b8fbbfbc1aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "hit-airborne-bot-with-another": {
       "name": "Shot Down",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/848d5ee5df345e730c89dc17a16a1848ad34f871.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "win-fights-without-damage": {
       "name": "Teflon",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/1af0f80b8040ffbf3b322da70a9191c417f276dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "threesam": {
       "name": "Threesam",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/bbd0cd67d6af6e406ae286ccccc7d829cf82ff21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "die": {
       "name": "YOU DED",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "32.3"
+      "percent": "32.4"
     }
   },
   "platform": "Steam",

@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/1e331b2cdf66853e4f4de402cea7453c2786c5dc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "ACH_51": {
       "name": "Break the Bank",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/9a3b2db73b8031dfc2cbc2c1119efe975cba86bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACH_49": {
       "name": "Hawkeye",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/481ec0cef1f53fa872c24318d38b08c8c3e821d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "ACH_38": {
       "name": "Master the Terroir",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/63208155cad76d7b9d20fddb9e17a632b9060885.jpg",
       "hidden": false,
       "group": "HITMAN 3 Access Pass: HITMAN 2 Standard",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "ACH_75": {
       "name": "Too Big to Fail",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1659040/6f4731128113959b5415a9a7f1dc0004f1ea4254.jpg",
       "hidden": false,
       "group": "HITMAN 3 Access Pass: HITMAN 1 Complete First Season",
-      "percent": "48.5"
+      "percent": "48.6"
     }
   },
   "platform": "Steam",

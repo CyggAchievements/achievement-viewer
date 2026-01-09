@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4353002cb39427f16c4b0492e6894a1bf83656bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.8"
     },
     "ACH038_NAME": {
       "name": "A Skilled Hand",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/089e61fbdf91da564983b7d3ad4f7f948b48b3f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "ACH008_NAME": {
       "name": "An Unwelcome Guest",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d001d7f1ee3dafa46eb3c8cebf89763fed858e87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.5"
     },
     "ACH002_NAME": {
       "name": "Back on Track",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/dd249ac1fbf32441906c81d775115cb4c24ee47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "ACH035_NAME": {
       "name": "Bullseye",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/296a7c327bdcd01cd9703790dd644d48db81945c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACH026_NAME": {
       "name": "Expert Merchant",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e8c33bd5855bf454a22626e96718fbb99ff0018a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "ACH017_NAME": {
       "name": "Flying Flee",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/900398b411c5280c6b237461052a5cb36b894e74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.4"
+      "percent": "58.3"
     },
     "ACH033_NAME": {
       "name": "Master Looter",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4a54e6432a6d6f7774d3f7363cb56864b2810ef8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.6"
     },
     "ACH023_NAME": {
       "name": "Novice Merchant",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/aa1c4971b284c889a2b1504acb681216d3cdaa54.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.2"
     },
     "ACH006_NAME": {
       "name": "Out of Tune",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/57e1b6ac7fc9fd9a94e306883592c2630ebefc11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.4"
     },
     "ACH015_NAME": {
       "name": "Part-time Adventurer",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8ffc4a6f941eb0b0969acb63a8f60d07e9088064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "64.1"
     },
     "ACH020_NAME": {
       "name": "Pet the Bloblet",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/b83dc97d59ff4d2921da1393d751855c2537a109.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "ACH022_NAME": {
       "name": "Return of the Retailer",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4ad383a6606a00c04bc28e32ad646b34f0cbb9da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "ACH013_NAME": {
       "name": "Sweet Petrichor",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/c9dc8956cd8d5442f36afc4bca337d124b21952f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "ACH007_NAME": {
       "name": "The Fallen King",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/727188021c61d7099ac2fd29bc2497c40fb66a79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ACH012_NAME": {
       "name": "Wind Slumber",
