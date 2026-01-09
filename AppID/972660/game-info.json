@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/972660/db85c6bd5614c5d7a3860050140d5b3b14e30fe8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "FIRST_GUARDIAN_TOWER": {
       "name": "First Encounter",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/972660/1e4831fa40a8ae43197602835602d01a18aee437.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "THIRD_GUARDIAN_TOWER": {
       "name": "Third Encounter",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/972660/07cc14bc4cdc7066a0eeb94b99c9ba81f4ea0694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "TWELVE_MONKEY_QUEST_COMPLETED": {
       "name": "Twelve Monkeys",
