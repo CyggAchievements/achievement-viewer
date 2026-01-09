@@ -246,7 +246,8 @@
   "Outlaws_Ach_49": {
     "description": "Destroy the Revelator",
     "displayName": "Calling in some favors",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1767995199
   },
   "Outlaws_Ach_5": {
     "description": "Collect all Nix treasures",
