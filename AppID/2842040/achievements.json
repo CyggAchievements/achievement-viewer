@@ -68,7 +68,8 @@
   "Outlaws_Ach_20": {
     "description": "Pickpocket a customer in a cantina on each planet",
     "displayName": "Easy pickings",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1768068359
   },
   "Outlaws_Ach_21": {
     "description": "Win your first fixed fathier race",
