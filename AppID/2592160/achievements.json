@@ -52,8 +52,8 @@
     "earned_time": 0
   },
   "ACH_LISTEN": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768082505
   },
   "ACH_MENTOR_FAIL": {
     "earned": false,
