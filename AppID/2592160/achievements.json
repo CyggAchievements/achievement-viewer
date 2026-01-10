@@ -76,8 +76,8 @@
     "earned_time": 0
   },
   "ACH_POWER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768084977
   },
   "ACH_SCEN_FAIL": {
     "earned": true,
