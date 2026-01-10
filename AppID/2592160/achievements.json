@@ -1,0 +1,146 @@
+{
+  "ACH_CAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CONVOY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DISPATCH_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DONUT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIRST_SHOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FRIENDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HACK_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HACK_FAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HACK_SLOW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HEAL_TWICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HERO_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HIRED": {
+    "earned": true,
+    "earned_time": 1768077923
+  },
+  "ACH_KNIFE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LISTEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MENTOR_FAIL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MENTOR_SUCCESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MERCY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PERFECT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PERFORMANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_POWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCEN_FAIL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCEN_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCEN_MODS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCEN_PERFECT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCEN_SUCCESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SECOND_CHANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STAT_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STORE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STRETCHER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SYNERGY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TIE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRUTH_HID": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRUTH_TOLD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VENGEANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VIRUS": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
