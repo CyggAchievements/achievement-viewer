@@ -1,6 +1,6 @@
 {
   "appid": "582010",
-  "name": "Monster Hunter: World",
+  "name": "モンスターハンター：ワールド",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1758246558",
   "achievements": {
     "Achievement19": {
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/c424dacafa57cefebfb5dd1ec15259ff0a5ddd12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "Achievement45": {
       "name": "I Am the Reinforcements",
