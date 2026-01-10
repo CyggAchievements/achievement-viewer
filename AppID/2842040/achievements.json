@@ -264,7 +264,8 @@
   "Outlaws_Ach_51": {
     "description": "Escape the Morenia",
     "displayName": "All out",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1768059829
   },
   "Outlaws_Ach_52": {
     "description": "Save Aksali Noll",
