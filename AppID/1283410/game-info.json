@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/aff19d8e45c241d8328a82cd1b9b5b64c1031823.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.3"
+      "percent": "78.4"
     },
     "Collect20Gold": {
       "name": "Collect Gold",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/9f2ffe3f3a605d697bdfc0df6762cfe0e85cfa38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "Collect20Iron": {
       "name": "Collect Iron Ore",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/d83ed940c891c3f721758bad3ff0529d7eea3585.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "Collect50MonsterParts": {
       "name": "Collect Monster Parts",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/81e0735a654689b72f4eed302f3528be292802a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.7"
     },
     "CompleteArenaFaction": {
       "name": "Complete Arena Faction",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/bfb4b484f5adf3f457274dd03acbf8698cdc2eae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.6"
+      "percent": "89.7"
     },
     "CompleteHunterFaction": {
       "name": "Complete Ranger Faction",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/17154126661b69c0c89d869c2ab67ef04309abf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "66.1"
     },
     "Kill25Bugs": {
       "name": "Defeat 25 Grubs",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/9f2f4dc69017904f547a7f66e93b0a5195907e70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "Kill25Mozi": {
       "name": "Defeat 25 Mozis",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/971fa9133a79b3ea0b62a8b1117b75ea8bd9e692.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "DefeatRatnorRodentson": {
       "name": "Defeat Ratnor Rodentson",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/af42e01681b15990db3631e8ad03449b25662032.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "DefeatStalkerQueen": {
       "name": "Defeat the Stalker Queen",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/01704333f0b9ae0cbbb76147dd289fa116df9bb3.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "MysteryKingsChamber": {
       "name": "Discover the mystery of the Kings Chambers",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/f047c7485a2255e0205d74816e64b17fe901c0d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "FixTheTravellersWagon": {
       "name": "Fix the Travellers Wagon",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/7d6e61fd33d2fb674549f9a10c6318ec72236dd6.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "CompleteAll": {
       "name": "King of Kings",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/98b8474c76ddc7c50085c71d8909787dd76ebaa3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.4"
     },
     "RescueBrothers": {
       "name": "Rescue Redgi's Brothers",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/63a0beb1ec24809a1e367231c88e5a6b722ed215.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "RepairSmith": {
       "name": "Smithy Ready to Craft",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/b26e27ba802d6ea588b324e67111071ed826cc9c.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "RepairThroneRoom": {
       "name": "Throne Room Fit For A King",
