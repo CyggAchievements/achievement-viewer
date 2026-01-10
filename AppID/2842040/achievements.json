@@ -257,7 +257,8 @@
   "Outlaws_Ach_50": {
     "description": "Find the Morenia",
     "displayName": "All in",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1768003722
   },
   "Outlaws_Ach_51": {
     "description": "Escape the Morenia",
