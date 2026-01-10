@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/19a458b535ce395e459d1b9be004762ca111125f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "ChelAttack": {
       "name": "Chak Attack",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/5da3e826bdf544edca42fe22b8ad8eb533f55f41.jpg",
       "hidden": true,
       "group": "Shadow of the Tomb Raider - The Path Home",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ChelGame": {
       "name": "Chel Game",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c372456d71984256602f0060bac0b9fdb3ffa07d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "DrCroft": {
       "name": "Dr. Croft",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/5b3da1e4486b7b6611fa754aece6a415db425ea5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "DressedForSuccess": {
       "name": "Dressed For Success",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/16c8554c92bc76e57ba171ce2ad376813245474b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.7"
     },
     "HeartsAndMinds": {
       "name": "Hearts and Minds",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/be703b15c68e15b785375486ffa6ac007dc106c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "LeapingLizards": {
       "name": "Leaping Lizards",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/f078f4423c2bf0fe066cdb7f86ed82f2c21cc095.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.1"
     },
     "LookThere": {
       "name": "Look, Over There!",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/d5d5dbec5796b0c21b3c535204aef358101a3f7f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "90.1"
+      "percent": "90.0"
     },
     "PlayingWithFire": {
       "name": "Playing with Fire",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/ad5be7eb5653a1534e0b58f17d251f25be3f1c55.jpg",
       "hidden": true,
       "group": "Shadow of the Tomb Raider - The Path Home",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "SixthSense": {
       "name": "Sixth Sense",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/4530c1dc49596e39847e342d7dc3d6f845ca0f21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "StingLikeABee": {
       "name": "Sting Like A Bee",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/8ceb18393a22ac97b09df3071b2c6cece62a2805.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.4"
     },
     "Thanksgiving": {
       "name": "Thanksgiving",
@@ -784,7 +784,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b45c7b2037e56856941cebc7e2beaa43e1c17926.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "22.8"
     },
     "ToTheNines": {
       "name": "To the Nines",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/760cdf540c57ce0d473c64d2c4d1ab5025e4141a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.6"
     },
     "UnwantedTenants": {
       "name": "Unwelcome Guests",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c83ad5d90ca91901c7c7ccee9f125867496a8fa6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "WholeWorldBlind": {
       "name": "Whole World Blind",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b2fef17370d6ece1faf81d3c4c1e31f081adfb5c.jpg",
       "hidden": true,
       "group": "Shadow of the Tomb Raider - The Serpent's Heart",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "ZipIt": {
       "name": "Zip It",
