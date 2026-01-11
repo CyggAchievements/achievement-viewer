@@ -124,8 +124,8 @@
     "earned_time": 1768141249
   },
   "ACH_TRAIN": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768147055
   },
   "ACH_TRUTH_HID": {
     "earned": false,
