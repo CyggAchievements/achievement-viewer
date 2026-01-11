@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/01b90e36400341f0a1b4881d039325cf3cf209d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "JUDGE_FREND_ALL": {
       "name": "A Guy Everybody Knows",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/8462a96b34d2af442b43e6da6da8994aee3a4a76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "JUDGE_MAIN_STORY_04": {
       "name": "Blowing the Lid Off",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/c15bbbca1dd46ef13f91bda0726d15ea14d47f71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "JUDGE_GIRL_FREND_A": {
       "name": "Going Steady",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/523806faefeee453731b4af823b6f36855964780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "JUDGE_SIDE_CASE_ALL": {
       "name": "Got to the Bottom of It",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/aa1c3df64448dd212df324046d4724afb0e290bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.4"
     },
     "JUDGE_SELL_ITEMS": {
       "name": "Pawn Star",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/fa017230fa262bcff931f01a38ab93e32ed466f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "JUDGE_BUY_ITEMS": {
       "name": "Retail Therapy",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/c21c34b88878adf9602eea87336d8443a73a2e0d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "JUDGE_MAIN_STORY_FIRST": {
       "name": "The Game is Afoot",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/7e45e8cb9d241bed73e4689a632df981a38d5c93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "JUDGE_MAIN_STORY_03": {
       "name": "The Kansai Factor",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2058180/df61363a0b57684e199f399fa1f444c38c1178a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "JUDGE_MAIN_STORY_01": {
       "name": "Trust Issues",

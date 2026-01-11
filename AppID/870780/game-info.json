@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/d3c2b8a98a30a53188707349470d8884d20c7b34.jpg",
       "hidden": false,
       "group": "Control - The Foundation",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "DLC2_LORE_ACHIEVEMENT": {
       "name": "In-depth Investigations",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/67bc9e0c8e9557cd90d116004ba48f126b240c10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "HISSTERICAL_ACHIEVEMENT": {
       "name": "Interdimensional Defender",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/1d21ac52cbcb498014034f65829ff62e277ff62a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "TIME_TO_DIE_ACHIEVEMENT": {
       "name": "Living Archetypes",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/61a68833c00a2cc440418f6dd69dffa7edd7a856.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "RETURN_TO_SENDER_ACHIEVEMENT": {
       "name": "Proper Handling Procedures",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/925dee7d8c6a7132b54764c526a90c444192a7e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "BUREAU_BUDDY_ACHIEVEMENT": {
       "name": "Ritual Intuition",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/b4f7d1e234e99aee794adaf3b1a88d421ef3e7ff.jpg",
       "hidden": true,
       "group": "Control - AWE",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "EXPLOSIONS_WITH_FRIENDS_ACHIEVEMENT": {
       "name": "Surge Protector",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/a94bd9afa66fb4f8a42beea4b8503d69ddf6a78c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "HELPING_HAND_ACHIEVEMENT": {
       "name": "The Importance of Synergy",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8bcab97505e673077f5a67357f9d4b20e8d1350d.jpg",
       "hidden": false,
       "group": "Control - AWE",
-      "percent": "13.5"
+      "percent": "13.6"
     }
   },
   "platform": "PlayStation",
