@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/19a458b535ce395e459d1b9be004762ca111125f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ChelAttack": {
       "name": "Chak Attack",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/5da3e826bdf544edca42fe22b8ad8eb533f55f41.jpg",
       "hidden": true,
       "group": "Shadow of the Tomb Raider - The Path Home",
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "ChelGame": {
       "name": "Chel Game",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c372456d71984256602f0060bac0b9fdb3ffa07d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.8"
+      "percent": "81.9"
     },
     "DrCroft": {
       "name": "Dr. Croft",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/5b3da1e4486b7b6611fa754aece6a415db425ea5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "DressedForSuccess": {
       "name": "Dressed For Success",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/2216e9b1c10f6134a2d42c41717f304bb910b622.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "Harmony": {
       "name": "Harmony",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/16c8554c92bc76e57ba171ce2ad376813245474b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.8"
     },
     "HeartsAndMinds": {
       "name": "Hearts and Minds",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/be703b15c68e15b785375486ffa6ac007dc106c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "LeapingLizards": {
       "name": "Leaping Lizards",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/f078f4423c2bf0fe066cdb7f86ed82f2c21cc095.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "LookThere": {
       "name": "Look, Over There!",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/d5d5dbec5796b0c21b3c535204aef358101a3f7f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "90.0"
+      "percent": "90.1"
     },
     "PlayingWithFire": {
       "name": "Playing with Fire",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/951bc57a88171a495c3efb332bcd9c35350261e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.4"
     },
     "PutHerselfTogether": {
       "name": "Put Herself Together",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1c904e59bca2f1b897b44cb7e4ef34bae334bfe0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "QuiteTheAdventure": {
       "name": "Smart and Resourceful",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/4530c1dc49596e39847e342d7dc3d6f845ca0f21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "StingLikeABee": {
       "name": "Sting Like A Bee",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/8ceb18393a22ac97b09df3071b2c6cece62a2805.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.5"
     },
     "Thanksgiving": {
       "name": "Thanksgiving",
@@ -784,7 +784,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b45c7b2037e56856941cebc7e2beaa43e1c17926.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "ToTheNines": {
       "name": "To the Nines",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/4c468db81fc0982e6e6f1147a876a38b7c50b6c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "TreasureHunter": {
       "name": "Treasure Hunter",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/b8df572635ae75683f43e116ef24e288e2c142fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.6"
     },
     "UnderwaterArcheologist": {
       "name": "Underwater Archeologist",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/760cdf540c57ce0d473c64d2c4d1ab5025e4141a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.7"
     },
     "UnwantedTenants": {
       "name": "Unwelcome Guests",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c83ad5d90ca91901c7c7ccee9f125867496a8fa6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "WholeWorldBlind": {
       "name": "Whole World Blind",
