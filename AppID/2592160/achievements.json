@@ -36,12 +36,12 @@
     "earned_time": 0
   },
   "ACH_HEAL_TWICE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768249714
   },
   "ACH_HERO_MAX": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768249183
   },
   "ACH_HIRED": {
     "earned": true,
@@ -104,8 +104,8 @@
     "earned_time": 1768144558
   },
   "ACH_STAT_MAX": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1768249183
   },
   "ACH_STORE": {
     "earned": false,
