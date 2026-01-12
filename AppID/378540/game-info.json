@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/0a05aafb60c4e0c6920aa7da2c811bb2db4e2a01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "ID_ACHIEV_64": {
       "name": "Bling-Bling",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/b7412abe50dff16aa20ac93489a4c873d29be467.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.7"
     },
     "ID_ACHIEV_65": {
       "name": "End of Transmission",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/c56a19a976539593c5a273e7beae0b0267cd950e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "ID_ACHIEV_28": {
       "name": "First Day on the Job",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/0b42225e1fe411e7868fec00abb1592237b944d3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ID_ACHIEV_06": {
       "name": "For the Good of Mankind",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/e5f94242cebce0b1c6f296649671d944cb256e01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ID_ACHIEV_26": {
       "name": "Ghost in the Machine",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/261de2502d00391344101f7db3d7ed8b7533f2f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.7"
     },
     "ID_ACHIEV_55": {
       "name": "Good Listener",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/76f434a22c467278bf805a3c32716e706be375aa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "ID_ACHIEV_58": {
       "name": "Is This Real Life?",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/fb115fa1b620691d4f5dfed3296272fdf85057a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "ID_ACHIEV_34": {
       "name": "Jack of All Trades",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/5ec1d158e3ef90ce70cb21398cc87bd65fbb0fd7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ID_ACHIEV_19": {
       "name": "Melting Down",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/14ab740d10a5320ee6d82211184e59ce3b85bf9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "ID_ACHIEV_08": {
       "name": "On My Own Two Feet",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/659c40c708651561fb933509d70d2974d6a100b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "ID_ACHIEV_18": {
       "name": "Pusher Man",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/4a72d4dca5d407fe098a6a0c750e4b79b247299d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ID_ACHIEV_20": {
       "name": "Repeat Customer",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/6ff98fc29e71cc95fb44a0adb308d5efa408d761.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "ID_ACHIEV_47": {
       "name": "Sniffing Around",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/378540/8fb1362d5c12b5123e106b054278f248e44ad832.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     }
   },
   "platform": "PlayStation",
