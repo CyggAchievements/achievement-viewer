@@ -1,7 +1,7 @@
 {
   "appid": "1363080",
   "name": "Manor Lords",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1767641253",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1768234916",
   "achievements": {
     "ACH_CHALLENGE_ACCEPTED": {
       "name": "Challenge accepted",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/486d48b0aed12ad401c14ece42258ec23fea5a1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACH_MERCENARY_CAPTAIN": {
       "name": "Mercenary Captain",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1363080/4afe8e111587767f07e55caa6790361bc6a0615a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     }
   },
   "platform": "Steam",
