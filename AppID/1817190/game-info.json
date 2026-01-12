@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/2f4ae59cba22691038ca2ff7a25662e046afab11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "crimemaster": {
       "name": "Crime Master",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/476896835a50f02b70adc23631e4d0e7485590b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "deepcuts": {
       "name": "Deep Cuts",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/b2fec75e1993fb72e73454818b6a52a68f74432b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "dodginglight": {
       "name": "Dodging Light",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cd99c545197ec17d5136863335f88ccaf9d439b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "fromdowntown": {
       "name": "From Downtown",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5e8c1c142329f9385f500380d863d596bde094b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "fromtherafters": {
       "name": "From the Rafters",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a9ab75a4b5322d8f35fd1455ad9e617bf67c6639.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.5"
     },
     "i_monaboat": {
       "name": "I'm on a Boat",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5b41be28bd09d28dc3b3eec844dbf5ba5b8ce66b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "invisiblespider": {
       "name": "Invisible Spider",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/a346695759d2fd868b078bd0f42095eb5509e01c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "kitbash": {
       "name": "Kitbash",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5636339680825e78302a2e2e79e79ae311464b14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "launch,swinganddive": {
       "name": "Launch, Swing and Dive",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/2d06ba12a4caff0a3ce83d4b05c6dc0290d718a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "neversawitcoming": {
       "name": "Never Saw It Coming",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/eb237d4cbbd5e24c6886d7eb15ae51d343bec9a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "punchingpixels": {
       "name": "Punching Pixels",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/5ad9fc3ad5d1c9824a2818906e485de4e13b76f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     },
     "thecoreoftheproblem": {
       "name": "The Core of the Problem",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/55a51a78de1666a97790e8a11f23717999180db4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "truedeception": {
       "name": "True Deception",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/ee2daa3b4a664fe6f4e34436244968f81c75d2a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "undertheirnoses": {
       "name": "Under Their Noses",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/fc72915fdd9c4c347e28b5867c259b5dfa45b860.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "68.0"
     }
   },
   "platform": "PlayStation",
