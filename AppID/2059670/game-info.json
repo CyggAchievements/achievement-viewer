@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "ACH_MOSS2_BOND_4": {
       "name": "A Realm Grown Complacent",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.7"
     },
     "ACH_MOSS2_ENEMY_SCORCHER": {
       "name": "High Noon",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.7"
     }
   },
   "platform": "Steam",
