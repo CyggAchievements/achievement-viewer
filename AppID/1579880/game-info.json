@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/2f0dd294c0252efcad57cef97237f97accf78234.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.7"
     },
     "ACHIEVEMENT_NAME_PROGRESS_BOSS_1": {
       "name": "Altair's End",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/e73efcab812d6d7f49590c0804126442cf7755ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "ACHIEVEMENT_NAME_SPECIAL_GUN_COCKER": {
       "name": "Cocked & Loaded",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/18f7195f19052317d7552ecc59d9de3437ae0cbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.3"
+      "percent": "63.4"
     },
     "ACHIEVEMENT_NAME_STATS_TRAVELDISTANCE": {
       "name": "Endless Pilgrimage",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/0d12a01fa8a2f2aa4ce15e6ebe31c9ba85336e99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.7"
     },
     "ACHIEVEMENT_NAME_PROGRESS_RESCUE": {
       "name": "Savior of Light",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/84bc22cbfb26a358d03a71b938af74a74382cfca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.9"
     },
     "ACHIEVEMENT_NAME_STATS_HEADSHOTS": {
       "name": "Sharpshooter",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/e895584ba3b22ec3916749abca4d4696ba9380ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ACHIEVEMENT_NAME_RUN_NO_MISS": {
       "name": "Steady Hands",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/f9614cc28f09ae20b6a4c4a7c8ba1f2828ee054e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.6"
     }
   },
   "platform": "Steam",
