@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/7bbcb996d1a5f7c4f11ec1b0ad5a63a55c4d3cc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "ok_cutscenes": {
       "name": "Can Do!",
@@ -245,6 +245,14 @@
       "hidden": false,
       "group": "Update 2",
       "percent": "0.7"
+    },
+    "aca_book3": {
+      "name": "Double Trouble (Upcoming)",
+      "description": " ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Update 4"
     },
     "co_wind_turbine": {
       "name": "Energy From Above",
@@ -622,7 +630,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/471344407045dd2e8d42f60e3092f760d47157c3.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Missouri",
-      "percent": "0.4"
+      "percent": "0.3"
     },
     "ar_paper": {
       "name": "Paper Trail",
@@ -658,7 +666,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/fe61e029b10b55ef5c7809818469ef739a5031a1.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Louisiana",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "ia_live_pigs": {
       "name": "Piggy Express",
@@ -694,7 +702,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/34667ac3c8893dd672cc672a85b72b77e7306147.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Arizona",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "mt_electric": {
       "name": "Power On!",
@@ -757,7 +765,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/9fa6f3b2004eba09f06d65c870ad46571520b76f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "wa_tunnels": {
       "name": "Seattle Mole",
@@ -802,7 +810,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/a54b557f7567cf9b7600c4a0698cb2f39d37a417.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Missouri",
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "nv_visit_cities": {
       "name": "Silver State",
@@ -811,7 +819,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/d59fedbc6ff7f8715fad84604eeb16acb4dcefe3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "st_perf_job": {
       "name": "Size Matters",
@@ -892,7 +900,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/eae3c1124929c6bee4a250254c1584f112221e91.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Washington",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "or_visit_cities": {
       "name": "The Beaver State",

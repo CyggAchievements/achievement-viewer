@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/2708005c9c0b04857b37a9e356dc1bf75ceaa3a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "ACH_COMPLETEMISSION09": {
       "name": "Distortion",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/9ab8f751ea622eecf9c96643e17d67f7117c47c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "ACH_COMPLETEMISSION32": {
       "name": "Globetrotter",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/a77417fe9232ef5a44b269be3f13d6324a39d072.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "ACH_COMPLETEMISSION24": {
       "name": "High Achiever",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/1205c98cb7b63ab159d1894fe2c4dec6f18cec22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "ACH_COMPLETEMISSION16": {
       "name": "Jumping At Shadows",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/23b72492be9d12cc64309083c9f12109762b06a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "ACH_COMPLETEMISSION13": {
       "name": "Search And Destroy",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/278892f799024f7a6d0632416ad19b2d183b058f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "ACH_COMPLETEMISSION15": {
       "name": "Silence",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/86cfe9ef5627276e557a72a9c2d12fd4643a48b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.0"
     },
     "ACH_COMPLETEMISSION02": {
       "name": "Spreading Your Wings",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/9274dde068018d4c8281a82584f12b6874be1b22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "ACH_COMPLETEMISSION14": {
       "name": "Tearing Through The Dark",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/8bbd42d11b6731ff518aa7d6d19a403682eaf7a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ACH_COMPLETEMISSION26": {
       "name": "The Highest Achiever",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/502500/dc1bb84f652a31dbcaf9bdf70bebec17d2c0ae36.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     }
   },
   "platform": "Steam",
