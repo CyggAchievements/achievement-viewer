@@ -207,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 4"
+      "group": "Update 4",
+      "percent": "0.0"
     },
     "st_all_routes": {
       "name": "Driver Exceptionnel",
@@ -819,7 +820,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/227300/12f9259ddcc241a424e9d975f1f6ffcc19d16c52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "daily_profit": {
       "name": "Swimming in Success",
