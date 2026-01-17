@@ -1,7 +1,7 @@
 {
     "Expl01": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1768664866
     },
     "Expl02": {
         "earned": false,
@@ -164,8 +164,8 @@
         "earned_time": 0
     },
     "PvE13": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1768660204
     },
     "PvP01": {
         "earned": false,
