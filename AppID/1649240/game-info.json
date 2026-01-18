@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/41cb202e62a0977b7296a1f4705c6629c3f7a766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.0"
+      "percent": "82.9"
     },
     "FindLogs": {
       "name": "Alternate Fates",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/2caf39309f64ccac6d3e5c6a81425398653c4303.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "CD_Mastery": {
       "name": "Ascending the Mountain",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1427f5f8854da7d4a42ae2a3c7ca7677af0f0703.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.2"
     },
     "OnboardingComplete": {
       "name": "Atropian Survival",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dae66774cbeea488401ef1f84b71e31d01d88279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "60.9"
     },
     "KillWithSuperWeapons": {
       "name": "Destroyer",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/7d280c6b83b061dc4c68727a53843231bea4ea84.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "SW_Mastery": {
       "name": "Echoes of the Past",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1490afc0fd94177626655775b039af50c26dbe83.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.4"
     },
     "FirstDeathInTower": {
       "name": "Eternal Ascent",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/07a5e9a2f784e392b2b8df11dcc7f15b860e3a7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "FirstDeath": {
       "name": "Eternal Return",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/25d6ab45badc8ab00186ee119ab1bb349648b2ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "SecretEnding": {
       "name": "Find Release",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/0960c8912c1456b4010564684560990ab1b31762.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "AllTrophies": {
       "name": "Helios",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/cf41d94caa29f6265ab4720a75eaefcfa97d67f4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "MaxParasites": {
       "name": "Irreversibly Contaminated",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/4d1f7782f54a5531cff4be8fb6601dcb693aedec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "Act2Complete": {
       "name": "Last Drive",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1b16e0bdc16568aa8c4477d6693dcec8b9a509c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "FinishAllHouses": {
       "name": "Sins of the Mother",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e08b484774d93a717a720744417e0afae0cdc0bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "CI_Mastery": {
       "name": "Through the Forgotten City",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8c809aed0a3c37c7bdccec26416f64d59b6907c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "FinishMural": {
       "name": "Visions of the Past",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/3c929f8a45a403bfed427b0089fa7ed362e8071f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "FinishHouse": {
       "name": "Welcome Home",

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/18f7195f19052317d7552ecc59d9de3437ae0cbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.3"
     },
     "ACHIEVEMENT_NAME_STATS_TRAVELDISTANCE": {
       "name": "Endless Pilgrimage",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/753f2563cef4749ff2d16e375a38e5e7f68ada51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.7"
+      "percent": "89.6"
     },
     "ACHIEVEMENT_NAME_STATS_FORGOTRELOAD": {
       "name": "Failed Basic Training",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/bb98c5f514b429a25605b1adcaedcffa1c819279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "ACHIEVEMENT_NAME_IRONIC_MAGE": {
       "name": "Ironically Spelled",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/375891df37fb80d1ee9d325a961b4323617e7d18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "ACHIEVEMENT_NAME_RUN_ALL_HEADSHOTS": {
       "name": "Perfect Shot",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/e895584ba3b22ec3916749abca4d4696ba9380ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.3"
     },
     "ACHIEVEMENT_NAME_RUN_NO_MISS": {
       "name": "Steady Hands",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/f9614cc28f09ae20b6a4c4a7c8ba1f2828ee054e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.5"
     }
   },
   "platform": "Steam",
