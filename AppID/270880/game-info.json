@@ -252,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 4"
+      "group": "Update 4",
+      "percent": "0.0"
     },
     "co_wind_turbine": {
       "name": "Energy From Above",
@@ -666,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/fe61e029b10b55ef5c7809818469ef739a5031a1.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Louisiana",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "ia_live_pigs": {
       "name": "Piggy Express",
@@ -765,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/9fa6f3b2004eba09f06d65c870ad46571520b76f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "wa_tunnels": {
       "name": "Seattle Mole",
@@ -846,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/f7d3b638f6bc384394120c2cdf76081436a2df0d.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Arizona",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "ut_salt_lake_companies": {
       "name": "Some Like It Salty",
