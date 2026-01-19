@@ -24,8 +24,8 @@
         "earned_time": 0
     },
     "DefeatPyramidHead": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1768854103
     },
     "DefeatPyramidHeadTwins": {
         "earned": false,
@@ -88,8 +88,8 @@
         "earned_time": 0
     },
     "KillEnemiesMelee": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1768850543
     },
     "KillEnemiesRanged": {
         "earned": false,
