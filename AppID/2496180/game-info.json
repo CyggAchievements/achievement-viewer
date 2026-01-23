@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/23e660fff64e7c504e34b898bc0d0dde3433cb4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.5"
+      "percent": "65.6"
     },
     "Last_Collectable": {
       "name": "Collector",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/fa43fe9e5d5e3239a63d64150d88467b7a19a50e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "Epilogue_Complete": {
       "name": "Final Curtain",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/d22ba8133318c7588ebaf40bd1b62d715c8371cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.7"
     },
     "Flat1_Complete": {
       "name": "High Rise Hardware",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/fa9c12e7cfaa2c591c7d36e46de2bfc3438d2e2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.5"
     },
     "Underground_Complete": {
       "name": "Off the Rails",
