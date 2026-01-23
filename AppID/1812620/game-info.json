@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/76f77502417416f1d051d2a08d733e17791039f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "ACH_DEAD_BEGONE": {
       "name": "Dead Begone",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/e2d2409a4bdbe025c5f76f179fbd5b46a51707bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ACH_DISCO": {
       "name": "Disco Time!",
@@ -180,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/ab91371ffe6029ca3b637aaadeed315333d84881.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/bcb9fdbb49d50a2de322508a09cda85c26189979.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_ACTIONS_KEYBOARD_MAPPING": {
       "name": "Keymaster",
@@ -198,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/fde699bfc8ce5bc9f220fb5d51ae889c0acd956d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "ACH_LIGHTS_OUT": {
       "name": "Lights Out",
@@ -225,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/6c45c9adde07b2322b3d046965a570b3bacbda6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "ACH_MY_STYLE": {
       "name": "My Style",
@@ -287,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/22caec3393dc83dc7f78c482d144166a335da841.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/ce7095aaea7b2692b357bfff0771d8ef2c180e53.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_TRIGGER_HAPPY": {
       "name": "Trigger Happy",
