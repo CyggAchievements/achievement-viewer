@@ -92,8 +92,8 @@
         "earned_time": 1768850543
     },
     "KillEnemiesRanged": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1769280905
     },
     "LongSwimInTolucaLake": {
         "earned": false,
@@ -156,8 +156,8 @@
         "earned_time": 0
     },
     "SurvivePyramidHeadChase": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1769280462
     },
     "TryToLeaveObservationDeck": {
         "earned": false,
