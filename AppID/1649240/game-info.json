@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/37ff9e0ead9abe51a53ec56ded1158fa4acb50a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     },
     "MaxProficiency": {
       "name": "Adapting to Circumstance",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1ed9aa6799d620864580be2d37c4c131654bac30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "MaxAdrenaline": {
       "name": "Adrenaline Spike",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/0b2da429b7e0a298de36d334c8231836b13d2360.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "FinishHospital": {
       "name": "Broken, Restored, Empty",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/c0d345a1327560743446aec024d78087d3402b70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.3"
+      "percent": "84.4"
     },
     "FinishedXenoglyph": {
       "name": "Cryptic Translations",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dbd0b21b790375770dbe1acd78b1c350265dfedd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "AF_Mastery": {
       "name": "Past the Ruins",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/54d32869521ace2e9b2686d0db2d2ff1c3146ebe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.6"
     },
     "FourthBoss": {
       "name": "Silence the Song",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8d268c43d0d404dce744dea36a2846ec2d68eb30.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "UR_Mastery": {
       "name": "Submerged in Memories",

@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/eea0c29180db907a53580690203920721f641c27.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "BADEND": {
       "name": "Game Over",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/8fa8942cca67432b08b4173d2c47aae3a5990666.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "DASH": {
       "name": "You feel a tingling...",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/7cb86472537abaa638f7b05be3ebfc15878ac222.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "39.1"
     },
     "FUSE": {
       "name": "You hear a strange hum",

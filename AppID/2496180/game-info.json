@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/23e660fff64e7c504e34b898bc0d0dde3433cb4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.5"
     },
     "Last_Collectable": {
       "name": "Collector",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/d22ba8133318c7588ebaf40bd1b62d715c8371cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.6"
     },
     "Flat1_Complete": {
       "name": "High Rise Hardware",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/3115a10224952e9eb2d88294869bb903e41b9e50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.0"
     },
     "Mid_Collectable": {
       "name": "Hobbyist",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/308577a10e3466125095d529950f24e3989340cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.6"
+      "percent": "52.5"
     },
     "First_Collectable": {
       "name": "Novice",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/490ef88c07d28758a73c2814e5c059126ad82c47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "44.8"
     },
     "Theatre_Flashback_Complete": {
       "name": "Stage Fright",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/84c1c916ccd8a7b0a2f45697d4990c204164f491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.0"
+      "percent": "87.9"
     }
   },
   "platform": "Steam",
