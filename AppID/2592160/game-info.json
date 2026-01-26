@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f35b4548042299135a4b0eba3bb2cdf8f5485d11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.6"
+      "percent": "94.5"
     },
     "ACH_MENTOR_FAIL": {
       "name": "\"Didn’t see that coming?\"",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/be595d8b7666b47b80685fd189f8e489e1f568cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "ACH_MERCY": {
       "name": "\"I can confirm he’s a bad ass.\"",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/706b01766984d59a2571b15090ce2d34b4254f6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "ACH_SCEN_MODS": {
       "name": "Modded",
