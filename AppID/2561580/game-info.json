@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/c80c721573050d5b1e40b68c5b047f4c79b84d62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "allcontroltowersdisabled": {
       "name": "All Control Towers disabled",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/1c378c1804c57167c052db870c006fdc995709cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "allcorruptedzonescleared": {
       "name": "All Corrupted Zones cleared",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/f0a91318674573ca244acd97d131cb4bbc425208.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "allmetalflowersfound": {
       "name": "All Metal Flowers found",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/f19450568ff28f8ffcc4fa8292a925efc44ed43c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "allskillslearned": {
       "name": "All Skills learned",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/32863da1bcfe43b14098464ed0c6f851161c9314.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "clearedallthebanditcamps": {
       "name": "Cleared all the Bandit Camps",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/27ec6c33f7ff35830e4fa0dd9e857cf14fceee34.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.7"
     },
     "discoveredthetruth": {
       "name": "Discovered the truth",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/805de0deab677eb86f56c34e6dba12213fab1cfb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "followedrost_steachings": {
       "name": "Followed Rost's teachings",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/31deda1e708f903b7062a766c04cbe722c398c63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.9"
     },
     "newgame+completed": {
       "name": "New Game+ Completed",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/0d26fc0878300963b406ae63db3ad333d3d2e595.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "reachedlevel10": {
       "name": "Reached level 10",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/ea2bb2a15e84e9696d32c6342402bf1c8167d65a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "recoveredapowerfulweapon": {
       "name": "Recovered a powerful weapon",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/a0e4730c3791bb02b2840321269adc812310ea61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "savedmeridianfromitsfoe": {
       "name": "Saved Meridian from its foe",
