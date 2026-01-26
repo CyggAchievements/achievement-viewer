@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/967684f3b8934182f2c8bbefe53719b0f98cb898.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "FIRST_TOOL": {
       "name": "Equipped",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/08c4a92aaf8c45077859f3681a7a0952ef81c4cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "GOURMAND_WISH": {
       "name": "Glutton",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/5c44fea9f704cb1f5b1ed81eb2994f531c0bccc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "HERALD_WISH": {
       "name": "Passing of the Age",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/a7f80ffaa953a78e190652ec11e77c8b07ca0d38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "WHITE_FLOWER_GAINED": {
       "name": "Remembrance",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/62d74a694a4c5c6311b5885a2fd7196cc4ad443a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "DEFEATED_SONG_GOLEM": {
       "name": "Servant",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/38c54c2ec54ae7fbd56b6e0eafadca194c6e307e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "DEFEATED_LACE_2": {
       "name": "White Knight",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/03eb64bd3d7a4dba836eaad300c33329a50984a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     }
   },
   "platform": "Steam",

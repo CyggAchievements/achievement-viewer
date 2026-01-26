@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/941ee77250bae3edf108fd95208e13827f6bbc9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "BuildLevel3Shop": {
       "name": "Build Level 3 Shop",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/ca4762267cd77502a99a0604c7b40e1e848e1d44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "BuildLevel3Smith": {
       "name": "Build Level 3 Smith",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/191e9e6a0dde760e65403070642af29f8925c994.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "CompleteAll": {
       "name": "Collect All Medals",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/a540d701129b3242be24e550fc1a87b7165587cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "CompleteAllRiftHunts": {
       "name": "Complete Rift Hunts",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/492ef7d21a3a1c287eb45270c27495f04eebcdfe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "CraftALevel3Weapon": {
       "name": "Craft A Level 3 Weapon",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/75b103c6885c967d4d2c8b48744b594e549fe734.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "Defeat25Porcupines": {
       "name": "Defeat 25 BackStabbers",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/80a57e79dc242e0e381c87b3c214e7c4ab504432.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "Defeat25Birds": {
       "name": "Defeat 25 Birds",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9721ad156c6bd484525b70a74f959829e9c58030.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "Defeat25Centis": {
       "name": "Defeat 25 Death Marches",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/d1b3b9f185574785a8313737918efa41c362e4e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "Defeat25OwlCultists": {
       "name": "Defeat 25 Owl Cultists",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/cf68da97f45f98fe8d6b371a02388d966942e81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "DefeatHaratBlueFang": {
       "name": "Defeat Harat Bluefang",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7cb0beb3c9b82c8fe8517efaadb71c66f59defbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "FindTheMagpiesGlasses": {
       "name": "Find The Magpies Spectacles",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7bdde9879ac816dba884d5e314cd87739d2a9be2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "FlyWithBurtle": {
       "name": "Flying Turtle",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/4627a4a09b9520eddc5f3b6e399c94399438db6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "WinTheTournamentAtTheCrimsonKeep": {
       "name": "Win The Crimson Keep Tournament",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9a56f797d6ea8bb9bf74276027eca4a168730e4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     }
   },
   "platform": "Steam",
