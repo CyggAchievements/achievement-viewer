@@ -1,7 +1,7 @@
 {
   "appid": "599140",
   "name": "Graveyard Keeper",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg?t=1763648758",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg?t=1769510251",
   "achievements": {
     "necronomicon": {
       "name": "A book with funny pictures",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/f91fd951ba5e54795ebd7216182b2cbab0aff073.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "dlc_stories_barman": {
       "name": "Employee of the month",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/ffcd09ac07e48cac7650fcbd2f436a81add765e7.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Game of Crone",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "dlc_stories_first_stand_up": {
       "name": "Open mic",
@@ -1072,7 +1072,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/c9ddb093abb1872360482ac7b1086e6b5d7fd45c.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Game of Crone",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "dlc_stories_cut_scene_14": {
       "name": "Viva la King",
