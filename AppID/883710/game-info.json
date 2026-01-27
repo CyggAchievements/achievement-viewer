@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/f70fb485b16f860001f46b601010274e6e77203f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.6"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "A Hero Emerges",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/aec9f3abc08a82e4c9fef76857cc4c24a2816bf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "A Heroine Emerges",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/a0c881a8a273caa266584ebc3975489731240066.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.9"
+      "percent": "78.0"
     },
     "NEW_ACHIEVEMENT_1_26": {
       "name": "A Waist of Space",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/5109ef152d19b00fa88fbeb388b4e8f7580330d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.3"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Eat This!",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/344901183389ff857a45107de3db2392a78c54df.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "NEW_ACHIEVEMENT_1_35": {
       "name": "Sizzling Scarlet Hero",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/00656d288d73778ddebd815daae2788afed1d492.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.4"
     },
     "NEW_ACHIEVEMENT_1_10": {
       "name": "The Basics of Survival",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/66adfa87b4ffbcd3f4d6a6a425399d9f08545e15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.7"
     },
     "NEW_ACHIEVEMENT_1_1": {
       "name": "Welcome to the City of the Dead",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/883710/c7b4314571a1c614e8a2f3c29e017f13e55ca70b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     }
   },
   "platform": "Steam",
