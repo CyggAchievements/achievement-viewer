@@ -1,7 +1,7 @@
 {
   "appid": "268500",
   "name": "XCOM® 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg?t=1762201197",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg?t=1769542173",
   "achievements": {
     "Achievement_46": {
       "name": "A Better Human Being",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268500/faef04af3e74d4921798d9fbfbbda70d0099c6ae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "Achievement_71": {
       "name": "A New Alliance",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268500/faef04af3e74d4921798d9fbfbbda70d0099c6ae.jpg",
       "hidden": false,
       "group": "XCOM 2: Shen's Last Gift",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "Achievement_43": {
       "name": "Beginner's Luck",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268500/faef04af3e74d4921798d9fbfbbda70d0099c6ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "Achievement_88": {
       "name": "There's A Future In The Past",
