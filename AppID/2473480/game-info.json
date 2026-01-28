@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/941ee77250bae3edf108fd95208e13827f6bbc9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "BuildLevel3Shop": {
       "name": "Build Level 3 Shop",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/ca4762267cd77502a99a0604c7b40e1e848e1d44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "BuildLevel3Smith": {
       "name": "Build Level 3 Smith",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/191e9e6a0dde760e65403070642af29f8925c994.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.6"
     },
     "CompleteAll": {
       "name": "Collect All Medals",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/492ef7d21a3a1c287eb45270c27495f04eebcdfe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "CraftALevel3Weapon": {
       "name": "Craft A Level 3 Weapon",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9e521d2a9a6654aea652b4f917c07a5ddea45196.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "Defeat25Mudworms": {
       "name": "Defeat 25 Mudwyrms",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7cb0beb3c9b82c8fe8517efaadb71c66f59defbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "FindTheMagpiesGlasses": {
       "name": "Find The Magpies Spectacles",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/7bdde9879ac816dba884d5e314cd87739d2a9be2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "FlyWithBurtle": {
       "name": "Flying Turtle",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/4627a4a09b9520eddc5f3b6e399c94399438db6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "WinTheTournamentAtTheCrimsonKeep": {
       "name": "Win The Crimson Keep Tournament",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9a56f797d6ea8bb9bf74276027eca4a168730e4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     }
   },
   "platform": "Steam",
