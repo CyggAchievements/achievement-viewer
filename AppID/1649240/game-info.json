@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1427f5f8854da7d4a42ae2a3c7ca7677af0f0703.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "OnboardingComplete": {
       "name": "Atropian Survival",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dae66774cbeea488401ef1f84b71e31d01d88279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "61.1"
     },
     "KillWithSuperWeapons": {
       "name": "Destroyer",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/07a5e9a2f784e392b2b8df11dcc7f15b860e3a7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "FirstDeath": {
       "name": "Eternal Return",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/4d1f7782f54a5531cff4be8fb6601dcb693aedec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "Act2Complete": {
       "name": "Last Drive",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/9f4bbdc3119770dcb5830209cf631091d99bbd0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "CurseActivity": {
       "name": "Risk Assessment",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1b16e0bdc16568aa8c4477d6693dcec8b9a509c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "FinishAllHouses": {
       "name": "Sins of the Mother",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e08b484774d93a717a720744417e0afae0cdc0bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "CI_Mastery": {
       "name": "Through the Forgotten City",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8c809aed0a3c37c7bdccec26416f64d59b6907c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "FinishMural": {
       "name": "Visions of the Past",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/ec990ee8a3719a536bc12548c8857eb633ab13de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.4"
     },
     "Act3Complete": {
       "name": "White Shadow",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/a2a50d74c1bdcf59e9a320c4f7a6c7fdefab29d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     }
   },
   "platform": "PlayStation",
