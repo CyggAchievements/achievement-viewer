@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/f19450568ff28f8ffcc4fa8292a925efc44ed43c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "allskillslearned": {
       "name": "All Skills learned",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/32863da1bcfe43b14098464ed0c6f851161c9314.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "clearedallthebanditcamps": {
       "name": "Cleared all the Bandit Camps",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/1efa4775b0c4f2b737e255a06df6e03fa64561b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.7"
     },
     "foughtbackthecorruption": {
       "name": "Fought back the corruption",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/31deda1e708f903b7062a766c04cbe722c398c63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "newgame+completed": {
       "name": "New Game+ Completed",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/d7332ceb55e073adba9b0e6816df72c435b2b538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.7"
     },
     "reachedlevel40": {
       "name": "Reached level 40",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/6c0a385b1cd88dface139ca162f7aaf6b65b59b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "reachedlevel60": {
       "name": "Reached Level 60",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/a0e4730c3791bb02b2840321269adc812310ea61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "savedmeridianfromitsfoe": {
       "name": "Saved Meridian from its foe",
