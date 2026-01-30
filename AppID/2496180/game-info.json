@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/23e660fff64e7c504e34b898bc0d0dde3433cb4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.9"
     },
     "Last_Collectable": {
       "name": "Collector",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/fa43fe9e5d5e3239a63d64150d88467b7a19a50e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.2"
     },
     "Epilogue_Complete": {
       "name": "Final Curtain",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/84c1c916ccd8a7b0a2f45697d4990c204164f491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.1"
+      "percent": "88.2"
     }
   },
   "platform": "Steam",
