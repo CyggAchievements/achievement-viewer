@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/d1f3d14cf7b0b0cf8a7bb4a71a43f5c950fd982c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "BANISHMENT": {
       "name": "Banishment",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4fe01dcb8d9665de684eb7f8bda003ebfa938e82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "BLESSED": {
       "name": "Blessed",
@@ -172,7 +172,7 @@
       "icongray": "https://CyggAchievements.github.io/achievement-viewer/default_icon.png",
       "hidden": true,
       "group": "Update 3",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "COLOSSEUM_3": {
       "name": "Fool",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/549b3980b3a8d04368758d1bd59e007bf31cae1b.jpg",
       "hidden": true,
       "group": "Update 2",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "GRUBFRIEND": {
       "name": "Grubfriend",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "SOUL_MASTER_DEFEAT": {
       "name": "Illumination",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/53bbcbddf3f54a192796ae729edd1b56e9190fc0.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "METAMORPHOSIS": {
       "name": "Metamorphosis",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b5ee4828c750bcf90def63aaffe4a1b27f418efd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "DREAM_BROKEN_VESSEL": {
       "name": "Peace",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4764a78f55fbf49a82f479414a1198d182bcb43d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "COMPLETIONGG": {
       "name": "Pure Completion",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/83ad82ce253a66e89e6ee51eb37db2fd0f781e10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9a7f425e2757c29513ef86473b76fa093c9e7c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "QUIRREL_EPILOGUE": {
       "name": "Witness",
