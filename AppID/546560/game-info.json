@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/7dc3893c2f8a1fd2dce44d898731ac0de2270ce0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "TRAINING_LOOT_LIVING_SOLDIER": {
       "name": "Combine Harvester",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d25eb3d58dc2795dc0d174a2afe4e642beceeb5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "SIDE_SQUEEZE_HC_HEART": {
       "name": "Freshly Squeezed",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/4db9660b6a4bc48350b7eeb7440fc5ad7f6bde66.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "TRAINING_KILL_SOLDIER_WITH_GASTANK": {
       "name": "Pro-Pain",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/df5f35a8a8e5f1856640888dc430a6931c5d4cc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "TRACK_A2_QUARANTINE_ENTRANCE": {
       "name": "Quaranta Giorni",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/a81efb7caa4e74406fbc1312719a1eb5914427c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "TRACK_A3_HOTEL_INTERIOR_ROOFTOP": {
       "name": "Unbonded",
