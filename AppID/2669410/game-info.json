@@ -1,7 +1,7 @@
 {
   "appid": "2669410",
   "name": "Metro Awakening",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/121346be34c54e123ded376ce25c752b321937ae/header.jpg?t=1768816886",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/121346be34c54e123ded376ce25c752b321937ae/header.jpg?t=1770030023",
   "achievements": {
     "AGlitchInTheSystem": {
       "name": "A Glitch in the System",
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/d907aae00000702366c946806ccddaf2cf183dba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "AManOfGreatWorth": {
       "name": "A Man of Great Worth",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/2debcdf65c605851cfe879d26c4460c95014b1d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "TheWay": {
       "name": "The Way to a Woman’s Heart",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2669410/11f4aad47f54c19ca8fcaf977b865403c12facc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "WorldTour": {
       "name": "World Tour",

@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/07a5e9a2f784e392b2b8df11dcc7f15b860e3a7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "FirstDeath": {
       "name": "Eternal Return",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/25d6ab45badc8ab00186ee119ab1bb349648b2ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "SecretEnding": {
       "name": "Find Release",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/4d1f7782f54a5531cff4be8fb6601dcb693aedec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.5"
     },
     "Act2Complete": {
       "name": "Last Drive",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1b16e0bdc16568aa8c4477d6693dcec8b9a509c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "FinishAllHouses": {
       "name": "Sins of the Mother",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e08b484774d93a717a720744417e0afae0cdc0bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "CI_Mastery": {
       "name": "Through the Forgotten City",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8c809aed0a3c37c7bdccec26416f64d59b6907c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "FinishMural": {
       "name": "Visions of the Past",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/3c929f8a45a403bfed427b0089fa7ed362e8071f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "36.9"
     },
     "FinishHouse": {
       "name": "Welcome Home",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/a2a50d74c1bdcf59e9a320c4f7a6c7fdefab29d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     }
   },
   "platform": "PlayStation",
