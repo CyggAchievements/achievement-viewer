@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/ef2452c10629a69ef1d17d35d5cf089bd17559be.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "BecomeKing": {
       "name": "Become King",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/9f2ffe3f3a605d697bdfc0df6762cfe0e85cfa38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.5"
     },
     "Collect20Iron": {
       "name": "Collect Iron Ore",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/d83ed940c891c3f721758bad3ff0529d7eea3585.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "49.9"
     },
     "Collect50MonsterParts": {
       "name": "Collect Monster Parts",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/17154126661b69c0c89d869c2ab67ef04309abf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "65.9"
     },
     "Kill25Bugs": {
       "name": "Defeat 25 Grubs",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/9f2f4dc69017904f547a7f66e93b0a5195907e70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "Kill25Mozi": {
       "name": "Defeat 25 Mozis",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/af42e01681b15990db3631e8ad03449b25662032.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "DefeatStalkerQueen": {
       "name": "Defeat the Stalker Queen",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/01704333f0b9ae0cbbb76147dd289fa116df9bb3.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "MysteryKingsChamber": {
       "name": "Discover the mystery of the Kings Chambers",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1283410/63a0beb1ec24809a1e367231c88e5a6b722ed215.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "RepairSmith": {
       "name": "Smithy Ready to Craft",

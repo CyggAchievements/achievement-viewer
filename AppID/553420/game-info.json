@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/eef2878ae8fec3827c35bfea48b7cbc0b76fd11b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "STICK": {
       "name": "A Stick!",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/58a69e7b9a27b5966a04301bb8726be4bfb5fdd8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "HEX1": {
       "name": "Deep In The Forest",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/4215e2dcd25414c566361b8568c9598ab4c87406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "EASTBELL": {
       "name": "Ding",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/2abed2c03e5acb8efe501bd060d7f593dfc44a97.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "HEX2": {
       "name": "High Above The Clouds",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/93b00c7f3367019e11cb6131259b2846712f8207.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "FAIRY": {
       "name": "I'm free!",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/0c1e47b8616b053c85c26648aa9908e89db64a8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "GT10": {
       "name": "Phonomath",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/290db2270766aa3706b65801b03f18e07dd92c75.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "GT7": {
       "name": "Spring Falls",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/577c4c9b024cf0af2061123bc43195393b200866.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "PIGGYBANKS": {
       "name": "Too Cute To Smash",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/c3936b34736b044fcd7515a99f81cb7d7e9b4412.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "RESURRECTION": {
       "name": "What just happened?",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/f0e6c9cd820bf92c19d0ef097901a8a4c6b44490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "RELICS": {
       "name": "Your body is restored.",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/553420/f37e84ff81b6a6da2d03251c8beee25038444d1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "60.1"
     }
   },
   "platform": "Xbox",

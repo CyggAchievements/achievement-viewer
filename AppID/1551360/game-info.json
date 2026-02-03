@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/d4af7b3476dbaf23257aa322642b514c9e72e2ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "ACHIEVEMENT_140": {
       "name": "A New Era",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/03ca27c38d4729deab3bfc078fe995d11ce11004.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "ACHIEVEMENT_80": {
       "name": "Attracted to Victory",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/cec1aeff665f973a419f3df1acb5cb661a00b236.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "ACHIEVEMENT_76": {
       "name": "Beach Bomb",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/19112ad24ded460025a2a9c7e089d7899d26d71b.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ACHIEVEMENT_143": {
       "name": "Bounty Hunter",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/78b967f15eae0c6889fb5a77e9352ed54fe6b8e4.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "ACHIEVEMENT_12": {
       "name": "Far from the Mudding Crowd",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/78815d75e17ddaa5c7bab050e455d0e93e879c97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.2"
     },
     "ACHIEVEMENT_6": {
       "name": "First Love",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/46ccb9157fc104189952a4db06f58e317551e1b0.jpg",
       "hidden": false,
       "group": "Forza Horizon 5: Hot Wheels",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACHIEVEMENT_128": {
       "name": "Life Skills",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/7a6feeb8f9eb26fbbdff612e30a36b0f351d7d20.jpg",
       "hidden": false,
       "group": "Forza Horizon 5: Hot Wheels",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "ACHIEVEMENT_146": {
       "name": "Never Back Down",
@@ -946,7 +946,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/5d19755f8d7133d405fb69cdf0d2d159bd7fab39.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "ACHIEVEMENT_99": {
       "name": "Nighthawk",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/c507d8d6088f64222102aa53584b8a0b3926191a.jpg",
       "hidden": false,
       "group": "Forza Horizon 5: Hot Wheels",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ACHIEVEMENT_74": {
       "name": "Professor of Hot Wheels History",
@@ -1243,7 +1243,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/6494f163bbc387bf528dd4ef7f7e4d200d394c80.jpg",
       "hidden": false,
       "group": "Forza Horizon 5 Rally Adventure",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ACHIEVEMENT_149": {
       "name": "The Big Reveal",
@@ -1477,7 +1477,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1551360/e20f429cbfe0bcd4cf702e99d571a936ab90f3b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     }
   },
   "platform": "Xbox",
