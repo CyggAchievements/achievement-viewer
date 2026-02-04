@@ -202,11 +202,11 @@
       "percent": "70.9"
     },
     "aca_book3": {
-      "name": "Double Trouble (Upcoming)",
-      "description": " ",
+      "name": "Double Trouble",
+      "description": "Complete at least 12 scenarios in Double Trailer Handling (Driving Academy)",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Update 4",
       "percent": "0.0"
     },
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/227300/757e79d5e537981dd0eeb1924b7f3e959c817625.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "job_urgent": {
       "name": "Just in Time!",
