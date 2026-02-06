@@ -1,7 +1,7 @@
 {
   "appid": "356190",
   "name": "Middle-earth™: Shadow of War™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header.jpg?t=1747346596",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header_schinese.jpg?t=1747346596",
   "achievements": {
     "VendettaCompleted": {
       "name": "Avenged",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/e716e0bdee4a4ecc5e515f99ab3df977d329383c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "DeathCheater": {
       "name": "Better Luck Next Time",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/d3df92d450385e6539e225613d62686444bec4be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.6"
     },
     "DLC3GearChallenges": {
       "name": "Complete in Defeat",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/9f96dc2c54a650d007f95f3cf7c632eaeed2374e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.6"
     },
     "DLC4Desert": {
       "name": "Eastern Front",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/be9ad5029a633d0462446e54dea45591afbe037a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.7"
     },
     "EquipmentUpgraded": {
       "name": "Fit for War",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/13c7abfb2cc2adffb41a6a9af68c247055099833.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "61.9"
     },
     "BlindOrcs": {
       "name": "Flash Mob",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/22f46c5198e88d69fd42d37f788e81dd2d503c03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "DLC3MtnPass": {
       "name": "Holding the Line",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/a4e73df04cd6d291246fadde7cfdb184844fa562.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "TopTierGemForged": {
       "name": "Master Forger",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/b871c7a7cc8c6ee1c8f42d0b2c429d593586b717.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "22.8"
     },
     "MulitFleeCaptain": {
       "name": "Nemesis",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/c222b84f36f0db9f4c4923e1794d58911f8ad74a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "WitchKingMorgul": {
       "name": "Stalemate is Victory",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/d8c5d21cc767d565b69433f9e9682f639d24edc5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "EltarielRecruitFollower": {
       "name": "Unlikely Alliances",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/80a70b5dfa263769b70ca05712ac3a06f91c033b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "GruntOverlord": {
       "name": "Vertical Mobility",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/356190/6eba93fff094909d3ce0a3f85be1afcdeee822ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.6"
     },
     "DrakesKilledWithGraug": {
       "name": "Wild Things",
