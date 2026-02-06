@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/3bec5987bcd74e1394a72a1cf0f1d7fc97eb206a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "04_KillCharacter_GrubShooter": {
       "name": "Corrupter",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/2bca25bbc4b2f598e5514899f1b9af09efdd0119.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "43_KillCharacter": {
       "name": "Cruel Liberator",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/65603a6ebd5343bd31861019b765fc16914d3ff6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "26_Activate_AllCamp": {
       "name": "Meticulous Explorer",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/8b779b1bbbe8495adb56c59129ae94a569e7fe13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "28_WeaponMaxUpgrade": {
       "name": "Perfect Blood Edge",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/33e3c7204110210c1bff5fa496d6d02fbd1baa2b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "41_CharKill_TachySkill": {
       "name": "Revenging Agent",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/16577751adcc82ba33b963cdb1e4507c82bdc737.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     }
   },
   "platform": "Steam",
