@@ -12,12 +12,12 @@
         "earned_time": 1770334836
     },
     "Boss_04": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1770497472
     },
     "Boss_05": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1770503920
     },
     "Boss_06": {
         "earned": false,
@@ -160,8 +160,8 @@
         "earned_time": 1769974733
     },
     "Mission_18": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1770494774
     },
     "Mission_19": {
         "earned": true,
