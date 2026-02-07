@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/e6610ef765b1daefb4a9dff97e125603562156e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "COMPLETE_STORYEVENT12": {
       "name": "A Wizard should know better!",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/8666b49f6198a55aa4835b6045292e344a03aa97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "TURN_ENEMY_INTO_DANCING_SKELETON": {
       "name": "Dance of the dead.",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/4549be312f6f68d9fcb559cbc1f27d38830ec046.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.3"
     },
     "CRAFT_ALL_MITHRIL_ITEMS": {
       "name": "Here's a pretty thing!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/61e4c3dcf18eae6276f1e6f8defc59f340d91d31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "JUMP_INTO_MOUNTDOOM_AS_ISILDUR": {
       "name": "It won't be that easy!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/4d2d7e9e82477944f9af06d0665c8add21f1ec80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "USE_ENT_DRAUGHT": {
       "name": "I've always been taller!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/551bd575bdbd45d1035988dce0bff64cfee3060b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.5"
     },
     "COLLECT_ALL_GOLD_BRICKS": {
       "name": "My Precious...",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/40f781790088ce5fd6752ed4c25149b305bc7a4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "UNLOCK_ALL_CHARACTERS": {
       "name": "Not with 10,000 men...",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/8c0ee84d39cf9b93154f0c93c01c1e1e492d868b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "WALK_INTO_MORDOR": {
       "name": "One does not simply...",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/a7e14c43ade7723abbbe3b11747826688348be26.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "DEFEAT_42_URUK_AS_LEGOLAS": {
       "name": "Pointy-eared Elvish princeling.",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/7da0ec8289b10646423768744eb79ea888e68f73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "COMPLETE_STORYEVENT8": {
       "name": "Soft and quick as shadows...",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/feede13e34b524e918116745dd43d50efab2c9b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "TAKE_HOBBIT_TO_ISENGARD": {
       "name": "Taking the Hobbits to Isengard.",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/c0aa56744b21c604e81f2f445e66a7f8cc4497a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "COMPLETE_STORYEVENT3": {
       "name": "That is no trinket you carry.",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/dd8b1c03f50b99ad18f5e274c7f036d54d8c51e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "FINISH_ONE_OF_GIMILIS_OPPONENTS": {
       "name": "That one counts as mine!",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/2ecfa59a84f2f33fd35d2765ee0cb55eb3f16d24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "DEFEAT_OLIPHANT_AS_LEGOLAS": {
       "name": "That still only counts as one!",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/2e05cde53ff296c9bccc882cd30b08ede550922a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "COMPLETE_STORYEVENT4": {
       "name": "The long way around.",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/31f4a41567dd5f4d0d85a9260bf03ebd51c2281e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "COMPLETE_BONUS_LEVEL": {
       "name": "The Lord of the Ring.",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/eb9eb8e264ff104754b7fb7e518496d968c32490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "COMPLETE_STORYEVENT17": {
       "name": "This day we fight!",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/5d8b397646f45de277d476c498454b64fdd655bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "COMPLETE_MINES_OF_MORIA_QUICKLY": {
       "name": "We cannot linger.",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/e70190b98b790517cad3b8b5ab48f1abd6f96d83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "COMPLETE_X_COOKING_PUZZLES": {
       "name": "What about second breakfast?",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214510/4566b2c7a57b94e9f246fcf0ff3884c5783789aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     }
   },
   "platform": "Steam",

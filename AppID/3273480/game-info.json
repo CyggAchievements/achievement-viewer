@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "ACH_Bullseye": {
       "name": "Bullseye",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "ACH_ChainReaction": {
       "name": "Chain Reaction",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.9"
     },
     "ACH_FullyAutomatic": {
       "name": "Fully Automatic",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "ACH_IcedIt": {
       "name": "Iced it!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.0"
     },
     "ACH_Mechanic": {
       "name": "Mechanic",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "ACH_NeedAnotherShelf": {
       "name": "Need Another Shelf",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "ACH_OutWithABang": {
       "name": "Out With a Bang",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "ACH_PowerPlay": {
       "name": "Power play",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "ACH_RushHour": {
       "name": "Rush Hour",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "ACH_WhatsThatComingOverTheHill": {
       "name": "What's That Coming Over the Hill?",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.6"
     }
   },
   "platform": "Steam",
