@@ -96,12 +96,12 @@
         "earned_time": 1769976474
     },
     "Mission_02": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1770675473
     },
     "Mission_03": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1770675373
     },
     "Mission_04": {
         "earned": false,
@@ -136,8 +136,8 @@
         "earned_time": 1770331930
     },
     "Mission_12": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1770675931
     },
     "Mission_13": {
         "earned": true,
