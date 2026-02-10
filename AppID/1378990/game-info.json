@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1378990/bc3813382daf7f037756778b570427aa0ad698fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.4"
+      "percent": "87.5"
     },
     "trophy.bizarro_level_all": {
       "name": "Backwards & Forwards",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1378990/4f4c370eb476c2e4e70c1687d91c1eabd9b827eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "trophy.bizarro_boss_first": {
       "name": "Beat ‘Em Any Which Way",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1378990/9d6fb3614c5543a19f0dd33c0aecd78808c8d89c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "trophy.bizarro_level_first": {
       "name": "IT’S MESSING WITH MY HEAD, MAN!!!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1378990/98aefb82f9c44cd931c61a5e944ffc5511b5312c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "trophy.defeat_nbrio": {
       "name": "Master Mixologist",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1378990/946677a0554d768435986f448da013affa3e5162.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "trophy.ending_200": {
       "name": "OVER-Overachiever",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1378990/cbcc71a6e21c03a568951021ec5a11428e5066e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "trophy.mask_gravity": {
       "name": "Ups & Downs",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1378990/3f84622a485d102c53a7e38c9d03f9394fdfbf4b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     }
   },
   "platform": "PlayStation",
