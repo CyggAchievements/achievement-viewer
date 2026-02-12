@@ -1,7 +1,7 @@
 {
   "appid": "330830",
-  "name": "Tales from the Borderlands",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330830/header.jpg?t=1728608589",
+  "name": "Game 330830",
+  "icon": "",
   "achievements": {
     "ACH_104_7": {
       "name": "…There You Are",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/330830/f5a1821c4eb9fab88fd5559214250e7a88aaf94d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "ACH_105_7": {
       "name": "Tales Twice Told",
