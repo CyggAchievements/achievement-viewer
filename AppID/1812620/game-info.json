@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/b90ddc2ee8cb256aae91b3bdb8c53462a7a425c6.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "ACH_STAT_100K_Combined_Presses": {
       "name": "Button Prodigy",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/71bd93ae25edc9c5c7f6df904cb4afab6ad683e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "20.9"
     },
     "ACH_CLOSE_ONE": {
       "name": "Close One",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/c86b75d2393eb7229bc39be49d9d41552c9d81c0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "ACH_ANNIVERSARY": {
       "name": "DSX Anniversary",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/26d2d3a327359f782438cb17335f4c44ca855589.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "ACH_HAPTIC_FEEDBACK": {
       "name": "Feel the Buzz",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/fde699bfc8ce5bc9f220fb5d51ae889c0acd956d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "ACH_LIGHTS_OUT": {
       "name": "Lights Out",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/6c45c9adde07b2322b3d046965a570b3bacbda6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "ACH_MY_STYLE": {
       "name": "My Style",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/ce7095aaea7b2692b357bfff0771d8ef2c180e53.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACH_TRIGGER_HAPPY": {
       "name": "Trigger Happy",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/fac8aca949bae5357a1a014174f2afdb5658eba5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     }
   },
   "platform": "Steam",
