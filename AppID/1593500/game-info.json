@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/d1dced0ec4ccb093fabc5390e1c56f3c1142893b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "ACHIEVEMENT_15": {
       "name": "Dwarven Ingenuity",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/b93c4da9540b9d530a647bc318e6dcac0ebeb853.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.3"
     },
     "ACHIEVEMENT_20": {
       "name": "Enchanted",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/0aed980cb923209cad1b7b9ff8a3cfd38db81467.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "ACHIEVEMENT_34": {
       "name": "Fire and Brimstone",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/d7c4ce820af550ffb93780b4422e24754f190bd7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.9"
+      "percent": "84.0"
     },
     "ACHIEVEMENT_9": {
       "name": "Past Haunts",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/98d7dac5aa16943b50ca498cd38b7bf404f581cc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "ACHIEVEMENT_29": {
       "name": "Path of the Zealot",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/94870155ea13d091665504acbd7be41f75765400.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACHIEVEMENT_7": {
       "name": "Promise Fulfilled",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1593500/c33c31a06bdf8d9e7c532b54a457d5a63559ee55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     }
   },
   "platform": "PlayStation",
