@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3e73a071eff77c31bfe6fd5f252685acb11e0311.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ACH01": {
       "name": "A Friendship Resurrected",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f8d1ec571d81f8ad48a2dd9f028cf6bb0414b9c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACH24": {
       "name": "A Lot of Cheddar",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/46eb28c4c5065567bb6f57d775551fdbbeda099d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH49": {
       "name": "American Dream",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/2f50a69673ee905a6c3f43fb85e9b1b7d6c26d2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ACHH8": {
       "name": "Can't Touch This",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/c198e03dc06a2b1db3de7415e06a370e6af68063.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "ACHGO7": {
       "name": "Elitist",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/ba9d3e93ecfe549fddfb3ba06e5ab8ba12bd9a42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "ACH32": {
       "name": "Making Moves",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/3fa275527df718f8342d608f6e46ee0a10b3b1d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "ACH18": {
       "name": "Red Mist",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/1d960b9d0bd93f47caf00fb0e0906fa63877b1ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "ACH07": {
       "name": "Small Town, Big Job",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/e8e1d0385d1b6d2e343c5fe9fa81afc9a31db5f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "ACHGO4": {
       "name": "The Doomsday Scenario",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/5dcbdbf0b8505ea3a673cd585ef188042b36f854.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "ACH35": {
       "name": "The Midnight Club",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/30a5e9e71f62397b5278ed15ec48dcbaac16eebb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "ACH04": {
       "name": "To Live or Die in Los Santos",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/950cc34858acd878b1b8fd91dff79a4e2afea343.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ACH13": {
       "name": "TP Industries Arms Race",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/f089ee1b161e0d0485ff0cf42e6af9fe9cbc7b66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH27": {
       "name": "Wanted: Alive or Alive",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/6183e7fea5820482a230af9a9dcba656355d0950.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "ACH17": {
       "name": "Waste Management",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3240220/10049685f640607f6c41826aabef9d87210b4c86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     }
   },
   "platform": "PlayStation",
