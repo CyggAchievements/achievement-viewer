@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "dlc_01_duty_and_conscience": {
       "name": "Duty and conscience",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "gorko": {
       "name": "Gor'ko!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.6"
     },
     "constructor": {
       "name": "Handyman",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "hardcore": {
       "name": "Hardcore",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "iron_man_1": {
       "name": "Iron Mode",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "railwayman": {
       "name": "Railwayman",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "roller_coaster": {
       "name": "Roller coaster",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "toy_seller": {
       "name": "Toy seller",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     }
   },
   "platform": "Steam",
