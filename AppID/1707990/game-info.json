@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/850e9a4bd44ebb4a3ab52bc17aa5870ce58357f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "61.9"
     },
     "Dodstreng": {
       "name": "Dødstreng",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/1eb32dff36e6e3e3676a4508114d8b1287dab8af.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "EchoesOfThePast": {
       "name": "Echoes of the Past",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/3f5c72649d2f9938e5b95ef076cff8f82cf8d577.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "WelcomeToTheForsakenLands": {
       "name": "Welcome to the Forsaken Lands",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/cf476489325993e4ecfc128861526b47fbc5e5c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     }
   },
   "platform": "Steam",
