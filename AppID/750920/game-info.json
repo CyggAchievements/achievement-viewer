@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/fb61d0df63f9221401b377c37fde1f0edb26ad03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "Completionist": {
       "name": "Completionist",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/f75dac9ca16d853995e1af5532dfd11f37d66176.jpg",
       "hidden": true,
       "group": "Shadow of the Tomb Raider - The Pillar",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "FamilyTies": {
       "name": "Family Ties",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/78b5f0dd1467200ddc2c89a5ce4457d88c43568c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.6"
     },
     "camouflage": {
       "name": "First Blood",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1e96a935200ee3f07640b278a1ba1c6b67dcae05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.4"
     },
     "FloatLikeAButterfly": {
       "name": "Float Like A Butterfly",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/6b991b8f9b8eca71e0641d3c87a45d2bbd3f1928.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "LikeAShadow": {
       "name": "Like a Shadow",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/71e9b6cfceaae3c774f053fa95a077185ec34665.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "OffshoreCount": {
       "name": "Offshore Count",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/0f33bfbc9c5cdd6dfc0de115609457daea22607e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "PointofInterest": {
       "name": "Point of Interest",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/8ceb18393a22ac97b09df3071b2c6cece62a2805.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.4"
     },
     "Thanksgiving": {
       "name": "Thanksgiving",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/afe57e9bde7a968e3ca434e917c9353469c75e32.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "ThreadTheNeedle": {
       "name": "Thread the Past",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/1d84fc72d0d79ad5d2e79bc9d5812787210efba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     }
   },
   "platform": "Steam",
