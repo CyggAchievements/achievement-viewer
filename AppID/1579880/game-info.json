@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/753f2563cef4749ff2d16e375a38e5e7f68ada51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.5"
+      "percent": "89.6"
     },
     "ACHIEVEMENT_NAME_STATS_FORGOTRELOAD": {
       "name": "Failed Basic Training",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/ee2d0da6c39c8a6432123038f586f5f8c7ffe08c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.9"
     },
     "ACHIEVEMENT_NAME_ACTION_WISHING_WELL": {
       "name": "Final Wish",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/375891df37fb80d1ee9d325a961b4323617e7d18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "ACHIEVEMENT_NAME_RUN_ALL_HEADSHOTS": {
       "name": "Perfect Shot",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/f9614cc28f09ae20b6a4c4a7c8ba1f2828ee054e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.4"
     }
   },
   "platform": "Steam",
