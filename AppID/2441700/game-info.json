@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/959c87862d225a411b43c8728817d91b22ea36e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.7"
+      "percent": "54.8"
     },
     "win-wardens": {
       "name": "Aggressor",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/e37d9c3d24ee97e0e3c332e84482a8bacdc965c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "land-punches": {
       "name": "Anger Management",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/c3ec547bac9da999c98276e30d2d380fa679367f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "kill-with-thumper": {
       "name": "Flatlined",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/7ead6d22eecf118879213e8d70dd695c219992bf.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "headshot-biting-alpha": {
       "name": "Not Today",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/cf1f5f47e1d1a907b5ad429daea4e1bd821e1785.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "environment-kills": {
       "name": "Petting Zoo",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "33.1"
+      "percent": "33.2"
     }
   },
   "platform": "Steam",
