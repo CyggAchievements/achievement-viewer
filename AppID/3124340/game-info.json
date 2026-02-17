@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/cf5481d1b01ffc80706f83c6a1ca13baaaa3cf90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "BadBreath": {
       "name": "Bad Breath",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/d67208cffb8489801df1375815def78b27b0896c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "Dragonslayer": {
       "name": "Dragonslayer",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/795e8af62653cd28c6282ae642a08746106edb0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "Experienced": {
       "name": "Experienced",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/031b74b01431699b70df16df8826ca90161c3d9e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "Frostbane": {
       "name": "Frostbane",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/ddd52c5781f65ebdd7bfad840edccc1cb827e53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "PerformanceOfALifetime": {
       "name": "Performance of a Lifetime!",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/628a0f1cfcfc1d744c5ebdb6483e8727816bbf51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     }
   },
   "platform": "Steam",
