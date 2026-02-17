@@ -1,7 +1,7 @@
 {
   "appid": "728880",
   "name": "Overcooked! 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg?t=1765814547",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg?t=1771346113",
   "achievements": {
     "Deliver X recipes": {
       "name": "A Grand Dining Experience",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/728880/df181b2212616668ea0a5e9edcee39f553184b7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "Complete world 5 with 3 stars": {
       "name": "Head Chef",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/728880/11e054f4b230426b2f5a815836a026705e6390ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.5"
+      "percent": "76.6"
     },
     "Play X versus games": {
       "name": "It's A Cook-Off!",

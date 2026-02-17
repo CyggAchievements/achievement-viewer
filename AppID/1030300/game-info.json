@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/6ad79e03be197569b31b52f3cc8833922ef810d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "DEFEATED_HUNTER_QUEEN": {
       "name": "Diva",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/5ecfe521ca09d24601f4b0cff62b775404a56bde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.4"
+      "percent": "86.3"
     },
     "ALL_MASKS": {
       "name": "Masked",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/73deb9d9ad036db9184825a6b9df2c997c4c5e14.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ENDING_A": {
       "name": "Weaver Queen",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/03eb64bd3d7a4dba836eaad300c33329a50984a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     }
   },
   "platform": "Steam",
