@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/111a3a68f4dc04b3b4a5ebc0b61fd1d7afc4b981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "T_DynamicEvent_006": {
       "name": "Blood Mushroom Gathering",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/221dc132d086bcc50524269c0d58c089444ed60d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "T_DefeatedNpc_AB_001": {
       "name": "Courte's Wraith \"Tevent\"",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/1242e8a21b736d1d07a61230918dcd32d11bcb85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "T_DefeatedNpc_FB_014": {
       "name": "Doom Seeker \"Junobote\"",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/c28800846bab923c54c528c5a9c9eabb33eacd27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "T_DefeatedNpc_PD_002": {
       "name": "Roaring Temple",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/1ddd15749b9bc4b970e25e523d65a20aefe8877a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "T_DefeatedNpc_FB_010": {
       "name": "Sylaveth Archpriest \"Minezerok\"",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/e9eb63727a7d269d5934c0c487bc74505c53e6d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "T_DefeatedNpc_PD_006": {
       "name": "Temple of Slaughter",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/b20bc0e2dc34163e2cf97a2ce74b8f47d87d5db2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "T_CodexAdventure_003": {
       "name": "The Demise of the Gray-Fanged",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2429640/6427889994fd0775664e7d0e3dd41b3eb5aa1791.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "T_DefeatedNpc_PD_008": {
       "name": "Tyrant's Isle",
