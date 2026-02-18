@@ -1,7 +1,7 @@
 {
   "appid": "1293830",
-  "name": "极限竞速：地平线 4",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header_schinese.jpg?t=1734336342",
+  "name": "Forza Horizon 4",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342",
   "achievements": {
     "\"Do you know what 'DK' stands for?\"": {
       "name": "\"Do you know what 'DK' stands for?\"",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293830/f32f16cd520b15e545030dd599d893372b4923e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "Head Hunter": {
       "name": "Head Hunter",
@@ -901,7 +901,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1293830/d9ae670dafd91853bf8e7d071999352c7452cf03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "Horizon Airlines": {
       "name": "Pilot’s License",
