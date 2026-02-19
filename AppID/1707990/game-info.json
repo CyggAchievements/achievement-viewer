@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/8afb6d83c5d283922057974bfb271b795b0df48a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "TheSecretRoom": {
       "name": "The Secret Room",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/3f5c72649d2f9938e5b95ef076cff8f82cf8d577.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "WelcomeToTheForsakenLands": {
       "name": "Welcome to the Forsaken Lands",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1707990/cf476489325993e4ecfc128861526b47fbc5e5c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.4"
     }
   },
   "platform": "Steam",

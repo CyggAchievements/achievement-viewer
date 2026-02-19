@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/ec32aefa5f078d841df83e7f889365811f7bf29f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "dlc_souls_s_s_24": {
       "name": "A fortunate gift",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/50e667aba9b68ab9aae98602b25f0dbedcaaac72.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Stranger Sins",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "fix_garden": {
       "name": "Even here",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/9bed576c36854f8f355e082167b9237e67b16864.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "dlc_stories_cut_scene_1": {
       "name": "Forward to the past",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/79b4410e8594d1591f5586d66a3ae65933c8f0d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "dlc_stories_buy_land": {
       "name": "Landlord",
@@ -568,7 +568,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/faf352a0660372357c295b6a6023b10c6447595c.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Stranger Sins",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "dlc_refugees_s40": {
       "name": "Lesser evil",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/aff009a46ed5b30d7451da7ce986d8431ce40a6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "craft_alch_3": {
       "name": "Master alchemist",
@@ -982,7 +982,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/281d4d7e909e709efa688754abc54f6982dc4627.jpg",
       "hidden": true,
       "group": "Graveyard Keeper - Better Save Soul",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "dlc_refugees_s10": {
       "name": "The face of the enemy",
@@ -1054,7 +1054,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/d254bf35d141326eb7f0b143317f980be7d0e05c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "dlc_refugees_s15_3": {
       "name": "Vampires are over",
