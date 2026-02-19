@@ -114,7 +114,8 @@
   "ACMirage_Ach_3": {
     "description": "Eliminate Al-Ghul",
     "displayName": "The Blood of a Ghoul",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771538924
   },
   "ACMirage_Ach_30": {
     "description": "Attract 10 guards with noisemakers",
