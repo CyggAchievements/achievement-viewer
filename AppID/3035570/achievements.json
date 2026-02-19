@@ -58,7 +58,8 @@
   "ACMirage_Ach_2": {
     "description": "Become an Initiate of the Hidden Ones",
     "displayName": "La shay'a waqi'un mutlaq",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771531306
   },
   "ACMirage_Ach_20": {
     "description": "Complete 10 faction contracts",
