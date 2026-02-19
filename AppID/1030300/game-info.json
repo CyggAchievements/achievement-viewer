@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/3a2247d35131f1fc0730d29b392440ceea13345f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.2"
+      "percent": "88.3"
     },
     "ALL_MAPS": {
       "name": "Cartographer",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/f851c8d42eac15ec3765b5f0eb64fbd51f9f47cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "BELLWAYS_FULL": {
       "name": "Connected",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/dbe966ba335f327d3432eef742087820102f583d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "EVA_FINAL_QUEST": {
       "name": "Entwined",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/4184fc8dc89d930ce040c4484745f156f9bbc108.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "DEFEATED_WIDOW": {
       "name": "Fanatic",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/739f88cab592b9cb2da086d2999adf5b13fab993.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "FLEAS_HALF": {
       "name": "Flea Finder",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/0e3f76a3dd29bfd2171d42e0232eebc4404f0522.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "FLEAS_ALL": {
       "name": "Fleafriend",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/00c63e08deb453ec284b83b2222e035cab9e2211.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.1"
     },
     "FIRST_WISH": {
       "name": "Granted",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/c6cec86630d601d0e5c73f009d25882f1ec70c51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.7"
+      "percent": "82.8"
     },
     "DEFEATED_PHANTOM_1": {
       "name": "Grey Ghost",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/4ea47ea4cfee98d988b6a93170bd42fc4515f803.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "DEFEATED_LAST_JUDGE_1": {
       "name": "Judge",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/ecc1a8650879d0ecf76cbf7dcfe2faf1c755568b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "DEFEATED_COGWORK_DANCERS": {
       "name": "Last Dance",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/62d74a694a4c5c6311b5885a2fd7196cc4ad443a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.4"
     },
     "DEFEATED_SONG_GOLEM": {
       "name": "Servant",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/ce0df795d793b5a05d31f1ba28f38cc4193444dd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/2aacd283950cff267f32ebb7eaf82f4f5e6355f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "DEFEATED_TROBBIO": {
       "name": "Tragedian",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/e4dc9f83fb40fd98d0668fdb5d79b23e23595e97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "TUBES_FULL": {
       "name": "Transported",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/38c54c2ec54ae7fbd56b6e0eafadca194c6e307e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "DEFEATED_LACE_2": {
       "name": "White Knight",
