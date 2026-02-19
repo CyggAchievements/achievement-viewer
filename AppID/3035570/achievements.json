@@ -184,7 +184,8 @@
   "ACMirage_Ach_42": {
     "description": "Destroy a Horn Bearer's horn with a throwing knife",
     "displayName": "Silencer",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771532199
   },
   "ACMirage_Ach_43": {
     "description": "Stay at maximum notoriety for 10 minutes",
