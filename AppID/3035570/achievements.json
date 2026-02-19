@@ -195,7 +195,8 @@
   "ACMirage_Ach_44": {
     "description": "Lower maximum notoriety by ripping wanted posters only",
     "displayName": "Poster Boy",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771537408
   },
   "ACMirage_Ach_45": {
     "description": "Use the services of a mu'lin 3 times",
