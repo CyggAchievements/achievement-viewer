@@ -210,7 +210,8 @@
   "ACMirage_Ach_45": {
     "description": "Use the services of a mu'lin 3 times",
     "displayName": "Spread the News",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771617949
   },
   "ACMirage_Ach_46": {
     "description": "Kill 5 guards with one use of Assassin Focus",
