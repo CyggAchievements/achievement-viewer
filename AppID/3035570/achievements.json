@@ -127,7 +127,8 @@
   "ACMirage_Ach_31": {
     "description": "Pickpocket 50 people",
     "displayName": "The Hands of a Thief",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771609891
   },
   "ACMirage_Ach_32": {
     "description": "Pickpocket a guard affected by a blowdart",
