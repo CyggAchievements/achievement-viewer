@@ -177,7 +177,8 @@
   "ACMirage_Ach_40": {
     "description": "Assassinate 10 guards from hiding spots",
     "displayName": "Surprise!",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771609655
   },
   "ACMirage_Ach_41": {
     "description": "Defeat a Shakiriyya in combat",
