@@ -99,7 +99,8 @@
   "ACMirage_Ach_26": {
     "description": "Headshot 20 guards with throwing knives",
     "displayName": "Headhunter",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771620741
   },
   "ACMirage_Ach_27": {
     "description": "Put 10 guards to sleep with blowdarts",
