@@ -135,7 +135,8 @@
   "ACMirage_Ach_32": {
     "description": "Pickpocket a guard affected by a blowdart",
     "displayName": "You Snooze, You Lose",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771617385
   },
   "ACMirage_Ach_33": {
     "description": "Pickpocket all 18 artifacts and bring them to Dervis",
