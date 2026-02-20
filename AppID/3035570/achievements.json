@@ -102,7 +102,8 @@
   "ACMirage_Ach_27": {
     "description": "Put 10 guards to sleep with blowdarts",
     "displayName": "Sleep Tight",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771616189
   },
   "ACMirage_Ach_28": {
     "description": "Have 10 guards trigger traps",
