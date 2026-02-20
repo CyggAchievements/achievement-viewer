@@ -237,7 +237,8 @@
   "ACMirage_Ach_50": {
     "description": "Hide 5 bodies in bales of hay",
     "displayName": "Street Cleaner",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771610864
   },
   "ACMirage_Ach_51": {
     "description": "Return all stolen goods to Hind",
