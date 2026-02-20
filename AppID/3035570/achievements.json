@@ -39,7 +39,8 @@
   "ACMirage_Ach_16": {
     "description": "Purchase 10 elixirs",
     "displayName": "Potion Collector",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771611567
   },
   "ACMirage_Ach_17": {
     "description": "Synchronize all Viewpoints in the Baghdad region",
