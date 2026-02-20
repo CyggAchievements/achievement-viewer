@@ -1,7 +1,7 @@
 {
   "appid": "1868140",
-  "name": "DAVE THE DIVER",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1768463150",
+  "name": "Game 1868140",
+  "icon": "",
   "achievements": {
     "Achievement_14130042": {
       "name": "A Bancho Sushi Regular",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/c6d5ce68d6df402b7a0dc7feecea7e614ad5760c.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "Achievement_14130010": {
       "name": "Culinary Master",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/584fe9445aa44e9acd6ea8fe8b6f77aeb414b6e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.9"
+      "percent": "69.8"
     },
     "Achievement_14130035": {
       "name": "Photographer",
