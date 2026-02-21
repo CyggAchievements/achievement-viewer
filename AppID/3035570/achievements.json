@@ -52,7 +52,8 @@
   "ACMirage_Ach_18": {
     "description": "Tag 100 guards using Enkidu",
     "displayName": "Bird of Prey",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771691519
   },
   "ACMirage_Ach_19": {
     "description": "Explore all the Baghdad region territories",
