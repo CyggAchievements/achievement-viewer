@@ -197,7 +197,8 @@
   "ACMirage_Ach_41": {
     "description": "Defeat a Shakiriyya in combat",
     "displayName": "The Shadow and the Flame",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771709533
   },
   "ACMirage_Ach_42": {
     "description": "Destroy a Horn Bearer's horn with a throwing knife",
