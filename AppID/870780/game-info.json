@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/d3c2b8a98a30a53188707349470d8884d20c7b34.jpg",
       "hidden": false,
       "group": "Control - The Foundation",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "DLC2_LORE_ACHIEVEMENT": {
       "name": "In-depth Investigations",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/acad215dce793b4aeb941dd90fc6ee2db2d85406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "MULTI_LAUNCH_ACHIEVEMENT": {
       "name": "Multiple Applications",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/b4f7d1e234e99aee794adaf3b1a88d421ef3e7ff.jpg",
       "hidden": true,
       "group": "Control - AWE",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "EXPLOSIONS_WITH_FRIENDS_ACHIEVEMENT": {
       "name": "Surge Protector",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/c7f3fcd969edb28fa69749d1ba3a7f344785372e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "HOTLINE_RING_ACHIEVEMENT": {
       "name": "Unknown Caller ",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8bcab97505e673077f5a67357f9d4b20e8d1350d.jpg",
       "hidden": false,
       "group": "Control - AWE",
-      "percent": "13.5"
+      "percent": "13.6"
     }
   },
   "platform": "PlayStation",

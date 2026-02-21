@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/50b37ef04bcf07e1d084b696dc9403c63597f819.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "hc_allcargos": {
       "name": "I Thought This Should Be Heavy?!",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/7e1efeb7219c9f5fbbbbe0541cd5924c5e18779e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "fm_all_cargos": {
       "name": "Logged-In",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6b03b740a37ed2d1179a3d232b21698d210afebb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.4"
+      "percent": "75.5"
     },
     "st_aircondition": {
       "name": "One, Two, Three - Breathe!",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/352d763955870eae706d407c7b88e94acc90d302.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.9"
     },
     "aca_manual_transmission": {
       "name": "Rowing Through the Gears",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/b3e201591c9ddcada7389805ec01e239080b5830.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Washington",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "aca_stars_consecutive": {
       "name": "Shining Star",
@@ -820,7 +820,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/d59fedbc6ff7f8715fad84604eeb16acb4dcefe3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "st_perf_job": {
       "name": "Size Matters",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/bd01201c87f6f0f6ec7584abdeb8a40999b24882.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Utah",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "ar_hot_springs": {
       "name": "Spa City",
@@ -991,7 +991,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/dbb0e9c92bf63059e8292cdc6538411c5e282f96.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Arkansas",
-      "percent": "1.9"
+      "percent": "1.8"
     },
     "ok_visit_cities": {
       "name": "The Sooner State",
@@ -1135,7 +1135,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/e82d9b40991fcd71d3b9728dcd83a890d3db046c.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Montana",
-      "percent": "0.5"
+      "percent": "0.6"
     }
   },
   "platform": "Steam",
