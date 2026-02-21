@@ -1,7 +1,7 @@
 {
   "appid": "1868140",
-  "name": "Game 1868140",
-  "icon": "",
+  "name": "DAVE THE DIVER",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1768463150",
   "achievements": {
     "Achievement_14130042": {
       "name": "A Bancho Sushi Regular",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/b48475d7f28b9eac48767e39e5e1b96ce91b6533.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "Achievement_14130021": {
       "name": "A Peaceful Blue Hole",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/e3bc3bac49913fed5d8b4302e7dac20a794fde8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.2"
+      "percent": "86.3"
     },
     "Achievement_14130004": {
       "name": "Better Equipment",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/724d735f4d23e7f2a1318bfa7eaee17b33abc802.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.8"
+      "percent": "79.9"
     },
     "Achievement_14130009": {
       "name": "Culinary Researcher",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/584d5d11c341d419feb4f311f4c49e5cec010fbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "68.0"
     },
     "Achievement_14130037": {
       "name": "Dev Killer",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/02bdada9339c25640332b53188f1a6631fb515d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "65.1"
     },
     "Achievement_14130019": {
       "name": "Momo's Secret",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/584fe9445aa44e9acd6ea8fe8b6f77aeb414b6e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.9"
     },
     "Achievement_14130035": {
       "name": "Photographer",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/fd7688b54379d7f4bce85443546271933bd7013f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "59.3"
+      "percent": "59.4"
     },
     "Achievement_14130032": {
       "name": "Professional Farmer",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/d5bde6aa4c61821c48035ca2da859716e4a1819d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.3"
+      "percent": "66.4"
     },
     "Achievement_14130027": {
       "name": "Sea People Historian",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1868140/51334f29b606cd30f9700e9380fa79da9af42b14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.6"
+      "percent": "55.7"
     },
     "Achievement_14130002": {
       "name": "Undersea Gunslinger",

@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1ed9aa6799d620864580be2d37c4c131654bac30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "MaxAdrenaline": {
       "name": "Adrenaline Spike",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/07a5e9a2f784e392b2b8df11dcc7f15b860e3a7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "FirstDeath": {
       "name": "Eternal Return",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/cf41d94caa29f6265ab4720a75eaefcfa97d67f4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "MaxParasites": {
       "name": "Irreversibly Contaminated",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dbd0b21b790375770dbe1acd78b1c350265dfedd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "AF_Mastery": {
       "name": "Past the Ruins",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/9f4bbdc3119770dcb5830209cf631091d99bbd0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "CurseActivity": {
       "name": "Risk Assessment",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/1b16e0bdc16568aa8c4477d6693dcec8b9a509c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "FinishAllHouses": {
       "name": "Sins of the Mother",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8d268c43d0d404dce744dea36a2846ec2d68eb30.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "UR_Mastery": {
       "name": "Submerged in Memories",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8c809aed0a3c37c7bdccec26416f64d59b6907c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "FinishMural": {
       "name": "Visions of the Past",
