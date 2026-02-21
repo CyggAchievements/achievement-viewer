@@ -168,7 +168,8 @@
   "ACMirage_Ach_37": {
     "description": "Pay mercenaries 5 times",
     "displayName": "Patron of Sell-Swords",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771707514
   },
   "ACMirage_Ach_38": {
     "description": "Pay merchant groups 5 times",
@@ -244,7 +245,8 @@
   "ACMirage_Ach_5": {
     "description": "Eliminate Al-Pairika",
     "displayName": "The Blood of an Enchantress",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771704287
   },
   "ACMirage_Ach_50": {
     "description": "Hide 5 bodies in bales of hay",
