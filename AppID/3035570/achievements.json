@@ -74,7 +74,8 @@
   "ACMirage_Ach_21": {
     "description": "Complete a Tale from Baghdad",
     "displayName": "Crossing Paths",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771693551
   },
   "ACMirage_Ach_22": {
     "description": "Collect all lost books",
@@ -150,7 +151,8 @@
   "ACMirage_Ach_34": {
     "description": "Save up 2007 dirhams",
     "displayName": "Hoarder",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771694012
   },
   "ACMirage_Ach_35": {
     "description": "Use benches to pass time 5 times",
