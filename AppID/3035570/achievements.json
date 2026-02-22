@@ -119,7 +119,8 @@
   "ACMirage_Ach_29": {
     "description": "Affect 20 guards with smoke bombs",
     "displayName": "Up in Smoke",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771709617
   },
   "ACMirage_Ach_3": {
     "description": "Eliminate Al-Ghul",
