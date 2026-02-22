@@ -116,7 +116,8 @@
   "ACMirage_Ach_28": {
     "description": "Have 10 guards trigger traps",
     "displayName": "Ambush",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771791108
   },
   "ACMirage_Ach_29": {
     "description": "Affect 20 guards with smoke bombs",
