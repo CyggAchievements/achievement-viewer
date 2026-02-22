@@ -19,7 +19,8 @@
   "ACMirage_Ach_12": {
     "description": "Fully upgrade an outfit",
     "displayName": "Thick Skin",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771787445
   },
   "ACMirage_Ach_13": {
     "description": "Apply dye to an outfit",
