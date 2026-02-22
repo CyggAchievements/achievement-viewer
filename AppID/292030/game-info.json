@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "巫师 3：狂猎",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/eb2f071040ff86119feb2bd97e2cd283cc40b7e5/header_schinese.jpg?t=1768303991",
+  "name": "The Witcher 3: Wild Hunt",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
   "achievements": {
     "FRIEND_IN_NEED": {
       "name": "A Friend in Need",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/b33cd0fcb3bab390513b5128c0ba911cbcc280a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "FAMILY_COUNSELOR": {
       "name": "Family Counselor",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/9e93a5012fa1c520d934f5f4836985291284646a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.6"
     },
     "GWENT_MASTER": {
       "name": "Gwent Master",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/369497d2df3dc73a08f7e7ec865b0a2dd7ff13ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "EP2_3": {
       "name": "Kling of the Clink",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/11d3dfdd398ce5f603b2aafb8f25abbebe253251.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "EP1_7": {
       "name": "Return to Sender",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/a78968ba3078d80101eeba100efa26bb96c90f0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     }
   },
   "platform": "GOG",
