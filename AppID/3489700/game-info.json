@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/437995cc4b176fafcabae7c15d9d1c47495f15bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "12_CompleteLevel_AbyssLabor": {
       "name": "Abyss Levoire",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/e72125041ef0ce04408ed6ca7eb653d7cbbce565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "07_CompleteLevel_AltesLabor": {
       "name": "Altess Levoire",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/01424fdb8fc6ac3ceab415f8a84fbd3a1833cca3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "35_CompleteQuest_Digger": {
       "name": "Beep!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/359e03479fd923790adc9b4d48b43a6df9817def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "15_KillCharacter_Gorgon_Kill": {
       "name": "Demogorgon",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/cd3d7925fbe3d3f521ce7b185aa35b26745adf61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "45_Acquire_AllSkill_NewGamePlus": {
       "name": "Infinite Blade",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/0ff9fd5db10da03bebe6de447d3ebcdf341fa538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "21_Acquire_AllNanoSuit": {
       "name": "Nano Suit Collector",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/091d59c772a6253a7ccfdae43f324e1500dd514b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.4"
+      "percent": "53.5"
     },
     "25_KillCharacter_AllNative": {
       "name": "Naytiba Researcher",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/80c5a9bf0aa19346fa4af2698a25856edabf4ff5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "30_BodyMaxUpgrade": {
       "name": "Perfect Physical Enhancement",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/16577751adcc82ba33b963cdb1e4507c82bdc737.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     }
   },
   "platform": "Steam",

@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "The Witcher 3: Wild Hunt",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+  "name": "巫师 3：狂猎",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/eb2f071040ff86119feb2bd97e2cd283cc40b7e5/header_schinese.jpg?t=1768303991",
   "achievements": {
     "FRIEND_IN_NEED": {
       "name": "A Friend in Need",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/c832391d5119195c559a5018c74e709ede2ed1e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.3"
     },
     "BRAWL_MASTER": {
       "name": "Brawl Master",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/9f00025ca51d74d3929bd492d57b921f1bea96bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "NECROMANCER": {
       "name": "Necromancer",
