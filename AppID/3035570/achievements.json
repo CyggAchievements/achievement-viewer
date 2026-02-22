@@ -210,7 +210,8 @@
   "ACMirage_Ach_43": {
     "description": "Stay at maximum notoriety for 10 minutes",
     "displayName": "Notorious",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771777327
   },
   "ACMirage_Ach_44": {
     "description": "Lower maximum notoriety by ripping wanted posters only",
@@ -232,7 +233,8 @@
   "ACMirage_Ach_47": {
     "description": "Survive 10 minutes in open conflict",
     "displayName": "Eagle's Will",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771777350
   },
   "ACMirage_Ach_48": {
     "description": "Collapse 20 scaffolding structures",
