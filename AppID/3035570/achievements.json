@@ -72,7 +72,8 @@
   "ACMirage_Ach_20": {
     "description": "Complete 10 faction contracts",
     "displayName": "Defender of the People",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771882359
   },
   "ACMirage_Ach_21": {
     "description": "Complete a Tale from Baghdad",
