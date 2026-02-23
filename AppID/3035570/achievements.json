@@ -169,7 +169,8 @@
   "ACMirage_Ach_36": {
     "description": "Pay musicians 5 times",
     "displayName": "Patron of the Arts",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771879693
   },
   "ACMirage_Ach_37": {
     "description": "Pay mercenaries 5 times",
