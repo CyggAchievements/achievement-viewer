@@ -188,7 +188,8 @@
   "ACMirage_Ach_39": {
     "description": "Assassinate 10 guards while blending with the crowd",
     "displayName": "Blade in the Crowd",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771962922
   },
   "ACMirage_Ach_4": {
     "description": "Eliminate Al-Rabisu",
@@ -341,6 +342,7 @@
   "ACMirage_Ach_9": {
     "description": "Reach the maximum Hidden One Rank",
     "displayName": "Serving the Light",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1771963246
   }
 }
