@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/dbe966ba335f327d3432eef742087820102f583d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.7"
     },
     "EVA_FINAL_QUEST": {
       "name": "Entwined",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/42f86f65efcada2816cf88389450657b83f03121.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "DEFEATED_LACE_1": {
       "name": "Pharloom's Welcome",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/62d74a694a4c5c6311b5885a2fd7196cc4ad443a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "DEFEATED_SONG_GOLEM": {
       "name": "Servant",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/1122afd1b4baa0facaa5032a98deb78f86a88135.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ENDING_D": {
       "name": "Twisted Child",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/ca601e6500237f90c0ff42745226de063a7d0022.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.0"
     },
     "ALL_SILK_SKILLS": {
       "name": "Woven",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/03eb64bd3d7a4dba836eaad300c33329a50984a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     }
   },
   "platform": "Steam",
