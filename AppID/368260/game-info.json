@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/43185642a5bf706c0c7a868626152838d25dc6e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.7"
     },
     "CODA_ACHIEVEMENT_047": {
       "name": "A Growing Darkness",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/3bb587ccfe1f6e00fd4ea62cb2f8e9d8ab171618.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.0"
     },
     "CODA_ACHIEVEMENT_006": {
       "name": "A Light Extinguished",
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/40231a4e75ce64df4b09f07ead2dea8fd3e403fb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "35.7"
     },
     "CODA_ACHIEVEMENT_045": {
       "name": "A Mother's Gift",
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/60b7fe03b8d84a3c4501b5d33641af29b136e90b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "23.1"
     },
     "CODA_ACHIEVEMENT_046": {
       "name": "A Shining Light",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/118776b17a99d6ef758b67615836ab087040cf5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "17.6"
     },
     "CODA_ACHIEVEMENT_022": {
       "name": "And Look Good Doing It",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/f69c3b5b692c6f0d93d5519cbf05887a13e1d51f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.2"
     },
     "CODA_ACHIEVEMENT_015": {
       "name": "Are You On Superlink?",
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/731ac76681d566569a42f9cbcb19b98da1118850.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "55.5"
     },
     "CODA_ACHIEVEMENT_039": {
       "name": "Atum's Call",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/56c1ee02b0a89f74a4a9abd0a3866e7c0d4bf4e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "34.8"
     },
     "CODA_ACHIEVEMENT_051": {
       "name": "Back in Time for Lunch",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/8cb1fe2a9db841de498916edbd92f7ab1123527a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.9"
     },
     "CODA_DLC_ACHIEVEMENT_012": {
       "name": "Beyond Biochemistry",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/88181c6a695ca0893273a016ee8e2dcde6a7e13a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ecb1167cdc3f20d6b4006ade1b66ad18788dbad7.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Hunger"
+      "group": "Marvel's Midnight Suns - The Hunger",
+      "percent": "10.8"
     },
     "CODA_ACHIEVEMENT_081": {
       "name": "Big Game Hunter",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/61fe5d5f285aa8ba92a9c8e15c40082a3c96b175.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "3.7"
     },
     "CODA_ACHIEVEMENT_064": {
       "name": "Big Guns",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/a499d9e9f65cb66fb5c377e727aaf691aa13b200.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.9"
     },
     "CODA_ACHIEVEMENT_010": {
       "name": "Big Mad",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/971ea1b96e3d43c6de75c748b774a28574705f91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "24.8"
     },
     "CODA_DLC_ACHIEVEMENT_018": {
       "name": "Blessings of the Goddess",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/363b3751955cf4bc6db6fe8a36cbfcc3703e6c9e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Blood Storm"
+      "group": "Marvel's Midnight Suns - Blood Storm",
+      "percent": "5.1"
     },
     "CODA_DLC_ACHIEVEMENT_016": {
       "name": "Blood Storm",
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/dbc232d4c796737caaea39d1e3ddcf6b909d3e35.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Blood Storm"
+      "group": "Marvel's Midnight Suns - Blood Storm",
+      "percent": "9.4"
     },
     "CODA_DLC_ACHIEVEMENT_013": {
       "name": "Bond of Blood",
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/c69e47968df3262576f7deced5540b17eafa1bea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ecb1167cdc3f20d6b4006ade1b66ad18788dbad7.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Hunger"
+      "group": "Marvel's Midnight Suns - The Hunger",
+      "percent": "4.6"
     },
     "CODA_ACHIEVEMENT_021": {
       "name": "Cape of Many Colors",
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/1a8d13473d312ab0809660dccee7e65897ef2ef0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.6"
     },
     "CODA_ACHIEVEMENT_049": {
       "name": "Challenge Accepted",
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/0f2a45e3f1a740d125d65cd33fc94beb9b23a63a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "26.2"
     },
     "CODA_ACHIEVEMENT_055": {
       "name": "Collateral Damage",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/acd02853019c798c4463591850217ebe44633367.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "21.3"
     },
     "CODA_DLC_ACHIEVEMENT_007": {
       "name": "Comeback King",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/4b34799de31d7a9aefcba5581205bf7f0acfd57e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Redemption"
+      "group": "Marvel's Midnight Suns - Redemption",
+      "percent": "11.8"
     },
     "CODA_ACHIEVEMENT_016": {
       "name": "Did We Just Become Best Friends?",
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/a30f1302b4f364f3ad18ffef46801ea69301bb03.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "29.5"
     },
     "CODA_DLC_ACHIEVEMENT_002": {
       "name": "Dr. Deadpool, MD, PhD, JD, RN, CPA",
@@ -177,7 +198,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ae49d632bf5c4fdec5d0ef7cbf726b16ad840a57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead"
+      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead",
+      "percent": "16.3"
     },
     "CODA_DLC_ACHIEVEMENT_021": {
       "name": "Dracula's Tomb",
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/f29e40d66f2c091766161d41fa6ee22bc6dffe07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Blood Storm"
+      "group": "Marvel's Midnight Suns - Blood Storm",
+      "percent": "8.1"
     },
     "CODA_ACHIEVEMENT_056": {
       "name": "Dream Team",
@@ -193,7 +216,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/e1bad693ce13b38faa118be7edfc0d72b11da8c3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.0"
     },
     "CODA_DLC_ACHIEVEMENT_017": {
       "name": "Elemental Teachings",
@@ -201,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/96ea5973a46053970eb2dc8e9fc68e0989fe028a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Blood Storm"
+      "group": "Marvel's Midnight Suns - Blood Storm",
+      "percent": "10.7"
     },
     "CODA_ACHIEVEMENT_038": {
       "name": "Elemental, My Dear Agatha",
@@ -209,7 +234,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/50a90c901cf9abfa492517bda426691a45d6ec21.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "40.5"
     },
     "CODA_ACHIEVEMENT_031": {
       "name": "Extracurricular Activities",
@@ -217,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/4844139622a1dfd98547330702d62573402bf522.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "16.7"
     },
     "CODA_ACHIEVEMENT_013": {
       "name": "Family is Forever",
@@ -225,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/af728274db37d82de9935688790c51d15a9cbabc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "18.6"
     },
     "CODA_ACHIEVEMENT_025": {
       "name": "Fire Burn and Cauldron Bubble",
@@ -233,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/a2c27f8229bcaae15eec958376c3669d641dee3d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "36.5"
     },
     "CODA_ACHIEVEMENT_017": {
       "name": "Friendship is Magic",
@@ -241,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/16025f220a7033ed21d3be3cb9886715c245d1c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.3"
     },
     "CODA_ACHIEVEMENT_048": {
       "name": "Fully Armed",
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/1f06bfcba44e7612d48f93c87831ede358f0262f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "8.1"
     },
     "CODA_ACHIEVEMENT_028": {
       "name": "Fully Operational",
@@ -257,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/2f96a398e91ddc17f1c5fbfac878d9eb4b4e7cda.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.5"
     },
     "CODA_DLC_ACHIEVEMENT_005": {
       "name": "Hemophobic",
@@ -265,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ddda5e2ada10065f3162c332c64d777d9d0a08d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead"
+      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead",
+      "percent": "24.7"
     },
     "CODA_ACHIEVEMENT_019": {
       "name": "Hunter the Explorer",
@@ -273,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeb055185f2df91b0ffdd2d12037761a2d8b12dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "15.8"
     },
     "CODA_ACHIEVEMENT_040": {
       "name": "Hyppus' Aid",
@@ -281,7 +315,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/7d845625ce9743109572f1a5f7442fea3495c05a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "26.2"
     },
     "CODA_DLC_ACHIEVEMENT_010": {
       "name": "It's All Connected",
@@ -289,7 +324,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/3d6d565b1f6a3af0b6c675157ebdc8c3c7f7d6d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Redemption"
+      "group": "Marvel's Midnight Suns - Redemption",
+      "percent": "3.5"
     },
     "CODA_ACHIEVEMENT_058": {
       "name": "Kitchen Sink",
@@ -297,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/60fb2bdb6b6e312e860c2200aaecda86ede56ddd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.3"
     },
     "CODA_ACHIEVEMENT_053": {
       "name": "KKRRAKATHOOM",
@@ -305,7 +342,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/0a0e3c5ba8f95f4affb5a499e2d42763095d5e07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "19.2"
     },
     "CODA_DLC_ACHIEVEMENT_008": {
       "name": "Lethal Protector",
@@ -313,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/70f65dd714435a2f010b0f0f7cfa755838d50584.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Redemption"
+      "group": "Marvel's Midnight Suns - Redemption",
+      "percent": "5.0"
     },
     "CODA_ACHIEVEMENT_001": {
       "name": "Lilith Returns",
@@ -321,7 +360,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/bf6e75c8dd833f1145a46a7563860b941e8a0847.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "88.1"
     },
     "CODA_DLC_ACHIEVEMENT_014": {
       "name": "Living Vampire",
@@ -329,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/a8d054d29f585a90cbbb0e459b45cbe6784769bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ecb1167cdc3f20d6b4006ade1b66ad18788dbad7.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Hunger"
+      "group": "Marvel's Midnight Suns - The Hunger",
+      "percent": "11.4"
     },
     "CODA_ACHIEVEMENT_023": {
       "name": "Make a House a Home",
@@ -337,7 +378,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/31e8251a0e52e0b33a9b9e2739955c63a3a26313.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "35.5"
     },
     "CODA_ACHIEVEMENT_024": {
       "name": "Might Need Pockets",
@@ -345,7 +387,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/2dd6c9e6ca68dab42aa95fcedb5b9a4ffd508dbc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "52.6"
     },
     "CODA_ACHIEVEMENT_062": {
       "name": "Needful Things",
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/47df591927520de1ebc868b6b0a9431006424236.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "16.6"
     },
     "CODA_DLC_ACHIEVEMENT_009": {
       "name": "Never Been Satisfied",
@@ -361,7 +405,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/517b7857ee6dcfdb857200df3d9ad58601370d95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Redemption"
+      "group": "Marvel's Midnight Suns - Redemption",
+      "percent": "12.0"
     },
     "CODA_ACHIEVEMENT_060": {
       "name": "Not a Scratch",
@@ -369,7 +414,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/4e65820ee81738a9d70d46735fcc9969ae6f9306.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "26.0"
     },
     "CODA_ACHIEVEMENT_003": {
       "name": "Oshtur's Gift",
@@ -377,7 +423,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/98c30b548b047074a353c0991c1361e09e353ccf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "66.2"
     },
     "CODA_DLC_ACHIEVEMENT_019": {
       "name": "Patience, Young One",
@@ -385,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/fbbb04ddc6a4ffeb415afbc4a7406d03e3ecc7ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Blood Storm"
+      "group": "Marvel's Midnight Suns - Blood Storm",
+      "percent": "4.8"
     },
     "CODA_ACHIEVEMENT_061": {
       "name": "Pinball Wizard",
@@ -393,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/6fac93e7a17d7ab3ec9ac790dd622d9cebecfc03.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "41.7"
     },
     "CODA_ACHIEVEMENT_054": {
       "name": "Quantity is Quality",
@@ -401,7 +450,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/df64988ff5ee8391c053e54348592926a9e3de47.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "40.1"
     },
     "CODA_DLC_ACHIEVEMENT_006": {
       "name": "Redemption",
@@ -409,7 +459,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/b81e5df97078546d7cc1800c28e54a04b034a00a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Redemption"
+      "group": "Marvel's Midnight Suns - Redemption",
+      "percent": "13.4"
     },
     "CODA_ACHIEVEMENT_041": {
       "name": "Set's Favor",
@@ -417,7 +468,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/2cdf7838358383a4df291a9019a870d6c9425f51.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "23.4"
     },
     "CODA_DLC_ACHIEVEMENT_020": {
       "name": "Shocking Development",
@@ -425,7 +477,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ba85f88f9440683ca3a604d900424eca502fa6f5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - Blood Storm"
+      "group": "Marvel's Midnight Suns - Blood Storm",
+      "percent": "1.7"
     },
     "CODA_ACHIEVEMENT_035": {
       "name": "Some Minor Adjustments",
@@ -433,7 +486,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/c88ffc2ead57985886fd9d305cd132ece86f6405.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.2"
     },
     "CODA_ACHIEVEMENT_057": {
       "name": "Speed Kills",
@@ -441,7 +495,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/992f5bd684178651586cfba09f2cc29469c5ca48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "43.7"
     },
     "CODA_ACHIEVEMENT_032": {
       "name": "Spread the Pain",
@@ -449,7 +504,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/05d71832f2a3220da4d32f658091cd4a81471a32.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "12.7"
     },
     "CODA_ACHIEVEMENT_037": {
       "name": "T.H.R.E.A.T. Eliminated",
@@ -457,7 +513,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/c83dc2f95920cd97aacc2914a195393e994b58b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.4"
     },
     "CODA_DLC_ACHIEVEMENT_003": {
       "name": "That Special Feeling",
@@ -465,7 +522,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/e1477bfd5aa275d7df9a00575713fe22fda4b5b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead"
+      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead",
+      "percent": "6.9"
     },
     "CODA_ACHIEVEMENT_029": {
       "name": "The Best Girl",
@@ -473,7 +531,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/47566c105761547afa262d0b6ed24db27845e9a5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "12.3"
     },
     "CODA_DLC_ACHIEVEMENT_001": {
       "name": "The Good, the Bad, and the Undead",
@@ -481,7 +540,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/5a80cc21e31d35d7ffa3da7095d3c3dbd1f32334.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead"
+      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead",
+      "percent": "18.6"
     },
     "CODA_DLC_ACHIEVEMENT_011": {
       "name": "The Hunger",
@@ -489,7 +549,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/723e4d401f574535fdc3c9e5c1556479a0b087eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ecb1167cdc3f20d6b4006ade1b66ad18788dbad7.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Hunger"
+      "group": "Marvel's Midnight Suns - The Hunger",
+      "percent": "11.4"
     },
     "CODA_ACHIEVEMENT_042": {
       "name": "The Keymaster",
@@ -497,7 +558,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/e0d275a56d80bc796c404c3981a3d7f5698b450a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "31.3"
     },
     "CODA_DLC_ACHIEVEMENT_004": {
       "name": "Time to Make the Chimichangas!",
@@ -505,7 +567,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/eb1579c7503fe2c68d8ea0996c5a29e2df210246.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/aeffc2926db30068ab3e1c28578887ec885762a2.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead"
+      "group": "Marvel's Midnight Suns - The Good, the Bad, and the Undead",
+      "percent": "5.9"
     },
     "CODA_ACHIEVEMENT_063": {
       "name": "Trading Up",
@@ -513,7 +576,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/0ea529112e8481dee7fa9c2cdb09ea6b8e9f4150.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "41.3"
     },
     "CODA_ACHIEVEMENT_030": {
       "name": "Unrequited Love",
@@ -521,7 +585,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/536753476e3618aa5f901c36d1be1aa2d105f205.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.6"
     },
     "CODA_ACHIEVEMENT_052": {
       "name": "We Have Ways",
@@ -529,7 +594,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/c767a2c13e4983045bdf9908cff412e0f79bf7a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "35.3"
     },
     "CODA_DLC_ACHIEVEMENT_015": {
       "name": "What's In This, Anyway?",
@@ -537,7 +603,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/13ebbe7fe77bc324c578016e583e4d32e5101674.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/ecb1167cdc3f20d6b4006ade1b66ad18788dbad7.jpg",
       "hidden": false,
-      "group": "Marvel's Midnight Suns - The Hunger"
+      "group": "Marvel's Midnight Suns - The Hunger",
+      "percent": "5.3"
     },
     "CODA_ACHIEVEMENT_059": {
       "name": "Wilhelm Scream",
@@ -545,7 +612,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/add1d72268c93b611f31bed279b86b7f8d060bdf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "33.3"
     },
     "CODA_ACHIEVEMENT_043": {
       "name": "Wisdom of the Woods",
@@ -553,7 +621,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/95ca9bc1e91e55a8d8bafd335150f37e12338986.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.5"
     },
     "CODA_ACHIEVEMENT_026": {
       "name": "With a Box of Scraps",
@@ -561,7 +630,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/19ea5f0e716347b6c439fb9730003d952a2a359a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "41.2"
     },
     "CODA_ACHIEVEMENT_027": {
       "name": "You Absolute Legend",
@@ -569,7 +639,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/44f5ca2f45d7001f918cf536f46ebe40eeee9805.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "38.4"
     },
     "CODA_ACHIEVEMENT_050": {
       "name": "You Have the Lead",
@@ -577,7 +648,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/2dd457b25dff152a7e95482aff1e636fb0a3f5b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/368260/24d1b92f0b932673d0215a76f36771f6b1b90420.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.2"
     }
   },
   "platform": "Steam",
