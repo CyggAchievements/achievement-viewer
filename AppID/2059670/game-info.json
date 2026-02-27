@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/8e890dbe388d1cf53904eb71ebb59337e3f30a8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "80.3"
     },
     "ACH_MOSS2_HALF_RELICDUST": {
       "name": "A Light Dusting",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/a8145b18c9fe4e93676e48a785c903d39f273bcb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "35.1"
     },
     "ACH_MOSS2_BOND_4": {
       "name": "A Realm Grown Complacent",
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/df83d793662bdce1327f0d44982fab60927ffa48.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "19.3"
     },
     "ACH_MOSS2_ENEMY_INTERCEPT": {
       "name": "Ablative Armor",
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/945a8b4d7d0fed4ce8d38cbb2045e186d05f3af1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "23.7"
     },
     "ACH_MOSS2_PLOT_HAMMER": {
       "name": "Arm Day",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/eb140fe02a3fc1c541055bd4ebc865f534cee075.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.1"
     },
     "ACH_MOSS2_BOND_3": {
       "name": "Babe With the Power",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/63425f0ac158b3e6334cd78a42f4b3e522bb3608.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "29.1"
     },
     "ACH_MOSS2_ENEMY_TICKER": {
       "name": "Chain Reaction",
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/4a76f11e2629fe2183b6201f92c671b6cace81ce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "38.9"
     },
     "ACH_MOSS2_WINDOW_ALL": {
       "name": "Curator",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/b28aa8cb7bc3aeaa37dae487df77ae0965e03b06.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "4.4"
     },
     "ACH_MOSS2_RELICDUST": {
       "name": "Dust Buster",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/f176c81e962b1ee77330f31da59013206e60ada9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.1"
     },
     "ACH_MOSS2_WINDOW_THREE": {
       "name": "Eternal Light",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/5b41edc1dd5e14ea975d04b02722443b119db9b6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "13.9"
     },
     "ACH_MOSS2_BOSS_WARDEN": {
       "name": "Forged in the Deep",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ba859ffa6bf2c70e89d14e0ce12d07cc46bd67f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "30.2"
     },
     "ACH_MOSS2_ENEMY_SCREECHER": {
       "name": "From Whence You Came",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/260fdef61d09f80cc9ecf894bdfc25d2ddde83c3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "42.4"
     },
     "ACH_MOSS2_BOND_2": {
       "name": "Glow Up",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/5a2082fe05389eedbc501e0c2c337f960326a24d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "54.6"
     },
     "ACH_MOSS2_PLOT_NATUREATTUNE": {
       "name": "Green Thumb",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/649b3bd85f16e6ba6c577d6fa511488392887ba1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "57.7"
     },
     "ACH_MOSS2_ENEMY_SCORCHER": {
       "name": "High Noon",
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/034790b2db418dda92a99f97848ab72c96b8032e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "14.8"
     },
     "ACH_MOSS2_INCREMENTAL1": {
       "name": "It's like bubble wrap.",
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c9f72de05b7cc91fa7f93709a4b193440f282e72.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "16.6"
     },
     "ACH_MOSS2_BOSS_CONSERVATORY": {
       "name": "Keeper of the Hex",
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/4dfa48725548636759674d722f6a583f8af88996.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "39.8"
     },
     "ACH_MOSS2_INCREMENTAL2": {
       "name": "Lawnmower Mouse",
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/a9468e4bbeb27ab7fdae7e5e2943c9873ca4159c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "3.8"
     },
     "ACH_MOSS2_ENEMY_LOBBER": {
       "name": "Minesweeper",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/285071ec7894fca92282d2b1719a5af1c24b5fb9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "33.2"
     },
     "ACH_MOSS2_ENEMY_ARMORED": {
       "name": "Nutcracker",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/20845dae09d166aec2f875ec402256f48cbf51cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "4.5"
     },
     "ACH_MOSS2_DUSTDOOR_ONE": {
       "name": "Obtainer of Rare Antiquities",
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/f389fc36f14e586654e25b2a2e63495d39096a52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "54.7"
     },
     "ACH_MOSS2_WEAPON_SWORD": {
       "name": "Poetry In Motion",
@@ -177,7 +198,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/0782ee1c0a9a3022d6ebbecfbe977c95d1d63885.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.3"
     },
     "ACH_MOSS2_BOND_5": {
       "name": "Quick-Change Artist",
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c3f5cce7b37aa88c1a0cd60268a3a6ab1393a9bf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "11.2"
     },
     "ACH_MOSS2_WINDOW_ONE": {
       "name": "Restoration",
@@ -193,7 +216,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c4a21a6db5f2f9b39d83d445f59ee8ac807409b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "41.0"
     },
     "ACH_MOSS2_ENEMY_PILLBUG": {
       "name": "Rollin' Rollin' Rollin'",
@@ -201,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/9cb97aba1a57470b1034c22520ff3d38f2939d53.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "45.8"
     },
     "ACH_MOSS2_BOND_1": {
       "name": "Tailspin",
@@ -209,7 +234,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/35039d13be5ae0c60b8239e21c4d48554f3d0334.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.9"
     },
     "ACH_MOSS2_TUTORIAL_FIGHT": {
       "name": "The Battle Begins",
@@ -217,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/bdd1354e9c99f5c0420c0ac3fc1968fcf5ba1808.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/02063d1d25bf0e00b9d311115f0e657a9fd5e4d1.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "78.1"
     },
     "ACH_MOSS2_LOCATION_CASTLE": {
       "name": "The Castle",
@@ -225,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/bf2763c5b5bad293020b24bc1c3a353c11268467.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "89.2"
     },
     "ACH_MOSS2_LOCATION_CONSERVATORY": {
       "name": "The Conservatory",
@@ -233,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/08582e37460ce5870325e343731dc33729eeb90f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "46.3"
     },
     "ACH_MOSS2_LOCATION_DEPTHS": {
       "name": "The Depths",
@@ -241,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ae94f3e2d7190aca103df864fb0ad97d7fa81900.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "33.9"
     },
     "ACH_MOSS2_LOCATION_FOUNDRY": {
       "name": "The Foundry",
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/dc61be0353c3a1dd83a3641131d9b7cf781e2c20.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.6"
     },
     "ACH_MOSS2_LOCATION_GARDEN": {
       "name": "The Garden",
@@ -257,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/c0354bc564afa3296db36abae38a23b57cc194cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "48.4"
     },
     "ACH_MOSS2_LOCATION_MOUNTAINS": {
       "name": "The Mountains",
@@ -265,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/60646d4660461f586df5f4b2b1b4d817d6db3264.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "37.7"
     },
     "ACH_MOSS2_LOCATION_PINNACLE": {
       "name": "The Pinnacle",
@@ -273,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/dd08e905d1f4a1533091a5ba3308620d72078669.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "29.3"
     },
     "ACH_MOSS2_LOCATION_SPRITEREALM": {
       "name": "The Sprite Realm",
@@ -281,7 +315,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/e6b9ec0b097d2b54ebf3dd06bf38469ece514516.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "65.3"
     },
     "ACH_MOSS2_WEAPON_CHAKRAM": {
       "name": "There and Back Again",
@@ -289,7 +324,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ff6c925e8903ee92a22b3411becbdd5be58b9bf8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.7"
     },
     "ACH_MOSS2_WEAPON_HAMMER": {
       "name": "Thimble-Sized Thor",
@@ -297,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/dd617aa879b950a928e42e17689274b252db3576.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "18.0"
     },
     "ACH_MOSS2_BOSS_TYLAN": {
       "name": "Torched Wings",
@@ -305,7 +342,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/165b3a3ad237192676fc383b84c053fe8c82cb72.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.7"
     },
     "ACH_MOSS2_BOND_REUNITED": {
       "name": "Unbreakable Bond",
@@ -313,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/f95a9fad55a850d49223ab027adb99a0bb91c156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "33.2"
     },
     "ACH_MOSS2_DUSTDOOR_THREE": {
       "name": "We Call This Archaeology",
@@ -321,7 +360,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/ac2a22eee13267e3f78497b031854ae9e1b477b0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.7"
     },
     "ACH_MOSS2_SCROLL_FIRST": {
       "name": "What Was Lost",
@@ -329,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/d363ce57f6ccf9136f27de5b0562de7dfaa6a207.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "82.9"
     },
     "ACH_MOSS2_PLOT_CHAKRAM": {
       "name": "Whistle While You Work",
@@ -337,7 +378,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/fcbbc09abcfa7f0b5d3aa7d3eccf1b9a586d42bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "37.5"
     },
     "ACH_MOSS2_BOND_6": {
       "name": "With Friends Like These",
@@ -345,7 +387,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/e9b77fd38ca1093cc668b5d664bb8374c80a7240.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.4"
     },
     "ACH_MOSS2_GAMECOMPLETE": {
       "name": "You Saved Moss",
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/9d477108ec449ca9319179611e61e3efb76e12a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.7"
     },
     "ACH_MOSS2_PLOT_SWORDDASH": {
       "name": "Zoom Zoom",
@@ -361,7 +405,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/a455949d6653c5cea7448642d3acc6ecd17292a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "44.7"
     }
   },
   "platform": "Steam",
