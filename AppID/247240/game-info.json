@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/295f34d605ac17d6d2eb81f7cf5b4cf43d6fb86b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.6"
     },
     "ACHIEVEMENT_0": {
       "name": "By the Power of Gray-Skill...",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/ec60b440a3f69c2e0cd11a7a21e1168d5e08fe7b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "51.7"
     },
     "ACHIEVEMENT_16": {
       "name": "Don't Nidhoggr All the Ale",
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/ce734cefc5e83a37bf957901da6c3c327f013fe3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.6"
     },
     "ACHIEVEMENT_2": {
       "name": "I Will Have My Vengeance!",
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/25adde173cfc30df0ae9c56b5833f29426048b5a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "24.1"
     },
     "ACHIEVEMENT_4": {
       "name": "If It Bleeds, You Can Kill It",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/63c066f32a0c4526b017291cd0e584c280536f96.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.1"
     },
     "ACHIEVEMENT_8": {
       "name": "Let Off Some Steam, Bennett",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/410ffcb8c56a904d9beb653d1ebaa231f551a3cb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "40.3"
     },
     "ACHIEVEMENT_10": {
       "name": "Nothing Can Stop Me",
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/c2847b2708b2d1f3ab93c2258aa446250e6e6405.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "37.6"
     },
     "ACHIEVEMENT_9": {
       "name": "On the Highway to Hel",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/1ef4d23aa31cf9a146af71768083b83750084d4b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "7.9"
     },
     "ACHIEVEMENT_5": {
       "name": "On the Wings of Glory",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/1e102f66f94bd20532f90c08dc6c586166f68ac4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.8"
     },
     "ACHIEVEMENT_6": {
       "name": "Red Means Dead",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/6fd22a4ac8b5225312c4258f9833c68793a44a27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.5"
     },
     "ACHIEVEMENT_7": {
       "name": "Shield Gots My Back",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/0a046762a5cb55feb15baa83dbc2080ec42b5247.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "34.3"
     },
     "ACHIEVEMENT_3": {
       "name": "Sock It to Me Nakatomi",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/056c26f6c64801430d6b2467eaed56402f328066.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.5"
     },
     "ACHIEVEMENT_15": {
       "name": "That Was...Unexpected",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/30c945976f30bb7c6be74bfa48fcd254aa56241d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.8"
     },
     "ACHIEVEMENT_1": {
       "name": "Thor's Blessing",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/bb35417efa60b8eb9412dd786d866535e1bad16f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "28.8"
     },
     "ACHIEVEMENT_19": {
       "name": "Viking Legend",
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5ee2f94dbcedb2206684c6f9897ea745413d57a3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.0"
     },
     "ACHIEVEMENT_17": {
       "name": "Viking Nipples of Steel",
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/602901fbce0bac2595e61afccca373a0d0613d92.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.7"
     },
     "ACHIEVEMENT_14": {
       "name": "Volgarr...You're Sooo Smooth",
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/265482a4a13a335313754e36914b5bc0fe378c89.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.7"
     },
     "ACHIEVEMENT_12": {
       "name": "Wealthier than the King of Sweden",
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/a12485bbf8a0cc8b53e6f5062f183b1f23c790f5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.9"
     },
     "ACHIEVEMENT_13": {
       "name": "What the Hel is \"Nar-Nee-Yah\"",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5265c4f9b5b094d49d02e956427e60d1f3c12337.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.0"
     },
     "ACHIEVEMENT_11": {
       "name": "You've Got the Touch, You've Got the Powah!",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/874669713ab72a10cafbe299cd02dc49babbc9e3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/247240/5c623439f6bc4e0ea96bcd569993cda780f1f95e.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "21.4"
     }
   },
   "platform": "Steam",
