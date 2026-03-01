@@ -9,8 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/4d41b3f46067320737ee1b1d6014f2faefa7f598.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "39.9"
+      "group": "Base Game"
     },
     "arrow": {
       "name": "A Hail of Arrows",
@@ -18,8 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/661e448655d7b86458899daa7163ec3cd3a8a7f9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.1"
+      "group": "Base Game"
     },
     "no_damage": {
       "name": "All Too Easy!",
@@ -27,8 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/23aab2e93f11b8c652f58535f3faec54f8934205.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.0"
+      "group": "Base Game"
     },
     "solo_pontius": {
       "name": "Alone and Mighty",
@@ -36,8 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/64d4d92409a2c9b41a9700fbf56f0bdd700b2a7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.8"
+      "group": "Base Game"
     },
     "level16_exp": {
       "name": "Belly of the Beast Collector",
@@ -45,8 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "2.5"
+      "group": "Goblin Menace DLC"
     },
     "bounce": {
       "name": "Bouncy Bouncy",
@@ -54,8 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1a0eee1d97630207bd03dcda705bbef58b483863.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "6.5"
+      "group": "Base Game"
     },
     "level17_exp": {
       "name": "Brackenridge Rise Collector",
@@ -63,8 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.6"
+      "group": "Goblin Menace DLC"
     },
     "grenade": {
       "name": "Cannonball Rebound",
@@ -72,8 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/6ccbf36af884fbc58cf0fda8f7cc57ef99dc195e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "7.7"
+      "group": "Goblin Menace DLC"
     },
     "charge": {
       "name": "Catch This!",
@@ -81,8 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e6e39e30235f9de37596bd92712c40dfce61bfd2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "2.7"
+      "group": "Goblin Menace DLC"
     },
     "hard_hc": {
       "name": "Challenge is My Middle Name",
@@ -90,8 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7998e8cdc0c2d86bc2b012dbe508f06636278f64.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.3"
+      "group": "Base Game"
     },
     "rope": {
       "name": "Cirque de Zoya",
@@ -99,8 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/6196c421095ae8f85d9d3516340743b79d4c6b65.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "24.8"
+      "group": "Base Game"
     },
     "level18_exp": {
       "name": "Cloudy Isles Collector",
@@ -108,8 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.7"
+      "group": "Goblin Menace DLC"
     },
     "level15_exp": {
       "name": "Deadly Dustland Collector",
@@ -117,8 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.8"
+      "group": "Goblin Menace DLC"
     },
     "friendly_fire": {
       "name": "Dirty Tactics",
@@ -126,8 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7e7486c627ef04a8cfb10a164f474c5d34041a82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "19.2"
+      "group": "Base Game"
     },
     "allhc_dlc": {
       "name": "Easy as Pie",
@@ -135,8 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/b86ec2e79b838f9cd703dfea4fd0dd2b73ffebeb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.3"
+      "group": "Goblin Menace DLC"
     },
     "level11_exp": {
       "name": "Eldritch Passages Collector",
@@ -144,8 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.8"
+      "group": "Base Game"
     },
     "solo": {
       "name": "Flying Solo",
@@ -153,8 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/01e3938773800af073bc0e52376318d0c7a42d60.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.3"
+      "group": "Base Game"
     },
     "level2_exp": {
       "name": "Forlorn Wilderness Collector",
@@ -162,8 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.5"
+      "group": "Base Game"
     },
     "level8_completed": {
       "name": "Funs with Fungi",
@@ -171,8 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "33.5"
+      "group": "Base Game"
     },
     "allexp_dlc": {
       "name": "Goblin Menace Collector",
@@ -180,8 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.6"
+      "group": "Goblin Menace DLC"
     },
     "allexp_both": {
       "name": "Grand Collector",
@@ -189,8 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.6"
+      "group": "Goblin Menace DLC"
     },
     "level17_completed": {
       "name": "Grand Theft Aviation",
@@ -198,8 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "15.9"
+      "group": "Goblin Menace DLC"
     },
     "hammer": {
       "name": "Hammer Havoc",
@@ -207,8 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0d90b6dc174ec1f316aafcf8be8608b4a2dc6770.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "35.9"
+      "group": "Base Game"
     },
     "level19_completed": {
       "name": "Happy Reunion",
@@ -216,8 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/59cc125bc8fdaa538351c2e8bbe144282be61348.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "14.6"
+      "group": "Goblin Menace DLC"
     },
     "tower": {
       "name": "High Rise",
@@ -225,8 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/4b1a06dd7054d0ed3038bdcba565a5d152a63f8a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.3"
+      "group": "Base Game"
     },
     "level7_completed": {
       "name": "Hostile Gardening",
@@ -234,8 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "36.0"
+      "group": "Base Game"
     },
     "level12_completed": {
       "name": "Hot and Cold",
@@ -243,8 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "25.8"
+      "group": "Base Game"
     },
     "level7_exp": {
       "name": "Hushing Grove Collector",
@@ -252,8 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.3"
+      "group": "Base Game"
     },
     "hazard": {
       "name": "I Didn't Do It",
@@ -261,8 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/5e0d67da3decca3646cc6713a41715050e6082b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "57.8"
+      "group": "Base Game"
     },
     "game_completed": {
       "name": "I want more!",
@@ -270,8 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1eb5412ebaf2548a30e8ae47012b443fa865afdc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "24.1"
+      "group": "Base Game"
     },
     "shatter": {
       "name": "Icebreaker",
@@ -279,8 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1d42c57412464408f7815967156984135e5fc773.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.6"
+      "group": "Base Game"
     },
     "level12_exp": {
       "name": "Icewarden Keep Collector",
@@ -288,8 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.9"
+      "group": "Base Game"
     },
     "level18_completed": {
       "name": "I'm Walking in the Air",
@@ -297,8 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "15.0"
+      "group": "Goblin Menace DLC"
     },
     "level16_completed": {
       "name": "Indigestion",
@@ -306,8 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "16.8"
+      "group": "Goblin Menace DLC"
     },
     "level1_completed": {
       "name": "Into the Story",
@@ -315,8 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "80.7"
+      "group": "Base Game"
     },
     "solo_zoya": {
       "name": "Like a Shadow",
@@ -324,8 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/27ecff890d0d957e2f35f70bd52f5c5352569eb3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.0"
+      "group": "Base Game"
     },
     "allchest": {
       "name": "Lost and Found",
@@ -333,8 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/bc6dd7d5765b40b816ee6203735952ee5971b38c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.6"
+      "group": "Base Game"
     },
     "level4_completed": {
       "name": "March Through the Marsh",
@@ -342,8 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "51.6"
+      "group": "Base Game"
     },
     "allexp": {
       "name": "Master Collector",
@@ -351,8 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/450a37ac33b263330a0cae07a18c9e13ecc0762d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.8"
+      "group": "Base Game"
     },
     "level4_exp": {
       "name": "Mosslight Marsh Collector",
@@ -360,8 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.3"
+      "group": "Base Game"
     },
     "level3_completed": {
       "name": "Mudproof Hero",
@@ -369,8 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "56.4"
+      "group": "Base Game"
     },
     "level3_exp": {
       "name": "Mudwater Dale Collector",
@@ -378,8 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "3.5"
+      "group": "Base Game"
     },
     "level8_exp": {
       "name": "Mushroom Caves Collector",
@@ -387,8 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.0"
+      "group": "Base Game"
     },
     "level9_exp": {
       "name": "Mushroom Murk Collector",
@@ -396,8 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.4"
+      "group": "Base Game"
     },
     "sandworm": {
       "name": "Mutually Assured Destruction",
@@ -405,8 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/c7305e49a05cb619cad77822e64187639a5ffea7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "3.5"
+      "group": "Goblin Menace DLC"
     },
     "level6_completed": {
       "name": "No More Lizard Soup",
@@ -414,8 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "40.6"
+      "group": "Base Game"
     },
     "level14_completed": {
       "name": "No Time to Change Clothes",
@@ -423,8 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "20.0"
+      "group": "Goblin Menace DLC"
     },
     "solo_amadeus": {
       "name": "O Solo Mio",
@@ -432,8 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/25c94d9352f9fbef1e7aff71fa6a03b2b397b880.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.9"
+      "group": "Base Game"
     },
     "catapult": {
       "name": "Off You Go",
@@ -441,8 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/9ff3472e38b519fd0e72aab76d89ac0630f1d1c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "2.8"
+      "group": "Goblin Menace DLC"
     },
     "level10_completed": {
       "name": "Pearl Diver",
@@ -450,8 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "30.9"
+      "group": "Base Game"
     },
     "level5_exp": {
       "name": "Petrified Tree Collector",
@@ -459,8 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.7"
+      "group": "Base Game"
     },
     "catch": {
       "name": "Play Catch",
@@ -468,8 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/7b221803c5856c24afc4a4c9cb1b92985b3c9af3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "5.3"
+      "group": "Goblin Menace DLC"
     },
     "air_hammer": {
       "name": "Pontius Baseball",
@@ -477,8 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/65cd801ec95b8e05d3382b1b4daac1a81b9be5c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.9"
+      "group": "Goblin Menace DLC"
     },
     "pontiusglide": {
       "name": "Pontius Transportation Company",
@@ -486,8 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ae24719e9d898bb338d6093fe45de2659b752b3b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "4.1"
+      "group": "Goblin Menace DLC"
     },
     "raft": {
       "name": "Rafting",
@@ -495,8 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ab5440d9e2fe7e551f41f270a23b822bfd0e8f56.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.6"
+      "group": "Goblin Menace DLC"
     },
     "hard_hc_dlc": {
       "name": "Rise to the Challenge",
@@ -504,8 +449,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e76e22aba217366a0b64d2a41d6fb8d7f2b40c31.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.5"
+      "group": "Goblin Menace DLC"
     },
     "level13_chest": {
       "name": "Rosabel's Secrets",
@@ -513,8 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "5.6"
+      "group": "Base Game"
     },
     "level10_exp": {
       "name": "Searock Castle Collector",
@@ -522,8 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.9"
+      "group": "Base Game"
     },
     "level16_chest": {
       "name": "Secrets of Belly of the Beast",
@@ -531,8 +473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "7.4"
+      "group": "Goblin Menace DLC"
     },
     "level17_chest": {
       "name": "Secrets of Brackenridge Rise",
@@ -540,8 +481,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "5.9"
+      "group": "Goblin Menace DLC"
     },
     "level18_chest": {
       "name": "Secrets of Cloudy Isles",
@@ -549,8 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "5.9"
+      "group": "Goblin Menace DLC"
     },
     "level15_chest": {
       "name": "Secrets of Deadly Dustland",
@@ -558,8 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "6.4"
+      "group": "Goblin Menace DLC"
     },
     "level11_chest": {
       "name": "Secrets of Eldritch Passages",
@@ -567,8 +505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "13.0"
+      "group": "Base Game"
     },
     "level2_chest": {
       "name": "Secrets of Forlorn Wilderness",
@@ -576,8 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "42.9"
+      "group": "Base Game"
     },
     "level7_chest": {
       "name": "Secrets of Hushing Grove",
@@ -585,8 +521,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "15.2"
+      "group": "Base Game"
     },
     "level12_chest": {
       "name": "Secrets of Icewarden Keep",
@@ -594,8 +529,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "18.4"
+      "group": "Base Game"
     },
     "level4_chest": {
       "name": "Secrets of Mosslight Marsh",
@@ -603,8 +537,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "23.5"
+      "group": "Base Game"
     },
     "level3_chest": {
       "name": "Secrets of Mudwater Dale",
@@ -612,8 +545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "12.7"
+      "group": "Base Game"
     },
     "level8_chest": {
       "name": "Secrets of Mushroom Caves",
@@ -621,8 +553,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "20.6"
+      "group": "Base Game"
     },
     "level9_chest": {
       "name": "Secrets of Mushroom Murk",
@@ -630,8 +561,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "11.6"
+      "group": "Base Game"
     },
     "level5_chest": {
       "name": "Secrets of Petrified Tree",
@@ -639,8 +569,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "18.9"
+      "group": "Base Game"
     },
     "level10_chest": {
       "name": "Secrets of Searock Castle",
@@ -648,8 +577,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "18.4"
+      "group": "Base Game"
     },
     "level6_chest": {
       "name": "Secrets of Shadowed Halls",
@@ -657,8 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "24.8"
+      "group": "Base Game"
     },
     "level14_chest": {
       "name": "Secrets of the Heroes Return",
@@ -666,8 +593,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1395b8e7766ba76b1d203e7cc97f8c67da4ca76f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "7.4"
+      "group": "Goblin Menace DLC"
     },
     "level6_exp": {
       "name": "Shadowed Halls Collector",
@@ -675,8 +601,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "4.7"
+      "group": "Base Game"
     },
     "expbottle": {
       "name": "Sharp-Eyed",
@@ -684,8 +609,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e21249f3821e1a01850a9952abb7afa70019bb02.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "28.1"
+      "group": "Base Game"
     },
     "expbottle_dlc": {
       "name": "Sharpeyed II (Goblin Menace Expansion)",
@@ -693,8 +617,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/e21249f3821e1a01850a9952abb7afa70019bb02.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "2.7"
+      "group": "Goblin Menace DLC"
     },
     "level9_completed": {
       "name": "Shrooms and Glooms",
@@ -702,8 +625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "32.5"
+      "group": "Base Game"
     },
     "level11_completed": {
       "name": "Sinister Plumbing",
@@ -711,8 +633,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "28.1"
+      "group": "Base Game"
     },
     "frozen_tower": {
       "name": "Snowman",
@@ -720,8 +641,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0b2b125c3057c918018b10be39d49f209c36b1c5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.9"
+      "group": "Base Game"
     },
     "level15_completed": {
       "name": "Sunstroke",
@@ -729,8 +649,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "18.5"
+      "group": "Goblin Menace DLC"
     },
     "surf": {
       "name": "Surfboard Master",
@@ -738,8 +657,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/438efab3896436d5e628a076564675a5769bdaaf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "7.7"
+      "group": "Base Game"
     },
     "level14_exp": {
       "name": "The Heroes Return Collector",
@@ -747,8 +665,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.8"
+      "group": "Goblin Menace DLC"
     },
     "pontiustower": {
       "name": "The Leaning Tower of Pontius",
@@ -756,8 +673,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/73013673f6aacd149924e5d65e439b9e8aee7605.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "4.7"
+      "group": "Goblin Menace DLC"
     },
     "level1_exp": {
       "name": "The Story Begins Collector",
@@ -765,8 +681,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/ceae3829f88341bd533e91aaca5618ac623d4156.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "25.8"
+      "group": "Base Game"
     },
     "allchest_dlc": {
       "name": "The Treasurer",
@@ -774,8 +689,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/bc6dd7d5765b40b816ee6203735952ee5971b38c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "2.7"
+      "group": "Goblin Menace DLC"
     },
     "pit": {
       "name": "This is Trine!",
@@ -783,8 +697,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/042ec82a8a332a34a00485e259ba5917b9431d19.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.4"
+      "group": "Goblin Menace DLC"
     },
     "bubble": {
       "name": "This Wasn't the Plan",
@@ -792,8 +705,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/15ba8c833b567edfe0e0c6330f044ffb04d5df3f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "8.0"
+      "group": "Base Game"
     },
     "level13_completed": {
       "name": "Through Dangers Untold",
@@ -801,8 +713,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "25.1"
+      "group": "Base Game"
     },
     "level5_completed": {
       "name": "Treehouse Adventure",
@@ -810,8 +721,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "45.7"
+      "group": "Base Game"
     },
     "platinum": {
       "name": "Trine 2 hard",
@@ -819,8 +729,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/0c4bb821a4eb1c614c026079c1f820c05b504890.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/1c63db1ad369e34fe746a75d6d460099a5a6b507.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.6"
+      "group": "Base Game"
     },
     "platinum_dlc": {
       "name": "Trine 2 Hard II (Goblin Menace Expansion)",
@@ -828,8 +737,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/933327fe235d91a8c36aea99b43e0e1c5bfa0eda.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.3"
+      "group": "Goblin Menace DLC"
     },
     "solo_dlc_levels": {
       "name": "Trine Kaput For Good?",
@@ -837,8 +745,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/5668565896c5bf79d468b095ebcbad3609d0800f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Goblin Menace DLC",
-      "percent": "1.3"
+      "group": "Goblin Menace DLC"
     },
     "solo_all": {
       "name": "Trine Kaput?",
@@ -846,8 +753,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/a2dfd066c5b2b4b2e3626ab2588ca6d49cd83e76.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.7"
+      "group": "Base Game"
     },
     "allhc": {
       "name": "Walk in the Park",
@@ -855,8 +761,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/f7501eb53ad9305e4d3ab3e449b993829acd334b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "1.4"
+      "group": "Base Game"
     },
     "trapstack": {
       "name": "Wicked Collection",
@@ -864,8 +769,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/01bca7710eda2d62d2ed47cafeaed7ae1c35899b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "2.3"
+      "group": "Base Game"
     },
     "level2_completed": {
       "name": "Wild in Wilderness",
@@ -873,8 +777,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/09a37cd7b99d8086ec0429d9e9ad0d0bef616526.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/35720/dd3f22d3d000875f26759bfe524b4860b6d23377.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "63.8"
+      "group": "Base Game"
     }
   },
   "platform": "Steam",
