@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/ccf6120b7a53d983cdc2a503e9010da04683c106.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "24.9"
     },
     "042": {
       "name": "A Baby Blessing",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/33e91848085579a5d4ac93ea549f9aca819d4469.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "67.9"
     },
     "020": {
       "name": "A Helping Hand",
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/b047c543ac651db0a14a75867f9e316e6522a193.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "8.5"
     },
     "024": {
       "name": "A New Day for the UCA",
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/435cba538c20760569010b6a9188b32988d78145.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "74.0"
     },
     "055": {
       "name": "A Shout in the Dark",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/693454620203d13f59331f715bdc159f4a565b4d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "53.8"
     },
     "034": {
       "name": "A Thirst for Knowledge",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/dc849a65abfb25098e3f4257f34093d899c33aae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "53.0"
     },
     "059": {
       "name": "All Roads Lead to the UCA",
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/4251862cd09a2e1f8f16e4afa2c709c576ed10b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "38.3"
     },
     "053": {
       "name": "Any Porter in a Storm",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/4cf6e82b80d799cc2959b1f29ce2a77fca4f03e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.8"
     },
     "022": {
       "name": "Apprentice Builder",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/3d2446c27e9487d89a3c333d9ec46f8374ec04ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/38116b23fb77301c9227b3670cf5e093397f32ab.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "74.9"
     },
     "005": {
       "name": "BB...",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/b9cf850e0270a69ca4d6f5ac92c1ece035320f3d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "31.2"
     },
     "007": {
       "name": "BBs: A Bridge Between This World and the One Beyond",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/b3c45f68bc56b2834ccbec8387bacb28d6757a4c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "25.0"
     },
     "027": {
       "name": "Best Beloved",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/661f2b153919fdd7ad009cdf0ba2eafdb5020298.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "3.8"
     },
     "018": {
       "name": "Birth of a Legend",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/e13f11a92d646f4d88415a816ba6636a828cf95b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "4.6"
     },
     "047": {
       "name": "Boots Are a Porter's Best Friend",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/8806e3e964f7f7b6744e361087553a439fa6310c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "60.1"
     },
     "012": {
       "name": "Bring Back My Baby",
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/12b12c4986d8f151c580d0f6ac399151adce2bfc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.8"
     },
     "061": {
       "name": "Building Bridges",
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/01964b1442df8f73da6cfec91c59627cdac6d89d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "66.3"
     },
     "045": {
       "name": "Catcher Crusher",
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/77e2e21f3810cd37ae0e2f203d37f579f53f415b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "46.1"
     },
     "041": {
       "name": "Childminder",
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/a8cdea721d9bb05bab10c4535339968941a24fa0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "14.4"
     },
     "033": {
       "name": "Chiral Crafter",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/56cdcc781edb2118f16aeb765fa112418ed1b436.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "61.8"
     },
     "017": {
       "name": "Deliveries Done",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/5589999ad8e8eb168ef8494776ef87504d4f4abb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "25.0"
     },
     "001": {
       "name": "Delivering Is What I Do",
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/b2c5e423015ece85b7bdb73fd17eba2736b37490.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "93.0"
     },
     "016": {
       "name": "Everyday Delivery",
@@ -177,7 +198,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/1c80e64c9fd0f0eb29edef2bbf1308598628f63a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "54.4"
     },
     "035": {
       "name": "Fount of Knowledge",
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/07aa917cc21190deaa777e630c6e5d8337730db6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.8"
     },
     "032": {
       "name": "Giver of Gifts",
@@ -193,7 +216,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/aeb08d04483512be9ae0574e91feb7ffb3c660e9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "41.9"
     },
     "051": {
       "name": "God Particle Go-Getter",
@@ -201,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/57945a2363628f291ef9710b9ed87af51d0a1456.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.1"
     },
     "031": {
       "name": "Good Samaritan",
@@ -209,7 +234,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/ac2a6e6d4f9b0f6b9adf8c50a8e1c6d7c63bb2d0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "91.6"
     },
     "044": {
       "name": "Great Deliverer",
@@ -217,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/6b1b9c6eedbd41a7eb29d4e2e35218a005867696.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "3.8"
     },
     "000": {
       "name": "Greatest of Great Deliverers",
@@ -225,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/6e0af43857d8d2e8ce8d54fe3105f9fb1f1f6142.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.3"
     },
     "019": {
       "name": "Growth of a Legend",
@@ -233,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/a68401c99b4bb8574262e0811862c683389acaff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.9"
     },
     "062": {
       "name": "Homo Faber",
@@ -241,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/2cd0c3046f89413d00e733f015841acd7773fa3f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.4"
     },
     "048": {
       "name": "Hooked on Delivering!?",
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/67f1a5cee99f48fad9c252579fa0efc40c469e9d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "15.4"
     },
     "058": {
       "name": "I Couldn't Hold it In!",
@@ -257,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/9d91bb4569fc9acb7982e481cd26ad7ba61bb1cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "52.6"
     },
     "004": {
       "name": "I Won't Break",
@@ -265,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/358c4ef65aa7b33364cfe8efeb125e4cdaa581a2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "31.5"
     },
     "011": {
       "name": "I'm Your Die-Hardman",
@@ -273,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/facc4301a748ebda7fab1c5fcf83fa7be2c4ffe6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.9"
     },
     "025": {
       "name": "In Sam We Trust",
@@ -281,7 +315,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/85ca057a0d75a83e4bc8db53d4b405d4b6f285ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "4.1"
     },
     "028": {
       "name": "Like and Be Liked",
@@ -289,7 +324,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/cad809a850de7eb8b1bebca55dc51fc51ab59a84.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "79.2"
     },
     "023": {
       "name": "Master Builder",
@@ -297,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/9b15815417a75e0b42bfef0c9d036d0cab59a34d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "3.2"
     },
     "040": {
       "name": "Pathfinder",
@@ -305,7 +342,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/bb2de1d7484962ff8cf3c07ac8dfedc081c204fc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "35.2"
     },
     "043": {
       "name": "Prominent Porter",
@@ -313,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/8580a2447d191afebc533617e9d3c6412a4957d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "68.5"
     },
     "056": {
       "name": "Public Service Porter",
@@ -321,7 +360,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/bfe4dfebbb05961bf356283021a5d1bd103cc670.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "15.3"
     },
     "049": {
       "name": "Pumped Porter",
@@ -329,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/9a0462353efc5b0499ba94cc7953677bd5ea1f2b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "28.2"
     },
     "002": {
       "name": "Rebuilding America",
@@ -337,7 +378,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/734d6830581aab3f8be632a82f2ea734222d870d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "81.8"
     },
     "052": {
       "name": "Rest In Pieces",
@@ -345,7 +387,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/62a61c4227935c70496155f38334b42f859755dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "19.7"
     },
     "013": {
       "name": "She's waiting for you on the Beach.",
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/8ff2d9651ce2e21aa81f7f930e98111a3d2af1e8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.5"
     },
     "009": {
       "name": "Sixty Deaths and Sixty Births in a Day",
@@ -361,7 +405,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/56d4e5b78cf9d303ba457a2a7dff7604e35c2c44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "21.9"
     },
     "054": {
       "name": "Sleep Tight, Little BB",
@@ -369,7 +414,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/e801ff5d21e678e87f87cd5ae1e38c67f89f49d8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "45.5"
     },
     "046": {
       "name": "Snooze 'n' Soothe",
@@ -377,7 +423,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/557dbfcff5ee0059e814989e9ae778754be40435.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "47.7"
     },
     "037": {
       "name": "Soak and Sigh",
@@ -385,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/ffcb017056851e619d619f8785706f388c1c066a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "24.6"
     },
     "060": {
       "name": "Soothing Sounds",
@@ -393,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/542ca646224ba37c8296df8082fa8006bb3262a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "46.2"
     },
     "014": {
       "name": "Thank You, Sam",
@@ -401,7 +450,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/19d0370e7fde2c0034aff7ac4eb2899d64ef5455.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "20.1"
     },
     "015": {
       "name": "Thanks for Everything",
@@ -409,7 +459,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/054b78b2f6311680d9648fa3e198f5004974134f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "19.7"
     },
     "021": {
       "name": "The Automation Revolution",
@@ -417,7 +468,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/efe125fe18f72df30f704eab6f449ee26e47031e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "35.5"
     },
     "036": {
       "name": "The Custom Kid",
@@ -425,7 +477,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/6362d1cf1a6aef27f4b6ec3fc5e84bec2db00201.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "63.9"
     },
     "010": {
       "name": "The Particle of God",
@@ -433,7 +486,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/aad15636741209589de8fde4cc508bf66b3391b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "21.2"
     },
     "039": {
       "name": "The Past Guides the Present",
@@ -441,7 +495,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/47b50ac61ec69ee16d0ec8c362c14d0fcd68adac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.9"
     },
     "029": {
       "name": "The People's Porter",
@@ -449,7 +504,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/0bc7d656ce2a3fb460ad38b71204e12cbcd7c515.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "59.5"
     },
     "038": {
       "name": "The Post Guides the Present",
@@ -457,7 +513,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/89f06bf2538fb4b32cd5ae2c5d7404af4be972ec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "18.4"
     },
     "030": {
       "name": "The World's Most Popular Porter",
@@ -465,7 +522,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/bd9fc75dc7dfde61d76f81278c6533aae62e84aa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.7"
     },
     "057": {
       "name": "Trail-Blazer",
@@ -473,7 +531,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/02d4e68edea9e683a13f476cdbf1f2b566758f11.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.8"
     },
     "003": {
       "name": "We Need You",
@@ -481,7 +540,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/f2348bda2b0508fb1c606bc6e38cab8ac1872107.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "45.6"
     },
     "026": {
       "name": "Well Connected",
@@ -489,7 +549,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/2d1e67e03e9bcf4017a924ed9af8001c49d65ec3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "65.2"
     },
     "050": {
       "name": "Well-Traveled",
@@ -497,7 +558,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/c72b84a4768a29664c156f2495801eca4196ec91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "36.6"
     },
     "006": {
       "name": "We're Whole Again",
@@ -505,7 +567,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/8dc137272de0dd0a708e22eb52039d8f756d0b5a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1850570/83f0cdef8961ec7a58f4f018b2e644ea2f394872.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.1"
     }
   },
   "platform": "PlayStation",
