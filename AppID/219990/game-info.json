@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ffdb4b82f2ed334292a2c033ff322af9ec75fb77.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "1.0"
     },
     "ACH207": {
       "name": "A Heart for Solael",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/875e0f2ae3494a6f048ba6a08e3f0f03a8381fdf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "7.2"
     },
     "ACH251": {
       "name": "A Light in the Dark",
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/4ff11ca5ade8f1faabda1053e2b11b5e5d32a608.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "2.6"
     },
     "ACH134": {
       "name": "A Mad Stash",
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/faae7d4abfbb4a5c3d47466b5c90c83ff076236c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "2.3"
     },
     "ACH206": {
       "name": "A Select Future",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/fb232c0d083d86885bf62250c9193882b5c8d5f2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "5.2"
     },
     "ACH110": {
       "name": "A Stab in the Dark",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/1a4cd4dbbd18c8fb428b3e66204890e7be361afa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "16.0"
     },
     "ACH007": {
       "name": "A Wake of Carnage",
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d27a06967913b0f7fb36741bb7b8decc9c6aa0d2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "12.5"
     },
     "ACH111": {
       "name": "An End to the Darkness",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/8f97da25ff9e289beb2054bd8270c1c48a4f8472.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "5.6"
     },
     "ACH008": {
       "name": "An Ocean of Blood",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/1601e732b3e4fa65bf37582ca86fb15572ff496f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.9"
     },
     "ACH019": {
       "name": "An Old Threat",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/e9b827f12613b14aefbea31d632962abb2b97b7b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "44.9"
     },
     "ACH029": {
       "name": "Apprentice Crafter",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/de292935a22a74d0921812671878503890e3a292.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "28.5"
     },
     "ACH137": {
       "name": "Ashen Devotion",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/76204d1f41e2e9e711b8105a80748f577ee3752e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "9.2"
     },
     "ACH250": {
       "name": "Banish the Night",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a808eea0d7a3dc17c62658d2b4d139e51c3480ad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.7"
     },
     "ACH253": {
       "name": "Bargain Help",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/9f1d059236a56db9647ef625781fe06f7fe1168f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "0.7"
     },
     "ACH219": {
       "name": "Betrayer of Humanity",
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/68a1356fbdc7e7100938f0e426e718d6ae7e6de8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "11.5"
     },
     "ACH020": {
       "name": "Blood for Blood",
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/12897c1a7711c041bc135fd8304bb00424fe8f75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "31.8"
     },
     "ACH238": {
       "name": "Braving the Shattered Realm",
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/2ad42af6889c5aafe83b52e604a5b783ffe5bba6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.8"
     },
     "ACH027": {
       "name": "By the Malleum Menhir",
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/493d94cf19191072b105a60d60f94fec70137cf6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "51.1"
     },
     "ACH205": {
       "name": "Byscilla's Schemes",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/de5043fc4e5059e2995137d6bbd2ab1c24dbfcfa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "7.1"
     },
     "ACH059": {
       "name": "Celestial Bane",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/cf60fa7d099fe712a8d6773501c1d82808e53b65.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.6"
     },
     "ACH230": {
       "name": "Celestial Conqueror",
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/69d596f80a66d4243de413089d09e2218f169bf9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.3"
     },
     "ACH079": {
       "name": "Celestial Guidance",
@@ -177,7 +198,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/95bd6d57661c95a39784d3da50ce0f43237b9a41.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "1.3"
     },
     "ACH080": {
       "name": "Celestial Intervention",
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/bb73c1d82edbe30237013b8b889133ceb0cfe67a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "2.1"
     },
     "ACH078": {
       "name": "Celestial Touch",
@@ -193,7 +216,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/dda3d81349b85233714347788d036bde802de539.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "4.6"
     },
     "ACH108": {
       "name": "Centennial Legend",
@@ -201,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ac4bacb4c7fea15cdb10f27ff86819fa911825e0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "8.5"
     },
     "ACH040": {
       "name": "Champion",
@@ -209,7 +234,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/892e0d5626cb8874b20375378e22a61b63c4b800.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "38.6"
     },
     "ACH068": {
       "name": "Champion of Cairn",
@@ -217,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/990be8b587307bc14e44e7f286ddde7b4f047d6f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "10.8"
     },
     "ACH130": {
       "name": "Champion of Malmouth",
@@ -225,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/c1295a4e1a6bacfe877ee4ec4b005655b5832de8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "6.7"
     },
     "ACH069": {
       "name": "Champion of the Crucible",
@@ -233,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/3841e8e1d30b2d8de6d56e2b5a73cc7af1c799b8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "5.0"
     },
     "ACH022": {
       "name": "Cleansing the Conflagration",
@@ -241,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/c1b9cf38dfc2c209e31efcd32e3b477a3cb8297f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "30.7"
     },
     "ACH065": {
       "name": "Cleansing the Immolation",
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/83124f3f023e63e6f5ce0d7a85e91e0292527115.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.4"
     },
     "ACH006": {
       "name": "Cleansing the World",
@@ -257,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/423edc9f8ce1377f4669783a9a800d35468d44eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "23.0"
     },
     "ACH073": {
       "name": "Climbing the Ladder",
@@ -265,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/65511be672f0392e667a1be6b25cc916cf9f9f0e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "3.0"
     },
     "ACH070": {
       "name": "Conqueror of the Crucible",
@@ -273,7 +306,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/e22b66eb63547e6527c2f5e2527c59630014ad76.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "2.9"
     },
     "ACH211": {
       "name": "Crag Hunter",
@@ -281,7 +315,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/73c4bd168eebf87c2ef1830d0d0f1357d8ef94d5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "11.0"
     },
     "ACH051": {
       "name": "Cronley's Secret",
@@ -289,7 +324,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/fccc7a341fdd0487e515f92393d5dcbec78b18ad.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "33.8"
     },
     "ACH120": {
       "name": "Crush the Mountain",
@@ -297,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/0579955b9cdd00eab4a5c0058c3a5bf80f8158b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "13.3"
     },
     "ACH067": {
       "name": "Defender of Cairn",
@@ -305,7 +342,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ecc6035bb193e7610fde97d32bcab088587e1ddc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.5"
     },
     "ACH129": {
       "name": "Defender of Malmouth",
@@ -313,7 +351,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ef235df35a1c17df95705c02ecc28af5836722a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "14.1"
     },
     "ACH077": {
       "name": "Defense Overload",
@@ -321,7 +360,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/4c765b63313cf40506278cbde56c378e8a95395f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "0.8"
     },
     "ACH076": {
       "name": "Defensive Stance",
@@ -329,7 +369,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d200d19693db12c8ecbea5384957f54063c41f57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "8.6"
     },
     "ACH018": {
       "name": "Delivering Justice",
@@ -337,7 +378,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/599b4141832290430d328f1cf95e3250b10d1c5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "50.7"
     },
     "ACH046": {
       "name": "Difficult Decisions",
@@ -345,7 +387,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b9848c39c3b03ad0416126ba303dbe0425b139f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "35.2"
     },
     "ACH103": {
       "name": "Embrace New Foes",
@@ -353,7 +396,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/84843e23c410816ad8c65be2c6c41d9c17e8217a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.4"
     },
     "ACH102": {
       "name": "Embrace New Friendships",
@@ -361,7 +405,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/0968ad5a9ff21e7cdd4adc53ac6fc887c7bb55df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "15.9"
     },
     "ACH218": {
       "name": "End of Messages",
@@ -369,7 +414,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/0c43c70525c9a350175e6c421d420897bdc61c12.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/013c4ada3e47e0c1f676d6d7cb21def560d425e7.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "3.8"
     },
     "ACH237": {
       "name": "Enter the Shattered Realm",
@@ -377,7 +423,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/c04a997476ce56bf59f874c9f07a450db162edc5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "10.3"
     },
     "ACH227": {
       "name": "Exalted Champion",
@@ -385,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/f04d3edadc1fecb60a6c4d2419663659f1952744.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "2.8"
     },
     "ACH138": {
       "name": "Exceptional Explorer",
@@ -393,7 +441,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b186d2cd0710bed84033ee1536c5ca51d6737a37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "11.8"
     },
     "ACH030": {
       "name": "Expert Crafter",
@@ -401,7 +450,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/23a65b431232e3d1e5f4003835b407e9f99faff2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "10.8"
     },
     "ACH201": {
       "name": "Faraway Lands",
@@ -409,7 +459,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/bd3a39fc18e7d45d77d1f7fd6e9b468d04cd6e75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "21.2"
     },
     "ACH245": {
       "name": "Feast of Souls",
@@ -417,7 +468,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/9faf25ce6803768fc7fbd1b3b32717cdeb038465.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "8.9"
     },
     "ACH012": {
       "name": "Follower of Uroboruuk",
@@ -425,7 +477,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/34d86addc6401e113ea56898908e53c7c0a09ce2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.4"
     },
     "ACH107": {
       "name": "For Malmouth",
@@ -433,7 +486,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/536dc925902e015dd5c86b2ce3d0074ee460c369.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/013c4ada3e47e0c1f676d6d7cb21def560d425e7.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "14.9"
     },
     "ACH222": {
       "name": "Forever Forgotten",
@@ -441,7 +495,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/98436262d5ebc6effa007539525e25459aae9ad1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.3"
     },
     "ACH106": {
       "name": "Friendly Brawl",
@@ -449,7 +504,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/126ae9fe6d017888a6519607a9a3ec796ab430c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "2.1"
     },
     "ACH009": {
       "name": "Friends in the Apocalypse",
@@ -457,7 +513,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/da1350d32e76567859548f0aa24946c395c746ce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "13.9"
     },
     "ACH113": {
       "name": "Gate Crasher",
@@ -465,7 +522,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d9869c3494e458a7e13c30a729d204ea94eb9d01.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "5.3"
     },
     "ACH221": {
       "name": "Godslayer",
@@ -473,7 +531,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ba03967c75cac503b95bbfa7d8c90ab839d41448.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "11.4"
     },
     "ACH066": {
       "name": "Grounding the Herald",
@@ -481,7 +540,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/97a1f1e5f12e61ad091d73e440ce1782b156cb98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.1"
     },
     "ACH024": {
       "name": "Gutting Gutworm",
@@ -489,7 +549,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a2d9ad6c76be9e7551faaace75b1aa7cfd9032d2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.8"
     },
     "ACH041": {
       "name": "Hero",
@@ -497,7 +558,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94325f48554d12917865d821b9d3db43a86f4cd6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.0"
     },
     "ACH127": {
       "name": "Hero of the People",
@@ -505,7 +567,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/288d4bfb5ab2a452c26316e9f08b41841b329909.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "6.6"
     },
     "ACH002": {
       "name": "Heroic Slayer",
@@ -513,7 +576,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d6ca94e354ded7579ce8002507cd02a83b538b3d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.5"
     },
     "ACH050": {
       "name": "Hidden in the Flooded Passage",
@@ -521,7 +585,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/6be64548f41073a32c84567601b201ade3f37fb5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "23.4"
     },
     "ACH052": {
       "name": "Hidden Wealth",
@@ -529,7 +594,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/0995075c18e7414852a5a0988e70619400f2c8b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "18.2"
     },
     "ACH249": {
       "name": "Hungering Darkness",
@@ -537,7 +603,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/bf5c723f67f82fd78441a2e616945c1493466e76.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "3.8"
     },
     "ACH048": {
       "name": "I Was Not Expecting You, Human",
@@ -545,7 +612,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/e8af03872479ffe8b9cf4612bc96d28ee69257df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.5"
     },
     "ACH119": {
       "name": "I'm My Own Master",
@@ -553,7 +621,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/2a456e85fdc3a7a6cc1757179779f625ef20b7c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "2.6"
     },
     "ACH231": {
       "name": "Immortal Celestial Conqueror",
@@ -561,7 +630,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/156078cca1a7521099c6c39a91df238150b64ce8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "0.6"
     },
     "ACH062": {
       "name": "Immortal Conqueror of Chaos",
@@ -569,7 +639,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/7c0fb04eee542e230bde2d3d9ff6c670a521c6cc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.2"
     },
     "ACH017": {
       "name": "Immortal Executioner",
@@ -577,7 +648,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/df54495c19893e2891b9bbb25b1747230275f3f0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.7"
     },
     "ACH043": {
       "name": "Immortal Legend",
@@ -585,7 +657,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ddd64c8e7a6cb9a56584a08fc8c9c863fe8deee4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "1.4"
     },
     "ACH252": {
       "name": "Immortal Light in the Dark",
@@ -593,7 +666,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/eea1423774564eded939f97ef17b7ab83c8da470.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "0.6"
     },
     "ACH045": {
       "name": "Immortal Savior",
@@ -601,7 +675,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/51bb9ee525b930f04eaa0c8fcdbed93ad0df8f50.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.9"
     },
     "ACH140": {
       "name": "Immortal Savior of Malmouth",
@@ -609,7 +684,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/28facd1e056409acbe985613c6623c67dcf36248.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "0.7"
     },
     "ACH243": {
       "name": "Immortal Shattered Vanquisher",
@@ -617,7 +693,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/f7c02359591dd41663dc8edb3085da856587d5f3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "0.6"
     },
     "ACH084": {
       "name": "Immortal Vanquisher of Valbury",
@@ -625,7 +702,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b84a2f9dd24150e3ade972413cd7a3f87e5c5648.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "1.1"
     },
     "ACH144": {
       "name": "Immortal Wild Tamer",
@@ -633,7 +711,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/88b72a791a113637d9420e23e9ccb886a1f7b52e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "1.1"
     },
     "ACH053": {
       "name": "In the Depths, He Lived Forgotten",
@@ -641,7 +720,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/2924cb760290477d06c6e42e6097a87765187d39.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "22.6"
     },
     "ACH225": {
       "name": "Infinite Gaze",
@@ -649,7 +729,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/07a04b59e0d92da947ba17f95301cfbe2192bc41.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.8"
     },
     "ACH104": {
       "name": "Into the Void",
@@ -657,7 +738,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/c70778fb0bbedfeded0bafad60b6a05c6874324a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "16.0"
     },
     "ACH105": {
       "name": "It's Me, Your Friend",
@@ -665,7 +747,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/7b626e2507a36dcc4821a71a78382495229bf33a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "15.8"
     },
     "ACH072": {
       "name": "It's Over 900000!",
@@ -673,7 +756,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b565abf0691fc54dc6e32451da72ee9b747108fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "6.6"
     },
     "ACH116": {
       "name": "It's You Again!",
@@ -681,7 +765,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/dd44a1159b6ee521d39aa65e30e350ecb94359c3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "13.7"
     },
     "ACH208": {
       "name": "Juggernaut",
@@ -689,7 +774,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a1b8f5417648224eb1564ddc850e3bc190e21dea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 4"
+      "group": "Update 4",
+      "percent": "3.2"
     },
     "ACH035": {
       "name": "Junior Explorer",
@@ -697,7 +783,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/3bde5bd4a055dc81749ff653869017cc8ed521fa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.5"
     },
     "ACH214": {
       "name": "Jurassic Hunt",
@@ -705,7 +792,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/0a2cdbbf87c8d24b4da9b991fc0d9ab64ef7febd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.7"
     },
     "ACH217": {
       "name": "Killing the Messenger",
@@ -713,7 +801,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/1df838a69f1ba242455cc14663b6fcc228a57ce9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "10.2"
     },
     "ACH112": {
       "name": "Knock Knock",
@@ -721,7 +810,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/555c4e084d8cf06cb2c46082417a02bcb312e7cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "15.1"
     },
     "ACH229": {
       "name": "Korvan Champion",
@@ -729,7 +819,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/92667914dab521d2caabff7fbc6b2904efaeb9e6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "5.6"
     },
     "ACH228": {
       "name": "Korvan Defender",
@@ -737,7 +828,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/8f6669b0b6f886c8a2049bf336c74e4c85b813d7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "11.3"
     },
     "ACH234": {
       "name": "Korvan Devotion",
@@ -745,7 +837,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d9f8c30692b2d940758cd522aff8be639cde27c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "7.9"
     },
     "ACH235": {
       "name": "Korvan Explorer",
@@ -753,7 +846,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/14e230c1f9003b13ddff38ee58d2aa72921a29c9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 4"
+      "group": "Update 4",
+      "percent": "8.3"
     },
     "ACH236": {
       "name": "Korvan Loremaster",
@@ -761,7 +855,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/4a634efbe0e2e207ea7e5651b38bd6bdbfc6c186.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 4"
+      "group": "Update 4",
+      "percent": "15.3"
     },
     "ACH213": {
       "name": "Korvan Rex",
@@ -769,7 +864,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/031a2b3defd2854f8623591b84c890ba40b198fc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "13.2"
     },
     "ACH232": {
       "name": "Korvan Slayer",
@@ -777,7 +873,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/3e2e6532d25ef187885dfaaea01f2ea829ea65a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 4"
+      "group": "Update 4",
+      "percent": "4.4"
     },
     "ACH042": {
       "name": "Legend",
@@ -785,7 +882,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/01738c6473b0bd1b4fb0aacb8dc5de353c42b8a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "12.0"
     },
     "ACH003": {
       "name": "Legendary Slayer",
@@ -793,7 +891,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/84a72f21680e253d841f6d7565740a2c0894b2d3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.5"
     },
     "ACH055": {
       "name": "Let Me Gather My Notes",
@@ -801,7 +900,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/638ba6615257a309ccd9e012089fb6b699ccd6f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "61.9"
     },
     "ACH233": {
       "name": "Like Sand in a Desert",
@@ -809,7 +909,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b2e2c74a47d47de35299b1eb624356d8ab4359fc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 4"
+      "group": "Update 4",
+      "percent": "1.0"
     },
     "ACH071": {
       "name": "Lord of the Crucible",
@@ -817,7 +918,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/da62136f959aa1c65963da5c7e3feff9583d6d0e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "2.2"
     },
     "ACH057": {
       "name": "Lorekeeper",
@@ -825,7 +927,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/f7550da4aeddd5eca4f69a8b8443f2e8665cfcfb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "31.1"
     },
     "ACH139": {
       "name": "Loremaster",
@@ -833,7 +936,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/7215738a5feb1028f50cbdad2d831366f43fd833.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "19.7"
     },
     "ACH132": {
       "name": "Mass Extermination",
@@ -841,7 +945,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/bfe8abba1522cdf2c33ad82c0b73c55a8db54e15.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 2"
+      "group": "Update 2",
+      "percent": "1.7"
     },
     "ACH031": {
       "name": "Master Crafter",
@@ -849,7 +954,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/082290f2224d9139c63f731cfa3803790edf3785.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.0"
     },
     "ACH109": {
       "name": "Monomythic Centennial",
@@ -857,7 +963,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94fb6bcb6fe1917ebb0d63494529d8a09113a8e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "1.1"
     },
     "ACH001": {
       "name": "Monster Slayer",
@@ -865,7 +972,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/89b967769ec85cfe515ec24f131cfea8a5a208c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "48.4"
     },
     "ACH121": {
       "name": "Mountain Slayer",
@@ -873,7 +981,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/36fdbabba646427c9a534f91108eab3d5a89f19b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.3"
     },
     "ACH034": {
       "name": "Mythic Power",
@@ -881,7 +990,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/f03d960daefc9a918efa278607c34c1e73103590.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "8.8"
     },
     "ACH004": {
       "name": "Nemesis",
@@ -889,7 +999,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/9337d9dd4b6cdc394db499670edfb8e55864357f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.1"
     },
     "ACH135": {
       "name": "Nemesis More Like MEHmesis",
@@ -897,7 +1008,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b54738a448dd89f97370d9d5caa61ba32fcb3600.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 2"
+      "group": "Update 2",
+      "percent": "6.2"
     },
     "ACH216": {
       "name": "Nemesis of the Scion",
@@ -905,7 +1017,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/7311729c8d0bfe272588b20a0f6644c734d8c245.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "1.9"
     },
     "ACH047": {
       "name": "No Exceptions",
@@ -913,7 +1026,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/95882db46bf51b3b635950315e7b9ace8fcc4dc5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "8.0"
     },
     "ACH028": {
       "name": "No Soup for You",
@@ -921,7 +1035,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b93ecfa1c4690ff7ee2492f493a1a7260d1ae06a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "47.5"
     },
     "ACH118": {
       "name": "No Strings on Me",
@@ -929,7 +1044,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/480d77d2758861c03f10f2dcc7579da7c0594bc7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.2"
     },
     "ACH023": {
       "name": "Not Afraid of a Little Fire",
@@ -937,7 +1053,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/19dd518863d89e8e26d08652d0e70e7e2879ee44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.5"
     },
     "ACH056": {
       "name": "Note Collector",
@@ -945,7 +1062,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/75e5d914e8b4757d6af45db06262e1aaf09bc69a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "47.1"
     },
     "ACH224": {
       "name": "Oh, the Web We Weave",
@@ -953,7 +1071,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/085689e5201af1ef5cb435de426dc30a99b5d7f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "5.0"
     },
     "ACH010": {
       "name": "Paragon of Cairn",
@@ -961,7 +1080,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/14256741ef788b2661d390e69fd37699d59e2f52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "7.9"
     },
     "ACH136": {
       "name": "Pet Hoarder",
@@ -969,7 +1089,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/9b2649b615c7f8ba2b049718ccb5ed73f7c52aae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.7"
     },
     "ACH202": {
       "name": "Pledging Loyalty",
@@ -977,7 +1098,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/07b6b230abf8031478625555d36e2453a9c3e133.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "19.0"
     },
     "ACH083": {
       "name": "Port Valbury Avenged",
@@ -985,7 +1107,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/c65f9340e81b13cd47daa9e38f2a6946b9cfc78e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "3.6"
     },
     "ACH204": {
       "name": "Rahn's Secrets",
@@ -993,7 +1116,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/5972155096be74676c51f3f59e75b726ab1f0ae8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "1.4"
     },
     "ACH124": {
       "name": "Ravaged",
@@ -1001,7 +1125,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/74ad3f491c97ed18009d86d67e7b6905f842c3a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "1.9"
     },
     "ACH032": {
       "name": "Relics from the Past",
@@ -1009,7 +1134,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/73aa7d3be24448e05dd2743487bff91b71b5ac8d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "38.5"
     },
     "ACH117": {
       "name": "Remember Me?",
@@ -1017,7 +1143,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/40214285784f23b8348d1b788b436c7c86904eda.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/013c4ada3e47e0c1f676d6d7cb21def560d425e7.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.8"
     },
     "ACH123": {
       "name": "Revenge For The Fallen",
@@ -1025,7 +1152,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/32ac4eb58e48e2d5f7ea54d13430b22dc7f5bea8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "5.0"
     },
     "ACH128": {
       "name": "Revered Champion",
@@ -1033,7 +1161,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a6316a5b7db79f535f35a6bc4057396b86fcb3ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "5.0"
     },
     "ACH044": {
       "name": "Savior of Cairn",
@@ -1041,7 +1170,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/f0b0dbd06fe56550bd8a4d7f2e455f0e4c62eff7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "7.0"
     },
     "ACH131": {
       "name": "Savior of Malmouth",
@@ -1049,7 +1179,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d32eaa038cf75b03ca1eadae08f3c8cf0f4f868b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.9"
     },
     "ACH215": {
       "name": "Scion No More",
@@ -1057,7 +1188,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ad1f58ce24e8ba4683b0f753e316635c0ad7ee20.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "2.1"
     },
     "ACH049": {
       "name": "Securing Burrwitch",
@@ -1065,7 +1197,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a282d97407671a308c8cea950e02a66b7ce5bc44.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "31.4"
     },
     "ACH037": {
       "name": "Seeking the Stars",
@@ -1073,7 +1206,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/8cae5b0b51506eb38c70d2cd4671f0c199054d71.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "42.7"
     },
     "ACH011": {
       "name": "Servant of Empyrion",
@@ -1081,7 +1215,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/1b0ec603c79251ae5912acfa6118afed8c3de412.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.1"
     },
     "ACH254": {
       "name": "Settled Debt",
@@ -1089,7 +1224,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/6623c4c6c14b3963c28bcc91757421ac2cd07c57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.4"
     },
     "ACH060": {
       "name": "Shar'Zul Extinguished",
@@ -1097,7 +1233,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a6a0a24b09c66cb4e28b6f162f7b694b422ff906.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "12.6"
     },
     "ACH247": {
       "name": "Shattered Bargain",
@@ -1105,7 +1242,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/c98d3ed16860135ebaf9c8223cc18e93b3aa7416.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "10.4"
     },
     "ACH241": {
       "name": "Shattered Conqueror",
@@ -1113,7 +1251,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ce781cabc2ecf7c06d023193a1833e959b3ba28d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "5.1"
     },
     "ACH239": {
       "name": "Shattered Explorer",
@@ -1121,7 +1260,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/83c96b06c6e6eeae2033bad9c48e7b0c8dcb82ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "6.5"
     },
     "ACH240": {
       "name": "Shattered Pathfinder",
@@ -1129,7 +1269,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/039395ea551c0f248be05dd74fefc0bee8fdc4b0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.1"
     },
     "ACH242": {
       "name": "Shattered Vanquisher",
@@ -1137,7 +1278,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/7cc251fa2000321e4924d78ff6ddc754cecffe2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "3.7"
     },
     "ACH014": {
       "name": "Shattering the Blade of Ch'thon",
@@ -1145,7 +1287,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ffcaa26c4119b2cede9646d205ee942e5e4cd220.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "6.7"
     },
     "ACH220": {
       "name": "Silencing the Prophet",
@@ -1153,7 +1296,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/3f7d5c6f8b4d404e961380f0bb8889732e7083aa.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.3"
     },
     "ACH146": {
       "name": "Slayer of Myths",
@@ -1161,7 +1305,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/aae2ab5d9dbf6add309f5e95181931c7715cb9ce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "4.2"
     },
     "ACH114": {
       "name": "So Others May Grow",
@@ -1169,7 +1314,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/13d5b2a34018af97069d067dad5af34c1e3c205e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "15.1"
     },
     "ACH244": {
       "name": "Soul Diet",
@@ -1177,7 +1323,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/6ac15c39c3dba0123d03ef99681ed410ec11ac2d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "13.1"
     },
     "ACH246": {
       "name": "Souls Supreme",
@@ -1185,7 +1332,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/5cd8e94b659604b161cbcda147993a880cf93688.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "7.1"
     },
     "ACH210": {
       "name": "Sovereign of the Skies",
@@ -1193,7 +1341,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/33c9edc7956b8a4bc376c16dbf3e75c52c9b3d2b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "4.2"
     },
     "ACH223": {
       "name": "Squelching the Scion",
@@ -1201,7 +1350,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/841001ae01ea66eabdab99ebef8425a2440f9582.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "1.7"
     },
     "ACH039": {
       "name": "Survivor",
@@ -1209,7 +1359,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/504a96480ec6043d0a1ef0ca4dfd998fe98ba4c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "65.8"
     },
     "ACH143": {
       "name": "Taming the Untamed",
@@ -1217,7 +1368,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/1d3bcccfeb68b68c259c97772ec5fdba04914ee9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "3.9"
     },
     "ACH145": {
       "name": "The Ancient of Ugdenbog",
@@ -1225,7 +1377,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/367417210f22c69acb94cf1881688181e5d737b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "13.4"
     },
     "ACH021": {
       "name": "The Bane of Cairn.",
@@ -1233,7 +1386,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/504e34b4d05f47768a81850b191ef847c5ec7d98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "27.9"
     },
     "ACH061": {
       "name": "The Bastion Conquered",
@@ -1241,7 +1395,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d13222a06ef817b483bed168e2e9659337ac2a80.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "4.1"
     },
     "ACH064": {
       "name": "The Chosen of Kymon",
@@ -1249,7 +1404,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/614748f38cf2b87d696695c2350625b7ac80c591.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "2.7"
     },
     "ACH054": {
       "name": "The Death Room",
@@ -1257,7 +1413,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/c29e0ff9e8cd72c13834f4b42c675cb78cf1ac30.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "17.2"
     },
     "ACH016": {
       "name": "The End of Torment",
@@ -1265,7 +1422,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/fd704a91fbd54c8dd3e64acd263f222af88518c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.6"
     },
     "ACH013": {
       "name": "The End to Depravity",
@@ -1273,7 +1431,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/59ea836a32671851b8cae2c5aab7fefb439956fe.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "31.8"
     },
     "ACH015": {
       "name": "The Executioner Executed",
@@ -1281,7 +1440,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d2e7348c4e11aea82a3f9f64ae68ffb5ae2247be.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "21.0"
     },
     "ACH058": {
       "name": "The Fields of Despair",
@@ -1289,7 +1449,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/683dd4e9e552839e1baad48005f0611459f47420.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "14.7"
     },
     "ACH101": {
       "name": "The Fight Continues",
@@ -1297,7 +1458,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/f31f1450e1b1a4d79c9ee97945f7d019ae4f0dc6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "18.9"
     },
     "ACH081": {
       "name": "The Flames of Valbury",
@@ -1305,7 +1467,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/488f9843a7627cf59e9d127c201bb85c20893709.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "7.9"
     },
     "ACH209": {
       "name": "The Gryphon Sovereign",
@@ -1313,7 +1476,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/45ec4b2cb26cae5dea8de15e97ec554dfaf30692.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "11.3"
     },
     "ACH125": {
       "name": "The Jewel in the Mud",
@@ -1321,7 +1485,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/d07365c1f02f85e7c29d469aaef9607fd207e92b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.9"
     },
     "ACH203": {
       "name": "The Master of Necromancy",
@@ -1329,7 +1494,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a52fd0edcf2208e59ad0ff4d1c8e5cc99965ff8a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "11.7"
     },
     "ACH063": {
       "name": "The Order's Champion",
@@ -1337,7 +1503,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/36441cb4443c7f3887077729dad967ec0ea8147d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "3.2"
     },
     "ACH082": {
       "name": "The Overlord Vanquished",
@@ -1345,7 +1512,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a0b2779ff2110ff7d95b963316f971f54a9ea19e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Update 1"
+      "group": "Update 1",
+      "percent": "10.3"
     },
     "ACH122": {
       "name": "The Scourge of Malmouth",
@@ -1353,7 +1521,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/01e07e98eaba2d496996758c93c92f88739143ab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": true,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "14.2"
     },
     "ACH255": {
       "name": "The Seven Magi",
@@ -1361,7 +1530,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/55ba86ffd08dbfdb24956505cde4d1098da05cac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "1.1"
     },
     "ACH142": {
       "name": "The Wild Tamed",
@@ -1369,7 +1539,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b2283617ca5da1c4ac9644c7eeb504cee7660c2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "10.5"
     },
     "ACH026": {
       "name": "Tinkering is Her Speciality",
@@ -1377,7 +1548,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/7e6c79a1e9e533f0a5c379a7a2daa6e3f1802cf7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "52.3"
     },
     "ACH036": {
       "name": "To the Explorer Go the Spoils",
@@ -1385,7 +1557,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/ad333a1580738e0b00ed7aa2b07b82933104a2d1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "14.9"
     },
     "ACH074": {
       "name": "Top Score",
@@ -1393,7 +1566,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/a60ce4613dd5086d804a676163d480d086c97b6d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "2.0"
     },
     "ACH212": {
       "name": "Tracker of Hounds",
@@ -1401,7 +1575,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b20ef69202ff6ca361e93da4005780e9ad6a34ef.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "3.9"
     },
     "ACH033": {
       "name": "Transcendent Power",
@@ -1409,7 +1584,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/85400ae9d553bd39727c2cefae853196c8e547e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "14.1"
     },
     "ACH141": {
       "name": "Trial of Corruption",
@@ -1417,7 +1593,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/56b3c588cdfd08f649f5dd9d13f66e05e69d001a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/013c4ada3e47e0c1f676d6d7cb21def560d425e7.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "8.3"
     },
     "ACH038": {
       "name": "True Devotion",
@@ -1425,7 +1602,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46dee4bd102b82158c8107193b276bec64228108.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "10.5"
     },
     "ACH126": {
       "name": "Ugdenbog Rituals",
@@ -1433,7 +1611,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/b98ddaca280e55d6c18e737c8858164c62d3da36.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "8.3"
     },
     "ACH226": {
       "name": "Ultimate Sacrifice",
@@ -1441,7 +1620,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/0f1f9337415a8f95f10efbd257c727379a05a9a4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Forgotten Gods Expansion"
+      "group": "Grim Dawn - Forgotten Gods Expansion",
+      "percent": "5.0"
     },
     "ACH133": {
       "name": "Unequaled Slayer",
@@ -1449,7 +1629,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/12d403785fe539cb8fc7d71ba28b3f5a41646fc9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Update 2"
+      "group": "Update 2",
+      "percent": "5.6"
     },
     "ACH005": {
       "name": "Unstoppable",
@@ -1457,7 +1638,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/99bf8ce411a21b84aa50ad87b77524260919d82b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "7.4"
     },
     "ACH075": {
       "name": "Unstoppable Lord of the Crucible",
@@ -1465,7 +1647,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/cb8de6985350e9fc05fe637ee1dabe294b54078a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Crucible Mode DLC"
+      "group": "Grim Dawn - Crucible Mode DLC",
+      "percent": "1.1"
     },
     "ACH115": {
       "name": "Weed Killer",
@@ -1473,7 +1656,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/df01d7da225370df64f0f2d3dffb5c4aa15039bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
-      "group": "Grim Dawn - Ashes of Malmouth Expansion"
+      "group": "Grim Dawn - Ashes of Malmouth Expansion",
+      "percent": "4.8"
     },
     "ACH025": {
       "name": "You've Got Guts",
@@ -1481,7 +1665,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/6e41c33d899782d7bb8d0f88ecb49456f836c762.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "5.9"
     }
   },
   "platform": "Steam",

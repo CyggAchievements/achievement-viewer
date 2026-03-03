@@ -9,7 +9,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0b041b97d52cd9799e9f8d7d110beb48b2420569.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "33.5"
     },
     "story_6": {
       "name": "Apprenticeship",
@@ -17,7 +18,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/b2d421bc49db54424967609212ab9442804c381d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/3a3160ebe8c3fc8a99055e44e3420a6165fa2f17.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.4"
     },
     "map_2": {
       "name": "Cartographer",
@@ -25,7 +27,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/f865a497a34dae32f402f4656d6e8382a5042269.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "14.4"
     },
     "decor_1": {
       "name": "Casual Decorator",
@@ -33,7 +36,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/5c48e572bbab700b39db27bcd6be255fba51f4b8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "28.2"
     },
     "clothing_2": {
       "name": "Clothing Collector",
@@ -41,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/150fbc5755a39e57c328564aa298604e3ba9af66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "26.7"
     },
     "clothing_1": {
       "name": "Clothing Curious",
@@ -49,7 +54,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/6ae81379ff37aa69e36ad625e6261c516aca8c3c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "37.1"
     },
     "clothing_3": {
       "name": "Clothing Hunter",
@@ -57,7 +63,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/283c9dc1e5a16a6dc5c59c9c79b1ad435e2269df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "8.0"
     },
     "story_8": {
       "name": "End of an Era",
@@ -65,7 +72,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/76937fac81a422b4d2e553476ef2b3b676792a3a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "26.5"
     },
     "map_1": {
       "name": "Explorer",
@@ -73,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/5581f069f3ec6cd988a3ddd100d5c90c088fa68a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "34.6"
     },
     "litter_2": {
       "name": "Good Samaritan",
@@ -81,7 +90,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/33a9584ac998ffbf54f40e7a9461082f1b39048e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "26.9"
     },
     "classes_all": {
       "name": "Graduate",
@@ -89,7 +99,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/a18fecef336727b5c41207eec94d80f8cf711e35.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "10.7"
     },
     "story_1": {
       "name": "Helpful",
@@ -97,7 +108,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/4ec8b44842e94e9d389471978d952443b36f7424.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "91.2"
     },
     "story_trial_rainforest": {
       "name": "Honored History",
@@ -105,7 +117,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/7e8b4e4cfda24ce0b90ecf59801aa86d9e2eca27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "28.2"
     },
     "kids_1": {
       "name": "Kitten Caboodle",
@@ -113,7 +126,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/031a9e39f9583ea9be9386769dc17f044a1bb903.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "53.8"
     },
     "kids_2": {
       "name": "Lost and Found",
@@ -121,7 +135,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/230316af3b480f8934a017abf85078640466b1a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "16.9"
     },
     "decor_3": {
       "name": "Master Decorator",
@@ -129,7 +144,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/f8c632e93a22fc8ec7c47eab50cfe659739a5013.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "7.2"
     },
     "story_2": {
       "name": "Meet Your Hero",
@@ -137,7 +153,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/c6c6d91b3a74e4e1744d66f701d10e49f646e556.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "60.3"
     },
     "story_trial_island": {
       "name": "More Than Myself",
@@ -145,7 +162,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/f2e3e3943bba52a5cb5aaf2ade3b2a0c18b1b75a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "29.5"
     },
     "story_4": {
       "name": "Muse",
@@ -153,7 +171,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/b8d639c16fdfe0ae78434e7029c45fdeb7e5613c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "40.7"
     },
     "oats": {
       "name": "Passion for Fashion",
@@ -161,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/d53c066b31920be9316179823fbb3af6f4538d57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "13.1"
     },
     "story_3": {
       "name": "Phone Call",
@@ -169,7 +189,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/855f475d1eaa8bf083c804a71e29226c5c518f08.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "45.3"
     },
     "gelato": {
       "name": "Picture Perfect",
@@ -177,7 +198,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/452585a7fe873522445bdcd1eb891bdf4ec9da03.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "12.7"
     },
     "mail_1": {
       "name": "Postal Service",
@@ -185,7 +207,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/6424a1455dc5a7fcab89294b3aa49beb5b5a9746.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "16.9"
     },
     "story_trial_canyon": {
       "name": "Respect",
@@ -193,7 +216,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/2e5bfd56b7ed01bc337d0fa20503e9e18d0d0659.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/3a3160ebe8c3fc8a99055e44e3420a6165fa2f17.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "28.4"
     },
     "decor_2": {
       "name": "Serious Decorator",
@@ -201,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/28fedab0602c51861747ed54773807049753d87e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "19.0"
     },
     "story_7": {
       "name": "Something New",
@@ -209,7 +234,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/acf8f9203e90df41921395c0f908614e4e4b3427.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "26.8"
     },
     "story_trial_mtn": {
       "name": "Standing on the Mountain Top",
@@ -217,7 +243,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/368130ba6d6a9d9ebc1cf442b379ee69dab86236.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "28.7"
     },
     "styles_2": {
       "name": "Style Pro",
@@ -225,7 +252,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0c9061aacd15cbebd4af66364f6a195ff953f791.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "9.6"
     },
     "styles_1": {
       "name": "Stylist",
@@ -233,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/e6bd102adfdbf41a1b3233a0db35ec607667aceb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "29.9"
     },
     "mail_2": {
       "name": "Such Great Heights",
@@ -241,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/d98240122267c69cf9e3e5a146043d8d52007f14.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "14.5"
     },
     "litter_1": {
       "name": "Trash Mammal",
@@ -249,7 +279,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/c636612948a96d6caab034ef4d48e324483d2574.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "32.9"
     },
     "investigation": {
       "name": "Turnabout Squeeze",
@@ -257,7 +288,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/088de212a5b3639d3d3040028d24e7fd83d0d56c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "22.4"
     },
     "litter_3": {
       "name": "Ultimate Samaritan",
@@ -265,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/06e494129b9243c9cf99f15e9f2a9fea4dfb9e5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1123450/0d705dd7a34adfc4931fb335d4cc39b37c47fdcf.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "8.4"
     }
   },
   "platform": "PlayStation",

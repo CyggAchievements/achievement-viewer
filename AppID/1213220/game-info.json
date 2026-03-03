@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/9c7fe7bc7472a12524659df0b669fe76a97ac62b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "PYRRIC_VICTORY": {
       "name": "Pyrrhic Victory",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/557d2a398c8c580905dc4b42ebe7e608bebf5314.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "READY_FOR_BATTLE": {
       "name": "Ready for battle",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/e353607d0daf75064d93df020f8c8caa8ed1981f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.5"
     },
     "SCOOPER": {
       "name": "Scooper",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/8db49ae22f8db51461f8d103b0b4307434a90656.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "SENIOR_ENGINEER": {
       "name": "Senior Engineer",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f4105eed5440dff450b007613985b063d411668f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.3"
     }
   },
   "platform": "Steam",
