@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/3115a10224952e9eb2d88294869bb903e41b9e50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.4"
     },
     "Mid_Collectable": {
       "name": "Hobbyist",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/490ef88c07d28758a73c2814e5c059126ad82c47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.0"
     },
     "Theatre_Flashback_Complete": {
       "name": "Stage Fright",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/84c1c916ccd8a7b0a2f45697d4990c204164f491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.3"
+      "percent": "88.2"
     }
   },
   "platform": "Steam",
