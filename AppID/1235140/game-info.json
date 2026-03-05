@@ -1,7 +1,7 @@
 {
   "appid": "1235140",
-  "name": "Yakuza: Like a Dragon",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg?t=1763642826",
+  "name": "Game 1235140",
+  "icon": "",
   "achievements": {
     "YAZAWA_PART_TIME_RANK_B": {
       "name": "A New Hero",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "YAZAWA_KIZUNA_CHO": {
       "name": "Friends in the Gang",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "YAZAWA_DUNGEON_ALL_CLEAR": {
       "name": "Heir to the Legend",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "YAZAWA_OWN_BUILDING": {
       "name": "New Digs!",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "YAZAWA_KASUGA_LEVEL_D": {
       "name": "Ryu Ga Gotoku",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1235140/f1fcdfeed8018635649bd17e14e0e10b4322d7d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.5"
     },
     "YAZAWA_MAIN_STORY_14": {
       "name": "The Torch is Passed",

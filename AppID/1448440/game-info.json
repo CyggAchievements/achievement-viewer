@@ -1,7 +1,7 @@
 {
   "appid": "1448440",
-  "name": "Wo Long: Fallen Dynasty",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448440/header.jpg?t=1760595126",
+  "name": "Game 1448440",
+  "icon": "",
   "achievements": {
     "TROPHY_DLC3_09": {
       "name": "A Meteoric Rise",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
       "group": "Wo Long: Fallen Dynasty Battle of Zhongyuan",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "TROPHY_DLC_008": {
       "name": "Don't Think, Feel",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.3"
+      "percent": "78.2"
     },
     "TROPHY_DLC3_03": {
       "name": "Rotten Bones in the Crypt",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1448440/b7b1e1737dd38b49f0630851b2f3511ca9ae3a01.jpg",
       "hidden": true,
       "group": "Wo Long: Fallen Dynasty Upheaval in Jingxiang",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "TROPHY_DLC3_02": {
       "name": "The Forlorn Swordsman",
