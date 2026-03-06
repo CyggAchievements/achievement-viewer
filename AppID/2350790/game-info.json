@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d001d7f1ee3dafa46eb3c8cebf89763fed858e87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "ACH002_NAME": {
       "name": "Back on Track",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/84c36272280096c8424ec7e4dc430989fc68f92d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "ACH009_NAME": {
       "name": "Forced Shutdown",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/c1bcb5babf108b17f914d1eb9f2586535e1c7c80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.1"
+      "percent": "57.2"
     },
     "ACH037_NAME": {
       "name": "Humble Hero",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4ad383a6606a00c04bc28e32ad646b34f0cbb9da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.5"
     },
     "ACH013_NAME": {
       "name": "Sweet Petrichor",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e431026ba7687bb9aef1b0b2090ba5ae572169c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.5"
+      "percent": "73.6"
     }
   },
   "platform": "Steam",
