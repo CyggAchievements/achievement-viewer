@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/c4a5b00586102c64f3de41b4c5c5a06084569534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "3strikesfromabove": {
       "name": "3 Strikes From Above",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/4287fbe594ee66129acf22473f5688fcef5a144c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "aidedthedefectors": {
       "name": "Aided the defectors",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/12484df45fb5b836a7be11875c2186ea4bea73eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "allancientvesselsfound": {
       "name": "All Ancient Vessels found",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/ee19e5f500c2cb3b934bddf2e1a1257a60a862e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "allbanukfiguresfound": {
       "name": "All Banuk Figures found",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/c80c721573050d5b1e40b68c5b047f4c79b84d62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "allcontroltowersdisabled": {
       "name": "All Control Towers disabled",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/3f61d096eaa7ca1b56d7371c5f6a2c2823a04c02.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "allcoresoverridden": {
       "name": "All Cores Overridden",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/6125416bf4b230afad76e45463618741b1c8d61d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "allquestscompleted": {
       "name": "All Quests completed",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/f19450568ff28f8ffcc4fa8292a925efc44ed43c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "allskillslearned": {
       "name": "All Skills learned",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/e792ef0b4e220ab1615b4bcd46bdf3d51458be7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "allsunsatoneground": {
       "name": "All Suns at one Ground",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/a2c607fe4129dfb995d03f645b4cebd2e5f0bd74.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "allvantagesfound": {
       "name": "All Vantages found",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/32863da1bcfe43b14098464ed0c6f851161c9314.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.6"
     },
     "clearedallthebanditcamps": {
       "name": "Cleared all the Bandit Camps",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/90a8fd7107e5b97be2c0b0429cc6cd9470f014ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "crashedtheeclipsenetwork": {
       "name": "Crashed the Eclipse network",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/87fc41b54fbe335e3f98b98f0f3390b66649cdd4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "defeatedthesawtooth": {
       "name": "Defeated the Sawtooth",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/27ec6c33f7ff35830e4fa0dd9e857cf14fceee34.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.6"
     },
     "discoveredthetruth": {
       "name": "Discovered the truth",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/2d5f0899df48af3d299e407a6088b00ce3702e60.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "downed23grazerdummies": {
       "name": "Downed 23 Grazer dummies",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/f803c74ef51649d2ab6092992ea4348dbf66203f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "firstancientvesselfound": {
       "name": "First Ancient Vessel found",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/76f5e2b678ad59f78a05ef36acbf262e4cc71d80.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "47.0"
     },
     "firstbanditcampcleared": {
       "name": "First Bandit Camp cleared",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/c45c58434183902e0d9df7f4dd04eba16a9370ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "firstbanukfigurefound": {
       "name": "First Banuk Figure found",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/91819abf62cb887af925b34263c606b2ddeeba7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "firstcoreoverridden": {
       "name": "First Core Overridden",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/db583e6a9609340a9349ece60d5a9837947c9097.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "firstcorruptedzonecleared": {
       "name": "First Corrupted Zone cleared",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/8a2c13db4035cc0af8e16b6799fc92e53e2bf038.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "firstmodification": {
       "name": "First Modification",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/ca5b911229824b559ebfe41f93fbe607b0b6a79b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.4"
     },
     "firstspearmodification": {
       "name": "First Spear Modification",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/e4746af7cb55254e335df81e6db17c4274fa3a9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "firstvantagefound": {
       "name": "First Vantage found",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/805de0deab677eb86f56c34e6dba12213fab1cfb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "followedrost_steachings": {
       "name": "Followed Rost's teachings",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/1efa4775b0c4f2b737e255a06df6e03fa64561b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.5"
     },
     "foughtbackthecorruption": {
       "name": "Fought back the corruption",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/564c41a43c44bc8947ed985a33df268da56bfc6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "gottheshieldweaveroutfit": {
       "name": "Got the Shield-Weaver outfit",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/ab7663bc308923ba45efc8bfd4800189d1eaa0a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "huntedredmawwithtalanah": {
       "name": "Hunted Redmaw with Talanah",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/a332eff90b1edd940306d933ac3482d7888f0694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "killed10frostclaws": {
       "name": "Killed 10 Frostclaws",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/a9bbf52850ecf73ba40fdba4cf1081c4e62a23d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "learnedoftheancientpast": {
       "name": "Learned of the ancient past",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/31deda1e708f903b7062a766c04cbe722c398c63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "newgame+completed": {
       "name": "New Game+ Completed",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/60aabb84756277db90872bbba25caa59fcfaecaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "reachedlevel25": {
       "name": "Reached level 25",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/d7332ceb55e073adba9b0e6816df72c435b2b538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "reachedlevel40": {
       "name": "Reached level 40",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/6c0a385b1cd88dface139ca162f7aaf6b65b59b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "reachedlevel60": {
       "name": "Reached Level 60",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/a0e4730c3791bb02b2840321269adc812310ea61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "savedmeridianfromitsfoe": {
       "name": "Saved Meridian from its foe",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/c0d49d373972b5f8d857b4edfa39782a8256db38.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "stealthkilled10machines": {
       "name": "Stealth killed 10 machines",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/9d56281b859da99358266a9a9deb418975ffe4eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "toreoff10components": {
       "name": "Tore off 10 components",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/25017b2778e0766551fe48793de8dedd9aa6214e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.6"
     },
     "toreoff5heavyweapons": {
       "name": "Tore off 5 heavy weapons",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2561580/c8832a076c6075d2aa56cf63d0a6617b5c34bbc1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "wonikrie_schallenge": {
       "name": "Won Ikrie's Challenge",
