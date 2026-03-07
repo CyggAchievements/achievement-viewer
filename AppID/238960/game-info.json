@@ -23,7 +23,7 @@
     },
     "AllOptionalDialogue": {
       "name": "All Ears",
-      "description": "Listen to all optional NPC dialogue.",
+      "description": "Listen to all optional NPC dialogue as one character.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/93976d98d243c7f7211514429634192a02d0304c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/002880083e910b60945eb51266d9a42097411327.jpg",
       "hidden": false,
@@ -32,7 +32,7 @@
     },
     "CompleteADailyMission": {
       "name": "All in a Day's Work",
-      "description": "Complete a Master's Atlas Objective.",
+      "description": "Complete a Master's Atlas Mission.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/f9341a847a8839150569839aeebd7c3fcb2f5809.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/e8bbc39560d48fff29945a837e10e885104ea8c3.jpg",
       "hidden": false,
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/9b6b767cf8ab0237de5b567f7cda538093ae0fdc.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "ChooseAscendancyClass": {
       "name": "Ascendancy",
@@ -104,7 +104,7 @@
     },
     "UniqueFromNormalTwilightStrand": {
       "name": "Beginner's Luck",
-      "description": "Have a Unique Item drop in the Twilight Strand.",
+      "description": "Have a Unique Item drop in the Twilight Strand in Act 1.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/70f05313bfc5f76ecaa8eda501d810f219bae92f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/e69f2a719173592b9e1d5b6e92deb0da100ed7eb.jpg",
       "hidden": false,
@@ -140,12 +140,12 @@
     },
     "KillAllBreachlords": {
       "name": "Breachlord",
-      "description": "Kill every Breachlord.",
+      "description": "Kill It That Was Esh and It That Was Tul.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/d4d658f1e613ea33221ba14e54f53a937edd6452.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/9a25e3fa08aa46be4a266c71813c4e02df08dfb9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.2"
+      "percent": "3.1"
     },
     "KillMaligaro": {
       "name": "Bringer of Pain",
@@ -158,21 +158,12 @@
     },
     "CaptureAFlag": {
       "name": "Capture the Flag",
-      "description": "Capture a flag during any CTF match.",
+      "description": "Capture a Flag in PvP.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/005464653f12dab5baf9eb9f17d41e835f7a973e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/5434fe712b6eb9fc101154c245131971e2fc18db.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "1.1"
-    },
-    "FullClearMap": {
-      "name": "Cartographer",
-      "description": "Fully clear an end-game Map area.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/136959c868c2afda0a22b954e9c18f95647dc715.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/111b04820d3dfc6cd7a50f44be2cfe9bb4eccbb2.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "14.4"
     },
     "FinishNormal": {
       "name": "Challenger",
@@ -230,7 +221,7 @@
     },
     "FinishCruelHC": {
       "name": "Dauntless",
-      "description": "Finish the Cruel Labyrinth in a Hardcore League.",
+      "description": "Complete the Cruel Labyrinth in a Hardcore League.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/27d51b49f7f1c94b2616673dacd8cb4157c353f7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/7310730ba541de508ad173c15bf2ffd16bdb13b7.jpg",
       "hidden": false,
@@ -248,7 +239,7 @@
     },
     "CompleteTenModMap": {
       "name": "Decimation",
-      "description": "Complete a map area that is affected by 10 or more mods. This can include mods from Sextants and other mods that are not on the map item.",
+      "description": "Complete a map area that is affected by 10 or more modifiers.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/515470dd01aca3b85f5a2d0e99c048bb35ff6b16.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/a79b079567be3ee14322da42b82b64e02fe92f91.jpg",
       "hidden": false,
@@ -329,7 +320,7 @@
     },
     "ResistAllElements75%": {
       "name": "Elemental Aegis",
-      "description": "Have at least 75% resistance to Fire, Ice and Lightning.",
+      "description": "Have at least 75% resistance to Fire, Cold, and Lightning.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/5776619690353ffe67e337757a4e5f5e3f497958.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/757ef7c5ab91544bea7801a49195112d293dfd17.jpg",
       "hidden": false,
@@ -374,7 +365,7 @@
     },
     "CorruptMonolith": {
       "name": "Essence Corruption",
-      "description": "Corrupt an Essence monster with a Remnant of Corruption.",
+      "description": "Corrupt an Essence monster with a Vaal Orb.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/1eef64f3bb13ed178157baefb0301a912dfabff1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/6e096c63a31ba35a4bc05eb5c522a9ae13b36fe8.jpg",
       "hidden": false,
@@ -399,6 +390,15 @@
       "group": "Update 1",
       "percent": "16.0"
     },
+    "FullClearMap": {
+      "name": "Explorer",
+      "description": "Fully clear an end-game Map area.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/136959c868c2afda0a22b954e9c18f95647dc715.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/111b04820d3dfc6cd7a50f44be2cfe9bb4eccbb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
     "CompleteAct5": {
       "name": "Fall of Oriath",
       "description": "Complete Part 1.",
@@ -410,7 +410,7 @@
     },
     "FinishNormalHC": {
       "name": "Fearless",
-      "description": "Finish the Labyrinth in a Hardcore League.",
+      "description": "Complete the Labyrinth in a Hardcore League.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/1181404052afa618aa1864bddc011b4363421b23.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/3f0b4bea9676ce112de0f01ed559df14f8a9cf10.jpg",
       "hidden": false,
@@ -437,7 +437,7 @@
     },
     "FullClearApexOfSacrifice": {
       "name": "Full Clear: Apex of Sacrifice",
-      "description": "Fully clear the Apex of Sacrifice.",
+      "description": "Kill Atziri in the Apex of Sacrifice.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/0812b5f7b5a5eaea6c90084b2814e402927178de.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/af909f8e4a2b9f060071f59de2cda729d5209e29.jpg",
       "hidden": false,
@@ -464,7 +464,7 @@
     },
     "FullClearDreadThicket": {
       "name": "Full Clear: Dread Thicket",
-      "description": "Fully clear the Dread Thicket",
+      "description": "Fully clear the Dread Thicket.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/28c4dfb05bb8fbaf4c2cc104b27da7c7b6b08eff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/0650c5a3684ef8ae8c31751f324cf9f138e221d1.jpg",
       "hidden": false,
@@ -509,7 +509,7 @@
     },
     "FullClearColosseum": {
       "name": "Gladiator",
-      "description": "Fully clear the Colosseum end-game Map.",
+      "description": "Fully clear the Colosseum or Pit end-game Map.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/2f875e53b87a6c10e8c56f8ce1d57a0fcd4854d8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/2aef48362baecea6792976da278abbd5badeebd0.jpg",
       "hidden": false,
@@ -590,7 +590,7 @@
     },
     "FinishMercilessHC": {
       "name": "Indomitable",
-      "description": "Finish Merciless Labyrinth in a Hardcore League.",
+      "description": "Complete the Merciless Labyrinth in a Hardcore League.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/4fff51fe37a8d4034e49d811ccddf27d4d332541.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/a1996ce32e93eb45e8befa1d5161634e33403278.jpg",
       "hidden": false,
@@ -626,7 +626,7 @@
     },
     "KillBrineKing": {
       "name": "King Tide",
-      "description": "Kill Tsoagoth, the Brine King",
+      "description": "Kill Tsoagoth, the Brine King.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/ddc346106e791bfdbeb20332d4f6f51679096802.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/bf2801bfdfb2d8929c97f1b38d8eb3e56d652876.jpg",
       "hidden": false,
@@ -653,7 +653,7 @@
     },
     "AllWaypoints": {
       "name": "Locomancer",
-      "description": "Tag each waypoint.",
+      "description": "Tag every waypoint as one character.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/6fddb3df8b7ffc6c864af87cae4dff21012444bd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/920542bba371db87cf419067b532be1c61d35a41.jpg",
       "hidden": false,
@@ -707,7 +707,7 @@
     },
     "UseShapersOrb": {
       "name": "New World Order",
-      "description": "Complete a Red or Purple Tier Map with a Horned Scarab applied.",
+      "description": "Complete a Tier 11 or higher Map with a Horned Scarab applied.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/726f3f1a3a70c6855e3b68f203da56bb3561fa4a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/358ba08e796e7a5b27a59567a033ea685b9867d8.jpg",
       "hidden": false,
@@ -716,7 +716,7 @@
     },
     "AllOptionalQuests": {
       "name": "No Loose Ends",
-      "description": "Complete each side-quest.",
+      "description": "Complete every side-quest as one character.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/0e9fe5ebbfb6c7361710c5bb0be61987b7d0b40e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/aa5209b4cb04b3b539a831e4d757b9745440fab4.jpg",
       "hidden": false,
@@ -725,7 +725,7 @@
     },
     "AllEnvironmentLore": {
       "name": "No Stone Unturned",
-      "description": "Discover all environmental lore.",
+      "description": "Discover all environmental lore as one character.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/401d9d8f2c3e7e28bdd7bed789a26db5033eb0d5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/dcebdca4b76cf5c0010b8b19cb569f8ce2ac4ca6.jpg",
       "hidden": false,
@@ -806,7 +806,7 @@
     },
     "ResistAnyElement90%": {
       "name": "Raise the Bar",
-      "description": "Have at least 90% resistance to any Element.",
+      "description": "Have 90% resistance to any Element.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/1dfdf20b31992d2a260bc47a668ebc72d94d8286.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/89399bce48d0bb9f052da8bd31cf149791bea1a4.jpg",
       "hidden": false,
@@ -842,7 +842,7 @@
     },
     "KillPaleCouncil": {
       "name": "Ruler of the Court",
-      "description": "Complete the Vinktar Square",
+      "description": "Complete the Vinktar Square.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/68e64cf165c6fd31d4ecb55008e33e67adc697ef.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/16db528dbe81bec453541db99a78805c7214d4b8.jpg",
       "hidden": false,
@@ -887,7 +887,7 @@
     },
     "KillTheShaper": {
       "name": "Shaper of Worlds",
-      "description": "Kill the Shaper.",
+      "description": "Defeat the Shaper.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/45cd90172b825087a622705ea6a791c550ec31bd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/c7c64e7e594cd129e184f938a7e5ec80f9a63a6f.jpg",
       "hidden": false,
@@ -914,7 +914,7 @@
     },
     "HandInFullSetDivinationCards": {
       "name": "Soothsaying",
-      "description": "Hand in a Full Set of Divination Cards to Tasuni.",
+      "description": "Hand in a full set of Divination Cards.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/8e1e8482629b3373c07b64804229c685c9770f80.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/be82ad51a521fc2e40efd2f50a42117ab920dcb7.jpg",
       "hidden": false,
@@ -959,7 +959,7 @@
     },
     "DefeatScarsOfTheAtlasBoss4": {
       "name": "The Ravenous Maw",
-      "description": "Defeat The Eater of Worlds",
+      "description": "Defeat The Eater of Worlds.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/2efcf012608624cba0c7373e7d23229d5ff025ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/22167eed9faf10a98be67301ef63453345fd1e25.jpg",
       "hidden": false,
@@ -968,7 +968,7 @@
     },
     "DefeatScarsOfTheAtlasBoss3": {
       "name": "The Scintillating Flame",
-      "description": "Defeat The Searing Exarch",
+      "description": "Defeat The Searing Exarch.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/863f713b5e89f8dbac29c75e56fa5ce1612dd70c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/5a072ac53677852fdf2bb280fbb0275986482ebc.jpg",
       "hidden": false,
@@ -986,7 +986,7 @@
     },
     "DefeatScarsOfTheAtlasBoss1": {
       "name": "The Star-Strewn Abyss",
-      "description": "Defeat The Black Star",
+      "description": "Defeat The Black Star.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/3f14afb25e039618fe13f3ea04ecf88c3647e1dc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/1eeaff026224ecbb5fb7f4ad51282500797b5a95.jpg",
       "hidden": false,
@@ -995,7 +995,7 @@
     },
     "DefeatScarsOfTheAtlasBoss2": {
       "name": "The Unearthly Devourer",
-      "description": "Defeat The Infinite Hunger",
+      "description": "Defeat The Infinite Hunger.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/860affbec70b68d821912f67ca1a8080e6753e98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/3e4bba67627baaded35e6eeac9946340ba2873fa.jpg",
       "hidden": false,
@@ -1009,7 +1009,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/1cf227733e068fcf1ec54c6e8e1f3bf060c3986e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "SideWithBandits": {
       "name": "Traitor",
@@ -1139,7 +1139,7 @@
     },
     "Have9Zombies": {
       "name": "Zombie Horde",
-      "description": "Have 9 Raised Zombies alive at one time.",
+      "description": "Have 9 Raised Zombies at the same time.",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/6d628091f1f921c8f81f837d231ce4e9aef6738a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/5aad06c7a38b0b7cd8631b7d0606371836cf5b2b.jpg",
       "hidden": false,
