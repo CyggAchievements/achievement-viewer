@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/7e8f6bf60c4432f56d73d53ecd89fa0b57c2a21a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "PvE06": {
       "name": "Bringing Down the Big Guns",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/81feb2ee6413c7a6b77174fa2f7a769a8e9af7b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "PvE11": {
       "name": "Comparative Study",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/eb139ca79862c494d711592491c576a875bfecfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "PvP04": {
       "name": "Crossed the Threshold",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9faecfca34b31ae23fc9f3150786652db941aa0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "PvE12": {
       "name": "Hook, Line, and Sinker",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/7ef2f4ed0035fdf4d1fd09598d1424249571fa31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.2"
     },
     "PvP03": {
       "name": "Horseshoes and Hand Grenades",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/2dd0d269b4b1c72ff0b8e0a194c903ec129e239b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "2.9"
     },
     "Meta06": {
       "name": "Legend of Speranza",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/870174ebe5d708345cd737b9c3e49be8e80df948.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "Misc05": {
       "name": "Long Shot",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/f5a19787ffc01daa0753769c5940062a23c494bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.7"
     },
     "PvE13": {
       "name": "Mechanical Failure",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/aa24a4637351a9160972a7e31daac97412259b47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.2"
+      "percent": "71.1"
     },
     "Misc03": {
       "name": "Practice Makes Perfect",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/f6bd65b6cc7e3a288f7b6e8331ff908d0dbf0a72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "PvE02": {
       "name": "Racking Them Up",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/45218d5ae5276ac0554021c7460b5c3d81a81712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "Expl01": {
       "name": "Scavenger",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/77a98e2083b80a53e3011589394d88f7a7516c2c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "Meta08": {
       "name": "Self-Sufficient",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/934a440872ede1d8b2569654ef58a95075b83e00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "Meta01": {
       "name": "The Big Haul",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9a98193cb33d23c12d79ebf553efb61779360d8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "Misc11": {
       "name": "Top of the World",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/e34a5b3f4e1203ca95fd788cf0034097c71a28ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "PvE03": {
       "name": "Trail of Destruction",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/7f7ae785c5e750230573625fe5bded611811aba5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "Meta04": {
       "name": "Well-Armed",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9d10eab1f7dfa5d1fcf81100d4eae25c2b919eed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "63.8"
     },
     "Expl02": {
       "name": "Well-Traveled",
