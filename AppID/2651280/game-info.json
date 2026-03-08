@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/c9222949eeb685e7d7d7bc56de94121a4539e5e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "DefeatLi": {
       "name": "Another Way",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/a18c3e051b5478c665c53e73b2a180c2eb6c020c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.1"
     },
     "BrooklynVisions": {
       "name": "Brooklyn Pride",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/ab759bcc31bc589fe8b6b8c88c68eac8c69a1379.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.5"
     },
     "FalconChases": {
       "name": "Data Collector",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/b1d33141c3ea3d41d56c8630a5e66a8beda068ae.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "PlatinumTrophy": {
       "name": "Dedicated",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/477f25b9df061326af0d3cba9656dc0e723d62cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "CompleteAllFNSM": {
       "name": "Friendly Neighborhood Spider-Man",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/9ef09fc42f0fa31a26c789bdff6ff704d0c41573.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.4"
     },
     "CompleteAllSpiderBots": {
       "name": "Funky Wireless Protocols",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/11c4cac96b5983d87420638cab659ea5225b52ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "SandmanCollectibles": {
       "name": "Grains of Sand",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/52691767843cd9046a1eb15c2784b864b34ea4b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.4"
     },
     "HarlemArc": {
       "name": "My Community",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/6649c74c59fe21b49ae8c84df85e26dfc7f2d992.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.6"
     },
     "CollectTechParts": {
       "name": "Resourceful",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/f84dc4ebf29a9d7fba5d259991b9483fe27ed128.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "WingsuitConeyIslandToQueens": {
       "name": "Soar",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/012d570f2c079b98ebe8685896da4674c9a15cd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "SymbiotePowersDuringRageMode": {
       "name": "Surge",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/01c28791c0abc6b9c4a395671c6e87a83e2250b9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "UpgradeAllGadgets": {
       "name": "To the Max",
