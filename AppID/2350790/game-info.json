@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e6b5ffc88b7dcb90b4f2b04050b025690490ab8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.7"
+      "percent": "92.6"
     },
     "ACH001_NAME": {
       "name": "Back to Business",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/dd249ac1fbf32441906c81d775115cb4c24ee47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ACH035_NAME": {
       "name": "Bullseye",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/84c36272280096c8424ec7e4dc430989fc68f92d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "53.9"
     },
     "ACH009_NAME": {
       "name": "Forced Shutdown",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/57e1b6ac7fc9fd9a94e306883592c2630ebefc11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.1"
     },
     "ACH015_NAME": {
       "name": "Part-time Adventurer",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/177a4c2b9d79997df415b7c10d9a73af07142e14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.8"
+      "percent": "75.7"
     },
     "ACH021_NAME": {
       "name": "Pocket-sized Burglar",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/068f41939c5afda5961fa1ad9a10ab73297c8ac5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "ACH018_NAME": {
       "name": "Wild Card",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e431026ba7687bb9aef1b0b2090ba5ae572169c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.6"
+      "percent": "73.5"
     }
   },
   "platform": "Steam",
