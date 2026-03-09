@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "d1": {
       "name": "Duke",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "dlc_01_duty_and_conscience": {
       "name": "Duty and conscience",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.8"
     },
     "full_band": {
       "name": "Full Strength",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "iron_man_1": {
       "name": "Iron Mode",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     }
   },
   "platform": "Steam",
