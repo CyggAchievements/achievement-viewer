@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/9e93a5012fa1c520d934f5f4836985291284646a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "GWENT_MASTER": {
       "name": "Gwent Master",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/aff73f99607bef4a7af5b13cfe9e36486ff1dc06.jpg",
       "hidden": true,
       "group": "The Witcher 3: Wild Hunt - Hearts of Stone",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "KAER_MORHEN_TRAINED": {
       "name": "Kaer Morhen Trained",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/292030/a78968ba3078d80101eeba100efa26bb96c90f0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     }
   },
   "platform": "GOG",
