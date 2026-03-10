@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6499695b11f9f49468dfc5a22e2def8277e02f92.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "st_all_routes": {
       "name": "Go Big or Go Home",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/a4e1df9abab65eb3ff3903b2ec6ae7a7edeadc30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "co_gold_mine": {
       "name": "Gold Rush",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/ae9ea5b9f39fb40aafed47447f54c1354d9deb62.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Montana",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "co_us550": {
       "name": "Million Dollar Highway",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/34667ac3c8893dd672cc672a85b72b77e7306147.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Arizona",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "mt_electric": {
       "name": "Power On!",
@@ -964,7 +964,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/5c817142b328c1f1e210a1406672de90dca71aeb.jpg",
       "hidden": false,
       "group": "American Truck Simulator - New Mexico",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "mt_visit_cities": {
       "name": "The Last Best Place",
@@ -982,7 +982,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/4826a41647abbbfe0331241209a8076dc22bbe41.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Texas",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "ar_visit_cities": {
       "name": "The Natural State",
@@ -1135,7 +1135,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/e82d9b40991fcd71d3b9728dcd83a890d3db046c.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Montana",
-      "percent": "0.5"
+      "percent": "0.6"
     }
   },
   "platform": "Steam",
