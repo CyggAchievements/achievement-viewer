@@ -1,7 +1,7 @@
 {
   "appid": "1794680",
-  "name": "Vampire Survivors",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg?t=1763675244",
+  "name": "Vampire Survivors - 吸血鬼幸存者",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header_schinese.jpg?t=1763675244",
   "achievements": {
     "MOON10_Survive15McCoy": {
       "name": "108 Bocce",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/c886324f6f79bc0e98b2abcb6b86039af08f4ed5.jpg",
       "hidden": false,
       "group": "Update 28",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "GetMagiStoneToLevel7": {
       "name": "EXTRA: Magi-Stone",
@@ -1603,7 +1603,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/1da0f2ca47fff0a6a58e077325b3fa3cc15af562.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.0"
+      "percent": "77.9"
     },
     "CompleteCollection": {
       "name": "Queen Sigma",
