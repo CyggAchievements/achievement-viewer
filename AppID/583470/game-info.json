@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/54cb36760c845b38aba81a17cea226150754a213.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "cart_c2_nocontinue": {
       "name": "Blaster Massacre - Discontinued ",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/66def2d0d0b2b852fdb94ffdc591787082d516a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "cart_i4_beat": {
       "name": "Depression...",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/3ed26ffc63cf1f4d756e64746c2e38e77189c862.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "cart_c5a_halfcoins": {
       "name": "Fallen Fantasy - Half Empty ",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/0050bb332cac22c4699a697cb84fc7463378b9c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "iron_cart1": {
       "name": "Iron Cart I",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/d2e544d3b4fff3b81ef8f150f8f76586da80c0f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "iron_cart2": {
       "name": "Iron Cart II",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/fc25509c0e4084c6c751a6f98cb174e31eb9f8a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "cart_c1_halfcoins": {
       "name": "Morta Man - Half Empty",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/d276c563d580a025966a02cc05f66de986106ea2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "cart_c3_halfcoins": {
       "name": "River City Rancid - Half Empty",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/51c4d23ead21d80c9e113bdb57ce7e51ade16748.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "cart_c3_beat": {
       "name": "River City Rancid - The Bare Minimum",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/185bc2e740ea2feded0333b626ed5a31310e79fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "cart_g2_ironman": {
       "name": "Scab or Die - Unbreakable",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/6dc938f55a440a9f2cb7f3a2837f3efedef09273.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "cart_g1_ironman": {
       "name": "Spike Tales - Unbreakable",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/c7e15caba5fd844aa9b3fff8d5381729056b5fe4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "stage_1": {
       "name": "Stage I",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/9c80fc96d90ec1bae5124c631a76b1f47bb50ce3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "stage_3": {
       "name": "Stage III",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/583470/7fa2ef544831a350641628029767855529f0e232.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "stage_5": {
       "name": "Stage V",
