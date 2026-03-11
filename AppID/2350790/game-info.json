@@ -1,12 +1,12 @@
 {
   "appid": "2350790",
   "name": "Moonlighter 2: The Endless Vault",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/header.jpg?t=1771512799",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/0bc0e0f3919e17efe71c99ce0b4e4f831a97a4f2/header_alt_assets_1.jpg?t=1773237666",
   "achievements": {
     "ACH029_NAME": {
       "name": "A Growing Business",
       "description": "Upgrade the Moonlighter to level 3.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/355a79d9c97fb6029823340dc472c84c2b40fd5f.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/6da72bdc5c19c632499fe0394e6b7b70dad32110.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/fda4370ff733196666b4326d9cf5bc1e568b4b98.jpg",
       "hidden": false,
       "group": "Base Game",
@@ -42,11 +42,11 @@
     "ACH025_NAME": {
       "name": "Average Merchant",
       "description": "Complete the 3rd challenge of the Endless Vault.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a4caf26f16aed2139f72d14c7ff048f9f4022883.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/88022cf9b96c2cc3ae58862b741583cb824deabb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d001d7f1ee3dafa46eb3c8cebf89763fed858e87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "ACH002_NAME": {
       "name": "Back on Track",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e6b5ffc88b7dcb90b4f2b04050b025690490ab8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.7"
+      "percent": "92.6"
     },
     "ACH001_NAME": {
       "name": "Back to Business",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4d62a9096be0c9603b794175616ed3fced5d1549.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "97.7"
+      "percent": "97.6"
     },
     "ACH036_NAME": {
       "name": "Bag of Holding",
@@ -77,12 +77,20 @@
     },
     "ACH035_NAME": {
       "name": "Bullseye",
-      "description": "Hit 100 enemies with your Gun.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/5ba1818b4d856a5748a2acad2db826b775eeb5cf.jpg",
+      "description": "Shoot 100 enemies with your Gun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/6744f4bc4ce0b460fbba270997973a9b4e2835a6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/989a884d37ce294536a3edf987c93b236ea2aa81.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "71.2"
+    },
+    "ACH027_NAME": {
+      "name": "Chosen Merchant",
+      "description": "Complete the 5th challenge of the Endless Vault.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e334914602180a38767fb66a4146a8ca80d0601c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d2e875c1731b5cbff9c551b2d4641341ff2445ee.jpg",
+      "hidden": false,
+      "group": "Update 1"
     },
     "ACH010_NAME": {
       "name": "Dismissal Letter",
@@ -96,7 +104,7 @@
     "ACH026_NAME": {
       "name": "Expert Merchant",
       "description": "Complete the 4th challenge of the Endless Vault.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d1cd17c8961c20b88cfd82c18221142da76697ed.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/34e8022fc3146e875ff77064e8e634dc66f2cd4e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e8c33bd5855bf454a22626e96718fbb99ff0018a.jpg",
       "hidden": false,
       "group": "Base Game",
@@ -109,7 +117,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/84c36272280096c8424ec7e4dc430989fc68f92d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "ACH009_NAME": {
       "name": "Forced Shutdown",
@@ -118,12 +126,12 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e6e1f19e2dcfca7af635804e180cc6b79f52da9a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "ACH028_NAME": {
       "name": "Fresh Venture",
       "description": "Upgrade the Moonlighter to level 2.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/46895fb3bf0578fde0c026a2d32e1e204dbc2160.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/7ac1b4b9e00b7d0366eafa14efbfd2dc56bab3ee.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4cd0c119bc7fa526cef06f1d8c3df800636b0ceb.jpg",
       "hidden": false,
       "group": "Base Game",
@@ -141,11 +149,11 @@
     "ACH034_NAME": {
       "name": "Home Run",
       "description": "Defeat 50 enemies by ejecting them with the backpack.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/cb893a8d50652ca0844f94421b163145f09ae90b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/c1bcb5babf108b17f914d1eb9f2586535e1c7c80.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/3554860371106c32b3d74215e60845468b2a60a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/9b422adfc6e67f66d9222281d542e167b7d26cc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.1"
+      "percent": "57.2"
     },
     "ACH037_NAME": {
       "name": "Humble Hero",
@@ -159,8 +167,8 @@
     "ACH031_NAME": {
       "name": "Impulse Purchases",
       "description": "Spend a total of 123,456 gold.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/17a16c43515cdebf70df9c95a7fc180f1af9d754.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8694a18ebd2ae90e67ee9c6cc8fa096aef0f3844.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/17be25c09b9f1ab4d8541b13b8e66fe407bd14fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/49e7b81696eca84c3184ee374a6e2013c5660243.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "50.4"
@@ -204,7 +212,7 @@
     "ACH023_NAME": {
       "name": "Novice Merchant",
       "description": "Complete the 1st challenge of the Endless Vault.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/264729807731ec862239efb5541ccecbac959e91.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8d7b884f318e3292dea0bfdb120f6bc14b444626.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/aa1c4971b284c889a2b1504acb681216d3cdaa54.jpg",
       "hidden": false,
       "group": "Base Game",
@@ -249,8 +257,8 @@
     "ACH021_NAME": {
       "name": "Pocket-sized Burglar",
       "description": "Rescue an old friend.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a53ba3fa1bc5c9c13e3d919f82f583e168f9cada.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/b83dc97d59ff4d2921da1393d751855c2537a109.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/c97d5c12d7063a2dd2ffda535bf7ca5505697b3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/2d0084e1593c6a3cce2d3e3e73f9a7ed54cb68aa.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "15.7"
@@ -271,13 +279,13 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4ad383a6606a00c04bc28e32ad646b34f0cbb9da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.5"
     },
     "ACH013_NAME": {
       "name": "Sweet Petrichor",
       "description": "Defeat Monte.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/6cd14ac628c9823f7a7a22cac431ad8ca2f982b9.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/c9dc8956cd8d5442f36afc4bca337d124b21952f.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/45807ecfa7e4a4db06f014ff895ada2e0e274d26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/cc83ca93e14738c57c98f10d6b81f5831ef9d685.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "18.3"
@@ -303,7 +311,7 @@
     "ACH024_NAME": {
       "name": "Trainee Merchant",
       "description": "Complete the 2nd challenge of the Endless Vault.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d98353ab71238344c612845f3dbec9ebcfd044ad.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/48d6d3498f45876df82686369c03ce2c68e0c33d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/068f41939c5afda5961fa1ad9a10ab73297c8ac5.jpg",
       "hidden": false,
       "group": "Base Game",
@@ -321,8 +329,8 @@
     "ACH012_NAME": {
       "name": "Wind Slumber",
       "description": "Defeat Senda.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4134bbb8807f7c991fdfa4335474ea7476c91064.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/54b466861d77c4ca6d92ac302f58f5e739c66f8a.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ec12032be08c0033e04f6556e7fe7ad61082b8a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/15c44ff70208dcf5fcd3a5a6a94281d7fd32720d.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "37.8"
@@ -330,7 +338,7 @@
     "ACH003_NAME": {
       "name": "Wishing Well",
       "description": "Meet the Endless Vault.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/a82fe6356cedc7b87848888d316a0b27a72046d2.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e99589549489b2a8711b657251dd8283be777b88.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/52871dbc482a411a96d4c86157556bfe2012045a.jpg",
       "hidden": false,
       "group": "Base Game",
@@ -343,7 +351,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e431026ba7687bb9aef1b0b2090ba5ae572169c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.5"
+      "percent": "73.6"
     }
   },
   "platform": "Steam",
