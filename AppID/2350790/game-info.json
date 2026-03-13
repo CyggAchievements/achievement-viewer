@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/fda4370ff733196666b4326d9cf5bc1e568b4b98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.9"
     },
     "ACH032_NAME": {
       "name": "A Persistent Hunter",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4353002cb39427f16c4b0492e6894a1bf83656bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.6"
     },
     "ACH038_NAME": {
       "name": "A Skilled Hand",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/089e61fbdf91da564983b7d3ad4f7f948b48b3f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.5"
     },
     "ACH008_NAME": {
       "name": "An Unwelcome Guest",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/f4459d0519e3cc1fe06f3edfb4a96902bef631f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.9"
     },
     "ACH025_NAME": {
       "name": "Average Merchant",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d001d7f1ee3dafa46eb3c8cebf89763fed858e87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.4"
     },
     "ACH002_NAME": {
       "name": "Back on Track",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/dd249ac1fbf32441906c81d775115cb4c24ee47a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "ACH035_NAME": {
       "name": "Bullseye",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/989a884d37ce294536a3edf987c93b236ea2aa81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "71.2"
     },
     "ACH027_NAME": {
       "name": "Chosen Merchant",
@@ -90,8 +90,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e334914602180a38767fb66a4146a8ca80d0601c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/d2e875c1731b5cbff9c551b2d4641341ff2445ee.jpg",
       "hidden": false,
-      "group": "Update 1",
-      "percent": "0.8"
+      "group": "Update 1"
     },
     "ACH010_NAME": {
       "name": "Dismissal Letter",
@@ -109,7 +108,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e8c33bd5855bf454a22626e96718fbb99ff0018a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.3"
     },
     "ACH017_NAME": {
       "name": "Flying Flee",
@@ -118,7 +117,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/84c36272280096c8424ec7e4dc430989fc68f92d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.5"
+      "percent": "53.9"
     },
     "ACH009_NAME": {
       "name": "Forced Shutdown",
@@ -127,7 +126,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e6e1f19e2dcfca7af635804e180cc6b79f52da9a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.6"
     },
     "ACH028_NAME": {
       "name": "Fresh Venture",
@@ -136,7 +135,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4cd0c119bc7fa526cef06f1d8c3df800636b0ceb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.3"
     },
     "ACH039_NAME": {
       "name": "Golden Egg",
@@ -145,7 +144,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/bb3d5ae5173f0404877b8f28d899f47d763756d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.5"
     },
     "ACH034_NAME": {
       "name": "Home Run",
@@ -154,7 +153,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/9b422adfc6e67f66d9222281d542e167b7d26cc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "57.1"
     },
     "ACH037_NAME": {
       "name": "Humble Hero",
@@ -163,7 +162,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/9bea93819d6e7c3ef61c42b5733761aaca6567f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "ACH031_NAME": {
       "name": "Impulse Purchases",
@@ -172,7 +171,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/49e7b81696eca84c3184ee374a6e2013c5660243.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "50.4"
     },
     "ACH004_NAME": {
       "name": "Just Like Old Times",
@@ -181,7 +180,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/7425bf9cd456024c3a4590c0a00605608db15dbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.8"
+      "percent": "89.5"
     },
     "ACH040_NAME": {
       "name": "Last Units",
@@ -190,7 +189,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/20db61f2b742ce8bc7452f553b3271ae5b565021.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.6"
     },
     "ACH030_NAME": {
       "name": "Market Recon",
@@ -199,7 +198,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/900398b411c5280c6b237461052a5cb36b894e74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.9"
     },
     "ACH033_NAME": {
       "name": "Master Looter",
@@ -208,7 +207,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4a54e6432a6d6f7774d3f7363cb56864b2810ef8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.5"
     },
     "ACH023_NAME": {
       "name": "Novice Merchant",
@@ -217,7 +216,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/aa1c4971b284c889a2b1504acb681216d3cdaa54.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.4"
+      "percent": "75.7"
     },
     "ACH006_NAME": {
       "name": "Out of Tune",
@@ -226,7 +225,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/9695424da8b8769b7e5e55bdbe71e3d98d2f3044.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.8"
+      "percent": "52.1"
     },
     "ACH011_NAME": {
       "name": "Overture",
@@ -235,7 +234,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/57e1b6ac7fc9fd9a94e306883592c2630ebefc11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "49.1"
     },
     "ACH015_NAME": {
       "name": "Part-time Adventurer",
@@ -244,7 +243,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/8ffc4a6f941eb0b0969acb63a8f60d07e9088064.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.7"
     },
     "ACH020_NAME": {
       "name": "Pet the Bloblet",
@@ -253,7 +252,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/177a4c2b9d79997df415b7c10d9a73af07142e14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.5"
+      "percent": "75.8"
     },
     "ACH021_NAME": {
       "name": "Pocket-sized Burglar",
@@ -262,7 +261,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/2d0084e1593c6a3cce2d3e3e73f9a7ed54cb68aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "ACH022_NAME": {
       "name": "Return of the Retailer",
@@ -271,7 +270,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ad96a2cb7970d7042d5a01039b1c47880f987767.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "57.2"
     },
     "ACH016_NAME": {
       "name": "Shop Sweet Shop",
@@ -280,7 +279,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/4ad383a6606a00c04bc28e32ad646b34f0cbb9da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.3"
+      "percent": "71.4"
     },
     "ACH013_NAME": {
       "name": "Sweet Petrichor",
@@ -289,7 +288,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/cc83ca93e14738c57c98f10d6b81f5831ef9d685.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "ACH007_NAME": {
       "name": "The Fallen King",
@@ -298,7 +297,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/cce1517c841f92965e84a9ef2f3a23f67ea38679.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.4"
     },
     "ACH019_NAME": {
       "name": "The Price of Greed",
@@ -307,7 +306,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/ddb99c82b2562dd6e9b85ca081d475dc756122d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.3"
+      "percent": "63.6"
     },
     "ACH024_NAME": {
       "name": "Trainee Merchant",
@@ -316,7 +315,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/068f41939c5afda5961fa1ad9a10ab73297c8ac5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "58.0"
     },
     "ACH018_NAME": {
       "name": "Wild Card",
@@ -325,7 +324,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/727188021c61d7099ac2fd29bc2497c40fb66a79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "51.0"
     },
     "ACH012_NAME": {
       "name": "Wind Slumber",
@@ -334,7 +333,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/15c44ff70208dcf5fcd3a5a6a94281d7fd32720d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.8"
     },
     "ACH003_NAME": {
       "name": "Wishing Well",
@@ -352,7 +351,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2350790/e431026ba7687bb9aef1b0b2090ba5ae572169c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.5"
     }
   },
   "platform": "Steam",
