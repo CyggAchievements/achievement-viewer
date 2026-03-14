@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cb8a5e13a10a81af1af5b402625fc313e2012924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.7"
+      "percent": "80.8"
     },
     "PvE04": {
       "name": "Death From Above",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/21164da0b0bb19a0547a78976d480f9b0dc71feb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "Meta03": {
       "name": "Expert Weaponsmith",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/6f8246f2b8dcf2f3ee229b28620a0da93d00ce03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "58.0"
     },
     "Misc12": {
       "name": "For Science!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/3076f70a409641cf5d655554742e32ccb7444131.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.6"
     },
     "PvE07": {
       "name": "Into the Breach",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cc901fe2f79edfc0d748b9f0edec0fc477f58a49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "Expl05": {
       "name": "Into Thin Air",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/06cea6d3f388b949dc95ea455cd6040bc0bb1be0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "Misc06": {
       "name": "No Going Back",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/f6bd65b6cc7e3a288f7b6e8331ff908d0dbf0a72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "PvE02": {
       "name": "Racking Them Up",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/45218d5ae5276ac0554021c7460b5c3d81a81712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "Expl01": {
       "name": "Scavenger",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/e34a5b3f4e1203ca95fd788cf0034097c71a28ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "PvE03": {
       "name": "Trail of Destruction",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/063b7a6f232aa912cd798d397b471ce7b2f18d21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "58.7"
     },
     "PvP01": {
       "name": "Unyielding",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9d10eab1f7dfa5d1fcf81100d4eae25c2b919eed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "Expl02": {
       "name": "Well-Traveled",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cd8e8e0e950b5824cb088fe81fc1bf00980f65d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.6"
     }
   },
   "platform": "Steam",

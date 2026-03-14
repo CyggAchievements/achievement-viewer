@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/9fd00ccc4a747cb12d6d7947e8092871660f4030.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "MaxLevel": {
       "name": "Amazing",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/37203fe6eced9df73b875c63c9c73c9ab88baab6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.5"
     },
     "CompleteAllMysterioChallenges": {
       "name": "Behind the Masks",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/2dd0e1a656f8a8024d0cb4620ea47875805d3bc9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "EmilyMayFoundationQuests": {
       "name": "Foundational",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/a595f3feb938eb7b56e91d1d25348307e63a7b18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "AllSuits": {
       "name": "Kitted Out",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/40863aaf34c1b0685edf46391ada040c8fc44f8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "VenomModeKills": {
       "name": "Leave Us Alone",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/6649c74c59fe21b49ae8c84df85e26dfc7f2d992.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.7"
     },
     "CollectTechParts": {
       "name": "Resourceful",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/2b12edb842df25e93970b265c39c6fd9364555f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "HunterBases": {
       "name": "Seek and Destroy",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2651280/2d9365d2850b3aebaef28d4ef5883efee78137e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.2"
+      "percent": "91.1"
     }
   },
   "platform": "PlayStation",
