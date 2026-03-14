@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/12294af8456e5f81a097357003110c5a62598394.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "AllOptionalDialogue": {
       "name": "All Ears",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/e8bbc39560d48fff29945a837e10e885104ea8c3.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "HaveThreeTotems": {
       "name": "Ancestral Power",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/9a25e3fa08aa46be4a266c71813c4e02df08dfb9.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "KillMaligaro": {
       "name": "Bringer of Pain",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/a79b079567be3ee14322da42b82b64e02fe92f91.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "DefeatTheMaven": {
       "name": "Defeat The Maven",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/6e096c63a31ba35a4bc05eb5c522a9ae13b36fe8.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "Level90HC": {
       "name": "Eternal",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/111b04820d3dfc6cd7a50f44be2cfe9bb4eccbb2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "CompleteAct5": {
       "name": "Fall of Oriath",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/6ac1a792ebaefe16d7e963f8d45446c57e54e278.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "EquipRareEachSlot": {
       "name": "Geared Up",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/c46dd507462dfc353e6df62190145a7552d05638.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "Level20Gem": {
       "name": "Gemling",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/920542bba371db87cf419067b532be1c61d35a41.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "FinishMerciless": {
       "name": "Lord",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/238960/4f0820f46a3d0868ebf2bff065eb6d575cebb397.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "KillUnholyTrio": {
       "name": "Rule of Three",
