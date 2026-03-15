@@ -1,7 +1,7 @@
 {
   "appid": "546560",
-  "name": "Game 546560",
-  "icon": "",
+  "name": "Half-Life: Alyx",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg?t=1762986588",
   "achievements": {
     "TRACK_A3_C17_PROCESSING_PLANT": {
       "name": "Blast From the Past",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/4f15ccb8a67926c571b1d65627d6c540ea994e00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "SIDE_HL2_PLAYGROUND": {
       "name": "On a Roll",
