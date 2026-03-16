@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/6c61cd2b902bad1fd60ac3e49aadfd850737842c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "ACH_HEADSHOTKILLS": {
       "name": "Calculated",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/4a10796cf92b85b319e7eb1bbdc0604113109657.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "39.1"
     },
     "ACH_CATALYST": {
       "name": "Catalyst",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/229668244abe9b58c79041362bf0886eed6a8e4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACH_NOSTALGICPISTOL": {
       "name": "Old School",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/843390/542f6da0d0011768487282eb0e01663eb142095f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     }
   },
   "platform": "Steam",
