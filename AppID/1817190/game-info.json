@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d7987fe2aedc33e477a2fbd7e75a1908c2ce3e5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "bestfriesintown": {
       "name": "Best Fries in Town",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/40d8613028b78759e629fd40ea6ef6efba95dfe8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "comeattheking": {
       "name": "Come at the King",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/7d364964379fddef1ef27c26be452f4f2a907ac9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.5"
     },
     "sociallyacceptable": {
       "name": "Socially Acceptable",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/cd61b254d10407b95a1f541c7336d33e7b3b0c55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "spidertraining:complete": {
       "name": "Spider-Training: Complete",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/d283a5c442eb3fbbb67bdf79e1f9acf0ef9f68d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "urbanexplorers": {
       "name": "Urban Explorers",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817190/fc72915fdd9c4c347e28b5867c259b5dfa45b860.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     }
   },
   "platform": "PlayStation",

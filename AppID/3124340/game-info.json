@@ -1,7 +1,7 @@
 {
   "appid": "3124340",
   "name": "Demeo x Dungeons & Dragons: Battlemarked",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/b95edc419745dbe847ce6f717a8bc6b9d0f43cca/header.jpg?t=1771866484",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/34ebd35e88ea7275d222753967421956529e3978/header.jpg?t=1773756301",
   "achievements": {
     "CoolBoss": {
       "name": "A Frozen Coronation",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/dc75e0105c75f73e94371c3847da6957439e38c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "JackOfAllTrades": {
       "name": "Jack of all trades",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/cabc46a64c157ee080f9e62f468af1023fcc11aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "KnowThyEnemy": {
       "name": "Know thy enemy",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/ddd52c5781f65ebdd7bfad840edccc1cb827e53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "PerformanceOfALifetime": {
       "name": "Performance of a Lifetime!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/06736aa3a358998d024f554ece1fd0a6600eb698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "Vengeance": {
       "name": "Vengeance",
