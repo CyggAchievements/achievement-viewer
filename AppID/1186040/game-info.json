@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1186040/b3ac2c7afe127dfb921e11a3aded896362a65447.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ACH_MONEY": {
       "name": "Big Spender",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1186040/21efc18a58b58b8ef3fd9f650ff11e976bbd05ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "ACH_DAILY": {
       "name": "Challenger",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1186040/6d4e09c0ff2bd2a6a01a8339c273b1675164f1b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ACH_COMPLETEGAME": {
       "name": "Finisher",
