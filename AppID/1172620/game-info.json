@@ -183,6 +183,15 @@
       "group": "Update 1",
       "percent": "4.3"
     },
+    "304": {
+      "name": "Are You Even Trying?!",
+      "description": "During a Faction battle, indulge in too many tankards of grog.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172620/e2769181a4e56ad5ee92bf74f42e9c4c4776feb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
+      "hidden": false,
+      "group": "Update 39",
+      "percent": "0.0"
+    },
     "274": {
       "name": "Astral Protection",
       "description": "Complete the 'Astral Protection' Commendation.",
@@ -515,6 +524,15 @@
       "hidden": false,
       "group": "Update 26",
       "percent": "1.1"
+    },
+    "305": {
+      "name": "Don't Make Me Turn This Ship Around!",
+      "description": "Sail 100 nautical miles with a Chest of Sorrow aboard your ship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172620/e2769181a4e56ad5ee92bf74f42e9c4c4776feb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
+      "hidden": false,
+      "group": "Update 39",
+      "percent": "0.0"
     },
     "287": {
       "name": "Eel-ectric Tide",
@@ -1478,6 +1496,15 @@
       "hidden": false,
       "group": "Update 21",
       "percent": "33.1"
+    },
+    "306": {
+      "name": "Oh Wow, Kegs...",
+      "description": "Detonate a Gunpowder Barrel, Stronghold Gunpowder Barrel and Black Powder Barrel at the same time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172620/e2769181a4e56ad5ee92bf74f42e9c4c4776feb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
+      "hidden": false,
+      "group": "Update 39",
+      "percent": "0.0"
     },
     "254": {
       "name": "Pay Your Respects",
