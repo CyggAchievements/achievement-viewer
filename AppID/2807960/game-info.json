@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/0ee90d395ad8b0bc99646e84dc61d0deabcf4306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ACHIEVEMENT34": {
       "name": "A Joyful Nurse",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/d64621a9873375e9703ff933096e24a10707c23f.jpg",
       "hidden": true,
       "group": "Battlefield™ REDSEC",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "ACHIEVEMENT23": {
       "name": "Being Watched",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/629e837942216efa73a695a14f93452e5b6b0acf.jpg",
       "hidden": true,
       "group": "Battlefield™ REDSEC",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "ACHIEVEMENT28": {
       "name": "Command and Conquest 2",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/1ef85c0e1f03d23d94aa8896bf48ab83c79aa63c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "ACHIEVEMENT16": {
       "name": "End of an Era",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/2379514048937d36b36a6a24067d6122dc71c7cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.3"
     },
     "ACHIEVEMENT13": {
       "name": "Liquidator",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/acc8e2fdc6b47946fc164c8a3fe797a6328032a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "ACHIEVEMENT20": {
       "name": "Looks Like A Nail",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/9b4fd8435a3cea37d6f347717f491c190b504622.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "ACHIEVEMENT50": {
       "name": "Mission Accepted",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b2322517393014a45b4280b1ab6c28c4424b0497.jpg",
       "hidden": true,
       "group": "Battlefield™ REDSEC",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACHIEVEMENT52": {
       "name": "Mozambique Here!",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/b352539423f5ab0e1882507f39579932411e6d47.jpg",
       "hidden": true,
       "group": "Battlefield™ REDSEC",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "ACHIEVEMENT48": {
       "name": "Never-Ending Game",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/3b82b159694a593fb0ace2c7cb23e17a42da6eb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "44.8"
     },
     "ACHIEVEMENT41": {
       "name": "Punished",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/cecf674d7d80cfdde5f21bc49f0cd4b68d1d2798.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.2"
     },
     "ACHIEVEMENT46": {
       "name": "Rise from Your Grave",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/91b79cfadb3d9ef18f9dd94ed8c3052e3f0429df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "ACHIEVEMENT03": {
       "name": "Secret Service",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/e069f1d8036e155a09e054ea2e4a628fe7fc8f2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "ACHIEVEMENT19": {
       "name": "Sidearm Savant",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/30fc2a6cc0f2e271c90187a7e76be65ce87d4f15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "ACHIEVEMENT33": {
       "name": "Stolz der Nation",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2807960/75ae7d44428d5d6f971a1b5b359e6bae7c1f538c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.2"
     }
   },
   "platform": "Steam",

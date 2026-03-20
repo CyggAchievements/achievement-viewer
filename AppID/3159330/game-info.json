@@ -1,7 +1,7 @@
 {
   "appid": "3159330",
   "name": "Assassin’s Creed Shadows",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1770145731",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1774026738",
   "achievements": {
     "ACShadows_Ach_2": {
       "name": "A New League Rises",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/3f66c03a72b2d7b510f751a02bdbde59e31b88e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "ACShadows_Ach_47": {
       "name": "Chase the Morning",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3159330/2738f2d1f74ac3c8442e3d1f8bd13e141ab06bef.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ACShadows_Ach_33": {
       "name": "Master Samurai",
