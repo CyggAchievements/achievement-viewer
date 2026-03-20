@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/b3e2c18c0e06ab81e3a824849cde3887d6afbdcc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.2"
     },
     "ACH_TRUTH_TOLD": {
       "name": "\"That’s, like, a real superhero.\"",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/da03fcb8a60937b593a831925aaf7df228861ed3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.8"
+      "percent": "72.9"
     },
     "ACH_STORE": {
       "name": "\"There. You happy now?\"",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/ba980b938d51ca961ff507132f09a2c26e6020fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "ACH_LISTEN": {
       "name": "\"You gonna eat those twinks?\"",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f116d0045c5f4a6f6dc562d1c3f3f503334ee64c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.5"
+      "percent": "71.6"
     },
     "ACH_DISPATCH_ALL": {
       "name": "Dispatched",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.2"
+      "percent": "81.3"
     },
     "ACH_POWER": {
       "name": "Getting to Know Yous",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/db966df611b8d5d004f99c16860ebc28e5a41d0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.7"
+      "percent": "84.8"
     },
     "ACH_HACK_ALL": {
       "name": "H4ck3d by R0b3rt",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/23a8aa335fae036f4f2b7daf7ea2f157ae3c5c18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "ACH_STAT_MAX": {
       "name": "Min Max",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/1151d73c5d28faf958910066a46f9690ed973ae7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.1"
+      "percent": "83.2"
     },
     "ACH_PERFECT": {
       "name": "Shift Was Lit",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/9abc489901baf9bf88bcc11c6d0df85894960c5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.7"
     }
   },
   "platform": "Steam",
