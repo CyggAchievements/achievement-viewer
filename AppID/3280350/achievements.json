@@ -153,7 +153,9 @@
   },
   "trophy_036": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 3,
+    "progress": 1
   },
   "trophy_037": {
     "earned": false,
