@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "ACH_BirdsEyeView": {
       "name": "Bird's Eye View",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.5"
     },
     "ACH_GoddessOfTheUnderground": {
       "name": "Goddess of the Underground",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "ACH_Hunted": {
       "name": "Hunted",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "ACH_IcedIt": {
       "name": "Iced it!",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.1"
+      "percent": "77.2"
     },
     "ACH_RosaHood": {
       "name": "Rosa Hood",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ACH_RudeHealth": {
       "name": "Rude Health",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "ACH_sdrawkcaBtIgnioD": {
       "name": "sdrawkcaB tI gnioD",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "ACH_Strike": {
       "name": "Strike!",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ACH_FuseBox": {
       "name": "You Shall Pass!",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     }
   },
   "platform": "Steam",
