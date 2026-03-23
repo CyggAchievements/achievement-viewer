@@ -37,7 +37,15 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b35b0c322f5320380264d761c19e9a7438ffa587.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.1"
+      "percent": "14.0"
+    },
+    "ACH_40": {
+      "name": "Better Be Safe",
+      "description": "Complete all Safe Zones and Safe Spots in Restored Land Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b06583600e15bd4ef87d7ffa64dfcf02516bb7c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/4db1427c4b23fdb91df54f648fda195adbe2c62d.jpg",
+      "hidden": false,
+      "group": "Update 3"
     },
     "ACH_19": {
       "name": "Blacksmith",
@@ -46,7 +54,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/fa2dacbbb5ce8a64c1e20d0bc1660f1262a4c91f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "ACH_24": {
       "name": "Cabinet of Curiosities",
@@ -91,7 +99,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/35f66f4e8e8907035553c5772a1192bf5f4054b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "ACH_13": {
       "name": "Experiment on the Loose",
@@ -165,6 +173,14 @@
       "group": "Base Game",
       "percent": "5.6"
     },
+    "ACH_39": {
+      "name": "Hoarder",
+      "description": "Complete all Dark Zones and Convoys in Restored Land Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/98fa212bfca49dafb14c2dff40fe6f96f4d8c2b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/fdddbe2fbef3793cf22575b7a4ffb1592f1ee72a.jpg",
+      "hidden": false,
+      "group": "Update 3"
+    },
     "ACH_34": {
       "name": "I am The Alpha now",
       "description": "Kill The Alpha Volatile",
@@ -217,7 +233,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5fc1531f32e15a777c847fe12f6c170f511eedec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.5"
+      "percent": "73.4"
     },
     "ACH_4": {
       "name": "Less Obedient",
@@ -237,6 +253,22 @@
       "group": "Base Game",
       "percent": "88.6"
     },
+    "ACH_42": {
+      "name": "Peace Bringer",
+      "description": "Reclaim all the regions of Castor Woods in Restored Land Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/60a24b7e8bfb71bf6816c1935277c294ffae8e1c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/48c6df4a348e4c1aebbce117adaf9dfec624470f.jpg",
+      "hidden": false,
+      "group": "Update 3"
+    },
+    "ACH_36": {
+      "name": "Pushing Through",
+      "description": "Complete the quest \"Vengeance is Mine\" in Restored Land Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/c2a8a9d09d5fbfbce71cad9a7b45038c758192ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/e979de96d510c24a562e2b23683e8cb6ce270777.jpg",
+      "hidden": true,
+      "group": "Update 3"
+    },
     "ACH_31": {
       "name": "Second Ascent",
       "description": "Finish the game in NewGame+ mode",
@@ -254,6 +286,14 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "85.0"
+    },
+    "ACH_41": {
+      "name": "The Fearless Samaritan",
+      "description": "Complete all Side Quests in Restored Land Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/48c8b7d0faa4434a9bbf0d09297854fd93f7203b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/3e43c4511de6549069e641c27d354ceb2426963a.jpg",
+      "hidden": false,
+      "group": "Update 3"
     },
     "ACH_32": {
       "name": "The Legend Dawns",
@@ -282,6 +322,14 @@
       "group": "Base Game",
       "percent": "41.2"
     },
+    "ACH_37": {
+      "name": "True Survivor",
+      "description": "Complete the story in Restored Land Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5230a1de787b87f62ccf5e5952721da46f265003.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b1556dd858dd1a9c033ba64669da7485b45fc984.jpg",
+      "hidden": false,
+      "group": "Update 3"
+    },
     "ACH_10": {
       "name": "Ultimate Beast",
       "description": "Fully unlock your inner beast",
@@ -299,6 +347,14 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "31.6"
+    },
+    "ACH_38": {
+      "name": "Unbeatable",
+      "description": "Complete the story in Restored Land Mode with the One Life option turned on",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/d5437de28a586941452815dab9b5daafc56f6022.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/58d59018ff17b0ba49482f145c624c0008e841ac.jpg",
+      "hidden": false,
+      "group": "Update 3"
     },
     "ACH_11": {
       "name": "We're Safe Here!",
