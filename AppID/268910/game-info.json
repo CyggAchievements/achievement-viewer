@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268910/faf592f0465062eaac34095528b45b3fe6b94ece.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.4"
     },
     "DefeatBossAsChalice": {
       "name": "Alive and Kicking",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268910/23b5cf6c7c9d7244682d6ecf7bde96ab0f1ddab7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "DefeatXBossesAsChalice": {
       "name": "Decadent",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268910/7cdbb42f04dea31aa3c0cb9b0846bba1b460d0e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.2"
     },
     "NoHitsTaken": {
       "name": "Perfect Run",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268910/2fd611e3ee7b0de3c69ade8abcc03cac702fa455.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "SuperWin": {
       "name": "Porcelain Power",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/268910/5643978eea7410aee6162bfab27171054a7af402.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "CompleteDevil": {
       "name": "Swing You Sinner",
