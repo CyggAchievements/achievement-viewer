@@ -73,7 +73,15 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/a91694c41516f2fd9e75b78d43347a25a86e1a26.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Utah",
-      "percent": "6.8"
+      "percent": "6.9"
+    },
+    "il_cutscenes": {
+      "name": "Between Two Rivers (Upcoming)",
+      "description": " ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Update 5"
     },
     "wy_train": {
       "name": "Big Boy",
@@ -209,6 +217,14 @@
       "hidden": false,
       "group": "American Truck Simulator - Arizona",
       "percent": "11.3"
+    },
+    "il_cornfield": {
+      "name": "Cornfusion (Upcoming)",
+      "description": " ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Update 5"
     },
     "ne_visit_cities": {
       "name": "Cornhusker State",
@@ -407,6 +423,14 @@
       "hidden": false,
       "group": "American Truck Simulator - Idaho",
       "percent": "1.1"
+    },
+    "il_machinery": {
+      "name": "Heavy Duty (Upcoming)",
+      "description": " ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Update 5"
     },
     "hc_perf_job": {
       "name": "Heavy, but Not Bull in a China Shop!",
@@ -992,6 +1016,14 @@
       "hidden": false,
       "group": "American Truck Simulator - Arkansas",
       "percent": "1.9"
+    },
+    "il_visit_cities": {
+      "name": "The Prairie State (Upcoming)",
+      "description": " ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Update 5"
     },
     "ok_visit_cities": {
       "name": "The Sooner State",

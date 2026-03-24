@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/a7244e6b551aac8e812bd385b5438c97d1a4ac02.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "TRINARY_ACHIEVEMENT": {
       "name": "Career Development",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/547fe74a02f597029a441277659a74825b48e56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "PROBLEM_SOLVER_ACHIEVEMENT": {
       "name": "Crisis Management",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/ad48f7bfedd991a6e78b69854ce860ecc43b5673.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "BUREAU_HERO_ACHIEVEMENT": {
       "name": "Discerning the Pattern",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/803626fa24b62136328ad9c6f8cdff2a0d6a9a2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "AIR_SUPERIORITY_ACHIEVEMENT": {
       "name": "Elevated Mind",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/0bcb4ed6a5c2caaecb3dbdcdc8f25b8ef35a73e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "UNLIMITED_ACHIEVEMENT": {
       "name": "Master Parautilitarian",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8ff309dacbf7672372c5e0b35fc01e9518845b3d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "URBAN_SPELUNKER_ACHIEVEMENT": {
       "name": "Niche Position",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/97ebc99ce8baaa99dc660c0b77db21a723f0290b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "PARANATURAL_POWERHOUSE_ACHIEVEMENT": {
       "name": "Paranatural Powerhouse",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/2e258555a842eecb2ae9116fa1958d139bdfb387.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "EMPOWERED_ACHIEVEMENT": {
       "name": "Parautilitarian",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/71ef865dcfdef564c26cba399f0251bf6dca9175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "LARGE_HEDRON_COLLIDER_ACHIEVEMENT": {
       "name": "Polaris",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/61a68833c00a2cc440418f6dd69dffa7edd7a856.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "RETURN_TO_SENDER_ACHIEVEMENT": {
       "name": "Proper Handling Procedures",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/9d8ce5eeeae11006fdcb887e51aba32216f1286e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "PSYCHIC_OCCUPATION_ACHIEVEMENT": {
       "name": "Psychic Occupation",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/925dee7d8c6a7132b54764c526a90c444192a7e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "BUREAU_BUDDY_ACHIEVEMENT": {
       "name": "Ritual Intuition",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/952c9248def5a54929c4f16f9c1b9f4b983d6ea7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "BUREAU_ACQUAINTANCE_ACHIEVEMENT": {
       "name": "Ritualistic Thinking",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/6aa97896f3185531d683335d52280dc7cd398df9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "HARTFELT_ACHIEVEMENT": {
       "name": "The Third Thing",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/76403edc040d43515fe30a4b9ed778e7341d54ec.jpg",
       "hidden": true,
       "group": "Control - AWE",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "ROCK_OUT_ACHIEVEMENT": {
       "name": "Threshold",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/c7f3fcd969edb28fa69749d1ba3a7f344785372e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "HOTLINE_RING_ACHIEVEMENT": {
       "name": "Unknown Caller ",
