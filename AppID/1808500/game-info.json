@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/83dc4659d1113bbc7c0625b5246acbd45e5fac99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "61.9"
     },
     "PvE09": {
       "name": "Blindsided",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/eb139ca79862c494d711592491c576a875bfecfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "PvP04": {
       "name": "Crossed the Threshold",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cb8a5e13a10a81af1af5b402625fc313e2012924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.6"
+      "percent": "80.5"
     },
     "PvE04": {
       "name": "Death From Above",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/d6509594c3dcbed498e9015141868a116523d0a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "Meta07": {
       "name": "Dedicated to the Craft",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/74e8e613827845ffa7b561f665bb3ccca891f00c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "Expl03": {
       "name": "Escape Artist",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/6f8246f2b8dcf2f3ee229b28620a0da93d00ce03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "Misc12": {
       "name": "For Science!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/4073b1ca71246f26dd0aa22f3fcb0a5370219875.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "PvP08": {
       "name": "Heart of Gold",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/7ef2f4ed0035fdf4d1fd09598d1424249571fa31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "PvP03": {
       "name": "Horseshoes and Hand Grenades",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/789d5d55afae1b3b1e8ccce467bc2f27a2842a5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "Meta09": {
       "name": "In Your Element",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cc901fe2f79edfc0d748b9f0edec0fc477f58a49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "Expl05": {
       "name": "Into Thin Air",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9cde6f9a32217f1e29b8d7110cb953944566f0d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.8"
+      "percent": "87.7"
     },
     "Misc08": {
       "name": "Most Durable Pants in Speranza",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/f6bd65b6cc7e3a288f7b6e8331ff908d0dbf0a72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "PvE02": {
       "name": "Racking Them Up",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/c26c5c725247f7b2368b29ade3f40670aafd21f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.7"
+      "percent": "67.6"
     },
     "Expl04": {
       "name": "Rite of Passage",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9d3969653395ad75fe3d2f64bc9b51a45c15f534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.1"
+      "percent": "81.0"
     },
     "Misc09": {
       "name": "See You Never",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/77a98e2083b80a53e3011589394d88f7a7516c2c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "63.8"
     },
     "Meta08": {
       "name": "Self-Sufficient",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/934a440872ede1d8b2569654ef58a95075b83e00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "Meta01": {
       "name": "The Big Haul",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/034a36f7221ad812ae62392e92d42433fa2c207e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.5"
     },
     "PvP06": {
       "name": "The Friends We Made Along The Way",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/e087eab78c0b4647e988bbebde7dacebaaeebd44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.1"
+      "percent": "83.0"
     },
     "Meta02": {
       "name": "The Long Haul",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9d123d808e6f1f8ecfcf73cb219694adc6e52132.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "PvE05": {
       "name": "Three Birds, One Stone",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/fd148366413a05871656c822bd51d0dbc68478d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.6"
     },
     "PvP05": {
       "name": "Up Close and Personal",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9d10eab1f7dfa5d1fcf81100d4eae25c2b919eed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.5"
     },
     "Expl02": {
       "name": "Well-Traveled",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cd8e8e0e950b5824cb088fe81fc1bf00980f65d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     }
   },
   "platform": "Steam",
