@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/09cee821f6b5843b332a81edee3b86c62a26b51c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.1"
+      "percent": "63.0"
     },
     "AchAccessAdminChamber": {
       "name": "Back to Work",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7cf63dd41ed27dce8a5e856be96d25fa1a0637ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "AchMyrmidonReunion": {
       "name": "Divided by Death",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/dd8b6056196f8b7e209ef9323c81bbf48aba094b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.9"
+      "percent": "72.8"
     },
     "AchClearElysium": {
       "name": "Escaped Elysium",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/8c6f2d9c0f260b491306c43c59e651a63d9ded4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "AchClearTartarus": {
       "name": "Escaped Tartarus",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/d906f027d0660ddf293dde23d61e50986e8af1a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "AchSilverSkellyTrophy": {
       "name": "Skelly's Last Lamentations",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/46959aac8270d614760f82e4d8565d50a4bfd6ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.7"
     },
     "AchBeatCharon": {
       "name": "To Charon's Credit",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/13a8384c7167c517b8a9bea743af722dbd1b1cbb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "AchOlympiansCodex": {
       "name": "Well Versed",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1145360/7e2acf613c25e1d19d61f92d3030846a706c583f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     }
   },
   "platform": "Steam",
