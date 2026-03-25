@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/179a2643c592fa401b7f987d5836828e33c7a0aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.0"
     },
     "BuildLevel3Chef": {
       "name": "Build Level 3 Chef",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/ca4762267cd77502a99a0604c7b40e1e848e1d44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "BuildLevel3Smith": {
       "name": "Build Level 3 Smith",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/310eee72d8825660f006d1a823f2092b510d9dc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "CollectAllTarotCards": {
       "name": "Collect All Tarot Cards",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/f17d2a50f3702657a5336ccd0921a08df39dd94b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "CompleteAllRedForestHunts": {
       "name": "Complete Golden Forest Hunts",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/75b103c6885c967d4d2c8b48744b594e549fe734.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "Defeat25Porcupines": {
       "name": "Defeat 25 BackStabbers",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9ca3cd2e7dde638ddceb7411534d6975f21e0c0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "CookA3CourseMeal": {
       "name": "Full Belly",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2473480/9a56f797d6ea8bb9bf74276027eca4a168730e4c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     }
   },
   "platform": "Steam",

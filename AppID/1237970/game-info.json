@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/ee680dd2dd4de40f02367ca2612f353f2cef3373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "Achievement_GOSCC_20": {
       "name": "Defanged",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/f0705399ae6826de54a3453eddbbbff40dc62d67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "Achievement_GOSCC_24": {
       "name": "No Salvage",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/b427d99d5b03ec8318cc0637c4488ec852880f0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "Achievement_GOSCC_45": {
       "name": "Off the Beaten Path",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/9bef4458e95b2da84deca8218fed7cd52368514e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "Achievement_GOSCC_40": {
       "name": "Robot Army",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/03fae0d91c907b182c1c4d58e721c5779e294906.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "Achievement_GOSCC_13": {
       "name": "Secret Plans",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/28fab37984d467b50bb49a0c7d5875346f196025.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "Achievement_GOSCC_7": {
       "name": "Some Shortcut!",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/1a4306960f6bcbd81aba8a44953c72b1673b4498.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "Achievement_GOSCC_1": {
       "name": "The Student...",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1237970/b553b53725db816c9dcdf67bfb6ccc8e11025619.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     }
   },
   "platform": "PlayStation",
