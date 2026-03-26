@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/f84ed018f4081632f0bc8526846edee4c2d827a8.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "ne_agriculture": {
       "name": "Agriculture Expert",
@@ -81,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "wy_train": {
       "name": "Big Boy",
@@ -162,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/7bbcb996d1a5f7c4f11ec1b0ad5a63a55c4d3cc7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "ok_cutscenes": {
       "name": "Can Do!",
@@ -189,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/e5c81ad229822428c7d65723fb91ad987fcc52f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "ca_country": {
       "name": "Cheers!",
@@ -224,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "ne_visit_cities": {
       "name": "Cornhusker State",
@@ -368,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6499695b11f9f49468dfc5a22e2def8277e02f92.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "st_all_routes": {
       "name": "Go Big or Go Home",
@@ -430,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "hc_perf_job": {
       "name": "Heavy, but Not Bull in a China Shop!",
@@ -448,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/5822dbf0b0f72f29a37335202dbfaeb81180496e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "st_house": {
       "name": "Home Sweet Home",
@@ -592,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/c1e76db933563783920b9f7360c439c0b1db0e18.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "no_autopark": {
       "name": "Not a Problem",
@@ -691,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/fe61e029b10b55ef5c7809818469ef739a5031a1.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Louisiana",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "ia_live_pigs": {
       "name": "Piggy Express",
@@ -727,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/34667ac3c8893dd672cc672a85b72b77e7306147.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Arizona",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "mt_electric": {
       "name": "Power On!",
@@ -745,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/c38160b411d013efe75c372df5c5dd98e32a5e72.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "ut_frac_tank": {
       "name": "Pump It Up",
@@ -763,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/352d763955870eae706d407c7b88e94acc90d302.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.5"
     },
     "aca_manual_transmission": {
       "name": "Rowing Through the Gears",
@@ -1023,7 +1026,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "ok_visit_cities": {
       "name": "The Sooner State",
