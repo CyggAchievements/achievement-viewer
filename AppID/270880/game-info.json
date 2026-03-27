@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/f84ed018f4081632f0bc8526846edee4c2d827a8.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "ne_agriculture": {
       "name": "Agriculture Expert",
@@ -81,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "wy_train": {
       "name": "Big Boy",
@@ -99,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/2eae17a9fb76d2a4ae529a26ac4a4e6ce50f3e51.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Texas",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "st_all_cargos": {
       "name": "Big in America!",
@@ -171,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/55723d05f71edd8a1073e9ebe914974dede0947f.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Oklahoma",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "ks_secret_roads": {
       "name": "Can you Keep a Secret?",
@@ -224,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "ne_visit_cities": {
       "name": "Cornhusker State",
@@ -430,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "hc_perf_job": {
       "name": "Heavy, but Not Bull in a China Shop!",
@@ -439,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/dcfa4f85e32a545f84bfee181547de7afd6851df.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Heavy Cargo Pack",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "perf_job": {
       "name": "High Five",
@@ -592,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/c1e76db933563783920b9f7360c439c0b1db0e18.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "no_autopark": {
       "name": "Not a Problem",
@@ -790,7 +793,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/9fa6f3b2004eba09f06d65c870ad46571520b76f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.2"
     },
     "wa_tunnels": {
       "name": "Seattle Mole",
@@ -1023,7 +1026,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "ok_visit_cities": {
       "name": "The Sooner State",
@@ -1104,7 +1108,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/3537d09b1680eb3c0f20a5993267ab0fdb90d7b0.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Oregon",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "ne_out_car_pln": {
       "name": "Vehicle Dealer",
@@ -1122,7 +1126,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/a93c524dc7ca47d085aaa91c4dbd834fbbf084f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "mo_dynamite": {
       "name": "What a Blast!",
@@ -1140,7 +1144,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/14fe89d7801e7bbeb3261e9c0b308748107d563b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.7"
+      "percent": "61.6"
     },
     "ks_cutscenes": {
       "name": "Wheat State Explorer",
