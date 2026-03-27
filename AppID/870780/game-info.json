@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/9458bccc1a102ae719f28304943a66983018f280.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "WERE_GOING_SHOPPING_ACHIEVEMENT": {
       "name": "Astral Construction",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/5833975f1c3a322af51da71734073c6556f53399.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.8"
     },
     "HERES_MUD_IN_YOUR_EYE_ACHIEVEMENT": {
       "name": "Astral Phenomena",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/f18ca4e64a604426ca7abeed676ec4a07dc8dceb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "PHANTOM_POOP_ACHIEVEMENT": {
       "name": "Astral Plumbing",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/048392285bd7034e7c67ec276f22ab89d98315a5.jpg",
       "hidden": true,
       "group": "Control - The Foundation",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "FIRST_CLASS_DIRECTOR_ACHIEVEMENT": {
       "name": "Astral Tactician",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/a7244e6b551aac8e812bd385b5438c97d1a4ac02.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "TRINARY_ACHIEVEMENT": {
       "name": "Career Development",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/889f60ce561b7905555e66d76ecd0260a7011c48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "URBAN_SPELUNKER_AGAIN_ACHIEVEMENT": {
       "name": "Chief Investigator",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/274fd6954f0d679f86d4c706ae86df9b5277a727.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.6"
+      "percent": "89.7"
     },
     "PUPPET_MASTER_ACHIEVEMENT": {
       "name": "Cognitive Intruder",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/547fe74a02f597029a441277659a74825b48e56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "PROBLEM_SOLVER_ACHIEVEMENT": {
       "name": "Crisis Management",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/ad48f7bfedd991a6e78b69854ce860ecc43b5673.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "BUREAU_HERO_ACHIEVEMENT": {
       "name": "Discerning the Pattern",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/803626fa24b62136328ad9c6f8cdff2a0d6a9a2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "AIR_SUPERIORITY_ACHIEVEMENT": {
       "name": "Elevated Mind",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8ca76a82cb88ed63893efdcf0469a089d8fff4aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "TAKING_THE_HISS_ACHIEVEMENT": {
       "name": "Familiar Methodologies",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/cb5e06092b77145c44814135545194fea20253eb.jpg",
       "hidden": true,
       "group": "Control - AWE",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "PILLAR_OF_THE_COMMUNITY_ACHIEVEMENT": {
       "name": "FBC Crisis Solution Task Force",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/ba0e3ae63b2e0d8f7e28a204220481eed24349fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "FIRST_RESPONDER_ACHIEVEMENT": {
       "name": "First On the Scene",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/1d7d617f115e69dd46ecdd987f28462894c4e8a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "SILENCE_IS_GOLDEN_ACHIEVEMENT": {
       "name": "Head of Communications",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/d3c2b8a98a30a53188707349470d8884d20c7b34.jpg",
       "hidden": false,
       "group": "Control - The Foundation",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "DLC2_LORE_ACHIEVEMENT": {
       "name": "In-depth Investigations",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/83a1ff043dd337890a0741cc46ea29fab1bd52ba.jpg",
       "hidden": false,
       "group": "Control - AWE",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "INSULAR_TELEKINESIS_ACHIEVEMENT": {
       "name": "Insular Telekinesis",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/66d4044c543f12727c5c85e88e51dff14b963c2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "STAFF_SUPPORT_ACHIEVEMENT": {
       "name": "Inter-Departmental Cooperation",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/1d21ac52cbcb498014034f65829ff62e277ff62a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "TIME_TO_DIE_ACHIEVEMENT": {
       "name": "Living Archetypes",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/0bcb4ed6a5c2caaecb3dbdcdc8f25b8ef35a73e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "UNLIMITED_ACHIEVEMENT": {
       "name": "Master Parautilitarian",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/acad215dce793b4aeb941dd90fc6ee2db2d85406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "MULTI_LAUNCH_ACHIEVEMENT": {
       "name": "Multiple Applications",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/bb3ea8510acc9d4a1ce2e6b35615c8b8c76d2fc4.jpg",
       "hidden": false,
       "group": "Control - AWE",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "BROTHERS_KEEPER_ACHIEVEMENT": {
       "name": "My Brother's Keeper",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8ff309dacbf7672372c5e0b35fc01e9518845b3d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.4"
     },
     "URBAN_SPELUNKER_ACHIEVEMENT": {
       "name": "Niche Position",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/0ceba759244384cda56ca519ac4b7c8486d0e200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.7"
     },
     "MARSHALL_MARSHALL_MARSHALL_ACHIEVEMENT": {
       "name": "Old Boys' Club",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/cdc11c720398507efafdc1b30f476a24e1d817ea.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "FEELING_LUCKY_ACHIEVEMENT": {
       "name": "One of Us",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/97ebc99ce8baaa99dc660c0b77db21a723f0290b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "PARANATURAL_POWERHOUSE_ACHIEVEMENT": {
       "name": "Paranatural Powerhouse",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/2e258555a842eecb2ae9116fa1958d139bdfb387.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "EMPOWERED_ACHIEVEMENT": {
       "name": "Parautilitarian",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/71ef865dcfdef564c26cba399f0251bf6dca9175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "LARGE_HEDRON_COLLIDER_ACHIEVEMENT": {
       "name": "Polaris",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/61a68833c00a2cc440418f6dd69dffa7edd7a856.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "RETURN_TO_SENDER_ACHIEVEMENT": {
       "name": "Proper Handling Procedures",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/9d8ce5eeeae11006fdcb887e51aba32216f1286e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "PSYCHIC_OCCUPATION_ACHIEVEMENT": {
       "name": "Psychic Occupation",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/efaea92c873b6489aba7abb63288cc9b91dce738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "BEGINS_WITH_ACHIEVEMENT": {
       "name": "Record Keeper",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/2e49d0a9b9f88f642ed8f6435708800e41c169d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "RISING_THOUGHT_ACHIEVEMENT": {
       "name": "Rising Thought",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/925dee7d8c6a7132b54764c526a90c444192a7e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "BUREAU_BUDDY_ACHIEVEMENT": {
       "name": "Ritual Intuition",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/952c9248def5a54929c4f16f9c1b9f4b983d6ea7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "BUREAU_ACQUAINTANCE_ACHIEVEMENT": {
       "name": "Ritualistic Thinking",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/5d63b0eb3ca1b98395a3a88cc4f95ab5a7a382bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.8"
     },
     "BATTERING_RAM_ACHIEVEMENT": {
       "name": "Rush Job",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/db406482323054c8d1347c1c0c09e6af662d7f8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "TICKET_TO_RIDE_ACHIEVEMENT": {
       "name": "Star Performance",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/89ddd1c36cd6d2fd3e4bd2575a93dce587d26f40.jpg",
       "hidden": true,
       "group": "Control - The Foundation",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "THE_JOURNEY_OF_1000_MILES_ACHIEVEMENT": {
       "name": "Strange Collection",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/5264ce489f3f0380de9a32419fc6cb5acd510aaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.6"
+      "percent": "64.7"
     },
     "DIGGING_FOR_CLUES_ACHIEVEMENT": {
       "name": "Subterranean Research",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/a94bd9afa66fb4f8a42beea4b8503d69ddf6a78c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.7"
     },
     "HELPING_HAND_ACHIEVEMENT": {
       "name": "The Importance of Synergy",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/6aa97896f3185531d683335d52280dc7cd398df9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "HARTFELT_ACHIEVEMENT": {
       "name": "The Third Thing",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/76403edc040d43515fe30a4b9ed778e7341d54ec.jpg",
       "hidden": true,
       "group": "Control - AWE",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "ROCK_OUT_ACHIEVEMENT": {
       "name": "Threshold",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/c7f3fcd969edb28fa69749d1ba3a7f344785372e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "HOTLINE_RING_ACHIEVEMENT": {
       "name": "Unknown Caller ",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/c0dd89a9663364fd32f0712b369355242f95cee2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.3"
+      "percent": "64.4"
     },
     "INTERCEPT_TRAJECTORY_ACHIEVEMENT": {
       "name": "Unstable Matter",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/f24054d26f03ad6bc9b728665f81aed704f71693.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "VIVA_PINATA_ACHIEVEMENT": {
       "name": "Vending Spree",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/9cc71a42a899042f875658a777ca61c00e85d6d0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.6"
+      "percent": "79.7"
     },
     "SPECIAL_DELIVERY_ACHIEVEMENT": {
       "name": "Work Smarter, Not Harder",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8bcab97505e673077f5a67357f9d4b20e8d1350d.jpg",
       "hidden": false,
       "group": "Control - AWE",
-      "percent": "13.5"
+      "percent": "13.6"
     }
   },
   "platform": "PlayStation",

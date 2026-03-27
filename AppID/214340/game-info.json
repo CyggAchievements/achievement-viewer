@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/1b812141f59116c136fea49afcdcb787744a2047.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.4"
     },
     "dep_achiev_3": {
       "name": "Bullseye",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/7c93d5a96153cc6574458d7debf6ca167970e4e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.6"
     },
     "dep_achiev_4": {
       "name": "Demolition Expert",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/3e3c3755566c5839bb929f76c71e198bd157afd7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "dep_achiev_19": {
       "name": "Droggeljug",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/9bf948be8bd140b8b58475b7bbca54d3f3632457.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "dep_achiev_12": {
       "name": "Hussa - Get On With The Plot!",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/6a3ff20594642f03cff6ea7bac7461765113d20b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.6"
     },
     "dep_achiev_18": {
       "name": "Hussa - The Chorus-Guys Rule!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/6e29236773e6dea111e65c10339f39ec41271c6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "dep_achiev_8": {
       "name": "Hussa - Who's gonna care?",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/7ea10480436a87d8fcb2be71736834927f49bc0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.6"
     },
     "dep_achiev_1": {
       "name": "Kindergarten",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/f5d60dad56a7cd27f3bad1d1df123114cbaaa4c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.5"
+      "percent": "76.8"
     },
     "dep_achiev_13": {
       "name": "Lever lover",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/aa814eac437e1d4a786e7cf7aaa025d4d9290667.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "dep_achiev_17": {
       "name": "Loving The Truth",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/8dc9715340f09282ee55ea826945c95adbc54760.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "dep_achiev_11": {
       "name": "Master Of Switches",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/a7cb16a1b2771f1d38b2a915bc900bd3874654cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.7"
     },
     "dep_achiev_6": {
       "name": "Missing Postage",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/bc623f17aa4c7f2b0084f47eb6b7403d94fa467f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "dep_achiev_10": {
       "name": "Newton would be proud",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/21aecb906cafada3dcb1e22c652a401fa15d050e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.7"
     },
     "dep_achiev_7": {
       "name": "That seems about right...",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/214340/e37f23234eecd7654d744bd7dcee1964dc51984e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     }
   },
   "platform": "PlayStation",
