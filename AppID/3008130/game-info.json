@@ -1,7 +1,7 @@
 {
   "appid": "3008130",
   "name": "Dying Light: The Beast Restored Land",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/424464861216a7550e20c1c1b0e4241b7d04d1ca/header_alt_assets_4.jpg?t=1774551142",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/424464861216a7550e20c1c1b0e4241b7d04d1ca/header_alt_assets_4.jpg?t=1774625693",
   "achievements": {
     "ACH_26": {
       "name": "And Don't Forget to Wash Your Hands",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/0a2dbaa2f5de3ef66115997856224e487cca8b61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.3"
     },
     "ACH_33": {
       "name": "Beast's Dowry",
@@ -45,7 +45,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b06583600e15bd4ef87d7ffa64dfcf02516bb7c0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/4db1427c4b23fdb91df54f648fda195adbe2c62d.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_19": {
       "name": "Blacksmith",
@@ -81,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/1ce39ccee9dbed9cf2f34533f2b85b54a8a01832.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "ACH_28": {
       "name": "Crane on a Monument",
@@ -99,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/35f66f4e8e8907035553c5772a1192bf5f4054b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "ACH_13": {
       "name": "Experiment on the Loose",
@@ -179,7 +180,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/98fa212bfca49dafb14c2dff40fe6f96f4d8c2b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/fdddbe2fbef3793cf22575b7a4ffb1592f1ee72a.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_34": {
       "name": "I am The Alpha now",
@@ -206,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/27b5deb0c6c4ff718568547d23183054e892b1ca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "64.8"
     },
     "ACH_25": {
       "name": "Know What 'Castor' Means?",
@@ -233,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5fc1531f32e15a777c847fe12f6c170f511eedec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.2"
     },
     "ACH_4": {
       "name": "Less Obedient",
@@ -242,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5b0f7db3400353d869cbc7044d536a503b09ed15.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.6"
     },
     "ACH_2": {
       "name": "New Friends",
@@ -259,7 +261,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/60a24b7e8bfb71bf6816c1935277c294ffae8e1c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/48c6df4a348e4c1aebbce117adaf9dfec624470f.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_36": {
       "name": "Pushing Through",
@@ -267,7 +270,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/c2a8a9d09d5fbfbce71cad9a7b45038c758192ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/e979de96d510c24a562e2b23683e8cb6ce270777.jpg",
       "hidden": true,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_31": {
       "name": "Second Ascent",
@@ -293,7 +297,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/48c8b7d0faa4434a9bbf0d09297854fd93f7203b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/3e43c4511de6549069e641c27d354ceb2426963a.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_32": {
       "name": "The Legend Dawns",
@@ -302,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/40c9ce209e8e636e8f6f061166423717ce3b6c8f.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "ACH_35": {
       "name": "The Nightmare is over",
@@ -328,7 +333,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/5230a1de787b87f62ccf5e5952721da46f265003.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b1556dd858dd1a9c033ba64669da7485b45fc984.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_10": {
       "name": "Ultimate Beast",
@@ -354,7 +360,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/d5437de28a586941452815dab9b5daafc56f6022.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/58d59018ff17b0ba49482f145c624c0008e841ac.jpg",
       "hidden": false,
-      "group": "Update 3"
+      "group": "Update 3",
+      "percent": "0.0"
     },
     "ACH_11": {
       "name": "We're Safe Here!",
@@ -363,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/2a1d3ef4ca580f057b7ce5c357f1d7e9ab8f2e61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.1"
     },
     "ACH_29": {
       "name": "What Happened at the Asylum",
