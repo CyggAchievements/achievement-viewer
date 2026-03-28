@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/ab929c49c17c7828901588a83ad6ce43ea6204a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.6"
     },
     "ACH_BEAT_LEVEL1_BOSS": {
       "name": "Early Survivor",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/6d4486e34a758efaef4f1abfce117c66ac2c5e62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.8"
+      "percent": "52.7"
     },
     "ACH_ASCENSION_TIER3": {
       "name": "Hell Hath No Fury",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/4d8169be491b5ae1d2e92e8eb278a9c9bd54110c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.5"
+      "percent": "81.4"
     },
     "ACH_DAILY_CHALLENGE": {
       "name": "Is That a Challenge?",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/da228ecf551a08a610c6bdcae3361e743e6b32b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "ACH_DEFEAT_BIGBOSS3_EARLY": {
       "name": "Sans Seraph",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/04b20495b61594ff898544daf9fb1fb7c814e00c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.0"
     },
     "ACH_ASCENSION_TIER2": {
       "name": "The Devil is in the Details",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/efecb16ccf075cb753150db07e7f8acc4f73ac2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "ACH_CLASS1_COVENANTS": {
       "name": "The Hellhorned",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1102190/1aab294de7a09f53b715b65c2ec00890e50eadac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.9"
+      "percent": "86.8"
     }
   },
   "platform": "Steam",
