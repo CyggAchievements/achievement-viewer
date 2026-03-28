@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/f84ed018f4081632f0bc8526846edee4c2d827a8.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "ne_agriculture": {
       "name": "Agriculture Expert",
@@ -81,7 +81,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "wy_train": {
       "name": "Big Boy",
@@ -224,7 +225,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "ne_visit_cities": {
       "name": "Cornhusker State",
@@ -430,7 +432,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "hc_perf_job": {
       "name": "Heavy, but Not Bull in a China Shop!",
@@ -592,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/c1e76db933563783920b9f7360c439c0b1db0e18.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "no_autopark": {
       "name": "Not a Problem",
@@ -1023,7 +1026,8 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Update 5"
+      "group": "Update 5",
+      "percent": "0.0"
     },
     "ok_visit_cities": {
       "name": "The Sooner State",
