@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/85030f0473eab1cba910aa2eed9f8029f42d4f4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "FREEBIE_LOVER": {
       "name": "Freebie Lover",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/01f8a612cd014ad0b0c2fb734cafb948a861a3b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "NICE_TO_MEET_YOU": {
       "name": "Nice to meet you!",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/9c10650868ae95a0eb24fdfa0e931a32534c4fda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "YOU_SHALL_NOT_PASS": {
       "name": "You shall not pass!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f4105eed5440dff450b007613985b063d411668f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.3"
     }
   },
   "platform": "Steam",
