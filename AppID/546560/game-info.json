@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d25eb3d58dc2795dc0d174a2afe4e642beceeb5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "SIDE_SQUEEZE_HC_HEART": {
       "name": "Freshly Squeezed",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/c065fab009812c0f7446ab9455f80dd41becdc77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.6"
     },
     "TRACK_A3_HOTEL_LOBBY_BASEMENT": {
       "name": "Heart-Breaker Hotel",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/f2973a4d9d3f22c1cc16c13816efa76d05c4cf51.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "TRACK_A4_C17_WATER_TOWER": {
       "name": "High Water March",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/aaee312cd61b46fc970932764893dda21aa1fd9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.3"
     },
     "TRACK_A2_DRAINAGE": {
       "name": "Xen Garden",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/e0fa1228facadf5572826fddae6f736a67ae286e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.5"
     }
   },
   "platform": "Steam",
