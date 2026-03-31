@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/959c87862d225a411b43c8728817d91b22ea36e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.4"
     },
     "win-wardens": {
       "name": "Aggressor",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/c4ec77d13f882b4f0a5f5ceff53553cfd611b47d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "burn-contacts": {
       "name": "Bridge Burner",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/a2e72a3b8d7dfa7269c506ee5006512e9fb1ceae.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.5"
+      "percent": "4.4"
     },
     "bash-enemies": {
       "name": "Hit & Run",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/a462e5d20d0380d05c32e8c9cdeb9a2f6f0b99d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.2"
     },
     "jack-arm-rip": {
       "name": "Jackn't",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/5cbaed42028b40c0b6387bff3e57edd3e034ffef.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "kill-armored-bots": {
       "name": "Knight Killa",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/cf1f5f47e1d1a907b5ad429daea4e1bd821e1785.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "environment-kills": {
       "name": "Petting Zoo",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/848d5ee5df345e730c89dc17a16a1848ad34f871.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "win-fights-without-damage": {
       "name": "Teflon",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/b0e776134d83fa2e69020521ff3b2f5075bac9cb.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "help-bot-fly": {
       "name": "To the moon",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "35.2"
+      "percent": "35.0"
     }
   },
   "platform": "Steam",
