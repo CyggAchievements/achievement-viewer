@@ -1,7 +1,7 @@
 {
   "appid": "752590",
-  "name": "Game 752590",
-  "icon": "",
+  "name": "A Plague Tale: Innocence",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/header.jpg?t=1727793332",
   "achievements": {
     "ACH_25": {
       "name": "Alchemist",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/85b383927cb92ca4a7e2419549ef658789464a56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.7"
     },
     "ACH_23": {
       "name": "Not a toy anymore",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/4f75562b4435bca153b3e749323234c4b5057556.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.2"
+      "percent": "67.3"
     },
     "ACH_35": {
       "name": "The Blacksmith",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/752590/a46ee43408a1d62226a77ce97955bd76a927fa00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     }
   },
   "platform": "PlayStation",
