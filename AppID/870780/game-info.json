@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/00574a9f4585801655a4788ca22c5f14ee3adfdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "FRAMED_ACHIEVEMENT": {
       "name": "Altered Manifestations May Occur",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/f18ca4e64a604426ca7abeed676ec4a07dc8dceb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.3"
     },
     "PHANTOM_POOP_ACHIEVEMENT": {
       "name": "Astral Plumbing",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/ad48f7bfedd991a6e78b69854ce860ecc43b5673.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "BUREAU_HERO_ACHIEVEMENT": {
       "name": "Discerning the Pattern",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8ca76a82cb88ed63893efdcf0469a089d8fff4aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "TAKING_THE_HISS_ACHIEVEMENT": {
       "name": "Familiar Methodologies",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/d3c2b8a98a30a53188707349470d8884d20c7b34.jpg",
       "hidden": false,
       "group": "Control - The Foundation",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "DLC2_LORE_ACHIEVEMENT": {
       "name": "In-depth Investigations",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/83a1ff043dd337890a0741cc46ea29fab1bd52ba.jpg",
       "hidden": false,
       "group": "Control - AWE",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "INSULAR_TELEKINESIS_ACHIEVEMENT": {
       "name": "Insular Telekinesis",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/0ceba759244384cda56ca519ac4b7c8486d0e200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "MARSHALL_MARSHALL_MARSHALL_ACHIEVEMENT": {
       "name": "Old Boys' Club",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/efaea92c873b6489aba7abb63288cc9b91dce738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "BEGINS_WITH_ACHIEVEMENT": {
       "name": "Record Keeper",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/b4f7d1e234e99aee794adaf3b1a88d421ef3e7ff.jpg",
       "hidden": true,
       "group": "Control - AWE",
-      "percent": "10.8"
+      "percent": "10.7"
     },
     "EXPLOSIONS_WITH_FRIENDS_ACHIEVEMENT": {
       "name": "Surge Protector",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/a01a45b90fd2498e26b358a0d97d31b8caae34e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "ORDINARY_WORLD_ACHIEVEMENT": {
       "name": "The Face of the Enemy",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/a94bd9afa66fb4f8a42beea4b8503d69ddf6a78c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "HELPING_HAND_ACHIEVEMENT": {
       "name": "The Importance of Synergy",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/870780/8bcab97505e673077f5a67357f9d4b20e8d1350d.jpg",
       "hidden": false,
       "group": "Control - AWE",
-      "percent": "13.6"
+      "percent": "13.5"
     }
   },
   "platform": "PlayStation",
