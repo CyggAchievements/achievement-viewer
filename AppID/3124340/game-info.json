@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/d67208cffb8489801df1375815def78b27b0896c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.7"
     },
     "Dragonslayer": {
       "name": "Dragonslayer",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/795e8af62653cd28c6282ae642a08746106edb0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "Experienced": {
       "name": "Experienced",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/cabc46a64c157ee080f9e62f468af1023fcc11aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "KnowThyEnemy": {
       "name": "Know thy enemy",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/ddd52c5781f65ebdd7bfad840edccc1cb827e53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "PerformanceOfALifetime": {
       "name": "Performance of a Lifetime!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/06736aa3a358998d024f554ece1fd0a6600eb698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "Vengeance": {
       "name": "Vengeance",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/628a0f1cfcfc1d744c5ebdb6483e8727816bbf51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     }
   },
   "platform": "Steam",
