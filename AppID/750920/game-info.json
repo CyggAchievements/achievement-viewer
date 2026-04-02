@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/19a458b535ce395e459d1b9be004762ca111125f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "ChelAttack": {
       "name": "Chak Attack",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/78b5f0dd1467200ddc2c89a5ce4457d88c43568c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.5"
     },
     "camouflage": {
       "name": "First Blood",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c6eb81df7c480fd22735ff51a537eb66421ba922.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.2"
     },
     "FirstSteps": {
       "name": "First Steps",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/16c8554c92bc76e57ba171ce2ad376813245474b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "HeartsAndMinds": {
       "name": "Hearts and Minds",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/f078f4423c2bf0fe066cdb7f86ed82f2c21cc095.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "LookThere": {
       "name": "Look, Over There!",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/c2d7d01478b50a65ca7f89634e8e4c0421692b7c.jpg",
       "hidden": true,
       "group": "Shadow of the Tomb Raider - The Path Home",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "MoonlitKnight": {
       "name": "Moonlit Knight",
@@ -685,7 +685,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/4530c1dc49596e39847e342d7dc3d6f845ca0f21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "StingLikeABee": {
       "name": "Sting Like A Bee",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/9e7574b87e5db4ad65e94ab39a7b6dcea44ca0ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "SurvivalInstincts": {
       "name": "Survival Instincts",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/750920/760cdf540c57ce0d473c64d2c4d1ab5025e4141a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "UnwantedTenants": {
       "name": "Unwelcome Guests",
