@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/12204fae69b272d05a808b49f69d08306024a2bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "EUREKA": {
       "name": "Eureka!",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/85030f0473eab1cba910aa2eed9f8029f42d4f4e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "FREEBIE_LOVER": {
       "name": "Freebie Lover",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/9c7fe7bc7472a12524659df0b669fe76a97ac62b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "PYRRIC_VICTORY": {
       "name": "Pyrrhic Victory",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/557d2a398c8c580905dc4b42ebe7e608bebf5314.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "READY_FOR_BATTLE": {
       "name": "Ready for battle",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/8db49ae22f8db51461f8d103b0b4307434a90656.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "SENIOR_ENGINEER": {
       "name": "Senior Engineer",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/c798149681da4cab89ec4ba7deedeab3d9afd879.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "WHO_NEEDS_THESE_TURRETS": {
       "name": "Who needs these turrets?",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/9c10650868ae95a0eb24fdfa0e931a32534c4fda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.6"
     },
     "YOU_SHALL_NOT_PASS": {
       "name": "You shall not pass!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1213220/f4105eed5440dff450b007613985b063d411668f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.2"
     }
   },
   "platform": "Steam",
