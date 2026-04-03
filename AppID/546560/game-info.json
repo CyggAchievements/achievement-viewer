@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/d25eb3d58dc2795dc0d174a2afe4e642beceeb5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "SIDE_SQUEEZE_HC_HEART": {
       "name": "Freshly Squeezed",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/aaee312cd61b46fc970932764893dda21aa1fd9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.4"
     },
     "TRACK_A2_DRAINAGE": {
       "name": "Xen Garden",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/546560/e0fa1228facadf5572826fddae6f736a67ae286e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     }
   },
   "platform": "Steam",
