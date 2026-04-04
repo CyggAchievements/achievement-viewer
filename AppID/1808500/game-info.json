@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/6bea08802eafb5213c28827f49ab77099b8c5890.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "PvP02": {
       "name": "A Vendetta Is Born",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/83dc4659d1113bbc7c0625b5246acbd45e5fac99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.8"
+      "percent": "61.7"
     },
     "PvE09": {
       "name": "Blindsided",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/7e8f6bf60c4432f56d73d53ecd89fa0b57c2a21a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "PvE06": {
       "name": "Bringing Down the Big Guns",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/81feb2ee6413c7a6b77174fa2f7a769a8e9af7b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "PvE11": {
       "name": "Comparative Study",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/ad339e3495bb6c1ccae8fbd15ac4cdd39be60b42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "Meta10": {
       "name": "Getting Serious",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/7ef2f4ed0035fdf4d1fd09598d1424249571fa31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.5"
     },
     "PvP03": {
       "name": "Horseshoes and Hand Grenades",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/2dd0d269b4b1c72ff0b8e0a194c903ec129e239b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "Meta06": {
       "name": "Legend of Speranza",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/f6bd65b6cc7e3a288f7b6e8331ff908d0dbf0a72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.2"
     },
     "PvE02": {
       "name": "Racking Them Up",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/67377fee726c1863b6c7ffde433a13b7b30aaa4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.9"
+      "percent": "84.8"
     },
     "PvE01": {
       "name": "Shots Fired",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/3db2ab1402373cf57bc8c3f7fedd40252ed9dcbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.5"
+      "percent": "88.4"
     },
     "PvE10": {
       "name": "Snitches get Stitches",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/e087eab78c0b4647e988bbebde7dacebaaeebd44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.0"
+      "percent": "82.9"
     },
     "Meta02": {
       "name": "The Long Haul",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9d10eab1f7dfa5d1fcf81100d4eae25c2b919eed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.6"
     },
     "Expl02": {
       "name": "Well-Traveled",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cd8e8e0e950b5824cb088fe81fc1bf00980f65d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     }
   },
   "platform": "Steam",

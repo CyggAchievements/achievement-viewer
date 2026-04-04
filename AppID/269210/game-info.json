@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/da036e767d7e553436a7b775312372dd267459da.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "sheepLevel": {
       "name": "Candy Land",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/2400bffff10f6d99a93980fdc4237e2a7e28802d.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "normalDamien": {
       "name": "Damien",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/2400bffff10f6d99a93980fdc4237e2a7e28802d.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "uberGabrielInferno": {
       "name": "Death of a Fallen Angel",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/95985e5704125a967201bc8c242f4c321fb0b892.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "normalReaper": {
       "name": "Grim Reaper",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/95985e5704125a967201bc8c242f4c321fb0b892.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "hellGurag": {
       "name": "Gurag",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/931b31e4591aee8e3a5e959391a5559495ad1d47.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "7.4"
+      "percent": "7.6"
     },
     "satansHands30sec": {
       "name": "Hands of Satan",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/51bd473aaa8147d81dec114311e5ffa1390f1e23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "65.0"
     },
     "level100": {
       "name": "Level 100",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/5cde265930a2c324b2d75911d5b4e0868d515d0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "level30": {
       "name": "Level 30",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d4ab1616bbfd88c559e4ffece66c46175fd4d238.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "level40": {
       "name": "Level 40",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/0521894999e2a5257b42779ae88748af9d8157d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "level50": {
       "name": "Level 50",
@@ -820,7 +820,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/301e5a5da1fc73ca5cfff9de28b1e7826afd2fb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "hellSatan": {
       "name": "Satan",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d27eded0f21a6784b7da8917e14753f4fcec3346.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "satanicItem01": {
       "name": "Satanic Item",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/f5d70fe8c824d6954edf7c30424e49a03781de24.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "satanicItem02": {
       "name": "Satanic Items",
@@ -1009,7 +1009,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/58af43791eefeeb1eaf0478b614078c8386aa62c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     }
   },
   "platform": "Steam",
