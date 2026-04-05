@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/eb139ca79862c494d711592491c576a875bfecfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "PvP04": {
       "name": "Crossed the Threshold",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cb8a5e13a10a81af1af5b402625fc313e2012924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.4"
+      "percent": "80.3"
     },
     "PvE04": {
       "name": "Death From Above",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/4073b1ca71246f26dd0aa22f3fcb0a5370219875.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.1"
+      "percent": "62.0"
     },
     "PvP08": {
       "name": "Heart of Gold",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/3076f70a409641cf5d655554742e32ccb7444131.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.2"
     },
     "PvE07": {
       "name": "Into the Breach",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/cc901fe2f79edfc0d748b9f0edec0fc477f58a49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "Expl05": {
       "name": "Into Thin Air",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/870174ebe5d708345cd737b9c3e49be8e80df948.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "Misc05": {
       "name": "Long Shot",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/f5a19787ffc01daa0753769c5940062a23c494bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.0"
     },
     "PvE13": {
       "name": "Mechanical Failure",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/9cde6f9a32217f1e29b8d7110cb953944566f0d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.7"
+      "percent": "87.6"
     },
     "Misc08": {
       "name": "Most Durable Pants in Speranza",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/e34a5b3f4e1203ca95fd788cf0034097c71a28ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.1"
     },
     "PvE03": {
       "name": "Trail of Destruction",
