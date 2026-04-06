@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "62.8"
     },
     "ACH_CAR": {
       "name": "\"Any plans tonight?\"",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/817da6824201a3b1a267c5ffe55375894d1277a3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "ACH_FRIENDS": {
       "name": "\"We can just be friends.\"",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/3ea79dd3a54de09a7f6058bb22e0ff8e45f19509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.5"
     },
     "ACH_HACK_FAST": {
       "name": "Burning Chrome",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f116d0045c5f4a6f6dc562d1c3f3f503334ee64c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.3"
+      "percent": "71.2"
     },
     "ACH_DISPATCH_ALL": {
       "name": "Dispatched",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.0"
+      "percent": "80.9"
     },
     "ACH_POWER": {
       "name": "Getting to Know Yous",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5635b07c4074b4fbc817c5ff4d60c392d4291b5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "59.3"
     },
     "ACH_HEAL_TWICE": {
       "name": "Phoenixes Down",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/9abc489901baf9bf88bcc11c6d0df85894960c5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.3"
     }
   },
   "platform": "Steam",

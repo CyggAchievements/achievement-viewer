@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1253920/9417ea3cc0f8e6286c483c2288051af579db7b00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "AllSkills": {
       "name": "Looks Familiar",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1253920/4e79ff787e79e6995244a181528097f59fc0061e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "BossGardenDefeated": {
       "name": "Progenitor and Protégé",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1253920/1b5889590ce748e0a9e56a69861fa6d35ac36268.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     }
   },
   "platform": "Steam",
