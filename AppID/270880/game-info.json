@@ -1,7 +1,7 @@
 {
   "appid": "270880",
   "name": "American Truck Simulator",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg?t=1773641340",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg?t=1775546740",
   "achievements": {
     "nm_museum": {
       "name": "1881",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/34667ac3c8893dd672cc672a85b72b77e7306147.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Arizona",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "mt_electric": {
       "name": "Power On!",
@@ -883,7 +883,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/bd01201c87f6f0f6ec7584abdeb8a40999b24882.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Utah",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "ar_hot_springs": {
       "name": "Spa City",
@@ -937,7 +937,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/f506dc604dfdd99382e941b4b4c29c57f0783238.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Oregon",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "co_visit_cities": {
       "name": "The Centennial State",
@@ -1108,7 +1108,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/270880/3537d09b1680eb3c0f20a5993267ab0fdb90d7b0.jpg",
       "hidden": false,
       "group": "American Truck Simulator - Oregon",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "ne_out_car_pln": {
       "name": "Vehicle Dealer",
