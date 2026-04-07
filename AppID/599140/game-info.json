@@ -1,7 +1,7 @@
 {
   "appid": "599140",
   "name": "Graveyard Keeper",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg?t=1773413614",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg?t=1775516777",
   "achievements": {
     "necronomicon": {
       "name": "A book with funny pictures",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/a668db3b8c23a55e4bdbac5756f9c750213b66e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.6"
     },
     "marble": {
       "name": "Marble",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/ffcd09ac07e48cac7650fcbd2f436a81add765e7.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Game of Crone",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "dlc_stories_first_stand_up": {
       "name": "Open mic",
