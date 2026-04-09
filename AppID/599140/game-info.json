@@ -1,7 +1,7 @@
 {
   "appid": "599140",
   "name": "Graveyard Keeper",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg?t=1775516777",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/0671e75eab8e44cd3f22e0d9f5371304b5556f96/header_alt_assets_2.jpg?t=1775755421",
   "achievements": {
     "necronomicon": {
       "name": "A book with funny pictures",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/3cc55ca3bbd229904d412ee4be296c0db88c7192.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.5"
+      "percent": "74.6"
     },
     "cook_3": {
       "name": "Chef",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/1be3af219306bc768d863ec55d1001b16905bd19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.4"
+      "percent": "95.8"
     },
     "fish_2": {
       "name": "Fish collector",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/b2c29d915b2af059d3bc589b1da926a5132e39c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.3"
+      "percent": "75.4"
     },
     "fish_3": {
       "name": "Ichthyologist",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/aff009a46ed5b30d7451da7ce986d8431ce40a6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "craft_alch_3": {
       "name": "Master alchemist",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/e2d3abb94996332f1bc2d92f2a37cf75d67926bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.9"
+      "percent": "95.1"
     },
     "meet_astro": {
       "name": "Old Astrologer",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/6a1ea75b757af63c3befabd1a2ab1bdee5b9644d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.7"
+      "percent": "86.8"
     },
     "bury_50_bodies": {
       "name": "Shovel master",
@@ -901,7 +901,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/9d9867e2a16a27d8d7b3d82f00b1ebe14b768e99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "dlc_refugees_s23": {
       "name": "Spirit summoner",
@@ -955,7 +955,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/fc36393766de5af91cfb713e2d82492308c64a84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.8"
+      "percent": "95.1"
     },
     "dlc_stories_build_tavern": {
       "name": "Talking Skull",

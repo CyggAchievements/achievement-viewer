@@ -1,7 +1,7 @@
 {
   "appid": "3008130",
   "name": "Dying Light: The Beast Restored Land",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/424464861216a7550e20c1c1b0e4241b7d04d1ca/header_alt_assets_4.jpg?t=1774625693",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/18ed39ae6de4d046974f203f0ea87a677f3c4b38/header.jpg?t=1774625693",
   "achievements": {
     "ACH_26": {
       "name": "And Don't Forget to Wash Your Hands",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/b35b0c322f5320380264d761c19e9a7438ffa587.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "ACH_40": {
       "name": "Better Be Safe",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3008130/e979de96d510c24a562e2b23683e8cb6ce270777.jpg",
       "hidden": true,
       "group": "Update 3",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "ACH_31": {
       "name": "Second Ascent",
