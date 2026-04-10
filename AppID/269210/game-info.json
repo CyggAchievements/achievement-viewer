@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d6114fd885a6d98789546463ca4625a24ed2bb44.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "2.7"
+      "percent": "2.9"
     },
     "ancientMonsters03": {
       "name": "Ancient Slayer",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/854d3bcf47c4bc2b73069cd36aab3c7ac5ff6a68.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "2.3"
+      "percent": "2.5"
     },
     "angelicItem01": {
       "name": "Angelic item",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/da036e767d7e553436a7b775312372dd267459da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "nightmareAnubis": {
       "name": "Anubis",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/da036e767d7e553436a7b775312372dd267459da.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.7"
+      "percent": "4.0"
     },
     "normalAnubis": {
       "name": "Anubis",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/da036e767d7e553436a7b775312372dd267459da.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "5.4"
+      "percent": "5.8"
     },
     "sheepLevel": {
       "name": "Candy Land",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/161ceec3f710b181004b0efce33d1d6fd0b16d2e.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "gold02": {
       "name": "Collect 1,000,000 Gold",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/9780a8c3a74d48045d125bcde9c8c8da25f21b33.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "gold01": {
       "name": "Collect 100,000 Gold",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/1fa26d9a7fc51d002be44ace0cad297ba1d9a5cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "infernoHC": {
       "name": "Conqueror of Pain",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/096011aff6f178e0a5d61e371be77d00d5a5d7da.jpg",
       "hidden": false,
       "group": "Hero Siege - Gates of Valhalla (Expansion Set)",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "normalOdin": {
       "name": "Corrupted Odin",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/096011aff6f178e0a5d61e371be77d00d5a5d7da.jpg",
       "hidden": false,
       "group": "Hero Siege - Gates of Valhalla (Expansion Set)",
-      "percent": "2.1"
+      "percent": "2.3"
     },
     "hellDamien": {
       "name": "Damien",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/2400bffff10f6d99a93980fdc4237e2a7e28802d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "nightmareDamien": {
       "name": "Damien",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/2400bffff10f6d99a93980fdc4237e2a7e28802d.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.7"
+      "percent": "3.9"
     },
     "normalDamien": {
       "name": "Damien",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/2400bffff10f6d99a93980fdc4237e2a7e28802d.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "5.0"
+      "percent": "5.4"
     },
     "uberGabrielInferno": {
       "name": "Death of a Fallen Angel",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/a3551bd91a65545b561ce1b67f8597e8f7c10508.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "uberSungLee01": {
       "name": "Eternal Battle Fields",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/70412386b7c68d61b2eaf0bb9c351e89b2d25eba.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "infernoReaper": {
       "name": "Fall of Grim Reaper",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/039d177cc060d06428a390037eccc0ebfe376754.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "infernoKarpKing": {
       "name": "Fall of Karp King",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/e8aa01bd67f0c98cbc9a8e51ed62dffa9e9d6d67.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "infernoMevius": {
       "name": "Fall of Mevius",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/88071ba5bf1ced00dfff9b9b9115528b1f176115.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "uberDamien01": {
       "name": "Fallen Inoya",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/2400bffff10f6d99a93980fdc4237e2a7e28802d.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "uberLunaInferno": {
       "name": "Fortune Teller's Misfortune",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/95985e5704125a967201bc8c242f4c321fb0b892.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "nightmareReaper": {
       "name": "Grim Reaper",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/95985e5704125a967201bc8c242f4c321fb0b892.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.9"
+      "percent": "4.2"
     },
     "normalReaper": {
       "name": "Grim Reaper",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/95985e5704125a967201bc8c242f4c321fb0b892.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "6.5"
+      "percent": "6.9"
     },
     "hellGurag": {
       "name": "Gurag",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/931b31e4591aee8e3a5e959391a5559495ad1d47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "nightmareGurag": {
       "name": "Gurag",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/931b31e4591aee8e3a5e959391a5559495ad1d47.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "4.0"
+      "percent": "4.3"
     },
     "normalGurag": {
       "name": "Gurag",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/931b31e4591aee8e3a5e959391a5559495ad1d47.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "7.6"
+      "percent": "8.1"
     },
     "satansHands30sec": {
       "name": "Hands of Satan",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/cd35b7e635cd7e52fd5368aa7968090570660b4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "21.1"
     },
     "steam_hell_hc": {
       "name": "Hero of Hardcore",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/58af43791eefeeb1eaf0478b614078c8386aa62c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "valhallaRiver": {
       "name": "Jörmungandr",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d3b6a8fb938903800eb094ac875e6120baab0962.jpg",
       "hidden": true,
       "group": "Hero Siege - Gates of Valhalla (Expansion Set)",
-      "percent": "2.9"
+      "percent": "3.1"
     },
     "hellKarpKing": {
       "name": "Karp King",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/f6e923e66a552bfee9e326cffbd3892ade9c490b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "nightmareKarpKing": {
       "name": "Karp King",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/f6e923e66a552bfee9e326cffbd3892ade9c490b.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.6"
+      "percent": "3.9"
     },
     "normalKarpKing": {
       "name": "Karp King",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/f6e923e66a552bfee9e326cffbd3892ade9c490b.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "4.6"
+      "percent": "5.0"
     },
     "hellHC05": {
       "name": "Legend of Hardcore",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/51bd473aaa8147d81dec114311e5ffa1390f1e23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "65.3"
     },
     "level100": {
       "name": "Level 100",
@@ -604,7 +604,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/79974f69dee34f5fe72d2725667c80f0c5092509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.5"
     },
     "level20": {
       "name": "Level 20",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/5cde265930a2c324b2d75911d5b4e0868d515d0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.4"
     },
     "level30": {
       "name": "Level 30",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d4ab1616bbfd88c559e4ffece66c46175fd4d238.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.5"
     },
     "level40": {
       "name": "Level 40",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/0521894999e2a5257b42779ae88748af9d8157d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.1"
     },
     "level50": {
       "name": "Level 50",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/803a9ca2d77bd09351f4aada785e69d83d931509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.4"
     },
     "level60": {
       "name": "Level 60",
@@ -649,7 +649,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/4d33767d2603a04e6e1701a77f2275f89c5456ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.9"
     },
     "level70": {
       "name": "Level 70",
@@ -658,7 +658,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/b816602664c978befa323aa14e7e5a8f40c88188.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.2"
     },
     "level80": {
       "name": "Level 80",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/c8805762fa4ffe733670d00998cce06d398d80f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.6"
     },
     "level90": {
       "name": "Level 90",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/0125c51fa698f4535aa34f3696d59c8824e2ed8e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.5"
     },
     "uberLuna01": {
       "name": "Luna's Fall",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/40b59447ce2e844acf63b5fcef1f1e5722f9b879.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "nightmareMevius": {
       "name": "Mevius",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/40b59447ce2e844acf63b5fcef1f1e5722f9b879.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.7"
+      "percent": "4.0"
     },
     "normalMevius": {
       "name": "Mevius",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/40b59447ce2e844acf63b5fcef1f1e5722f9b879.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "4.6"
+      "percent": "5.0"
     },
     "monstersKilled100": {
       "name": "Monster Slayer",
@@ -730,7 +730,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/28101cf224dd7dfd7b243e95c44efa6fac21b074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.5"
+      "percent": "82.6"
     },
     "monstersKilled400": {
       "name": "Monster Slayer",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/87fab1416b8f70c7034fdbcb3bed97e2d0eedf74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.8"
+      "percent": "72.9"
     },
     "monstersKilled1600": {
       "name": "Monster Slayer",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/a1a8bb2642a119280504ee26136afd7405789065.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "monstersKilled6400": {
       "name": "Monster Slayer",
@@ -757,7 +757,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/4dea8638067f69126f4e49a8295b21aa9e7f20ca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.4"
     },
     "monstersKilled25400": {
       "name": "Monster Slayer",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/3f00af2be374d14f01d5fcebe4475a6acd2f9d22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.8"
     },
     "monstersKilled50000": {
       "name": "Monster Slayer",
@@ -775,7 +775,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/137d6cd685f7830fcd43618f6a3bb9d2b25a489a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.8"
     },
     "normalHC": {
       "name": "Peasant of Hardcore",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/11c46d60bf932d4c461782df019e271fa8a94117.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.4"
     },
     "coffeeClub": {
       "name": "Sarcaster's Coffee Club",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d27eded0f21a6784b7da8917e14753f4fcec3346.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "nightmareSatan": {
       "name": "Satan",
@@ -838,7 +838,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d27eded0f21a6784b7da8917e14753f4fcec3346.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.6"
+      "percent": "3.9"
     },
     "normalSatan": {
       "name": "Satan",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d27eded0f21a6784b7da8917e14753f4fcec3346.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "4.6"
+      "percent": "4.9"
     },
     "satanicItem01": {
       "name": "Satanic Item",
@@ -856,7 +856,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/f5d70fe8c824d6954edf7c30424e49a03781de24.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "46.6"
+      "percent": "46.8"
     },
     "satanicItem02": {
       "name": "Satanic Items",
@@ -865,7 +865,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/1915ec8b88c80ce39ed7fdfc45e4078cbda51e8d.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "5.1"
+      "percent": "5.6"
     },
     "satanicItem03": {
       "name": "Satanic Items",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/d50d956ddae1ae4c24e91eb385762663dea84e8e.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "3.0"
+      "percent": "3.2"
     },
     "uberAmunInferno": {
       "name": "Sealing the Door to Afterlife",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/1d7ab323ce6c044e50887df1d3502b4774511bb5.jpg",
       "hidden": true,
       "group": "Update 5",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "uberReaper05": {
       "name": "Shadow Realm",
@@ -901,7 +901,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/1d7ab323ce6c044e50887df1d3502b4774511bb5.jpg",
       "hidden": false,
       "group": "Update 7",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "valhallaRing": {
       "name": "Soulforged Ring",
@@ -910,7 +910,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/76709addf76d33886328be31277a770387060998.jpg",
       "hidden": true,
       "group": "Hero Siege - Gates of Valhalla (Expansion Set)",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "uberDamienInferno": {
       "name": "Terror of Inoya",
@@ -964,7 +964,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/f4cf67fd6388e440dc1c2a6122b28a0261b1f20f.jpg",
       "hidden": true,
       "group": "Hero Siege - Gates of Valhalla (Expansion Set)",
-      "percent": "3.5"
+      "percent": "3.7"
     },
     "uberKingRakhulInferno": {
       "name": "War God of the Colosseum",
@@ -1009,7 +1009,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/269210/58af43791eefeeb1eaf0478b614078c8386aa62c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     }
   },
   "platform": "Steam",

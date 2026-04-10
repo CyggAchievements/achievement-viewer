@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/23e660fff64e7c504e34b898bc0d0dde3433cb4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.3"
+      "percent": "66.2"
     },
     "Last_Collectable": {
       "name": "Collector",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/727681f9c196f619a99edfcc3b0b4bdff97795a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "Weaver_Complete": {
       "name": "Dark Disclosure",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/d22ba8133318c7588ebaf40bd1b62d715c8371cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.7"
     },
     "Flat1_Complete": {
       "name": "High Rise Hardware",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/490ef88c07d28758a73c2814e5c059126ad82c47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "Theatre_Flashback_Complete": {
       "name": "Stage Fright",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2496180/84c1c916ccd8a7b0a2f45697d4990c204164f491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.3"
+      "percent": "88.2"
     }
   },
   "platform": "Steam",
