@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/37ff9e0ead9abe51a53ec56ded1158fa4acb50a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.3"
     },
     "MaxProficiency": {
       "name": "Adapting to Circumstance",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/07a5e9a2f784e392b2b8df11dcc7f15b860e3a7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "FirstDeath": {
       "name": "Eternal Return",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/dbd0b21b790375770dbe1acd78b1c350265dfedd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "AF_Mastery": {
       "name": "Past the Ruins",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/68ce40f99bfc28bdd0dad8280069ea1a5971e273.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "FirstResurrect": {
       "name": "Second Chance",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/4b99c15ec92685a662ed81d79fda12cd7461ef6a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "ReloadCombo": {
       "name": "Surgical Precision",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/e08b484774d93a717a720744417e0afae0cdc0bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.6"
     },
     "CI_Mastery": {
       "name": "Through the Forgotten City",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/8c809aed0a3c37c7bdccec26416f64d59b6907c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "FinishMural": {
       "name": "Visions of the Past",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1649240/a2a50d74c1bdcf59e9a320c4f7a6c7fdefab29d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     }
   },
   "platform": "PlayStation",

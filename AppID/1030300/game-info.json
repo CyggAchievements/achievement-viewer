@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/c7806926be11963fcb654180432414667f55cb04.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "FIRST_SILK_SKILL": {
       "name": "Bound",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/eba7fea6222d407924726fb352b2231a751f4e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "29.0"
     },
     "FIRST_CREST": {
       "name": "Claimed",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/e02ba52f889a714a7ef5661d312f07912d71527e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "ALL_CRESTS": {
       "name": "Consumed",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/6ad79e03be197569b31b52f3cc8833922ef810d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "DEFEATED_HUNTER_QUEEN": {
       "name": "Diva",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/dbe966ba335f327d3432eef742087820102f583d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "EVA_FINAL_QUEST": {
       "name": "Entwined",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/967684f3b8934182f2c8bbefe53719b0f98cb898.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "FIRST_TOOL": {
       "name": "Equipped",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/12fcd52816573fe623f5e427ef3c97975f262c31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.3"
+      "percent": "65.4"
     },
     "PINSTRESS_WISH": {
       "name": "Fatal Resolve",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/08c4a92aaf8c45077859f3681a7a0952ef81c4cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
     "GOURMAND_WISH": {
       "name": "Glutton",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/00c63e08deb453ec284b83b2222e035cab9e2211.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "FIRST_WISH": {
       "name": "Granted",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/c6cec86630d601d0e5c73f009d25882f1ec70c51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.4"
+      "percent": "82.3"
     },
     "DEFEATED_PHANTOM_1": {
       "name": "Grey Ghost",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/80ce647d65b10e3575f7a0d2b76ac1129850e0b3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "CITADEL_SONG": {
       "name": "Harmonious",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/6ead0a16f77127aff450db5df6d075a938a48cb8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.7"
     },
     "JOURNAL_HALF": {
       "name": "Keen Hunter",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/5784a4bcfe658a2b595d5acd371e0cd25bdac39a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "DEFEATED_BELLBEAST": {
       "name": "Liberated",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/42f86f65efcada2816cf88389450657b83f03121.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "DEFEATED_LACE_1": {
       "name": "Pharloom's Welcome",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/589423606af7680b4cc5af5be195b526eaf38545.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "FIRST_SILK_SPOOL": {
       "name": "Restored",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/3320c6e3d0154d688bd3e9bf5c9f8d91d7ee9779.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.7"
     },
     "DEFEATED_FLOWER_QUEEN": {
       "name": "Seed",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/62d74a694a4c5c6311b5885a2fd7196cc4ad443a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "DEFEATED_SONG_GOLEM": {
       "name": "Servant",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/ce0df795d793b5a05d31f1ba28f38cc4193444dd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/7cc0488ebd2e0e7a03a03752ab82c196d60899d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "SPEEDRUN_1": {
       "name": "Speedrunner",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/42953816aed39636c301cea00b01ced66eb43144.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "STEEL_SOUL_FULL": {
       "name": "Steel Heart",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/092e058a946972dd5ba3b895f6a98cede60f069a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "SHAKRA_FINAL_QUEST": {
       "name": "Trail's End",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/e4dc9f83fb40fd98d0668fdb5d79b23e23595e97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "TUBES_FULL": {
       "name": "Transported",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1030300/03eb64bd3d7a4dba836eaad300c33329a50984a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.8"
     }
   },
   "platform": "Steam",
