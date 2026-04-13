@@ -1,7 +1,7 @@
 {
   "appid": "599140",
   "name": "Graveyard Keeper",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/2d2a1ac04897f5098a094eb1ef99a4be64e938d4/header_alt_assets_2.jpg?t=1775826330",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/2d2a1ac04897f5098a094eb1ef99a4be64e938d4/header_alt_assets_3.jpg?t=1776067150",
   "achievements": {
     "necronomicon": {
       "name": "A book with funny pictures",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/1e9f7cf75a0f3424b45046561c00a1addaa97970.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Better Save Soul",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "dlc_souls_s_s_4_3": {
       "name": "A locked ghost from the past",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/442da0d1784d82f85c92169143435f04cd394bc4.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Better Save Soul",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "dlc_stories_cut_scene_10": {
       "name": "A nation divided",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/599140/0e32078818c08617a72451d0f84f7f9e1102284b.jpg",
       "hidden": false,
       "group": "Graveyard Keeper - Better Save Soul",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "church_up_1": {
       "name": "His house",
