@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/6c8a47dac8f061b6c2aa8482f8dc256ceb502d12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.5"
+      "percent": "87.4"
     },
     "FindCoffinStage5": {
       "name": "Coffin: Cappella Magna",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/1d2aa02bd93c017df31aea9dc0c3486825d83350.jpg",
       "hidden": false,
       "group": "Update 10",
-      "percent": "55.6"
+      "percent": "55.7"
     },
     "FindCoffinStage1": {
       "name": "Coffin: Mad Forest",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/3f5800a6db8500a482a3c2268f36f86df0c9f057.jpg",
       "hidden": false,
       "group": "Update 31",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "FindAntidote": {
       "name": "EXTRA: Antidote",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/a51423db94b492915bffc5d4aa2c36e5d9baba73.jpg",
       "hidden": false,
       "group": "Update 26",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "FindApoplexy": {
       "name": "EXTRA: Apoplexy",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/8c2e03453415d21be5046558d3cf82034707e63e.jpg",
       "hidden": false,
       "group": "Update 28",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "ReachLV80InverseLibrary": {
       "name": "EXTRA: Astral Stair",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/fd7ebcded7e55be1fef31ce8aac302c3c555c355.jpg",
       "hidden": false,
       "group": "Update 25",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "FindMap_AstralStair": {
       "name": "EXTRA: Astral Stair Map",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/7829af3829643ac33c0ea12272fd074af705ceb6.jpg",
       "hidden": false,
       "group": "Update 25",
-      "percent": "11.0"
+      "percent": "11.1"
     },
     "ReachLV80InverseForest": {
       "name": "EXTRA: Bat Country",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/be183d6fa87d3143c3955d5c2f2d400d907b0993.jpg",
       "hidden": false,
       "group": "Update 26",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "FindChaosAltemanna": {
       "name": "EXTRA: Chaos Altemanna",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/de4b70bcadf295d4aa554addced3164d9f0b510d.jpg",
       "hidden": false,
       "group": "Update 23",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "FindChaosRosalia": {
       "name": "EXTRA: Chaos Rosalia",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/188f832fb1e754c683da8aefb1df7e23ae530593.jpg",
       "hidden": false,
       "group": "Update 29",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "EvolveOfGaea_Fix": {
       "name": "EXTRA: Embrace of Gaea",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/84da912393f37114e2ae7cf6c6599637e2de9486.jpg",
       "hidden": false,
       "group": "Update 31",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "EvolvePhas3r": {
       "name": "EXTRA: Evolve the Phas3r.",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/f4120a9c37ea1fba3b2e83acc2c87997ec35a7d1.jpg",
       "hidden": false,
       "group": "Update 30",
-      "percent": "5.3"
+      "percent": "5.4"
     },
     "GetGlassFandangoToLevel7": {
       "name": "EXTRA: Glass Fandango",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/70d9ffa8b3e474f382859cd014a809b22782d9ff.jpg",
       "hidden": false,
       "group": "Update 30",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "Dark_01SpaceDude": {
       "name": "EXTRA: I - Sapphire Mist",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/1f2c120dc7e3ee89dbde3e0f1da3286ca735f3f1.jpg",
       "hidden": false,
       "group": "Update 30",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "FindKaromasMana": {
       "name": "EXTRA: Karoma's Mana",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/6f2047de976337fadb9a7bebafb6609510531522.jpg",
       "hidden": false,
       "group": "Update 31",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "FindManyRosaries": {
       "name": "EXTRA: Laborratory",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/c886324f6f79bc0e98b2abcb6b86039af08f4ed5.jpg",
       "hidden": false,
       "group": "Update 28",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "GetMagiStoneToLevel7": {
       "name": "EXTRA: Magi-Stone",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/063d9369533c7acfc51de49160278e4511d0052a.jpg",
       "hidden": false,
       "group": "Update 31",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "FindMasquerade": {
       "name": "EXTRA: Masquerade",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/febcedc30f7185c8246db021b18f2ebddbfd9c71.jpg",
       "hidden": false,
       "group": "Update 27",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "FindRecycle": {
       "name": "EXTRA: Preserve",
@@ -748,7 +748,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/b8b9e8169e30a32f0e0fed553da69517ee85bcae.jpg",
       "hidden": false,
       "group": "Update 28",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "EvolveJavelin": {
       "name": "EXTRA: Seraphic Cry",
@@ -766,7 +766,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/001d132d8a371eb1b89e7a5cca3e66212b775002.jpg",
       "hidden": false,
       "group": "Update 26",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "FindManyGoldenFinger": {
       "name": "EXTRA: Space 54",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/03d131993ef89e8428cb3215bbcc1a72dc0370da.jpg",
       "hidden": false,
       "group": "Update 25",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "Dark_05Appunta": {
       "name": "EXTRA: V - Pale Diamond Incursion",
@@ -829,7 +829,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/64239527e647f7e468554434645d9510b2f558f7.jpg",
       "hidden": false,
       "group": "Update 29",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "FindManyClovers": {
       "name": "EXTRA: Westwoods",
@@ -838,7 +838,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/0f456457bb4ac0186eff916b52e67f6c6193f4b6.jpg",
       "hidden": false,
       "group": "Update 31",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "FindManyOrologions": {
       "name": "EXTRA: Whiteout",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/0976d55ec056ef33debfe062488aed2405e51d6a.jpg",
       "hidden": false,
       "group": "Update 26",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "CompleteAdv_WorldOfLightAndDark": {
       "name": "EXTRA: World of Light and Dark",
@@ -892,7 +892,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/7cf286a591ae3a95100b7214571fa5dbb61d2aeb.jpg",
       "hidden": false,
       "group": "Update 31",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "Dark_21Robert": {
       "name": "EXTRA: XXI - Wandering the Jet Black",
@@ -910,7 +910,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/951cd1c644804aa8f901bd355d89d13b434889f6.jpg",
       "hidden": false,
       "group": "Update 31",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "Destroy20Candles": {
       "name": "Fire Wand",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/541b6171128682183e5765af72b807023648d115.jpg",
       "hidden": false,
       "group": "Vampire Survivors: Tides of the Foscari",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "FindForbiddenScroll": {
       "name": "Forbidden Scrolls",
@@ -973,7 +973,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/29912ad9cd30185b3edadbc54b6baba28d181841.jpg",
       "hidden": false,
       "group": "Update 16",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "Eat5PotRoast": {
       "name": "Garlic",
@@ -1153,7 +1153,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/b950f201cf5cd06480283c9f566a329a0babb621.jpg",
       "hidden": false,
       "group": "Update 9",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "DefeatBossLibrary": {
       "name": "Hyper Inlaid Library",
@@ -1720,7 +1720,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/1ff01f7cf633540da08ee87f685b3c4896c34b7b.jpg",
       "hidden": false,
       "group": "Update 12",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "FOSC15_Survive15Genevieve": {
       "name": "Shadow Servant",
@@ -1729,7 +1729,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/292109248e6ac1795363f0c4b842fa2b7f003638.jpg",
       "hidden": false,
       "group": "Vampire Survivors: Tides of the Foscari",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "MOON02_Survive15Miang": {
       "name": "Silver Wind",
@@ -1774,7 +1774,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/a17ad9ca35897eb5c2cd608d8bf867bf752dae83.jpg",
       "hidden": false,
       "group": "Update 11",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "Survive15MinutesInMoongolow": {
       "name": "Skip 4",
@@ -1999,7 +1999,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/7cc37b16440807f9d8b7176365eb7adb2d39c9b3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "57.1"
+      "percent": "57.0"
     },
     "Survive15MinutesWithWind": {
       "name": "Vento Sacro",
@@ -2008,7 +2008,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/530292edb415d70196d090d2fd2e091d60a6b23e.jpg",
       "hidden": false,
       "group": "Update 14",
-      "percent": "29.7"
+      "percent": "29.8"
     },
     "FindRandomazzoT06": {
       "name": "VI - Sarabande of Healing",
@@ -2026,7 +2026,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1794680/8037840b1baca58870f76438d22a1c3f160c3c3a.jpg",
       "hidden": false,
       "group": "Update 12",
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "Defeat100kWithSigma": {
       "name": "Victory Sword",
