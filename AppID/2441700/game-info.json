@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/a2e72a3b8d7dfa7269c506ee5006512e9fb1ceae.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "bash-enemies": {
       "name": "Hit & Run",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/5cbaed42028b40c0b6387bff3e57edd3e034ffef.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "kill-armored-bots": {
       "name": "Knight Killa",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/cf1f5f47e1d1a907b5ad429daea4e1bd821e1785.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "environment-kills": {
       "name": "Petting Zoo",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/8f16aed5649541ed8d4b91bfecb36b8fbbfbc1aa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "hit-airborne-bot-with-another": {
       "name": "Shot Down",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/848d5ee5df345e730c89dc17a16a1848ad34f871.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "26.1"
+      "percent": "26.0"
     },
     "win-fights-without-damage": {
       "name": "Teflon",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/e848f6a07930ee73010d448c84a8abc70f7719fc.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "kill-ussams": {
       "name": "Twossam",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/bbd0cd67d6af6e406ae286ccccc7d829cf82ff21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "die": {
       "name": "YOU DED",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "35.6"
+      "percent": "35.4"
     }
   },
   "platform": "Steam",
