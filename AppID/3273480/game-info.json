@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACH_AMonsterFalls": {
       "name": "A Monster Falls",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "ACH_BirdsEyeView": {
       "name": "Bird's Eye View",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "ACH_Bullseye": {
       "name": "Bullseye",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "ACH_FullyAutomatic": {
       "name": "Fully Automatic",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/68e7ce5bccdb16ed2323e42c3adf8aa9039b7829.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "ACH_HealthConscious": {
       "name": "Health Conscious",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACH_Informed": {
       "name": "Informed",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.9"
     },
     "ACH_LightCameraAction": {
       "name": "Lights, Camera, Action!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.4"
+      "percent": "69.3"
     },
     "ACH_LikeNiedeGuidon": {
       "name": "Like Niède Guidon",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ACH_OutWithABang": {
       "name": "Out With a Bang",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     },
     "ACH_WhatsThatComingOverTheHill": {
       "name": "What's That Coming Over the Hill?",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.9"
     },
     "ACH_FuseBox": {
       "name": "You Shall Pass!",
