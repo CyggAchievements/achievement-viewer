@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/959c87862d225a411b43c8728817d91b22ea36e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.6"
     },
     "win-wardens": {
       "name": "Aggressor",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/c3ec547bac9da999c98276e30d2d380fa679367f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "kill-with-thumper": {
       "name": "Flatlined",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/a462e5d20d0380d05c32e8c9cdeb9a2f6f0b99d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.5"
     },
     "jack-arm-rip": {
       "name": "Jackn't",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/cf1f5f47e1d1a907b5ad429daea4e1bd821e1785.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "environment-kills": {
       "name": "Petting Zoo",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/848d5ee5df345e730c89dc17a16a1848ad34f871.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "win-fights-without-damage": {
       "name": "Teflon",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "35.7"
+      "percent": "35.6"
     }
   },
   "platform": "Steam",
