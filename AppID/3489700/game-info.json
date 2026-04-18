@@ -1,7 +1,7 @@
 {
   "appid": "3489700",
   "name": "Stellar Blade™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1773886328",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
   "achievements": {
     "03_KillCharacter_Opener": {
       "name": "Abaddon",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/8a797b96f7063ba0f4cba6bf3df3877f10de2ac3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.8"
     },
     "02_Activate_FirstCamp": {
       "name": "Camp Preparation",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/359e03479fd923790adc9b4d48b43a6df9817def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.0"
     },
     "15_KillCharacter_Gorgon_Kill": {
       "name": "Demogorgon",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/b35a50d28a86790e558acaf10a9a4adda8eb235f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "16_KillCharacter_Raven_Kill": {
       "name": "Raven",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3489700/936e0f8833e3be9e29aec80bf0f966e4fccb1b0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.3"
     },
     "08_KillCharacter_Stalker_Kill": {
       "name": "Stalker",
