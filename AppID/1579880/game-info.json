@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/18f7195f19052317d7552ecc59d9de3437ae0cbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.1"
+      "percent": "63.0"
     },
     "ACHIEVEMENT_NAME_STATS_TRAVELDISTANCE": {
       "name": "Endless Pilgrimage",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/753f2563cef4749ff2d16e375a38e5e7f68ada51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.4"
+      "percent": "89.5"
     },
     "ACHIEVEMENT_NAME_STATS_FORGOTRELOAD": {
       "name": "Failed Basic Training",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1579880/e895584ba3b22ec3916749abca4d4696ba9380ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ACHIEVEMENT_NAME_RUN_NO_MISS": {
       "name": "Steady Hands",
