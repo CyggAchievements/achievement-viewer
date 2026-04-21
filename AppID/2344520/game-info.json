@@ -3,6 +3,14 @@
   "name": "Diablo® IV",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/8474e0475ea726bdb9aa1c55a5bc599ba0c214e0/header_alt_assets_10.jpg?t=1775778391",
   "achievements": {
+    "ebdfbdc1-3e23-4200-baba-fb9ecce7394c": {
+      "name": "Adept Angler",
+      "description": "Collect all the fish in one region.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/eacd21913f7434251c096d338b08cfb2d3446970.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
+    },
     "a551d7b3-3741-4f60-93b1-f88a4b44d6c6": {
       "name": "Army of Bones",
       "description": "Summon 100 Skeleton Mages or Warriors as a Necromancer.",
@@ -57,6 +65,14 @@
       "group": "Base Game",
       "percent": "48.6"
     },
+    "8d6f4722-2719-4ed8-986f-cf5fbbde3122": {
+      "name": "Demonic Dispute",
+      "description": "Kill 100 enemies with your Demonology skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/41edb4b4fccb0a8dfd3018b6b38869ba29e55998.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
+    },
     "8bfdc70a-1e9d-4a08-8a65-6d6417bd1eac": {
       "name": "Devoted Protector",
       "description": "Reach Paragon Level 200 with any character. ",
@@ -74,6 +90,22 @@
       "hidden": false,
       "group": "Diablo® IV: Vessel of Hatred™",
       "percent": "0.8"
+    },
+    "e3e39489-5602-454c-ac90-a5886145e0b9": {
+      "name": "Echoing Elites",
+      "description": "Kill 1000 Bosses/Elites in the Echoing Hatred.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/fa4c24898b7df253f9e8460713fe8bb5acc56b43.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
+    },
+    "d671b1ab-2425-49f7-ab90-e2d55732bdb4": {
+      "name": "Effective Equipment",
+      "description": "Equip a piece of Transfigured gear in every slot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/178e9d4f4fc790e3e39160fae6bad0daad7f611b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
     },
     "d86b6b0f-29b2-45b0-b019-1e495c6f9d82": {
       "name": "Emancipation",
@@ -113,7 +145,7 @@
     },
     "1c1c443f-b88a-4c24-8b61-74ecca1f9e5c": {
       "name": "First Aid",
-      "description": "Use your Healing Potion 1,000 times.",
+      "description": "Use your Healing Potion 1,000 times. ",
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/e76599366946fb35e204023bfe4f042852900c4f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/fc88e6c1cb4a7f14ced1ee6044954d24ad95d87d.jpg",
       "hidden": false,
@@ -128,6 +160,14 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "22.5"
+    },
+    "e6396ef8-f63f-470c-adee-9c55485d6bf7": {
+      "name": "Hatred Banished",
+      "description": "Complete the Lord of Hatred campaign.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/962de3cd5f230d36fd78fb2c53afc0ea7b5b3c6f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
     },
     "83fc89de-81b3-4a58-b7d3-1c7a08a7a937": {
       "name": "Hatred Subdued",
@@ -228,6 +268,14 @@
       "group": "Base Game",
       "percent": "40.9"
     },
+    "f321ab7a-0419-426d-8e27-5da3fcb274f3": {
+      "name": "Prepared to Fight",
+      "description": "Complete 10 War Plans.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/b6431af9489f9e2fd8f2a1fa12f9c6f5bdb074f9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
+    },
     "9b0aca92-13f4-41ce-bead-a229194fba3e": {
       "name": "Shifty Swipes",
       "description": "Kill 50 enemies in Werebear form and 50 enemies in Werewolf form as a Druid. ",
@@ -236,6 +284,22 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "14.6"
+    },
+    "7ec4a842-18b8-4bc3-b6d6-27dbd262a572": {
+      "name": "Skovos Slayer",
+      "description": "Kill 666 Golems, Merfolk, or Morlu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/e95ab0d9c0341f819997cca1cc08dfaf3eaded49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
+    },
+    "3c5b0e77-ce8e-42d5-a0a1-fde8cc00a5fb": {
+      "name": "Skovos Sojourner",
+      "description": "Explore all of Skovos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/c8cc05927378b671cf0d1c3e5f44e9f6f884a75e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
     },
     "e285fcf7-6f5f-45d0-b3f1-6a23e6541956": {
       "name": "Spirited Sparring",
@@ -254,6 +318,14 @@
       "hidden": false,
       "group": "Diablo® IV: Vessel of Hatred™",
       "percent": "12.6"
+    },
+    "d3ee91d5-a150-4d67-98b5-048c31e4946b": {
+      "name": "Tormented Slaughter",
+      "description": "Kill 1000 Elites in Torment XII.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/465c48f3875b477b2f8bb3702a2a9ca655ab8d54.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
     },
     "be87df1d-e8e0-4a93-aa7c-131eb9141851": {
       "name": "Tortured Souls",
@@ -299,6 +371,14 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "65.6"
+    },
+    "3cf71ab5-5662-46e5-9586-0cdf3491c1e9": {
+      "name": "Wholly Horadric",
+      "description": "Activate a Charm Set's 5-piece bonus.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/f127d3091c5b10e9bca3abb2219e022a29e36e26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2344520/9b382652563afa8c422c878fd4e31cdbf27ce40e.jpg",
+      "hidden": false,
+      "group": "Update 1"
     },
     "e0072692-531f-4a6d-9dd3-524f151db225": {
       "name": "Wildland Warrior",
