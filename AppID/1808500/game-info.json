@@ -1,7 +1,7 @@
 {
   "appid": "1808500",
   "name": "ARC Raiders",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/04baafaf64a5aa5f46ecda5d71889a4848dc0628/header.jpg?t=1772007651",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/04baafaf64a5aa5f46ecda5d71889a4848dc0628/header.jpg?t=1776865359",
   "achievements": {
     "PvE08": {
       "name": "A Tale for the Ages",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/7ef2f4ed0035fdf4d1fd09598d1424249571fa31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "PvP03": {
       "name": "Horseshoes and Hand Grenades",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1808500/f5a19787ffc01daa0753769c5940062a23c494bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "PvE13": {
       "name": "Mechanical Failure",

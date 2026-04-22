@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/fba0f4886a53d7ea77033006aeb2431ab731d163.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.7"
     },
     "ACH_STAT_100_Combined_Presses": {
       "name": "Button Newbie",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/62d4b10fc5ac2a05de1dfd691eeae9685376069b.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "35.4"
+      "percent": "35.3"
     },
     "ACH_STAT_1M_Combined_Presses": {
       "name": "Button Titan",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/ce7095aaea7b2692b357bfff0771d8ef2c180e53.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACH_TRIGGER_HAPPY": {
       "name": "Trigger Happy",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1812620/fac8aca949bae5357a1a014174f2afdb5658eba5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     }
   },
   "platform": "Steam",
