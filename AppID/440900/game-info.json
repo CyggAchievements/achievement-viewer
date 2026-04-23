@@ -1,7 +1,7 @@
 {
   "appid": "440900",
   "name": "Conan Exiles",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg?t=1766090090",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg?t=1776953118",
   "achievements": {
     "ACH_ReachLevel60": {
       "name": "…A Champion…",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440900/126acf21dce2977efbce31c7cdba7a38363b3ee5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "ACH_Siptah_StackSigils": {
       "name": "From Beyond",
