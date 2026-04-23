@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/da5fbd85181a2b2ec5cc852a426fdca1db84378c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "amazingcoverage": {
       "name": "Amazing Coverage",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/67836f3f7239b388ed17e9bdc13e7771443403e0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "backpacker": {
       "name": "Backpacker",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/8f047ea865ef60e102f3758aecc83cb89143ef8d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "crossingthethinblueline": {
       "name": "Crossing the Thin Blue Line",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4356d631a89ae4e4019db83b014be54a5ed22f95.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.0"
+      "percent": "66.1"
     },
     "disorganisedcrime": {
       "name": "Disorganised Crime",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c4d255503926658e1d156ff894a200525c32fadd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "frenemies": {
       "name": "Frenemies",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/62e1ebfe30106da7de44ea02afff8a980fe65229.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "friendlyneighbourhoodspiderman": {
       "name": "Friendly Neighbourhood Spider-Man",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/b37808f21f0ba90efbf09f6331ab8722069d2c48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "innersanctuary": {
       "name": "Inner Sanctuary",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/d7df79cda537c3e8d34d62f2518847c971a49d49.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "neighbourhoodwatch": {
       "name": "Neighbourhood Watch",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/3a88a17da8a3ec9e577ef9f6d61eab414ed9c45b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "pigeonhunter": {
       "name": "Pigeon Hunter",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/40a9a02d32853f8c74d676f80e653072e7673621.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.9"
     },
     "powerandresponsibility": {
       "name": "Power and Responsibility",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/4d039961de4b2a4d4637cf2a8db0f39ea5c5af26.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "pullingthetrigger": {
       "name": "Pulling the Trigger",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/705e3c69750f0be4a2782f4987dd2b0db898fe75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "seducedbythecity": {
       "name": "Seduced by the City",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/5cc32457566a89801f8d3beed90acd73fa82d117.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "shockandawe": {
       "name": "Shock and Awe",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/bedb098773f3c6979d9c6411b0a4c9860f6161ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "sightseeing": {
       "name": "Sightseeing",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/c6209417100141cf900d7077ee645029d4948abc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.5"
     },
     "spidersensible": {
       "name": "Spider-Sensible",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/170ce96a5efc9e40599d1d949dc914ff2b7292d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "superiorspiderman": {
       "name": "Superior Spider-Man",
@@ -559,7 +559,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/641a64fe768fa6182317e0e8ce01a21f260d7efb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "terminated": {
       "name": "Terminated",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/a2b220c6012e67e6922af5f3fc6a00d8e76ffa98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.7"
     },
     "thegangwar": {
       "name": "The Gang War",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/2ff8a463f059918b2ec7ce657b4a907f41bf7864.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "thewagesofwar": {
       "name": "The Wages of War",
@@ -667,7 +667,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1817070/19358e62f318002d15989067a81c20ef35ec1ee8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "unacceptable": {
       "name": "Unacceptable",
