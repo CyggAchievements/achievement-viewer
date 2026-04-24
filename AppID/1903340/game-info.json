@@ -57,23 +57,23 @@
       "group": "Base Game",
       "percent": "47.7"
     },
-    "ALL_CHARACTERS": {
+    "PETANK_ALPHA": {
       "name": "Carreau Parfait",
-      "description": "Unlock all playable characters.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/da9d2ab2f3e47e4d19c42c5fb27b9c49f315a763.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/010f6f1c7dcbf1fe29f5a2098f7136446c269132.jpg",
+      "description": "Beat the Chromatic Pétank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ad27abadb8f0711a04ffef12bf8fa0acffdce6f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ee9c9694673936e64cfda9197ac4aff0b9d31677.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "21.5"
     },
-    "PAINT_CAGE": {
+    "LVL3_GRADIENT_ATTACK": {
       "name": "Chroma Proficiency",
       "description": "Use a level 3 Gradient Attack.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/2f734192fa32fdaca9d13dfbbc8d1c549bce6036.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f3d069b62c3560aef6ee465477ececd983bb143c.jpg",
-      "hidden": false,
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/41039c768a15bdddcf1deef90fcbc1f62a51e508.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
+      "hidden": true,
       "group": "Base Game",
-      "percent": "76.7"
+      "percent": "28.4"
     },
     "CLEA": {
       "name": "Clea",
@@ -84,14 +84,23 @@
       "group": "Base Game",
       "percent": "20.9"
     },
-    "BREAK": {
+    "ALL_SONGS": {
       "name": "Connoisseur",
-      "description": "Obtain all Find all 33 music records..",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c079b7038296aa203229ee0864695bf2f549ddc5.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/156c3c2ce993b2095ba6794cfd3ff572ffcc7d07.jpg",
+      "description": "Find all 33 music records.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/305998cd6052d4aa8b0b4e98299d20dbd915ebac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f8c261b7bbc52967152f205ee5739c5471c57d26.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.7"
+      "percent": "10.1"
+    },
+    "OPTIONAL_CAMP": {
+      "name": "Curious",
+      "description": "Witness an optional scene at camp.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/29e3e5fef7d1f7c63efc7ce463be0ccd23e8097c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/bf46ac3a8691b02c833b93d124425d4922195dfb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.4"
     },
     "ESQUIE_RELATIONSHIP": {
       "name": "Esquie",
@@ -111,14 +120,14 @@
       "group": "Base Game",
       "percent": "67.4"
     },
-    "ALL_SONGS": {
+    "ALL_CHARACTERS": {
       "name": "Expedition 33",
       "description": "Unlock all playable characters.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/305998cd6052d4aa8b0b4e98299d20dbd915ebac.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f8c261b7bbc52967152f205ee5739c5471c57d26.jpg",
-      "hidden": false,
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/da9d2ab2f3e47e4d19c42c5fb27b9c49f315a763.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/010f6f1c7dcbf1fe29f5a2098f7136446c269132.jpg",
+      "hidden": true,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "57.9"
     },
     "LEVEL_33": {
       "name": "Expeditioner",
@@ -129,23 +138,14 @@
       "group": "Base Game",
       "percent": "54.8"
     },
-    "LEVEL_99": {
-      "name": "Expeditioner",
-      "description": "Reach level 33.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/67b062a511bbcdcf13e2ffecc4d800652962fb81.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9a8bdbce54589b4e2378045a6be70b68b54afbf8.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "12.8"
-    },
-    "LVL3_GRADIENT_ATTACK": {
+    "ALL_MONOCO_SKILLS": {
       "name": "Feet Collection",
-      "description": "Use a level 3 Gradient Attack.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/41039c768a15bdddcf1deef90fcbc1f62a51e508.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
+      "description": "Acquire all of Monoco’s skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e6a2b3d3bfafc55a517e373f67aaecec4b31c0bc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/90783dcecfde9c3359113a58688a76bb975734e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "15.1"
     },
     "FIRST_AXON": {
       "name": "First Axon",
@@ -201,6 +201,15 @@
       "group": "Base Game",
       "percent": "68.8"
     },
+    "ESQUIE_UNLOCK": {
+      "name": "Legend",
+      "description": "Unlock Esquie.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/7abf7d53cda264d4d9e3cf7292dc2c3e9ebc4997.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.4"
+    },
     "LOST_GESTRALS": {
       "name": "Lost Gestrals",
       "description": "Find all of the Lost Gestrals.",
@@ -228,15 +237,6 @@
       "group": "Base Game",
       "percent": "72.0"
     },
-    "LEVEL_66": {
-      "name": "Lumina",
-      "description": "Consume a Lumina point.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/17ca73615b8124664ce5f788025cf475749ad0d0.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1cdc4c9918c0c80b5853b827f058965d3a2ccb47.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "33.6"
-    },
     "LUNE_RELATIONSHIP": {
       "name": "Lune",
       "description": "Reach relationship level 7 with Lune.",
@@ -255,14 +255,14 @@
       "group": "Base Game",
       "percent": "30.9"
     },
-    "MONOCO_WHEEL": {
-      "name": "Maximization",
-      "description": "With Monoco, cast an Upgraded Skill 4 turns in a row.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3a87d0270bd0306cca79cdca60471d656cba6f2f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
+    "SCIEL_FORETELL": {
+      "name": "Maximisation",
+      "description": "With Sciel, consume 20 Foretell on a single target during Twilight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/135db83393639809c16447d28d3085e0a83f6c40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "35.3"
     },
     "MONOCO_RELATIONSHIP": {
       "name": "Monoco",
@@ -309,23 +309,23 @@
       "group": "Base Game",
       "percent": "55.6"
     },
-    "MAELLE_STANCES": {
+    "GUSTAVE_OVERCHARGE": {
       "name": "Overcharge",
-      "description": "With Maelle, use Percée on a Marked enemy while in Virtuose Stance.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5aad0ceada59780c0dabc820a7af23418bda5332.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/26b6bf703dfbf65c102b5d2a48b99522c38e9b75.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "44.1"
-    },
-    "NO_DAMAGE_BOSS": {
-      "name": "Paint Cage",
-      "description": "Break a Paint Cage.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/62d4676ebd03f2a3cefb99ea6fe4039cf4f5b838.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
+      "description": "With Gustave, use a fully charged Overcharge that Breaks an enemy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c4fe576da5fcfe08c7ca9921f3a725c492d98248.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e38e5976d3d913f30401e92a99afa680af8e560a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "81.6"
+    },
+    "PAINT_CAGE": {
+      "name": "Paint Cage",
+      "description": "Break a Paint Cage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/2f734192fa32fdaca9d13dfbbc8d1c549bce6036.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f3d069b62c3560aef6ee465477ececd983bb143c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.7"
     },
     "PAINTRESS": {
       "name": "Paintress",
@@ -345,23 +345,23 @@
       "group": "Base Game",
       "percent": "16.1"
     },
-    "SCIEL_FORETELL": {
+    "LUNE_STAINS": {
       "name": "Perfect Flow",
-      "description": "With Sciel, consume 20 Foretell on a single target during Twilight.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/135db83393639809c16447d28d3085e0a83f6c40.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
+      "description": "With Lune, consume Stains 4 turns in a row.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b3e389aaddccdf582cf2ff09112b9f60bde817af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9982734563dd247451e61b32041f700740d27297.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "50.6"
     },
-    "PETANK_ALPHA": {
+    "VERSO_PERFECTION": {
       "name": "Perfection",
-      "description": "Beat the Chromatic Pétank.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ad27abadb8f0711a04ffef12bf8fa0acffdce6f2.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ee9c9694673936e64cfda9197ac4aff0b9d31677.jpg",
+      "description": "With Verso, reach Rank S.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f49024626ed746f41970997955eead148ee383da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/05734ee5e04508e931da911e6d68cc6a27e6d67e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "56.9"
     },
     "ESQUIE_UPGRADES": {
       "name": "Plane, Train, and Submarine",
@@ -372,14 +372,14 @@
       "group": "Base Game",
       "percent": "34.6"
     },
-    "ESQUIE_UNLOCK": {
+    "NO_DAMAGE_BOSS": {
       "name": "Professional",
-      "description": "Unlock Esquie.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/7abf7d53cda264d4d9e3cf7292dc2c3e9ebc4997.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
-      "hidden": true,
+      "description": "Defeat a boss without taking any damage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/62d4676ebd03f2a3cefb99ea6fe4039cf4f5b838.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
+      "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "51.6"
     },
     "SCIEL_RELATIONSHIP": {
       "name": "Sciel",
@@ -426,23 +426,23 @@
       "group": "Base Game",
       "percent": "62.8"
     },
-    "LUNE_STAINS": {
+    "LEVEL_99": {
       "name": "Survivor",
-      "description": "With Lune, consume Stains 4 turns in a row.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b3e389aaddccdf582cf2ff09112b9f60bde817af.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9982734563dd247451e61b32041f700740d27297.jpg",
-      "hidden": true,
+      "description": "Reach level 99.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/67b062a511bbcdcf13e2ffecc4d800652962fb81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/9a8bdbce54589b4e2378045a6be70b68b54afbf8.jpg",
+      "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "12.9"
     },
-    "VERSO_PERFECTION": {
+    "MAELLE_STANCES": {
       "name": "Synergy",
-      "description": "With Verso, reach Rank S.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f49024626ed746f41970997955eead148ee383da.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/05734ee5e04508e931da911e6d68cc6a27e6d67e.jpg",
+      "description": "With Maelle, use Percée on a Marked enemy while in Virtuose Stance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5aad0ceada59780c0dabc820a7af23418bda5332.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/26b6bf703dfbf65c102b5d2a48b99522c38e9b75.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.9"
+      "percent": "44.1"
     },
     "THE_END": {
       "name": "The End",
@@ -451,25 +451,25 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
-    "OPTIONAL_CAMP": {
+    "BREAK": {
       "name": "Time to Spill Some Ink",
       "description": "Break an enemy.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/29e3e5fef7d1f7c63efc7ce463be0ccd23e8097c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/bf46ac3a8691b02c833b93d124425d4922195dfb.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c079b7038296aa203229ee0864695bf2f549ddc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/156c3c2ce993b2095ba6794cfd3ff572ffcc7d07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "84.7"
     },
-    "GUSTAVE_OVERCHARGE": {
+    "LEVEL_66": {
       "name": "Trailbreaker",
       "description": "Reach level 66.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c4fe576da5fcfe08c7ca9921f3a725c492d98248.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e38e5976d3d913f30401e92a99afa680af8e560a.jpg",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/17ca73615b8124664ce5f788025cf475749ad0d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1cdc4c9918c0c80b5853b827f058965d3a2ccb47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "33.6"
     },
     "WEAPON_FULL_UPGRADE": {
       "name": "Weapon Mastery",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b0669aed88896cce28ceb6b67f70c25951e051b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "WEAPON_FIRST_UPGRADE": {
       "name": "Weapon Upgrade",
@@ -489,14 +489,14 @@
       "group": "Base Game",
       "percent": "72.6"
     },
-    "ALL_MONOCO_SKILLS": {
+    "MONOCO_WHEEL": {
       "name": "Wheel Control",
-      "description": "Acquire all of Monoco’s skills.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e6a2b3d3bfafc55a517e373f67aaecec4b31c0bc.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/90783dcecfde9c3359113a58688a76bb975734e6.jpg",
+      "description": "With Monoco, cast an Upgraded Skill 4 turns in a row.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3a87d0270bd0306cca79cdca60471d656cba6f2f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "28.3"
     }
   },
   "platform": "Steam",

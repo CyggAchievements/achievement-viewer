@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "mutant_killer": {
       "name": "Antibiotic",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "dlc_02_great_owl": {
       "name": "Great Owl",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.5"
+      "percent": "51.4"
     },
     "constructor": {
       "name": "Handyman",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "martian": {
       "name": "Martian",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.9"
+      "percent": "68.8"
     },
     "master_of_the_forest": {
       "name": "Master of the Forest",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.7"
     },
     "dlc_01_quite_heavy": {
       "name": "Mind you, it's quite heavy!",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.8"
+      "percent": "67.7"
     },
     "righteous_vengeance": {
       "name": "Righteous vengeance",
@@ -550,7 +550,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "dlc_02_the_last_hero": {
       "name": "The Last Hero",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/412020/3163dedb2d9bced02f9563331c38bab0136f416e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     }
   },
   "platform": "Steam",
