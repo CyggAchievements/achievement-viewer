@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/959c87862d225a411b43c8728817d91b22ea36e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.8"
+      "percent": "55.7"
     },
     "win-wardens": {
       "name": "Aggressor",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/cf1f5f47e1d1a907b5ad429daea4e1bd821e1785.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "environment-kills": {
       "name": "Petting Zoo",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/848d5ee5df345e730c89dc17a16a1848ad34f871.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "win-fights-without-damage": {
       "name": "Teflon",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "36.0"
+      "percent": "35.9"
     }
   },
   "platform": "Steam",
