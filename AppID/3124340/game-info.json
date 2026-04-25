@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/cf5481d1b01ffc80706f83c6a1ca13baaaa3cf90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "BadBreath": {
       "name": "Bad Breath",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/d67208cffb8489801df1375815def78b27b0896c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "Dragonslayer": {
       "name": "Dragonslayer",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/795e8af62653cd28c6282ae642a08746106edb0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.2"
     },
     "Experienced": {
       "name": "Experienced",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/1468a06298b99be7a1ab5954d296bf7e4e952509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "FriendlyFire": {
       "name": "Friendly fire",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/031b74b01431699b70df16df8826ca90161c3d9e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "Frostbane": {
       "name": "Frostbane",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/bbb1e1b4687f8e480d09a7cf257ac3e261ad0901.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "GoForTheEyes": {
       "name": "Go for the eyes!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/d72e2bb9aee0db0fbc87480ac350890022d89a92.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "Heroic": {
       "name": "Heroic",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/4cde27e24f7df3f6a407f7cac485e5f3730b5963.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "HuntingSeason": {
       "name": "Hunting Season",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/dc75e0105c75f73e94371c3847da6957439e38c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "JackOfAllTrades": {
       "name": "Jack of all trades",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/27ef1d568be7f1c588efe8c1d292192827a5d3b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "60.8"
     },
     "MakingTheBest": {
       "name": "Making the best of a rat situation",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/0cd8c1024276d50d6d99af6a1af0fd23cc6d64fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.7"
+      "percent": "25.8"
     },
     "NoChillDownTheSpine": {
       "name": "No chill down the spine",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/ddd52c5781f65ebdd7bfad840edccc1cb827e53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "PerformanceOfALifetime": {
       "name": "Performance of a Lifetime!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/2413bf28416a42cf2a0ed1f58fbfdf277ec6edba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "SomeFightsAreWon": {
       "name": "Some fights are won face-to-face. This isn't one of them.",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/b2ee22d0be21c34d266c0b8676276a7ef42558b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.5"
+      "percent": "32.7"
     },
     "SurgeOfSlaughter": {
       "name": "Surge of Slaughter",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/1d4fd4dd3807bf9ed0681231ef663fbf279f0684.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "TimeStop": {
       "name": "Time Stop",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/06736aa3a358998d024f554ece1fd0a6600eb698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "Vengeance": {
       "name": "Vengeance",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3124340/980ffc48ce3721a156480d63d071ae537180668e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.2"
     },
     "WhatDoesNotKillYou": {
       "name": "What doesn't kill you",
