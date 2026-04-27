@@ -64,8 +64,8 @@
     "earned_time": 1777242510
   },
   "trophy_016": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1777318866
   },
   "trophy_017": {
     "earned": true,
@@ -217,7 +217,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 200,
-    "progress": 184
+    "progress": 186
   },
   "trophy_052": {
     "earned": false,
