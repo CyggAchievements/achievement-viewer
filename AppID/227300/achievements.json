@@ -1,11 +1,51 @@
 {
     "5_jobs_in_a_row": {
         "earned": true,
-        "earned_time": 1478519940
+        "earned_time": 1692931849
     },
     "999_km_with_each_brand": {
         "earned": true,
-        "earned_time": 1479503640
+        "earned_time": 1707877962
+    },
+    "aca_book3": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "aca_consecutive": {
+        "earned": true,
+        "earned_time": 1735591580
+    },
+    "aca_first": {
+        "earned": true,
+        "earned_time": 1735433119
+    },
+    "aca_interior": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "aca_manual_transmission": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "aca_no_forward": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "aca_pass_conditions": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "aca_stars": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "aca_stars_consecutive": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "aca_truck_driving": {
+        "earned": false,
+        "earned_time": 0
     },
     "ba_concrete": {
         "earned": false,
@@ -31,9 +71,57 @@
         "earned": false,
         "earned_time": 0
     },
+    "be_black_sea": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "be_blke_ferry": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "be_border_crossings": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "be_express": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "be_istanbul_jobs": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "be_landmarks": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "be_visit_cities": {
+        "earned": false,
+        "earned_time": 0
+    },
     "buy_truck_online": {
         "earned": true,
-        "earned_time": 1479051840
+        "earned_time": 1703957583
+    },
+    "bw_coastline": {
+        "earned": true,
+        "earned_time": 1708390121
+    },
+    "bw_cutscenes": {
+        "earned": true,
+        "earned_time": 1754411453
+    },
+    "bw_ore_caravans": {
+        "earned": true,
+        "earned_time": 1735920606
+    },
+    "bw_pristina_bijelo_polje": {
+        "earned": true,
+        "earned_time": 1704034369
+    },
+    "bw_visit_cities": {
+        "earned": true,
+        "earned_time": 1735428734
     },
     "daily_profit": {
         "earned": false,
@@ -41,19 +129,19 @@
     },
     "discover_all_agencies": {
         "earned": true,
-        "earned_time": 1762696230
+        "earned_time": 1762699829
     },
     "fr_airports": {
         "earned": true,
-        "earned_time": 1762787735
+        "earned_time": 1762791335
     },
     "fr_landmarks": {
         "earned": true,
-        "earned_time": 1762885002
+        "earned_time": 1762888602
     },
     "fr_nucplants": {
         "earned": true,
-        "earned_time": 1762792917
+        "earned_time": 1762796516
     },
     "fr_truckstop": {
         "earned": false,
@@ -61,15 +149,39 @@
     },
     "fr_visit_cities": {
         "earned": true,
-        "earned_time": 1762723704
+        "earned_time": 1762727303
+    },
+    "fr_visit_corsica": {
+        "earned": true,
+        "earned_time": 1762717348
+    },
+    "garages_in_hq_country": {
+        "earned": true,
+        "earned_time": 1763324528
     },
     "garage_in_every_city": {
         "earned": false,
         "earned_time": 0
     },
-    "garages_in_hq_country": {
+    "gr_cutscenes": {
         "earned": true,
-        "earned_time": 1763320929
+        "earned_time": 1735684343
+    },
+    "gr_hotels": {
+        "earned": true,
+        "earned_time": 1735898226
+    },
+    "gr_marble": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "gr_olive": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "gr_visit_cities": {
+        "earned": true,
+        "earned_time": 1735592872
     },
     "hc_1000xps": {
         "earned": false,
@@ -85,9 +197,33 @@
     },
     "hc_firstjob": {
         "earned": true,
-        "earned_time": 1694954225
+        "earned_time": 1694961425
     },
     "hc_threeperf": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ib_a_coruna": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ib_container_ports": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ib_cutscenes": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ib_shipyards": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ib_solar_power_plants": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ib_visit_cities": {
         "earned": false,
         "earned_time": 0
     },
@@ -97,47 +233,27 @@
     },
     "it_quarry": {
         "earned": true,
-        "earned_time": 1736287775
+        "earned_time": 1736291297
     },
     "it_roads_to_rome": {
         "earned": true,
-        "earned_time": 1763302320
+        "earned_time": 1763305919
     },
     "it_shipyards": {
         "earned": true,
-        "earned_time": 1736294575
+        "earned_time": 1736298174
     },
     "it_visit_cities": {
         "earned": true,
-        "earned_time": 1761670894
+        "earned_time": 1754411453
     },
     "it_visit_sardinia": {
         "earned": true,
-        "earned_time": 1694317849
+        "earned_time": 1694325049
     },
     "it_volcanoes": {
         "earned": true,
-        "earned_time": 1762889838
-    },
-    "job_15_companies": {
-        "earned": true,
-        "earned_time": 1478815560
-    },
-    "job_2000_km": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "job_all_trailer_types": {
-        "earned": true,
-        "earned_time": 1478728440
-    },
-    "job_no_ferry": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "job_urgent": {
-        "earned": true,
-        "earned_time": 1479309480
+        "earned_time": 1762893437
     },
     "jobs_20k_xp": {
         "earned": false,
@@ -145,7 +261,27 @@
     },
     "jobs_30_cargo": {
         "earned": true,
-        "earned_time": 1479300120
+        "earned_time": 1703623043
+    },
+    "job_15_companies": {
+        "earned": true,
+        "earned_time": 1694793652
+    },
+    "job_2000_km": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "job_all_trailer_types": {
+        "earned": true,
+        "earned_time": 1694714385
+    },
+    "job_no_ferry": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "job_urgent": {
+        "earned": false,
+        "earned_time": 0
     },
     "large_garage_productivity": {
         "earned": false,
@@ -157,7 +293,7 @@
     },
     "map_discover_60": {
         "earned": true,
-        "earned_time": 1762696230
+        "earned_time": 1762699830
     },
     "maxed_male_female": {
         "earned": false,
@@ -165,27 +301,43 @@
     },
     "metallic_multi_color_paint": {
         "earned": true,
-        "earned_time": 1479667860
+        "earned_time": 1763304936
+    },
+    "pc_cutscenes": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pc_polar_circle": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pc_salm_fillet": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "pc_visit_cities": {
+        "earned": true,
+        "earned_time": 1765128567
     },
     "perfect_delivery": {
-        "earned": true,
-        "earned_time": 1479334920
+        "earned": false,
+        "earned_time": 0
     },
     "productivity_all_garages": {
         "earned": false,
         "earned_time": 0
     },
     "quick_travel_to_hq": {
-        "earned": true,
-        "earned_time": 1479052500
+        "earned": false,
+        "earned_time": 0
     },
     "sc_container_ports": {
-        "earned": true,
-        "earned_time": 1480700160
+        "earned": false,
+        "earned_time": 0
     },
     "sc_cows_to_farm": {
-        "earned": true,
-        "earned_time": 1480012680
+        "earned": false,
+        "earned_time": 0
     },
     "sc_deliver_marinas": {
         "earned": false,
@@ -193,23 +345,23 @@
     },
     "sc_oresund_bridge": {
         "earned": true,
-        "earned_time": 1478787420
+        "earned_time": 1736123923
     },
     "sc_quarries_cargo": {
         "earned": true,
-        "earned_time": 1736204973
+        "earned_time": 1736208572
     },
     "sc_scania_cargo": {
         "earned": true,
-        "earned_time": 1736283044
+        "earned_time": 1736286643
     },
     "sc_visit_cities": {
         "earned": true,
-        "earned_time": 1736191667
+        "earned_time": 1736195266
     },
     "sc_volvo_cargo": {
-        "earned": true,
-        "earned_time": 1479771120
+        "earned": false,
+        "earned_time": 0
     },
     "st_all_cargos": {
         "earned": false,
@@ -217,7 +369,7 @@
     },
     "st_all_routes": {
         "earned": true,
-        "earned_time": 1707753535
+        "earned_time": 1707757135
     },
     "st_cat_785c": {
         "earned": false,
@@ -225,7 +377,7 @@
     },
     "st_first_cargo": {
         "earned": true,
-        "earned_time": 1692914971
+        "earned_time": 1692922171
     },
     "st_mass": {
         "earned": false,
@@ -243,28 +395,32 @@
         "earned": false,
         "earned_time": 0
     },
+    "unload_difficulty": {
+        "earned": true,
+        "earned_time": 1694972420
+    },
     "use_all_ports": {
         "earned": true,
-        "earned_time": 1762721317
+        "earned_time": 1762724916
     },
     "use_automatic_parking": {
         "earned": true,
-        "earned_time": 1478636280
+        "earned_time": 1694625660
     },
     "use_boat": {
         "earned": true,
-        "earned_time": 1478519220
+        "earned_time": 1692837756
     },
     "use_gas_station": {
         "earned": true,
-        "earned_time": 1478470260
+        "earned_time": 1692837537
     },
     "use_rest_stop": {
         "earned": true,
-        "earned_time": 1478464860
+        "earned_time": 1692922764
     },
     "use_train": {
-        "earned": true,
-        "earned_time": 1479137940
+        "earned": false,
+        "earned_time": 0
     }
 }

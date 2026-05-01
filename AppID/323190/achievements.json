@@ -1,11 +1,91 @@
 {
+    "Builders: A for Effort": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Arise Ye Workers": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Before Christmass": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Bonus Pater Familias": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Builder": {
+        "earned": true,
+        "earned_time": 1710088000
+    },
+    "Builders: Ducks in a Row": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Emission reduction": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Fisher King": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Iron man (The Last Autumn)": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: It was me": {
+        "earned": true,
+        "earned_time": 1710084691
+    },
+    "Builders: Messrs Gabriel": {
+        "earned": true,
+        "earned_time": 1710083098
+    },
+    "Builders: No Crunch": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Not great, not terrible": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: One More Day Syndrome": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Perfectionist": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Survivor mode": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Watchtower": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Waterfront": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Builders: Weathering the Storm": {
+        "earned": true,
+        "earned_time": 1710423721
+    },
+    "Builders: Winter Ready": {
+        "earned": true,
+        "earned_time": 1710423722
+    },
     "Economy: Advanced designs": {
         "earned": true,
-        "earned_time": 1710419989
+        "earned_time": 1710423589
     },
     "Economy: Autonomous city": {
         "earned": true,
-        "earned_time": 1710425355
+        "earned_time": 1710428955
     },
     "Economy: Better than London": {
         "earned": false,
@@ -13,7 +93,7 @@
     },
     "Economy: Built to serve": {
         "earned": true,
-        "earned_time": 1710019126
+        "earned_time": 1710022726
     },
     "Economy: Carnivore": {
         "earned": false,
@@ -33,27 +113,27 @@
     },
     "Economy: City of steam": {
         "earned": true,
-        "earned_time": 1710425355
+        "earned_time": 1710428955
     },
     "Economy: Expats": {
         "earned": true,
-        "earned_time": 1710035607
+        "earned_time": 1710039207
     },
     "Economy: Holy heal": {
         "earned": true,
-        "earned_time": 1710104742
+        "earned_time": 1710108342
     },
     "Economy: Hyperefficient": {
         "earned": true,
-        "earned_time": 1710078307
+        "earned_time": 1710081907
     },
     "Economy: Oxbridge": {
         "earned": true,
-        "earned_time": 1710021263
+        "earned_time": 1710024863
     },
     "Economy: Power overwhelming": {
         "earned": true,
-        "earned_time": 1710021918
+        "earned_time": 1710025518
     },
     "Economy: Sattelites": {
         "earned": false,
@@ -61,7 +141,7 @@
     },
     "Economy: Summoning Shai Hulud": {
         "earned": true,
-        "earned_time": 1710195187
+        "earned_time": 1710198787
     },
     "Economy: Unqualified labor": {
         "earned": false,
@@ -81,7 +161,7 @@
     },
     "Endless: A Tomb for Memories": {
         "earned": true,
-        "earned_time": 1710421160
+        "earned_time": 1710424760
     },
     "Endless: Backup Plan": {
         "earned": false,
@@ -91,13 +171,25 @@
         "earned": false,
         "earned_time": 0
     },
+    "Endless: Clever Negotiator": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Endless: Endless Slave Driver": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Endless: Endless Social Activist": {
+        "earned": false,
+        "earned_time": 0
+    },
     "Endless: Full House": {
         "earned": false,
         "earned_time": 0
     },
     "Endless: Hi Marek": {
         "earned": true,
-        "earned_time": 1710422923
+        "earned_time": 1710426523
     },
     "Endless: Hyde Park Corner": {
         "earned": false,
@@ -105,7 +197,7 @@
     },
     "Endless: Let There Be Light": {
         "earned": true,
-        "earned_time": 1710420394
+        "earned_time": 1710423994
     },
     "Endless: Marathon Extreme": {
         "earned": false,
@@ -169,11 +261,11 @@
     },
     "New Home: Leader": {
         "earned": true,
-        "earned_time": 1710025740
+        "earned_time": 1710029340
     },
     "New Home: Lost souls": {
         "earned": true,
-        "earned_time": 1710019710
+        "earned_time": 1710023310
     },
     "New Home: My turn to speak": {
         "earned": false,
@@ -197,7 +289,75 @@
     },
     "New Home: United": {
         "earned": true,
-        "earned_time": 1710018578
+        "earned_time": 1710022178
+    },
+    "Reconquest: All Your Base Are Connect To Us": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: Bald Mountain": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: First Steps": {
+        "earned": true,
+        "earned_time": 1710208655
+    },
+    "Reconquest: Frostland Explorer": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: I Feel Lucky": {
+        "earned": true,
+        "earned_time": 1710208655
+    },
+    "Reconquest: Iron Man (On the Edge)": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: On the Edge Survivor": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: Slave Driver": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: Social Activist": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: The Babysitter": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: The Contractor": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: The Defender of the Oppressed": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: The Gardener": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: This is New London, Over": {
+        "earned": true,
+        "earned_time": 1710201078
+    },
+    "Reconquest: Unforgiven": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: We are In This Together": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "Reconquest: You Had To Do It": {
+        "earned": false,
+        "earned_time": 0
     },
     "Refugee: Iron man (Refugees)": {
         "earned": false,
@@ -205,11 +365,11 @@
     },
     "Refugee: Refugee": {
         "earned": true,
-        "earned_time": 1710113462
+        "earned_time": 1710117062
     },
     "Refugee: Search and rescue": {
         "earned": true,
-        "earned_time": 1710111286
+        "earned_time": 1710114886
     },
     "Refugee: The Union": {
         "earned": false,
@@ -217,7 +377,7 @@
     },
     "Refugee: Uknown Ship": {
         "earned": true,
-        "earned_time": 1710111286
+        "earned_time": 1710114886
     },
     "Refugees: Survivor mode": {
         "earned": false,
@@ -229,35 +389,35 @@
     },
     "Society: Bread and games": {
         "earned": true,
-        "earned_time": 1710024199
+        "earned_time": 1710027799
     },
     "Society: Consolation prize": {
         "earned": true,
-        "earned_time": 1710004095
+        "earned_time": 1710007695
     },
     "Society: Once more into the breach": {
         "earned": true,
-        "earned_time": 1710018331
+        "earned_time": 1710021931
     },
     "Society: Politician": {
         "earned": true,
-        "earned_time": 1710180594
+        "earned_time": 1710184194
     },
     "Society: Promised land": {
         "earned": true,
-        "earned_time": 1710018331
+        "earned_time": 1710021931
     },
     "Society: The scientific method": {
         "earned": true,
-        "earned_time": 1710091960
+        "earned_time": 1710095560
     },
     "Society: The scientific method, vol 2": {
         "earned": true,
-        "earned_time": 1710005357
+        "earned_time": 1710008957
     },
     "Tech Haven: Everybody lived for once": {
         "earned": true,
-        "earned_time": 1710105086
+        "earned_time": 1710108686
     },
     "Tech Haven: Iron man (Tech Haven)": {
         "earned": false,
@@ -265,7 +425,7 @@
     },
     "Tech Haven: Preserver": {
         "earned": true,
-        "earned_time": 1710104743
+        "earned_time": 1710108343
     },
     "Tech Haven: Sprinter": {
         "earned": false,
@@ -277,7 +437,7 @@
     },
     "Tech Haven: Technocrat": {
         "earned": true,
-        "earned_time": 1710104743
+        "earned_time": 1710108343
     },
     "Winterhome: All children on board": {
         "earned": false,
@@ -297,6 +457,6 @@
     },
     "Winterhome: Winterhome": {
         "earned": true,
-        "earned_time": 1710195396
+        "earned_time": 1710198996
     }
 }
