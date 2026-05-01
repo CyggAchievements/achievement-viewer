@@ -1,0 +1,334 @@
+{
+    "10000SHOTS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "1000SHOTS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "100SHOTS_ACHIEVEMENT": {
+        "earned": true,
+        "earned_time": 1777668601
+    },
+    "ALBATROSS_10_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ALBATROSS_1_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ANCIENTFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ANCIENTFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ANCIENTFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ANCIENTPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BIRDIES_10_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOUNCYCASTLEFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOUNCYCASTLEFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOUNCYCASTLEFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "BOUNCYCASTLEPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CANDYLANDFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CANDYLANDFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CANDYLANDFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CANDYLANDPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CORRUPTEDFORESTFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CORRUPTEDFORESTFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CORRUPTEDFORESTFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "CORRUPTEDFORESTPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "DEEPFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "DEEPFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "DEEPFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "DEEPPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "EATENBYGINGY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ESCAPISTSFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ESCAPISTSFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ESCAPISTSFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "ESCAPISTSPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FORESTFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FORESTFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "FORESTFULLGAME_ACHIEVEMENT": {
+        "earned": true,
+        "earned_time": 1777667956
+    },
+    "FORESTPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "HAUNTEDFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "HAUNTEDFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "HAUNTEDFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "HAUNTEDPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "HOLEINONE_ACHIEVEMENT": {
+        "earned": true,
+        "earned_time": 1777666983
+    },
+    "MAXSHOTSREACHED_1_ACHIEVEMENT": {
+        "earned": true,
+        "earned_time": 1777669811
+    },
+    "MULTIPLAYERGAME_1_ACHIEVEMENT": {
+        "earned": true,
+        "earned_time": 1777667956
+    },
+    "MUSEUMFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "MUSEUMFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "MUSEUMFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "MUSEUMPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OASISFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OASISFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OASISFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OASISPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OLYMPUSODYSSEYFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OLYMPUSODYSSEYFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OLYMPUSODYSSEYFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OLYMPUSODYSSEYPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OUTOFBOUNDS_1_ACHIEVEMENT": {
+        "earned": true,
+        "earned_time": 1777667105
+    },
+    "OUTOFBOUNDS_50_ACHIEVEMENT": {
+        "earned": true,
+        "earned_time": 1777670312
+    },
+    "OUTOFTIME_1_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "OUTOFTIME_50_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PAR_50_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PEACEFULPINESFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PEACEFULPINESFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PEACEFULPINESFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PEACEFULPINESPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PIRATEFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PIRATEFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PIRATEFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "PIRATEPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SPACEFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SPACEFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SPACEFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "SPACEPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "TWILIGHTFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "TWILIGHTFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "TWILIGHTFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "TWILIGHTPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "VOLCANOFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "VOLCANOFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "VOLCANOFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "VOLCANOPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "WORMSFULLGAMEHOCKEY_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "WORMSFULLGAMEHOOPS_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "WORMSFULLGAME_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    },
+    "WORMSPAR_ACHIEVEMENT": {
+        "earned": false,
+        "earned_time": 0
+    }
+}
