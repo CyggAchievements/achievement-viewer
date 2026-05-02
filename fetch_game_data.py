@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import subprocess
 import re
 import asyncio
+from playwright.async_api import TimeoutError as PlaywrightTimeoutError
 from playwright.async_api import async_playwright
 import hashlib
 
@@ -15,6 +16,16 @@ import hashlib
 STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
 EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
 TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")
+WARNED_MISSING_STEAM_API_KEY = False
+
+REQUEST_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json,text/xml,application/xml,text/html;q=0.9,*/*;q=0.8",
+}
 
 # NEW: Detect GitHub Pages URL for fallback icon
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")  # Format: "owner/repo"
@@ -82,16 +93,35 @@ async def fetch_steamhunters_achievements(appid):
         )
         page = await context.new_page()
         try:
-            await page.goto(url, timeout=15000)
-            await page.wait_for_function(
-                """() => Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh'));"""
+            await page.goto(url, wait_until="domcontentloaded", timeout=15000)
+            try:
+                await page.wait_for_function(
+                    """() => window.sh?.model || Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh') || s.textContent.includes('listData'));""",
+                    timeout=5000,
+                )
+            except PlaywrightTimeoutError:
+                print("    ! SteamHunters data model not found, skipping groups")
+                return []
+
+            sh_model = await page.evaluate(
+                """() => {
+                    if (window.sh?.model) return window.sh.model;
+                    const scripts = Array.from(document.querySelectorAll('script'));
+                    const target = scripts.find(s => s.textContent.includes('var sh') || s.textContent.includes('listData'));
+                    if (!target) return {};
+                    try {
+                        eval(target.textContent);
+                        if (window.sh?.model) return window.sh.model;
+                        if (typeof sh !== 'undefined' && sh?.model) return sh.model;
+                    } catch (e) {
+                        return {};
+                    }
+                    return {};
+                }"""
             )
-            await page.evaluate(
-                """() => { const scripts = Array.from(document.querySelectorAll('script')); const target = scripts.find(s => s.textContent.includes('var sh')); eval(target.textContent); }"""
-            )
-            
-            # Fetch the entire data model
-            sh_model = await page.evaluate("""() => sh?.model || {}""")
+            if not sh_model:
+                print("    ! SteamHunters returned no usable achievement model")
+                return []
             
             # 1. Build a lookup map for Update IDs -> Group Names
             updates_map = {}
@@ -326,7 +356,9 @@ def scrape_hidden_achievements(appid, steam_id, achievement_names_map):
 def fetch_steam_store_info(appid):
     try:
         response = requests.get(
-            f"https://store.steampowered.com/api/appdetails?appids={appid}", timeout=10
+            f"https://store.steampowered.com/api/appdetails?appids={appid}",
+            headers=REQUEST_HEADERS,
+            timeout=10,
         )
         if response.ok:
             data = response.json().get(appid, {})
@@ -340,14 +372,99 @@ def fetch_steam_store_info(appid):
     return {"name": f"Game {appid}", "icon": ""}
 
 
+def fetch_steam_schema_achievements(appid):
+    global WARNED_MISSING_STEAM_API_KEY
+
+    if not STEAM_API_KEY and not WARNED_MISSING_STEAM_API_KEY:
+        print(
+            "  ! STEAM_API_KEY is empty; Steam schema may be unavailable. "
+            "Add it as a GitHub Actions secret for reliable achievement data."
+        )
+        WARNED_MISSING_STEAM_API_KEY = True
+    if not STEAM_API_KEY:
+        return []
+
+    params = {"appid": appid, "l": "english"}
+    params["key"] = STEAM_API_KEY
+
+    try:
+        response = requests.get(
+            "https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/",
+            params=params,
+            headers=REQUEST_HEADERS,
+            timeout=10,
+        )
+        if response.status_code in (401, 403):
+            print(f"  ! Steam schema authentication failed for {appid}")
+            return []
+        if not response.ok:
+            print(f"  ! Steam schema returned HTTP {response.status_code} for {appid}")
+            return []
+
+        try:
+            data = response.json()
+        except ValueError:
+            print(f"  ! Steam schema returned non-JSON response for {appid}")
+            return []
+
+        achievements = (
+            data.get("game", {})
+            .get("availableGameStats", {})
+            .get("achievements", [])
+        )
+        if not isinstance(achievements, list):
+            return []
+        return achievements
+    except Exception as e:
+        print(f"  ! Error fetching Steam schema for {appid}: {e}")
+        return []
+
+
+def existing_info_to_achievements(existing_info):
+    achievements = existing_info.get("achievements", {})
+    if not isinstance(achievements, dict):
+        return []
+
+    converted = []
+    for api_name, data in achievements.items():
+        if not isinstance(data, dict):
+            continue
+        converted.append(
+            {
+                "name": api_name,
+                "default_value": 0,
+                "displayName": data.get("name", api_name),
+                "hidden": 1 if data.get("hidden") else 0,
+                "description": data.get("description", ""),
+                "icon": data.get("icon", ""),
+                "icongray": data.get("icongray", ""),
+                "group": data.get("group", "Base Game"),
+            }
+        )
+    return converted
+
+
 def fetch_community_achievements(appid):
     achievements = {}
     try:
         response = requests.get(
-            f"https://steamcommunity.com/stats/{appid}/achievements/?xml=1", timeout=10
+            f"https://steamcommunity.com/stats/{appid}/achievements/?xml=1",
+            headers=REQUEST_HEADERS,
+            timeout=10,
         )
         if response.ok:
-            root = ET.fromstring(response.content)
+            content = response.content.lstrip()
+            content_type = response.headers.get("content-type", "").lower()
+            if not content.startswith(b"<") or (
+                "html" in content_type and b"<response" not in content[:200].lower()
+            ):
+                print(f"  ! Steam Community returned non-XML data for {appid}")
+                return achievements
+            if content[:200].lower().startswith((b"<!doctype html", b"<html")):
+                print(f"  ! Steam Community returned HTML instead of XML for {appid}")
+                return achievements
+
+            root = ET.fromstring(content)
             for ach in root.findall(".//achievement"):
                 api_name_elem = ach.find("apiname")
                 if api_name_elem is not None and api_name_elem.text:
@@ -371,64 +488,61 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
     achievement_names_map = {}
     achievements_info = {}
 
-    # ALWAYS fetch from SteamHunters to get Group Data (if possible)
-    # Even if we have an API key, the API key doesn't give us Groups/DLCs
+    achievements = fetch_steam_schema_achievements(appid)
+    if achievements:
+        print(f"  OK Got {len(achievements)} achievements from Steam schema")
+    else:
+        print("  ! Steam schema returned 0 achievements")
+
     steamhunters_data = {}
     try:
-        print("  → Fetching extra data (groups) from SteamHunters...")
+        print("  -> Fetching extra data (groups) from SteamHunters...")
         sh_data = asyncio.run(fetch_steamhunters_achievements(appid))
         for item in sh_data:
-            steamhunters_data[item["name"]] = item
+            if item.get("name"):
+                steamhunters_data[item["name"]] = item
     except Exception as e:
-        print(f"  ⚠ Could not fetch SteamHunters data: {e}")
+        print(f"  ! Could not fetch SteamHunters data: {e}")
+        sh_data = []
+
+    if not achievements and sh_data:
+        achievements = sh_data
+        print(f"  OK Using {len(achievements)} achievements from SteamHunters")
+
+    if not achievements:
+        achievements = existing_info_to_achievements(existing_info)
+        if achievements:
+            print(
+                f"  ! External sources failed; preserving {len(achievements)} existing achievements"
+            )
 
     try:
-        # 1. Prefer Steam API if Key exists
-        if STEAM_API_KEY:
-            response = requests.get(
-                f"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}",
-                timeout=10,
-            )
-            if response.ok:
-                achievements = (
-                    response.json()
-                    .get("game", {})
-                    .get("availableGameStats", {})
-                    .get("achievements", [])
-                )
+        for ach in achievements:
+            if not ach.get("name"):
+                continue
+
+            if ach.get("icon"):
+                if not ach["icon"].startswith("http"):
+                    ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
             else:
-                # Fallback to SH data if API fails
-                achievements = sh_data if 'sh_data' in locals() else []
-        else:
-            # No API Key -> Use SteamHunters data
-            achievements = sh_data if 'sh_data' in locals() else []
-        
-        # Fix icons for ALL achievements (both from API and SteamHunters)
-        try:
-            for ach in achievements:
-                # Safely handle icon
-                if ach.get("icon"):
-                    if not ach["icon"].startswith("http"):
-                        ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
-                else:
-                    ach["icon"] = FALLBACK_ICON_URL
-        
-                # Safely handle icongray
-                if ach.get("icongray"):
-                    if not ach["icongray"].startswith("http"):
-                        ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
-                else:
-                    ach["icongray"] = FALLBACK_ICON_URL
-        except Exception as e:
-            print(f"  ⚠ Error fixing icon URLs: {e}")
+                ach["icon"] = FALLBACK_ICON_URL
+
+            if ach.get("icongray"):
+                if not ach["icongray"].startswith("http"):
+                    ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
+            else:
+                ach["icongray"] = FALLBACK_ICON_URL
 
         for ach in achievements:
-            api_name = ach["name"]
-            is_hidden = ach.get("hidden", 0) == 1
-            display_name = ach.get("displayName", ach["name"])
+            api_name = ach.get("name")
+            if not api_name:
+                continue
+
+            hidden_value = ach.get("hidden", 0)
+            is_hidden = hidden_value in (1, "1", True)
+            display_name = ach.get("displayName") or ach.get("display_name") or api_name
             achievement_names_map[display_name.lower()] = api_name
 
-            # Base info
             achievements_info[api_name] = {
                 "name": display_name,
                 "description": ach.get("description", ""),
@@ -437,22 +551,20 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                 "hidden": is_hidden,
             }
 
-            # Merge XML data if exists (often better descriptions)
             if api_name in achievements_from_xml:
-                # Keep XML description if API has none
                 if not achievements_info[api_name]["description"]:
-                    achievements_info[api_name]["description"] = achievements_from_xml[api_name]["description"]
-                
-                # Keep hidden status from API/SH though
+                    achievements_info[api_name]["description"] = achievements_from_xml[
+                        api_name
+                    ]["description"]
                 achievements_info[api_name]["hidden"] = is_hidden
 
-            # MERGE GROUP DATA FROM STEAMHUNTERS
             if api_name in steamhunters_data:
-                achievements_info[api_name]["group"] = steamhunters_data[api_name].get("group", "Base Game")
+                achievements_info[api_name]["group"] = steamhunters_data[api_name].get(
+                    "group", "Base Game"
+                )
             else:
-                achievements_info[api_name]["group"] = "Base Game"
+                achievements_info[api_name]["group"] = ach.get("group", "Base Game")
 
-            # Fallback for description from existing file
             if not achievements_info[api_name]["description"]:
                 old_desc = (
                     existing_info.get("achievements", {})
@@ -461,12 +573,12 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                 )
                 if old_desc:
                     achievements_info[api_name]["description"] = old_desc
-            
+
             if is_hidden and not achievements_info[api_name]["description"]:
                 hidden_achievements.append(api_name)
 
     except Exception as e:
-        print(f"  ✗ Error fetching schema achievements for {appid}: {e}")
+        print(f"  ! Error building achievements for {appid}: {e}")
 
     return achievements_info, hidden_achievements, achievement_names_map
 
