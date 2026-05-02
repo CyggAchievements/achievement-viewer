@@ -12,6 +12,7 @@ import {
 // Global search state (Default is now 'name')
 let currentSearchTerm = '';
 let currentSearchType = 'name'; 
+const DEFAULT_GRID_SORT_MODE = 'recent';
 
 // Search handlers
 window.setSearchTerm = function(term) {
@@ -66,7 +67,8 @@ export function displayGames() {
     }
 
     // Get filtered games first
-    let sortedGames = sortGames(window.gridSortMode || 'percentage');
+    window.gridSortMode = window.gridSortMode || DEFAULT_GRID_SORT_MODE;
+    let sortedGames = sortGames(window.gridSortMode);
     let filteredGames = applySearchFilter(sortedGames);
 
     // Calculate totals based on filtered games
