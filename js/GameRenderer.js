@@ -12,6 +12,7 @@ import {
 // UPDATED: Global search state (Default is now 'name')
 let currentSearchTerm = '';
 let currentSearchType = 'name'; 
+const DEFAULT_GRID_SORT_MODE = 'recent';
 
 // UPDATED: Search handlers
 window.setSearchTerm = function(term) {
@@ -173,7 +174,8 @@ function renderGamesGrid(resultsDiv) {
 
     let html = '<div class="games-grid" id="games-grid">';
 
-    let sortedGames = sortGames(window.gridSortMode || 'percentage');
+    window.gridSortMode = window.gridSortMode || DEFAULT_GRID_SORT_MODE;
+    let sortedGames = sortGames(window.gridSortMode);
 
     // NEW: Apply Search Filter
     if (currentSearchTerm) {
