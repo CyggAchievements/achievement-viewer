@@ -619,19 +619,43 @@ for appid in appids:
                 break
             time.sleep(2)
 
-    percent_url = f"https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v0002/?gameid={appid}"
-    percent_response = requests.get(percent_url, timeout=10)
+    # ✅ FIXED: Wrapped percentage fetching in try-except to handle timeouts gracefully
+    # Also preserves existing percentages if fetch fails
+    try:
+        percent_url = f"https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v0002/?gameid={appid}"
+        percent_response = requests.get(percent_url, timeout=10)
 
-    if percent_response.ok:
-        percent_data = percent_response.json()
-        percentages = percent_data.get("achievementpercentages", {}).get("achievements", [])
+        if percent_response.ok:
+            percent_data = percent_response.json()
+            percentages = percent_data.get("achievementpercentages", {}).get("achievements", [])
 
-        for ach_percent in percentages:
-            ach_name = ach_percent.get("name")
-            if ach_name in game_info["achievements"]:
-                game_info["achievements"][ach_name]["percent"] = (ach_percent.get("percent", 0))
+            for ach_percent in percentages:
+                ach_name = ach_percent.get("name")
+                if ach_name in game_info["achievements"]:
+                    game_info["achievements"][ach_name]["percent"] = (ach_percent.get("percent", 0))
 
-        print(f"  ✓ Got percentages")
+            print(f"  ✓ Got percentages")
+        else:
+            print(f"  ⚠ Could not fetch percentages (HTTP {percent_response.status_code}), preserving existing data")
+            # Preserve existing percentages
+            for api_name in game_info["achievements"]:
+                old_percent = existing_info.get("achievements", {}).get(api_name, {}).get("percent")
+                if old_percent is not None and "percent" not in game_info["achievements"][api_name]:
+                    game_info["achievements"][api_name]["percent"] = old_percent
+    except requests.exceptions.Timeout:
+        print(f"  ⚠ Timeout fetching percentages (Steam API slow), preserving existing data")
+        # Preserve existing percentages on timeout
+        for api_name in game_info["achievements"]:
+            old_percent = existing_info.get("achievements", {}).get(api_name, {}).get("percent")
+            if old_percent is not None and "percent" not in game_info["achievements"][api_name]:
+                game_info["achievements"][api_name]["percent"] = old_percent
+    except Exception as e:
+        print(f"  ⚠ Error fetching percentages: {e}, preserving existing data")
+        # Preserve existing percentages on error
+        for api_name in game_info["achievements"]:
+            old_percent = existing_info.get("achievements", {}).get(api_name, {}).get("percent")
+            if old_percent is not None and "percent" not in game_info["achievements"][api_name]:
+                game_info["achievements"][api_name]["percent"] = old_percent
 
     missing_file_path = base_path / "missing hidden achievements"
     still_missing_api_names = [
