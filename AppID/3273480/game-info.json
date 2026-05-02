@@ -3,47 +3,65 @@
   "name": "Reach",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3273480/5d88a7d68328ce565dd8b26b8f34119ce1e14c9b/header.jpg?t=1776951265",
   "achievements": {
-    "ACH_AFriendInNeed": {
-      "name": "A Friend in Need",
-      "description": "Help Atlas in the Workshop",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
-      "hidden": true,
+    "ACH_RightBetweenTheEyes": {
+      "name": "Right between the eyes",
+      "description": "Defeat an enemy with a headshot",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "77.9"
     },
-    "ACH_AMatchMadeInHeaven": {
-      "name": "A Match Made In Heaven",
-      "description": "Acquire the Grapple to Shield upgrade",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
-      "hidden": true,
+    "ACH_WilhelminaTell": {
+      "name": "Wilhelmina Tell",
+      "description": "Defeat 20 enemies with headshots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
-    },
-    "ACH_AMonsterFalls": {
-      "name": "A Monster Falls",
-      "description": "Escape the Terracore for the final time",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "11.9"
+      "percent": "42.0"
     },
     "ACH_AllPatchedUp": {
       "name": "All Patched Up!",
       "description": "Use the Injector 30 times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.1"
+    },
+    "ACH_AFriendInNeed": {
+      "name": "A Friend in Need",
+      "description": "Help Atlas in the Workshop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.6"
+    },
+    "ACH_AMatchMadeInHeaven": {
+      "name": "A Match Made In Heaven",
+      "description": "Acquire the Grapple to Shield upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "ACH_AMonsterFalls": {
+      "name": "A Monster Falls",
+      "description": "Escape the Terracore for the final time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.5"
     },
     "ACH_BetweenARockAndAHardPlace": {
       "name": "Between a Rock and a Hard Place",
       "description": "Meet Lithos",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "20.3"
@@ -51,8 +69,8 @@
     "ACH_BirdsEyeView": {
       "name": "Bird's Eye View",
       "description": "Reach the top of the church",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "59.8"
@@ -60,8 +78,8 @@
     "ACH_Bullseye": {
       "name": "Bullseye",
       "description": "Acquire the Bow",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "56.3"
@@ -69,44 +87,44 @@
     "ACH_ChainReaction": {
       "name": "Chain Reaction",
       "description": "Chain the ice effect of a single arrow to 3 enemies.",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "ACH_ChargedUp": {
       "name": "Charged Up",
       "description": "Acquire the Shield Charge upgrade",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "ACH_Collector": {
       "name": "Collector",
       "description": "Find all of the Collectibles",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/d27ffdc7cc3051617ca46ae6af381f02b01f9b44.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/68e7ce5bccdb16ed2323e42c3adf8aa9039b7829.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/d27ffdc7cc3051617ca46ae6af381f02b01f9b44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/68e7ce5bccdb16ed2323e42c3adf8aa9039b7829.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "ACH_EmptyHanded": {
       "name": "Empty Handed",
       "description": "Steal 3 enemy weapons within a single combat encounter",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ACH_EnemyInterrupted": {
       "name": "Enemy Interrupted",
       "description": "Defeat a Shotgunner before it can teleport",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "23.9"
@@ -114,62 +132,80 @@
     "ACH_EnhancedIndividual": {
       "name": "Enhanced Individual",
       "description": "Find one optional upgrade",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "43.7"
+    },
+    "ACH_ExtendedReach": {
+      "name": "Poor, Short, Human Arms",
+      "description": "Acquire the Grappling Drones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.1"
     },
     "ACH_FullyAutomatic": {
       "name": "Fully Automatic",
       "description": "Destroy 3 enemies in under 5 seconds with a pistol",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.7"
-    },
-    "ACH_GoddessOfTheUnderground": {
-      "name": "Goddess of the Underground",
-      "description": "Find all optional upgrades",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/d27ffdc7cc3051617ca46ae6af381f02b01f9b44.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/68e7ce5bccdb16ed2323e42c3adf8aa9039b7829.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "2.8"
     },
+    "ACH_FuseBox": {
+      "name": "You Shall Pass!",
+      "description": "Open the gate to the mines ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "ACH_GoddessOfTheUnderground": {
+      "name": "Goddess of the Underground",
+      "description": "Find all optional upgrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/d27ffdc7cc3051617ca46ae6af381f02b01f9b44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/68e7ce5bccdb16ed2323e42c3adf8aa9039b7829.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
     "ACH_HealthConscious": {
       "name": "Health Conscious",
       "description": "Unlock your first health upgrade",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.0"
     },
     "ACH_HouseImprovement": {
       "name": "House Improvement",
       "description": "Fix an Entrapment Amplifier",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "ACH_Hunted": {
       "name": "Hunted",
       "description": "Escape the Terracore",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.2"
     },
     "ACH_IcedIt": {
       "name": "Iced it!",
       "description": "Kill a frozen Shieldbearer without removing their shield",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "11.4"
@@ -177,8 +213,8 @@
     "ACH_Informed": {
       "name": "Informed",
       "description": "Use 15 lore interactions",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "20.7"
@@ -186,17 +222,17 @@
     "ACH_InvisiblityCloak": {
       "name": "Invisibility Cloak",
       "description": "Perform 10 stealth takedowns",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "ACH_IsItABird": {
       "name": "Is it a Bird?",
       "description": "Grapple onto 5 consecutive bars without holding onto them in between",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "12.4"
@@ -204,8 +240,8 @@
     "ACH_JackOfAllTrades": {
       "name": "Jack of all Trades",
       "description": "Use each of the special arrow types against enemies",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "31.9"
@@ -213,8 +249,8 @@
     "ACH_LightCameraAction": {
       "name": "Lights, Camera, Action!",
       "description": "Finish the shoot",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "69.5"
@@ -222,8 +258,8 @@
     "ACH_LikeNiedeGuidon": {
       "name": "Like Niède Guidon",
       "description": "Discover an ancient civilization",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "53.4"
@@ -231,8 +267,8 @@
     "ACH_Mechanic": {
       "name": "Mechanic",
       "description": "Fix a Generator",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "26.0"
@@ -240,17 +276,17 @@
     "ACH_NeedAnotherShelf": {
       "name": "Need Another Shelf",
       "description": "Find half of the Collectibles",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.8"
     },
     "ACH_OnceUponATime": {
       "name": "Once Upon a Time",
       "description": "Use one lore interaction",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "49.5"
@@ -258,80 +294,53 @@
     "ACH_OutWithABang": {
       "name": "Out With a Bang",
       "description": "Hit at least 3 enemies with 1 explosive arrow",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
-    },
-    "ACH_ExtendedReach": {
-      "name": "Poor, Short, Human Arms",
-      "description": "Acquire the Grappling Drones",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "36.1"
+      "percent": "19.7"
     },
     "ACH_PowerPlay": {
       "name": "Power play",
       "description": "Land 5 consecutive powershot headshots",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "4.2"
     },
-    "ACH_RightBetweenTheEyes": {
-      "name": "Right between the eyes",
-      "description": "Defeat an enemy with a headshot",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "77.9"
-    },
     "ACH_RosaHood": {
       "name": "Rosa Hood",
       "description": "Destroy 3 enemies in under 5 seconds using Standard Arrows",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "30.6"
     },
     "ACH_RudeHealth": {
       "name": "Rude Health",
       "description": "Unlock all health upgrades",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "ACH_RushHour": {
       "name": "Rush Hour",
       "description": "Exit via a Transport Hub",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "24.0"
     },
-    "ACH_sdrawkcaBtIgnioD": {
-      "name": "sdrawkcaB tI gnioD",
-      "description": "Defeat at least 4 shielded enemies before defeating the accompanying Spotter",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "13.5"
-    },
     "ACH_StickyFingers": {
       "name": "Sticky Fingers",
       "description": "Acquire the Mag Gloves",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "23.0"
@@ -339,17 +348,17 @@
     "ACH_StoneCold": {
       "name": "Stone Cold",
       "description": "Defeat Lithos",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "12.1"
     },
     "ACH_Strike": {
       "name": "Strike!",
       "description": "Hit at least 2 enemies with a single shotgun shot",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "6.1"
@@ -357,17 +366,17 @@
     "ACH_StunArtist": {
       "name": "Stun Artist",
       "description": "Finish the game on hard difficulty",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/d27ffdc7cc3051617ca46ae6af381f02b01f9b44.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/68e7ce5bccdb16ed2323e42c3adf8aa9039b7829.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/d27ffdc7cc3051617ca46ae6af381f02b01f9b44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/68e7ce5bccdb16ed2323e42c3adf8aa9039b7829.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "ACH_Stunner": {
       "name": "Stunner",
       "description": "Steal each type of enemy weapon",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "2.4"
@@ -375,8 +384,8 @@
     "ACH_SuperHuman": {
       "name": "Superhuman",
       "description": "Find half the optional upgrades",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "19.0"
@@ -384,8 +393,8 @@
     "ACH_TheFullSet": {
       "name": "The Full Set",
       "description": "Defeat one of each enemy type",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "23.0"
@@ -393,17 +402,17 @@
     "ACH_TheseDoComeOffRight": {
       "name": "These Do Come Off, Right?",
       "description": "Acquire the Gauntlets",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "52.8"
     },
     "ACH_ThisBelongsInAMuseum": {
       "name": "This Belongs in a Museum",
       "description": "Find a Collectible",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "38.9"
@@ -411,8 +420,8 @@
     "ACH_WhatsThatComingOverTheHill": {
       "name": "What's That Coming Over the Hill?",
       "description": "Escape the Terracore... again",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": true,
       "group": "Base Game",
       "percent": "20.1"
@@ -420,29 +429,20 @@
     "ACH_WhatsYoursIsMine": {
       "name": "What's Yours is Mine!",
       "description": "Steal an enemy weapon",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
-    "ACH_WilhelminaTell": {
-      "name": "Wilhelmina Tell",
-      "description": "Defeat 20 enemies with headshots",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
+    "ACH_sdrawkcaBtIgnioD": {
+      "name": "sdrawkcaB tI gnioD",
+      "description": "Defeat at least 4 shielded enemies before defeating the accompanying Spotter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/8cfd5f4810f23c73a7a02bea229f70034445ce3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3273480/a93f69cf77b34c2c4dfb9e749b825b6b288a0b37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
-    },
-    "ACH_FuseBox": {
-      "name": "You Shall Pass!",
-      "description": "Open the gate to the mines ",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/77e4b4ca93656fd17986753e1654c47a9856737d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3273480/09c1e6c1b15263f504a340e6670413de68380981.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "37.0"
+      "percent": "13.6"
     }
   },
   "platform": "Steam",

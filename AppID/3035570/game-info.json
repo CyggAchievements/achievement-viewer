@@ -1,283 +1,490 @@
 {
   "appid": "3035570",
   "name": "Assassin's Creed Mirage",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035570/header.jpg?t=1766087993",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035570/header.jpg?t=1777476848",
   "achievements": {
-    "ACMirage_Ach_49": {
-      "name": "A True Hidden One",
-      "description": "Assassinate 10 guards in a row without triggering open conflict",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/6deffb6258b4213416bb274e02e65b2b2d58c9ac.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/2c8530550fa4b4c0fccb1c3e6103bbdec4bb03fd.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "61.9"
-    },
-    "ACMirage_Ach_28": {
-      "name": "Ambush",
-      "description": "Have 10 guards trigger traps",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/69d7789bf2e929cf6b98fd687dfa4c8abc7fabac.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/0af02aadf05c50a7eaf2d8ad6343f655f96dc541.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "16.9"
-    },
-    "ACMirage_Ach_30": {
-      "name": "Attention Seeker",
-      "description": "Attract 10 guards with noisemakers",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/5e6d3e91f151161e1925b81642487b54c042b3b2.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/69c7082dc236fbd829b9066b7f6b61c995084289.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "15.9"
-    },
-    "ACMirage_Ach_8": {
-      "name": "Bal kullun mumkin",
-      "description": "Discover Basim's past",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/e9eff4bb3fc14114fe2d83c389ffee0817b28ef3.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/3d7292859111bddd071af9c574c4164ce47490ad.jpg",
+    "ACMirage_Ach_1": {
+      "name": "The Master Thief of Anbar",
+      "description": "Complete the Prologue",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/2ee12d6764d2aa0da2124631cbb4f81b225171d0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/21f2cb30aff5da372f4e41e14a1e746b3a744489.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.3"
-    },
-    "ACMirage_Ach_18": {
-      "name": "Bird of Prey",
-      "description": "Tag 100 guards using Enkidu",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f67f1db84990f7699c9e15003a8bd613952a0f1e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/58f5180f40f56da0574062ad22862815b6121660.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "35.6"
-    },
-    "ACMirage_Ach_39": {
-      "name": "Blade in the Crowd",
-      "description": "Assassinate 10 guards while blending with the crowd",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/7322aa08e051c2ffb5211cf83ca437b931e174a3.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/74f89ea89a6433eace2f00973f61c081f2b3b9e6.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "4.6"
-    },
-    "ACMirage_Ach_21": {
-      "name": "Crossing Paths",
-      "description": "Complete a Tale from Baghdad",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ff9982885e8e7c73514d6aee43a5cc96377c39b1.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/af702b240ec0312c62c01540ce13afa89528f92c.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "48.6"
-    },
-    "ACMirage_Ach_33": {
-      "name": "Curio Collector",
-      "description": "Pickpocket all 18 artifacts and bring them to Dervis",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/950ab7926d95c4eed4d3bd37a70e2c2effa5f06f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/926439f4d96795fe4fd4d1d4fb8ae0d02bf5ab87.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "13.0"
-    },
-    "ACMirage_Ach_11": {
-      "name": "Cutting Edge",
-      "description": "Fully upgrade a weapon",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b487e40e9aa0518aa9731817c3e26488b80c5223.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/886de819394563d1d39103854e943103c463a451.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "39.6"
-    },
-    "ACMirage_Ach_35": {
-      "name": "Dawn and Dusk",
-      "description": "Use benches to pass time 5 times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/4976f7313796865beb69750f9e43755cc3b633fe.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c9c90ab054df47dc75116fe6b75eac06cf09b8e8.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "28.0"
-    },
-    "ACMirage_Ach_20": {
-      "name": "Defender of the People",
-      "description": "Complete 10 faction contracts",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/eba5d76fa87269f238d1ef72272fad2789d05734.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/62e2a87d4ea34a93f0ac5a571f829c4c66d1235d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "23.2"
-    },
-    "ACMirage_Ach_25": {
-      "name": "Eagle's Eye",
-      "description": "Kill 75 guards with throwing knives",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/55f154b025463951d693c37fc0b6f01f519f9c05.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/28b0193527b6feff9e3d246088a10fde074f36e8.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "31.0"
-    },
-    "ACMirage_Ach_47": {
-      "name": "Eagle's Will",
-      "description": "Survive 10 minutes in open conflict",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/6ea7ef29a1eaeb295aea619397d0f5a8035d4942.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ea0e0a686899e5ef3da038cb9f65a0e6d10ff316.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "5.5"
-    },
-    "ACMirage_Ach_19": {
-      "name": "Explorer",
-      "description": "Explore all the Baghdad region territories",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b93911f77dd5efcaac2655ee30b7ebe7e2443eae.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/fc3240044c05bd5c33505435c9800eb64822edc2.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "8.6"
-    },
-    "ACMirage_Ach_13": {
-      "name": "Fashion Statement",
-      "description": "Apply dye to an outfit",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f593ba62cf78b4314cd0c3310cf76cbc52ef9dde.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/dc33407fcdaaaebc3d0b4239a8f61a30b2c60037.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "41.2"
-    },
-    "ACMirage_Ach_17": {
-      "name": "Fearless",
-      "description": "Synchronize all Viewpoints in the Baghdad region",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ac765ab66f85ab06b5b4b4aaa4601243b56d979a.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f1ba37c7e834cb6be69005bd3afe93461eebe80c.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "14.4"
-    },
-    "ACMirage_Ach_48": {
-      "name": "Gifted Escapist",
-      "description": "Collapse 20 scaffolding structures",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/d46fe57d7a5dc2ff35e65e9cde55ec7b0570643f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b865f743f8b27073f1407b48747e579a5a618213.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "4.7"
-    },
-    "ACMirage_Ach_61": {
-      "name": "Give it the Slip",
-      "description": "Escape the AlUla prison undetected",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/816207507da3a8231cfb778d30f0fa78099a1c26.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/3d3f624722ef8b365f0ccc25c7b2fbac9b2870a7.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "2.2"
-    },
-    "ACMirage_Ach_26": {
-      "name": "Headhunter",
-      "description": "Headshot 20 guards with throwing knives",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/653727da13257773f7662efa0d33dd5a7d6c6450.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f66982d7e93220dc9a50f3918c1a190255df83e9.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "49.0"
-    },
-    "ACMirage_Ach_34": {
-      "name": "Hoarder",
-      "description": "Save up 2007 dirhams",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ef36eb688e9cd349e173d36b4cb9639022f620cc.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/0be492fb92254d72f41d1db1226060fa23073594.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "28.6"
-    },
-    "ACMirage_Ach_54": {
-      "name": "If I Recall Correctly",
-      "description": "Replay an Animus Sequence",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f0421bcc1f60dd72460176cfd6a1cd882d030ee6.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/140c0b67b38058dba8f017c06c4e00f1d4eb1572.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "6.1"
+      "percent": "84.8"
     },
     "ACMirage_Ach_2": {
       "name": "La shay'a waqi'un mutlaq",
       "description": "Become an Initiate of the Hidden Ones",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/50aa768db2c90ca114cbf557bbbb564d87cb7612.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/09d200aac8436b1d42b540240d9aaa3c982668e1.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/50aa768db2c90ca114cbf557bbbb564d87cb7612.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/09d200aac8436b1d42b540240d9aaa3c982668e1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.3"
+      "percent": "79.4"
     },
-    "ACMirage_Ach_58": {
-      "name": "Like a Local",
-      "description": "Complete all the AlUla territories",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/1b049ec36e880f078ef76b78fb32dd9b057968dd.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f3b6e93a11d9317d3f781d678d8ce576be7a6f5e.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "2.6"
+    "ACMirage_Ach_3": {
+      "name": "The Blood of a Ghoul",
+      "description": "Eliminate Al-Ghul",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/367a7666606d7e0a293a308ff9337d0a9511cbec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/e9eb0ad8fbc2cad2c685c3cf6b2a50ec6b15fcaf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.7"
     },
-    "ACMirage_Ach_51": {
-      "name": "Lost and Found",
-      "description": "Return all stolen goods to Hind",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f7cf6abb7dc980c5b522d68f4eabcd7380977e43.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/55c84dd8e004c79b0abfb47830f9a734be1b6e80.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "2.8"
+    "ACMirage_Ach_4": {
+      "name": "The Blood of a Demon",
+      "description": "Eliminate Al-Rabisu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b310e725fb55ad80ccc479baf44907ad79dcdc7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b9f39cf6b509b1adad86f9e1985995a6cf805367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.8"
     },
-    "ACMirage_Ach_59": {
-      "name": "Make a Break",
-      "description": "Escape the AlUla prison",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/0788e00f8cf18c84eb975009f6006cdbf279b804.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/78830126867715a99b9ad83ac9edc004133db53c.jpg",
+    "ACMirage_Ach_5": {
+      "name": "The Blood of an Enchantress",
+      "description": "Eliminate Al-Pairika",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/7c030a7008fb964715a1c6877d3ba4233089e4ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/c2b0f99081afb149282f2de03eb1b08cdacc09f1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "ACMirage_Ach_6": {
+      "name": "The Blood of a Spymaster",
+      "description": "Eliminate Al-Mardikhwar",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ebe08b4308dcb0bfc1ef8d5d5df15a5bb3c0177a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/cd52b03e921c29ee03a6f18209f3b6db44ce09db.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.9"
+    },
+    "ACMirage_Ach_7": {
+      "name": "The Head of the Snake",
+      "description": "Eliminate the Head of the Order",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/1f41c1244b65ff50cf35eb12d9ad81c63a79b5ad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/99a97e2d3a702e9f14027cefb78f7a238d1c1005.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "ACMirage_Ach_8": {
+      "name": "Bal kullun mumkin",
+      "description": "Discover Basim's past",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/e9eff4bb3fc14114fe2d83c389ffee0817b28ef3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/3d7292859111bddd071af9c574c4164ce47490ad.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "ACMirage_Ach_9": {
+      "name": "Serving the Light",
+      "description": "Reach the maximum Hidden One Rank",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/9604c05277b227282a348fb0537f814f14c5175c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/7f23afbb2dc680fcb4e1fc5dc1033199ee20c8c6.jpg",
       "hidden": false,
-      "group": "Update 1",
-      "percent": "8.8"
+      "group": "Base Game",
+      "percent": "34.2"
+    },
+    "ACMirage_Ach_10": {
+      "name": "Self-Improvement",
+      "description": "Unlock 23 Skills",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/d11889ef382df4cc502b4833fbb2442eda3a1f06.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/efe8fcd7710ae9200989e0776620f4b8c9c0c3ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "ACMirage_Ach_11": {
+      "name": "Cutting Edge",
+      "description": "Fully upgrade a weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b487e40e9aa0518aa9731817c3e26488b80c5223.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/886de819394563d1d39103854e943103c463a451.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.7"
+    },
+    "ACMirage_Ach_12": {
+      "name": "Thick Skin",
+      "description": "Fully upgrade an outfit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ee3e0fe0b692a92c4b97734f2601d2b348aa33a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/d5a8b3e3027a1fa6af6f04034de2ffa6fcf178ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "ACMirage_Ach_13": {
+      "name": "Fashion Statement",
+      "description": "Apply dye to an outfit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f593ba62cf78b4314cd0c3310cf76cbc52ef9dde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/dc33407fcdaaaebc3d0b4239a8f61a30b2c60037.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.3"
     },
     "ACMirage_Ach_14": {
       "name": "Masquerader",
       "description": "Obtain the two disguises in Baghdad",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f0b4e03ab70cdb0545d91d684c5bfa03155851f1.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c4c1211bb1b954d90a333263c687a3ab1a860168.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f0b4e03ab70cdb0545d91d684c5bfa03155851f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/c4c1211bb1b954d90a333263c687a3ab1a860168.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.8"
     },
-    "ACMirage_Ach_43": {
-      "name": "Notorious",
-      "description": "Stay at maximum notoriety for 10 minutes",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/0e8a1995f118a294426f0f57d1a3fe281612ce86.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/3b4079f7272a64d7e23a7d9d1121aa46fd177ac6.jpg",
+    "ACMirage_Ach_15": {
+      "name": "Treasure Seeker",
+      "description": "Open a token chest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/38a49e2d353a83825ba5e462c59d2d6000d07ace.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/0938990d93b0f7c32856ecab749a2b1c023ae86d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "54.9"
     },
-    "ACMirage_Ach_52": {
-      "name": "Once Upon a Time",
-      "description": "Listen to all folktales",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/beae2e3cdc1dce5e4a49e807429f4af43c73cd11.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/451a76d3bf2a6f2f82c6cc6d80e7c886c88cfea4.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "3.0"
-    },
-    "ACMirage_Ach_38": {
-      "name": "Patron of Industry",
-      "description": "Pay merchant groups 5 times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/39486de08b45369fa1745860423af1059c6fb428.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/caada0e8757a27a53ce31d8b70777c1a847240f0.jpg",
+    "ACMirage_Ach_16": {
+      "name": "Potion Collector",
+      "description": "Purchase 10 elixirs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/03eebcb56447ebacfdc6655218e1ef10a64bf211.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/8fcaea70f9affcce2030fc52ec259875474db41d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "51.0"
     },
-    "ACMirage_Ach_37": {
-      "name": "Patron of Sell-Swords",
-      "description": "Pay mercenaries 5 times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/1a6c7f4d6bcf800947d4f539b67f20ab8b5bdda0.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/10e7a120ac26ec705c95fc842ba779bb8d408018.jpg",
+    "ACMirage_Ach_17": {
+      "name": "Fearless",
+      "description": "Synchronize all Viewpoints in the Baghdad region",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ac765ab66f85ab06b5b4b4aaa4601243b56d979a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f1ba37c7e834cb6be69005bd3afe93461eebe80c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "14.4"
+    },
+    "ACMirage_Ach_18": {
+      "name": "Bird of Prey",
+      "description": "Tag 100 guards using Enkidu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f67f1db84990f7699c9e15003a8bd613952a0f1e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/58f5180f40f56da0574062ad22862815b6121660.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.7"
+    },
+    "ACMirage_Ach_19": {
+      "name": "Explorer",
+      "description": "Explore all the Baghdad region territories",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b93911f77dd5efcaac2655ee30b7ebe7e2443eae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/fc3240044c05bd5c33505435c9800eb64822edc2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACMirage_Ach_20": {
+      "name": "Defender of the People",
+      "description": "Complete 10 faction contracts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/eba5d76fa87269f238d1ef72272fad2789d05734.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/62e2a87d4ea34a93f0ac5a571f829c4c66d1235d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "ACMirage_Ach_21": {
+      "name": "Crossing Paths",
+      "description": "Complete a Tale from Baghdad",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ff9982885e8e7c73514d6aee43a5cc96377c39b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/af702b240ec0312c62c01540ce13afa89528f92c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.7"
+    },
+    "ACMirage_Ach_22": {
+      "name": "Sage",
+      "description": "Collect all lost books",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ced958a9521bbf01e67c1f9643f907e5ff9fd20e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/1cd80edec2eb5928b0498a2cceed3bf2e014ddc7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ACMirage_Ach_23": {
+      "name": "Riddle Me This",
+      "description": "Obtain a treasure by solving an enigma",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/c044c1feb6479805f77fae9a4365bff95e7ed4b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/97be544bc0f854e9ebeea45bc66646c55b47288a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "ACMirage_Ach_24": {
+      "name": "Tools of the Trade",
+      "description": "Fully upgrade all tools",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/969336ae1474984c1c76141a8fb9ab2a33621355.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/d04504d35a752116da63434ed028084c08f55a7f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "ACMirage_Ach_25": {
+      "name": "Eagle's Eye",
+      "description": "Kill 75 guards with throwing knives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/55f154b025463951d693c37fc0b6f01f519f9c05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/28b0193527b6feff9e3d246088a10fde074f36e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.0"
+    },
+    "ACMirage_Ach_26": {
+      "name": "Headhunter",
+      "description": "Headshot 20 guards with throwing knives",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/653727da13257773f7662efa0d33dd5a7d6c6450.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f66982d7e93220dc9a50f3918c1a190255df83e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACMirage_Ach_27": {
+      "name": "Sleep Tight",
+      "description": "Put 10 guards to sleep with blowdarts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/d96221c7e9043f038a3e1c572060fa6e1cec9604.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/c08056d57c423f2379261cef1be59eaac083ba64.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACMirage_Ach_28": {
+      "name": "Ambush",
+      "description": "Have 10 guards trigger traps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/69d7789bf2e929cf6b98fd687dfa4c8abc7fabac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/0af02aadf05c50a7eaf2d8ad6343f655f96dc541.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "ACMirage_Ach_29": {
+      "name": "Up in Smoke",
+      "description": "Affect 20 guards with smoke bombs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/98639ff070685e1b8e74b4043d9f564a3bb96bfc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/a5282596052c2aaa2804f888b1d50b941196d9e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "ACMirage_Ach_30": {
+      "name": "Attention Seeker",
+      "description": "Attract 10 guards with noisemakers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/5e6d3e91f151161e1925b81642487b54c042b3b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/69c7082dc236fbd829b9066b7f6b61c995084289.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "ACMirage_Ach_31": {
+      "name": "The Hands of a Thief",
+      "description": "Pickpocket 50 people",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b43d20a572000eaab356ab7a19c24218b60bdb16.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/e75f457ef9994b3e939cfaa2e03e35080d6f7710.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.4"
+    },
+    "ACMirage_Ach_32": {
+      "name": "You Snooze, You Lose",
+      "description": "Pickpocket a guard affected by a blowdart",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/d8a201d2d9d2588f62aab376c3c5c1648d2a03f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/d377a509e449d24fc21a64afdba57cab68af6d64.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "ACMirage_Ach_33": {
+      "name": "Curio Collector",
+      "description": "Pickpocket all 18 artifacts and bring them to Dervis",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/950ab7926d95c4eed4d3bd37a70e2c2effa5f06f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/926439f4d96795fe4fd4d1d4fb8ae0d02bf5ab87.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "ACMirage_Ach_34": {
+      "name": "Hoarder",
+      "description": "Save up 2007 dirhams",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ef36eb688e9cd349e173d36b4cb9639022f620cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/0be492fb92254d72f41d1db1226060fa23073594.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.6"
+    },
+    "ACMirage_Ach_35": {
+      "name": "Dawn and Dusk",
+      "description": "Use benches to pass time 5 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/4976f7313796865beb69750f9e43755cc3b633fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/c9c90ab054df47dc75116fe6b75eac06cf09b8e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.1"
     },
     "ACMirage_Ach_36": {
       "name": "Patron of the Arts",
       "description": "Pay musicians 5 times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/58c9b75a78e92917e5988568bb72295d0f3ea07c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c81050b5ed33721cce97928df72d02cdc06e658c.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/58c9b75a78e92917e5988568bb72295d0f3ea07c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/c81050b5ed33721cce97928df72d02cdc06e658c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACMirage_Ach_37": {
+      "name": "Patron of Sell-Swords",
+      "description": "Pay mercenaries 5 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/1a6c7f4d6bcf800947d4f539b67f20ab8b5bdda0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/10e7a120ac26ec705c95fc842ba779bb8d408018.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "ACMirage_Ach_38": {
+      "name": "Patron of Industry",
+      "description": "Pay merchant groups 5 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/39486de08b45369fa1745860423af1059c6fb428.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/caada0e8757a27a53ce31d8b70777c1a847240f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ACMirage_Ach_39": {
+      "name": "Blade in the Crowd",
+      "description": "Assassinate 10 guards while blending with the crowd",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/7322aa08e051c2ffb5211cf83ca437b931e174a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/74f89ea89a6433eace2f00973f61c081f2b3b9e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ACMirage_Ach_40": {
+      "name": "Surprise!",
+      "description": "Assassinate 10 guards from hiding spots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/6e9c74c35763a3fb5c69e12ac525b816cb7f9393.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f79f121b488f7556269aae78319f7f5232ee3cb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.6"
+    },
+    "ACMirage_Ach_41": {
+      "name": "The Shadow and the Flame",
+      "description": "Defeat a Shakiriyya in combat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/a9b30e3738e030bbe9ee7b740cf4ef7cc4ec5af5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/97d57689de11fda6da42e5756c2139f8fbe76c22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ACMirage_Ach_42": {
+      "name": "Silencer",
+      "description": "Destroy a Horn Bearer's horn with a throwing knife",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/14fbf41f8080f7da8d17194325d5cb05b5f99593.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/1835ba9b4945b6b2729a45f9471c086d453cc29d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ACMirage_Ach_43": {
+      "name": "Notorious",
+      "description": "Stay at maximum notoriety for 10 minutes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/0e8a1995f118a294426f0f57d1a3fe281612ce86.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/3b4079f7272a64d7e23a7d9d1121aa46fd177ac6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ACMirage_Ach_44": {
+      "name": "Poster Boy",
+      "description": "Lower maximum notoriety by ripping wanted posters only",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b7e39faa08e5c6969cf67685f5c7e2315a85b338.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/e0afcbdfae8239ca4dc41eacf91aa969d29d9b1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "ACMirage_Ach_45": {
+      "name": "Spread the News",
+      "description": "Use the services of a Munadi 3 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/c60c0654b080587abf817fc7eaaaec04852d67f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ee1ae56c0251d98b544931d1694e774ce4403293.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "ACMirage_Ach_46": {
+      "name": "Unstoppable",
+      "description": "Kill 5 guards with one use of Assassin Focus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b808b7ce78f0387316d42950540d710741e2b05b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/07280f2f3657662d4c330962ee9cec1abe44af07.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "ACMirage_Ach_47": {
+      "name": "Eagle's Will",
+      "description": "Survive 10 minutes in open conflict",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/6ea7ef29a1eaeb295aea619397d0f5a8035d4942.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ea0e0a686899e5ef3da038cb9f65a0e6d10ff316.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACMirage_Ach_48": {
+      "name": "Gifted Escapist",
+      "description": "Collapse 20 scaffolding structures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/d46fe57d7a5dc2ff35e65e9cde55ec7b0570643f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/b865f743f8b27073f1407b48747e579a5a618213.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACMirage_Ach_49": {
+      "name": "A True Hidden One",
+      "description": "Assassinate 10 guards in a row without triggering open conflict",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/6deffb6258b4213416bb274e02e65b2b2d58c9ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/2c8530550fa4b4c0fccb1c3e6103bbdec4bb03fd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "ACMirage_Ach_50": {
+      "name": "Street Cleaner",
+      "description": "Hide 5 bodies in bales of hay",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/298db1a66343d8c24f2ad2046370546ac9a9cda7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/36e8870e6ed4f19c2049988b75ad3b350bd7fb4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ACMirage_Ach_51": {
+      "name": "Lost and Found",
+      "description": "Return all stolen goods to Hind",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f7cf6abb7dc980c5b522d68f4eabcd7380977e43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/55c84dd8e004c79b0abfb47830f9a734be1b6e80.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACMirage_Ach_52": {
+      "name": "Once Upon a Time",
+      "description": "Listen to all folktales",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/beae2e3cdc1dce5e4a49e807429f4af43c73cd11.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/451a76d3bf2a6f2f82c6cc6d80e7c886c88cfea4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACMirage_Ach_53": {
+      "name": "Pro Musician",
+      "description": "Collect all Oud melodies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/ec18994b127dc31ffacdf38aeaabf80ca31737b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/42124d3b15976e474e5f77b5158cb3b0be116abd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "ACMirage_Ach_54": {
+      "name": "If I Recall Correctly",
+      "description": "Replay an Animus Sequence",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f0421bcc1f60dd72460176cfd6a1cd882d030ee6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/140c0b67b38058dba8f017c06c4e00f1d4eb1572.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "6.2"
@@ -285,272 +492,65 @@
     "ACMirage_Ach_55": {
       "name": "Perfect Memory",
       "description": "Complete all challenges of an Animus Sequence",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/e194648bf9d38d173784492892e458974780265b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/a958dfa6538eb70e25970aeca416c6afe0bb0465.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/e194648bf9d38d173784492892e458974780265b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/a958dfa6538eb70e25970aeca416c6afe0bb0465.jpg",
       "hidden": false,
-      "group": "Update 1",
-      "percent": "3.3"
+      "group": "Base Game",
+      "percent": "3.4"
     },
     "ACMirage_Ach_56": {
       "name": "Playback",
       "description": "Unlock all Animus Sequence rewards",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/2813f52c65c523cd9fe268b73230884a994269bd.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/e12e2a721f40f3021dc9c03500a4ddf10e81e55a.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/2813f52c65c523cd9fe268b73230884a994269bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/e12e2a721f40f3021dc9c03500a4ddf10e81e55a.jpg",
       "hidden": false,
-      "group": "Update 1",
+      "group": "Base Game",
       "percent": "1.5"
-    },
-    "ACMirage_Ach_44": {
-      "name": "Poster Boy",
-      "description": "Lower maximum notoriety by ripping wanted posters only",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b7e39faa08e5c6969cf67685f5c7e2315a85b338.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/e0afcbdfae8239ca4dc41eacf91aa969d29d9b1a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "48.8"
-    },
-    "ACMirage_Ach_16": {
-      "name": "Potion Collector",
-      "description": "Purchase 10 elixirs",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/03eebcb56447ebacfdc6655218e1ef10a64bf211.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/8fcaea70f9affcce2030fc52ec259875474db41d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "50.9"
-    },
-    "ACMirage_Ach_53": {
-      "name": "Pro Musician",
-      "description": "Collect all Oud melodies",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ec18994b127dc31ffacdf38aeaabf80ca31737b4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/42124d3b15976e474e5f77b5158cb3b0be116abd.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "3.2"
-    },
-    "ACMirage_Ach_23": {
-      "name": "Riddle Me This",
-      "description": "Obtain a treasure by solving an enigma",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c044c1feb6479805f77fae9a4365bff95e7ed4b3.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/97be544bc0f854e9ebeea45bc66646c55b47288a.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "19.0"
-    },
-    "ACMirage_Ach_22": {
-      "name": "Sage",
-      "description": "Collect all lost books",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ced958a9521bbf01e67c1f9643f907e5ff9fd20e.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/1cd80edec2eb5928b0498a2cceed3bf2e014ddc7.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "11.2"
-    },
-    "ACMirage_Ach_10": {
-      "name": "Self-Improvement",
-      "description": "Unlock 23 Skills",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/d11889ef382df4cc502b4833fbb2442eda3a1f06.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/efe8fcd7710ae9200989e0776620f4b8c9c0c3ac.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "13.7"
-    },
-    "ACMirage_Ach_9": {
-      "name": "Serving the Light",
-      "description": "Reach the maximum Hidden One Rank",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/9604c05277b227282a348fb0537f814f14c5175c.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/7f23afbb2dc680fcb4e1fc5dc1033199ee20c8c6.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "34.2"
-    },
-    "ACMirage_Ach_42": {
-      "name": "Silencer",
-      "description": "Destroy a Horn Bearer's horn with a throwing knife",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/14fbf41f8080f7da8d17194325d5cb05b5f99593.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/1835ba9b4945b6b2729a45f9471c086d453cc29d.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "22.0"
-    },
-    "ACMirage_Ach_27": {
-      "name": "Sleep Tight",
-      "description": "Put 10 guards to sleep with blowdarts",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/d96221c7e9043f038a3e1c572060fa6e1cec9604.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c08056d57c423f2379261cef1be59eaac083ba64.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "23.1"
-    },
-    "ACMirage_Ach_45": {
-      "name": "Spread the News",
-      "description": "Use the services of a Munadi 3 times",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c60c0654b080587abf817fc7eaaaec04852d67f4.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ee1ae56c0251d98b544931d1694e774ce4403293.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "25.7"
-    },
-    "ACMirage_Ach_50": {
-      "name": "Street Cleaner",
-      "description": "Hide 5 bodies in bales of hay",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/298db1a66343d8c24f2ad2046370546ac9a9cda7.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/36e8870e6ed4f19c2049988b75ad3b350bd7fb4c.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "43.4"
-    },
-    "ACMirage_Ach_40": {
-      "name": "Surprise!",
-      "description": "Assassinate 10 guards from hiding spots",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/6e9c74c35763a3fb5c69e12ac525b816cb7f9393.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/f79f121b488f7556269aae78319f7f5232ee3cb2.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "50.5"
     },
     "ACMirage_Ach_57": {
       "name": "Taste Your Own Medicine",
       "description": "Poison a Poisoner",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/31b3dfea979e135693864907015a419d0924d768.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/4ee8ce5252ec3457b10154705dae0500706f982d.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "2.4"
-    },
-    "ACMirage_Ach_4": {
-      "name": "The Blood of a Demon",
-      "description": "Eliminate Al-Rabisu",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b310e725fb55ad80ccc479baf44907ad79dcdc7d.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b9f39cf6b509b1adad86f9e1985995a6cf805367.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "40.7"
-    },
-    "ACMirage_Ach_3": {
-      "name": "The Blood of a Ghoul",
-      "description": "Eliminate Al-Ghul",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/367a7666606d7e0a293a308ff9337d0a9511cbec.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/e9eb0ad8fbc2cad2c685c3cf6b2a50ec6b15fcaf.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "58.6"
-    },
-    "ACMirage_Ach_6": {
-      "name": "The Blood of a Spymaster",
-      "description": "Eliminate Al-Mardikhwar",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ebe08b4308dcb0bfc1ef8d5d5df15a5bb3c0177a.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/cd52b03e921c29ee03a6f18209f3b6db44ce09db.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "38.8"
-    },
-    "ACMirage_Ach_5": {
-      "name": "The Blood of an Enchantress",
-      "description": "Eliminate Al-Pairika",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/7c030a7008fb964715a1c6877d3ba4233089e4ac.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/c2b0f99081afb149282f2de03eb1b08cdacc09f1.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "39.1"
-    },
-    "ACMirage_Ach_31": {
-      "name": "The Hands of a Thief",
-      "description": "Pickpocket 50 people",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b43d20a572000eaab356ab7a19c24218b60bdb16.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/e75f457ef9994b3e939cfaa2e03e35080d6f7710.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/31b3dfea979e135693864907015a419d0924d768.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/4ee8ce5252ec3457b10154705dae0500706f982d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "2.5"
     },
-    "ACMirage_Ach_7": {
-      "name": "The Head of the Snake",
-      "description": "Eliminate the Head of the Order",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/1f41c1244b65ff50cf35eb12d9ad81c63a79b5ad.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/99a97e2d3a702e9f14027cefb78f7a238d1c1005.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "33.9"
-    },
-    "ACMirage_Ach_1": {
-      "name": "The Master Thief of Anbar",
-      "description": "Complete the Prologue",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/2ee12d6764d2aa0da2124631cbb4f81b225171d0.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/21f2cb30aff5da372f4e41e14a1e746b3a744489.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "84.8"
-    },
-    "ACMirage_Ach_41": {
-      "name": "The Shadow and the Flame",
-      "description": "Defeat a Shakiriyya in combat",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/a9b30e3738e030bbe9ee7b740cf4ef7cc4ec5af5.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/97d57689de11fda6da42e5756c2139f8fbe76c22.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "43.3"
-    },
-    "ACMirage_Ach_12": {
-      "name": "Thick Skin",
-      "description": "Fully upgrade an outfit",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/ee3e0fe0b692a92c4b97734f2601d2b348aa33a2.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/d5a8b3e3027a1fa6af6f04034de2ffa6fcf178ac.jpg",
+    "ACMirage_Ach_58": {
+      "name": "Like a Local",
+      "description": "Complete all the AlUla territories",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/1b049ec36e880f078ef76b78fb32dd9b057968dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/f3b6e93a11d9317d3f781d678d8ce576be7a6f5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "2.7"
     },
-    "ACMirage_Ach_24": {
-      "name": "Tools of the Trade",
-      "description": "Fully upgrade all tools",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/969336ae1474984c1c76141a8fb9ab2a33621355.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/d04504d35a752116da63434ed028084c08f55a7f.jpg",
+    "ACMirage_Ach_59": {
+      "name": "Make a Break",
+      "description": "Escape the AlUla prison",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/0788e00f8cf18c84eb975009f6006cdbf279b804.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/78830126867715a99b9ad83ac9edc004133db53c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
-    },
-    "ACMirage_Ach_15": {
-      "name": "Treasure Seeker",
-      "description": "Open a token chest",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/38a49e2d353a83825ba5e462c59d2d6000d07ace.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/0938990d93b0f7c32856ecab749a2b1c023ae86d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "54.8"
+      "percent": "8.9"
     },
     "ACMirage_Ach_60": {
       "name": "Turn the Page",
       "description": "Say goodbye to Is'haq",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/048bdbe966e825f4e793b870ce2113177c08003f.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/5571b0dc4790eca2ff79120282fa5ce65ac17582.jpg",
-      "hidden": false,
-      "group": "Update 1",
-      "percent": "7.9"
-    },
-    "ACMirage_Ach_46": {
-      "name": "Unstoppable",
-      "description": "Kill 5 guards with one use of Assassin Focus",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/b808b7ce78f0387316d42950540d710741e2b05b.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/07280f2f3657662d4c330962ee9cec1abe44af07.jpg",
-      "hidden": true,
-      "group": "Base Game",
-      "percent": "18.1"
-    },
-    "ACMirage_Ach_29": {
-      "name": "Up in Smoke",
-      "description": "Affect 20 guards with smoke bombs",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/98639ff070685e1b8e74b4043d9f564a3bb96bfc.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/a5282596052c2aaa2804f888b1d50b941196d9e3.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/048bdbe966e825f4e793b870ce2113177c08003f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/5571b0dc4790eca2ff79120282fa5ce65ac17582.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "8.1"
     },
-    "ACMirage_Ach_32": {
-      "name": "You Snooze, You Lose",
-      "description": "Pickpocket a guard affected by a blowdart",
-      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/d8a201d2d9d2588f62aab376c3c5c1648d2a03f6.jpg",
-      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035570/d377a509e449d24fc21a64afdba57cab68af6d64.jpg",
+    "ACMirage_Ach_61": {
+      "name": "Give it the Slip",
+      "description": "Escape the AlUla prison undetected",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/816207507da3a8231cfb778d30f0fa78099a1c26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3035570/3d3f624722ef8b365f0ccc25c7b2fbac9b2870a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "2.2"
     }
   },
   "platform": "Steam",
