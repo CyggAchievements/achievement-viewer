@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/5682e4c1953c29eab185f9eb030ae03dcd1d2340.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ACH_STORY_MISSION_5_SINGLE": {
       "name": "Unexpected Vacation",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/bf0cad64d5a1a93be7a5e43a198996af5193f914.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "ACH_IRONMAN": {
       "name": "Immortal",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d77834c17ca30b7557956feca718d7a0dea15058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     }
   },
   "platform": "Steam",
