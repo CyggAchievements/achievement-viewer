@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/3c9006dee9746f9fb7f6c4a2a832a743832ae48b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.2"
     },
     "ACH_CLASS2_LEVEL10": {
       "name": "Fully Awakened",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/e9f746d51654abe7273b454ab91cbfc242bb9101.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.5"
+      "percent": "36.6"
     },
     "ACH_CLASS3_LEVEL5": {
       "name": "A Vicarious Remnant",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/df6d7de5206c1533676623caa01817ec7d640105.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ACH_CLASS4_LEVEL5": {
       "name": "Guardian of the Styx",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/44ee639a6cb77d71fee53fd2f3289e47e5014a7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.3"
     },
     "ACH_CLASS4_LEVEL10": {
       "name": "Stygian Defender",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/1e3795de07a2c477ebcabb82712485142c3dfc99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "ACH_CLASS5_LEVEL5": {
       "name": "A Wisp Reanimated",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/d1ae536404fec99a7ae070d0922f3e169e8db8ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "ACH_CLASS5_LEVEL10": {
       "name": "Penultimate",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/543adbfe3217b68bb02c757056ae2fa0b000b187.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.4"
+      "percent": "82.5"
     },
     "ACH_BEAT_LEVEL8_BOSS": {
       "name": "Seraph the Defeated",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/4a6c5b6f07a175b00a3b5e536504685ad1e732c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.6"
+      "percent": "75.7"
     },
     "ACH_EVENT_DANTE": {
       "name": "Dante’s Inferno",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/3eabf823cc6563f1417d324009445bf0161861b8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "ACH_EVENT_HIDDEN_UPGRADE": {
       "name": "It’s a Secret...",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/8b65f2d4a0b923a5c0fb44d9321e52ad0bfcd60d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "ACH_EVENT_PICKPOCKET": {
       "name": "Thief! Stop!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/50869e240b0a0689b2d35eafebc82e9d3d9b14bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "ACH_ASCENSION_TIER2": {
       "name": "The Devil is in the Details",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/9dc46428defe98a2dd9395fc320a5c5f290656f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "ACH_DEFEAT_BIGBOSS3_EARLY": {
       "name": "Sans Seraph",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1102190/0ee2b5b6438c507f3ad048aad944f94f507dc9f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "ACH_DEFEAT_BIGBOSS1_VARIANT_EARLY": {
       "name": "Ta-ta Talos",
