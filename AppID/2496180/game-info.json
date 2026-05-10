@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2496180/84c1c916ccd8a7b0a2f45697d4990c204164f491.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.8"
+      "percent": "87.9"
     },
     "Lighthouse_Complete": {
       "name": "A Remote View",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2496180/600f946949f2316d10c65cec8975771f6ac27607.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "Flat2_Complete": {
       "name": "Divine Intervention",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2496180/fa43fe9e5d5e3239a63d64150d88467b7a19a50e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "52.8"
     },
     "Underground_Complete": {
       "name": "Off the Rails",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2496180/4255e15bfe7dfd7746fa9417143b9d9a524fc698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.6"
     },
     "Black_Doorway_Complete": {
       "name": "Redemption",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2496180/490ef88c07d28758a73c2814e5c059126ad82c47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.3"
     },
     "Epilogue_Complete": {
       "name": "Final Curtain",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2496180/d22ba8133318c7588ebaf40bd1b62d715c8371cf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.1"
     },
     "First_Collectable": {
       "name": "Novice",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2496180/308577a10e3466125095d529950f24e3989340cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     }
   },
   "platform": "Steam",
