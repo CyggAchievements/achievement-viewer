@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/bf961e26eea3965ac683aa96131b5c27e59a7a13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "CHAIN_SMOKE": {
       "name": "Chain Smoker",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/af07060e9258dae3f00baf626a91de148f92a27a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "RESCUER": {
       "name": "Rescuer",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/a643b9548af9c87bc184de895e546c84e43a4f14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.5"
     },
     "VETERAN": {
       "name": "Distinguished Service",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/ab8d266b243139a72a807ed24fb42f2b2b832d62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "80.2"
+      "percent": "80.1"
     },
     "LEVEL_1A": {
       "name": "One of the Lucky Few",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/710c291734b4fee9d56240ef03b6cda067645cf0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.6"
     },
     "LEVEL_6A": {
       "name": "Gasoline Cowboy",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/76a8e2663ba6fddf50ddc3328744a5257f7566bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "LEVEL_8A": {
       "name": "Suppressive Fire!",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/6071795db6a436a29f38cff3b3e81c2ee3a6e107.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "LEVEL_10A": {
       "name": "Infiltrated",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/cd68fb3d8837c42d37aabee99ca44bb26ce96f37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "LEVEL_11": {
       "name": "To the End",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/6c8e5f081f8d312e8d7d0931a8cced9f56e9789a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "LEVEL_11A": {
       "name": "Defender",
