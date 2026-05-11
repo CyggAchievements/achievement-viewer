@@ -1,7 +1,7 @@
 {
   "appid": "1623730",
-  "name": "Palworld",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1773936597",
+  "name": "Palworld / 幻兽帕鲁",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/44e7cf48b38e3ace008e9f49c316f8cd949f7918/header_schinese.jpg?t=1773936597",
   "achievements": {
     "Pal_Achievement_1": {
       "name": "Hillside Sovereign",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/e8ef321401694fe69a462addff85c8e590163969.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "Pal_Achievement_24": {
       "name": "All for One",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/e41de4192cb7f19641054bab4a07ddd6ba5097ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "Pal_Achievement_36": {
       "name": "Pal Labor Researcher",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/4ac207eefd45a1aa5534ba7ef2355f337c51d7d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "Pal_Achievement_43": {
       "name": "Predator Hunter",
