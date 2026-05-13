@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/034a36f7221ad812ae62392e92d42433fa2c207e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "54.1"
     },
     "PvE05": {
       "name": "Three Birds, One Stone",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/e53d735986efbb44883efb1bdb710d9ef0346959.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "PvE10": {
       "name": "Snitches get Stitches",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/21164da0b0bb19a0547a78976d480f9b0dc71feb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "Expl04": {
       "name": "Rite of Passage",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/9d123d808e6f1f8ecfcf73cb219694adc6e52132.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "Meta03": {
       "name": "Expert Weaponsmith",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/9d10eab1f7dfa5d1fcf81100d4eae25c2b919eed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.3"
     },
     "Meta05": {
       "name": "Back from the Brink",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/870174ebe5d708345cd737b9c3e49be8e80df948.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "Meta07": {
       "name": "Dedicated to the Craft",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/f5a19787ffc01daa0753769c5940062a23c494bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.8"
     },
     "Misc06": {
       "name": "No Going Back",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/d6509594c3dcbed498e9015141868a116523d0a8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "PvE06": {
       "name": "Bringing Down the Big Guns",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/7e8f6bf60c4432f56d73d53ecd89fa0b57c2a21a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "PvE11": {
       "name": "Comparative Study",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/7ef2f4ed0035fdf4d1fd09598d1424249571fa31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.6"
     },
     "PvE13": {
       "name": "Mechanical Failure",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/9cde6f9a32217f1e29b8d7110cb953944566f0d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.6"
+      "percent": "87.5"
     },
     "PvP01": {
       "name": "Unyielding",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/7f7ae785c5e750230573625fe5bded611811aba5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "PvP06": {
       "name": "The Friends We Made Along The Way",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/9faecfca34b31ae23fc9f3150786652db941aa0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "Misc03": {
       "name": "Practice Makes Perfect",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/f6bd65b6cc7e3a288f7b6e8331ff908d0dbf0a72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     }
   },
   "platform": "Steam",
