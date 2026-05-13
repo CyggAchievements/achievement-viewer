@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/d27eded0f21a6784b7da8917e14753f4fcec3346.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "nightmareMevius": {
       "name": "Mevius",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/40b59447ce2e844acf63b5fcef1f1e5722f9b879.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "nightmareOdin": {
       "name": "Corrupted Odin",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/096011aff6f178e0a5d61e371be77d00d5a5d7da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "0.8"
     },
     "normalGurag": {
       "name": "Gurag",
@@ -1009,7 +1009,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/02eb43920158626de1a821ddc5b020c0359871da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.0"
     }
   },
   "platform": "Steam",
