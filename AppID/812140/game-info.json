@@ -1,7 +1,7 @@
 {
   "appid": "812140",
   "name": "Assassin's Creed® Odyssey",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1777476997",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header_schinese.jpg?t=1777476997",
   "achievements": {
     "001": {
       "name": "This is Sparta!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/38d681656d762f3a6843dd17be22dbc4c22a5d92.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.8"
+      "percent": "70.7"
     },
     "003": {
       "name": "Past Mistakes",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/56d3c7c9e8002be9540db241edf124b6a0bb2815.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.2"
     },
     "005": {
       "name": "The Bright Minds",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/1840ffe1879e61409a9690d591d09d322b07ccb8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.7"
     },
     "036": {
       "name": "Blood Sport",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/7b1d6bbe66cac0d502bbeb0494791c849873ce07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.7"
     },
     "043": {
       "name": "I Have the Power",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/02d852b464b2e34974ca6af3debc9277234bc152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.1"
     },
     "045": {
       "name": "Misthios in Training",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/b0100235969f16bfd78cb6d0f1cb7581b1dedf6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "049": {
       "name": "Wrath of the Amazons",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/3cda836a03b3a91b348c2816f051ed0580d1ec77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "052": {
       "name": "Lightning Rod",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/142bc64d2d9bc5c5811c1fa90681a569e5185902.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "074": {
       "name": "Seeing Red",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/a6399eab4c62dcbfb8242569e067e297134f2d61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "061": {
       "name": "One Really, Really Bad Day",
@@ -703,7 +703,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/4090ee330f6411dfcfc065701990fb879f6898ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "080": {
       "name": "In the Face of the Gods",
@@ -775,7 +775,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/b7f9f81fbc0de909855ec063f1fe1a32a2bd3e83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "087": {
       "name": "Gathering More Strength",
