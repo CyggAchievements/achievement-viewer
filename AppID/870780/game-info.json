@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/8ff309dacbf7672372c5e0b35fc01e9518845b3d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.2"
     },
     "ORDINARY_WORLD_ACHIEVEMENT": {
       "name": "The Face of the Enemy",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/ba0e3ae63b2e0d8f7e28a204220481eed24349fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "LARGE_HEDRON_COLLIDER_ACHIEVEMENT": {
       "name": "Polaris",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/f2d6623bc6e0b382c9babb6922f7a24d245482c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "TICKET_TO_RIDE_ACHIEVEMENT": {
       "name": "Star Performance",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/0ceba759244384cda56ca519ac4b7c8486d0e200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.6"
     },
     "TRINARY_ACHIEVEMENT": {
       "name": "Career Development",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/547fe74a02f597029a441277659a74825b48e56d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "INTERCEPT_TRAJECTORY_ACHIEVEMENT": {
       "name": "Unstable Matter",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/48f6fa1c6bae8118883bbbfbfffd38c7f4579beb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "X_RAYS_ACHIEVEMENT": {
       "name": "Hostile Work Environment",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/bb3ea8510acc9d4a1ce2e6b35615c8b8c76d2fc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "DLC2_LORE_ACHIEVEMENT": {
       "name": "In-depth Investigations",
