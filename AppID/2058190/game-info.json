@@ -1,7 +1,7 @@
 {
   "appid": "2058190",
   "name": "Lost Judgment",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/header.jpg?t=1763648542",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/header.jpg?t=1778778088",
   "achievements": {
     "COYOTE_PLATINUM": {
       "name": "Master Detective",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058190/06c6b1c6157f93d0002323e5e7de8d963d7f1a45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "COYOTE_BOXING_CLAER": {
       "name": "Everybody Can Change",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058190/2c9a6c43176e72285a81628503ca10d36b323665.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "COYOTE_PROFESSOR_CLEAR": {
       "name": "High School Drama",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058190/4696f8262923b81c87e0efe9cbe6a2f5184d469c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "COYOTE_SIDE_CASE_B": {
       "name": "Private Eye",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058190/ff0e18bb79623d66d4b5aee40abe4089775f14b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "COYOTE_TOWN_ACT_SEISHUN_B": {
       "name": "TownGo Senior",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058190/213e14d267ba5a0a663b7f89e535a75e9113c91d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "COYOTE_KAITO_STORY_CLEAER_2": {
       "name": "Like Father, Like Son",

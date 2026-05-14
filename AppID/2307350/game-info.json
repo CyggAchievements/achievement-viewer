@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d2af08a20d9948d66018c60704fbb78ae37dd738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACH_MINE_DEATH": {
       "name": "Fidget",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/7f8a7c7c09af3f1d9a57d3fa15aef2653368f5c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "ACH_STORY_MISSION_2_SINGLE": {
       "name": "Finding the First Artifact",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/9bb21ac85e2ae21d0e8c3218ef82143a11a7c74d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ACH_STORY_MISSION_3_SINGLE": {
       "name": "Into the In-Between",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2c8e1b65467037fa152a307b2ca93f90197c8577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "ACH_STORY_MISSION_6_COOP": {
       "name": "Diving Deep Together",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2d57900b5b461eb8129e619bcf171eec4b289778.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "ACH_KILLING_MACHINE": {
       "name": "Eliminator",
