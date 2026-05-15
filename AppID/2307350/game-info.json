@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/4f989c3fd9b04074e70a827e68a2e9d9d60da096.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH_FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/cad725c4502bccf22f3ec110f18049c4342e7c61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "ACH_STORY_MISSION_4_SINGLE": {
       "name": "Ringing the Bell",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/caba75ae846f7190a6223b7f75a87b79cac8ffc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.3"
     },
     "ACH_STORY_MISSION_6_SINGLE": {
       "name": "Diving Deep",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/6d578679a078b0fcbe77d76eb37b971d81759766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACH_STORY_MISSION_10_SINGLE": {
       "name": "Back to School",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2aab999189331639b647a03b9078a9de1dde8685.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "ACH_STORY_MISSION_3_COOP": {
       "name": "Into the In-Between Together",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/44b6bdd0f3a2c7580f2bf426038403f3fd1799db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ACH_STORY_MISSION_4_COOP": {
       "name": "Ringing the Bell Together",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/a7a96a2649dc1ee2489b1aad5aeaf40eae9c46f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "ACH_STORY_MISSION_7_COOP": {
       "name": "Heading to Town Together",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d267d241ea2b0e3e32ddaede57ec656e972aaff6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "ACH_STORY_MISSION_8_COOP": {
       "name": "Opening the Door Together",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/f9bc5b223203e78e457186f2d0612acd8a9c381c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "ACH_GLUTTONY": {
       "name": "Gluttony",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b5009a2913ff97d8b52a0a595831def11a6f3781.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "ACH_PETR_FIGURES_FOREST": {
       "name": "The Guide's Reflections, Chapter 1",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/bf0cad64d5a1a93be7a5e43a198996af5193f914.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "ACH_IRONMAN": {
       "name": "Immortal",
