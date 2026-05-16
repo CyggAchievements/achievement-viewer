@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/74e33ee06b1e44e3018320e30455bf8c88600ec0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "ACH_PLAYERS_3_COOP": {
       "name": "Changing Faces",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/272f00cde46dd5b2fb3bcf5db0a925384467f55f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ACH_STORY_MISSION_7_SINGLE": {
       "name": "Heading to Town",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/50833b62afd1aa4abb55521452c16d5ad8265380.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "ACH_STORY_MISSION_9_SINGLE": {
       "name": "Sacrificing a Little Friend",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d5131e155c4ed4073c91dcc637a642c6b7da8afb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACH_ARTIST": {
       "name": "Artist",
