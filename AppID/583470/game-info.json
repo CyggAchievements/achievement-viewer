@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/c152e1218ceff100630dbbc98ead298e291857ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.6"
     },
     "beat_main_4b": {
       "name": "Retrograde",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/321dc1776a2bfd4331fafc777bd177a7e55c9a6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.9"
     },
     "beat_main_5a": {
       "name": "SS Exodus",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/b3dc115bd05fcc29b8c2882d4726d7222ebb7c11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.6"
     },
     "beat_main_1d": {
       "name": "Anguish!",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/aac89fa96d534dcc99f22fd7c0633568140c0572.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "beat_main_6": {
       "name": "Ruin!!!!",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/3913adb5079ffa86682c50cd696f92ea2ee0dff6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "game_all_items": {
       "name": "Hoarder",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/e9b309f38e032d72af26e46031f4c68f66230689.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "cart_c1_nocontinue": {
       "name": "Morta Man - Discontinued",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/9dac77151417bf148dcffb89aa340851357677c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "cart_c1_allcoins": {
       "name": "Morta Man - 100% of Nothing!",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/54cb36760c845b38aba81a17cea226150754a213.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "cart_c2_ironman": {
       "name": "Blaster Massacre - Unbreakable ",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/51c4d23ead21d80c9e113bdb57ce7e51ade16748.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "cart_c3_allcoins": {
       "name": "River City Rancid - 100% of Nothing!",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/8bcf532313ab9eaf4cfb28c969f890fa34553d83.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "cart_c4c_beat": {
       "name": "Catastrovania - The Bare Minimum ",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/5875a974ffa2d6acb04c5786f1b3113c9509a07a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "cart_g0_ironman": {
       "name": "Ghosts n Grieving - Unbreakable",
@@ -919,7 +919,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/d2e544d3b4fff3b81ef8f150f8f76586da80c0f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "iron_cart2": {
       "name": "Iron Cart II",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/0d76f9b5450f916bfaf5f6fcc56e631778d779d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "iron_cart3": {
       "name": "Iron Cart III",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/5ffe026cc691f3e04b551b90e6d752dd765f9b40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "main_game_ironman": {
       "name": "Iron God!",
