@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/1244e0aa35e454c34749eb7e323049546a8b5f55.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.1"
     },
     "EACID_MP_City_of_Fear": {
       "name": "City of Fear",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/4f0760260c958c2fe10c2472fcbd2318d23df633.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "EACID_OT_Dead_to_Rights": {
       "name": "Brutality 101",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/81c5f0f9f1a00234ba2e348974647835a60e7d18.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "EACID_RI_Lethal_Pursuits": {
       "name": "Lethal Pursuits",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/0fe3f816cd43b790ac774e80b81a31cdbaba5a5d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "EACID_RI_Riddler_on_the_Rampage": {
       "name": "Riddler on the Rampage",
@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208650/8fd940a361699a6d057c67ba2c077a296a014068.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "EACID_DLCVillainHatter_In_Storybook_Endings": {
       "name": "In Storybook Endings",
