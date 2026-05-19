@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/e87339709a9beca45b512e7e3b7dcd6f83f5ed72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ACHIEVEMENT05": {
       "name": "Damned If You Do",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/d942e56b6c5e43839e5eb3d7b129f42191e0191a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ACHIEVEMENT29": {
       "name": "Front line ",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/f08b5a858f485391372524615ede3680d8e12543.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "ACHIEVEMENT30": {
       "name": "Super Bomb man",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/1ece4a3b300b451b0c829df9932e73ea942456a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "ACHIEVEMENT32": {
       "name": "Wrench Monkey",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/75ae7d44428d5d6f971a1b5b359e6bae7c1f538c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "ACHIEVEMENT33": {
       "name": "Stolz der Nation",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/d4364e38bf36e1dd66d1e67666a4f6352f5476b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "ACHIEVEMENT35": {
       "name": "Medal of Honor",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/a098f3546906258e84641e0c9591288d109ded8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "ACHIEVEMENT39": {
       "name": "A Little C-4 Knocking on Your Door",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/7ed5e16927c332bd987875affd79c8b404b540c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.2"
     },
     "ACHIEVEMENT40": {
       "name": "First Blood 2",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/4f3d4fdfb3a25a2be297138319973190d68c5928.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "ACHIEVEMENT50": {
       "name": "Mission Accepted",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/b352539423f5ab0e1882507f39579932411e6d47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     }
   },
   "platform": "Steam",
