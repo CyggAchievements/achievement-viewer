@@ -1,4 +1,32 @@
 {
+    "ACHIEVEMENT_41": {
+        "earned": true,
+        "earned_time": 1779567022
+    },
+    "ACHIEVEMENT_1": {
+        "earned": true,
+        "earned_time": 1779567019
+    },
+    "ACHIEVEMENT_11": {
+        "earned": true,
+        "earned_time": 1779566509
+    },
+    "ACHIEVEMENT_10": {
+        "earned": true,
+        "earned_time": 1779566346
+    },
+    "ACHIEVEMENT_7": {
+        "earned": true,
+        "earned_time": 1779565057
+    },
+    "ACHIEVEMENT_35": {
+        "earned": true,
+        "earned_time": 1779564177
+    },
+    "ACHIEVEMENT_17": {
+        "earned": true,
+        "earned_time": 1779563651
+    },
     "ACHIEVEMENT_2": {
         "earned": true,
         "earned_time": 1779484368
@@ -27,10 +55,6 @@
         "earned": true,
         "earned_time": 1779477215
     },
-    "ACHIEVEMENT_1": {
-        "earned": false,
-        "earned_time": 0
-    },
     "ACHIEVEMENT_3": {
         "earned": false,
         "earned_time": 0
@@ -43,23 +67,11 @@
         "earned": false,
         "earned_time": 0
     },
-    "ACHIEVEMENT_7": {
-        "earned": false,
-        "earned_time": 0
-    },
     "ACHIEVEMENT_8": {
         "earned": false,
         "earned_time": 0
     },
     "ACHIEVEMENT_9": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_10": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_11": {
         "earned": false,
         "earned_time": 0
     },
@@ -72,10 +84,6 @@
         "earned_time": 0
     },
     "ACHIEVEMENT_15": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_17": {
         "earned": false,
         "earned_time": 0
     },
@@ -143,10 +151,6 @@
         "earned": false,
         "earned_time": 0
     },
-    "ACHIEVEMENT_35": {
-        "earned": false,
-        "earned_time": 0
-    },
     "ACHIEVEMENT_36": {
         "earned": false,
         "earned_time": 0
@@ -164,10 +168,6 @@
         "earned_time": 0
     },
     "ACHIEVEMENT_40": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_41": {
         "earned": false,
         "earned_time": 0
     },
