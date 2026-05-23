@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/6dd03c7f877bf9aef9323b2133acf8f8836d1e41.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "67.8"
     },
     "ACH_WARP_5": {
       "name": "Living In the Past ",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/ec18dcccf412e08217b73440519bc5cabf255e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "ACH_WARP_10": {
       "name": "Old School ",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/de6ec352d6a914fe9089435801670ef3a088d03f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "ACH_WARP_20": {
       "name": "Retro Rampage ",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/a0dba68bbac7b04ef47924b8a484909efbf541f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "ACH_THEREALEND": {
       "name": "The Real End ",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/a4b1b5f21d1366bcc0c774682c6c96c3094429a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "ACH_CH7LIGHT": {
       "name": "Suffragette ",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/8c772ef9c1c9d900ab33277553d6762ff45a201e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.0"
     },
     "ACH_CHAR_HEADCRAB": {
       "name": "I Have Crabs! ",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/775baee963e50b589eff5d2286c003d403ccdc92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.5"
     },
     "ACH_CHAR_MACH": {
       "name": "Metal Head ",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/c62d7d95fad3f2277474e33f1474984a1f31282e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.5"
     },
     "ACH_CHAR_JILL": {
       "name": "The Bootlicker ",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/ecfb66b48ea3c5799b05406f7f2cf09ba9313068.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.3"
     },
     "ACH_CHAR_OGMO": {
       "name": "The Jump man ",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/d291030efdcbc3607bd75d034b22ccf522bff79b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ACH_CHAR_KID": {
       "name": "The Kid ",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/be8360efb9d5541cf9d085c8eb7af0bd23b50743.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "ACH_GLITCH_6": {
       "name": "N&8^2^%$1`` ",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/eb05e9af5f6c05bb74da3c86b7e716a7d6515794.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "kid_gift_1": {
       "name": "The Kids Xmas!",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/40800/f8d6440d8e7e77a5db34270b0e549799b46a219f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.4"
     }
   },
   "platform": "Steam",

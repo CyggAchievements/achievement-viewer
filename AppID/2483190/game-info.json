@@ -2,463 +2,522 @@
   "appid": "2483190",
   "name": "Forza Horizon 6",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/27abb1584a118d50d0e3950fd48d557c51981db7/header.jpg?t=1779221600",
-  "platform": "Xbox",
   "achievements": {
-    "ACHIEVEMENT_56": {
-      "name": "Welcome to Japan",
-      "description": "Complete The Opening Act",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/a7bce05da049cdbbc55cd368383c66816fcb9094.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/a7bce05da049cdbbc55cd368383c66816fcb9094.jpg",
-      "hidden": false,
-      "percent": "95.1"
-    },
-    "ACHIEVEMENT_57": {
-      "name": "First of Many",
-      "description": "Complete your first Qualifier event",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/2fe0d270f31eb89a0f47512f780233b9aa2a4047.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/2fe0d270f31eb89a0f47512f780233b9aa2a4047.jpg",
-      "hidden": false,
-      "percent": "89.4"
-    },
-    "ACHIEVEMENT_13": {
-      "name": "Four Swords",
-      "description": "Complete a LINK Skill",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/2335ddf4b2a6af609ef9672f2476e6d79360cfd7.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/2335ddf4b2a6af609ef9672f2476e6d79360cfd7.jpg",
-      "hidden": false,
-      "percent": "88.9"
-    },
-    "ACHIEVEMENT_21": {
-      "name": "On the Board",
-      "description": "Win your first Horizon Festival Race event",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/4716b509b877872002a09ab87f5b21bd15b62f09.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/4716b509b877872002a09ab87f5b21bd15b62f09.jpg",
-      "hidden": false,
-      "percent": "86.1"
-    },
     "ACHIEVEMENT_1": {
       "name": "Welcome to Horizon",
       "description": "Earn the Yellow Wristband and join the Horizon Festival",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/65fe4af6776210da0ee941ed012c2d47fef1874d.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/65fe4af6776210da0ee941ed012c2d47fef1874d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/65fe4af6776210da0ee941ed012c2d47fef1874d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2a9cb9d487ceec52090a7fa01efe61cd5734d658.jpg",
       "hidden": false,
-      "percent": "81.7"
-    },
-    "ACHIEVEMENT_41": {
-      "name": "Pin It!",
-      "description": "Discover 10 Landmarks",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/c5600efc77dc907467b21be9e4536b35d26d8d08.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/c5600efc77dc907467b21be9e4536b35d26d8d08.jpg",
-      "hidden": false,
-      "percent": "80.6"
+      "group": "Base Game",
+      "percent": "82.6"
     },
     "ACHIEVEMENT_2": {
       "name": "Stamping Ground",
       "description": "Earn the Yellow Stamp for your Collection Journal",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/8c02466d3d2f0f469ff7c82fb1fdd16ec9f01e86.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/8c02466d3d2f0f469ff7c82fb1fdd16ec9f01e86.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/8c02466d3d2f0f469ff7c82fb1fdd16ec9f01e86.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b2334e3d8b0c58b8d0a4f40c21b92850ff020976.jpg",
       "hidden": false,
-      "percent": "79.9"
-    },
-    "ACHIEVEMENT_20": {
-      "name": "Smashcot",
-      "description": "Smash your first Regional Mascot",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/f2bc5c428a81045dabc0e2538335fc64b331b066.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/f2bc5c428a81045dabc0e2538335fc64b331b066.jpg",
-      "hidden": false,
-      "percent": "79.3"
-    },
-    "ACHIEVEMENT_17": {
-      "name": "First Love",
-      "description": "Purchase a car from the Autoshow",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9aa3eb9da4b5ec8b44781e961d2b907eb317ac73.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9aa3eb9da4b5ec8b44781e961d2b907eb317ac73.jpg",
-      "hidden": false,
-      "percent": "76.4"
-    },
-    "ACHIEVEMENT_14": {
-      "name": "Carkour!",
-      "description": "Complete a Horizon Rush course",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/b8a2b48547fb01bef39abc86c073206d232be0cf.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/b8a2b48547fb01bef39abc86c073206d232be0cf.jpg",
-      "hidden": false,
-      "percent": "69.8"
-    },
-    "ACHIEVEMENT_5": {
-      "name": "Festival Fan",
-      "description": "Earn the Green Horizon Festival Wristband",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e9e78de388cdcaa6b2c2caac2a0f1f5286ca8fd8.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e9e78de388cdcaa6b2c2caac2a0f1f5286ca8fd8.jpg",
-      "hidden": false,
-      "percent": "69.7"
-    },
-    "ACHIEVEMENT_11": {
-      "name": "Another Lap Won't Hurt",
-      "description": "Set a lap time at a Time Attack Circuit",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/94624ac732bb15f3c587ff09927604c98b648385.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/94624ac732bb15f3c587ff09927604c98b648385.jpg",
-      "hidden": false,
-      "percent": "68.0"
-    },
-    "ACHIEVEMENT_35": {
-      "name": "A Whole New World",
-      "description": "Drive any R Class Car",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/099e10c8df449476191414322b8af61e16bf3792.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/099e10c8df449476191414322b8af61e16bf3792.jpg",
-      "hidden": false,
-      "percent": "65.7"
-    },
-    "ACHIEVEMENT_7": {
-      "name": "Seeing the Sights",
-      "description": "Earn the Green Stamp in your Collection Journal",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/0718b62a0a81301a2310f145d125c13e7b3c46e5.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/0718b62a0a81301a2310f145d125c13e7b3c46e5.jpg",
-      "hidden": false,
-      "percent": "65.1"
-    },
-    "ACHIEVEMENT_10": {
-      "name": "Bargain Hunt",
-      "description": "Purchase an Aftermarket Car",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/08044c29296012d5bb0c4b2853fba87388c5e8ed.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/08044c29296012d5bb0c4b2853fba87388c5e8ed.jpg",
-      "hidden": false,
-      "percent": "64.2"
-    },
-    "ACHIEVEMENT_15": {
-      "name": "Blank Slate",
-      "description": "Purchase the Yashiki Player House",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/244cc096f30d6ef2db1705a974ec998a85327f46.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/244cc096f30d6ef2db1705a974ec998a85327f46.jpg",
-      "hidden": false,
-      "percent": "53.6"
-    },
-    "ACHIEVEMENT_12": {
-      "name": "Fresh Tire Smoke",
-      "description": "Complete a Drag Meet",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/78d7791509f125ed56182a2e7db316333bc3673d.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/78d7791509f125ed56182a2e7db316333bc3673d.jpg",
-      "hidden": false,
-      "percent": "50.5"
-    },
-    "ACHIEVEMENT_18": {
-      "name": "Meching My Way Downtown",
-      "description": "Complete the Mech My Day Showcase Event",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/6cc0cffe2289d915fc506641e6d9db6d1d222a24.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/6cc0cffe2289d915fc506641e6d9db6d1d222a24.jpg",
-      "hidden": false,
-      "percent": "49.4"
-    },
-    "ACHIEVEMENT_9": {
-      "name": "A Fine Addition To My Collection",
-      "description": "Discover and claim a Treasure Car",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/35afafc07c94c21a50353aabfada578869d0cae0.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/35afafc07c94c21a50353aabfada578869d0cae0.jpg",
-      "hidden": false,
-      "percent": "49.2"
-    },
-    "ACHIEVEMENT_6": {
-      "name": "Making Waves",
-      "description": "Earn the Blue Horizon Festival Wristband",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/907e266d6ac29370d3e88f65dc0945a7f1e0b18a.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/907e266d6ac29370d3e88f65dc0945a7f1e0b18a.jpg",
-      "hidden": false,
-      "percent": "49.1"
-    },
-    "ACHIEVEMENT_8": {
-      "name": "Travelling All Around",
-      "description": "Earn the Blue Stamp in your Collection Journal",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e4570dba1f5fda70d1635d19ed70898dd9123a55.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e4570dba1f5fda70d1635d19ed70898dd9123a55.jpg",
-      "hidden": false,
-      "percent": "41.9"
-    },
-    "ACHIEVEMENT_4": {
-      "name": "Working 9 to 5",
-      "description": "Complete your first Job",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/aea76ae00214f06c6c3379d1f2f8d87d20bc2305.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/aea76ae00214f06c6c3379d1f2f8d87d20bc2305.jpg",
-      "hidden": false,
-      "percent": "38.7"
-    },
-    "ACHIEVEMENT_27": {
-      "name": "Tokyo Resident",
-      "description": "Complete 33 activities in the Tokyo City Region",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/90d6560d54d3077a2d29aee5e4b7ccaf255865d2.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/90d6560d54d3077a2d29aee5e4b7ccaf255865d2.jpg",
-      "hidden": false,
-      "percent": "36.3"
+      "group": "Base Game",
+      "percent": "80.8"
     },
     "ACHIEVEMENT_3": {
       "name": "Just Getting Started",
       "description": "Complete your first Touge event",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/1b47cc6bb7a6c2c8a42b92bebc571fed7ffe40f4.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/1b47cc6bb7a6c2c8a42b92bebc571fed7ffe40f4.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/1b47cc6bb7a6c2c8a42b92bebc571fed7ffe40f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/42fa26042c0cf70928d960e896b2a21c82c21ed1.jpg",
       "hidden": false,
-      "percent": "35.8"
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "ACHIEVEMENT_4": {
+      "name": "Working 9 to 5",
+      "description": "Complete your first Job",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/aea76ae00214f06c6c3379d1f2f8d87d20bc2305.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/af548750b03897acda225f5446037ea7f017ecb0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "ACHIEVEMENT_5": {
+      "name": "Festival Fan",
+      "description": "Earn the Green Horizon Festival Wristband",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/e9e78de388cdcaa6b2c2caac2a0f1f5286ca8fd8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/c0d6339c0047863869ac1460944ebca2219d43bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.7"
+    },
+    "ACHIEVEMENT_6": {
+      "name": "Making Waves",
+      "description": "Earn the Blue Horizon Festival Wristband",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/907e266d6ac29370d3e88f65dc0945a7f1e0b18a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/53bd6b09b7b2fb2d50e4be5a99138836d3ec642c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.3"
+    },
+    "ACHIEVEMENT_7": {
+      "name": "Seeing the Sights",
+      "description": "Earn the Green Stamp in your Collection Journal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/0718b62a0a81301a2310f145d125c13e7b3c46e5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/df1382c5a0a6bfd131815abdfa2f8b8a064ed402.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.3"
+    },
+    "ACHIEVEMENT_8": {
+      "name": "Travelling All Around",
+      "description": "Earn the Blue Stamp in your Collection Journal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/e4570dba1f5fda70d1635d19ed70898dd9123a55.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/ee5ef184d2be0feeaf4555aa5aff8a4eb07e9cf9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "ACHIEVEMENT_9": {
+      "name": "A Fine Addition To My Collection",
+      "description": "Discover and claim a Treasure Car",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/35afafc07c94c21a50353aabfada578869d0cae0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/81920df982c5eb531ee4657068ce68826c4dbe60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Bargain Hunt",
+      "description": "Purchase an Aftermarket Car",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/08044c29296012d5bb0c4b2853fba87388c5e8ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/204765b4028e95e307f2ecf7e5ed2e43cef76ce6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.1"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Another Lap Won't Hurt",
+      "description": "Set a lap time at a Time Attack Circuit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/94624ac732bb15f3c587ff09927604c98b648385.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2b36aa23b3908ab6ac84250c272705646f31d74d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.2"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Fresh Tire Smoke",
+      "description": "Complete a Drag Meet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/78d7791509f125ed56182a2e7db316333bc3673d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/80b2c7a07fd720bc535d3d74be85d668c2dfcfe6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.4"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Four Swords",
+      "description": "Complete a LINK Skill",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2335ddf4b2a6af609ef9672f2476e6d79360cfd7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/20190a3f074a5a1e13527b6798c198804f7c75f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.6"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Carkour!",
+      "description": "Complete a Horizon Rush course",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b8a2b48547fb01bef39abc86c073206d232be0cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/a77dd43e31934a69fd00f735ff68f76083187ce6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.8"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Blank Slate",
+      "description": "Purchase the Yashiki Player House",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/244cc096f30d6ef2db1705a974ec998a85327f46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b0c8a9fdda79619203304cb78b2372131d1fe86b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.4"
     },
     "ACHIEVEMENT_16": {
       "name": "Dedicated Tourist",
       "description": "Earn 3 Stars on any Day Trip Story Chapter",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/d807f94e532d8efd68d8b81a01b19602f0ee1ae5.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/d807f94e532d8efd68d8b81a01b19602f0ee1ae5.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/d807f94e532d8efd68d8b81a01b19602f0ee1ae5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/5928129b00aec451d895c1ed46c36a4c9d009aa1.jpg",
       "hidden": false,
-      "percent": "35.5"
+      "group": "Base Game",
+      "percent": "36.2"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "First Love",
+      "description": "Purchase a car from the Autoshow",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/9aa3eb9da4b5ec8b44781e961d2b907eb317ac73.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/211db4be7081144ee41063f253b4ff95c2676d8f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.5"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "Meching My Way Downtown",
+      "description": "Complete the Mech My Day Showcase Event",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/6cc0cffe2289d915fc506641e6d9db6d1d222a24.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/09b74894f4c379121fef0b8bdedccd584b6b3f3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Ready to Rumble",
+      "description": "Earn 10 Levels in Horizon Play",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/af3825bb5256371c22c7aacf7981a014a60f5b09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b373f71fc43892ee123b8a2fdd1ac25b210b1193.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Smashcot",
+      "description": "Smash your first Regional Mascot",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/f2bc5c428a81045dabc0e2538335fc64b331b066.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/999e35a03fe7af65fb7ceb9d163157aa79c33d43.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.1"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "On the Board",
+      "description": "Win your first Horizon Festival Race event",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/4716b509b877872002a09ab87f5b21bd15b62f09.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/22a31f7e8064267e1688bf3ba395d095c9a6316a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.8"
     },
     "ACHIEVEMENT_22": {
       "name": "What, Like It's Hard?",
       "description": "Earn the Pink Horizon Festival Wristband",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/3f71c94680c905763ba16bcd50c830314d30ea19.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/3f71c94680c905763ba16bcd50c830314d30ea19.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/3f71c94680c905763ba16bcd50c830314d30ea19.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/f183d9f1043977b2140394d553b83d9ec94b23f6.jpg",
       "hidden": false,
-      "percent": "33.5"
-    },
-    "ACHIEVEMENT_24": {
-      "name": "Making Your Own Path",
-      "description": "Earn the Pink Stamp in your Collection Journal",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/4cfa4315ad1aec35364077b20147344339cf556a.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/4cfa4315ad1aec35364077b20147344339cf556a.jpg",
-      "hidden": false,
-      "percent": "25.4"
-    },
-    "ACHIEVEMENT_33": {
-      "name": "Ascending New Heights",
-      "description": "Complete the Flight Club Showcase Event",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/1760733d4ad3885ea9be2b70cefa693b3f507b04.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/1760733d4ad3885ea9be2b70cefa693b3f507b04.jpg",
-      "hidden": false,
-      "percent": "22.8"
+      "group": "Base Game",
+      "percent": "34.6"
     },
     "ACHIEVEMENT_23": {
       "name": "Orange You Glad You Made It?",
       "description": "Earn the Orange Horizon Festival Wristband",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/27a042db9ff0661540a98cecbae6e760f2ca8836.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/27a042db9ff0661540a98cecbae6e760f2ca8836.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/27a042db9ff0661540a98cecbae6e760f2ca8836.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/905f1f6ed8c2258267eb793b298e7ab94076561a.jpg",
       "hidden": false,
-      "percent": "22.6"
+      "group": "Base Game",
+      "percent": "23.4"
     },
-    "ACHIEVEMENT_32": {
-      "name": "Collector",
-      "description": "Collect 100 different cars",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9b2ed60e56f41f73d2354974e72168a4ced2ab2a.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9b2ed60e56f41f73d2354974e72168a4ced2ab2a.jpg",
+    "ACHIEVEMENT_24": {
+      "name": "Making Your Own Path",
+      "description": "Earn the Pink Stamp in your Collection Journal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/4cfa4315ad1aec35364077b20147344339cf556a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/8584964b10c5cf7f75ad27d6daaa72c9e90be939.jpg",
       "hidden": false,
-      "percent": "16.8"
-    },
-    "ACHIEVEMENT_49": {
-      "name": "Feel the Rush",
-      "description": "Complete 3 Horizon Rush events",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/21013bb2c6ec420cb6988a58fab6cbab857a84dc.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/21013bb2c6ec420cb6988a58fab6cbab857a84dc.jpg",
-      "hidden": false,
-      "percent": "16.7"
-    },
-    "ACHIEVEMENT_42": {
-      "name": "In The Spotlight",
-      "description": "Earn the Purple Horizon Festival Wristband",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/491251db5318a5ab1805c0ba49c58d2e9e10f9c7.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/491251db5318a5ab1805c0ba49c58d2e9e10f9c7.jpg",
-      "hidden": false,
-      "percent": "16.5"
-    },
-    "ACHIEVEMENT_26": {
-      "name": "Racking Up The Miles",
-      "description": "Discover all 10 Regions",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/81f08f456fccc40870cb9679658a67c8c32fa0b4.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/81f08f456fccc40870cb9679658a67c8c32fa0b4.jpg",
-      "hidden": false,
-      "percent": "15.7"
+      "group": "Base Game",
+      "percent": "26.3"
     },
     "ACHIEVEMENT_25": {
       "name": "Hey! Listen!",
       "description": "Earn the Orange Stamp in your Collection Journal",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/539a7b853fcacab36b45cbcaa20015e24fc1d583.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/539a7b853fcacab36b45cbcaa20015e24fc1d583.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/539a7b853fcacab36b45cbcaa20015e24fc1d583.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/96fc99ef2f84d0e90f0584314015653bdb826277.jpg",
       "hidden": false,
-      "percent": "13.6"
+      "group": "Base Game",
+      "percent": "14.2"
     },
-    "ACHIEVEMENT_37": {
-      "name": "To The Moon",
-      "description": "Earn at least 1 Star at the Irokawa Launch Danger Sign",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/c44e2f2d8b312239febd91316acc311d7b6790c1.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/c44e2f2d8b312239febd91316acc311d7b6790c1.jpg",
+    "ACHIEVEMENT_26": {
+      "name": "Racking Up The Miles",
+      "description": "Discover all 10 Regions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/81f08f456fccc40870cb9679658a67c8c32fa0b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/7f41a2bf0ef3cbf0511d90defb0de9cc4bc4769f.jpg",
       "hidden": false,
-      "percent": "13.2"
+      "group": "Base Game",
+      "percent": "16.6"
     },
-    "ACHIEVEMENT_47": {
-      "name": "Treasure Hunter",
-      "description": "Discover and claim 9 Treasure Cars",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/83c63ff4981ac4fb7355d41ea590b55ceb772b28.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/83c63ff4981ac4fb7355d41ea590b55ceb772b28.jpg",
+    "ACHIEVEMENT_27": {
+      "name": "Tokyo Resident",
+      "description": "Complete 33 activities in the Tokyo City Region",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/90d6560d54d3077a2d29aee5e4b7ccaf255865d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/62114f59d34ff6d274f19bc61a2be8bf86b66718.jpg",
       "hidden": false,
-      "percent": "12.0"
-    },
-    "ACHIEVEMENT_31": {
-      "name": "Show Me What You've Got!",
-      "description": "Display 3 different cars in your Garage at the same time",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/aac3ceae3d766ca1910d8da81ec32d8e5d3c4c39.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/aac3ceae3d766ca1910d8da81ec32d8e5d3c4c39.jpg",
-      "hidden": false,
-      "percent": "11.9"
-    },
-    "ACHIEVEMENT_39": {
-      "name": "Track Day",
-      "description": "Set a lap time at a Time Attack Circuit while driving any Track Toy",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/5f0beeeb0ffd83b6801af9aa309557b5e94b0d18.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/5f0beeeb0ffd83b6801af9aa309557b5e94b0d18.jpg",
-      "hidden": false,
-      "percent": "9.5"
-    },
-    "ACHIEVEMENT_43": {
-      "name": "Horizon Legend",
-      "description": "Earn the Gold Horizon Festival Wristband and become a Horizon Legend",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/508d55914b04d7ed1ce8823294e7c24e8f064929.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/508d55914b04d7ed1ce8823294e7c24e8f064929.jpg",
-      "hidden": false,
-      "percent": "8.7"
-    },
-    "ACHIEVEMENT_54": {
-      "name": "Racing Aficionado",
-      "description": "Win 57 Horizon Festival Race Events",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/4e69f98def7952f0eda852a561d2599fc759f10f.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/4e69f98def7952f0eda852a561d2599fc759f10f.jpg",
-      "hidden": false,
-      "percent": "8.3"
-    },
-    "ACHIEVEMENT_44": {
-      "name": "What an Adventure!",
-      "description": "Earn the Purple Stamp in your Collection Journal",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/d356566665e90e8ee9f5b0c51aac043cd1eaaeaa.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/d356566665e90e8ee9f5b0c51aac043cd1eaaeaa.jpg",
-      "hidden": false,
-      "percent": "8.0"
-    },
-    "ACHIEVEMENT_30": {
-      "name": "What Are You Doing In My Estate?",
-      "description": "Visit another player's Estate",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/84db435c2dcb8c252d1ec7385e2ea986e58cc363.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/84db435c2dcb8c252d1ec7385e2ea986e58cc363.jpg",
-      "hidden": false,
-      "percent": "6.4"
-    },
-    "ACHIEVEMENT_36": {
-      "name": "Even Playing Field",
-      "description": "Complete a Race Event within a Spec Racing Championship",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/be1eee37bd96150638d205f807c609db12e8c4c2.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/be1eee37bd96150638d205f807c609db12e8c4c2.jpg",
-      "hidden": false,
-      "percent": "6.3"
-    },
-    "ACHIEVEMENT_45": {
-      "name": "Master Explorer",
-      "description": "Earn the Gold Stamp and become a Master Explorer",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e46bb45d362c478ebd27859749e39c7397bb2510.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e46bb45d362c478ebd27859749e39c7397bb2510.jpg",
-      "hidden": false,
-      "percent": "5.3"
-    },
-    "ACHIEVEMENT_29": {
-      "name": "White Ghost",
-      "description": "Complete 5 Touge Races",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/afa9ee979f8dd37d7178b3f5ba953505b51e7aae.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/afa9ee979f8dd37d7178b3f5ba953505b51e7aae.jpg",
-      "hidden": false,
-      "percent": "5.1"
-    },
-    "ACHIEVEMENT_52": {
-      "name": "Gotta Smash 'Em All",
-      "description": "Smash 200 Regional Mascots",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/246f85d2ec532e0230506bcb9ecdb5392e997256.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/246f85d2ec532e0230506bcb9ecdb5392e997256.jpg",
-      "hidden": false,
-      "percent": "4.5"
-    },
-    "ACHIEVEMENT_48": {
-      "name": "The Horizon Cartographer",
-      "description": "Reveal the entire Map",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/d4f8622df7981b306786ccb4a2682d279e42b6e0.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/d4f8622df7981b306786ccb4a2682d279e42b6e0.jpg",
-      "hidden": false,
-      "percent": "3.3"
-    },
-    "ACHIEVEMENT_34": {
-      "name": "Parking All Over The World",
-      "description": "Park at 3 different Car Meets",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/8e46c3f3afac347085e07a21358e12bf6f347208.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/8e46c3f3afac347085e07a21358e12bf6f347208.jpg",
-      "hidden": false,
-      "percent": "2.5"
-    },
-    "ACHIEVEMENT_53": {
-      "name": "A Few Splinters Is Nothing!",
-      "description": "Smash 200 Bonus Boards",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9a73fdee6d764ca48fd65deb9d6ca94db4dafb3d.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9a73fdee6d764ca48fd65deb9d6ca94db4dafb3d.jpg",
-      "hidden": false,
-      "percent": "2.4"
+      "group": "Base Game",
+      "percent": "37.1"
     },
     "ACHIEVEMENT_28": {
       "name": "Crowd Pleaser",
       "description": "Earn 36 Stars from PR Stunts in the Ohtani Region",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/62ba93ee001c0dfcd3ea02f5a7b172b2207f26b2.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/62ba93ee001c0dfcd3ea02f5a7b172b2207f26b2.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/62ba93ee001c0dfcd3ea02f5a7b172b2207f26b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/4565235836d574c8e4cc8ded817bcf53d0f2173e.jpg",
       "hidden": false,
-      "percent": "2.2"
+      "group": "Base Game",
+      "percent": "2.3"
     },
-    "ACHIEVEMENT_55": {
-      "name": "Ready to Rumble",
-      "description": "Earn 10 Levels in Horizon Play",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/af3825bb5256371c22c7aacf7981a014a60f5b09.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/af3825bb5256371c22c7aacf7981a014a60f5b09.jpg",
+    "ACHIEVEMENT_29": {
+      "name": "White Ghost",
+      "description": "Complete 5 Touge Races",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/afa9ee979f8dd37d7178b3f5ba953505b51e7aae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/1216f75ff1921f9cd96b8098beaa163fba00ae74.jpg",
       "hidden": false,
-      "percent": "2.1"
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "What Are You Doing In My Estate?",
+      "description": "Visit another player's Estate",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/84db435c2dcb8c252d1ec7385e2ea986e58cc363.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/16315e25f9d57b390ef8d4fd502363d54ed69654.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Show Me What You've Got!",
+      "description": "Display 3 different cars in your Garage at the same time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/aac3ceae3d766ca1910d8da81ec32d8e5d3c4c39.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/741643449922c5d806aa87221f53b64f7576dbbe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Collector",
+      "description": "Collect 100 different cars",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/9b2ed60e56f41f73d2354974e72168a4ced2ab2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/bffce2d35b00d4f33cc19a51503d1e50a674a353.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Ascending New Heights",
+      "description": "Complete the Flight Club Showcase Event",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/1760733d4ad3885ea9be2b70cefa693b3f507b04.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/0e090de939f4edb418529b8229e2f0f0ddfad38e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.6"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Parking All Over The World",
+      "description": "Park at 3 different Car Meets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/8e46c3f3afac347085e07a21358e12bf6f347208.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/66a08b3a0fd3bced02b20fa6c582038b47bda657.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "A Whole New World",
+      "description": "Drive any R Class Car",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/099e10c8df449476191414322b8af61e16bf3792.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/c6ad1fd43771a931727f7f25d8e3e39715b0c6c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.0"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Even Playing Field",
+      "description": "Complete a Race Event within a Spec Racing Championship",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/be1eee37bd96150638d205f807c609db12e8c4c2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/049c018f3fddba9195ba37ec716e76d5912718b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "To The Moon",
+      "description": "Earn at least 1 Star at the Irokawa Launch Danger Sign",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/c44e2f2d8b312239febd91316acc311d7b6790c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2a533b6ea9446f8e689c0e3907cb57899474be43.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
     },
     "ACHIEVEMENT_38": {
       "name": "All Eyes On You",
       "description": "Park the 2025 GR GT Prototype at a Car Meet",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/c5eee43e70ceec03c5426fce8a068b819c90b0cd.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/c5eee43e70ceec03c5426fce8a068b819c90b0cd.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/c5eee43e70ceec03c5426fce8a068b819c90b0cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/dd0943a3d27124bcc8de57f00e7786ee6772675d.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "2.1"
     },
-    "ACHIEVEMENT_19": {
-      "name": "Storyteller",
-      "description": "Earn 81 Stars from Stories",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/acf5fed70baa8211d536771c12bfe7b5bf094e1c.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/acf5fed70baa8211d536771c12bfe7b5bf094e1c.jpg",
+    "ACHIEVEMENT_39": {
+      "name": "Track Day",
+      "description": "Set a lap time at a Time Attack Circuit while driving any Track Toy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/5f0beeeb0ffd83b6801af9aa309557b5e94b0d18.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/ccd564c0943fc62c81172a1ff1ebb2b02e5903e4.jpg",
       "hidden": false,
-      "percent": "2.1"
-    },
-    "ACHIEVEMENT_46": {
-      "name": "The Boss",
-      "description": "Earn the maximum Promotion in a Job",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/0940e0f23cc537575133dc63fb5c7792a3bcdef9.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/0940e0f23cc537575133dc63fb5c7792a3bcdef9.jpg",
-      "hidden": false,
-      "percent": "0.4"
+      "group": "Base Game",
+      "percent": "9.9"
     },
     "ACHIEVEMENT_40": {
       "name": "Played-List",
       "description": "Earn all Playlist points for a Season",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9aa1935b51279435d3eed0fe69bdfb635dfeaeff.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/9aa1935b51279435d3eed0fe69bdfb635dfeaeff.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/9aa1935b51279435d3eed0fe69bdfb635dfeaeff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/f9c1d1a61ef6857f01d2c6b129dbba3fd764ac7e.jpg",
       "hidden": false,
-      "percent": "0.1"
+      "group": "Base Game",
+      "percent": "0.2"
     },
-    "ACHIEVEMENT_51": {
-      "name": "Maxed Out",
-      "description": "Earn 100 Levels in Horizon Play",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/de56fbc7b29a40ca0c606eb16baf3738a9fc1f0a.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/de56fbc7b29a40ca0c606eb16baf3738a9fc1f0a.jpg",
+    "ACHIEVEMENT_41": {
+      "name": "Pin It!",
+      "description": "Discover 10 Landmarks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/c5600efc77dc907467b21be9e4536b35d26d8d08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/cbb4a1ccaf9107f707e64d2dff0821551e44f583.jpg",
       "hidden": false,
-      "percent": "0.0"
+      "group": "Base Game",
+      "percent": "81.5"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "In The Spotlight",
+      "description": "Earn the Purple Horizon Festival Wristband",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/491251db5318a5ab1805c0ba49c58d2e9e10f9c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/257a30d68559f0bb56c00b324f415daeb7314fec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "Horizon Legend",
+      "description": "Earn the Gold Horizon Festival Wristband and become a Horizon Legend",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/508d55914b04d7ed1ce8823294e7c24e8f064929.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/ff6e7de94b0d4e440fdb0f4178fbeaaa7d369163.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "What an Adventure!",
+      "description": "Earn the Purple Stamp in your Collection Journal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/d356566665e90e8ee9f5b0c51aac043cd1eaaeaa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/0ee27d2821d7c14b28c1eb823cfd151d6e829f63.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "Master Explorer",
+      "description": "Earn the Gold Stamp and become a Master Explorer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/e46bb45d362c478ebd27859749e39c7397bb2510.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b3e857b633010c29b104b437be7d6b31ac13196c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "The Boss",
+      "description": "Earn the maximum Promotion in a Job",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/0940e0f23cc537575133dc63fb5c7792a3bcdef9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/651132e0a47fea3a043412ccb87f52a37456182f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "ACHIEVEMENT_47": {
+      "name": "Treasure Hunter",
+      "description": "Discover and claim 9 Treasure Cars",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/83c63ff4981ac4fb7355d41ea590b55ceb772b28.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/6ac1f6596e02c8ff75fd9f9caaaa3df2314a9ad2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ACHIEVEMENT_48": {
+      "name": "The Horizon Cartographer",
+      "description": "Reveal the entire Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/d4f8622df7981b306786ccb4a2682d279e42b6e0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/43b1272f05add9e660ea86c26a942d96d235f5a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_49": {
+      "name": "Feel the Rush",
+      "description": "Complete 3 Horizon Rush events",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/21013bb2c6ec420cb6988a58fab6cbab857a84dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/49e7c5b00be8fe6b1df67dd588d8fc02b6cceff8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
     },
     "ACHIEVEMENT_50": {
+      "name": "Maxed Out",
+      "description": "Earn 100 Levels in Horizon Play",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/de56fbc7b29a40ca0c606eb16baf3738a9fc1f0a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/3310472c9af16ac0f1a7799d5078280fa2826ed9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACHIEVEMENT_51": {
       "name": "Historic Effort",
       "description": "Earn a Series History Reward",
-      "icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e96044e1769bdba47c8e93871fc37cfcff1c60cd.jpg",
-      "icongray": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2483190/e96044e1769bdba47c8e93871fc37cfcff1c60cd.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/e96044e1769bdba47c8e93871fc37cfcff1c60cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/f12686101ef7ca6b947b34f8eaf9aa83c7137980.jpg",
       "hidden": false,
+      "group": "Base Game",
       "percent": "0.0"
+    },
+    "ACHIEVEMENT_52": {
+      "name": "Gotta Smash 'Em All",
+      "description": "Smash 200 Regional Mascots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/246f85d2ec532e0230506bcb9ecdb5392e997256.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/053f80506792bd2b7b4c3d7cd3669d7ff81c3e41.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACHIEVEMENT_53": {
+      "name": "A Few Splinters Is Nothing!",
+      "description": "Smash 200 Bonus Boards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/9a73fdee6d764ca48fd65deb9d6ca94db4dafb3d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/4b5a9f145a132bbc6b3606182e8d1f109b73a735.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACHIEVEMENT_54": {
+      "name": "Racing Aficionado",
+      "description": "Win 57 Horizon Festival Race Events",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/4e69f98def7952f0eda852a561d2599fc759f10f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/a163f91c4789498c2dcd74bb8645bbbdcc1f39d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACHIEVEMENT_55": {
+      "name": "Storyteller",
+      "description": "Earn 81 Stars from Stories",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/acf5fed70baa8211d536771c12bfe7b5bf094e1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/8e93ab68b927d9098b362b34fff1e899a609fd47.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_56": {
+      "name": "Welcome to Japan",
+      "description": "Complete The Opening Act",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/a7bce05da049cdbbc55cd368383c66816fcb9094.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b88fdafe18f06d87e0fc21afc16eb4d26d142315.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.7"
+    },
+    "ACHIEVEMENT_57": {
+      "name": "First of Many",
+      "description": "Complete your first Qualifier event",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2fe0d270f31eb89a0f47512f780233b9aa2a4047.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/9c1e30195468cb74b264f39a32b7a97d865de428.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.1"
     }
-  }
+  },
+  "platform": "Xbox",
+  "blacklist": [],
+  "uses_db": false
 }
