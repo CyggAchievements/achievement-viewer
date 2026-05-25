@@ -1,4 +1,24 @@
 {
+    "ACHIEVEMENT_3": {
+        "earned": true,
+        "earned_time": 1779732886
+    },
+    "ACHIEVEMENT_12": {
+        "earned": true,
+        "earned_time": 1779655591
+    },
+    "ACHIEVEMENT_5": {
+        "earned": true,
+        "earned_time": 1779651029
+    },
+    "ACHIEVEMENT_14": {
+        "earned": true,
+        "earned_time": 1779651019
+    },
+    "ACHIEVEMENT_21": {
+        "earned": true,
+        "earned_time": 1779649675
+    },
     "ACHIEVEMENT_41": {
         "earned": true,
         "earned_time": 1779567022
@@ -55,14 +75,6 @@
         "earned": true,
         "earned_time": 1779477215
     },
-    "ACHIEVEMENT_3": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_5": {
-        "earned": false,
-        "earned_time": 0
-    },
     "ACHIEVEMENT_6": {
         "earned": false,
         "earned_time": 0
@@ -75,14 +87,6 @@
         "earned": false,
         "earned_time": 0
     },
-    "ACHIEVEMENT_12": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_14": {
-        "earned": false,
-        "earned_time": 0
-    },
     "ACHIEVEMENT_15": {
         "earned": false,
         "earned_time": 0
@@ -92,10 +96,6 @@
         "earned_time": 0
     },
     "ACHIEVEMENT_55": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_21": {
         "earned": false,
         "earned_time": 0
     },
