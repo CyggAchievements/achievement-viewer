@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/03eb64bd3d7a4dba836eaad300c33329a50984a8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.0"
     },
     "FIRST_CREST": {
       "name": "Claimed",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6ad79e03be197569b31b52f3cc8833922ef810d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "FIRST_MASK": {
       "name": "Protected",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5c44fea9f704cb1f5b1ed81eb2994f531c0bccc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "FIRST_SILK_SPOOL": {
       "name": "Restored",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4184fc8dc89d930ce040c4484745f156f9bbc108.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "ALL_SILK_HEARTS": {
       "name": "Regenerated",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/eba7fea6222d407924726fb352b2231a751f4e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "BELLWAYS_FULL": {
       "name": "Connected",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c7806926be11963fcb654180432414667f55cb04.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "TUBES_FULL": {
       "name": "Transported",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/0e3f76a3dd29bfd2171d42e0232eebc4404f0522.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "FLEAS_ALL": {
       "name": "Fleafriend",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5ecfe521ca09d24601f4b0cff62b775404a56bde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.8"
+      "percent": "85.9"
     },
     "DEFEATED_LACE_1": {
       "name": "Pharloom's Welcome",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/dcee821236ad653b6844990806c4c466b1d60ca9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.3"
+      "percent": "75.4"
     },
     "DEFEATED_WIDOW": {
       "name": "Fanatic",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/e4dc9f83fb40fd98d0668fdb5d79b23e23595e97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "GARMOND_FINAL_QUEST": {
       "name": "Hero's Call",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/589423606af7680b4cc5af5be195b526eaf38545.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.6"
     },
     "CITADEL_SONG": {
       "name": "Harmonious",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/ce0df795d793b5a05d31f1ba28f38cc4193444dd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "ENDING_D": {
       "name": "Twisted Child",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/9faf2f77a4047215c7da6822d8b80e7971210944.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "HERALD_WISH": {
       "name": "Passing of the Age",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/2aacd283950cff267f32ebb7eaf82f4f5e6355f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "STEEL_SOUL_FULL": {
       "name": "Steel Heart",
