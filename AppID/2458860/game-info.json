@@ -1,7 +1,7 @@
 {
   "appid": "2458860",
-  "name": "Summer Clover",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458860/header.jpg?t=1772721391",
+  "name": "Game 2458860",
+  "icon": "",
   "achievements": {
     "A_01": {
       "name": "Summer Clover",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2458860/ec855b7bd4e02493eeb26478ea866349140f41e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "64.0"
     },
     "A_24": {
       "name": "Unbearable Desire",
