@@ -1,7 +1,7 @@
 {
   "appid": "2059670",
-  "name": "Moss: Book II",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059670/header.jpg?t=1766074520",
+  "name": "Moss II VR",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059670/f452060f1e0db1e358a61bb5ecb898f36533fd07/header.jpg?t=1780014682",
   "achievements": {
     "ACH_MOSS2_SCROLL_FIRST": {
       "name": "What Was Lost",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ACH_MOSS2_BOSS_TYLAN": {
       "name": "Torched Wings",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/02063d1d25bf0e00b9d311115f0e657a9fd5e4d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.8"
+      "percent": "77.9"
     },
     "ACH_MOSS2_TUTORIAL_HEAL": {
       "name": "A Friend Indeed",

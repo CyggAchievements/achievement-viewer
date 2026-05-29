@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/9a3fde5c1c9233c9e8913b4e5023ba037a6b3da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "dungeon_2": {
       "name": "Scary dungeon depths",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/6bfe62d19e5472b8cba158ea6c0dfd53e525e8e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "meet_inq": {
       "name": "Holy Inquisition",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/b2c29d915b2af059d3bc589b1da926a5132e39c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.7"
     },
     "meet_bishop": {
       "name": "Sweetheart Bishop",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/bcb94df0d7970dbcf5c7fef4cabaaeabc3bcd030.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "fix_garden": {
       "name": "Even here",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/a02c945eb587f20f698946c4efe3a7ff060ae5a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.7"
     },
     "fix_mill": {
       "name": "The Mill",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ca92b9173fcfda341ee6c536805c0a68e9f47757.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "tech_b": {
       "name": "Just blue points",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ac951767fb6a43ec13d720bf1e7531e64488731e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "tech_b2": {
       "name": "More blue points!",
@@ -1045,7 +1045,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/021fed99adf5fb1365b5ff986870425871842311.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "dlc_souls_s_s_24": {
       "name": "A fortunate gift",
@@ -1126,7 +1126,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/942344e03635675f80fb9478908e2c3696131254.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     }
   },
   "platform": "PlayStation",
