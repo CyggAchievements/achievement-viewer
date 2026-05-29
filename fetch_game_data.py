@@ -18,6 +18,23 @@ EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
 TRIGGER_SOURCE = os.environ.get("TRIGGER_SOURCE", "")
 WARNED_MISSING_STEAM_API_KEY = False
 
+
+def env_int(name, default):
+    try:
+        return int(os.environ.get(name, default))
+    except (TypeError, ValueError):
+        return default
+
+
+FETCH_STEAMHUNTERS = os.environ.get("FETCH_STEAMHUNTERS", "1").lower() not in (
+    "0",
+    "false",
+    "no",
+)
+STEAMHUNTERS_TIMEOUT_SECONDS = max(env_int("STEAMHUNTERS_TIMEOUT_SECONDS", 8), 1)
+STEAMHUNTERS_MAX_PER_RUN = max(env_int("STEAMHUNTERS_MAX_PER_RUN", 35), 0)
+STEAMHUNTERS_REFRESH_APPIDS = set()
+
 REQUEST_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -92,12 +109,17 @@ async def fetch_steamhunters_achievements(appid):
             viewport={"width": 1280, "height": 800},
         )
         page = await context.new_page()
+        page.set_default_timeout(STEAMHUNTERS_TIMEOUT_SECONDS * 1000)
         try:
-            await page.goto(url, wait_until="domcontentloaded", timeout=15000)
+            await page.goto(
+                url,
+                wait_until="domcontentloaded",
+                timeout=STEAMHUNTERS_TIMEOUT_SECONDS * 1000,
+            )
             try:
                 await page.wait_for_function(
                     """() => window.sh?.model || Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh') || s.textContent.includes('listData'));""",
-                    timeout=5000,
+                    timeout=min(5000, STEAMHUNTERS_TIMEOUT_SECONDS * 1000),
                 )
             except PlaywrightTimeoutError:
                 print("    ! SteamHunters data model not found, skipping groups")
@@ -173,6 +195,23 @@ async def fetch_steamhunters_achievements(appid):
             return []
         finally:
             await browser.close()
+
+
+def fetch_steamhunters_with_timeout(appid):
+    try:
+        return asyncio.run(
+            asyncio.wait_for(
+                fetch_steamhunters_achievements(appid),
+                timeout=STEAMHUNTERS_TIMEOUT_SECONDS + 2,
+            )
+        )
+    except asyncio.TimeoutError:
+        print(
+            f"  ! SteamHunters timed out after {STEAMHUNTERS_TIMEOUT_SECONDS}s, preserving existing groups"
+        )
+    except Exception as e:
+        print(f"  ! Could not fetch SteamHunters data: {e}")
+    return []
 
 
 def load_top_owner_ids():
@@ -268,6 +307,47 @@ def get_changed_appids():
     except Exception as e:
         print(f"Warning: Could not detect changes: {e}")
         return []
+
+
+def configure_steamhunters_refresh(appids, full_run):
+    global STEAMHUNTERS_REFRESH_APPIDS
+
+    if not FETCH_STEAMHUNTERS:
+        STEAMHUNTERS_REFRESH_APPIDS = set()
+        print("SteamHunters refresh disabled by FETCH_STEAMHUNTERS")
+        return
+
+    if not appids:
+        STEAMHUNTERS_REFRESH_APPIDS = set()
+        return
+
+    if not full_run:
+        STEAMHUNTERS_REFRESH_APPIDS = set(appids)
+        print(
+            f"SteamHunters refresh enabled for {len(STEAMHUNTERS_REFRESH_APPIDS)} changed game(s)"
+        )
+        return
+
+    sorted_appids = sorted(appids, key=int)
+    if STEAMHUNTERS_MAX_PER_RUN == 0:
+        STEAMHUNTERS_REFRESH_APPIDS = set(sorted_appids)
+        print(
+            f"SteamHunters refresh enabled for all {len(STEAMHUNTERS_REFRESH_APPIDS)} games "
+            f"(timeout {STEAMHUNTERS_TIMEOUT_SECONDS}s each)"
+        )
+        return
+
+    window_size = min(STEAMHUNTERS_MAX_PER_RUN, len(sorted_appids))
+    # Rotate the refresh window every 6 hours so scheduled runs eventually cover all games.
+    window_index = int(time.time() // (6 * 60 * 60))
+    start = (window_index * window_size) % len(sorted_appids)
+    selected = (sorted_appids + sorted_appids)[start : start + window_size]
+    STEAMHUNTERS_REFRESH_APPIDS = set(selected)
+    print(
+        "SteamHunters refresh enabled for "
+        f"{len(STEAMHUNTERS_REFRESH_APPIDS)}/{len(sorted_appids)} games this run "
+        f"(timeout {STEAMHUNTERS_TIMEOUT_SECONDS}s each)"
+    )
 
 
 def load_json_file(file_path):
@@ -495,15 +575,15 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
         print("  ! Steam schema returned 0 achievements")
 
     steamhunters_data = {}
-    try:
+    sh_data = []
+    if str(appid) in STEAMHUNTERS_REFRESH_APPIDS:
         print("  -> Fetching extra data (groups) from SteamHunters...")
-        sh_data = asyncio.run(fetch_steamhunters_achievements(appid))
+        sh_data = fetch_steamhunters_with_timeout(appid)
         for item in sh_data:
             if item.get("name"):
                 steamhunters_data[item["name"]] = item
-    except Exception as e:
-        print(f"  ! Could not fetch SteamHunters data: {e}")
-        sh_data = []
+    else:
+        print("  ! SteamHunters group refresh skipped this run; preserving existing groups")
 
     if not achievements and sh_data:
         achievements = sh_data
@@ -558,12 +638,19 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
                     ]["description"]
                 achievements_info[api_name]["hidden"] = is_hidden
 
+            old_group = (
+                existing_info.get("achievements", {})
+                .get(api_name, {})
+                .get("group")
+            )
             if api_name in steamhunters_data:
                 achievements_info[api_name]["group"] = steamhunters_data[api_name].get(
                     "group", "Base Game"
                 )
             else:
-                achievements_info[api_name]["group"] = ach.get("group", "Base Game")
+                achievements_info[api_name]["group"] = (
+                    ach.get("group") or old_group or "Base Game"
+                )
 
             if not achievements_info[api_name]["description"]:
                 old_desc = (
@@ -585,8 +672,11 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
 # --- Determine AppIDs to process --- #
 
+full_run = False
+
 # FIXED: Process all games ONLY for scheduled runs or explicit manual trigger
 if EVENT_NAME == "schedule" or (EVENT_NAME == "workflow_dispatch" and TRIGGER_SOURCE == "manual"):
+    full_run = True
     appids = [f.name for f in appid_dir.iterdir() if f.is_dir() and f.name.isdigit()]
     print(f"Processing all {len(appids)} games (Reason: {EVENT_NAME} trigger with source: {TRIGGER_SOURCE or 'scheduled'})")
 
@@ -598,6 +688,8 @@ else:
     else:
         print("No game-specific changes detected. Exiting.")
         exit(0)
+
+configure_steamhunters_refresh(appids, full_run)
 
 # --- Load existing game-data.json --- #
 existing_game_data = {}

@@ -82,7 +82,7 @@ jobs:
             git checkout --theirs -- "$file"
           done
 
-          find AppID -type f \( -name "game-info.json" -o -name "missing hidden achievements" \) -print0 \
+          find AppID -type f -name "game-info.json" -print0 \
             | xargs -0 -r git add --
           git add -- top_owners.json game-data.json
 
