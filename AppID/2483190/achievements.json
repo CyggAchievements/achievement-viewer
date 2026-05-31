@@ -1,4 +1,12 @@
 {
+    "ACHIEVEMENT_24": {
+        "earned": true,
+        "earned_time": 1780264447
+    },
+    "ACHIEVEMENT_32": {
+        "earned": true,
+        "earned_time": 1780261075
+    },
     "ACHIEVEMENT_9": {
         "earned": true,
         "earned_time": 1780154225
@@ -119,10 +127,6 @@
         "earned": false,
         "earned_time": 0
     },
-    "ACHIEVEMENT_24": {
-        "earned": false,
-        "earned_time": 0
-    },
     "ACHIEVEMENT_25": {
         "earned": false,
         "earned_time": 0
@@ -140,10 +144,6 @@
         "earned_time": 0
     },
     "ACHIEVEMENT_30": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_32": {
         "earned": false,
         "earned_time": 0
     },
