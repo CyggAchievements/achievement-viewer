@@ -1,7 +1,7 @@
 {
   "appid": "2420110",
-  "name": "Horizon Forbidden West™ Complete Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1776465869",
+  "name": "Game 2420110",
+  "icon": "",
   "achievements": {
     "Trophy000": {
       "name": "All Achievements Obtained",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2420110/fa319935778d112a8cb5953f540739b1aa35c05e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "Trophy014": {
       "name": "Discovered Nemesis",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2420110/2dceef597dc30f6e38688aebeb510f764ca1c72b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "Trophy015": {
       "name": "Chose a Desert Commander",
