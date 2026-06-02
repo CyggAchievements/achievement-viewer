@@ -1,6 +1,6 @@
 {
   "appid": "275850",
-  "name": "No Man's Sky",
+  "name": "No Man's Sky 无人深空",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213",
   "achievements": {
     "NATURALIST": {
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/275850/26073e4adeebc0e8861425bcc0ffe5c13fc77e41.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "TRAILBLAZER": {
       "name": "The Stars, Like Dust",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/275850/1462168952dea039a1e8a8005d628d238aff7035.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "CRADLE": {
       "name": "Cradle",
