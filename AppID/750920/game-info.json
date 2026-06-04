@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/b8df572635ae75683f43e116ef24e288e2c142fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.0"
     },
     "DrCroft": {
       "name": "Dr. Croft",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/d9789967531ae838305d7f1d055d178cef1bca7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "MudMonster": {
       "name": "Chain Gang",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/f078f4423c2bf0fe066cdb7f86ed82f2c21cc095.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "51.8"
     },
     "ToTheNines": {
       "name": "To the Nines",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/e106541fb34f1fed6971fcc286da8141efd26e17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "GoodSamaritan": {
       "name": "Good Samaritan",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/879bcf9e5ec7dedd5b5b70221e97f4ab3b8084f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "SupriseAirAttack": {
       "name": "Surprise!",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/4c468db81fc0982e6e6f1147a876a38b7c50b6c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.3"
     },
     "PlayingWithFire": {
       "name": "Playing with Fire",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/1d84fc72d0d79ad5d2e79bc9d5812787210efba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "LegendaryHunter": {
       "name": "Legendary Hunter",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/6621676cdbadd85fba8e94ba421e0ca09e154505.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "camouflage": {
       "name": "First Blood",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/c6eb81df7c480fd22735ff51a537eb66421ba922.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "UnwantedTenants": {
       "name": "Unwelcome Guests",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/1cd28db3e3c10738ff000055b2c5d72db6a7a677.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "41.9"
     },
     "PrisonBreak": {
       "name": "I Believe Hakan Fly",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/27c22f6453f2305816502871416e651db8f3a2f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "HeartsAndMinds": {
       "name": "Hearts and Minds",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/bd8376716078f63ef42a89673a42fb4f6e824257.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "OnTheGo": {
       "name": "On the Go",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/951bc57a88171a495c3efb332bcd9c35350261e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "Thanksgiving": {
       "name": "Thanksgiving",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/09e1d352c88e2807ff40388ee83655e0ecd963c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.4"
+      "percent": "72.3"
     },
     "FireOflife": {
       "name": "Fire of Life",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/e413d526e8cb231f89062449f7c9c15cbf8dcf25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.3"
     },
     "TheUnderworld": {
       "name": "The Underworld",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/750920/629b09d72353fab12e3d78df4815921909d4412f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "ApexPredator": {
       "name": "Deadly Obsession",
