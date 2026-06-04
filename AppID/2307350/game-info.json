@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d2af08a20d9948d66018c60704fbb78ae37dd738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.5"
     },
     "ACH_MINE_DEATH": {
       "name": "Fidget",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/f8bed6ae9c9611573d8c5948329910ffb372c83a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.1"
     },
     "ACH_TED_DEATH": {
       "name": "Welcome Gift",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.9"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/4f989c3fd9b04074e70a827e68a2e9d9d60da096.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.2"
     },
     "ACH_FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/74e33ee06b1e44e3018320e30455bf8c88600ec0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.2"
     },
     "ACH_PLAYERS_3_COOP": {
       "name": "Changing Faces",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/bb6591f2500556f79b2ff91c37c619eac751bdee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "ACH_STORY_MISSION_1_SINGLE": {
       "name": "Trained and Ready",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/7f8a7c7c09af3f1d9a57d3fa15aef2653368f5c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.9"
     },
     "ACH_STORY_MISSION_2_SINGLE": {
       "name": "Finding the First Artifact",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/9bb21ac85e2ae21d0e8c3218ef82143a11a7c74d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.3"
     },
     "ACH_STORY_MISSION_3_SINGLE": {
       "name": "Into the In-Between",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/cad725c4502bccf22f3ec110f18049c4342e7c61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "8.0"
     },
     "ACH_STORY_MISSION_4_SINGLE": {
       "name": "Ringing the Bell",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/5682e4c1953c29eab185f9eb030ae03dcd1d2340.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.6"
     },
     "ACH_STORY_MISSION_5_SINGLE": {
       "name": "Unexpected Vacation",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/caba75ae846f7190a6223b7f75a87b79cac8ffc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.4"
     },
     "ACH_STORY_MISSION_6_SINGLE": {
       "name": "Diving Deep",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/272f00cde46dd5b2fb3bcf5db0a925384467f55f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.6"
     },
     "ACH_STORY_MISSION_7_SINGLE": {
       "name": "Heading to Town",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/de85f08eb13e343fbcbad511d293eb1e7dca4e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "4.0"
     },
     "ACH_STORY_MISSION_8_SINGLE": {
       "name": "Opening the Door",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/50833b62afd1aa4abb55521452c16d5ad8265380.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.5"
     },
     "ACH_STORY_MISSION_9_SINGLE": {
       "name": "Sacrificing a Little Friend",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/6d578679a078b0fcbe77d76eb37b971d81759766.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "ACH_STORY_MISSION_10_SINGLE": {
       "name": "Back to School",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/30faddd8240075b8099f9ff58934c9306dbb3963.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "ACH_STORY_MISSION_2_COOP": {
       "name": "Finding the First Artifact Together",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2aab999189331639b647a03b9078a9de1dde8685.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.8"
     },
     "ACH_STORY_MISSION_3_COOP": {
       "name": "Into the In-Between Together",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/44b6bdd0f3a2c7580f2bf426038403f3fd1799db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "5.2"
     },
     "ACH_STORY_MISSION_4_COOP": {
       "name": "Ringing the Bell Together",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/8ded4bac15d728b6df398cdf7edaf0fc61ae6255.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.8"
     },
     "ACH_STORY_MISSION_5_COOP": {
       "name": "Unexpected Vacation Together",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2c8e1b65467037fa152a307b2ca93f90197c8577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.8"
     },
     "ACH_STORY_MISSION_6_COOP": {
       "name": "Diving Deep Together",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/a7a96a2649dc1ee2489b1aad5aeaf40eae9c46f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ACH_STORY_MISSION_7_COOP": {
       "name": "Heading to Town Together",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d267d241ea2b0e3e32ddaede57ec656e972aaff6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.9"
     },
     "ACH_STORY_MISSION_8_COOP": {
       "name": "Opening the Door Together",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/6aaa1bb84920ddcce28a688d38c02d055bfe5818.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "ACH_STORY_MISSION_9_COOP": {
       "name": "Sacrificing a Little Friend Together",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/72606dbdf5b15dbe9d2de9a8cc8afaead2aa1eab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "ACH_STORY_MISSION_10_COOP": {
       "name": "Back to School Together",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/f9bc5b223203e78e457186f2d0612acd8a9c381c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.5"
     },
     "ACH_GLUTTONY": {
       "name": "Gluttony",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b5009a2913ff97d8b52a0a595831def11a6f3781.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.6"
     },
     "ACH_PETR_FIGURES_FOREST": {
       "name": "The Guide's Reflections, Chapter 1",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2a1e5bd89511c6d71f72930962718704e58b158e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "ACH_PETR_FIGURES_TOWN": {
       "name": "The Guide's Reflections, Chapter 2",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d5131e155c4ed4073c91dcc637a642c6b7da8afb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "ACH_ARTIST": {
       "name": "Artist",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/bf0cad64d5a1a93be7a5e43a198996af5193f914.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "8.1"
     },
     "ACH_IRONMAN": {
       "name": "Immortal",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/9390c2f5b3a9e534cbc319427513e3eb54640702.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "ACH_MISSION_END_COOP": {
       "name": "Shoulder to Shoulder",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/a29cd2f427217dcc9fa46f03341b7601be8c24ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "9.0"
     },
     "ACH_STORY_ENDING_SINGLE": {
       "name": "Path Chosen",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d77834c17ca30b7557956feca718d7a0dea15058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4"
     }
   },
   "platform": "Steam",
