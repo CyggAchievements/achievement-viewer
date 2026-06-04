@@ -1,4 +1,8 @@
 {
+    "ACHIEVEMENT_26": {
+        "earned": true,
+        "earned_time": 1780607117
+    },
     "ACHIEVEMENT_22": {
         "earned": true,
         "earned_time": 1780523021
@@ -128,10 +132,6 @@
         "earned_time": 0
     },
     "ACHIEVEMENT_25": {
-        "earned": false,
-        "earned_time": 0
-    },
-    "ACHIEVEMENT_26": {
         "earned": false,
         "earned_time": 0
     },
