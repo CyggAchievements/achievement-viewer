@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/334858ea508299f6fb3e69dc04a744248eea42e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.1"
     },
     "Survive30MinutesWithAxe": {
       "name": "Skull O'Maniac",
@@ -748,7 +748,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/be942b0d814fa8f612a8d034befca72a477ae456.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "Unlock3Hypers_Correct": {
       "name": "The Bone Zone",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/7e9371af29cd1a7e0fb8c97f7d8552d6479637bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "Survive31MinutesInLibrary": {
       "name": "XV - Disco of Gold",
@@ -1009,7 +1009,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/530292edb415d70196d090d2fd2e091d60a6b23e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "EvolveWind": {
       "name": "Fuwalafuwaloo",
@@ -1666,7 +1666,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/fd7ebcded7e55be1fef31ce8aac302c3c555c355.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "FindChaosRosalia": {
       "name": "EXTRA: Chaos Rosalia",
@@ -1837,7 +1837,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/7c84a2a965adae731853f7b3fb6c1314f002b712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "FindManyRosaries": {
       "name": "EXTRA: Laborratory",
@@ -1990,7 +1990,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/70d9ffa8b3e474f382859cd014a809b22782d9ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "FindAParmAegis": {
       "name": "EXTRA: Parm Aegis",
@@ -2017,7 +2017,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/245fb72b9aae5d0eda168e60e772b5468511f007.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.2"
     },
     "EvolveOfGaea": {
       "name": "EXTRA: Gazebo",
@@ -2062,7 +2062,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/84da912393f37114e2ae7cf6c6599637e2de9486.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "FindManyClovers": {
       "name": "EXTRA: Westwoods",
@@ -2071,7 +2071,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/0f456457bb4ac0186eff916b52e67f6c6193f4b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "Survive20minutesInWestwoods": {
       "name": "EXTRA: Chula-Reh",
@@ -2189,6 +2189,86 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "1.3"
+    },
+    "FindManyVacuums": {
+      "name": "EXTRA: The Lycaeum",
+      "description": "Find 50 Vacuums.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/e35e404a34c32d1edbe5508dc4eacba9fa5a5726.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/40034f1d3f384a378aeed16e46105c5ccabc20bc.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "Survive20minutesInLycaeum": {
+      "name": "EXTRA: Para Kooleo",
+      "description": "Survive 20 minutes in The Lycaeum. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/e4e503bb416d358a256a3a79a5a7cc614d4f355a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/38c5f3c8ef4c20e52dadfd44f20e71f042c40ca3.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EvolvePenshin": {
+      "name": "EXTRA: Penshin Facha",
+      "description": "Evolve the Penshin Fatcha.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/dfc88952b29de89d1edc7109b8d1468ce2bb7437.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/268df7983332dd7d223d4fa9a15d790202cbb423.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "BuyGreenEyesVizard": {
+      "name": "EXTRA: Green Eyes Vizard",
+      "description": "Find and buy the Green Eyes Vizard in The Lycaeum. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/ed580531cd3b1d75d5465f24e82cd5b20510c3fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/28aaa6ee6e92b1da9d26ad4bf9919143ef2e5cca.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "BuySurvarocchi": {
+      "name": "EXTRA: Survarocchi",
+      "description": "Find and buy the Survarocchi in The Lycaeum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/7b46d3eb3a57d1b36bfd968816fa56fb76116d35.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/7a6e96503da5b775cd3dba28c2090e349310c919.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "DefeatBatDragons": {
+      "name": "EXTRA: Big Troubler",
+      "description": "Defeat 1 Bat Dragon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/70329eb1351f95be36da776490f516a873179b02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/2d3eb1d3cf590e168dd7b6ef0c034a6ac710bc4f.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "EvolveUnearthlyBolt": {
+      "name": "EXTRA: Unearthly Bolt",
+      "description": "Evolve the Unearthly Bolt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/8e2876b06d67dae86700b74f53209e1ab97ea3b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/a9dc1fabd3288f2934c969fb89941bd1152f359f.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "Dark_00Troubler": {
+      "name": "EXTRA: 0 - Stake to your Heart",
+      "description": "Defeat a Bat Dragon with Big Troubler while using the Game Killer Arcana. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/292ae67fce1d27c6f051f1708c57a254b3fe6f81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/b0c217b09b475f48711c8324f4a086d82c33a49f.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "Dark_08ParaKooleo": {
+      "name": "EXTRA: VIII - Edge of the Earth",
+      "description": "Trigger a Lavatrix Machina with Para Kooleo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/4d990ff4e1f60642b66f134ded24942d15d889d3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/dacf46897f8a1746cae3a253ef271e9c2c688a13.jpg",
+      "hidden": false,
+      "group": "Base Game"
+    },
+    "Dark_19Challenge": {
+      "name": "EXTRA: XIX - Heir of Fate",
+      "description": "Survive 15 minutes in Inverse Boss Rash with Random Events and Random Level Ups.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/dc6aa6a96e6c13302c7b6152ddf2418d5ff56242.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/7e5198dfee339b0954f9f790b48c0446ff59cd89.jpg",
+      "hidden": false,
+      "group": "Base Game"
     }
   },
   "platform": "Steam",
