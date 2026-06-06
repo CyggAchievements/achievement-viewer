@@ -1,0 +1,388 @@
+{
+  "appid": "1297900",
+  "name": "Gothic 1 Remake",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780681474",
+  "achievements": {
+    "ACH_Story_01": {
+      "name": "Sect-ary",
+      "description": "Complete Chapter 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/9588697a560cd41918cb385bcd6daf6888923ad2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/6e87dd129be7069b8229d2c486697257dcb17a53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_Story_02": {
+      "name": "Focus Maniac",
+      "description": "Complete Chapter 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/502dc24327169d6caecaa45da674075c20a20760.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fa929e402220b1237951a0f3c47789cf3d0e7326.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Story_03": {
+      "name": "My new friend the Necromancer",
+      "description": "Complete Chapter 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/8002fc8a311b5b8eb6bac80e09d638e811747316.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/491e9af876f0b49578e8567e5bd6c9859e2ff857.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Story_04": {
+      "name": "Orc Culture Ninja",
+      "description": "Complete Chapter 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/a7bfa71e1d5c52937fc4f369b258ce60c3d17af0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4916df2c93221b35383ef8c6dfbce21afa7a82fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Story_05": {
+      "name": "The Sleeper awakens...Not!",
+      "description": "Complete Chapter 6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/5901a17a64043d1cd0b5c0bf85a2b9b04f252248.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/d4f7862b9762fb445f3009340fa74f5a2443e2b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Story_06": {
+      "name": "The Sleeper is with you",
+      "description": "Enter the Sleeper Temple",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4ab5711c5080df36d4b799fe377fdcb30f10b741.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/77bdf7eb655939937861c436fd25d3627eb37b28.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_Story_07": {
+      "name": "Foreign Language Master",
+      "description": "Learn Orcish Level 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/3867e4f56ea7df78c21d105944ef7ae0c564a7eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/0bf47954826c6d848376c0ff50af458dfd8d93d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Story_08": {
+      "name": "The Fixer",
+      "description": "Complete “Escape Plan” Quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/5d8c27f978be77b64194dfff09e3dac48420a619.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/84b80e73e33d1f9d890b2d5048257af6ea725d40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Story_09": {
+      "name": "The Anatomaniac",
+      "description": "Complete Cavalorn Books Quests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/0e48ef2b6209c66db335eb5ab513af227d9b1479.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1299c54d2b1f721c15287cfbb788211e6a7fb504.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Story_10": {
+      "name": "True Stranger",
+      "description": "Complete Chromanin Quests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/d00c7a51768c473fe9d7feda88cbdc7584258a59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/51dc1e2459709c3b5564a78ecb1026b3697eee2f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Camp_01": {
+      "name": "Gomez' Paperboy",
+      "description": "Join Old Camp",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/dc15188c3263ba3604ff6003ad3c8fc3d5b668fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/a5c24d218ca225435351e490bc20d9ced41198a5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACH_Camp_02": {
+      "name": "Lowlife",
+      "description": "Join New Camp",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/441422d5269bd1114c8b5231a2fe2f9f37723fae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/34fcaade64c2142888bf9ed5e081b769f61ee6c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_Camp_03": {
+      "name": "Cult Loon",
+      "description": "Join Swamp Camp",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/a81fce7a965ae53eb5a84f3556e9b259eb7e4fd6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1261d5dd3a6d5e47260fbebdd00fd3d47bb552d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "ACH_Rank_01": {
+      "name": "Way of the Guild",
+      "description": "Rank Up in any Guild",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/5189d10c64fb06b611f9f517b38be67d2c18bf9b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fb8fb6d0761cb724257a4ae2e6b47e4ae41af1b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_Maps_01": {
+      "name": "Map Sniffer",
+      "description": "Get all the Maps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/5844a5317e7c771443ae139ae8d5fbb6b9d2a43f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/04d829d1bbcc8997495059f513e134d666a433fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Weapons_01": {
+      "name": "Adept of Arms",
+      "description": "Get master in all Melee Weapons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fd85449b8ed6e9376640a1e873b3fde09874bebe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/286be01a7e15dc4a6c164837c4a8674c72fff390.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Weapons_02": {
+      "name": "String Wielder",
+      "description": "Get master in all Ranged Weapons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/6531792804119957ddc62a39e1d1b92b6b284bb1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/8acfec36f88e0e3627c27ca64946b627300857b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Mage_01": {
+      "name": "Abracadabra",
+      "description": "Get the 6th Magic Circle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/109c243402ec99edead728e41f5e630f0b663335.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/ad8bb4b403004f11ce39f3ecff9b3ab0e4cc3bb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Secret_01": {
+      "name": "No gate can stop you",
+      "description": "Sneak into the Old Camp",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4f05ea5a7de3dcc13bd6656743518e747d8d9597.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/5cd60075a161f40cd4d3415c427c5a6d69293854.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Secret_02": {
+      "name": "In bed with Xardas",
+      "description": "Visit Xardas' room",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4b221fb70e7dcb4a25a8539e4c76f9d30e6cddb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fe1dec5815cf19ecdfe4ea055ab1d78ae6b8dbb1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Armor_01": {
+      "name": "Armor-geddon",
+      "description": "Get Ore Armor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/bf601c914f8a9904dcacd2d96b9b04f3b6b9dec0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/90e4a06d7cba9d94e4b0b51cbce9208a455d83e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "ACH_Armor_02": {
+      "name": "Pimp my armor",
+      "description": "Get all the mods for an Armor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/6e0d50ddbdf02b21299c019284a393fbd654bf79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/de6e2542889022136cdfc4f97eeb66a6cba671f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Fight_01": {
+      "name": "The way of the fist",
+      "description": "Defeat 10 enemies using your fists",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/98d4bec9089d035f2d3fa990c621280369f3e54f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/9ed35c8467e7814b473f6c5df8395a3d85a09ee5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_Mage_02": {
+      "name": "Transformer",
+      "description": "Transform into all creatures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/475e19339b54d4f25ffd6f2619e338d9f9c378af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/86e4a6143cf377ac9e81458412965f90813235ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Thief_01": {
+      "name": "Garrett",
+      "description": "Pickpocket from 20 characters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/7f16411efcbbb0c9bc7e206d41962a082f92a8b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/580fd7a1da4c6af97e2f3cbad20e6a7b4524dc79.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Thief_02": {
+      "name": "Master Garrett",
+      "description": "Unlock 20 locks with lockpicking",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/703577360adacd3102da70b19a0deff468e1ad61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/9dfa3820cb36628b48f1898b844a208bc14f5eff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ACH_Crafter_01": {
+      "name": "Crafting Newbie",
+      "description": "Craft your first item",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/cca8ad17b40761af6f2ad6a2227f2e80b9f706cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1afe01a13e3a062f53ce034f0a07ff35d012aca6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.4"
+    },
+    "ACH_Crafter_02": {
+      "name": "Anvil Enthusiast",
+      "description": "Craft 5 weapons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/58a5b9cb5453f67d9918661915c94672fce2c8ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/7ada4d70d3273f670fc6fa6ae2b1cc34a279b9f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "ACH_Crafter_03": {
+      "name": "Alkimist",
+      "description": "Craft 10 potions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/6e665b7b170b53ad849aab3a445568a6cd8d51e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/dfb06b7e7b3fcb0775acac371973dbcf6c7f066f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Crafter_04": {
+      "name": "Scribbler",
+      "description": "Craft your first scroll",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/550629579785b85323892c17d6c8852ff6812bcc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1a21d50e4808a00f58fa2c7e2051121b2765491a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Funny_01": {
+      "name": "Mud Freak",
+      "description": "Exhaust all of Mud's dialogue options",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/0ee7dbf4ffdd79d3b7e8f2bccef1638ef7a14d2f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/dfe05b748b09ebf145a357d2b31c556dca0ca712.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_Funny_02": {
+      "name": "Gravity Kills",
+      "description": "Kill an enemy by using fall damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/3236240cfc051697e78504ec599d5c3d4c3c9371.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/169ecdbfebb50e25440da9b2d15d38752deb9238.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_Story_11": {
+      "name": "Mercy Over Madness",
+      "description": "Spare Gomez’s Life",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4509fbb1725775aaf2a301ab29a624434d386cad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/cbabdec2675d076eb2961e4cad64a1bc20cc0e20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Mage_03": {
+      "name": "Elemental Showoff",
+      "description": "Deal all 3 elemental damage types to the same enemy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/45894e9215d95e1ccc0c42ac7d1c33c9c29e4849.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/3bd2f2d211e223a1f3889b02606409c8c7b9e185.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Fight_02": {
+      "name": "Deflecto",
+      "description": "Parry an enemy 5 times without dodging or receiving damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/9385d24f60f55c51d627b230a830ed8f452196d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/de6b5e33867977fe8fb81adb6da90cbfc3690f82.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_Teacher_01": {
+      "name": "Overachiever",
+      "description": "Learn all the lessons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4c5870342a4cee964c904afdf855457a303a74fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/464a6adc617f74eb6e886a05cea03896f6111bc1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Ranged_01": {
+      "name": "Headshot Houdini",
+      "description": "Kill 10 enemies with headshots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/810deca11dd9449e6727a239cef24477a16fbba8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1e6b4040ee783dc9ce58f0de7db9156091428058.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACH_Challenge_01": {
+      "name": "Insomnia Champion",
+      "description": "Complete the game without sleeping",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1024541789a52cf595578068c00d5f7bc0154b60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/c0bd238624616c9be33d35d1f8285b555edc4311.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Challenge_02": {
+      "name": "No time to die",
+      "description": "Complete the game in permadeath mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4612644c900a6be61a683742494e1376efee747a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/091759ee0ef6bd99ef5e0c59128a93aebb0b4f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_Hidden_01": {
+      "name": "Bookworm",
+      "description": "Read 10 books",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/2748ce7813ad42fb938971a77825ee2a6f07b6ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/6292bc3afbbfd371ef3f43b98bfa795802e1c6d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_All": {
+      "name": "Colonyholic",
+      "description": "Get all Achievements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/c7305f6799ccc9be65d922a04dd6fc96b4f92bda.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/b0d1e739dd3f6e7b1b2f4a12beb74d86db447c88.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH_AllPlus": {
+      "name": "Gothic 1 Remake Completionist",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/607daa6eaa029ca4dfaa46e93635e296f58fe438.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/c74066896a38b30bcfb957c53c7a061365067f07.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}
