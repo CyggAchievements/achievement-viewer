@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/6e87dd129be7069b8229d2c486697257dcb17a53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.3"
     },
     "ACH_Story_02": {
       "name": "Focus Maniac",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fa929e402220b1237951a0f3c47789cf3d0e7326.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "ACH_Story_03": {
       "name": "My new friend the Necromancer",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/77bdf7eb655939937861c436fd25d3627eb37b28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "ACH_Story_07": {
       "name": "Foreign Language Master",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/a5c24d218ca225435351e490bc20d9ced41198a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.9"
     },
     "ACH_Camp_02": {
       "name": "Lowlife",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/34fcaade64c2142888bf9ed5e081b769f61ee6c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.9"
     },
     "ACH_Camp_03": {
       "name": "Cult Loon",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1261d5dd3a6d5e47260fbebdd00fd3d47bb552d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.4"
     },
     "ACH_Rank_01": {
       "name": "Way of the Guild",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fb8fb6d0761cb724257a4ae2e6b47e4ae41af1b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "1.0"
     },
     "ACH_Maps_01": {
       "name": "Map Sniffer",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/90e4a06d7cba9d94e4b0b51cbce9208a455d83e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "ACH_Armor_02": {
       "name": "Pimp my armor",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/9ed35c8467e7814b473f6c5df8395a3d85a09ee5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACH_Mage_02": {
       "name": "Transformer",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/580fd7a1da4c6af97e2f3cbad20e6a7b4524dc79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACH_Thief_02": {
       "name": "Master Garrett",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/9dfa3820cb36628b48f1898b844a208bc14f5eff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "6.3"
     },
     "ACH_Crafter_01": {
       "name": "Crafting Newbie",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1afe01a13e3a062f53ce034f0a07ff35d012aca6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.0"
+      "percent": "81.1"
     },
     "ACH_Crafter_02": {
       "name": "Anvil Enthusiast",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/7ada4d70d3273f670fc6fa6ae2b1cc34a279b9f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.9"
     },
     "ACH_Crafter_03": {
       "name": "Alkimist",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/dfb06b7e7b3fcb0775acac371973dbcf6c7f066f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "ACH_Crafter_04": {
       "name": "Scribbler",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1a21d50e4808a00f58fa2c7e2051121b2765491a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "ACH_Funny_01": {
       "name": "Mud Freak",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/dfe05b748b09ebf145a357d2b31c556dca0ca712.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.4"
     },
     "ACH_Funny_02": {
       "name": "Gravity Kills",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/169ecdbfebb50e25440da9b2d15d38752deb9238.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ACH_Story_11": {
       "name": "Mercy Over Madness",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/de6b5e33867977fe8fb81adb6da90cbfc3690f82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "ACH_Teacher_01": {
       "name": "Overachiever",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/1e6b4040ee783dc9ce58f0de7db9156091428058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "12.6"
     },
     "ACH_Challenge_01": {
       "name": "Insomnia Champion",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/6292bc3afbbfd371ef3f43b98bfa795802e1c6d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "ACH_All": {
       "name": "Colonyholic",
