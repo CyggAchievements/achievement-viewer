@@ -1,6 +1,6 @@
 {
   "appid": "1895880",
-  "name": "Ratchet & Clank: Rift Apart",
+  "name": "Ratchet & Clank: Una dimensión aparte",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg?t=1750956328",
   "achievements": {
     "Platinum_Trophy": {
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895880/7547d014e79673dcee45868393414174cb900299.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.9"
     },
     "Complete_Ard": {
       "name": "Rated Aaarrr!",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895880/150d9b889a3299be1daa975801cd7efb3ff34326.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.1"
     },
     "Complete_Zord": {
       "name": "I'm the Warden Now",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895880/dc7ab62c6553ed3487615cbbbcaae593a438fe72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "Balloon_Bounce": {
       "name": "BOING!",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895880/4e0215d600c1c7d48dbee63706cfb46cad4400fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "53.8"
     },
     "Hot_Springs": {
       "name": "Max Relax",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895880/2544f5dddbabf44987fe3ee48ca2a4ca452a226c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "49.6"
     },
     "Kill_Topiaried_Enemies": {
       "name": "Extreme Gardening",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895880/344e97aab7bab64597c289d26d310a637c94f267.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "Zerpstones_Intro": {
       "name": "Feeding Friendsy",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895880/b6a9699c57492c4524dee945bdd401dc7d106da3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.3"
     },
     "Blizar_Honey": {
       "name": "Sweet, Sweet Victory",
