@@ -1,7 +1,7 @@
 {
   "appid": "3159330",
-  "name": "Assassin’s Creed Shadows",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1775589420",
+  "name": "刺客信条：影",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header_schinese.jpg?t=1775589420",
   "achievements": {
     "ACShadows_Ach_1": {
       "name": "Prologue",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/08406a04237194871f70b6564e1faa2da5dd4937.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "ACShadows_Ach_10": {
       "name": "The Ronin",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/b946eee2fc66a6f1f5a612815d1a30594182959e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.7"
     },
     "ACShadows_Ach_11": {
       "name": "The Warrior Monk",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/3f66c03a72b2d7b510f751a02bdbde59e31b88e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.3"
     },
     "ACShadows_Ach_14": {
       "name": "Front of the Pack",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/880362474b552ebfd4e1c19d7a52279a7cc458cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.9"
+      "percent": "44.8"
     },
     "ACShadows_Ach_18": {
       "name": "Better than a Bucket",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/ee5f9cf12a07b414808b3f2277273b897d591aa1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "ACShadows_Ach_20": {
       "name": "In Case of Trouble",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/13f370cf299392eb524e6b622aeda6f04a586554.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.8"
+      "percent": "80.7"
     },
     "ACShadows_Ach_47": {
       "name": "Chase the Morning",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/3dfcccb1debb1440bbee9a5b68f0ad7b3789a262.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "48.8"
     },
     "ACShadows_Ach_49": {
       "name": "Everybody Benefits!",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/d879ab736b9b455a04ec0657360816f979500757.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "ACShadows_Ach_52": {
       "name": "Scouting Mission",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/2738f2d1f74ac3c8442e3d1f8bd13e141ab06bef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACShadows_Ach_71": {
       "name": "Skill Swap",
