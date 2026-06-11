@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/9a7c9a79811298e68b4d2c75d49b4c22e47e3651.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "JUDGE_MAIN_STORY_04": {
       "name": "Blowing the Lid Off",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/b8c39ab1d7bb555f52383d6218400b3c060b92ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.4"
+      "percent": "44.5"
     },
     "JUDGE_MAIN_STORY_06_HIDDEN": {
       "name": "The Final Nail",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/5ef21b50c7c39c4c5a757aa7e5feaee7a85b0cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "JUDGE_SIDE_CASE_ALL": {
       "name": "Got to the Bottom of It",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/523806faefeee453731b4af823b6f36855964780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "JUDGE_GIRL_FREND_B": {
       "name": "Ladies, Please",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/1963dd779eaffb5bbd0ec891bbaec5f932ebc146.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "JUDGE_SKILL_A": {
       "name": "Skill Dabbler",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/621691de9c2e64d3dcd7c24c1ef7e1d08e1bd27f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "JUDGE_ALL_COMPLETE": {
       "name": "KamuroGo Master",
