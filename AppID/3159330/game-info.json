@@ -1,7 +1,7 @@
 {
   "appid": "3159330",
-  "name": "刺客信条：影",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header_schinese.jpg?t=1775589420",
+  "name": "Assassin’s Creed Shadows",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1775589420",
   "achievements": {
     "ACShadows_Ach_1": {
       "name": "Prologue",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/2e689359eabdf85d1bd1ee56cb10a684349d3b32.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "ACShadows_Ach_4": {
       "name": "Fall of the Shinbakufu",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/9187f5a2b58a9b7462882c1a04fcc52d2d4705fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.3"
     },
     "ACShadows_Ach_28": {
       "name": "Adept Shinobi",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3159330/13f370cf299392eb524e6b622aeda6f04a586554.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.7"
+      "percent": "80.8"
     },
     "ACShadows_Ach_47": {
       "name": "Chase the Morning",
