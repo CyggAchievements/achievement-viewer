@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "FindPrecursorGun": {
       "name": "Ancient Technologies",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "FindPrecursorLavaCastleFacility": {
       "name": "Thermal Activity",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.8"
     },
     "FindPrecursorLostRiverFacility": {
       "name": "Follow the Lost River",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.3"
     },
     "FindPrecursorPrisonFacility": {
       "name": "Fourteen Thousand Leagues Under the Sea",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "CureInfection": {
       "name": "Optimal Health",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "DeployTimeCapsule": {
       "name": "Leave Only Time Capsules",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "14.0"
     },
     "FindDegasiFloatingIslandsBase": {
       "name": "Seaside Living with an Ocean View",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "FindDegasiJellyshroomCavesBase": {
       "name": "Follow the Degasi",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.6"
     },
     "FindDegasiDeepGrandReefBase": {
       "name": "Seamonsters",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "BuildBase": {
       "name": "Settling in for the Long Haul",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "BuildExosuit": {
       "name": "Ordered the Prawn",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.4"
     },
     "LaunchRocket": {
       "name": "Go Among the Stars",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "14.0"
     },
     "HatchCutefish": {
       "name": "\"Man's Best Friend\"",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/264710/680214ffd7727865ea404b897aecbc0f667a9377.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     }
   },
   "platform": "PlayStation",
