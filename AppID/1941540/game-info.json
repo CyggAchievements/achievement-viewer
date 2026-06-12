@@ -1,7 +1,7 @@
 {
   "appid": "1941540",
   "name": "Mafia: The Old Country",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/94d3af12b91008d0ec0e872a2d5aeb61ac941a93/header_alt_assets_1.jpg?t=1780699604",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/b1d7f16413a7c115426af699b4770924c27b8ef1/header_alt_assets_1_brazilian.jpg?t=1780699604",
   "achievements": {
     "Achievement_1_Id": {
       "name": "The Carusu",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.7"
+      "percent": "70.8"
     },
     "Achievement_10_Id": {
       "name": "Total Shutdown",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "66.6"
     },
     "Achievement_12_Id": {
       "name": "Neutral Ground",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "Achievement_28_Id": {
       "name": "Driving in Style",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.9"
+      "percent": "79.0"
     },
     "Achievement_34_Id": {
       "name": "Bona Furtuna",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "Achievement_57_Id": {
       "name": "Seasoned Hunter",
