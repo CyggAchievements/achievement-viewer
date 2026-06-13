@@ -1,7 +1,7 @@
 {
   "appid": "356190",
   "name": "Middle-earth™: Shadow of War™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header_arabic.jpg?t=1780594801",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header_brazilian.jpg?t=1780594801",
   "achievements": {
     "GemForge": {
       "name": "Forger",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/22f46c5198e88d69fd42d37f788e81dd2d503c03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.4"
     },
     "GondorCompleted": {
       "name": "For Gondor",
