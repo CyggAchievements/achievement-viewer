@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/c7f3fcd969edb28fa69749d1ba3a7f344785372e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.2"
     },
     "BROTHERS_KEEPER_ACHIEVEMENT": {
       "name": "My Brother's Keeper",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/61a68833c00a2cc440418f6dd69dffa7edd7a856.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "WAKE_ACHIEVEMENT": {
       "name": "Take Control",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/a01a45b90fd2498e26b358a0d97d31b8caae34e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "PARANATURAL_POWERHOUSE_ACHIEVEMENT": {
       "name": "Paranatural Powerhouse",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/43234bd62fa8cb485b09b5ad90e2a8a39cf428a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "VIVA_PINATA_ACHIEVEMENT": {
       "name": "Vending Spree",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/1d7d617f115e69dd46ecdd987f28462894c4e8a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.7"
     },
     "PROBLEM_SOLVER_ACHIEVEMENT": {
       "name": "Crisis Management",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/b4f7d1e234e99aee794adaf3b1a88d421ef3e7ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     }
   },
   "platform": "PlayStation",
