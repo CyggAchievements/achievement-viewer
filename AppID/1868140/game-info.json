@@ -1,7 +1,7 @@
 {
   "appid": "1868140",
   "name": "DAVE THE DIVER",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/3f5b136a2a0284a02bdc03533a4041d358c4d7b2/header_alt_assets_2.jpg?t=1781776768",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/3f5b136a2a0284a02bdc03533a4041d358c4d7b2/header_alt_assets_2.jpg?t=1781777209",
   "achievements": {
     "Achievement_14130001": {
       "name": "Bancho Sushi is Back!",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/e3bc3bac49913fed5d8b4302e7dac20a794fde8b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.2"
+      "percent": "86.1"
     },
     "Achievement_14130002": {
       "name": "Undersea Gunslinger",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/dd09ad25082098de1be56dde6901ed699b070711.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "58.5"
     },
     "Achievement_14130012": {
       "name": "Influencer",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/874df4857c15238e10f3ff45ce884f1d4f5c6998.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.0"
+      "percent": "80.9"
     },
     "RootingItems_GTID_1": {
       "name": "Scrap Metal Collector",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/911137ce4bf1121616ab6a7e693568577caa032e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.6"
     },
     "CloseCombatExpert_0": {
       "name": "Mister Melee",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1868140/fd7688b54379d7f4bce85443546271933bd7013f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "Achievement_14130029": {
       "name": "Ration Eater",
