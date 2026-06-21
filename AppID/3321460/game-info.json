@@ -1,7 +1,7 @@
 {
   "appid": "3321460",
-  "name": "Crimson Desert",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893",
+  "name": "红色沙漠",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60deed54212e33f60b20686ec1f18d3f776ec973/header_schinese.jpg?t=1781661893",
   "achievements": {
     "NoviceAdventurer": {
       "name": "Novice Adventurer",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/732775acff20d36fe99c965fb1278ad4d6cadc3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "1.9"
     },
     "GreatWeaponMaster": {
       "name": "Master of Two-Handed Weapons",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/15c862f80c986b21c0e93445d5e84c4d89f08c11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "SceneryPilgrim": {
       "name": "Pilgrim of Wonders",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3321460/19446c5736708aee5d9e0302ba222c92e60382f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.3"
     },
     "UltimateHunter": {
       "name": "Ultimate Hunter",

@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.7"
+      "percent": "83.6"
     },
     "15": {
       "name": "I Wanna Be A Pirate!",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.0"
     },
     "79": {
       "name": "Another Pirate's Treasure",
@@ -1036,7 +1036,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "130": {
       "name": "Tome of Fire Collector",
@@ -1081,7 +1081,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "135": {
       "name": "Tome of Resurrection V",
@@ -1765,7 +1765,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "211": {
       "name": "A Veteran Voyager",
@@ -2098,7 +2098,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "248": {
       "name": "Guardian of Siren Song",
@@ -2152,7 +2152,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.4"
     },
     "254": {
       "name": "Pay Your Respects",
@@ -2512,7 +2512,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/62315185c9a7f4bc5cdd456d7aa4b28c84f7d94d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.6"
     },
     "296": {
       "name": "Shady Smuggler",
@@ -2557,7 +2557,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "301": {
       "name": "Explorer of Sacred Places ",
@@ -2575,7 +2575,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "303": {
       "name": "Violet Violence",
@@ -2619,8 +2619,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/e2769181a4e56ad5ee92bf74f42e9c4c4776feb9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "308": {
       "name": "So. Much. Silver!",
@@ -2628,8 +2627,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/e2769181a4e56ad5ee92bf74f42e9c4c4776feb9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "309": {
       "name": "Tentacled Tribute",
@@ -2637,8 +2635,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/e2769181a4e56ad5ee92bf74f42e9c4c4776feb9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
       "hidden": false,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     }
   },
   "platform": "Xbox",
