@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "The Witcher 3: Wild Hunt",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+  "name": "Ведьмак 3: Дикая Охота",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/47273f809e429a272f35c252b49d9bba83e2cf30/header_russian.jpg?t=1768303991",
   "achievements": {
     "LILAC": {
       "name": "Lilac and Gooseberries",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/8246dc3a496e13c058572dab37099e76a6cd0b77.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.6"
     },
     "FRIEND_IN_NEED": {
       "name": "A Friend in Need",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/cea97617b65ab7d42f37cbb9a77c7290775c789a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "NECROMANCER": {
       "name": "Necromancer",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/b62989d97d6a7ba6a6665b1fbb5a51d4aa9b93dc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "SOMETHING_MORE": {
       "name": "Something More",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/623f3f8eca35da6aba96d116a5e4ad23e654a3ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "XENONAUT": {
       "name": "Xenonaut",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/a78968ba3078d80101eeba100efa26bb96c90f0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "THE_KING": {
       "name": "The King is Dead",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/67f5b9e4908b0f9dc3e4d49832977e79b874d632.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "PASSED_THE_TRIAL": {
       "name": "Passed the Trial",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/369497d2df3dc73a08f7e7ec865b0a2dd7ff13ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "ASSASSIN": {
       "name": "Assassin of Kings",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/d0dd0e6d399623a32de59646aa1a300704b7a7df.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "FULL_CREW": {
       "name": "Full Crew",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/7c8411f39dbfcf908cb91135d9afda99d26ea368.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "HUMPTY_DUMPTY": {
       "name": "Humpty Dumpty",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/9f00025ca51d74d3929bd492d57b921f1bea96bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "BUTCHER_OF_BLAVIKEN": {
       "name": "Butcher of Blaviken",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/5c617bc94010e4bb7d23eb0db50108a5f2cf233e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.4"
     },
     "TRIPLE_THREAT": {
       "name": "Triple Threat",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/9e93a5012fa1c520d934f5f4836985291284646a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.7"
     },
     "PEST_CONTROL": {
       "name": "Pest Control",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/47c15cc475e18c34d369d531a9abfb6bfbd99cc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "BOMBARDIER": {
       "name": "Bombardier",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/efc19f9cbeefa69869e654632288d4d8b155ab0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "BOOKWORM": {
       "name": "Bookworm",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/b692ab0b163f744f8b7ea26fd81e58951b0a9f70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "FAST_AND_FURIOUS": {
       "name": "Fast and Furious",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/0893476fe864c5188cc76d03e1a8ace517ac7f24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "FIRE_IN_THE_HOLE": {
       "name": "Fire in the Hole",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/000721a11483b0c4aad92dc83543fda0c0b7aa59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "WOODLAND_SPIRIT": {
       "name": "Woodland Spirit",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/a11c3c28646a4e9d797f403c938e22b42af267bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.3"
     },
     "ASHES_TO_ASHES": {
       "name": "Ashes to Ashes",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/710954914a2380b12104b4cec3c2a9167212fbd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "EP1_1": {
       "name": "I'm Not Kissing That",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/8b35a10960aafba47edcca4e3e2aa2002b08f283.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "EP1_4": {
       "name": "Curator of Nightmares",
@@ -622,7 +622,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/20f1836bded02bf222fcc5fb15e9d46a6101ce52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "EP2_5": {
       "name": "Embodiment of the Five Virtues",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/02afd63cb8659ee0a9b80be913a2e760b4840354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "EP2_9": {
       "name": "The Grapes of Wrath Stomped",
