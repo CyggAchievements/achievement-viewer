@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b773b9b6b9a4e745eb922b01e16d9b9fd8ca696c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.0"
     },
     "08_KillCharacter_Stalker_Kill": {
       "name": "Stalker",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/379a35d671474d300f12bf9be90f3745853b8eaf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "15_KillCharacter_Gorgon_Kill": {
       "name": "Demogorgon",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/3bec5987bcd74e1394a72a1cf0f1d7fc97eb206a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "43_KillCharacter": {
       "name": "Cruel Liberator",
