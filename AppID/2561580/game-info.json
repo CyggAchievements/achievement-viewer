@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/25017b2778e0766551fe48793de8dedd9aa6214e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "10vulnerablemachinekills": {
       "name": "10 Vulnerable machine kills",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a388ce88c45fe71aea649be04852407702667c96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "7typesofmachineoverridden": {
       "name": "7 types of machine overridden",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/f19450568ff28f8ffcc4fa8292a925efc44ed43c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.6"
     },
     "allcombatmachineskilled": {
       "name": "All Combat machines killed",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a2c607fe4129dfb995d03f645b4cebd2e5f0bd74.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "reachedlevel10": {
       "name": "Reached level 10",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/d7332ceb55e073adba9b0e6816df72c435b2b538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "reachedlevel40": {
       "name": "Reached level 40",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/e4746af7cb55254e335df81e6db17c4274fa3a9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.2"
     },
     "firstbanditcampcleared": {
       "name": "First Bandit Camp cleared",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/c45c58434183902e0d9df7f4dd04eba16a9370ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "45.8"
     },
     "firstcoreoverridden": {
       "name": "First Core Overridden",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/3bb3af182a46f6690b06cd1ab9bb47d0f89d33e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "alltallnecksoverridden": {
       "name": "All Tallnecks Overridden",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/dfd269f598d3cdcabef923043944fb4ae599ba20.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "allcoresoverridden": {
       "name": "All Cores Overridden",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/e792ef0b4e220ab1615b4bcd46bdf3d51458be7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "blazingsunsatallgrounds": {
       "name": "Blazing Suns at all Grounds",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/d94bf3e534b15055ba7a5e23f9e36561c3425068.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "allmachinescatalogued": {
       "name": "All machines catalogued",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/76f5e2b678ad59f78a05ef36acbf262e4cc71d80.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "allvantagesfound": {
       "name": "All Vantages found",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/b8b8bd1f4787790927c522f68bfcaecb15fd9b5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "allmetalflowersfound": {
       "name": "All Metal Flowers found",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/6bfef320ad61c40a37acd559a549f12c35fd481a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "gottheshieldweaveroutfit": {
       "name": "Got the Shield-Weaver outfit",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/1efa4775b0c4f2b737e255a06df6e03fa64561b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.9"
+      "percent": "74.0"
     },
     "defeatedthesawtooth": {
       "name": "Defeated the Sawtooth",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/31deda1e708f903b7062a766c04cbe722c398c63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "crashedtheeclipsenetwork": {
       "name": "Crashed the Eclipse network",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/32863da1bcfe43b14098464ed0c6f851161c9314.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "recoveredapowerfulweapon": {
       "name": "Recovered a powerful weapon",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a0e4730c3791bb02b2840321269adc812310ea61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     },
     "allalliesjoined": {
       "name": "All allies joined",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/12484df45fb5b836a7be11875c2186ea4bea73eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "endedthewarmachinethreat": {
       "name": "Ended the war machine threat",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/f803c74ef51649d2ab6092992ea4348dbf66203f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "victoriouswiththewarchief": {
       "name": "Victorious with the War-Chief",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/c0d49d373972b5f8d857b4edfa39782a8256db38.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "aidedthedefectors": {
       "name": "Aided the defectors",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/8ab2deda85e37a8043cfd206eac3d2a5fb39815c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "huntedredmawwithtalanah": {
       "name": "Hunted Redmaw with Talanah",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a332eff90b1edd940306d933ac3482d7888f0694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "newgame+completed": {
       "name": "New Game+ Completed",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/f4cdcd3a24140c9dc7c7c7b529b25aa811337999.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "conqueredthemountain": {
       "name": "Conquered the Mountain",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/80dee4927258dc1c0fd16f5b9096c67ad4a64ba5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "wonikrie_schallenge": {
       "name": "Won Ikrie's Challenge",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/96b7dc2ca81a694427cff09f6ab018bcc9f9e944.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "allactivitiescompleted": {
       "name": "All Activities completed",
@@ -622,7 +622,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/1ddd211687fbc8fe5d8696170ba43a53893ccc6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "5machinetypesrepaired": {
       "name": "5 Machine Types Repaired",
