@@ -1,7 +1,7 @@
 {
   "appid": "356190",
   "name": "Middle-earth™: Shadow of War™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header_spanish.jpg?t=1780594801",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header.jpg?t=1780594801",
   "achievements": {
     "GemForge": {
       "name": "Forger",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/487373c9ba1aadd4b09284be4aeb5d63df756554.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "DLC4Canyon": {
       "name": "No Way Out",
