@@ -1,7 +1,7 @@
 {
   "appid": "2104890",
   "name": "RoadCraft",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/header.jpg?t=1782119515",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/header.jpg?t=1782466696",
   "achievements": {
     "ach_07": {
       "name": "Shore Thing",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "ach_11": {
       "name": "Rectify",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2104890/074fcbfc54bdaab9c147043c0ac9cd4e566354ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "ach_32": {
       "name": "In This Economy...",
