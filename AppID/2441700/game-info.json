@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2441700/c3ec547bac9da999c98276e30d2d380fa679367f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "bash-enemies": {
       "name": "Hit & Run",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2441700/f7cfd63a715463701787ab7febdb5872afd0f913.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "environment-kills": {
       "name": "Petting Zoo",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2441700/848d5ee5df345e730c89dc17a16a1848ad34f871.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "die": {
       "name": "YOU DED",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2441700/82bf5f7ccce3492729f276824be43c3551f2c77b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "cash": {
       "name": "Cashed Up",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2441700/5e31c822368ffd8a795a739f4a1fb09cc21bbce0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "headshot-biting-alpha": {
       "name": "Not Today",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2441700/5cbaed42028b40c0b6387bff3e57edd3e034ffef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     }
   },
   "platform": "Steam",
