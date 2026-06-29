@@ -1,7 +1,7 @@
 {
   "appid": "356190",
   "name": "Middle-earth™: Shadow of War™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header_brazilian.jpg?t=1780594801",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header.jpg?t=1780594801",
   "achievements": {
     "GemForge": {
       "name": "Forger",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/ff4611abb4c1bf93342bfac8e053fb06ac2a2421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "HelmHammerhandDefeated": {
       "name": "Brought to Heel",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/b39afdafe6e41932100872782adea5a836e23629.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ConquestRank": {
       "name": "Such Great Heights",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/305aab739934b511c20c0362d60e6d8310eac06f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "DLC3MtnPass": {
       "name": "Holding the Line",

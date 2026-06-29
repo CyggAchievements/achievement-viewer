@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/7fa2ef544831a350641628029767855529f0e232.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "stage_5": {
       "name": "Stage V",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/7d4d5b6cda9cd6080e2cd8246476c4717e4c83a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "beat_main_1": {
       "name": "The End",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/a3de7d41263fb805d6b3049ec29a6d2695935554.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "beat_main_3": {
       "name": "Overflow",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/3bdb15d810f8e5202574add01970b1f4c5ad7d06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "beat_main_4a": {
       "name": "The Wall of Sorrow",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/c152e1218ceff100630dbbc98ead298e291857ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "beat_main_4b": {
       "name": "Retrograde",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/828f97b8119467fd78e736190bc0e23a39db3410.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "beat_main_4c": {
       "name": "The Hollows",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/321dc1776a2bfd4331fafc777bd177a7e55c9a6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "beat_main_5a": {
       "name": "SS Exodus",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/312535f681d9fafd48403cb5639dc0f20e96cbe3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.2"
     },
     "beat_main_5c": {
       "name": "Golgotha",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/b3dc115bd05fcc29b8c2882d4726d7222ebb7c11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.7"
+      "percent": "20.8"
     },
     "beat_main_1d": {
       "name": "Anguish!",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/6fdaf478605d2af8ef17c1f7d665a48e531875e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "beat_main_2d": {
       "name": "Gloom!!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/b95378361e8387740cb827013800f123e2f71563.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "beat_main_7": {
       "name": "Nevermore",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/c5ff4ffd0c83f4cb59e235b11f7cb7d374d439ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "cart_c1_ironman": {
       "name": "Morta Man - Unbreakable ",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/6422ec55e8e7c0418c49c163ed8de4dfc18b18a7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "cart_c2_beat": {
       "name": "Blaster Massacre - The Bare Minimum",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/080a37d3f52d8bd53b18138160145d331346ce65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "cart_c2_halfcoins": {
       "name": "Blaster Massacre - Half Empty",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/b0dd150554ab89d091ff828552d87e58b26a7abd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "cart_c2_allcoins": {
       "name": "Blaster Massacre - 100% of Nothing!",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/5b3aafdaf456774f4de2ffb4adeaa54347ea9818.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "cart_c4a_nocontinue": {
       "name": "Ash Climber - Discontinued ",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/e4567bdc7e0ab444368c5bba4ffc0eee0ba994c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "cart_c4c_nocontinue": {
       "name": "Catastrovania - Discontinued",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/3e284e6511b8026319329a52ccd340163bd76afd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "cart_c5a_allcoins": {
       "name": "Fallen Fantasy - 100% of Nothing ",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/6422ec55e8e7c0418c49c163ed8de4dfc18b18a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "cart_i5_beat": {
       "name": "The Tower of Ascension!",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/8b48a479eced74397a43944446aa8a9565ed0d7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "cart_g4_ironman": {
       "name": "Pus Man - Unbreakable",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/aec6e2d17fd1aec6789751dc834d613deba6b6ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "unlock_towercart": {
       "name": "THE TOWER OF ASCENSION!",
@@ -937,7 +937,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/583470/f13a5b0fddc6697e29782e2eae55d8e052a26d00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "iron_cart4": {
       "name": "Iron Cart IV",
