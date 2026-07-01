@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/855fad1b3e766bec9c75b32b77714ee71dee4ceb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.4"
+      "percent": "88.5"
     },
     "EASTBELL": {
       "name": "Ding",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/6e468084b47f624e36d2a821af9e4851dfa90080.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "FUSE": {
       "name": "You hear a strange hum",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/462c79d97fc8e3ffb8b0f1b25d550b4e43f625c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.9"
     },
     "GYRO": {
       "name": "What now?",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/e3e4538bfb6dbc221c0c23d24ba7bf379cae886e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "37.0"
     },
     "BADEND": {
       "name": "Game Over",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/577c4c9b024cf0af2061123bc43195393b200866.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "FAIRY": {
       "name": "I'm free!",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/827bf22481d2b28c1be54dcddbcb76853d93c7cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.2"
     },
     "WRONGFIGHT": {
       "name": "Bring it to the wrong fight",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/f37e84ff81b6a6da2d03251c8beee25038444d1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     }
   },
   "platform": "Xbox",
