@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/14fe89d7801e7bbeb3261e9c0b308748107d563b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.5"
     },
     "use_gas_stat": {
       "name": "Gas Guzzler",
@@ -1171,7 +1171,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/ab7e5854ccfce954d100d6c7debf4bd37a46c8e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     }
   },
   "platform": "Steam",
