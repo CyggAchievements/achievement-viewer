@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/9fa6f3b2004eba09f06d65c870ad46571520b76f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "ca_country": {
       "name": "Cheers!",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/ef2a3592f9e4d46bd5167c333378fbe6fb93c1cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "no_autopark": {
       "name": "Not a Problem",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/7e1efeb7219c9f5fbbbbe0541cd5924c5e18779e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "finish50jobs": {
       "name": "I Think I Like It",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/696c6a2134dfe258dda9dbb65b69d3193493eb73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "use_weigh_stat": {
       "name": "What's Your BMI?",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/14fe89d7801e7bbeb3261e9c0b308748107d563b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.5"
     },
     "use_gas_stat": {
       "name": "Gas Guzzler",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/35db041b91496e2fc530f6135d93beea2dd78036.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.0"
     },
     "nv_visit_cities": {
       "name": "Silver State",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/f7d3b638f6bc384394120c2cdf76081436a2df0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "az_racetrack": {
       "name": "Start Your Engine!",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/3537d09b1680eb3c0f20a5993267ab0fdb90d7b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "or_timber_harvest": {
       "name": "Lumberjack",
@@ -1027,7 +1027,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/71cce358766c4065fde4b8beb8fe63924862fea2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "aca_pass_conditions": {
       "name": "Advanced Student",
@@ -1171,7 +1171,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/ab7e5854ccfce954d100d6c7debf4bd37a46c8e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     }
   },
   "platform": "Steam",
