@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/25017b2778e0766551fe48793de8dedd9aa6214e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.2"
     },
     "10vulnerablemachinekills": {
       "name": "10 Vulnerable machine kills",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/c4a5b00586102c64f3de41b4c5c5a06084569534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "toreoff5heavyweapons": {
       "name": "Tore off 5 heavy weapons",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a388ce88c45fe71aea649be04852407702667c96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "7typesofmachineoverridden": {
       "name": "7 types of machine overridden",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/ca5b911229824b559ebfe41f93fbe607b0b6a79b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.7"
     },
     "allacquisitionmachineskilled": {
       "name": "All Acquisition machines killed",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/6d0f0cb53d7e5f661ced06ddc1725f934d8b9ca6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "allreconmachineskilled": {
       "name": "All Recon machines killed",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/60aabb84756277db90872bbba25caa59fcfaecaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "reachedlevel25": {
       "name": "Reached level 25",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/c45c58434183902e0d9df7f4dd04eba16a9370ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "firstcoreoverridden": {
       "name": "First Core Overridden",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/3bb3af182a46f6690b06cd1ab9bb47d0f89d33e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.8"
     },
     "alltallnecksoverridden": {
       "name": "All Tallnecks Overridden",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/f4cdcd3a24140c9dc7c7c7b529b25aa811337999.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "conqueredthemountain": {
       "name": "Conquered the Mountain",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/564c41a43c44bc8947ed985a33df268da56bfc6d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "allquestscompleted": {
       "name": "All Quests completed",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/85478c6fd9a2df09b4ec7e4bba04e708da2e90d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "killed6fireclaws": {
       "name": "Killed 6 Fireclaws",
