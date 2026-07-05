@@ -1,0 +1,469 @@
+{
+  "appid": "3681010",
+  "name": "Nioh 3",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
+  "achievements": {
+    "ACH_000": {
+      "name": "You Are Nioh",
+      "description": "Unlocked all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/dfd45c98975986d2e2f57ee175729c3f2a38ff2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "ACH_001": {
+      "name": "Answering to the People",
+      "description": "Completed all Myths.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/af3c83fa5e12282919498581c69cff42d20ad6bc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "ACH_002": {
+      "name": "Budding Talent",
+      "description": "Reached level 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/f61201c0f21a27434347ae61c6cade0e47c14ea3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.8"
+    },
+    "ACH_003": {
+      "name": "Grizzled Veteran",
+      "description": "Reached level 100.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/772a255b9caa5b20133679a995c772805bba798b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.2"
+    },
+    "ACH_004": {
+      "name": "Wanderer in Time",
+      "description": "Traveled through time for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/62113d2fe9f2e79ebad576e0252bee00ac3f3d3d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "95.1"
+    },
+    "ACH_005": {
+      "name": "Guiding Mirror",
+      "description": "Received the Guiding Mirror from Ii Naotora.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/c62de639a2538e7e53848a144eb708a6f46e7489.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.2"
+    },
+    "ACH_006": {
+      "name": "The Old Tiger Departs",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/2a5f72b686b9ffba68620034700701587d1e14bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.5"
+    },
+    "ACH_007": {
+      "name": "Unbreakable Cause",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/d0187b933d9da3d17e062e44b2edb6d3178a7d00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.8"
+    },
+    "ACH_008": {
+      "name": "The Queen's Eyes Open",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/42979cac0f441e62c58d4daa47ca84ec49096830.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.7"
+    },
+    "ACH_009": {
+      "name": "What Must Be Done",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/4b6defd45510b089b6ec8c9a6affbc5898249f2c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.9"
+    },
+    "ACH_010": {
+      "name": "Delusion Destroyed",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/7b1a28d52ce8afb2421a586e46cda959d8853258.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.9"
+    },
+    "ACH_011": {
+      "name": "As Shogun",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/a7fa2dc761fccbceeaafa5bfa095ec529c2dd1d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.9"
+    },
+    "ACH_012": {
+      "name": "Crucible Arts Adopter",
+      "description": "Learned a Martial Art from a Crucible weapon for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/4df2c95d5eb6bd8bafc691b92f41495861d888ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.1"
+    },
+    "ACH_013": {
+      "name": "Arts Proficiency",
+      "description": "Defeated 10 enemies with a Strong Attack or a Martial Art enhanced via Arts Proficiency.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/121ca4637a666a3a2cef66b3cb672837331b80a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.6"
+    },
+    "ACH_014": {
+      "name": "Ninjutsu",
+      "description": "Defeated 10 enemies with Ninjutsu.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6b11f55a46241bdb299cbe84d283dd6754296cef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.1"
+    },
+    "ACH_015": {
+      "name": "Burst Break",
+      "description": "Successfully activated Burst Break 10 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/3b1b46455a5b01c49f6425a11c37d6fb61619c04.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.9"
+    },
+    "ACH_016": {
+      "name": "Guardian Spirit's Aid",
+      "description": "Successfully activated a Guardian Spirit Skill Burst Break for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/19642473a8df8bf4bfba64f6a3ef89a9f02d2095.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.1"
+    },
+    "ACH_017": {
+      "name": "Yokai Manipulator",
+      "description": "Used a Summoning Seal to summon a yokai for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/0c12b9eb08151ed0bf27ab48bf035a0dda9d53d0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.0"
+    },
+    "ACH_018": {
+      "name": "Devotee",
+      "description": "Unlocked all named shrines and Bodhisattva Statues.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/83b5f8e4cbcf585bdc96542bf4f9ca2ec61de251.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "ACH_019": {
+      "name": "Explorer",
+      "description": "Raised your Exploration Level to 4 in any area.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/c0925ee67ccd85275a4076974f46322f55a69b28.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.4"
+    },
+    "ACH_020": {
+      "name": "Masterful Pupil",
+      "description": "Defeated a master for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/a6d210bc930bc88bb632e1f0532d046722271c93.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.2"
+    },
+    "ACH_021": {
+      "name": "A God Among Men",
+      "description": "Defeated all masters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/c2e3e06d11932b18fcecec69ef11d25137958c29.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "ACH_022": {
+      "name": "Armor's Real Value",
+      "description": "Activated all set bonus effects for an equipment set.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/7977512cb76a625989e1346168c0f1a8572b3d4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.1"
+    },
+    "ACH_023": {
+      "name": "Latest Masterpiece",
+      "description": "Forged an item for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/131d8c49ad5ebc88c6cee87186ebaf2999847773.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "ACH_024": {
+      "name": "Match Made in Heaven",
+      "description": "Performed a Soul Match for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/f9e1e92cae7bc27551bafe8a0ac0e5608ca0c9e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "ACH_025": {
+      "name": "Remodeler",
+      "description": "Remodeled a piece of equipment for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/226ec3cd6e2cf73ff86fe042fbf906dc4d54f7f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.4"
+    },
+    "ACH_026": {
+      "name": "Keen-Eyed",
+      "description": "Pet a Chijiko for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/616a9f0229a0ce69a2f1b82c831ffc102854d8c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.5"
+    },
+    "ACH_027": {
+      "name": "Eagle-Eyed",
+      "description": "Pet all Chijiko.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/84dca1d5bad3837c87954094a036f9766ed68993.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.8"
+    },
+    "ACH_028": {
+      "name": "Unimpeded",
+      "description": "Used all methods to traverse Spirit Veins.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/bbb2f57877065fa32c06102f4804dd5ff34a0a0c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "ACH_029": {
+      "name": "Teamwork",
+      "description": "Completed three missions during Expeditions or with NPCs. (Includes Acolytes.)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/de75f461dc66a07254506d88fb63b6967c68eccb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.3"
+    },
+    "ACH_030": {
+      "name": "A Scampuss's Best Friend",
+      "description": "Traded a furball with a Scampuss in the Eternal Rift for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/dab15f9481f31113286097d30b7b582fff33ea4e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.5"
+    },
+    "ACH_031": {
+      "name": "Spa Healer",
+      "description": "Bathed in first hot spring.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/52a7210dbb7e04151e07fc30f62a3f93cbc0cbf7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.0"
+    },
+    "ACH_032": {
+      "name": "Spa Lover",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/0be1417b5147413b582304064e4be06f1b8ad53a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "ACH_033": {
+      "name": "Kodama Leader",
+      "description": "Guided all Kodama home.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/788337d7f0ae6ddb6ec38dbbf8eb3fddd663328d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "ACH_034": {
+      "name": "Visiting the Six Jizo",
+      "description": "Prayed at all of the Six Jizo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/945bd6feb5115a0e6d1345bcc767b7a8da7bbf50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "ACH_035": {
+      "name": "Scampuss Enthusiast",
+      "description": "Pet all Scampusses.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/c9965a3d56b6911d5834c5a765eed78844c06c98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.7"
+    },
+    "ACH_036": {
+      "name": "Soul Core Owner",
+      "description": "Purified a Soul Core for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/e38c89cd532d466a62ce02d1f2791ada9a647a31.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.9"
+    },
+    "ACH_037": {
+      "name": "Base Captured",
+      "description": "Captured an enemy base for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/2ef559c1ee8d57de2275aaa6c37fe9895b9d27fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.4"
+    },
+    "ACH_038": {
+      "name": "Total Control",
+      "description": "Captured all enemy bases.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/0c2bc9d0d8879136297ca3f8dffa8c826cbd6150.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "ACH_039": {
+      "name": "Lesser Crucible Cleanser",
+      "description": "Purified a Lesser Crucible for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/11e3002f68de74e52ffac810645c1048645de2c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.0"
+    },
+    "ACH_040": {
+      "name": "Lesser Crucible Eradicator",
+      "description": "Purified all Lesser Crucibles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/0165a79572a479535b019d6651f964fb4daefd36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ACH_041": {
+      "name": "Kunimatsu's Pride",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/3305146b3d41239e0433dfbd3867df8dd3d96197.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.2"
+    },
+    "ACH_042": {
+      "name": "Kunimatsu's Envy",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/781cbeaf5a5715f85b9ab67e1a73fdf95dd84ddf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.7"
+    },
+    "ACH_043": {
+      "name": "Kunimatsu's Obsession",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/08a4bcfa5ecfabe4076c686d8164382ddb4f37a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "ACH_044": {
+      "name": "Senji Toyo",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/2d24de3b3162ba97c95702737369d4da5335c958.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.6"
+    },
+    "ACH_045": {
+      "name": "Ruckus in the Sanctuary",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/a47d0aad49980ce573534aac5b544a13fd7c668f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "ACH_046": {
+      "name": "Pain, Pain, Go Away",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/60add32114c066aaf31894aa58e0e1151c110fdd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.0"
+    },
+    "ACH_047": {
+      "name": "Distant Memories",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/01d2dc972f6ab5119448fc3f90cc9d54f51e61fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "ACH_048": {
+      "name": "Like-Minded Friends",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/c9cedf9201e2c88b446e37551d0fa12410c08ba7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "ACH_049": {
+      "name": "Dung Ball Roller",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/b51ca039372fae8fb58232edcea05b6747e1fb82.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.6"
+    },
+    "ACH_050": {
+      "name": "Nothing Left to Learn",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/27d8fbbf15364f55f2771ad824fb553efb973e85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.9"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}
