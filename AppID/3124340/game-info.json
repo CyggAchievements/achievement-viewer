@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/939f059203b7a0ca15f2d1fa8f0fbb2890a0d392.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "RatKing": {
       "name": "Rat King",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/dc75e0105c75f73e94371c3847da6957439e38c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "MakingTheBest": {
       "name": "Making the best of a rat situation",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/06736aa3a358998d024f554ece1fd0a6600eb698.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "FriendlyFire": {
       "name": "Friendly fire",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/980ffc48ce3721a156480d63d071ae537180668e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "LevelUp": {
       "name": "Level Up",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/27ef1d568be7f1c588efe8c1d292192827a5d3b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.0"
+      "percent": "55.9"
     },
     "MasterOfOne": {
       "name": "Master of one",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/ddd52c5781f65ebdd7bfad840edccc1cb827e53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "Frostbane": {
       "name": "Frostbane",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/4cde27e24f7df3f6a407f7cac485e5f3730b5963.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.5"
     },
     "Dragonslayer": {
       "name": "Dragonslayer",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/795e8af62653cd28c6282ae642a08746106edb0f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "RootsOfEvil": {
       "name": "Roots of Evil",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/2413bf28416a42cf2a0ed1f58fbfdf277ec6edba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "FrostKeep": {
       "name": "Frost Keep",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3124340/cf5481d1b01ffc80706f83c6a1ca13baaaa3cf90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.6"
     }
   },
   "platform": "Steam",
