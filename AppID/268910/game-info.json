@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/df1469411a3268d8eb4dad259fae701fec10ee17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "GoodEnding": {
       "name": "Souls Saved",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/20f6bcda364e5d086a6a777ca3cde70e8baf9cca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.7"
     },
     "UnlockedAllSupers": {
       "name": "Magician Lord",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e27f47b82b271d5de9ca4d713ab9d3dccbd82e66.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "CompleteWorldDLC": {
       "name": "A Vacation in the Wilds",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/05d3fb262ba15b5ed5b8b11b12121403bf2d89e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "ChaliceSuperWin": {
       "name": "The Golden Touch",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/57829d77c202cc51e39d4753c5807c0da4981572.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "DefeatBossDLCWeapon": {
       "name": "The Latest Sensation",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/eab3490ea54a2ef5c484a5115fa2cbc00be2c620.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "DefeatAllKOG": {
       "name": "Checkmate",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e0a8dcfc8199d667ed4d99afcc3cf7fc21a25f30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "DefeatKOGGauntlet": {
       "name": "A King's Admiration",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/7600bbceaa4fa7b4d9031a9458e01b744ef04789.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "Paladin": {
       "name": "Paladin",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/842b2cb013039d3b4adfc1bea3aa546c7182d39f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     }
   },
   "platform": "Steam",
