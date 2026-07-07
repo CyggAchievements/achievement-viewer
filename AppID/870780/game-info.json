@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/61a68833c00a2cc440418f6dd69dffa7edd7a856.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "WAKE_ACHIEVEMENT": {
       "name": "Take Control",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/5d63b0eb3ca1b98395a3a88cc4f95ab5a7a382bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.3"
+      "percent": "58.2"
     },
     "BUREAU_BUDDY_ACHIEVEMENT": {
       "name": "Ritual Intuition",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/1d7d617f115e69dd46ecdd987f28462894c4e8a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.5"
     },
     "PROBLEM_SOLVER_ACHIEVEMENT": {
       "name": "Crisis Management",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/b4f7d1e234e99aee794adaf3b1a88d421ef3e7ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     }
   },
   "platform": "PlayStation",
