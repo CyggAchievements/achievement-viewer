@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d2af08a20d9948d66018c60704fbb78ae37dd738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACH_MINE_DEATH": {
       "name": "Fidget",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.2"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/4f989c3fd9b04074e70a827e68a2e9d9d60da096.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "ACH_FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/7f8a7c7c09af3f1d9a57d3fa15aef2653368f5c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.7"
     },
     "ACH_STORY_MISSION_2_SINGLE": {
       "name": "Finding the First Artifact",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/9bb21ac85e2ae21d0e8c3218ef82143a11a7c74d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.5"
     },
     "ACH_STORY_MISSION_3_SINGLE": {
       "name": "Into the In-Between",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/cad725c4502bccf22f3ec110f18049c4342e7c61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "ACH_STORY_MISSION_4_SINGLE": {
       "name": "Ringing the Bell",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2aab999189331639b647a03b9078a9de1dde8685.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "ACH_STORY_MISSION_3_COOP": {
       "name": "Into the In-Between Together",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/44b6bdd0f3a2c7580f2bf426038403f3fd1799db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "ACH_STORY_MISSION_4_COOP": {
       "name": "Ringing the Bell Together",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2c8e1b65467037fa152a307b2ca93f90197c8577.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "ACH_STORY_MISSION_6_COOP": {
       "name": "Diving Deep Together",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d267d241ea2b0e3e32ddaede57ec656e972aaff6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACH_STORY_MISSION_8_COOP": {
       "name": "Opening the Door Together",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/04ddd647723c08a45e9fd2ae1c529e1413c68c3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.0"
+      "percent": "0.1"
     },
     "ACH_ATTACH_MASTER": {
       "name": "Experimenter",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d5131e155c4ed4073c91dcc637a642c6b7da8afb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "ACH_ARTIST": {
       "name": "Artist",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/a29cd2f427217dcc9fa46f03341b7601be8c24ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "ACH_STORY_ENDING_SINGLE": {
       "name": "Path Chosen",
