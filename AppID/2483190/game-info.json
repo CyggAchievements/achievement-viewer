@@ -1,6 +1,6 @@
 {
   "appid": "2483190",
-  "name": "Forza Horizon 6",
+  "name": "极限竞速：地平线 6",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
   "achievements": {
     "ACHIEVEMENT_1": {
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/b2334e3d8b0c58b8d0a4f40c21b92850ff020976.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.0"
+      "percent": "86.1"
     },
     "ACHIEVEMENT_3": {
       "name": "Just Getting Started",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/ee5ef184d2be0feeaf4555aa5aff8a4eb07e9cf9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "ACHIEVEMENT_9": {
       "name": "A Fine Addition To My Collection",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/81920df982c5eb531ee4657068ce68826c4dbe60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "ACHIEVEMENT_10": {
       "name": "Bargain Hunt",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/905f1f6ed8c2258267eb793b298e7ab94076561a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "ACHIEVEMENT_24": {
       "name": "Making Your Own Path",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/8584964b10c5cf7f75ad27d6daaa72c9e90be939.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ACHIEVEMENT_25": {
       "name": "Hey! Listen!",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/66a08b3a0fd3bced02b20fa6c582038b47bda657.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "ACHIEVEMENT_35": {
       "name": "A Whole New World",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/2a533b6ea9446f8e689c0e3907cb57899474be43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ACHIEVEMENT_38": {
       "name": "All Eyes On You",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/f9c1d1a61ef6857f01d2c6b129dbba3fd764ac7e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "ACHIEVEMENT_41": {
       "name": "Pin It!",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/43b1272f05add9e660ea86c26a942d96d235f5a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "ACHIEVEMENT_49": {
       "name": "Feel the Rush",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/49e7c5b00be8fe6b1df67dd588d8fc02b6cceff8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "ACHIEVEMENT_50": {
       "name": "Maxed Out",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/053f80506792bd2b7b4c3d7cd3669d7ff81c3e41.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "ACHIEVEMENT_53": {
       "name": "A Few Splinters Is Nothing!",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2483190/a163f91c4789498c2dcd74bb8645bbbdcc1f39d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ACHIEVEMENT_55": {
       "name": "Storyteller",
