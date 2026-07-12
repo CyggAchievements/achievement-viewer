@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/76f77502417416f1d051d2a08d733e17791039f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.5"
     },
     "ACH_PAD_PAIR": {
       "name": "Pad Pair",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/99b65980501fd1cca5815bffabdf4b7446f0d76b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "48.0"
     },
     "ACH_MULTI_PAD_PAIR": {
       "name": "Multi-Pad Pair",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/e2d2409a4bdbe025c5f76f179fbd5b46a51707bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.9"
     },
     "ACH_ANNIVERSARY": {
       "name": "DSX Anniversary",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/ac8547becfe2010e371e803a64c30900900c52f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.0"
+      "percent": "47.3"
     },
     "ACH_VIRTUAL_STATION": {
       "name": "Virtual Station",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/fac8aca949bae5357a1a014174f2afdb5658eba5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.4"
     },
     "ACH_TRIGGER_HAPPY": {
       "name": "Trigger Happy",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/f4a2fc72a2985545345bc9b7f77d37f55664debc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACH_LIGHTS_OUT": {
       "name": "Lights Out",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/fde699bfc8ce5bc9f220fb5d51ae889c0acd956d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.4"
     },
     "ACH_MY_STYLE": {
       "name": "My Style",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/beb70abd85ad6ab3238842123171038e92bf4d4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "ACH_NOT_ENOUGH_CONFIGS": {
       "name": "Not Enough Configs",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/15b518fdf2d434290a90aa47368c80080192516d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ACH_STAT_1K_Combined_Presses": {
       "name": "Button Master",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/fba0f4886a53d7ea77033006aeb2431ab731d163.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.7"
     },
     "ACH_STAT_10K_Combined_Presses": {
       "name": "Button Virtuoso",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/71bd93ae25edc9c5c7f6df904cb4afab6ad683e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.7"
     },
     "ACH_STAT_50K_Combined_Presses": {
       "name": "Button Maestro",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/b5ccbd770814576362702ba199971a5df7fe3088.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "ACH_STAT_100K_Combined_Presses": {
       "name": "Button Prodigy",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/e2ee5611801b0cc10fd58ec25504fc894b97e8a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACH_STAT_500K_Combined_Presses": {
       "name": "Button Legend",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/246691d705c88b14c6144b609ecd2ef8ca9b12fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.2"
     },
     "ACH_HAPTIC_FEEDBACK": {
       "name": "Feel the Buzz",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/a4bf103549eec330b773cc0ae85ebb92c22cf01b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "ACH_MY_STYLE_DUPLICATE": {
       "name": "My Style Duplicate",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/3fd7abc7461c4c5d0feb406c6ca9745cd26346af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ACH_LOGGER": {
       "name": "Professional logger",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/c86b75d2393eb7229bc39be49d9d41552c9d81c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.9"
     },
     "ACH_NERD": {
       "name": "100% Nerd",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/b90ddc2ee8cb256aae91b3bdb8c53462a7a425c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.7"
     },
     "ACH_STAT_500_Combined_Presses": {
       "name": "Button Rookie",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/62d4b10fc5ac2a05de1dfd691eeae9685376069b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.5"
     },
     "ACH_SHOW_ME_YOUR_MOTIVATION": {
       "name": "Show Me Your Motivation!",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/ce7095aaea7b2692b357bfff0771d8ef2c180e53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.3"
     },
     "ACH_JACKPOT": {
       "name": "Jackpot!",
