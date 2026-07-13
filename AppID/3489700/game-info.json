@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/cd3d7925fbe3d3f521ce7b185aa35b26745adf61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.2"
     },
     "06_KillCharacter_Brute": {
       "name": "Brute",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8a797b96f7063ba0f4cba6bf3df3877f10de2ac3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.7"
     },
     "07_CompleteLevel_AltesLabor": {
       "name": "Altess Levoire",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/f85d4cc8f54baece3d7087555a41d5212fa08b11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.7"
     },
     "09_KillCharacter_Juggernaut_Kill": {
       "name": "Juggernaut",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/808da5228a1e1df1d44d22260f5a88a08b921421.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "11_KillCharacter_Behemoth": {
       "name": "Behemoth",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/43a91c3b0174a1be23f9e93773e7c6e3445ec529.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.7"
     },
     "13_KillCharacter_Belial_A_Kill": {
       "name": "Belial",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/c8009bd93ca48c5d247f7e1d2e2a8038538fd250.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "14_KillCharacter_Marionette_Kill": {
       "name": "Karakuri",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/c945185b5331a92b34fcbe84d483380c96abb22e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "17_Ending_Colony": {
       "name": "Return to the Colony",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/2bca25bbc4b2f598e5514899f1b9af09efdd0119.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "19_Ending_NewMemory": {
       "name": "Making New Memories",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/810dca89ea6b8e111725c87636e05c2723a4ede8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.6"
     },
     "24_Open_AllBox": {
       "name": "Box Hunter",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8d002cbf7aa87b3c5eed3f95f3f42fbb74880da1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "29_TumblerMaxUpgrade": {
       "name": "Perfect Rechargeable Tumbler",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/936e0f8833e3be9e29aec80bf0f966e4fccb1b0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "35_CompleteQuest_Digger": {
       "name": "Beep!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/011bc02b3ccee12bd3d60774de7ed02915ca6a5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "36_JustEvade": {
       "name": "Battlefield Martial Artist",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/01424fdb8fc6ac3ceab415f8a84fbd3a1833cca3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "37_JustParry": {
       "name": "Agile Gladiator",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/e72125041ef0ce04408ed6ca7eb653d7cbbce565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "38_CharKill_AssassinationSkills": {
       "name": "Silent Executioner",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/091d59c772a6253a7ccfdae43f324e1500dd514b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "52.8"
     },
     "40_CharKill_BurstSkill": {
       "name": "Relentless Destroyer",
