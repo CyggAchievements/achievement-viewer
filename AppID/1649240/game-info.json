@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/dbd0b21b790375770dbe1acd78b1c350265dfedd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "Act3Complete": {
       "name": "White Shadow",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/a2a50d74c1bdcf59e9a320c4f7a6c7fdefab29d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "FirstResurrect": {
       "name": "Second Chance",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/c0d345a1327560743446aec024d78087d3402b70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.9"
+      "percent": "83.8"
     },
     "FinishedXenoglyph": {
       "name": "Cryptic Translations",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/68ce40f99bfc28bdd0dad8280069ea1a5971e273.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "MaxAdrenaline": {
       "name": "Adrenaline Spike",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/4d1f7782f54a5531cff4be8fb6601dcb693aedec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "FirstDeath": {
       "name": "Eternal Return",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/2caf39309f64ccac6d3e5c6a81425398653c4303.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.5"
+      "percent": "65.4"
     },
     "FinishHouse": {
       "name": "Welcome Home",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/ec990ee8a3719a536bc12548c8857eb633ab13de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "68.5"
+      "percent": "68.4"
     },
     "FinishAllHouses": {
       "name": "Sins of the Mother",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/8d268c43d0d404dce744dea36a2846ec2d68eb30.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "FinishMural": {
       "name": "Visions of the Past",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/1490afc0fd94177626655775b039af50c26dbe83.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "SecretEnding": {
       "name": "Find Release",
