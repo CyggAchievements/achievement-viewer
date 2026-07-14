@@ -1,7 +1,7 @@
 {
   "appid": "599140",
-  "name": "Graveyard Keeper",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/07a4abf278d3029bec1bf7dcff9b2852bdde5250/header.jpg?t=1781523975",
+  "name": "Game 599140",
+  "icon": "",
   "achievements": {
     "bury_1_body": {
       "name": "Novice gravedigger",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/de0346ebc23751986238bdedca165f16afd22c13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "fish_200": {
       "name": "Brutal fisherman",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/bf10b5e2778f729bbe07fc09242f39fa568d4f3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "cook_3": {
       "name": "Chef",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/6bfe62d19e5472b8cba158ea6c0dfd53e525e8e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "meet_inq": {
       "name": "Holy Inquisition",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ca92b9173fcfda341ee6c536805c0a68e9f47757.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "tech_b": {
       "name": "Just blue points",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/cf42a54357c11999edc7ce6c433fcd04aa9b1957.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "hidden_merch_bish": {
       "name": "Two brothers",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/be866eea5d2be4fc7b1f80d3a01b2a22764902c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "dlc_stories_first_sharmel_song": {
       "name": "Locking up the sun",
@@ -784,7 +784,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/05a60b1f5271501457ba17765c89157a3e088a5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "dlc_refugees_s15_1": {
       "name": "One more inquisitor",
@@ -865,7 +865,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/02891fd8307cd9d8a770d0682726b8564bef14f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "dlc_refugees_s46_or_s53": {
       "name": "Refugees are safe",
@@ -1045,7 +1045,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/021fed99adf5fb1365b5ff986870425871842311.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "dlc_souls_s_s_24": {
       "name": "A fortunate gift",

@@ -1,7 +1,7 @@
 {
   "appid": "1812620",
-  "name": "DSX",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812620/37d8d208f3f53e9148402c319712771b1d37045c/header.jpg?t=1781596342",
+  "name": "Game 1812620",
+  "icon": "",
   "achievements": {
     "ACH_CLOSE_ONE": {
       "name": "Close One",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/f4a2fc72a2985545345bc9b7f77d37f55664debc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACH_LIGHTS_OUT": {
       "name": "Lights Out",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1812620/fba0f4886a53d7ea77033006aeb2431ab731d163.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "ACH_STAT_10K_Combined_Presses": {
       "name": "Button Virtuoso",

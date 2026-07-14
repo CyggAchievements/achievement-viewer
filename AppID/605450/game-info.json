@@ -1,7 +1,7 @@
 {
   "appid": "605450",
-  "name": "In Death",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605450/header.jpg?t=1715907411",
+  "name": "Game 605450",
+  "icon": "",
   "achievements": {
     "PlayerDeath1": {
       "name": "RIP",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/605450/eb4adaf1f1795d1cccb3620bd4f481cf7b743263.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "DamageTotalPerRun1": {
       "name": "Bone Collector I",
