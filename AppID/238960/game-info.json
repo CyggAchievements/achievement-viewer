@@ -1,7 +1,7 @@
 {
   "appid": "238960",
-  "name": "Game 238960",
-  "icon": "",
+  "name": "Path of Exile",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/558fd9078de800b7528a8e96bee0108a8fac17aa/header.jpg?t=1773177577",
   "achievements": {
     "FinishNormal": {
       "name": "Challenger",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/d757f849105f5a17fa00186f926a07187f8d7d3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "FinishMerciless": {
       "name": "Lord",
