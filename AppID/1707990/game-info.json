@@ -1,7 +1,7 @@
 {
   "appid": "1707990",
   "name": "Skydance's BEHEMOTH",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707990/b52d0d980c44dda97e5a5f51e5c3acd5e77ce01a/header.jpg?t=1777413854",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707990/b52d0d980c44dda97e5a5f51e5c3acd5e77ce01a/header.jpg?t=1784063661",
   "achievements": {
     "WelcomeToTheForsakenLands": {
       "name": "Welcome to the Forsaken Lands",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1707990/7f7d70eaf46982ee33b5926340fe446e4b0cf343.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "TheGrappler": {
       "name": "The Grappler",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1707990/baf8ecb04c48a84cbc07094263c49f6ef4be35f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "Shacklehide": {
       "name": "Shacklehide",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1707990/7f2aa4a53f4e8f876257d71d1cc06dfce5ef1876.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "Airborne": {
       "name": "Airborne",
