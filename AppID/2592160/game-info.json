@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.6"
     },
     "ACH_MERCY": {
       "name": "\"I can confirm he’s a bad ass.\"",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3d39877b880191d545b67756ddbfcf29c25ae8b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "ACH_CAR": {
       "name": "\"Any plans tonight?\"",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/28fc9f562e12f0a7e702d51b089933698147d0a7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.3"
     },
     "ACH_FRIENDS": {
       "name": "\"We can just be friends.\"",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/ba980b938d51ca961ff507132f09a2c26e6020fc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "ACH_TRUTH_TOLD": {
       "name": "\"That’s, like, a real superhero.\"",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/23a8aa335fae036f4f2b7daf7ea2f157ae3c5c18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.3"
+      "percent": "3.2"
     },
     "ACH_SYNERGY": {
       "name": "Work Spouse",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/7f92dbf38ecc83e437c72d7a16f296a14693f36b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "ACH_SCEN_FAIL": {
       "name": "Snake Eyes",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.6"
+      "percent": "80.5"
     },
     "ACH_DISPATCH_ALL": {
       "name": "Dispatched",

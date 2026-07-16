@@ -1,7 +1,7 @@
 {
   "appid": "3240220",
-  "name": "Grand Theft Auto V Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+  "name": "Grand Theft Auto V Version améliorée",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_french.jpg?t=1781187782",
   "achievements": {
     "ACH00": {
       "name": "Welcome to Los Santos",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/11a6e2de29101e7eba04623538cee1417365160c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "ACH08": {
       "name": "The Government Gimps",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/bb1f988f6f928b5dd32825f08b0c9d32b4aca9ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "ACH15": {
       "name": "From Beyond the Stars",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/5d2297eb30b1c4b077f93ccdbdd01b681cb4dc7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "ACH30": {
       "name": "Off the Plane",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/dd71aa8b6617cb7ddba275a39be75ed9c7e46d2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.4"
     },
     "ACH42": {
       "name": "Blitzed",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/e17fcace5546edd7cd00901e13e4b24bf1b47d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "ACH47": {
       "name": "Full Refund",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/015ce0a19ec3a2819b1e21594946c39127e3020e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "ACHH4": {
       "name": "Parole Day",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/f90e04c37044f961f50fb9169ab163f78b125b44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACHGO2": {
       "name": "The Data Breaches",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/c74e2b7214944b4734e11628a4f12c2936f011d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "ACHGO8": {
       "name": "Masterminds",
