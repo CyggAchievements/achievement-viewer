@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "75.1"
     },
     "ACH_015": {
       "name": "Burst Break",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "ACH_039": {
       "name": "Lesser Crucible Cleanser",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "ACH_041": {
       "name": "Kunimatsu's Pride",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/6e8bc359fa978c42faea0d99beb4aa3287891367.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "ACH_047": {
       "name": "Distant Memories",
@@ -468,7 +468,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_052": {
       "name": "Hell Rising 02",
@@ -476,7 +477,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_053": {
       "name": "Hell Rising 03",
@@ -484,7 +486,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_054": {
       "name": "Hell Rising 04",
@@ -492,7 +495,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_055": {
       "name": "Hell Rising 05",
@@ -500,7 +504,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_056": {
       "name": "Hell Rising 06",
@@ -508,7 +513,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_057": {
       "name": "Hell Rising 07",
@@ -516,7 +522,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_058": {
       "name": "Hell Rising 08",
@@ -524,7 +531,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_059": {
       "name": "Hell Rising 09",
@@ -532,7 +540,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_060": {
       "name": "Hell Rising 10",
@@ -540,7 +549,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_061": {
       "name": "Hell Rising 11",
@@ -548,7 +558,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_062": {
       "name": "Hell Rising 12",
@@ -556,7 +567,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "ACH_063": {
       "name": "Hell Rising 13",
@@ -564,7 +576,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3681010/55630de6cc89cac91679be48b1cfb2c72b6818e2.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": "Steam",
