@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/4a1d1c4294bb1dc3c6f082015efada533f189e85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.0"
     },
     "ACHIEVEMENTS_02": {
       "name": "First Victory",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/f09283fc83682407cacc2fd130e31cb11909db1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "25.7"
     },
     "ACHIEVEMENTS_03": {
       "name": "Professional Driver",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/c5fbd36d02576aaaa8a75b35b673e0bf872b0114.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "ACHIEVEMENTS_04": {
       "name": "Top Driver",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/042be1b49261d54f5cdccda6000d8fcc19dc5d61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ACHIEVEMENTS_05": {
       "name": "Nocturnal",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/6b4f583cf7fef139560c89ba7e34eb01f38355ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.2"
     },
     "ACHIEVEMENTS_06": {
       "name": "Climbing the Ranks",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/2173c1f964e3cc5fbbc1cfcdd2155655636756c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "8.9"
     },
     "ACHIEVEMENTS_07": {
       "name": "Like a Boss",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/4e65b1c6db7b94ab3688e85c255fe502ba96c570.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "ACHIEVEMENTS_10": {
       "name": "Winner in Sweden",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/cc82dcbf638f0fc70a3379c44d6dd2cb2ac4c1ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "16.9"
     },
     "ACHIEVEMENTS_11": {
       "name": "Winner in Croatia",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/c830de23402311c38eaf6a1d6afe26423a66a35a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.7"
     },
     "ACHIEVEMENTS_12": {
       "name": "Winner in Portugal",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/e236fd073721a15cb075917b730a02e22746bffa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.5"
     },
     "ACHIEVEMENTS_13": {
       "name": "Winner in Sardinia",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/2c8e97d3885057c891f8c8195038b73f34d8a270.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "ACHIEVEMENTS_14": {
       "name": "Winner in Kenya",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/b0ad9a2c7cabf0d66eef43826549a5972d9ed09b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "ACHIEVEMENTS_16": {
       "name": "Winner in Finland",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/9a2a6f1443f413480fb8a95f875df98910acc2d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "ACHIEVEMENTS_17": {
       "name": "Winner in Belgium",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/e4a0cea1bbf4501546bacececeff802cad73cb0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "ACHIEVEMENTS_18": {
       "name": "Winner in Greece",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/3188d927fa380987037e05e105e6fe8afbc96892.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "ACHIEVEMENTS_19": {
       "name": "Winner in New Zealand",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/53e25f9b810450ec56b5b0d7fde6342d56072f04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "ACHIEVEMENTS_20": {
       "name": "Winner in Spain",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/803062a008c74ffa557dfb3d6ebe51f8bb166d8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "ACHIEVEMENTS_21": {
       "name": "Winner in Japan",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/110e160a1c7e095d7efd4557ce57b0b3733e8dcb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "ACHIEVEMENTS_22": {
       "name": "Stepping Up",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/3a2bde5bedb34fb921bbe73d4f22e8738c678f1e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.4"
     },
     "ACHIEVEMENTS_24": {
       "name": "Moving On Up",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/57d540ee60a54243f24ce5322c2ac3a7d6e048c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.2"
     },
     "ACHIEVEMENTS_25": {
       "name": "Fast Learner",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/a9f6e0c0083f25c974dcb9909881b870e384254e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     },
     "ACHIEVEMENTS_26": {
       "name": "Reaching New Heights",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/bae5e4296a59233b227a9dcf1e8cf32bc90cf7c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "ACHIEVEMENTS_27": {
       "name": "Branching Out",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/6d16c0db18af8f9c2984f16cdc28f00e1c7e31b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "ACHIEVEMENTS_28": {
       "name": "Collector",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/ea09a0fac482ba1d631987d53589caf3d74aea42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.0"
     },
     "ACHIEVEMENTS_30": {
       "name": "Challenging the Best",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/6e9e4ae4d8d1b34041edcdf124b6ed8f902df561.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "ACHIEVEMENTS_31": {
       "name": "Fighting Spirit",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/67aa62e1aa3d51e81998f4b11d81a711a724b62b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.5"
     },
     "ACHIEVEMENTS_32": {
       "name": "Tourist",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/195a8db1f45c6f388792fe9247a3cd08e1067d9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.2"
     },
     "ACHIEVEMENTS_33": {
       "name": "Globetrotter",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/ad499399094bd122f55300a0446e752f8754904b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.4"
     },
     "ACHIEVEMENTS_34": {
       "name": "Stuntman",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/e0533f93b39eb1bd5a7d6edff34ff1b59dd631a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.1"
     },
     "ACHIEVEMENTS_35": {
       "name": "Team Work",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/e6a1c6248569395f6bd67d4005d61654f5a277a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "ACHIEVEMENTS_36": {
       "name": "Taking One for the Team",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/481caacd6f26029a26c163ee0a8bc6b88cd51055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "ACHIEVEMENTS_38": {
       "name": "Lightning-fast",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/b8e9ac8e2592ba8aa55bd7c781c8cea3485d6841.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.1"
     },
     "ACHIEVEMENTS_39": {
       "name": "Bronze Idol",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/22d839370204b88efe9cc5edeabb8b59c052b923.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "ACHIEVEMENTS_40": {
       "name": "Gold Medallist",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/1818295aff8671a976162dedbb46144c18e97851.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.7"
     },
     "ACHIEVEMENTS_41": {
       "name": "Four Seasons",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/50f63cc60e288d05865c1db6e7d548472c70e23b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.4"
     },
     "ACHIEVEMENTS_43": {
       "name": "High level driver",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1953520/5d03c822c4cb6de1b40938a5a48eddc47f4f730d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "ACHIEVEMENTS_44": {
       "name": "Legendary Driver",
