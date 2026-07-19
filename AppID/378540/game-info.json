@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/659c40c708651561fb933509d70d2974d6a100b6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.2"
     },
     "ID_ACHIEV_02": {
       "name": "Firebug",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/c56a19a976539593c5a273e7beae0b0267cd950e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "ID_ACHIEV_03": {
       "name": "Big Sister",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/0a05aafb60c4e0c6920aa7da2c811bb2db4e2a01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "ID_ACHIEV_04": {
       "name": "The Black Cerberus",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/4f1faeb0c3e01419831f98becfddf33ec3e86abb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "ID_ACHIEV_05": {
       "name": "Brave New World",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/353800812339eae9857f21f181212dd347152a91.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "ID_ACHIEV_07": {
       "name": "I'll Be Back",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/29dc0388e3e9fd06dc66dd28d996ea21c601f137.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.1"
+      "percent": "80.0"
     },
     "ID_ACHIEV_10": {
       "name": "Hey Listen",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/af2358f0b51399fba238c09bc20a8a667bbcf149.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.4"
     },
     "ID_ACHIEV_11": {
       "name": "CREO Killed the Video Star",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/5c2124bbe30faf6cbc622af66f0c8578857cc39d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.7"
     },
     "ID_ACHIEV_12": {
       "name": "Gear Up",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/e5f94242cebce0b1c6f296649671d944cb256e01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "ID_ACHIEV_13": {
       "name": "Watchman",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/7e4e162362843e490ab1d6751961e406ac0567bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "ID_ACHIEV_14": {
       "name": "Who's in Charge Here?",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/8fb1362d5c12b5123e106b054278f248e44ad832.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "ID_ACHIEV_15": {
       "name": "Turing Test",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/c9e85eb299933a5d709af68fa888d49c1119ef69.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ID_ACHIEV_17": {
       "name": "Sunglasses at Night",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/8bdef707d6a1354342acc66ad88030ec48968765.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "ID_ACHIEV_18": {
       "name": "Pusher Man",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/b913b32fc9394d0337f05cafb233155102ce9850.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "ID_ACHIEV_19": {
       "name": "Melting Down",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/b6db46c19f58de5491df6144e050393d1758cd74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "ID_ACHIEV_20": {
       "name": "Repeat Customer",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/6ff98fc29e71cc95fb44a0adb308d5efa408d761.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "ID_ACHIEV_22": {
       "name": "Right Tool for the Job",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/fe4cb842478c5a149ad2a36eda928db890458264.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "ID_ACHIEV_23": {
       "name": "Man of Steel",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/5ec1d158e3ef90ce70cb21398cc87bd65fbb0fd7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "ID_ACHIEV_24": {
       "name": "Core Power",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/f7e3c8b4d54c39484ab1f5f8703dc66df5d091cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "ID_ACHIEV_25": {
       "name": "Duty-Bound",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/b7412abe50dff16aa20ac93489a4c873d29be467.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "ID_ACHIEV_26": {
       "name": "Ghost in the Machine",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/caaba29db8fa9773ab3aefab847ba68bbb502439.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "ID_ACHIEV_30": {
       "name": "Raging Drones",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/4a72d4dca5d407fe098a6a0c750e4b79b247299d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "ID_ACHIEV_31": {
       "name": "Evolution Theory",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/2fb922f462af7555238b7ed0c1889cd48f510ac2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "63.8"
     },
     "ID_ACHIEV_34": {
       "name": "Jack of All Trades",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/6d7c5692b3905aa7a3b1cbb4aa6679837b46cdba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.2"
     },
     "ID_ACHIEV_36": {
       "name": "Infidel",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/76f434a22c467278bf805a3c32716e706be375aa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.2"
     },
     "ID_ACHIEV_37": {
       "name": "It's Blue Light",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/fb115fa1b620691d4f5dfed3296272fdf85057a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "ID_ACHIEV_38": {
       "name": "I Choose You",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/bcd8e5e6039299aa862c267277b6eb857ff2d0c2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "ID_ACHIEV_39": {
       "name": "Homo Machinalis",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/51fee3e843997a39fd3d4a9d5eeba2265fe5f074.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.4"
     },
     "ID_ACHIEV_40": {
       "name": "Was That Yours?",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/ad21c30c2262e3f1c2381818fda6c2eee96b806a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "ID_ACHIEV_42": {
       "name": "Nothing to Lose",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/14ab740d10a5320ee6d82211184e59ce3b85bf9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "ID_ACHIEV_43": {
       "name": "Overconfident",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/8f5c7c8606d5c8da87f812a845cf11ccdff1837d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "ID_ACHIEV_44": {
       "name": "GOLIATH",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/261de2502d00391344101f7db3d7ed8b7533f2f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "ID_ACHIEV_45": {
       "name": "OPERATOR",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/d4cd8a73cadbfcb0e89da10c5ce9f30bc03deeaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "44.9"
     },
     "ID_ACHIEV_46": {
       "name": "SENTINEL",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/d5e9f0776900eabbb8c65acc256a297e0190ba88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.6"
     },
     "ID_ACHIEV_47": {
       "name": "Sniffing Around",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/15643edac10c5fd09006328db1288ee6e35c50f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "ID_ACHIEV_50": {
       "name": "Carbon Cat",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/ba5b1cc5d1f78207eae1ddb9961e5b00d53a07a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "ID_ACHIEV_51": {
       "name": "Carbon Cat vs Iron Maus",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/1a512e1b489c52538cc8bb598582113aac60ceac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "ID_ACHIEV_53": {
       "name": "New Gear",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/b656d382249910ec84e0137df5a2684ea136bb05.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "ID_ACHIEV_56": {
       "name": "Rusty Rat",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/87da1ae5af4de45cab28ebf7b5d7fe48b4b07085.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ID_ACHIEV_58": {
       "name": "Is This Real Life?",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/6988c04da63a3ac0399b83b93c51f342c0b6e71a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "ID_ACHIEV_63": {
       "name": "Tools of War",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/2d9f85de75cc31c846748c96bd925986f049cb81.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "ID_ACHIEV_68": {
       "name": "Risk Assessment",
