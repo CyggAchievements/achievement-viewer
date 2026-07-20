@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/0aed980cb923209cad1b7b9ff8a3cfd38db81467.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "ACHIEVEMENT_4": {
       "name": "Dragon Slayer",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/d1dced0ec4ccb093fabc5390e1c56f3c1142893b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "ACHIEVEMENT_5": {
       "name": "Troubling Consequences",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/7fe4887649ab3586287d8b1f781bd63900bdaeab.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "53.0"
     },
     "ACHIEVEMENT_7": {
       "name": "Promise Fulfilled",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/eccbefd42a0fdf08927fc866a06a12f9dbec1106.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.6"
     },
     "ACHIEVEMENT_8": {
       "name": "Round 2",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/ec678c83479e8454d455d59717254e3b3c952e39.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "ACHIEVEMENT_9": {
       "name": "Past Haunts",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/ce625e703ec489afd510656d1d31cf12f33b1790.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "ACHIEVEMENT_11": {
       "name": "Last Wish",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/164d83e97991585bd53e81fee3bd85b7e1441c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ACHIEVEMENT_18": {
       "name": "Quick Tempered",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/a53026128477bf8b6841dabcd0d01452616334af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "ACHIEVEMENT_22": {
       "name": "Dangerous Skies",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/513cba2fd7baaa89d3552a8d46e82bfbf0909b0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "ACHIEVEMENT_27": {
       "name": "Worthy",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/94870155ea13d091665504acbd7be41f75765400.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "ACHIEVEMENT_31": {
       "name": "Unfinished Business",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/082c3c3c44e97cc5c90a3c42818a2b80633319d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     }
   },
   "platform": "PlayStation",
