@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/83743fa8b3bc253a316fd772e33908ac11b0992e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "BossForestAdvancedDefeated": {
       "name": "For Survival",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/9417ea3cc0f8e6286c483c2288051af579db7b00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "BossFinalAdvancedDefeated": {
       "name": "For Greed",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/4e79ff787e79e6995244a181528097f59fc0061e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "PetDragon": {
       "name": "Good Boy!",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/dbe72796e8d170e6fc0372328ef50b2e9256b49f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "Icarus": {
       "name": "Maybe Wax Doesn't Melt",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/1eec3fe6e8afabce11514504d0bc621bbfb6908e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "UnlockHighMastery": {
       "name": "Jack of all Trades",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/4bd78d6b1bda07420870572bf72c140b4f2944fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.5"
     }
   },
   "platform": "Steam",
