@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/c8628a205351289b136f61c7079ab42c888a3158.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "96.9"
+      "percent": "97.0"
     },
     "SWORD": {
       "name": "A Sword!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/64e1f0c84c1f9d36ac3e3d9dd2ece49b81ce6698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "82.0"
     },
     "RESURRECTION": {
       "name": "What just happened?",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/855fad1b3e766bec9c75b32b77714ee71dee4ceb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.9"
+      "percent": "88.0"
     },
     "EASTBELL": {
       "name": "Ding",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/a7a2d10657a4cb898b0c452a92097ef7bc6459e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.6"
+      "percent": "76.7"
     },
     "WESTBELL": {
       "name": "Dong",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/6e468084b47f624e36d2a821af9e4851dfa90080.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.4"
     },
     "FUSE": {
       "name": "You hear a strange hum",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/dcd47f1fc320500663777bbc2a6712d7f66d1f25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "HEX1": {
       "name": "Deep In The Forest",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/934462d2d058b7a1a9043bee91eee91fd3138919.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "DASH": {
       "name": "You feel a tingling...",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/577c4c9b024cf0af2061123bc43195393b200866.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "FAIRY": {
       "name": "I'm free!",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/5c16568356fdf135f0d6a91f78475d41adaac7e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "60.0"
     },
     "PIGGYBANKS": {
       "name": "Too Cute To Smash",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/0c1e47b8616b053c85c26648aa9908e89db64a8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "COIN15": {
       "name": "Well done!",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/827bf22481d2b28c1be54dcddbcb76853d93c7cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.6"
     },
     "WRONGFIGHT": {
       "name": "Bring it to the wrong fight",
