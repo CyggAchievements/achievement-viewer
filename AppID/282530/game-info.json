@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/692718f6bca429b53d932a0fe9d42b31d9df64bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "02_ACHIEVEMENT_DEFEAT_THE_NECROMANCER": {
       "name": "Dust to dust",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/3dada9512dff938d6828d612d3be3f8a7d4db167.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "07_ACHIEVEMENT_DEFEAT_THE_CRYPT_LADY": {
       "name": "Insecticidal",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/86d7ccd7d62d53b6f84935761fcc457671a4e691.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "13_ACHIEVEMENT_OBTAIN_ALL_THE_SKILLS": {
       "name": "Combat master",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/396cd26b67afacb8e7b92c4b97d2f1b1ddc3989b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "14_ACHIEVEMENT_FINISH_THE_GAME_QUICK": {
       "name": "Quick as lightning",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/282530/03174fcb23bc51d9911a9009bf029d6558b8c8e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "23_ACHIEVEMENT_KILL_1000_ENEMIES": {
       "name": "Beast hunter",
