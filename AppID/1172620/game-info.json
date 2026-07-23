@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.8"
     },
     "11": {
       "name": "Tactical Chunder",
@@ -401,7 +401,7 @@
     },
     "46": {
       "name": "Sailor of the Gold Horizon",
-      "description": "Receive the Commendation for sailing 1,000 nautical miles on Gold Hoarder voyages.",
+      "description": "Sail 1,000 nautical miles on Gold Hoarders Voyages, or with their Emissary Flag raised.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/550b907337c5d748129f116fa82c27239fbdd126.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
@@ -455,7 +455,7 @@
     },
     "52": {
       "name": "Sailor of the Merchant Alliance",
-      "description": "Receive the Commendation for sailing 1,000 nautical miles on Merchant Alliance Voyages.",
+      "description": "Sail 1,000 nautical miles on Merchant Alliance Voyages, or with their Emissary Flag raised.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/550b907337c5d748129f116fa82c27239fbdd126.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
@@ -464,7 +464,7 @@
     },
     "53": {
       "name": "Black Powder Merchant",
-      "description": "Receive the Commendation for delivering 100 Gunpowder Kegs on time.",
+      "description": "Deliver 100 Gunpowder Barrels or Crates of Unprocessed Gunpowder.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/550b907337c5d748129f116fa82c27239fbdd126.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
@@ -473,7 +473,7 @@
     },
     "54": {
       "name": "Merchant Forager",
-      "description": "Receive the Commendation for delivering 50 Fruit Crates on time.",
+      "description": "Deliver 50 Fruit Crates or Crates of Unprepared Ingredients.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/550b907337c5d748129f116fa82c27239fbdd126.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
@@ -509,7 +509,7 @@
     },
     "58": {
       "name": "Sailor of the Whispering Bones",
-      "description": "Receive the Commendation for sailing 1,000 nautical miles on Order of Souls Voyages.",
+      "description": "Sail 1,000 nautical miles on Order of Souls Voyages, or with their Emissary Flag raised.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/550b907337c5d748129f116fa82c27239fbdd126.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.3"
+      "percent": "71.4"
     },
     "78": {
       "name": "Five a Day",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "95": {
       "name": "The Shores of Gold",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "96": {
       "name": "A Sunken Legacy",
@@ -901,7 +901,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/7d810d0655d68670e693359223c61b3da0b9c9eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "115": {
       "name": "Tome of Curses IV",
@@ -919,7 +919,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "117": {
       "name": "Tome of Curses Collector",
@@ -1297,7 +1297,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/7d810d0655d68670e693359223c61b3da0b9c9eb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "159": {
       "name": "Hunter of Old Horatio",
@@ -1765,7 +1765,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "211": {
       "name": "A Veteran Voyager",
@@ -1783,7 +1783,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/6d1d96f966f22db460c34832d4b1d2212be80c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "213": {
       "name": "That's 'Captain', Mate...",
@@ -1882,7 +1882,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "224": {
       "name": "Hot-Headed",
@@ -1999,7 +1999,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "237": {
       "name": "Emissary of Guilds",
@@ -2134,7 +2134,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "252": {
       "name": "Be In-Spired",
@@ -2152,7 +2152,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "254": {
       "name": "Pay Your Respects",
@@ -2161,7 +2161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "255": {
       "name": "Pirate of Distinction",
@@ -2197,7 +2197,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "259": {
       "name": "Voyager for the Alliance",
@@ -2206,7 +2206,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "260": {
       "name": "Legendary Plunge",
@@ -2233,7 +2233,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "263": {
       "name": "Krack Shot",
@@ -2242,7 +2242,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "264": {
       "name": "A Clash of Bones",
@@ -2539,7 +2539,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/4cf67f5706065decbc919dedf521d538aebb6c0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "299": {
       "name": "Smuggler at Sea",
@@ -2584,7 +2584,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "304": {
       "name": "Are You Even Trying?!",
@@ -2620,7 +2620,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/cdf9a97eaf4b3c320ca13a4b2551de92d55860b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "308": {
       "name": "So. Much. Silver!",
