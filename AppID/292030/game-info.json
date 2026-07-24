@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "The Witcher 3: Wild Hunt",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+  "name": "Ведьмак 3: Дикая Охота",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/47273f809e429a272f35c252b49d9bba83e2cf30/header_russian.jpg?t=1768303991",
   "achievements": {
     "LILAC": {
       "name": "Lilac and Gooseberries",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/b33cd0fcb3bab390513b5128c0ba911cbcc280a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "GLOBETROTTER": {
       "name": "Globetrotter",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/a43d3ba006f02649a549f949480f39ac2620d7d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "GERALT_AND_FRIENDS": {
       "name": "Geralt and Friends",
