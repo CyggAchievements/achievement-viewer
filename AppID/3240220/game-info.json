@@ -1,7 +1,7 @@
 {
   "appid": "3240220",
-  "name": "Grand Theft Auto V Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+  "name": "Grand Theft Auto V Version améliorée",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_french.jpg?t=1781187782",
   "achievements": {
     "ACH00": {
       "name": "Welcome to Los Santos",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/54705fbb27c56b0c3e00ff4dbd7b5b8039e45966.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.2"
     },
     "ACH50": {
       "name": "San Andreas Sightseer",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/feafc37edae850fb5265af911c79c790d6cc7a29.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "ACHH2": {
       "name": "In the Name of Science",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/2c9ffebd7e6c34dfdef49e6f2d250dba8fc3e2f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACHR8": {
       "name": "Location Scout",
@@ -622,7 +622,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/7f32e0c977b465951a64b3ac01b29f90bbfb2b64.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACHGO1": {
       "name": "Getting Started",
