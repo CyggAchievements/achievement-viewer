@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/ca5b911229824b559ebfe41f93fbe607b0b6a79b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.1"
     },
     "allacquisitionmachineskilled": {
       "name": "All Acquisition machines killed",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a2c607fe4129dfb995d03f645b4cebd2e5f0bd74.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "reachedlevel10": {
       "name": "Reached level 10",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/87fc41b54fbe335e3f98b98f0f3390b66649cdd4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "discoveredthetruth": {
       "name": "Discovered the truth",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/12484df45fb5b836a7be11875c2186ea4bea73eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "endedthewarmachinethreat": {
       "name": "Ended the war machine threat",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a332eff90b1edd940306d933ac3482d7888f0694.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "newgame+completed": {
       "name": "New Game+ Completed",
