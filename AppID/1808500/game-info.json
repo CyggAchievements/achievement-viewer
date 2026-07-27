@@ -1,7 +1,7 @@
 {
   "appid": "1808500",
   "name": "ARC Raiders",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/982cca1f1f19a646301b6051e82562d29092d63e/header_alt_assets_5.jpg?t=1784099728",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/04baafaf64a5aa5f46ecda5d71889a4848dc0628/header.jpg?t=1784099728",
   "achievements": {
     "Expl01": {
       "name": "Scavenger",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/034a36f7221ad812ae62392e92d42433fa2c207e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "PvE05": {
       "name": "Three Birds, One Stone",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/ea8a74bce76d3b471776de64c7fcc1e80c16bafd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.3"
+      "percent": "71.2"
     },
     "Meta02": {
       "name": "The Long Haul",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/9d123d808e6f1f8ecfcf73cb219694adc6e52132.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "Meta03": {
       "name": "Expert Weaponsmith",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1808500/6bea08802eafb5213c28827f49ab77099b8c5890.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "PvE09": {
       "name": "Blindsided",

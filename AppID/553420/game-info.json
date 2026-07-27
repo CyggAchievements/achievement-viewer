@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/93b00c7f3367019e11cb6131259b2846712f8207.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.0"
     },
     "HEX3": {
       "name": "At The Root of The World",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/462c79d97fc8e3ffb8b0f1b25d550b4e43f625c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "GYRO": {
       "name": "What now?",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/14dcb195245b18759946cf2a9350ed9a604f503e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "COIN1": {
       "name": "Nothing happened...",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/f37e84ff81b6a6da2d03251c8beee25038444d1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     }
   },
   "platform": "Xbox",
