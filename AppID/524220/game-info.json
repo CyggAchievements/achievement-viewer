@@ -1,7 +1,7 @@
 {
   "appid": "524220",
   "name": "NieR:Automata™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1773364834",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1785182957",
   "achievements": {
     "ACH_VISITED_BUNKER": {
       "name": "Resuscitated Body",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "ACH_SEE_2B_DIE": {
       "name": "Final Wish",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/5cad263135d7f42d3304918370f492b353aa46f3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "ACH_CALL_AT_KAINES_ROOM": {
       "name": "Lunar Tear",
