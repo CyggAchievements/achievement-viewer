@@ -1,0 +1,577 @@
+{
+  "appid": "1601570",
+  "name": "The Alters",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601570/7e5e8053c9c93c5e2293b90115bf21782e5a3971/header_alt_assets_7.jpg?t=1784801366",
+  "achievements": {
+    "1": {
+      "name": "The survivor ",
+      "description": "Reach the base",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/4787d3016e59fd8c271ce93565336e2cebff5f06.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/a2a3fcf2abe2d96c0c78640c75e642d1d7f86f96.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.2"
+    },
+    "2": {
+      "name": "Two of us",
+      "description": "Create the first Alter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/b3bf28989195bed03e2a5fa7571a8d07b51d17d3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/0ff3d36567eebf11fd163763cbb1f55f43dd5570.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.2"
+    },
+    "3": {
+      "name": "Dig Deeper",
+      "description": "Set up the first outpost",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/c320a7178a2e183619f6f05f54027ad61e91e828.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/5c4de2e3fa262eafb41fd9d61ef9fc581bf4eca0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.8"
+    },
+    "4": {
+      "name": "Let's roll",
+      "description": "Finish the Prologue",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/77597fc30db07cc05a25c06cf21b76db5ccbdb4f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/a27ceaedfc42c17515749f90c725821c3d6c5ba6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "5": {
+      "name": "The Bridge",
+      "description": "Build a bridge over the lava river",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/05ba20c43acd3c3df857ba01c55ee9ed62ca92ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/171210bb20ca8b644e7d1bf562e34b366e1c5fd8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.8"
+    },
+    "6": {
+      "name": "Nothing's gonna stop us",
+      "description": "Finish Act 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/de67f870b1b9c663805c6a5e9dde820d7ee9bc71.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/7de6bc94b9d400f73314898869d99cb14f77f1ae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.1"
+    },
+    "7": {
+      "name": "Into the storm",
+      "description": "Finish Act 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3081ec748e3ff9506d571cabd2f4b784b7860810.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/cada461a04ba788af90ec8ef9bcbacc86cd3a93e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "8": {
+      "name": "Time to go home",
+      "description": "Finish Act 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3c314e25b9fd2a093f4e788551afa8e66536a7ad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/2c1156fcaec151f2330048e9a286c7b5c8d0d5c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "9": {
+      "name": "I Found You",
+      "description": "Find the rebel base",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/df405883e3605fe992c443313cdfc945eee4b5ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3fbebb7112d7c7a08c04d6fbdd6c6efac23f4814.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "10": {
+      "name": "Corporate Plug",
+      "description": "Start treating the brain mutation using implants",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/045d6543d86a951abab1cf6b38343abc36df56a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/811dc6b9d56c5fd01099783d93c8440448002756.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "11": {
+      "name": "Bold Science",
+      "description": "Start treating the brain mutation using experimental therapy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/0baca6258fb06d6704ed46001a4837b166725772.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3c88750b99ca487b35ac1fb18f642fd6d53bd869.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.8"
+    },
+    "12": {
+      "name": "Her last wish",
+      "description": "Complete the Technician’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/6a34ecfe1fb4348e0aeb056447ac39b9ff654929.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ae2e83a8c155bc4cab30b6b6cbab431844a743e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "13": {
+      "name": "Hidden truth",
+      "description": "Complete the Scientist’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ab2ca40549bb47ae9cc3c63511ea7457698cac18.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/9978e2b5d54217bd567599638e9a7b376eed4cb6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "14": {
+      "name": "Keeping him safe",
+      "description": "Complete the Refiner’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/6afe2fd6ebd94c56c44a3d6edade275e5d0ad7e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/bdfcfa89e73c6a8de89c9701ffa231f2342fd067.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "15": {
+      "name": "Remaking Himself",
+      "description": "Complete the Miner’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/b2c628e32905a02b9875418328d7c08b4f13033f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/7eaf1117eda765698468e4c3bfa6bdf52a88058d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "16": {
+      "name": "The Other Man",
+      "description": "Complete the Botanist’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/95781bc895dec05b61c5916a5af374494e0648a0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/acaa85eba3535bb2ec4822d9979a28bf333a748e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "17": {
+      "name": "You gotta be smart",
+      "description": "Complete the Guard’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/d033f6ab08b930207b76dcca28364c416e4c1b07.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/4e99b94d47ac0280c1aec47bf7998f054c6e15b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "18": {
+      "name": "Happy Sisyphus",
+      "description": "Complete the Doctor’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/41b4984aa35fbb4b8283185b8027ed9287df4e04.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/efbeaaa4b24dbfbb17c14c770c4dcc1e2e28560c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "19": {
+      "name": "Take it easy, Dude",
+      "description": "Complete the Shrink’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ac2f3c66ea279fa5953a4786059e9c2bb9b77ffd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/59bff0dd195c2aceec103d471b572f848685f689.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "20": {
+      "name": "A place in people's hearts",
+      "description": "Complete the Worker’s storyline",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/21efd55375d485c533f1477b71a6769bd01c1627.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/2d74825b4a441be6934301bcb4c497f45c0ca852.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "21": {
+      "name": "Assertiveness",
+      "description": "Learn the Technician’s lesson - Assertiveness",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/4e5346f72e69c0d891945d1e3426813ce8106ed8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/d693a6fbb1a6ce8f9ca94d4cde22f0e933f21607.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "22": {
+      "name": "Reliance",
+      "description": "Learn the Botanist’s lesson - Reliance",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/005ae04cfd5f6eb92d8040b536c272817fecb06a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ff664285a712f48c09d591fdf3b7a6e553992471.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.9"
+    },
+    "23": {
+      "name": "Vulnerability",
+      "description": "Learn the Miner’s lesson - Vulnerability",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/8a2642c7ef9d23d93243f70e40e815c89cebfeb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ec2d2f6b49c7f0d5fd6dd228ff17e91ad0a27cd5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "24": {
+      "name": "Charisma",
+      "description": "Learn the Worker's lesson - Charisma",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/f2cc542765b4a1abe37c9e263e545eca713fd136.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/09a1fd8ce6688fe48e902c77ca56a744337998f2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "25": {
+      "name": "Optimism",
+      "description": "Learn the Refiner’s lesson - Optimism",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/faa2093c3ab857c5ff4cd8c2b48cb9a58ce69402.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/bc14484cc439507880fe5a2e6e027a6d7f6e8403.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "26": {
+      "name": "Integrity",
+      "description": "Learn the Doctor’s lesson - Integrity",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/133e5103287d19b0a957dbb123df64a8f0b97ff0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/964fb44781085520f592cdaabfd64676847ef4c5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "27": {
+      "name": "Chill",
+      "description": "Learn the Shrink’s lesson - Chill",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/4ea62505cae100c01c5c43025435b60b8956f1c9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/2570a07f47b84db0e342fe84ae95740c8e3036d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "28": {
+      "name": "Shrewdness",
+      "description": "Learn the Guard’s lesson - Shrewdness",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/75308bd2fe55b87d0e25d801b265d523102eacb4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/f163a7262265dd5077ce770f38c1637018ce82da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "29": {
+      "name": "Joy of life",
+      "description": "Learn the Tabula Rasa’s lesson - Joy of Life",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3688c567c72ab7ff4f715491e783d269f3f219c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/027af316768cae589e1f9f2f919ad7dfd3e73cfc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "30": {
+      "name": "Pragmatism ",
+      "description": "Learn the Scientist’s lesson - Pragmatism ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/930726838b623c51fdddf9a8ffcb3f7c9dbf1e7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/d275b75681014844289440e96da8d84819ab0684.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.1"
+    },
+    "31": {
+      "name": "Awareness",
+      "description": "Unexpected member stays with the crew",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/5560f66c8fddcad237d2647d3a8e94ff29e2906e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/bfd49fab5d9e624de7f168f842ded995852e3da4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "32": {
+      "name": "Who else is there?",
+      "description": "Upgrade the Quantum Computer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/cffbb73a967a7ccf5488200a850da0fefba139cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/b5c00f591931f2ca60169e57bdb456199c917500.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.6"
+    },
+    "33": {
+      "name": "The Ultimate Builder",
+      "description": "Build all possible modules",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/47988734fbdc8cd0fd37e3a6c53bec5a36ce192e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/8777eb4dca1d9bd1ba08d7f3734e7a603df5a7e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "34": {
+      "name": "Reunited ",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/8ffac9fac084b0acfb5a5d21485f38743dd29f37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/90ea717203592e21ad7799412f43d5c9724c3296.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "35": {
+      "name": "Not Just An Object ",
+      "description": "Give every Alter at least one personal item",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/60ab5979813542ae386652c43cce26be254b9da9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/5066d31496c7c4dbf693fe2eca31add93bd3a613.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "36": {
+      "name": "All by myselves ",
+      "description": "Create all possible Alters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/c0513db201a4828b5b640174a8feaccfa630dfbc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/b1c7213b42566b9108d0e7259ab36f668eb25f33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "37": {
+      "name": "Provide more",
+      "description": "Build the second Rapidium Ark",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/16ea6fc67c2835f2e8c6b2219faa3296bb490dd4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/c51c757882efe7a9fa678e4756c0f2ffb8988848.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "38": {
+      "name": "We needed that",
+      "description": "Build the third Rapidium Ark",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/f093076e20d60a2329361750282c39e7f00fb2f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/011f0c1874bfb8537b874f22f79bc6f374de20b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "39": {
+      "name": "The mission comes first",
+      "description": "Build the fourth Rapidium Ark",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/6317f3f3d25d52e7eb1be4bc0f0ce3fb03e103cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/5d4310c75a9a5d4b52125c5dcaea53b72dd3ea8e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "40": {
+      "name": "Exceed all expectations",
+      "description": "Build the fifth Rapidium Ark",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/2706c16a2239ad2a5116e25247083e7e7c12dfbd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/7da25db8a0668474f5aa155179a351dcc2ee91a1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "41": {
+      "name": "Jan Complete",
+      "description": "Learn all the lessons from your Alters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/dfccc6b748a84dbf2ff12d1351c488e049c2de2e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/1402a19544bb208000d3db06ffd5f3d0b7d18035.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "42": {
+      "name": "Smart Management",
+      "description": "Start a production uphold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/cd67dff2e06f35e369b8c102e453ae761c115c41.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/aabf3c621449e1fa10a746d5dbe970dac8c2e768.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.8"
+    },
+    "43": {
+      "name": "Look at all this new space!",
+      "description": "Expand the base for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/e9556c4027232edef5a6cee69715176814ef9db6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/e30b7a71deb9fa25d5b1997734598c61c00e09b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.0"
+    },
+    "44": {
+      "name": "Jan's Moving Village",
+      "description": "Expand the base to maximum capacity",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/a1234e4e27f623187a26d7450f00ec036e50ccdc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/a3beab2f35b1b6e7c791e6e19b34e1ed3288968b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "45": {
+      "name": "Baaa!",
+      "description": "Pet the sheep",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3212599f5589debd79d342768debae765ae1c060.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/f405b1f6140cb0cc6afef05d8c91a126a92b8dee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.5"
+    },
+    "46": {
+      "name": "The Corporate Way",
+      "description": "Finish the game with the help of the corporation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/fbe92bfe9dc89fc353babf133492ff4026bc0ff4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/dec53984475655d4cbaadf28c6d875c64a72bfdf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.5"
+    },
+    "47": {
+      "name": "Maxwell's Path",
+      "description": "Finish the game with Maxwell's help",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/eddaa4650c6be285e1e6460f69b20b18f91c5f5e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/6ecf47f0ccb7a1cfba21429bb37433b39e610501.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "48": {
+      "name": "Advanced industry",
+      "description": "Create the first portion of resources using the Refinery",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/af78e0de9869d9a14d29b77a116f40a5e5fb4efc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/600086f6349ace31ea836c9ddd6348713a75ddb2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.6"
+    },
+    "49": {
+      "name": "In shield I trust",
+      "description": "Walk into an anomaly 20 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/31b496e49e4d38115725f29fa90e2279e44afa3e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/38572830a6f4834a839fb58177ce21a444bb1cfd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "50": {
+      "name": "The things we do for love",
+      "description": "Betray everybody as the Botanist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/12c4298fa408750c0cd1bd0e35b2ebcf1cc3e1fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/7dca1e59fcd3901e12150f3518aceb9f9a047db2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "51": {
+      "name": "It ends in flames",
+      "description": "Blow up the base",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ffeed117aeebe194ac44acc3ff78ee0633085481.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/35092f5baf7c378912236aece329558f2f00c30f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "52": {
+      "name": "We Made It Together",
+      "description": "Survive the magnetic storm",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/a316c180dddfa5bd8c958eafdf23de0598ce113c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/8d98593e7e1b9bc65256b547b8e7e41299696bb0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.6"
+    },
+    "53": {
+      "name": "New perspective",
+      "description": "Get an alternative tattoo with Naranath Bhranthan",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ecb51716d2a934a902077d3d6a9d7c9616eb0d18.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/bc50924b1d4558be41683a38cb562d7ae03cfc8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "54": {
+      "name": "I deserved this more",
+      "description": "Come back to Earth as the Botanist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/9b3d2c37fcf1ba5c1da239a316e84eeb5a3a7a5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/45c16f84027159c200b54da41b061789ce07f4a2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "55": {
+      "name": "All By Myself",
+      "description": "Leave your Alters to the mercy of others",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/d244846555c3a38c0f75bc58bc1c503b1a8f2c8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/2295b73321fa9a6aab637d09d4ec8219c583869c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "56": {
+      "name": "A Quantum Singularity",
+      "description": "Earn all trophies in the Alters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/acd18924caccd3d0478da4145da9abdafa1b028a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3c10c2a66b933243b84a8ca06a9f89cd7dcb2522.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "101": {
+      "name": "Space Gardener",
+      "description": "Place the first Terraformer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/d8bdcca28bf4bcc2a8a9b19c02a861d5d850c47d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/872720715593742fd0397b23ea849c7f3cb68fa1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "102": {
+      "name": "Mastering Rapidium",
+      "description": "Start production of Phased Rapidium",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/50224281dfdf4149137d80b1150269615535f9fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/918a1cbc55e572e40f0f67f1d7c88096e9a3be0b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "103": {
+      "name": "Mix and match",
+      "description": "Start production of Proxylium",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/4092c6e1a7addfc7a80499da73b2881b5e2d4f98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/803d1a6e28409465829ca2ee9353c6aebf7b49c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "104": {
+      "name": "Substance Genius",
+      "description": "Start production of Megafluid",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/093fd04c18324565812e26b02f6d13fa700dc90f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/648055296b578f9ea867a905527eaac2fecb1a5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "105": {
+      "name": "Wait, you can do that?",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/2fae01e9efc8b24270d4178bbc5bf2e07a1d7824.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3d249baed2b77f0de49668530af95d457e9240d9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "106": {
+      "name": "Caring after all",
+      "description": "Complete all Scientist's Alters' storylines",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/ac104ef1d3ce79c93f9311bead67d09e977e20a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/be3ab43ab7d64f087111a5a4386d678764dcd6d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "107": {
+      "name": "The reason I stayed",
+      "description": "Finish the Last Variable DLC",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/5534b506cb35a81d76909ebaf5c8293c02af3171.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1601570/3f391579c87ae0a99802ca0bbfe69b1ae72e292d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}
