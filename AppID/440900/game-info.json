@@ -1,7 +1,7 @@
 {
   "appid": "440900",
   "name": "Conan Exiles Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/bae6def963ca0dbf5ee4b7768f3fcc0e99458380/header_alt_assets_8.jpg?t=1784642443",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/a03b87037b5840d7a7f0ad6446c9885060eba159/header_alt_assets_8_french.jpg?t=1784642443",
   "achievements": {
     "ACH_ReachLevel10": {
       "name": "Hither Came the Exile…",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/de134dd8ea51122898f2ef0a71e292e7033a7f38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.7"
     },
     "ACH_CraftExceptional": {
       "name": "The Gilt, The Craft and the Lie",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/2bc264a9f812d44c3a79b55fe04811dbee590024.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "28.9"
     },
     "ACH_DefeatGiantCrocodile": {
       "name": "The Snout in the Dark",

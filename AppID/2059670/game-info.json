@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "ACH_MOSS2_BOSS_WARDEN": {
       "name": "Forged in the Deep",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "ACH_MOSS2_PLOT_SWORDDASH": {
       "name": "Zoom Zoom",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "ACH_MOSS2_ENEMY_TICKER": {
       "name": "Chain Reaction",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "ACH_MOSS2_ENEMY_LOBBER": {
       "name": "Minesweeper",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     }
   },
   "platform": "Steam",
