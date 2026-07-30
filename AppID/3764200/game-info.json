@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/9402f6f3d7229f2635838bd5f25432965fd42385.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "74.1"
     },
     "9": {
       "name": "The Final Mission",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/477979d97909d4327d44e626a05f0631f99da349.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.2"
     },
     "11": {
       "name": "Rookie Agent",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/5e222b2eeaf021febe3012acfc5ad432072e72fd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "80.2"
+      "percent": "80.1"
     },
     "22": {
       "name": "Bring Out the Big Guns",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/d40f98180ded0af3d1793a728ff9605d8ae4d924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.3"
     },
     "28": {
       "name": "Tailor Made",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/817c8e8d89863e08d5c1ca31c2dce6210b6643d9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.3"
     },
     "37": {
       "name": "Seasoned Pro",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/fb40f60e5d9a2947c3d844f644ca7a7fb1ead3ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.7"
     },
     "49": {
       "name": "Minimalist",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3764200/bd3748493b47aece109cb8deb4d87729472ca007.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.4"
     }
   },
   "platform": "Steam",
