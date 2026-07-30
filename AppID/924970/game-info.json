@@ -1,7 +1,7 @@
 {
   "appid": "924970",
-  "name": "Back 4 Blood",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/header.jpg?t=1780594976",
+  "name": "Game 924970",
+  "icon": "",
   "achievements": {
     "Achievement_GrabBag_001": {
       "name": "Welcome to the Apocalypse",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/ebba97103f69a401e257adb40a6d6f04a54ecef0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "Achievement_Campaign_011": {
       "name": "Don't You Eat My Neighbor",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/d948a0f3c6ea4ec781d0705ea58d4aff2ada0ff0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "Achievement_Campaign_022": {
       "name": "Act 4 Veteran",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/134b3215277f15a83a2dd882c7b636c67bd08754.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.8"
+      "percent": "33.7"
     },
     "Achievement_DLC1_003": {
       "name": "Totem Toter",
@@ -820,7 +820,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/2057fb9c70ba8be93451a446621a703b8e96a04c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "Achievement_DLC3_012": {
       "name": "Hard-Boiled",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/1ebe4d064653404f6df93d36fb60b24d0aad9442.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.7"
     },
     "Achievement_DLC3_013": {
       "name": "LAW and Hors D'oeuvres",
