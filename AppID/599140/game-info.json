@@ -1,7 +1,7 @@
 {
   "appid": "599140",
   "name": "Graveyard Keeper",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/07a4abf278d3029bec1bf7dcff9b2852bdde5250/header.jpg?t=1781523975",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/07a4abf278d3029bec1bf7dcff9b2852bdde5250/header.jpg?t=1785515607",
   "achievements": {
     "bury_1_body": {
       "name": "Novice gravedigger",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/6660c8a821b287e05c9a062a3e2645c02b2009d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "51.8"
     },
     "meet_actress": {
       "name": "Charm itself",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/b2c29d915b2af059d3bc589b1da926a5132e39c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.3"
     },
     "meet_bishop": {
       "name": "Sweetheart Bishop",
@@ -712,7 +712,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/7f334d347cc3d757d0cf05b8ffc266570a563d48.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "dlc_stories_cut_scene_10": {
       "name": "A nation divided",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/85a416834d843b0009209a36c517e8fc886d92b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "dlc_refugees_s5": {
       "name": "Vampires in the Village",
@@ -901,7 +901,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/d846d6604091bfaa8e2b9b96a0e1be0246540c1f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "dlc_refugees_d10": {
       "name": "Ideologist of Revolution",
@@ -1009,7 +1009,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/1e9f7cf75a0f3424b45046561c00a1addaa97970.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "dlc_souls_s_s_6b_2": {
       "name": "A lost stained glass window",
@@ -1018,7 +1018,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/442da0d1784d82f85c92169143435f04cd394bc4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "dlc_souls_s_s_15": {
       "name": "Long-awaited appreciation",
