@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/ff2ce90c67c0d574096bf2f5eaa19ca25b2193db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "CompleteWorld3": {
       "name": "A Trip Downtown",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c9472ca1b8c3b55d953ba7074bcce61bc1397c3e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "SRank": {
       "name": "Put On a Show",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/5643978eea7410aee6162bfab27171054a7af402.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "NewGamePlus": {
       "name": "Beat The Devil At His Own Game",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/9e77c496458e8c5b51662fcdfeb4f2843008c2a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "BoughtAllItems": {
       "name": "Butter-and-Egg Man",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/7e17738f4b3157ac863845d7bf56dfa6f1f7a72d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "FoundSecretPassage": {
       "name": "Cutting Corners",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/f3367650da920da56d564f0a80dc94cc21ca8ce0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "SuperWin": {
       "name": "Porcelain Power",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/debfe95fdaec900dcb58af4ad793aa34000d9283.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "SmallPlaneOnlyWin": {
       "name": "Bravo Zulu P-26",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c6d1cd80fef7d760b63ab25b0443f2b5dba73a63.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "SRankAnyDLC": {
       "name": "Cooked to Perfection",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e8b51bc902465b07b79fe2be03bee20c6d29e63f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "HP9": {
       "name": "Hearty",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/842b2cb013039d3b4adfc1bea3aa546c7182d39f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     }
   },
   "platform": "Steam",
