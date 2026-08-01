@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/c8628a205351289b136f61c7079ab42c888a3158.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "96.9"
+      "percent": "96.8"
     },
     "SWORD": {
       "name": "A Sword!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/64e1f0c84c1f9d36ac3e3d9dd2ece49b81ce6698.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "RESURRECTION": {
       "name": "What just happened?",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/855fad1b3e766bec9c75b32b77714ee71dee4ceb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.9"
+      "percent": "87.7"
     },
     "EASTBELL": {
       "name": "Ding",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/a7a2d10657a4cb898b0c452a92097ef7bc6459e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.6"
+      "percent": "76.5"
     },
     "WESTBELL": {
       "name": "Dong",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/6e468084b47f624e36d2a821af9e4851dfa90080.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.3"
+      "percent": "54.2"
     },
     "FUSE": {
       "name": "You hear a strange hum",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/f0e6c9cd820bf92c19d0ef097901a8a4c6b44490.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "51.9"
     },
     "OFFERING": {
       "name": "Your gift is accepted",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/dcd47f1fc320500663777bbc2a6712d7f66d1f25.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.6"
     },
     "HEX1": {
       "name": "Deep In The Forest",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/4215e2dcd25414c566361b8568c9598ab4c87406.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "46.8"
     },
     "HEX2": {
       "name": "High Above The Clouds",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/93b00c7f3367019e11cb6131259b2846712f8207.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "HEX3": {
       "name": "At The Root of The World",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/462c79d97fc8e3ffb8b0f1b25d550b4e43f625c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.1"
     },
     "GYRO": {
       "name": "What now?",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/934462d2d058b7a1a9043bee91eee91fd3138919.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "DASH": {
       "name": "You feel a tingling...",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/7cb86472537abaa638f7b05be3ebfc15878ac222.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "RELICS": {
       "name": "Your body is restored.",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/e3e4538bfb6dbc221c0c23d24ba7bf379cae886e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "BADEND": {
       "name": "Game Over",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/a3dfb3d54d7061db9ccfc73a5c3ed7daf9a5f7f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "GT1": {
       "name": "Mr Mayor",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/0fd42cf048db8f7e7d86997e89b9e4bc295b3ccc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "GT2": {
       "name": "A Secret Legend",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/eef2878ae8fec3827c35bfea48b7cbc0b76fd11b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "GT3": {
       "name": "Sacred Geometry",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/704011ab3e5f52b161a102dc6a1f43dadb41b621.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "GT5": {
       "name": "Just Some Pals",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/0fd643edc5c7fe333ad78a586e35b67fe14a6c24.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "GT6": {
       "name": "Regal Weasel",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/efc7dd1e4c33fe5dfb09fa773c4a40105a4a4161.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "GT7": {
       "name": "Spring Falls",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/bc19f03f12e9adc2d6ea3c5cc2f3e6fe8c369f61.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "GT12": {
       "name": "Forever Friend",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/5c16568356fdf135f0d6a91f78475d41adaac7e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "PIGGYBANKS": {
       "name": "Too Cute To Smash",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/14dcb195245b18759946cf2a9350ed9a604f503e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.3"
     },
     "COIN1": {
       "name": "Nothing happened...",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/0c1e47b8616b053c85c26648aa9908e89db64a8f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.0"
     },
     "COIN15": {
       "name": "Well done!",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/827bf22481d2b28c1be54dcddbcb76853d93c7cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.4"
     },
     "WRONGFIGHT": {
       "name": "Bring it to the wrong fight",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/8fa8942cca67432b08b4173d2c47aae3a5990666.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.1"
     },
     "BONUSBOMB": {
       "name": "Your pocket feels heavier...",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553420/f37e84ff81b6a6da2d03251c8beee25038444d1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     }
   },
   "platform": "Xbox",
