@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/df1f2aee5b6e5281b515226d1d1f634a91494d82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "02_Activate_FirstCamp": {
       "name": "Camp Preparation",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b773b9b6b9a4e745eb922b01e16d9b9fd8ca696c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     },
     "08_KillCharacter_Stalker_Kill": {
       "name": "Stalker",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/f85d4cc8f54baece3d7087555a41d5212fa08b11.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.2"
+      "percent": "54.3"
     },
     "09_KillCharacter_Juggernaut_Kill": {
       "name": "Juggernaut",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/c8009bd93ca48c5d247f7e1d2e2a8038538fd250.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "14_KillCharacter_Marionette_Kill": {
       "name": "Karakuri",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/379a35d671474d300f12bf9be90f3745853b8eaf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "15_KillCharacter_Gorgon_Kill": {
       "name": "Demogorgon",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/aca6f0d1f79b22b1e27e082632d6a3a0394bebd4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.8"
+      "percent": "38.9"
     },
     "16_KillCharacter_Raven_Kill": {
       "name": "Raven",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/33e3c7204110210c1bff5fa496d6d02fbd1baa2b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "18_Ending_LostMemory": {
       "name": "Cost of Lost Memories",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/813682d75b72a643972ffde190848e37d2af27b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.8"
     },
     "21_Acquire_AllNanoSuit": {
       "name": "Nano Suit Collector",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b5050c5c26ea17caa18bf5e4e065cd0b860620c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.5"
+      "percent": "38.6"
     },
     "22_Acquire_AllRecords": {
       "name": "Records Collector",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/046f3dece50939998e49450193f076c652e6a09f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "23_Album_AllFish": {
       "name": "Lonely Fisherman",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/7fb75b92309d6d43ca00a96ee8e6f2ad28283763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "25_KillCharacter_AllNative": {
       "name": "Naytiba Researcher",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/0ae264e18ec6b51eca71d844806da99ab4302289.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "26_Activate_AllCamp": {
       "name": "Meticulous Explorer",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/80c5a9bf0aa19346fa4af2698a25856edabf4ff5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "28_WeaponMaxUpgrade": {
       "name": "Perfect Blood Edge",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8d002cbf7aa87b3c5eed3f95f3f42fbb74880da1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "29_TumblerMaxUpgrade": {
       "name": "Perfect Rechargeable Tumbler",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/8b779b1bbbe8495adb56c59129ae94a569e7fe13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "32_Acquire_AllSkill": {
       "name": "Thorough Technician",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/16577751adcc82ba33b963cdb1e4507c82bdc737.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.9"
     },
     "33_CompleteQuest_Enya": {
       "name": "Beyond Fate",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/e8a0181a3a6ffe0bb3b2d3fa0defc578ab8e4b34.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.9"
     },
     "34_CompleteQuest_Kaya": {
       "name": "Sisterly Love",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/936e0f8833e3be9e29aec80bf0f966e4fccb1b0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "35_CompleteQuest_Digger": {
       "name": "Beep!",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/011bc02b3ccee12bd3d60774de7ed02915ca6a5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "36_JustEvade": {
       "name": "Battlefield Martial Artist",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/e72125041ef0ce04408ed6ca7eb653d7cbbce565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "38_CharKill_AssassinationSkills": {
       "name": "Silent Executioner",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/7c7325119d991499027ceb5f40b9888f12731a3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "41_CharKill_TachySkill": {
       "name": "Revenging Agent",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/b3d9ddf2623431b57f42af0d458b361ca2ee6a50.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "42_CharKill_RangeSkill": {
       "name": "Cold-blooded Sniper",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3489700/359e03479fd923790adc9b4d48b43a6df9817def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "44_Complete_NewGamePlus": {
       "name": "Repeating Protocols",
