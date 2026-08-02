@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "ACH_MOSS2_WINDOW_THREE": {
       "name": "Eternal Light",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "ACH_MOSS2_BOSS_WARDEN": {
       "name": "Forged in the Deep",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ACH_MOSS2_BOSS_TYLAN": {
       "name": "Torched Wings",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     },
     "ACH_MOSS2_LOCATION_CASTLE": {
       "name": "The Castle",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "ACH_MOSS2_LOCATION_CONSERVATORY": {
       "name": "The Conservatory",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "ACH_MOSS2_LOCATION_DEPTHS": {
       "name": "The Depths",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "ACH_MOSS2_PLOT_SWORDDASH": {
       "name": "Zoom Zoom",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "ACH_MOSS2_DUSTDOOR_THREE": {
       "name": "We Call This Archaeology",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/02063d1d25bf0e00b9d311115f0e657a9fd5e4d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.5"
+      "percent": "77.6"
     },
     "ACH_MOSS2_TUTORIAL_HEAL": {
       "name": "A Friend Indeed",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.7"
+      "percent": "79.8"
     },
     "ACH_MOSS2_WEAPON_CHAKRAM": {
       "name": "There and Back Again",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "ACH_MOSS2_ENEMY_TICKER": {
       "name": "Chain Reaction",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "ACH_MOSS2_ENEMY_LOBBER": {
       "name": "Minesweeper",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "ACH_MOSS2_ENEMY_ARMORED": {
       "name": "Nutcracker",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "ACH_MOSS2_BOND_3": {
       "name": "Babe With the Power",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2059670/3287230aaecd942ad32aa0868f9b864c0333201b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.4"
     }
   },
   "platform": "Steam",
