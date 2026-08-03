@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/1041d4bed88e958aa97039f1b8078fe5322f4536.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.7"
     },
     "GetRangedWeapon": {
       "name": "Ranged Weapon",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/98b8474c76ddc7c50085c71d8909787dd76ebaa3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "65.1"
     },
     "Kill25Frogs": {
       "name": "Defeat 25 Frogs",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/9f2f4dc69017904f547a7f66e93b0a5195907e70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "CompleteGuardFaction": {
       "name": "Complete Guard Faction",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/1760eafae389f833f6a85fa0b3e03bd260d117c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "CompleteArenaFaction": {
       "name": "Complete Arena Faction",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/1b6abc6903ede4a8b9fcdbcf2c9fd0e00ceff6e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "Collect50MonsterParts": {
       "name": "Collect Monster Parts",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/f87c87d2bc628aa2c2037c9f3784ca717107918d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "DefeatMoziQueen": {
       "name": "End of the Mozis",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/3ca52b0c68f02d863a43f6e19e40ed8db1716c23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "MysteryKingsChamber": {
       "name": "Discover the mystery of the Kings Chambers",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/63a0beb1ec24809a1e367231c88e5a6b722ed215.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     },
     "DefeatCroakhisKhan": {
       "name": "Defeat Croakhis Khan",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/01704333f0b9ae0cbbb76147dd289fa116df9bb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "DefeatGrubBuster": {
       "name": "Defeat the Grub Buster",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1283410/af42e01681b15990db3631e8ad03449b25662032.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     }
   },
   "platform": "PlayStation",
