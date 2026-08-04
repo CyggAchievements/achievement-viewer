@@ -1,7 +1,7 @@
 {
   "appid": "440900",
   "name": "Conan Exiles Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/bae6def963ca0dbf5ee4b7768f3fcc0e99458380/header_alt_assets_8.jpg?t=1784642443",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/a03b87037b5840d7a7f0ad6446c9885060eba159/header_alt_assets_8_french.jpg?t=1784642443",
   "achievements": {
     "ACH_ReachLevel10": {
       "name": "Hither Came the Exile…",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/9860691ac84a8d2e7742b1895cf21e9af039afe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.1"
+      "percent": "78.0"
     },
     "ACH_VenerateTheGods": {
       "name": "The God in the Bowl",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/dc9e61b30e7c622ad53cb481af99ebc9f96609d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "ACH_DefeatKingBeneath": {
       "name": "It is the King, or his ghost!",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/776a5eb1ba3b17f45f58809c6aa1074762776858.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "ACH_Siptah_Leyshrine": {
       "name": "The Temple",

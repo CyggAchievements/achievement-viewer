@@ -1,6 +1,6 @@
 {
   "appid": "271590",
-  "name": "Grand Theft Auto V Legacy",
+  "name": "Grand Theft Auto V Version originale",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
   "achievements": {
     "ACH00": {
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/43ef33d7afe049066b79b926d0b164cb44090a0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "ACH09": {
       "name": "The Big One!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/a5daefa7c1a4f68d3899272d688372d500aa4d76.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "ACH10": {
       "name": "Solid Gold, Baby!",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/e0cee5b0a1d7208c53c132543d59554a2dd48da6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "ACHR10": {
       "name": "Cryptozoologist",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/383db594e55add24639eceaab4df49e376dc5636.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.1"
     },
     "ACHGO8": {
       "name": "Masterminds",
