@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/cd7fc82d4d611968070685af221e055523c11eea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.8"
+      "percent": "89.9"
     },
     "ALL_TOOLS": {
       "name": "Arsenal",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/00c63e08deb453ec284b83b2222e035cab9e2211.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "SHAKRA_FINAL_QUEST": {
       "name": "Trail's End",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4ea47ea4cfee98d988b6a93170bd42fc4515f803.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "PINSTRESS_WISH": {
       "name": "Fatal Resolve",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/589423606af7680b4cc5af5be195b526eaf38545.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.5"
     },
     "CITADEL_SONG": {
       "name": "Harmonious",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/ce0df795d793b5a05d31f1ba28f38cc4193444dd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "ENDING_D": {
       "name": "Twisted Child",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/42953816aed39636c301cea00b01ced66eb43144.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "SPEED_COMPLETION": {
       "name": "Speed Completion",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/65c7108093f2efc39d5fc3eaddecc35675b8dfb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "2.8"
     }
   },
   "platform": "Steam",
