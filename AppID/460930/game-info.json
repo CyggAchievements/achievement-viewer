@@ -1,7 +1,7 @@
 {
   "appid": "460930",
   "name": "Tom Clancy's Ghost Recon® Wildlands",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1784154331",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1786036748",
   "achievements": {
     "GRWildlands_Ach_1": {
       "name": "Fearless",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/bdd4c72d72a618dea5de8106a677cef4ea27553c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "GRWildlands_Ach_5": {
       "name": "Serious Collector",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/017a16019118f81e23c4588bfbacc5675266fe08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "GRWildlands_Ach_6": {
       "name": "The Whole Story",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/73616473cde3abf05b0617a271770b07f292343c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "GRWildlands_Ach_13": {
       "name": "Mission Master",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/9364ea16ed86da494849476fa0e1d6c513a8982d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "GRWildlands_Ach_24": {
       "name": "Highway Bandit",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/38d8065cbaa1994cc9f10fe053b96fa3226b0e5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "GRWildlands_Ach_35": {
       "name": "Long Shot",
