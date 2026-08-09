@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972660/daabd6092a089b2c3ed41ae8bde94d5fdfe73530.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "ANY_MONKEY_QUEST_COMPLETED": {
       "name": "Monkey 101",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972660/5f5ae0293e0a2daa5f137f8e2996ae7137228587.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.3"
     },
     "TWELVE_MONKEY_QUEST_COMPLETED": {
       "name": "Twelve Monkeys",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/972660/46f8bc737cd5590c4407be30b00b071eb038afb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "USED_FAST_TRAVEL_MANY_TIMES": {
       "name": "Public Transportation",
