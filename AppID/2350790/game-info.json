@@ -71,7 +71,7 @@
       "description": "Defeat the Curator.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/a3bf85224cd03d3da87032203481953db0348f0e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/e6e1f19e2dcfca7af635804e180cc6b79f52da9a.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "43.5"
     },
@@ -80,7 +80,7 @@
       "description": "Defeat Tyke.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/58106d4309d9c39dcd57f67cce015791d8a56ac3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/296a7c327bdcd01cd9703790dd644d48db81945c.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "25.7"
     },
@@ -98,7 +98,7 @@
       "description": "Defeat Senda.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/ec12032be08c0033e04f6556e7fe7ad61082b8a1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/15c44ff70208dcf5fcd3a5a6a94281d7fd32720d.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "38.6"
     },
@@ -107,7 +107,7 @@
       "description": "Defeat Monte.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/45807ecfa7e4a4db06f014ff895ada2e0e274d26.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/cc83ca93e14738c57c98f10d6b81f5831ef9d685.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
       "percent": "21.0"
     },
@@ -116,9 +116,9 @@
       "description": "Meet Moloch for the first time.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/77691774a109483374d1bd11fb25f6bdefc7defd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/e431026ba7687bb9aef1b0b2090ba5ae572169c5.jpg",
-      "hidden": true,
+      "hidden": false,
       "group": "Base Game",
-      "percent": "73.5"
+      "percent": "73.6"
     },
     "ACH015_NAME": {
       "name": "Part-time Adventurer",
@@ -161,7 +161,7 @@
       "description": "Get defeated with a backpack full of relics.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/54a151349ac44aea618924de535c61a4403aee68.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/ddb99c82b2562dd6e9b85ca081d475dc756122d5.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game",
       "percent": "64.1"
     },
@@ -170,7 +170,7 @@
       "description": "OF COURSE!",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/d7de9967ccdf9a991fb7e68429514650e4e87f8b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/177a4c2b9d79997df415b7c10d9a73af07142e14.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game",
       "percent": "71.3"
     },
@@ -179,7 +179,7 @@
       "description": "Rescue an old friend.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/c97d5c12d7063a2dd2ffda535bf7ca5505697b3e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/2d0084e1593c6a3cce2d3e3e73f9a7ed54cb68aa.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game",
       "percent": "18.5"
     },
@@ -188,13 +188,13 @@
       "description": "Rescue an old rival.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/070dc6b578204cdb9543b40dcb113f56ede10b6c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/ad96a2cb7970d7042d5a01039b1c47880f987767.jpg",
-      "hidden": false,
+      "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.7"
     },
     "ACH023_NAME": {
       "name": "Novice Merchant",
-      "description": "Complete the 1st challenge of the Endless Vault.",
+      "description": "Complete the 1st challenge of the Endless Vault.a",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/8d7b884f318e3292dea0bfdb120f6bc14b444626.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/aa1c4971b284c889a2b1504acb681216d3cdaa54.jpg",
       "hidden": false,
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/900398b411c5280c6b237461052a5cb36b894e74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.6"
     },
     "ACH031_NAME": {
       "name": "Impulse Purchases",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/4353002cb39427f16c4b0492e6894a1bf83656bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.5"
     },
     "ACH033_NAME": {
       "name": "Master Looter",
@@ -352,11 +352,11 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/d2e875c1731b5cbff9c551b2d4641341ff2445ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "ACH041_NAME": {
       "name": "Legendary Merchant",
-      "description": "Complete the sixth Endless Vault challenge.",
+      "description": "Complete the 6th challenge of the Endless Vault.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/72805b88602711e1446e1ee6b147d2c5680ab071.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/21cd5b77feb9aa288e600f8b16d0cad8a8553f01.jpg",
       "hidden": false,
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/a1cbdc9283efc075eaba851367221dac1f352bfb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ACH044_NAME": {
       "name": "Red Pill",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/57f6ca99f6ded4f563c62373cab04ff2ef38a5f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "ACH046_NAME": {
       "name": "Between Dimensions",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/7f26724d884d232c7edefcbc990a4728a44e8687.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.7"
     },
     "ACH048_NAME": {
       "name": "Bloblet Collector",
@@ -452,6 +452,60 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.8"
+    },
+    "ACH056_NAME": {
+      "name": "Sold Out!",
+      "description": "Get all the achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/ccab524d5cf926b9fca4952f2f000043e000ac2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/e29aa6e50d87bf9eee2fbdcad0599fc8b9d4de54.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH042_NAME": {
+      "name": "Golden Merchant",
+      "description": "Complete the 7th challenge of the Endless Vault.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/c046bfb57393a32eb73afb2c403a2c1e7767d9fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/fdb7d6a675a73b958d53a15d0cb70154ddbfdca0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH053_NAME": {
+      "name": "The Moonlighter",
+      "description": "Upgrade the Moonlighter to max. level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/7ea69fd6bca0217763fbf3f03ce0614c395af4e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/6314b25cce292cb478552c22f82c317955d6640e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH054_NAME": {
+      "name": "Rooting for You",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/5a493333bf494546b6554c54ec26606f1de75a3e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/aa1ef3531773c40dc3c43d8d9992f58be0c7c19a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH055_NAME": {
+      "name": "Endless Ends With You",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/12ae45836f945a7bcbc57ca63687ff0cf8d96c47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/e11f1132b849d59e2140a4801a6209eeafeb21aa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "ACH057_NAME": {
+      "name": "Little Emporium",
+      "description": "Upgrade the Moonlighter to level 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/34d17a23e83f5931c136999304ba304c9addd905.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/40d6d3ba7a37844157ec21494b9d9f0190775b2b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": "Steam",
