@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "EYES_PUZZLE_ROAM": {
       "name": "The Answer Lies..",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "WATER_PUZZLE_ROAM": {
       "name": "This is fine",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "DUNGEON_PUZZLE_ROAM": {
       "name": "Dungeons and..",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "DUNGEON_PUZZLE_STUDY": {
       "name": "Guiding Light",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.4"
     },
     "ENDING_STAYED_BEHIND": {
       "name": "Why me?",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "ENDING_ESCAPED_ALONE": {
       "name": "Worst Friend Forever",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.2"
     },
     "PERFECT_PLAY_DUNGEON_PUZZLE": {
       "name": "Dungeon Master",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.5"
     },
     "PERFECT_PLAY_CHESS_PUZZLE": {
       "name": "Fools’ Mate",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.7"
     },
     "PERFECT_PLAY_SPIKE_PUZZLE": {
       "name": "Vlad The Impaler",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582500/bfd2362b5be18813609bcffccf0c80c03e59a563.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     }
   },
   "platform": "Steam",
