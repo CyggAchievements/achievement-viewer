@@ -84,8 +84,8 @@
         "earned_time": 1786288513
     },
     "Achievement_21_Id": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1786558110
     },
     "Achievement_22_Id": {
         "earned": false,
@@ -204,7 +204,7 @@
         "earned_time": 0
     },
     "Achievement_51_Id": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1786558624
     }
 }
