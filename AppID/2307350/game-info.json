@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d2af08a20d9948d66018c60704fbb78ae37dd738.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "ACH_MINE_DEATH": {
       "name": "Fidget",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.2"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/4f989c3fd9b04074e70a827e68a2e9d9d60da096.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "ACH_FRIENDLY_FIRE": {
       "name": "Friendly Fire",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/74e33ee06b1e44e3018320e30455bf8c88600ec0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ACH_PLAYERS_3_COOP": {
       "name": "Changing Faces",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/7f8a7c7c09af3f1d9a57d3fa15aef2653368f5c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.3"
     },
     "ACH_STORY_MISSION_2_SINGLE": {
       "name": "Finding the First Artifact",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/9bb21ac85e2ae21d0e8c3218ef82143a11a7c74d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "ACH_STORY_MISSION_3_SINGLE": {
       "name": "Into the In-Between",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/caba75ae846f7190a6223b7f75a87b79cac8ffc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "7.8"
     },
     "ACH_STORY_MISSION_6_SINGLE": {
       "name": "Diving Deep",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/272f00cde46dd5b2fb3bcf5db0a925384467f55f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "ACH_STORY_MISSION_7_SINGLE": {
       "name": "Heading to Town",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2aab999189331639b647a03b9078a9de1dde8685.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "ACH_STORY_MISSION_3_COOP": {
       "name": "Into the In-Between Together",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d5131e155c4ed4073c91dcc637a642c6b7da8afb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "ACH_ARTIST": {
       "name": "Artist",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/bf0cad64d5a1a93be7a5e43a198996af5193f914.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "ACH_IRONMAN": {
       "name": "Immortal",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/9390c2f5b3a9e534cbc319427513e3eb54640702.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "ACH_MISSION_END_COOP": {
       "name": "Shoulder to Shoulder",
