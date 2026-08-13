@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/5209d2bff32b938bba7537f7be82ae41693047f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "76.4"
+      "percent": "76.3"
     },
     "SIDE_GLOBAL_BREAK_BOTTLES": {
       "name": "Mazel Tov",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/181727b3c73b9359c4ac521cd660e556bc59c2c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "SIDE_FEED_SNARK": {
       "name": "Good Grub",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/f2973a4d9d3f22c1cc16c13816efa76d05c4cf51.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.7"
     },
     "TRACK_A3_HOTEL_UNDERGROUND_PIT": {
       "name": "Surface Tension",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/6af964487e7612a0518d2b8bfacc1d321623ac07.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.5"
     },
     "TRACK_A4_C17_ZOO": {
       "name": "Sea Level",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/df5f35a8a8e5f1856640888dc430a6931c5d4cc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "SKILL_KILL_CHARGER_WHILE_SHIELD_UP": {
       "name": "Indirect Approach",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/7abd414cd9c3265136ab4ed84d6a430bc2e92528.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "TRAINING_LOOT_LIVING_SOLDIER": {
       "name": "Combine Harvester",
