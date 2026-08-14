@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/10049685f640607f6c41826aabef9d87210b4c86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "ACH01": {
       "name": "A Friendship Resurrected",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/4a82448f49ec53edfe6fa91d8cab3d31f95612ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "ACH04": {
       "name": "To Live or Die in Los Santos",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/950cc34858acd878b1b8fd91dff79a4e2afea343.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ACH05": {
       "name": "Diamond Hard",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/b8333b0c643acb9e115774bdf6996d34a77f7391.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ACH07": {
       "name": "Small Town, Big Job",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/11a6e2de29101e7eba04623538cee1417365160c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "ACH08": {
       "name": "The Government Gimps",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/d7e3cd1c9fb9e9a18cfa045f6d97cb7e2d5bbd1e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "ACH10": {
       "name": "Solid Gold, Baby!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/90445d47ba8f20348f5524a1250b78e8c69f2b38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ACH19": {
       "name": "Show Off",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/3a35cf6717f925dba016162bd3d0baa41aef76ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "ACH22": {
       "name": "Out of Your Depth",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/28876d93d4cd3bb7750c552298f7ed491829188e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "ACH25": {
       "name": "Trading Pure Alpha",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/6183e7fea5820482a230af9a9dcba656355d0950.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACH28": {
       "name": "Los Santos Customs",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/ce255c268be04fb73602464b42556e963b6d7789.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "ACH40": {
       "name": "Clean Sweep",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/dd71aa8b6617cb7ddba275a39be75ed9c7e46d2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "ACH42": {
       "name": "Blitzed",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/8a7ee651732912536db07b006ff6ba37f30670e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH46": {
       "name": "Crew Cut",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/13997e656988c7cc780b26e1e3165bb437b3d26d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ACHH1": {
       "name": "Be Prepared",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/2c9ffebd7e6c34dfdef49e6f2d250dba8fc3e2f2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACHR8": {
       "name": "Location Scout",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3240220/6c94dd71fb8f8a829bd520a97adf3bacf2e072c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "ACHGO7": {
       "name": "Elitist",
