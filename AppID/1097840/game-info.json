@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/d9a71add0a3f8200d116e5cd15d5ca14cd3bf870.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "JackbotStim": {
       "name": "Back on Your Feet, Soldier!",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/bfcc47ebb36f44868615520f9f7779b19c797679.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "JackbotShock": {
       "name": "Shock and Awe",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/d4943a4bd93b94e5a91cd77f5fa84ad2cd749e29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "EscapeShower": {
       "name": "Pass the Soap",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/f93700e81e588e8c87cb3e8b5aecc80543e2b48f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "GearsAlliesLevel5": {
       "name": "Did We Just Become Best Friends?",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/a991111c3a6f830c4e5617cbb9b1da4f7deb8281.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "Tour4": {
       "name": "I'm The Captain Now",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/58f6c6dfd32bedbb3badeac0bdbc63484d44bc5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "Tour5": {
       "name": "Generally Awesome",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/442cdc57b06e0ee0c98a9344c995d3777b041d5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "CompleteBootCamp": {
       "name": "My Body is Ready",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/65839cabf9cb4c8fee4a594a7517899ee58d2733.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.8"
+      "percent": "59.7"
     },
     "Act1Chapter4StoryPoint": {
       "name": "A Mouthful of Boom",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/f6057c08825ca6019ffbbc41a29b9239be3208bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.1"
     },
     "Act2Chapter4StoryPoint": {
       "name": "Let's Get You Some Answers",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/b2c7387e291c9378ea51dd1143e5b6c3641d96f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "Act2Chapter5StoryPoint": {
       "name": "We Need the Old Plan",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/9fb95d4aed93dfc62804645f78195693cc52d03d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "Act3Chapter3StoryPoint": {
       "name": "Throw a Switch, See What Happens",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/5526edcd91f585497749b4bf62b66a63970628ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.6"
     },
     "Act4Chapter2StoryPoint": {
       "name": "You Know I Ain't Going Out Like That",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/598efc1e1e3fdd5d4885d1b9a6871cc62cac301e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "CompleteAllActsOfCampaignAnyDifficulty": {
       "name": "Discovered the True Threat to Sera",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/d4f6406e72bfd5aaa2f34bad12138357bf3bffe1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.7"
+      "percent": "50.1"
     },
     "CreateAndPublishMap": {
       "name": "I Made It All By Myself",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/9579831ad864315dc15d6d0e42485c9e34223bee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "50.0"
     },
     "ArcadePlay": {
       "name": "Beginning of a Beautiful Friendship",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/9129e4f3aefae0c3564fb2c6fdcb1065694809fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "CompleteMatchNewModes": {
       "name": "Sampler",
@@ -766,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/7695f19d32a9551526e95cd1ded29d645018931a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "SkillCardUpgrade": {
       "name": "A Very Particular Set of Skills",
@@ -937,7 +937,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/082a65b1c0310a6bbee4dd16987ac098e45403a1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "DLC_Campaign_5": {
       "name": "The Spirit Walk",
@@ -1126,7 +1126,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/b6923e352a714736ab20d92f556b246210185b97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "HordeMapTiles2": {
       "name": "Now We Understand Each Other",
@@ -1171,7 +1171,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/8cc2a99a5fffe9ea80bd86209a4a35045e414a59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "PvEEliminations1": {
       "name": "And Stay Down!",
@@ -1576,7 +1576,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/aa36053f8416ca499e45aa7aaac5076ba431e803.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "OP8_WinOnEphyra": {
       "name": "Destroyed Beauty",
