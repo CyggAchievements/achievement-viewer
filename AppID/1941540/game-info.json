@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.8"
+      "percent": "91.9"
     },
     "Achievement_3_Id": {
       "name": "Forza San Celeste",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.5"
     },
     "Achievement_26_Id": {
       "name": "Rare Weapons Expert: Pump-Action",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "Achievement_47_Id": {
       "name": "Good as New",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/1ffae2c6133bd018e9d89ed161c0985d44cb962d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "Achievement_59_Id": {
       "name": "A Friend of Ours",
@@ -504,7 +504,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/ab01b901a2056ffc904033cc172b1d60dc710d67.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_60_Id": {
       "name": "Against All Odds",
@@ -512,7 +513,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/b94967aab52d0fd313999ca14924621fa1276e19.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_61_Id": {
       "name": "The Challenger",
@@ -520,7 +522,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/a0e302de5e4990430c160725ed9ec7036fbf2004.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_62_Id": {
       "name": "A Working Man",
@@ -528,7 +531,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/17bfa07ab857643943e1b73716232bf09307aac3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_63_Id": {
       "name": "The Usual Suspects",
@@ -536,7 +540,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/f89f3516c37a70cbd77ec1541674fd0808b0e32b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_64_Id": {
       "name": "Stuntman",
@@ -544,7 +549,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/ea6ba075424140867fcf80ce8d676b0fa2a99b7e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_65_Id": {
       "name": "Snapshot",
@@ -552,7 +558,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/fadff4c5590591508d7afaab703e31229a94e04d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": "Steam",
