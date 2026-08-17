@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/8ba1f54772b52ddcf0ca82f8a495e552040f124f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "ACH_003": {
       "name": "Novice Player",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/c452ad84486565fcd4ff1219f673b33edbed91c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.4"
+      "percent": "35.5"
     },
     "ACH_011": {
       "name": "Artisan Hero",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/20d4fc82854ab26901092d2064fc24a2ec7e9d2a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ACH_012": {
       "name": "Hero of the Coliseum",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/be3c9a41a91a59b60d317cdf75db0b8a51780d9c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "ACH_013": {
       "name": "Coliseum Champion",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/a43fe6f53bc219ef4c1e7e96a3fff38fc25d2cf7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "ACH_023": {
       "name": "The Rabbit Hole",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/caee6089669210d77256beaafbe97500da8bccbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.3"
+      "percent": "50.4"
     },
     "ACH_024": {
       "name": "Junior Hero",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/48b0e539ecdd35593e954b2c3105d7a390dd4c50.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "ACH_026": {
       "name": "Magic Lamp",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/d08f8f1a84e3511c99002db0e845bf7e1b2d9faf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "ACH_027": {
       "name": "Honest Soul",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/a4f557e60c2c844223e445822fb011918d64b5cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ACH_028": {
       "name": "Master of the Seas",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/b68a9001c2de4c2123b2fd331577e59323b73051.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "ACH_031": {
       "name": "End of the World",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/34b1293930b270084bbe7e53f42853377049f037.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "ACH_041": {
       "name": "First Synthesis",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/1297c62a60f15421685d3ec88b7dbb727d3db27d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "ACH_043": {
       "name": "Synthesis Amateur",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/cb8c87cc963acb9e53cf95b72b0cde0da111724a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "ACH_048": {
       "name": "Top Gun",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/1942883c3c8960cafe0cae6fd0adb359b792bac1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "ACH_049": {
       "name": "Test Pilot",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/c4fe42eb5f97122be51e29eab188de7ad8d81c7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "ACH_050": {
       "name": "Veteran Pilot",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/2032a942c467fdc2d41349a315ade80552d35fe9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "ACH_053": {
       "name": "Blade Master",
@@ -784,7 +784,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/9919154f63c67f4043273f42dcf93caa74d456d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "ACH_088": {
       "name": "Expert Deck Builder",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/e418faa8d728f9b33542ea96591c3ceb4eb901f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "ACH_100": {
       "name": "Room Creator",
@@ -1081,7 +1081,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/37b8e57d459e1c370f651a17763787b5a32bf7c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ACH_121": {
       "name": "A Timeless World",
@@ -1675,7 +1675,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2552430/cb27a5581620d39ddb0a84b1c10fad88af05ada1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "ACH_187": {
       "name": "Encounters",
