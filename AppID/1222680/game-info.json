@@ -1,6 +1,6 @@
 {
   "appid": "1222680",
-  "name": "《極速快感™：熱焰》",
+  "name": "Need for Speed™ Heat",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
   "achievements": {
     "Achievement_GOSCC_1": {
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/e86b5a7931fc925cbfd440767a8c8c2f3e82e08d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.5"
     },
     "Achievement_GOSCC_4": {
       "name": "Home from Home",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/63d1b3d4965937844964d36bcfd96954c8ca529a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "Achievement_GOSCC_6": {
       "name": "Eleven - Fifty Six",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "Achievement_GOSCC_19": {
       "name": "Don't Quit Your Day Job",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "Achievement_GOSCC_36": {
       "name": "Humble Beginnings",

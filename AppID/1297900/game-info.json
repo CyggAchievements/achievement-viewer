@@ -1,7 +1,7 @@
 {
   "appid": "1297900",
   "name": "Gothic 1 Remake",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1785919369",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1786954334",
   "achievements": {
     "ACH_Story_01": {
       "name": "Sect-ary",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fa929e402220b1237951a0f3c47789cf3d0e7326.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "ACH_Story_03": {
       "name": "My new friend the Necromancer",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/491e9af876f0b49578e8567e5bd6c9859e2ff857.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.5"
+      "percent": "35.4"
     },
     "ACH_Story_04": {
       "name": "Orc Culture Ninja",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/4916df2c93221b35383ef8c6dfbce21afa7a82fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "ACH_Story_05": {
       "name": "The Sleeper awakens...Not!",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/d4f7862b9762fb445f3009340fa74f5a2443e2b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "ACH_Story_06": {
       "name": "The Sleeper is with you",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/77bdf7eb655939937861c436fd25d3627eb37b28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "ACH_Story_07": {
       "name": "Foreign Language Master",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/0bf47954826c6d848376c0ff50af458dfd8d93d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.2"
+      "percent": "38.1"
     },
     "ACH_Story_08": {
       "name": "The Fixer",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/34fcaade64c2142888bf9ed5e081b769f61ee6c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "ACH_Camp_03": {
       "name": "Cult Loon",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fb8fb6d0761cb724257a4ae2e6b47e4ae41af1b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.1"
     },
     "ACH_Maps_01": {
       "name": "Map Sniffer",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/8acfec36f88e0e3627c27ca64946b627300857b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "ACH_Mage_01": {
       "name": "Abracadabra",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/fe1dec5815cf19ecdfe4ea055ab1d78ae6b8dbb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACH_Armor_01": {
       "name": "Armor-geddon",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/dfb06b7e7b3fcb0775acac371973dbcf6c7f066f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "ACH_Crafter_04": {
       "name": "Scribbler",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1297900/3bd2f2d211e223a1f3889b02606409c8c7b9e185.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "ACH_Fight_02": {
       "name": "Deflecto",

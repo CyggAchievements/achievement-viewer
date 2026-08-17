@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/1427f5f8854da7d4a42ae2a3c7ca7677af0f0703.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "ThirdBoss": {
       "name": "Trial by Judgement",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/a2a50d74c1bdcf59e9a320c4f7a6c7fdefab29d1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "FirstResurrect": {
       "name": "Second Chance",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/dae66774cbeea488401ef1f84b71e31d01d88279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.2"
     },
     "ReloadCombo": {
       "name": "Surgical Precision",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/8aebc3c882d16d72ded52d7b850e71e23e144e21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "MaxHP": {
       "name": "Hardened Shell",
