@@ -1,6 +1,6 @@
 {
   "appid": "1222680",
-  "name": "Need for Speed™ Heat",
+  "name": "《極速快感™：熱焰》",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
   "achievements": {
     "Achievement_GOSCC_1": {
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/41a09c72ee8637f8839bb60b86b2965a4e285452.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.9"
+      "percent": "89.0"
     },
     "Achievement_GOSCC_2": {
       "name": "Consider Yourself Noticed",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/a968e79b13fc5b880dc0b391a79493a8da238f96.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.9"
     },
     "Achievement_GOSCC_3": {
       "name": "Worlds Collide",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "Achievement_GOSCC_28": {
       "name": "Graffer",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1222680/b5628be37a69f9d3652cbac514f5a68d8fe72bfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "Achievement_GOSCC_35": {
       "name": "Redline",
