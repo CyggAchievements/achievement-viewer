@@ -1,7 +1,7 @@
 {
   "appid": "1579880",
-  "name": "The Light Brigade",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1579880/f69eb87843279762c4463d5cd613809aed707da1/header.jpg?t=1772479879",
+  "name": "The Light Brigade: Definitive Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1579880/b702306b3c147b041197d838f0ef2e75449eec86/header.jpg?t=1786987900",
   "achievements": {
     "ACHIEVEMENT_NAME_COMPLETE_A_RUN": {
       "name": "The First Journey",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/18f7195f19052317d7552ecc59d9de3437ae0cbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.6"
     },
     "ACHIEVEMENT_NAME_STATS_HEADSHOTS": {
       "name": "Sharpshooter",
