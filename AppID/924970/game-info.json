@@ -1,7 +1,7 @@
 {
   "appid": "924970",
-  "name": "Game 924970",
-  "icon": "",
+  "name": "Back 4 Blood",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/header.jpg?t=1780594976",
   "achievements": {
     "Achievement_GrabBag_001": {
       "name": "Welcome to the Apocalypse",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/fd6f08aa737bf1258e9e7804806740e2f881e6e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "Achievement_GrabBag_032": {
       "name": "Dangerous To Go Alone",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/6216e8c079edc5ec3b39dc1914855c534ede5014.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "Achievement_GrabBag_035": {
       "name": "Extra Credit",
