@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/26f83726f2bc6ffa95a703febcd0661e336a9bb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.0"
     },
     "ACH_FINISH_ACT2_SOFTCORE": {
       "name": "Aberration Purified",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/27bec3683ad208a354f1cb87fb0ad335ee854b11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "ACH_REACH_LEVEL_60_SOFTCORE": {
       "name": "Seasoned Fighter",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/d7fbcb8907d065018dbab2760fe680a6da075c36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "ACH_REACH_LEVEL_90_SOFTCORE": {
       "name": "Death Marching",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/bb3aa1502e395cd00704096104690f6bec0fedf3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.2"
     },
     "ACH_LOOT_UNIQUE": {
       "name": "Neophyte Collector",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/4d45af4049dd3c8f78371f84259465286238b17a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "ACH_KILL_TRASHES_5000": {
       "name": "Bloodslick",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/70492c720b09c490e72737b9b76422a27580e6a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.9"
     },
     "ACH_KILL_ELITES_200": {
       "name": "As Plague Walks",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/7f7c35a4bb3af89cccf837ada27dd1687b25927b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "ACH_KILL_ELITES_1000": {
       "name": "There Follows Death",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/d8f1a196192f623ad888d57bc8b0163bc8889a1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "ACH_PICKUP_GOLD_1000000": {
       "name": "Second Mansion",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/60fe7715602ad9a4285e4b9832ff486a88b8b33f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "ACH_KILL_NAMED2": {
       "name": "Sins of the Flesh",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/60fe7715602ad9a4285e4b9832ff486a88b8b33f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "ACH_KILL_NAMED3": {
       "name": "Senseless Relapse",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/a7e0774f234bbeaf663289f681b04e743421119e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACH_CONSTRUCT_BUILDING_5": {
       "name": "City Planner",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/263c2f8b17049cdd5acc2596c4405f01db303571.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "ACH_FINISH_ENDGAME_MISSION_10": {
       "name": "Maritime Commerce",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/a98a67c2ce6f5011a540f5e2ab2594147e2c1769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "ACH_FINISH_ENDGAME_MISSION_50": {
       "name": "Portuary Command",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/303485bbe9a61c59dd817bdfddcea0757c472281.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "ACH_FINISH_ENDGAME_MISSION_200": {
       "name": "Imperial Pretence",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/109f4474927979770bae07449824536a7aa37154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "ACH_FINISH_NPC2_LEVEL70": {
       "name": "Excursioneer",
