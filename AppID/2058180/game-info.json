@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/978ae6ffb1d7ebea953cc43a547b6f01f2e66edf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.9"
     },
     "JUDGE_MAIN_STORY_01_HIDDEN": {
       "name": "I'll Make it Double",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/58da0bdcca252d4462ec2d29b63b11d64aafcd89.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "JUDGE_MAIN_STORY_02": {
       "name": "Skeletons in the Closet",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/897c75bb4f1a155fe6fd155df257f52220ef6fb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.6"
+      "percent": "53.7"
     },
     "JUDGE_MAIN_STORY_02_HIDDEN": {
       "name": "Way Too Thorough!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/6a0f22fe5afb40907e577c77c5051605e34bff1c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "JUDGE_MAIN_STORY_03": {
       "name": "The Kansai Factor",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/df61363a0b57684e199f399fa1f444c38c1178a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.3"
     },
     "JUDGE_MAIN_STORY_03_HIDDEN": {
       "name": "The Art of Conversation",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/885d46163c08e4fd6cad652198a4dff4dc371e6c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.6"
     },
     "JUDGE_MAIN_STORY_04_HIDDEN": {
       "name": "Professional Password Presenter",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/fa017230fa262bcff931f01a38ab93e32ed466f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.5"
     },
     "JUDGE_MAIN_STORY_05": {
       "name": "Enemies of My Enemies",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/c15bbbca1dd46ef13f91bda0726d15ea14d47f71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "JUDGE_MAIN_STORY_05_HIDDEN": {
       "name": "Hung Jury",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/b8c39ab1d7bb555f52383d6218400b3c060b92ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.5"
     },
     "JUDGE_MAIN_STORY_06_HIDDEN": {
       "name": "The Final Nail",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/c21c34b88878adf9602eea87336d8443a73a2e0d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.6"
     },
     "JUDGE_CLEAR": {
       "name": "Thank You!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/b601ee49404b7f904437730ad94c570a216e3f59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "43.0"
     },
     "JUDGE_EXHARD_CLEAR": {
       "name": "Detective of Legend",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/aa1c3df64448dd212df324046d4724afb0e290bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "55.0"
     },
     "JUDGE_SIDE_CASE_B": {
       "name": "Local Detective",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/5ef21b50c7c39c4c5a757aa7e5feaee7a85b0cea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "JUDGE_SIDE_CASE_ALL": {
       "name": "Got to the Bottom of It",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/01b90e36400341f0a1b4881d039325cf3cf209d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.8"
     },
     "JUDGE_FREND_B": {
       "name": "A Popular Guy",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/8462a96b34d2af442b43e6da6da8994aee3a4a76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.2"
     },
     "JUDGE_FREND_ALL": {
       "name": "A Guy Everybody Knows",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/aac309092dfc154b86813dd506036cf592edbeeb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.9"
     },
     "JUDGE_GIRL_FREND_A": {
       "name": "Going Steady",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/523806faefeee453731b4af823b6f36855964780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.3"
     },
     "JUDGE_GIRL_FREND_B": {
       "name": "Ladies, Please",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/d15412174b7016e2024d7a982e0f5b7716ba74c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "JUDGE_GIRL_FREND_C": {
       "name": "Now You're Just Bragging",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/cf3a26d3009ccf04a8588032578ee5fd2bbc77d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.3"
     },
     "JUDGE_SKILL_B": {
       "name": "Skill Pro",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/cf3a26d3009ccf04a8588032578ee5fd2bbc77d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "JUDGE_SKILL_ALL": {
       "name": "Skill Master",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/2716625e13a4e56b927822d8e04df164845c6d15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "JUDGE_KAMGO_SHOP_B": {
       "name": "KamuroGo Trendsetter",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/2716625e13a4e56b927822d8e04df164845c6d15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "JUDGE_KAMGO_SHOP_ALL": {
       "name": "KamuroGo Socialite",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/2716625e13a4e56b927822d8e04df164845c6d15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.3"
     },
     "JUDGE_KAMGO_COMPLETE_B": {
       "name": "KamuroGo Local",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/2716625e13a4e56b927822d8e04df164845c6d15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "JUDGE_KAMGO_COMPLETE_ALL": {
       "name": "KamuroGo Guide",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/da33eae96c0e8bdae1e7869c3264dc49029bb1dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "JUDGE_DRONE_RACE_ALL_WIN": {
       "name": "Drone Champion",
