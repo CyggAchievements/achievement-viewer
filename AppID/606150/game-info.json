@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/44fdd56f1c3696c44d8c374f2f10b71c7949151d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.9"
     },
     "DEFEAT_FOREST_BOSS": {
       "name": "Prune the plant!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/ebf248a0fd31e755cad41a050690b126cb6a99a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "DEFEAT_DESERT_BOSS": {
       "name": "Behead the snake!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/8d01a9ff945cee63a50409c7cd483011bbaeec2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.3"
     },
     "KILL_BOSSES_BROOM": {
       "name": "Janitor",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/7a000f74799fb4cdcb5f593c6c79fc8cbca3ba12.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "KILL_A_LOT_OF_ENEMIES": {
       "name": "Savage!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/ffd911c05186ecd17fc4a26fa035066c30a502fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.8"
     },
     "GOLD_QUANTITY_II": {
       "name": "Saver+",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/8635ce49dc4c8504edad6d9792b48e0c65c068e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.9"
     },
     "GOLD_QUANTITY_III": {
       "name": "Saver++",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/323811b9d2f6e9c41cc12ab326ac06e7df33dad3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "GOLD_QUANTITY_IV": {
       "name": "Greedy",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/718464dae77af50acf729e8616c62c5f4beb2b2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.6"
     },
     "SHOP_THIRD_VERSION": {
       "name": "Expansion",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/85d9b512774492b5e6013bd0114711a0aee9e524.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "SHOP_FOURTH_VERSION": {
       "name": "Luxury",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/bdf18b8eb67b6952b6374046709c2968080bb566.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.9"
     },
     "EMBLEM_BEFORE_BOSS": {
       "name": "Going for supplies...",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/00a381ad1f0e9cb86924c9ea6dfd53bd6d4f3481.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "BUY_ITEMS_RIVAL": {
       "name": "Wasteful Merchant",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/12da6910e5e54a5aa79aefd914d8c5e868fca7f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "GOLEM_THIRD_FLOOR_TIMES": {
       "name": "Golem Apasionate",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/34e9f4d4ce4804d41e86272b216a1722505138d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "FOREST_THIRD_FLOOR_TIMES": {
       "name": "Forest Apasionate",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/a198b7a0f8628fce0f37b6d9f22f35de1f6a38ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "3_WAVES_SECRET_ROOM": {
       "name": "Horde Mode",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/80ef62c4a0573cf0eb2f239e4dd8884b399e5769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.4"
     },
     "WITCH_SLIME_HIT_TIMES": {
       "name": "Slime Protection Service",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/e2ad5f714de9b0e7e8f2203bb2a98fc2f3d5f8f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "MONEY_TREE_TIMES": {
       "name": "Really?!?",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/70bc125d2dbfd47bc4b30bd7a75e818863c15f30.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.9"
     },
     "KILL_GOLEM_ENEMIES_TIMES": {
       "name": "Rage against the Golems",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/d2879e7fef9b613a1c6fe5d8dff218346165e353.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "KILL_FOREST_ENEMIES_TIMES": {
       "name": "Rage against the Forest",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/e4a80fa59331f57a169b0a943b35478d32286867.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.4"
     },
     "SELL_ITEMS_CHEAP_TIMES": {
       "name": "Naive Merchant",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/d2822cf70d28399ccde2ceb227f8b7983ca5565e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "26.0"
     },
     "SELL_ITEMS_EXPENSIVE_TIMES": {
       "name": "Scammer",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/3570682414b25b499a111cdfec4f397990036609.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "BEAT_GAME_UNDER_TIME": {
       "name": "Gotta go fast!",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/b7e1600eb2da91e86a596ed3dd4757801dcd0c37.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "IMPROVE_YOURSELF": {
       "name": "Improve Yourself",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/9f77a393c719676b5d66e95ccea5f4cb9061dac8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "16.0"
     },
     "TRICK_WEAPON_COLLECTOR": {
       "name": "Trick Weapon Collector",
