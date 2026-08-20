@@ -1,7 +1,7 @@
 {
   "appid": "2350790",
   "name": "Moonlighter 2: The Endless Vault",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/fe9547e3e365772d856f2483c8bd7d3aa9da12de/header_alt_assets_3.jpg?t=1786980316",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/fe9547e3e365772d856f2483c8bd7d3aa9da12de/header_alt_assets_3.jpg?t=1787233688",
   "achievements": {
     "ACH001_NAME": {
       "name": "Back to Business",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/cc83ca93e14738c57c98f10d6b81f5831ef9d685.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "ACH014_NAME": {
       "name": "Wrong Home",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/2d0084e1593c6a3cce2d3e3e73f9a7ed54cb68aa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "ACH022_NAME": {
       "name": "Return of the Retailer",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/7f26724d884d232c7edefcbc990a4728a44e8687.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "ACH048_NAME": {
       "name": "Bloblet Collector",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2350790/1662df8c115f0ddcb0326f047b49da26b23ce5a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "ACH051_NAME": {
       "name": "Full-Patch Fighter",
