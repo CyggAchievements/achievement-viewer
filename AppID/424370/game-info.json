@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/26f83726f2bc6ffa95a703febcd0661e336a9bb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.0"
     },
     "ACH_FINISH_ACT2_SOFTCORE": {
       "name": "Aberration Purified",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/9777132cbc8b44f755b10fdb073944104aecc9d0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.2"
     },
     "ACH_FINISH_ACT3_SOFTCORE": {
       "name": "Into the Fury",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/84fa2d3e52a0e7cc20157a70e430a13a1761353d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "ACH_FINISH_ACT_1_HARDCORE": {
       "name": "Sink or Swim",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/663cb675bf26bb4eb799c2af34964a24fde98a8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "ACH_FINISH_ACT_2_HARDCORE": {
       "name": "Hard Earned Allies",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/27bec3683ad208a354f1cb87fb0ad335ee854b11.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "ACH_REACH_LEVEL_60_SOFTCORE": {
       "name": "Seasoned Fighter",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/d7fbcb8907d065018dbab2760fe680a6da075c36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.1"
     },
     "ACH_REACH_LEVEL_90_SOFTCORE": {
       "name": "Death Marching",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/09ced85d6537017a7c22f90626c0f382e0228aee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "ACH_LOOT_LEGENDARY": {
       "name": "Closer to Genesis",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/bb3aa1502e395cd00704096104690f6bec0fedf3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.1"
     },
     "ACH_LOOT_UNIQUE": {
       "name": "Neophyte Collector",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/a37cb2b614ad2d10c59c915b45c88074115c853f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.6"
+      "percent": "58.5"
     },
     "ACH_REACH_LEVEL_30_HARDCORE": {
       "name": "Whispers in the Concordat",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/0a6ebc7cc1e663b7e077284cb6d9eeb4c0f19a0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "ACH_UNLOCK_ALL_SKILLS": {
       "name": "Our Makers and Killers",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/45a75ec9c9fbcf3f2cbf716c06202fe0ced587bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.5"
     },
     "ACH_TINT_EVERYTHING": {
       "name": "Wolswag: Lords of Fashion",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/d8e55383051b3c4653cf800327d85c146421bb9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "ACH_REVIVE_ANOTHER_PLAYER": {
       "name": "Dawn’s Healing",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/4d45af4049dd3c8f78371f84259465286238b17a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "ACH_KILL_TRASHES_5000": {
       "name": "Bloodslick",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/ee64de4a8a825c87a55f57d059b21e3f1ae95853.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.6"
     },
     "ACH_KILL_TRASHES_20000": {
       "name": "Wanton Slaughter",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/ceb973358d9333876be7e8ad36e422679d0e5e3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.6"
     },
     "ACH_KILL_LIEUTENANTS_1000": {
       "name": "Throatslitter",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/c2ce730cfcd1dc5a936197b58ef883c942bf7b6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "ACH_KILL_LIEUTENANTS_20000": {
       "name": "Executioner Among Executioners",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/70492c720b09c490e72737b9b76422a27580e6a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.9"
     },
     "ACH_KILL_ELITES_200": {
       "name": "As Plague Walks",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/7f7c35a4bb3af89cccf837ada27dd1687b25927b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "ACH_KILL_ELITES_1000": {
       "name": "There Follows Death",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/edc824448ce9cbb94237c42e4f393458c38f95c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.6"
     },
     "ACH_KILL_ELITES_4000": {
       "name": "Who Salts The Earth",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/d8f1a196192f623ad888d57bc8b0163bc8889a1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "ACH_PICKUP_GOLD_1000000": {
       "name": "Second Mansion",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/60fe7715602ad9a4285e4b9832ff486a88b8b33f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "ACH_KILL_NAMED2": {
       "name": "Sins of the Flesh",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/60fe7715602ad9a4285e4b9832ff486a88b8b33f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "ACH_KILL_NAMED3": {
       "name": "Senseless Relapse",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/60fe7715602ad9a4285e4b9832ff486a88b8b33f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ACH_KILL_NAMED4": {
       "name": "Vaultmarcher Regicide",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/60fe7715602ad9a4285e4b9832ff486a88b8b33f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "43.9"
     },
     "ACH_KILL_NAMED5": {
       "name": "Shoot the Caster First",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/a7e0774f234bbeaf663289f681b04e743421119e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACH_CONSTRUCT_BUILDING_5": {
       "name": "City Planner",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/263c2f8b17049cdd5acc2596c4405f01db303571.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "ACH_FINISH_ENDGAME_MISSION_10": {
       "name": "Maritime Commerce",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/a98a67c2ce6f5011a540f5e2ab2594147e2c1769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "ACH_FINISH_ENDGAME_MISSION_50": {
       "name": "Portuary Command",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/303485bbe9a61c59dd817bdfddcea0757c472281.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "ACH_FINISH_ENDGAME_MISSION_200": {
       "name": "Imperial Pretence",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/109f4474927979770bae07449824536a7aa37154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "ACH_FINISH_NPC2_LEVEL70": {
       "name": "Excursioneer",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/455c89834c67ce2792d78cfd5733579f6311e378.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.1"
     },
     "ACH_FINISH_NPC2_LEVEL90": {
       "name": "Pathfinder",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/285e07e3c21908d00485bf96764f992c8691bc6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.6"
     },
     "ACH_FINISH_NPC2_LEVEL100": {
       "name": "Republican Conquest",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/573bd17ff234052021232f983dd112bf35a88203.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "ACH_UNLOCK_ALL_APOCALYPTIC_FORMS": {
       "name": "Total Ascension",
