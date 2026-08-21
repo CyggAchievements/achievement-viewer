@@ -1,7 +1,7 @@
 {
   "appid": "238960",
-  "name": "Path of Exile",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/177c953b362c5a6221f9c15d340a0b1e2b8bfab8/header.jpg?t=1784681738",
+  "name": "Game 238960",
+  "icon": "",
   "achievements": {
     "FinishNormal": {
       "name": "Challenger",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/b2dd5490e4fbfbbe7cb5e29e51ef59f4bf562993.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "ResistAnyElement90%": {
       "name": "Raise the Bar",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/9661c9343f0e8634f27feb55a797de22146f22e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "LifeReservedNinetyFivePercent": {
       "name": "Invested with Blood",
