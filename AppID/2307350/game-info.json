@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/f8bed6ae9c9611573d8c5948329910ffb372c83a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "ACH_TED_DEATH": {
       "name": "Welcome Gift",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/74e33ee06b1e44e3018320e30455bf8c88600ec0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ACH_PLAYERS_3_COOP": {
       "name": "Changing Faces",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/7f8a7c7c09af3f1d9a57d3fa15aef2653368f5c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.2"
     },
     "ACH_STORY_MISSION_2_SINGLE": {
       "name": "Finding the First Artifact",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/5682e4c1953c29eab185f9eb030ae03dcd1d2340.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "ACH_STORY_MISSION_5_SINGLE": {
       "name": "Unexpected Vacation",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/2aab999189331639b647a03b9078a9de1dde8685.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.3"
     },
     "ACH_STORY_MISSION_3_COOP": {
       "name": "Into the In-Between Together",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/44b6bdd0f3a2c7580f2bf426038403f3fd1799db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "ACH_STORY_MISSION_4_COOP": {
       "name": "Ringing the Bell Together",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/a29cd2f427217dcc9fa46f03341b7601be8c24ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "ACH_STORY_ENDING_SINGLE": {
       "name": "Path Chosen",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d77834c17ca30b7557956feca718d7a0dea15058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.3"
     }
   },
   "platform": "Steam",
