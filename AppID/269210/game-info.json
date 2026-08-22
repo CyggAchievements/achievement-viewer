@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/803a9ca2d77bd09351f4aada785e69d83d931509.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "level60": {
       "name": "Level 60",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/4d33767d2603a04e6e1701a77f2275f89c5456ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "level70": {
       "name": "Level 70",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/137d6cd685f7830fcd43618f6a3bb9d2b25a489a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     },
     "hellAnubis": {
       "name": "Anubis",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/d27eded0f21a6784b7da8917e14753f4fcec3346.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "ancientMonsters01": {
       "name": "Ancient Slayer",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f5d70fe8c824d6954edf7c30424e49a03781de24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "satansHands30sec": {
       "name": "Hands of Satan",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/096011aff6f178e0a5d61e371be77d00d5a5d7da.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "valhallaValkyrie": {
       "name": "Valkyrie",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f4cf67fd6388e440dc1c2a6122b28a0261b1f20f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "valhallaRiver": {
       "name": "Jörmungandr",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/d3b6a8fb938903800eb094ac875e6120baab0962.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "chaosTower": {
       "name": "Chaos Tower",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/40b59447ce2e844acf63b5fcef1f1e5722f9b879.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "nightmareOdin": {
       "name": "Corrupted Odin",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/096011aff6f178e0a5d61e371be77d00d5a5d7da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "normalGurag": {
       "name": "Gurag",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/da036e767d7e553436a7b775312372dd267459da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "normalDamien": {
       "name": "Damien",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/d27eded0f21a6784b7da8917e14753f4fcec3346.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "normalMevius": {
       "name": "Mevius",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/096011aff6f178e0a5d61e371be77d00d5a5d7da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "uberSungLee05": {
       "name": "Eternal Battle Fields",
@@ -1036,7 +1036,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f8a2f73cd4c950cb7ed449886a599d343f7707cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.4"
     },
     "normalCthulhu": {
       "name": "Cthulhu",
@@ -1045,7 +1045,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f8a2f73cd4c950cb7ed449886a599d343f7707cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.6"
     },
     "uberArchitectInferno": {
       "name": "Architect of Ruin",
