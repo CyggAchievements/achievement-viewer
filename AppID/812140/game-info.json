@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/56d3c7c9e8002be9540db241edf124b6a0bb2815.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "005": {
       "name": "The Bright Minds",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/2001e47fffdec18d51e2fad40e53bbab08fd068b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.2"
     },
     "007": {
       "name": "Democracy Falls",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/7fe16966201ab3e7745c7c828aced2ce026c2551.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.7"
+      "percent": "60.8"
     },
     "013": {
       "name": "You Work for Me Now",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/d4d1923c18290896014ec65b6aa97f65212707df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.3"
+      "percent": "71.4"
     },
     "039": {
       "name": "Aphrodite's Embrace",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/38d84d6ac45ca048ff510cf2cc88be2909fd65c7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "042": {
       "name": "Ramming Speed",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/a6f6186407e572cefcd5b8d28c1d1ce8027cd225.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.1"
+      "percent": "30.2"
     },
     "053": {
       "name": "Divine Intervention",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/355bf3be6b401856b967fab9b40a7aa9f3ae65dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "075": {
       "name": "Bittersweet Beginnings",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/eedb293be81151b24ca7a83e074f1ce85a366b75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "078": {
       "name": "For Love of Persia",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/778c666a23efcb694f8678d63dd50eee1e7da695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "083": {
       "name": "The Conqueror",
@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/666d15b7c1220dd37093848c58ea10fd4e832261.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     }
   },
   "platform": "Steam",
