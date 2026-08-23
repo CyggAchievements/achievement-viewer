@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/18f7195f19052317d7552ecc59d9de3437ae0cbd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.4"
     },
     "ACHIEVEMENT_NAME_STATS_HEADSHOTS": {
       "name": "Sharpshooter",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/b13f9c23ad00fafc4f73ad227548ee09e4d63243.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ACHIEVEMENT_NAME_STATS_TRAVELDISTANCE": {
       "name": "Endless Pilgrimage",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/753f2563cef4749ff2d16e375a38e5e7f68ada51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.5"
+      "percent": "88.4"
     },
     "ACHIEVEMENT_NAME_STATS_RELOADCOUNT": {
       "name": "To The Last Bullet",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/f9614cc28f09ae20b6a4c4a7c8ba1f2828ee054e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.4"
     },
     "ACHIEVEMENT_NAME_STATS_COINS": {
       "name": "Penny Pincher",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/ee2d0da6c39c8a6432123038f586f5f8c7ffe08c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.8"
     },
     "ACHIEVEMENT_NAME_RUN_NO_MISS": {
       "name": "Steady Hands",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/39fa78eef504a543a060c2ef7457a3ea16224219.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "ACHIEVEMENT_NAME_ACTION_ENEMY_WEAPON_KILL": {
       "name": "Resourceful Kill",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/0d12a01fa8a2f2aa4ce15e6ebe31c9ba85336e99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.3"
+      "percent": "69.2"
     },
     "ACHIEVEMENT_NAME_ACTION_GHOST_PRAYER": {
       "name": "My Condolences",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/a79706826b16df7de3602f62103b28c381c6828d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.9"
+      "percent": "88.8"
     },
     "ACHIEVEMENT_NAME_IRONIC_SNIPER": {
       "name": "Ironically Sniped",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/cf26572028e622af3bd69831d8db41c820b39a47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.4"
     },
     "ACHIEVEMENT_NAME_IRONIC_MAGE": {
       "name": "Ironically Spelled",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/e895584ba3b22ec3916749abca4d4696ba9380ee.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.3"
     },
     "ACHIEVEMENT_NAME_PROGRESS_MOTHER": {
       "name": "Mother's Blessing",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/e73efcab812d6d7f49590c0804126442cf7755ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.1"
     },
     "ACHIEVEMENT_NAME_PROGRESS_BOSS_2": {
       "name": "Agnes Absolved",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/2f0dd294c0252efcad57cef97237f97accf78234.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.4"
     },
     "ACHIEVEMENT_NAME_PROGRESS_BOSS_3": {
       "name": "Forgive Me, Father",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/9b6c1014fe702f5206ab18ae79a6c1ad183f6431.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "ACHIEVEMENT_NAME_PROGRESS_RESCUE": {
       "name": "Savior of Light",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/84bc22cbfb26a358d03a71b938af74a74382cfca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.0"
     },
     "ACHIEVEMENT_NAME_SPECIAL_HYPNO_KILL": {
       "name": "Hypnotic Kill",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/ecd05c5f3e47a8701df3034a7aaca9508f5c89cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.4"
     },
     "ACHIEVEMENT_NAME_SPECIAL_GUN_COCKER": {
       "name": "Cocked & Loaded",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1579880/f4607eafdd2a162f1e9ff77249a498320342f60c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     }
   },
   "platform": "Steam",
