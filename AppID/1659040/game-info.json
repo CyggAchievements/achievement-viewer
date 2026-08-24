@@ -1,7 +1,7 @@
 {
   "appid": "1659040",
   "name": "HITMAN World of Assassination",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/6ed513587365379cd76c8519db3189d131af26c7/header_alt_assets_12.jpg?t=1786727589",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/c62446d5c95f583a296d7f1b99045a61e2f81dea/header.jpg?t=1787587100",
   "achievements": {
     "ACH_1": {
       "name": "The Result of Previous Training",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/17a982709dbb15b6d4272c5026831289ff1def56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.4"
     },
     "ACH_4": {
       "name": "The Creative Assassin",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/0a2af2719f7d270a49d8b351cc09ee568554956c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "ACH_60": {
       "name": "Damage Control",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/81a4b088072c0c6ba83ab041901d67809f0f8a0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACH_73": {
       "name": "Die By the Sword",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/f982d45602c0f39ec7946f5610ac57c201510555.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.0"
+      "percent": "44.1"
     },
     "ACH_74": {
       "name": "Amalfi Pearl",

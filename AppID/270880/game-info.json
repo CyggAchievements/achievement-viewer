@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/9fa6f3b2004eba09f06d65c870ad46571520b76f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "ca_country": {
       "name": "Cheers!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/7e1efeb7219c9f5fbbbbe0541cd5924c5e18779e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "finish50jobs": {
       "name": "I Think I Like It",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/fad6d9f79f58b368c6dac9691c365b1f4f406467.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ks_cutscenes": {
       "name": "Wheat State Explorer",
@@ -1172,6 +1172,38 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.1"
+    },
+    "sd_visit_cities": {
+      "name": "Mount Rushmore State (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "sd_cutscenes": {
+      "name": "Great Faces, Great Places (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "sd_no_damage": {
+      "name": "Big Muddy Run (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "sd_unique_cargos": {
+      "name": "Who Says You Can’t Go Home? (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game"
     }
   },
   "platform": "Steam",
