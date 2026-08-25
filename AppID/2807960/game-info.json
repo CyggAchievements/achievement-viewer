@@ -1,7 +1,7 @@
 {
   "appid": "2807960",
   "name": "Battlefield™ 6",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1787065389",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1787669881",
   "achievements": {
     "ACHIEVEMENT00": {
       "name": "Stand Alone",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/3b82b159694a593fb0ace2c7cb23e17a42da6eb5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "ACHIEVEMENT26": {
       "name": "Lance Corporal Matkovic",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/1ece4a3b300b451b0c829df9932e73ea942456a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.2"
     },
     "ACHIEVEMENT32": {
       "name": "Wrench Monkey",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2807960/4ad38975e9664e23759d0b8c6717784694b954b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "ACHIEVEMENT34": {
       "name": "A Joyful Nurse",
