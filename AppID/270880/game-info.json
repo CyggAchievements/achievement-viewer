@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/9fa6f3b2004eba09f06d65c870ad46571520b76f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ca_country": {
       "name": "Cheers!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/7e1efeb7219c9f5fbbbbe0541cd5924c5e18779e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.1"
+      "percent": "46.2"
     },
     "finish50jobs": {
       "name": "I Think I Like It",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/14fe89d7801e7bbeb3261e9c0b308748107d563b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.5"
     },
     "use_gas_stat": {
       "name": "Gas Guzzler",
@@ -793,7 +793,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/a862c59cc4cb2a9148a9e59781d5c8606782eaca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "ok_cutscenes": {
       "name": "Can Do!",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/fad6d9f79f58b368c6dac9691c365b1f4f406467.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.7"
     },
     "ks_cutscenes": {
       "name": "Wheat State Explorer",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/dbb0e9c92bf63059e8292cdc6538411c5e282f96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ar_cutscenes": {
       "name": "I Saw Arkansas",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6499695b11f9f49468dfc5a22e2def8277e02f92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "aca_interior": {
       "name": "Professional Driver",
@@ -973,7 +973,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/36ea691d05e42d8663e94725ad209d6dd38cc676.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "aca_manual_transmission": {
       "name": "Rowing Through the Gears",
@@ -1144,7 +1144,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/b2ca6fd7a2d6c2278a211df7764d44c7637d700c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "0.4"
     },
     "il_cutscenes": {
       "name": "Between Two Rivers",
@@ -1179,8 +1179,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "sd_cutscenes": {
       "name": "Great Faces, Great Places (Upcoming)",
@@ -1188,8 +1187,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "sd_no_damage": {
       "name": "Big Muddy Run (Upcoming)",
@@ -1197,8 +1195,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     },
     "sd_unique_cargos": {
       "name": "Who Says You Can’t Go Home? (Upcoming)",
@@ -1206,8 +1203,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game",
-      "percent": "0.0"
+      "group": "Base Game"
     }
   },
   "platform": "Steam",
