@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/34667ac3c8893dd672cc672a85b72b77e7306147.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "hc_firstjob": {
       "name": "Time for Big Hauling",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/5c817142b328c1f1e210a1406672de90dca71aeb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "nm_truckstops": {
       "name": "Truck Stop Tour",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/4826a41647abbbfe0331241209a8076dc22bbe41.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "tx_cutscenes": {
       "name": "Big Country Views",
@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/1a2f4a9461627639fa3f91cde5a367da679ced7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "ne_out_car_pln": {
       "name": "Vehicle Dealer",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/dbb0e9c92bf63059e8292cdc6538411c5e282f96.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "ar_cutscenes": {
       "name": "I Saw Arkansas",
@@ -1144,7 +1144,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/b2ca6fd7a2d6c2278a211df7764d44c7637d700c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "0.5"
     },
     "il_cutscenes": {
       "name": "Between Two Rivers",
@@ -1215,7 +1215,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "car_tb_completed": {
       "name": "Worth the Detour (Upcoming)",
@@ -1223,7 +1224,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "car_bought": {
       "name": "Keys in Hand (Upcoming)",
@@ -1231,7 +1233,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "car_distance_or_jobs_reward": {
       "name": "Interstate Legend (Upcoming)",
@@ -1239,7 +1242,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "car_jobs_rating_level": {
       "name": "Not a Scratch (Upcoming)",
@@ -1247,7 +1251,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "car_jobs_no_fines": {
       "name": "Nowhere to Rush (Upcoming)",
@@ -1255,7 +1260,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": "Steam",
