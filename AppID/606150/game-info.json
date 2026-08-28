@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/44fdd56f1c3696c44d8c374f2f10b71c7949151d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "DEFEAT_FOREST_BOSS": {
       "name": "Prune the plant!",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/ebf248a0fd31e755cad41a050690b126cb6a99a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.2"
     },
     "DEFEAT_DESERT_BOSS": {
       "name": "Behead the snake!",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/ffd911c05186ecd17fc4a26fa035066c30a502fc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "51.1"
     },
     "GOLD_QUANTITY_II": {
       "name": "Saver+",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/323811b9d2f6e9c41cc12ab326ac06e7df33dad3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.4"
     },
     "GOLD_QUANTITY_IV": {
       "name": "Greedy",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/85d9b512774492b5e6013bd0114711a0aee9e524.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "SHOP_FOURTH_VERSION": {
       "name": "Luxury",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/00f0d9eed16a12ed0cf2e201078d2d79654c2d3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "ALL_ACHIEVEMENTS": {
       "name": "100%",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/80ef62c4a0573cf0eb2f239e4dd8884b399e5769.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "WITCH_SLIME_HIT_TIMES": {
       "name": "Slime Protection Service",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/991670aeded7d395144fe12fd9740031a2ccfbc2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "EARN_POTIONS_BREAKABLES": {
       "name": "Healthcare System",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/d2879e7fef9b613a1c6fe5d8dff218346165e353.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.5"
     },
     "KILL_FOREST_ENEMIES_TIMES": {
       "name": "Rage against the Forest",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/e4a80fa59331f57a169b0a943b35478d32286867.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "SELL_ITEMS_CHEAP_TIMES": {
       "name": "Naive Merchant",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/5a94f2ff009c85cb0de69838cb36f31d7fd31270.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "3.7"
     },
     "GREED_IS_OVER": {
       "name": "Greed is Over",

@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/14fe89d7801e7bbeb3261e9c0b308748107d563b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.5"
+      "percent": "61.4"
     },
     "use_gas_stat": {
       "name": "Gas Guzzler",
@@ -793,7 +793,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/a862c59cc4cb2a9148a9e59781d5c8606782eaca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ok_cutscenes": {
       "name": "Can Do!",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6499695b11f9f49468dfc5a22e2def8277e02f92.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     },
     "aca_interior": {
       "name": "Professional Driver",
@@ -973,7 +973,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/36ea691d05e42d8663e94725ad209d6dd38cc676.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "aca_manual_transmission": {
       "name": "Rowing Through the Gears",
@@ -1179,7 +1179,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "sd_cutscenes": {
       "name": "Great Faces, Great Places (Upcoming)",
@@ -1187,7 +1188,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "sd_no_damage": {
       "name": "Big Muddy Run (Upcoming)",
@@ -1195,7 +1197,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "sd_unique_cargos": {
       "name": "Who Says You Can’t Go Home? (Upcoming)",
@@ -1203,7 +1206,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "car_jobs_unique_cargos": {
       "name": "Jack of All Trades (Upcoming)",
