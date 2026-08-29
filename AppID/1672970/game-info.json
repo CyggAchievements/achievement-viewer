@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/332895d623f73673753d0267513d2b7f5c15d7d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.6"
     },
     "KILL_50_MOBS": {
       "name": "Wooden Sword",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/53608bbbade7652b6ea5654b86779dc037f606e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.3"
+      "percent": "63.2"
     },
     "KILL_50_PASSIVE": {
       "name": "Passive Aggressive",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/3d9a1b6a0401cb75436fcf737c5de74417e54f44.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.3"
+      "percent": "58.2"
     },
     "KILL_50_ENCHANTED": {
       "name": "Break the Spell",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/226196bb8cf634bcf0f96b30a91d42370bf9f253.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "LVL_10": {
       "name": "Scrappy Scout",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/90f4c59b200643968be045997baf5964bd78fb06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.1"
+      "percent": "71.0"
     },
     "LVL_25": {
       "name": "Apprentice Adventurer",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/91049a27220fba9e2026ae7ffe83d85ca2b4f881.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "LVL_50": {
       "name": "Expert Explorer",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/cdf2ec73276ee8552fb6fcf57f8a724c905066ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.1"
     },
     "FANCY_CHEST": {
       "name": "Fancy That!",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/1211bc3908d9b36c8bf16a246d57c2b0a9dd8930.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "EMERALD_1000": {
       "name": "Cha-ching!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/b6899689965e40cbc38aa5107b99eead189c434c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.3"
     },
     "EMERALD_5000": {
       "name": "Oooh! Shiny!",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/99fab8f827872c7ee26557bb551badea2d7d0e74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.3"
+      "percent": "58.2"
     },
     "EAT_200_FOOD": {
       "name": "Om Nom Nom",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/58dd679dae2f701b48c3a9a631f7a470a549a17b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "COMPLETE_SQUID_COAST": {
       "name": "Happy Camper",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/b6c978ee9e56819c70074584c51933000e32f89a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "DEFEAT_ARCH_ILLAGER_ANY": {
       "name": "Saved The Overworld",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/7389bacb84d40568cbde61ef7e3905858c7a86af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "DEFEAT_ARCH_ILLAGER_HARD": {
       "name": "High Treason",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/1a1c73960368cb2cf511194bf377e211b0292b8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "TNT_KILL_10": {
       "name": "Blast Radius",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/9425d055278126d3624a8411942dc83f88537bea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "FULL_ENCHANTED_GEAR_SET": {
       "name": "Maxed Out And Geared Up",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/f6782cbe91497124fa5bed348ed29e3040a4b3cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "FULLY_UPGRADE_ENCHANTMENT": {
       "name": "Worked Like A Charm",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/be23e79f36ff277bc672a3b7f82e88922ce61e3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "DEFEAT_JUNGLE_ABOMINATION_ADVENTURE": {
       "name": "Abomination Domination",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/ef601752f6dff2378f4c8a85d8d080471fdc1d56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.1"
     },
     "OCELOT_ARMOUR": {
       "name": "Leader of the Pack",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/8d306c955949af6daa7d996f1dc410142bc11955.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "ICE_SLIDE_500": {
       "name": "Smooth Operator",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/b7137cdb23c659ae60acad4d59205f868e755349.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.0"
     },
     "ICE_NO_WEAPONS": {
       "name": "Frozen Fists",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/0ebd0612f82808138b752af0e2be0037ae22ea0e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "COMPLETE_OBSIDIAN_PINNACLE_APOCALYPSE5": {
       "name": "Post Post-Apocalypse",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/46c706ebba46140bcc779f0b0769864ccac9ed7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "COMPLETE_DAILY_TRIAL_EMERALD_ARMOUR": {
       "name": "Dress for Success",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/ff98e80ababbbb52a8da2a61176e9ceed85cb0a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "COMPLETE_NETHER_WASTES_APOCALYPSE": {
       "name": "Nether Been Better",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/9984fdc425d697da05b58d3380bd06b77431c5bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "MERCHANTS_6": {
       "name": "Locally Sourced",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/6b0982a3de1b4ca40e46ffd03b236287b1bca032.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "COMPLETE_ABYSSAL_MONUMENT_APOCALYPSE": {
       "name": "Turn the Tide",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/5445cb439994d12a2071747ee16d090252430fb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "GLOWSQUID_ICEWAND": {
       "name": "Iceologer's Revenge",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/60aea4dade170b2d4db6b41286a68199137b069d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "BUBBLE_BOW": {
       "name": "Bubble Trouble",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/2b51dbf044c0ddae38fbf4c21eedf52bdbd96e99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "ENTER_STRONGHOLD_VAULT": {
       "name": "Treasure Trove",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/5cde78ae965607ea02e01459dbd1a1f505120382.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.7"
     },
     "COMPLETE_TOWER_ADVENTURE": {
       "name": "Tower Power",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/f9a09d4121eef42f4cbcd609d5a1c74d7b3a6b42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "16.9"
     },
     "COMPLETE_TOWER_APOCALYPSE": {
       "name": "Indomitable",
@@ -703,7 +703,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/80ef80a6b51b340317be7023fa38373c321af0a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "STORAGE_ROOM": {
       "name": "Staff Only (secret)",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/b3937e8c7587a4bd889f8eaf0e50f080ba2be95a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "SEASON_RANK_25": {
       "name": "Trendsetter",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/d3a7d8761dade81bae4498633cbe0321b18b5b45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "GAUNTLET_GALES_GOLDEN_PARROT": {
       "name": "Golden Gauntlet",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/908a4a2e986b402054c63bbad3bbcbae82bb6249.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "COMPLETE_LEVEL_WITH_OLD_SEASON_COSMETICS": {
       "name": "So Last Season",
@@ -793,7 +793,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/1e57b8d211731eb108a49e133abafa78f939c5d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.0"
     },
     "WEEKLY_CHALLENGES_10": {
       "name": "Goal Driven",
@@ -802,7 +802,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/9a1a4b6eff3698859191b4764250695f3cda17d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "COMPLETE_DAILY_TRIALS_IN_ONE_DAY_3": {
       "name": "Daily Destroyer",
@@ -847,7 +847,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/13de638653201961080355adb74eb8bfd95917fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "COMPLETE_DESERT_TEMPLE_UNDER_4_MIN": {
       "name": "Desert Dynamo",
@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1672970/1e87fdf1022f0f2e76fe518aeef4cefbfa75ef49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "COMPLETE_LOWER_TEMPLE_APOC_PLUS_WITH_DESERT_RABBIT": {
       "name": "Adorable Explorer",
