@@ -1179,7 +1179,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "sd_cutscenes": {
       "name": "Great Faces, Great Places (Upcoming)",
@@ -1187,7 +1188,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "sd_no_damage": {
       "name": "Big Muddy Run (Upcoming)",
@@ -1195,7 +1197,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "sd_unique_cargos": {
       "name": "Who Says You Can’t Go Home? (Upcoming)",
@@ -1203,7 +1206,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/270880/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
       "hidden": true,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "car_jobs_unique_cargos": {
       "name": "Jack of All Trades (Upcoming)",
