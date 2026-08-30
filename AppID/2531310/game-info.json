@@ -1,6 +1,6 @@
 {
   "appid": "2531310",
-  "name": "The Last of Us™ Parte II Remastered",
+  "name": "The Last of Us™ Part II Remastered",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
   "achievements": {
     "a737812719505877": {
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/34f06e8de36d4046b363a9c6e6d0e2d9456df306.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "1138aa8adde81250": {
       "name": "What I Had to Do",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/bcb49d3bbd1487c447ade43d8c5e6fe8745b4bf5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.6"
+      "percent": "55.7"
     },
     "2f682b37a2b25139": {
       "name": "Survival Expert",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/271f57d3fff8f3b985c2dd871cdba3ff81dd32de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "5277dc4b24372152": {
       "name": "Arms Master",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/b9a5f5232c6d40fda6e2164e76da5d58d5977c9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "f790fb4c2a2a9b49": {
       "name": "Numismatist",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/2c904309da837e161ffbb508cf9be683b83be016.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.7"
     },
     "fbd1da865d471d2d": {
       "name": "Specialist",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/3f8ed6db40da55a753f154c372387673ce8b6929.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "fc83fac37f883617": {
       "name": "Survival Training",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/6e1b5c6489e2961c482930820aeac46ef520e24d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "8ffc8f4d799425ea": {
       "name": "High Caliber",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/ac6c95de6196d55c9c4459f9fd88103c98fb1e45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.3"
+      "percent": "78.4"
     },
     "e3c4431765a23351": {
       "name": "Mint Condition",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/ad7cf321274f878f6395f7f7403813cbedace809.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "57.1"
     },
     "5dc6d6f47a272277": {
       "name": "Looks Good On You",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/955ffb9617339f2bc863f3816776a87216f1f520.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.5"
     },
     "a766d6827fc49df6": {
       "name": "Relic of the Sages",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/a427d3cc83a707bfe38014df05fae7cb96e96ca3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "4b5ae3618151cff6": {
       "name": "Become The Hunter",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/ff688a0cea9135ae35102359bb4ac046c46bd9ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "daab7f22a6c14e26": {
       "name": "Team Abby",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/412d3a1f7a3639b5a480ffb76aa47429212e5b49.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "ba6f10c110fb474c": {
       "name": "This Make You All Nostalgic?",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2531310/c9afb752c62f4ddf0ec7131ecaf272fdb8c34093.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     }
   },
   "platform": "PlayStation",
