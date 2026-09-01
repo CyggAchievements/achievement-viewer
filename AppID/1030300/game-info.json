@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/690e5d5768fad49f0f6f5dbc0ea803429030173f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "FIRST_SILK_SKILL": {
       "name": "Bound",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6ad79e03be197569b31b52f3cc8833922ef810d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "FIRST_MASK": {
       "name": "Protected",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5c44fea9f704cb1f5b1ed81eb2994f531c0bccc5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "FIRST_SILK_SPOOL": {
       "name": "Restored",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4184fc8dc89d930ce040c4484745f156f9bbc108.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "24.0"
     },
     "ALL_SILK_HEARTS": {
       "name": "Regenerated",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/eba7fea6222d407924726fb352b2231a751f4e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "BELLWAYS_FULL": {
       "name": "Connected",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/dcee821236ad653b6844990806c4c466b1d60ca9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.9"
     },
     "DEFEATED_WIDOW": {
       "name": "Fanatic",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6ead0a16f77127aff450db5df6d075a938a48cb8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "DEFEATED_COGWORK_DANCERS": {
       "name": "Last Dance",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c6cec86630d601d0e5c73f009d25882f1ec70c51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.8"
+      "percent": "81.7"
     },
     "GOURMAND_WISH": {
       "name": "Glutton",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/e4dc9f83fb40fd98d0668fdb5d79b23e23595e97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "GARMOND_FINAL_QUEST": {
       "name": "Hero's Call",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/739f88cab592b9cb2da086d2999adf5b13fab993.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "EVA_FINAL_QUEST": {
       "name": "Entwined",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/967684f3b8934182f2c8bbefe53719b0f98cb898.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "BELLHOME": {
       "name": "Resident",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/9faf2f77a4047215c7da6822d8b80e7971210944.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "HERALD_WISH": {
       "name": "Passing of the Age",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/f851c8d42eac15ec3765b5f0eb64fbd51f9f47cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "SPEEDRUN_1": {
       "name": "Speedrunner",
