@@ -1,0 +1,208 @@
+{
+  "appid": "3105440",
+  "name": "Heroes of Might and Magic: Olden Era",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/e2bef853b7cb19e3d5f019022309783609e8454f/header.jpg?t=1787907975",
+  "achievements": {
+    "achievement_1": {
+      "name": "Basic Education",
+      "description": "Complete the main tutorial.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/d6a3604f5e0e3f8cd0f3c7790aff74fb6014dc4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/d9b3f7d7bceed517b68b2940c833424168835d18.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "achievement_2": {
+      "name": "Bachelor of Heroism",
+      "description": "Complete all tutorial challenges.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/a728a66060db5f45a0c90e834e0c641ea2aa0b11.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/7b29f67e7f37d697bfc4b94e128b608c7186c4a7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "achievement_3": {
+      "name": "Act I",
+      "description": "Complete Act I of the campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/23873a34fcb634dc73b6235026ccada97de55edc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/4e2c213ee4f0785258da4b6b05464259bc390a58.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "achievement_6": {
+      "name": "Double Trouble",
+      "description": "Recruit Lafiur.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/2c625c4aa93503ace68b9e04ca42e0626b143149.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/eb1bd0111bcdb62f13b6e3ed96c6e6054a1dfb34.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.8"
+    },
+    "achievement_7": {
+      "name": "Noble Assistance",
+      "description": "Recruit lord Galthran.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/5b6465b651952e7af9ce50c75da16afd2898342a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/0b2dc017c8a3f0ed0efb9db14690bd6ac2c71bb6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "achievement_8": {
+      "name": "Lost Knight",
+      "description": "Recruit Valentina.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/474cf3afd7526152b2eec6e931923de80dd8fa7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/f26493d583a85703c76ea6af9557fb5be5146b66.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "achievement_10": {
+      "name": "Ariadne’s Mercy",
+      "description": "Ensure at least one minotaur survives at the end of the Garner Hills mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/72b66007d2fff9860574be341364368c8c595bf1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/92b9f3a9382c1ae95f34fad4cd1e54c107c9f1f1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.5"
+    },
+    "achievement_11": {
+      "name": "Whimsical Entourage",
+      "description": "Recruit all Kittenhorn squads during the Into the Woods mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/aa624e61f958a83b99cbf4ad1200fa4c5d49ed7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/682e23306031bb376aad58f73371b02cbb2341b6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "achievement_12": {
+      "name": "Patience is a Virtue",
+      "description": "Solve the mystery of the Shard of Serenity during the Neverending Conflict mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/3410bf8100338eca17651349bfc44a84d6903794.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/c5d555410364b847a8891ff300829d0f94220caf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "achievement_13": {
+      "name": "It Fills You with Determination",
+      "description": "Pursue and catch up with the warlock during the Burning Hearts mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/2423e5c588cdf623b190ae5f07a0f37b8fb4a535.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/a12a0545103459ca05a140dcde552649bf168832.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "achievement_14": {
+      "name": "Might over Right",
+      "description": "Defeat Old Pilgrim during the Burning Hearts mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/ef86688b983c2734b003c041a75dd9673ff6de7c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/66ed057324daa7cb07e7f53e2caee1ba75c1b609.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "achievement_15": {
+      "name": "A Fiery Negotiation",
+      "description": "Resist the Dragonfly King’s herald during the Deal with a Vampire mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/41a5fc381cce4019ad0d3c77db3a2622f8098c62.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/62cbac416fc6070cc7c8e583af3176fee8c525b6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "achievement_16": {
+      "name": "Once Tempted, Always Rebuked",
+      "description": "Resist the Dragonfly King’s herald during the Saving the Knight mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/e205d471dfdabf5096725eacefa69b0590feec4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/3bb96c986f67ab43dc701304165c8bc89cbdd050.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "achievement_17": {
+      "name": "Guarding the Guardian",
+      "description": "Save an angel during the Corruption mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/385533d01bbb0f2cf2bceea49287f539930c6d2b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/bbe41179e08cdebab03fe6706d4086d712ee9079.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "achievement_18": {
+      "name": "Blessed be the Meek",
+      "description": "Save all Alvarian peasants during the Alvar Diruil mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/4869654da5ed4fd399e791a350c2cd6051aa7ab9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/55db9e650c74515be0d2a8d844f28fbd9ea6b69d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "achievement_19": {
+      "name": "Welcome to the Thunderdome!",
+      "description": "Play an Arena game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/9a6a29964821250a0dfad4f9ef888d7bf6a1b0fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/b32823596bb52492c975b57658c158578ee186b4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "achievement_20": {
+      "name": "Duel of Champions",
+      "description": "Play a Single Hero game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/effcacda30bc8a3c6c2c60467e0e7ca15753c402.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/5a5d719534c9300c5bad629b87faaa50e4ae7f16.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.3"
+    },
+    "achievement_21": {
+      "name": "Just One More Turn",
+      "description": "Play a Classic game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/5f2317902a39edbf5a8a385aee6fcce626476497.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/bc639ec8bf7859763b3700fc96eed792721ff014.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.0"
+    },
+    "achievement_22": {
+      "name": "AcHiEvEmEnT!!!",
+      "description": "Use the pixies’ scrolls like PROPERLY during the Neverending Conflict mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/4655a1f60d6d712eec0f336a2e64205b6cc6c538.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/50ee19c0ec0b63248a5627686ea54f06eb422b2d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "achievement_23": {
+      "name": "Something lingers, unfinished",
+      "description": "Forget to fulfill your promise to the Troglodyte in the Saving the Knight mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/9e6823d0a4ba6bd3c966a618a8db276b210984bf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/04b8d7bfc15b45df08b3777c5a9ea48ead8eb374.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "achievement_24": {
+      "name": "NecronomiNO!",
+      "description": "Destroy all the amplifiers in the Renegade mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/036fdc756302a3ebb057099214509a3a824c36d3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/433cae3821b824a81da183efde8aa8b7a60b4645.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "achievement_25": {
+      "name": "Lernaean Solutions",
+      "description": "Recruit Infernal Hydras during the Into the Woods mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/44fe093da4bd955f60d7c71c5b7ebd8d162e377e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3105440/2fffc9bde31712558f321ce3efca8d7d8118e3c0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.4"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}
