@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "The Witcher 3: Wild Hunt - Complete Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg?t=1788333513",
+  "name": "《巫师 3：狂猎 - 完全版》",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/6c618713956506400ce0d0062392b0e0b64e031b/header_alt_assets_4_schinese.jpg?t=1788333513",
   "achievements": {
     "LILAC": {
       "name": "Lilac and Gooseberries",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/05a5acce6fcd8109ee0d0347659c2f150a90c7d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.3"
     },
     "ALL_IN": {
       "name": "All In",
