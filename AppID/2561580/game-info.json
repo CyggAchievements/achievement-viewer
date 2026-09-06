@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/a7fa6adc2bcc7c6dd1d9bd985d461bdb6999daf2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "49.9"
     },
     "3strikesfromabove": {
       "name": "3 Strikes From Above",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/9ed2f04f66097dd09098713e7236eff360682695.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "toreoff10components": {
       "name": "Tore off 10 components",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/25017b2778e0766551fe48793de8dedd9aa6214e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.3"
     },
     "10vulnerablemachinekills": {
       "name": "10 Vulnerable machine kills",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/ab7663bc308923ba45efc8bfd4800189d1eaa0a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "downed23grazerdummies": {
       "name": "Downed 23 Grazer dummies",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/ca5b911229824b559ebfe41f93fbe607b0b6a79b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.6"
     },
     "allacquisitionmachineskilled": {
       "name": "All Acquisition machines killed",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/6d0f0cb53d7e5f661ced06ddc1725f934d8b9ca6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "allreconmachineskilled": {
       "name": "All Recon machines killed",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/60aabb84756277db90872bbba25caa59fcfaecaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.0"
+      "percent": "55.9"
     },
     "reachedlevel25": {
       "name": "Reached level 25",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/6b640c921eb3610ba4a57528636aacb2584c9304.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "reachedlevel50": {
       "name": "Reached level 50",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/e4746af7cb55254e335df81e6db17c4274fa3a9b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "firstbanditcampcleared": {
       "name": "First Bandit Camp cleared",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/28a93015b157168385831cc0662980bd71accead.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "blazingsunsatoneground": {
       "name": "Blazing Suns at one Ground",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/8a2c13db4035cc0af8e16b6799fc92e53e2bf038.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.1"
     },
     "firstbanukfigurefound": {
       "name": "First Banuk Figure found",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/705fd5a48bef20ed230f553e3fdc2861b7b434d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "allancientvesselsfound": {
       "name": "All Ancient Vessels found",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/9b1d5f22a2c44266abe1c815b3bf6e0df32f8f1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.7"
     },
     "learnedoftheancientpast": {
       "name": "Learned of the ancient past",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/31deda1e708f903b7062a766c04cbe722c398c63.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.4"
     },
     "crashedtheeclipsenetwork": {
       "name": "Crashed the Eclipse network",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/87fc41b54fbe335e3f98b98f0f3390b66649cdd4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "discoveredthetruth": {
       "name": "Discovered the truth",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/2d5f0899df48af3d299e407a6088b00ce3702e60.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "brokethesiegeofallmother": {
       "name": "Broke the siege of All-Mother",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/12484df45fb5b836a7be11875c2186ea4bea73eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "endedthewarmachinethreat": {
       "name": "Ended the war machine threat",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/f803c74ef51649d2ab6092992ea4348dbf66203f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "victoriouswiththewarchief": {
       "name": "Victorious with the War-Chief",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/c8832a076c6075d2aa56cf63d0a6617b5c34bbc1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.4"
+      "percent": "41.3"
     },
     "savedmeridianfromitsfoe": {
       "name": "Saved Meridian from its foe",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/9d56281b859da99358266a9a9deb418975ffe4eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "wonthewerakchallenge": {
       "name": "Won the Werak Challenge",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/90a8fd7107e5b97be2c0b0429cc6cd9470f014ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.6"
     },
     "drainedtheflood": {
       "name": "Drained the Flood",
@@ -622,7 +622,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/1ddd211687fbc8fe5d8696170ba43a53893ccc6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "5machinetypesrepaired": {
       "name": "5 Machine Types Repaired",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/91819abf62cb887af925b34263c606b2ddeeba7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "allfrozenwildsskills": {
       "name": "All Frozen Wilds Skills",
@@ -712,7 +712,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/ea2bb2a15e84e9696d32c6342402bf1c8167d65a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     }
   },
   "platform": "PlayStation",
