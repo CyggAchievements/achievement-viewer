@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/fa017230fa262bcff931f01a38ab93e32ed466f6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "40.1"
     },
     "JUDGE_MAIN_STORY_05": {
       "name": "Enemies of My Enemies",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/b8c39ab1d7bb555f52383d6218400b3c060b92ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "JUDGE_MAIN_STORY_06_HIDDEN": {
       "name": "The Final Nail",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/c21c34b88878adf9602eea87336d8443a73a2e0d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "43.1"
     },
     "JUDGE_CLEAR": {
       "name": "Thank You!",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/aa1c3df64448dd212df324046d4724afb0e290bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "JUDGE_SIDE_CASE_B": {
       "name": "Local Detective",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/1963dd779eaffb5bbd0ec891bbaec5f932ebc146.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "JUDGE_SKILL_A": {
       "name": "Skill Dabbler",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/cf3a26d3009ccf04a8588032578ee5fd2bbc77d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "JUDGE_SKILL_B": {
       "name": "Skill Pro",

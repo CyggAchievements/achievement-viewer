@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/f19450568ff28f8ffcc4fa8292a925efc44ed43c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "allcombatmachineskilled": {
       "name": "All Combat machines killed",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/c80c721573050d5b1e40b68c5b047f4c79b84d62.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.6"
     },
     "alltransportmachineskilled": {
       "name": "All Transport machines killed",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/6c0a385b1cd88dface139ca162f7aaf6b65b59b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "allskillslearned": {
       "name": "All Skills learned",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/e792ef0b4e220ab1615b4bcd46bdf3d51458be7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "11.9"
     },
     "blazingsunsatallgrounds": {
       "name": "Blazing Suns at all Grounds",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/e3e274a93cc0eb65f6a0b76da6e4bb7ab8fbd032.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "firstancientvesselfound": {
       "name": "First Ancient Vessel found",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/76f5e2b678ad59f78a05ef36acbf262e4cc71d80.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.1"
     },
     "allvantagesfound": {
       "name": "All Vantages found",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2561580/f866ac75f9e0299c5ee47c62bb43772558cc58e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "killed15scorchers": {
       "name": "Killed 15 Scorchers",
