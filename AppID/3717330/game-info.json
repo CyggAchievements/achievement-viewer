@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/23e95a72ac3ad0606212d02325d62f31eb6bf42a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "04_Lets_Fight": {
       "name": "Let's Fight!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/1c51ab549788b4e94427d515c388cfd2d71946d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "06_Break_It_Down": {
       "name": "Break it Down!",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/6b92246aafa884cf6eed4d00570c01c48cb2f9d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "08_Its_Not_Over_Yet": {
       "name": "It's Not Over Yet!",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/6527c4e397aab33c3baa51b2f9d2eab9c927c7b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "12_Tell_Me_A_Story": {
       "name": "Tell Me a Story",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/d0f5ce50de31b6f87246129921ec3b6bcf83c1d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "13_Hero_Of_The_Story": {
       "name": "Hero of the Story",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/20c4c060382015b1293017fe98207a74401f6e04.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "66.9"
     },
     "28_Funeral_For_The_Old_Ways": {
       "name": "Funeral For the Old Ways",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/bf1a6c6d32d9c6836fca84a3aa29fc0382785b27.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.5"
+      "percent": "57.4"
     },
     "30_The_Price_Of_Life": {
       "name": "The Price of Life",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/0398bd44694913b40c4abc8e418f916a50de0866.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.3"
+      "percent": "53.2"
     },
     "31_Sins_Of_The_Father": {
       "name": "Sins of the Father",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/4c2c0a745487bc44b30e3a5f7bf2481900b4740c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.0"
     },
     "32_The_Dragon_And_The_Koi": {
       "name": "The Dragon and the Koi",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/847cd9e6a8ecdfb48343e395e0431715329e5199.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "33_Puppet_Masters": {
       "name": "Puppet Masters",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/9ff21ba6b21fe6238cb420a54bc8efcb63d76a1e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.7"
     },
     "34_A_Mans_Conviction": {
       "name": "A Man's Conviction",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/0a421e3871161bb8ba097f2e1aab58bbe2b56090.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "35_The_Dragon_Roars": {
       "name": "The Dragon Roars",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/511ae81f7f678f08996c6b9b35fcd07295afc8ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "41.9"
     },
     "36_Ashes_To_Ashes": {
       "name": "Ashes to Ashes",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/f62f167d516d47356360396901d7ccc9f031ae5e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "37_Legends_Never_Die": {
       "name": "Legends Never Die",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/a8babad340d4c5275d96167e25a9937532f061be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.3"
     },
     "39_Dragon_Of_Legend": {
       "name": "Dragon of Legend",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/e608d5ff3b4e27bea577ccae3728ad407decf7eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "40_Majima_From_Below": {
       "name": "Majima From Below",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/8f0dd29f4bb16c3e4f2f74a3375b42e46ff617e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.5"
     },
     "41_Goromi_The_Hostess": {
       "name": "Goromi the Hostess",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/0e9af5ca9a5990ff6c6abe9cd2427e89deb2f319.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "44_Youll_Only_Get_Burned": {
       "name": "You'll Only Get Burned",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/fb17173ca96f820a302b812de93c8baa78267a6b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "45_Thats_A_Man": {
       "name": "That's a Man!",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/d69b8e6fd6ed36af6ae27584beeab1400d13b78b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "49_A_Bad_Business": {
       "name": "A Bad Business",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3717330/f8e38b1cb6e4140bc6dd6f6df905d2b1c9c8d004.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "52_Death_By_Climax": {
       "name": "Death By Climax",
