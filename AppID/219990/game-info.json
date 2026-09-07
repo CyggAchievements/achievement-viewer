@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "ACH027": {
       "name": "By the Malleum Menhir",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.0"
     },
     "ACH028": {
       "name": "No Soup for You",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "ACH036": {
       "name": "To the Explorer Go the Spoils",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/94f0586732cbbceb1aa6dcc3835a61e47f38fef5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "ACH069": {
       "name": "Champion of the Crucible",
@@ -811,7 +811,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/013c4ada3e47e0c1f676d6d7cb21def560d425e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "ACH108": {
       "name": "Centennial Legend",
@@ -1567,7 +1567,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/46904d8724856afd6143c8b9343f72c4a1751046.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.4"
     },
     "ACH245": {
       "name": "Feast of Souls",
@@ -1688,7 +1688,7 @@
     },
     "ACH303": {
       "name": "Glacial Warming",
-      "description": "",
+      "description": "Melt one of the glacier barriers in Asterkarn.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/f2e1753a882185530a8a900d8619dfcec08177f9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1742,7 +1742,7 @@
     },
     "ACH309": {
       "name": "A Familiar Face",
-      "description": "",
+      "description": "Deal with Chieftain Scorv.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/a8717b875304362025bc449a9ec9be32e7c1fd5a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1823,7 +1823,7 @@
     },
     "ACH318": {
       "name": "Blood of the Anointed",
-      "description": "",
+      "description": "Slay Naddo the Anointed in the Heart of the Void.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/3a26d1c3e392d34577fdfb78c7ccfc00ebd2c89b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1832,7 +1832,7 @@
     },
     "ACH319": {
       "name": "Misguided Faith",
-      "description": "",
+      "description": "Slay Naddo the Anointed in the Heart of the Void on Ultimate Difficulty.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/11c599bf1c4e3a6d29e7d81fecaf3b9ef1f5fef3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1841,7 +1841,7 @@
     },
     "ACH320": {
       "name": "Delaying the Inevitable",
-      "description": "",
+      "description": "Slay Prodromus, Herald of the End Times in the Aurora Peaks.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/45563bc77846c54c1b31d3313d6ec8489f6d5783.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1850,7 +1850,7 @@
     },
     "ACH321": {
       "name": "Forestalling the End",
-      "description": "",
+      "description": "Slay Prodromus, Herald of the End Times in the Aurora Peaks on Ultimate Difficulty.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/f498bbc345ce4fa1839ed42933e0b95d18de1a96.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1859,7 +1859,7 @@
     },
     "ACH322": {
       "name": "Great Beast of Legends",
-      "description": "",
+      "description": "Cleanse Beronath, Corruptor of Asterkarn on the Roof of the World.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/9f40f875c1cc9fa5be3bd70cdaa8cd2f38692ed6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1868,7 +1868,7 @@
     },
     "ACH323": {
       "name": "Great Beast Redeemed",
-      "description": "",
+      "description": "Cleanse Beronath, Corruptor of Asterkarn on the Roof of the World on Ultimate Difficulty.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/40bebab09d22f3affaa8e9513dfe1652c7cf7906.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -1877,7 +1877,7 @@
     },
     "ACH324": {
       "name": "Ascended Great Beast of Legends",
-      "description": "",
+      "description": "Cleanse Beronath, Corruptor of Asterkarn on the Roof of the World in Ascendant Mode.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7da5ca90d24515272e8f248dafba3951d0d658e0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -2021,7 +2021,7 @@
     },
     "ACH340": {
       "name": "Ascended Savior",
-      "description": "",
+      "description": "Slay the Loghorrean, Voice of Ch'thon in the Edge of Madness in Ascendant Mode.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/83675705e3f27ba633824e830afee0c615956ea6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -2030,7 +2030,7 @@
     },
     "ACH341": {
       "name": "Ascended Vengeance for Malmouth",
-      "description": "",
+      "description": "Slay Theodin Marcell, the Shaper of Flesh in the Sanctum of Flesh in Ascendant Mode.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/dbe747e59f5df3ef0d0a543100eed9a5c664c875.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -2039,7 +2039,7 @@
     },
     "ACH342": {
       "name": "Ascended Godslayer",
-      "description": "",
+      "description": "Slay Korvaak, the Eldritch Sun in the Throne of the Three in Ascendant Mode.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/dc7af646c958e6c867a1b99eb194c84404e75ae7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -2093,7 +2093,7 @@
     },
     "ACH348": {
       "name": "Hidden in Plain Sight",
-      "description": "",
+      "description": "Reveal one of the hidden caches concealed around Cairn.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/635a1538483f358ca648647cdad4b844b0c6b0ef.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
@@ -2102,7 +2102,7 @@
     },
     "ACH349": {
       "name": "Keep it Secret, Keep it Safe",
-      "description": "",
+      "description": "Reveal 10 caches concealed around Cairn.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/cdb1e9ebc6ab9137ca84f59ca607f31e50b9a20c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/219990/7303a7a759f1ab1c479828b90cc87dd600d635a6.jpg",
       "hidden": true,
