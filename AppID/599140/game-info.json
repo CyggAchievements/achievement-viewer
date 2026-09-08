@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ec32aefa5f078d841df83e7f889365811f7bf29f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "fish_2": {
       "name": "Fish collector",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/a02c945eb587f20f698946c4efe3a7ff060ae5a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.3"
     },
     "fix_mill": {
       "name": "The Mill",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/612a9142d8b1eb0f4903af3d7f9c58f14e61cd90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "hidden_act_astro": {
       "name": "Prodigal father",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/cf42a54357c11999edc7ce6c433fcd04aa9b1957.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.1"
     },
     "hidden_merch_bish": {
       "name": "Two brothers",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/5a300e0c79c6fc9198f593ca69f085db13a715f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "dlc_stories_good_alcoparty": {
       "name": "Best party",
@@ -793,7 +793,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ffcd09ac07e48cac7650fcbd2f436a81add765e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "dlc_refugees_s15_2": {
       "name": "Blood supplier",
@@ -856,7 +856,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/210e04eaf9d5af12e63a9f3f1bff80c63f156fb2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "dlc_refugees_s40": {
       "name": "Lesser evil",
@@ -865,7 +865,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/02891fd8307cd9d8a770d0682726b8564bef14f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "dlc_refugees_s46_or_s53": {
       "name": "Refugees are safe",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/aba1cbf2f93c8dd59aae8e271835ac315672ec89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "dlc_refugees_d6": {
       "name": "Writer of Revolution",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/7e8c6c3b5cbf2d3926dcff0ab69f2374fd91cd48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "dlc_refugees_city_2_fin": {
       "name": "Developed camp",
@@ -937,7 +937,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/cb6991f90e39e6715ea175775a429bf7e3dbf65a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "dlc_refugees_city_3_fin": {
       "name": "Strengthened camp",
@@ -1027,7 +1027,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/5f073d54a87912137aabc5a007192d5e97ed9869.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "dlc_souls_s_s_16_1": {
       "name": "The first session of curing therapy",
@@ -1108,7 +1108,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ff57b983c7dfd90ff48afd7734dc629682651248.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "dlc_souls_s_s_41": {
       "name": "Help the villagers",
@@ -1126,7 +1126,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/942344e03635675f80fb9478908e2c3696131254.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.2"
+      "percent": "4.1"
     }
   },
   "platform": "PlayStation",
