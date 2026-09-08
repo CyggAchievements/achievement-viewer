@@ -1,7 +1,7 @@
 {
   "appid": "292030",
   "name": "The Witcher 3: Wild Hunt - Complete Edition",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/9c7f39445f85f2187f792a57e13807cf922167d1/header_alt_assets_4_german.jpg?t=1788333513",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg?t=1788333513",
   "achievements": {
     "LILAC": {
       "name": "Lilac and Gooseberries",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/244c4f4a34a6b52fa21fdbe5d063fe03f67ab690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "21.9"
     },
     "RAN_THE_GAUNTLET": {
       "name": "Ran the Gauntlet",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/b33cd0fcb3bab390513b5128c0ba911cbcc280a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "GLOBETROTTER": {
       "name": "Globetrotter",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/000721a11483b0c4aad92dc83543fda0c0b7aa59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "WOODLAND_SPIRIT": {
       "name": "Woodland Spirit",
