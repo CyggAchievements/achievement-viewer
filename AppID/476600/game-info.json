@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/19fbefcd11296407f7df1c67d4dfe4f6f8aa838b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "MOVEMENT": {
       "name": "I See Movement",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/5b68dfdf4faaba0244ab6ba5170a4c94efdc0af1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.4"
     },
     "GRENADE_TOSS": {
       "name": "School of Hard Knocks",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/b05da9c3c6f645a191d35e7d5921f01678911d35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "SMOKE_TOSS": {
       "name": "Who needs a pendant?",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/db9c14f2748ede843eb72bd753e2189f885667b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.6"
+      "percent": "12.5"
     },
     "PROTECTOR": {
       "name": "Potato Masher",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/bf961e26eea3965ac683aa96131b5c27e59a7a13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.1"
     },
     "CHAIN_SMOKE": {
       "name": "Chain Smoker",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/a643b9548af9c87bc184de895e546c84e43a4f14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.5"
     },
     "VETERAN": {
       "name": "Distinguished Service",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/b8ad7e6570a5f5e19c4d10087eb4577d428c6b06.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.1"
+      "percent": "64.0"
     },
     "LEVEL_4A": {
       "name": "Sunday Driver",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/26647d1b8b9b3b1bd2de41f472927d14bf2952e8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.1"
     },
     "LEVEL_5A": {
       "name": "Silent Night",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/1c6e6c5c76e1581e0dcb5b88d4afb740de82707e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.7"
     },
     "LEVEL_7A": {
       "name": "Fog of War",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/76a8e2663ba6fddf50ddc3328744a5257f7566bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "LEVEL_8A": {
       "name": "Suppressive Fire!",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/485d992a434e56be0b208da1546d0562c66a606d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "LEVEL_9A": {
       "name": "Flyboy",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/476600/cd68fb3d8837c42d37aabee99ca44bb26ce96f37.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "22.8"
     },
     "LEVEL_11": {
       "name": "To the End",
