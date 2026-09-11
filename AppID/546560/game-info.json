@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/e0fa1228facadf5572826fddae6f736a67ae286e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "TRACK_A2_DRAINAGE": {
       "name": "Xen Garden",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/7dc3893c2f8a1fd2dce44d898731ac0de2270ce0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "TRACK_A3_HOTEL_LOBBY_BASEMENT": {
       "name": "Heart-Breaker Hotel",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/3ea8b7ec21b953a173cefc0cea78fbedebca1058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.9"
+      "percent": "88.0"
     }
   },
   "platform": "Steam",
