@@ -1,7 +1,7 @@
 {
   "appid": "218620",
   "name": "PAYDAY 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1786626315",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789477803",
   "achievements": {
     "hot_wheels": {
       "name": "Coming in Hot",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/7df49f4ccef109d2f57853ce6798610e2359f010.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.4"
     },
     "charliesierra_5": {
       "name": "All Eggs in One Basket",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ed1d77d23f4d6a8a55b16349274f439ec73d11ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "death_3": {
       "name": "Becoming a Regular",
@@ -1990,7 +1990,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bde5c6a478a2c4ab859bede3599392a09382d74f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "eagle_4": {
       "name": "So Uncivilized",
@@ -2017,7 +2017,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/af5d0a96c1eb3c565e8c26801de78d6708bd0d71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "deer_2": {
       "name": "Stealing Christmas",
@@ -2710,7 +2710,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/d1f2826772ca91772aa35889720c21f23e19c651.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "grill_2": {
       "name": "Stick a Fork in Me, I'm Done",
@@ -7030,7 +7030,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3c226b9ff8a5e75772fe41125cd2f9aabedc6edd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "trk_pn_2": {
       "name": "Jailhouse Rock",
@@ -10000,7 +10000,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/532825c8128e87efb1010825dd9cb27fcbbe2f17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "vit_3": {
       "name": "You Can't Vote Twice",
@@ -11161,7 +11161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/cab86a2729c0452b9c1222d78e398107c59da773.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "sand_6": {
       "name": "Container Cracker",
@@ -11956,127 +11956,127 @@
       "percent": "0.6"
     },
     "auc_1": {
-      "name": "An art magazine in a closed off room",
-      "description": "An art magazine in a closed off room",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Opening Bid",
+      "description": "Complete the Under the Hammer job on the Normal difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bef166d8f28c6c55049ccf964289a82b4ae4c212.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c6d310b55728835b40ecaa7616eec68e86ada837.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_2": {
-      "name": "Shows glimpses of a heist unknown",
-      "description": "Shows glimpses of a heist unknown",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Buy-In Price",
+      "description": "Complete the Under the Hammer job on the Hard difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e3549c586bcc81891761c2905c535f88cf031891.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/19b29b6725eeba40317e43503485608d12b63925.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_3": {
-      "name": "A thief's hidden fortune whole",
-      "description": "A thief's hidden fortune whole",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Inside Value",
+      "description": "Complete the Under the Hammer job on the Very Hard difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/510405a211c606adba4265a1cd768fbc217216f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a7b561e2507106b4f11ee4118c011d391dbbf662.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_4": {
-      "name": "Sent his family on a hunt",
-      "description": "Sent his family on a hunt",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Bookkeeping",
+      "description": "Complete the Under the Hammer job on the OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ad29350f0bcdeac5fd1194fcd4714f2855a64664.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/89c4e5bb4d715f799ea4df8d1b7f0ed654af7a57.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_5": {
-      "name": "For a treasure not even his own",
-      "description": "For a treasure not even his own",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Collection, Collected",
+      "description": "Complete the Under the Hammer job on the Mayhem difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bf469ea1f75b6c52a95b1b125e4d503337625c60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5478685f57cda54e8ed6dabc339b2fa43dc9a005.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_6": {
-      "name": "Time goes on",
-      "description": "Time goes on",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Bidding War",
+      "description": "Complete the Under the Hammer job on the Death Wish difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/736de0869c3e8287e50f278233f8141a7c8ef871.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/30b3a4df31408d9dc4c8cb686b1b9bb7294f2097.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_7": {
-      "name": "Riches unclaimed",
-      "description": "Riches unclaimed",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "White Glove Sale",
+      "description": "Complete the Under the Hammer job on the Death Sentence difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/57fb06137b182ce45d596d3b1a3a7f2d891e3abe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9aa6c56840cd86b1f9bd04e181e3067fa1441bd7.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_8": {
-      "name": "The family finds fortunes none",
-      "description": "The family finds fortunes none",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Going twice...",
+      "description": "Complete the Under the Hammer job on the Death Sentence difficulty with the One Down mechanic activated.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/64b3a8270384abff091f9f4abcef66ad4e7419c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c391dc1d8ed0b42c9710183dbc32bf95604263d1.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_9": {
-      "name": "But then a new seeker joins in",
-      "description": "But then a new seeker joins in",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Deal of The Day",
+      "description": "In the Under the Hammer job, secure all additional auction items on OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c1b0dddbbb7e13da7e5986201a8a2d317ff9f59f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b85edb869ffb7a2b7942685642b9ddc3395828d2.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_10": {
-      "name": "Finds the missing link",
-      "description": "Finds the missing link",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Flash Auction",
+      "description": "Complete the Under the Hammer job in stealth within 6 minutes without using any ECM jammers on the OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a4e706657f6f9806ef61dc9a4385b9d09e55bd63.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a07129cc11f26f361d641732d665a6ff92d9df88.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_11": {
-      "name": "A clue that eluded all",
-      "description": "A clue that eluded all",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Curated Crew",
+      "description": "Complete the Under the Hammer job without raising the alarm, killing or dominating anyone on the OVERKILL difficulty or above.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8474fd464d79cecdfc31092dcbea45c27650a0e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/46842f71e481551dce6e79b574923a4ebd2e18ed.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_12": {
-      "name": "Something hidden near sand and sunshine",
-      "description": "Something hidden near sand and sunshine",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Doppelganger",
+      "description": "In the Under the Hammer job, kill the auctioneer in loud while having The Tragedy or The Comedy mask and the Karussell Revolving Shotgun equipped.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/12091c26be9191712581bce2fd222c87bfa7e4b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/33a1343fc5dea43d9db51a68aeacd0f666f51915.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_13": {
-      "name": "Between glass and wood",
-      "description": "Between glass and wood",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "BFD Junior",
+      "description": "In the Under the Hammer job, don't let the cops stop the Apollonius Cutter on the OVERKILL difficulty or above. Unlocks the \"Vintage Sight\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/398f72217a2e18b9579466038128bce7034193eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/00a008a5e68b2eea747c78726eb83b38be8db1bb.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
     },
     "auc_14": {
-      "name": "Waiting to be unearthed",
-      "description": "Waiting to be unearthed",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ace4347e3c9cbfe079309b11362914e95e7a3f1b.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5a8075c7ef412e0f1f18d4dfbfa124086086712c.jpg",
+      "name": "Sun Tan",
+      "description": "Complete Under the Hammer job on the OVERKILL difficulty or above while Captain Winters is still present on the level.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/eaff0a1dd3d7a3618b2560ed0dc94743ffbfd5a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a30016db4a233bed44736f17ed2ab39aa3000f83.jpg",
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
