@@ -838,7 +838,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/99ba40fa72772a083dd47fcab643f1d2a5212cde.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "gage2_1": {
       "name": "Doctor Miserable",
@@ -901,7 +901,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ff53fecd28488933b2bd12973676d1b303196cfc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "gage2_8": {
       "name": "HOLY SHI-",
@@ -2683,7 +2683,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/66562c63f651b6c93a4c2562f63285f5e68698ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "16.8"
     },
     "fort_1": {
       "name": "High Octane",
@@ -2863,7 +2863,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/55adda309df91fac8f1b7e47cea4c48408208996.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "kenaz_2": {
       "name": "Blind Eye in the Sky",
@@ -3079,7 +3079,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ada87d89f79146c07784a059591cbe680968b8bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "5.2"
     },
     "farm_3": {
       "name": "Making a Statement",
@@ -8236,7 +8236,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bf21b78229ddcdbdd782e4edbc6161814c6b8e5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.0"
     },
     "rvd_9": {
       "name": "Get Off My Property",
@@ -11961,7 +11961,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bef166d8f28c6c55049ccf964289a82b4ae4c212.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c6d310b55728835b40ecaa7616eec68e86ada837.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_2": {
       "name": "Buy-In Price",
@@ -11969,7 +11970,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e3549c586bcc81891761c2905c535f88cf031891.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/19b29b6725eeba40317e43503485608d12b63925.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_3": {
       "name": "Inside Value",
@@ -11977,7 +11979,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/510405a211c606adba4265a1cd768fbc217216f7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a7b561e2507106b4f11ee4118c011d391dbbf662.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_4": {
       "name": "Bookkeeping",
@@ -11985,7 +11988,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/ad29350f0bcdeac5fd1194fcd4714f2855a64664.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/89c4e5bb4d715f799ea4df8d1b7f0ed654af7a57.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_5": {
       "name": "Collection, Collected",
@@ -11993,7 +11997,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bf469ea1f75b6c52a95b1b125e4d503337625c60.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5478685f57cda54e8ed6dabc339b2fa43dc9a005.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_6": {
       "name": "Bidding War",
@@ -12001,7 +12006,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/736de0869c3e8287e50f278233f8141a7c8ef871.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/30b3a4df31408d9dc4c8cb686b1b9bb7294f2097.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_7": {
       "name": "White Glove Sale",
@@ -12009,7 +12015,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/57fb06137b182ce45d596d3b1a3a7f2d891e3abe.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/9aa6c56840cd86b1f9bd04e181e3067fa1441bd7.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_8": {
       "name": "Going twice...",
@@ -12017,7 +12024,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/64b3a8270384abff091f9f4abcef66ad4e7419c7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c391dc1d8ed0b42c9710183dbc32bf95604263d1.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_9": {
       "name": "Deal of The Day",
@@ -12025,7 +12033,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c1b0dddbbb7e13da7e5986201a8a2d317ff9f59f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b85edb869ffb7a2b7942685642b9ddc3395828d2.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_10": {
       "name": "Flash Auction",
@@ -12033,7 +12042,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a4e706657f6f9806ef61dc9a4385b9d09e55bd63.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a07129cc11f26f361d641732d665a6ff92d9df88.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_11": {
       "name": "Curated Crew",
@@ -12041,7 +12051,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/8474fd464d79cecdfc31092dcbea45c27650a0e4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/46842f71e481551dce6e79b574923a4ebd2e18ed.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_12": {
       "name": "Doppelganger",
@@ -12049,7 +12060,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/12091c26be9191712581bce2fd222c87bfa7e4b7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/33a1343fc5dea43d9db51a68aeacd0f666f51915.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_13": {
       "name": "BFD Junior",
@@ -12057,7 +12069,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/398f72217a2e18b9579466038128bce7034193eb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/00a008a5e68b2eea747c78726eb83b38be8db1bb.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "auc_14": {
       "name": "Sun Tan",
@@ -12065,7 +12078,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/eaff0a1dd3d7a3618b2560ed0dc94743ffbfd5a3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a30016db4a233bed44736f17ed2ab39aa3000f83.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": "Steam",
