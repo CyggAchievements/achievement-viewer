@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/adcfd45f1f9a5b166810bcde765b296bd7aa6307.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "TrailblazerBadge": {
       "name": "Trailblazer Badge",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/ee86200b7333f439d40a1c15ca6551f5fa02e1bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "MentorshipBadge": {
       "name": "Mentorship Badge",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/bb7847efa4f3fdc753bd30688f557afb3b5a9b07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "AeronauticsBadge": {
       "name": "Aeronautics Badge",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/47b8812963924cf383a430b301edd08051a088a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "MedievalHistoryBadge": {
       "name": "Medieval History Badge",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/14958804648cb06089a15eefe8c7886e5c91b637.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "RuleZeroBadge": {
       "name": "Rule Zero Badge",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/f1042e3ea764304f067022ad8658c79b20cb8a38.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.7"
     }
   },
   "platform": "Steam",
