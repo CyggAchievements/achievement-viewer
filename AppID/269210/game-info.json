@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f6e923e66a552bfee9e326cffbd3892ade9c490b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "normalSC": {
       "name": "Peasant of Softcore",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f5d70fe8c824d6954edf7c30424e49a03781de24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "satansHands30sec": {
       "name": "Hands of Satan",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/d3b6a8fb938903800eb094ac875e6120baab0962.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "chaosTower": {
       "name": "Chaos Tower",
@@ -660,60 +660,6 @@
       "group": "Base Game",
       "percent": "4.3"
     },
-    "uberSungLee05": {
-      "name": "Eternal Battle Fields",
-      "description": "Slay Sung Lee in the Eternal Battle Fields on Hell 5 difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/2de33bce02615dcd5e8deddb582fff39b532dd62.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/1b7dd510df9d98fa12a812800d78a633280937f0.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.3"
-    },
-    "uberReaper05": {
-      "name": "Shadow Realm",
-      "description": "Slay Shadow Reaper in the Shadow Realm on Hell 5 difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/52742b2ad33fa1af505d511a8e7ebb4f75669be4.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/1d7ab323ce6c044e50887df1d3502b4774511bb5.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.6"
-    },
-    "uberDamien05": {
-      "name": "Fallen Inoya",
-      "description": "Slay Damien in Fallen Inoya on Hell 5 difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/e23b80b55ddc0b52c2e9e483c822267aed75d161.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/2400bffff10f6d99a93980fdc4237e2a7e28802d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.3"
-    },
-    "uberKingRakhul05": {
-      "name": "Champion of the Colosseum",
-      "description": "Slay King Rakhul in the Chaos Tower on Hell 5 difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/14b0cd6e2d2492bcbe9d70f4f926e2670a9f3308.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/0b9b1e303e0048ff995bb5b4656226b5c7369863.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.1"
-    },
-    "hellSC05": {
-      "name": "Legend of Softcore",
-      "description": "Complete hell 5 difficulty on Softcore",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/b356630fa5ea79d0056164c6dee1aeeb41a27606.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/349b7ef31c2cf0c7f74f882ee6e2e5b66bb8d67d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "2.5"
-    },
-    "hellHC05": {
-      "name": "Legend of Hardcore",
-      "description": "Complete hell 5 difficulty on Hardcore",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/0685c965b80bcd29bd9e584875e65127375aa96d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/1334e6e4bf09d1a22cc3c77c3591c08d8691d530.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.2"
-    },
     "normalSsfSC": {
       "name": "Peasant of Odyssey Softcore",
       "description": "Complete normal difficulty on Odyssey Softcore",
@@ -735,15 +681,6 @@
     "hellSsfSC": {
       "name": "Hero of Odyssey Softcore",
       "description": "Complete hell difficulty on Odyssey Softcore",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/b356630fa5ea79d0056164c6dee1aeeb41a27606.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/349b7ef31c2cf0c7f74f882ee6e2e5b66bb8d67d.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.3"
-    },
-    "hellSsfSC05": {
-      "name": "Legend of Odyssey Softcore",
-      "description": "Complete hell 5 difficulty on Odyssey Softcore",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/b356630fa5ea79d0056164c6dee1aeeb41a27606.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/349b7ef31c2cf0c7f74f882ee6e2e5b66bb8d67d.jpg",
       "hidden": false,
@@ -777,15 +714,6 @@
       "group": "Base Game",
       "percent": "0.2"
     },
-    "hellSsfHC05": {
-      "name": "Legend of Odyssey Hardcore",
-      "description": "Complete hell 5 difficulty on Odyssey Hardcore",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/0685c965b80bcd29bd9e584875e65127375aa96d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/1334e6e4bf09d1a22cc3c77c3591c08d8691d530.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.1"
-    },
     "uberGabriel01": {
       "name": "Gabriel's Demise",
       "description": "Defeat Gabriel in the Circle of Hatred",
@@ -794,15 +722,6 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "1.1"
-    },
-    "uberGabriel05": {
-      "name": "Gabriel's Reign of Terror",
-      "description": "Defeat Gabriel in the Circle of Hatred on Hell 5 difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f8a026d97775ee4bf7bd9bf45eec27e760b4941d.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/7d49365702c5bc8818a0756c12749642f4fb88be.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.6"
     },
     "uberLuna01": {
       "name": "Luna's Fall",
@@ -813,15 +732,6 @@
       "group": "Base Game",
       "percent": "0.6"
     },
-    "uberLuna05": {
-      "name": "Fortune Teller's Vision",
-      "description": "Defeat Luna in Vanaheim on Hell 5 difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/146a8f8f5d0341c7d365b78197ec58b353fddfc8.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/ab1808ab3a95139041e97fa384695b3b39a59026.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "0.9"
-    },
     "uberAmun01": {
       "name": "Amun Ra's Fall",
       "description": "Defeat Amun Ra in Tomb of Amun Ra",
@@ -830,15 +740,6 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "1.1"
-    },
-    "uberAmun05": {
-      "name": "The Ancient God of Death",
-      "description": "Defeat Amun Ra in Tomb of Amun Ra on Hell 5 difficulty",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/25f21a2915318d7c4531cb1c527f2cd850a484c4.jpg",
-      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/3d05b02419777006bc28655a55e7550b6a7a55ea.jpg",
-      "hidden": false,
-      "group": "Base Game",
-      "percent": "1.5"
     },
     "uberDamienInferno": {
       "name": "Terror of Inoya",
@@ -865,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/a3551bd91a65545b561ce1b67f8597e8f7c10508.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "uberKingRakhulInferno": {
       "name": "War God of the Colosseum",
@@ -919,7 +820,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/fc231436c11f7bd7e26b435d228c8669d1191463.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "infernoAnubis": {
       "name": "Fall of Anubis",
@@ -973,7 +874,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/4009bd9dc660895a76a3af6f8f136af2cbf7d132.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "infernoSC": {
       "name": "Conqueror of Tarethiel",
@@ -1018,7 +919,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/98922214d36af91dd87bac66a81d1a5325bd22b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "hellCthulhu": {
       "name": "Cthulhu",
@@ -1045,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/f8a2f73cd4c950cb7ed449886a599d343f7707cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "uberArchitectInferno": {
       "name": "Architect of Ruin",
@@ -1307,6 +1208,14 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.0"
+    },
+    "gamba100": {
+      "name": "Gamblers Demise",
+      "description": "Destroy 100 Slot Machines",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/1253fb5a576ac74432656ebee25a60401f636a7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269210/a8545c8e00c74ce8ac8d0685108f9df99b94c6c6.jpg",
+      "hidden": false,
+      "group": "Base Game"
     }
   },
   "platform": "Steam",
