@@ -1,0 +1,424 @@
+{
+  "appid": "3751260",
+  "name": "The Blood of Dawnwalker",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1789144593",
+  "achievements": {
+    "ACH_Selfish": {
+      "name": "Selfish",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/1dc2aa3818e0eda5ea430db16ba029cdb17be72e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACH_Infamous": {
+      "name": "Throne of Thorns",
+      "description": "Reach peak Infamy in Vale Sangora.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/7b813ebfd9e9ee1ed2ba818b0b2ec09072b15ced.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "ACH_Easier_than_Ever": {
+      "name": "Uphill Battle",
+      "description": "Complete the entire game by saving people of Laslea on Duelist Difficulty preset.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/d4e67b884f837f7f54e9abf1d89b3cd8e82fd4b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACH_A_Dawnwalker_is_Born": {
+      "name": "A Dawnwalker is Born",
+      "description": "Complete the prologue and venture out into the open world.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/28b4da217b5190e565e00afe57ea7297d16c1074.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "ACH_The_Coward": {
+      "name": "A Hero They Deserve",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/9c06cfe7dfb2acfe2273fa9c6e46bfd306ce9886.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ACH_The_Right_Fist_of_the_Knyaz": {
+      "name": "The Right Fist of the Knyaz",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/40863b1d7d3d60ea18d0493d6eefcc11c2265adc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.2"
+    },
+    "ACH_The_Mad_Khan": {
+      "name": "The Mad Khan",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/5e6c9526bb755fdd755da56b88ea291ef37b2082.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "ACH_The_Dark_Mistress": {
+      "name": "The Dark Mistress",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/0c730b9eb3d97ab739d119f33aedf344bb987611.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "ACH_Sins_of_the_Past": {
+      "name": "Sins of the Past",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/a9db495de0a28b4d13478262cc5f9e968adaf0ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "ACH_Nightbloom": {
+      "name": "Misery Loves Company",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/44fbe6c709f999f85968d05c356b12e2bcb5b31b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACH_Always_Hiding": {
+      "name": "The Manumit",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/1ba20130b290c6461e2d87a8e4ab43d1eef7b0dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "ACH_The_Turncoat": {
+      "name": "The Turncoat",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/1f96c362ecacf9bf658d608092f735f86812f92d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACH_The_Omen_Bringer": {
+      "name": "The Patricide",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/dc226f70dca5a7ae4797eb754c6fe68e7215e6ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "ACH_The_Knyazmaker": {
+      "name": "The Knyazmaker",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/1a5d30d4b0400c0ce206db7cb98f237bf1b394a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACH_The_Folk_Hero": {
+      "name": "The Folk Hero",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/b842816bf4ebd606d7876b615a1816dce74cc167.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACH_In_the_Nick_of_Time": {
+      "name": "In the Nick of Time",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/a808b2f4c7597ae99a7b49ad5e2d4bd461bf9055.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "ACH_The_Blood_of_Dawnwalker": {
+      "name": "The Blood of Dawnwalker",
+      "description": "Finish the story.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/1eaff5dc80f21a64e1ca16c96155d2d58838d963.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "ACH_Master_of_Defence": {
+      "name": "Untouchable",
+      "description": "Perform 5 Perfect Blocks in a row.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/6b904cacc6b5501d1a32ed6fb5bd20b5bed6b411.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.8"
+    },
+    "ACH_Delivery_Delay": {
+      "name": "Delivery Delay",
+      "description": "Destroy 8 vrakhiri transports.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/334de19c423135d69a5ddb3f2c5ce37c80ec6b0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "ACH_Overkill": {
+      "name": "Better Safe than Sorry",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/5a28218ba262425616f8b5f76b4b1db99290aea1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "ACH_Burst_like_a_Bubble": {
+      "name": "Make It Rain",
+      "description": "Cause an enemy to explode using an Active Ability.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/dea4d10023968edf38e447a023897ff092406935.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "ACH_All_for_Me": {
+      "name": "Absolutely Insatiable",
+      "description": "Have 3 Passive Abilities equipped at the same time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/f74297d3505d6737ea43c8a34b44eee2f357f49f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.5"
+    },
+    "ACH_Arbiters_Blade": {
+      "name": "Arbiter's Blade",
+      "description": "Restore St Mihai's sword to its former glory.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/d891d520c58f57c425a980d8a05bdffd15243605.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "ACH_Arbiters_Regalia": {
+      "name": "Arbiter's Regalia",
+      "description": "Gather all the parts of the Arbiter's set of armour and unlock their full potential.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/3d1012329af0bd77e7aed35d764d63292d2e975e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "ACH_Golden": {
+      "name": "Gear of the Gods",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/00cbe013ba7e3c3774e7b4925bcfab1f0144e527.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ACH_Capture_the_Flag": {
+      "name": "Capture the Flag",
+      "description": "Tear down all of Brencis's flags.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/cfd12be517dd39a5c89937e35d574ee9c5b684ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ACH_Stunning_Views": {
+      "name": "Bird's-Eye View",
+      "description": "Climb all the towers and scout the surrounding areas.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/64fc66483d6e7dc51d4d0b9ff09b780660cb5dc8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ACH_Primal_Instinct": {
+      "name": "Feral Hunger",
+      "description": "Lose control and drain someone outside of combat.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/e1197908a05aa8e1ad63c8eb95c773d8e0bf86c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.3"
+    },
+    "ACH_Like_Shadow": {
+      "name": "Shadow Roamer",
+      "description": "Travel 1000 metres using Vampiric Abilities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/2b70663fd876c457edd17d97e001e202f25cce63.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.3"
+    },
+    "ACH_Dead_Echoes": {
+      "name": "Dead Man Talkin'",
+      "description": "Speak with a dead person using the Compel Soul Witchcraft Ability.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/b2a60f029ab42631728a0a380e3c8e38c9507710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.2"
+    },
+    "ACH_Master_of_Arms": {
+      "name": "Master of Arms",
+      "description": "Unlock an Ultimate Perk in the Swordmastery tree.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/da42018a4820730ad6cdc424a099e51647f2a88c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "ACH_Arch_Warlock": {
+      "name": "Arch Warlock",
+      "description": "Unlock an Ultimate Perk in the Witchcraft tree.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/33cbe16076b1867376b2d82c325b5d6690a7ec0b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_Creature_of_the_Night": {
+      "name": "Creature of the Night",
+      "description": "Unlock an Ultimate Perk in the Vampirism tree.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/0c37f8aca810103e84b382c77403922fb6a93650.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "ACH_A_Quick_Learner": {
+      "name": "Glass Ceiling",
+      "description": "Reach Level 50.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/1d89c9fbb1a443c3c545c76f8a7dbc8789575a40.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACH_Miser": {
+      "name": "Miser",
+      "description": "Accumulate 5000 denarii. What are you planning to buy, mate?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/ec1d6f14ec4cd06e69fe0eedec6f2130620f24e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "ACH_Balanced_Diet": {
+      "name": "Balanced Diet",
+      "description": "Quench your thirst by drinking 10 animals, humans, or monsters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/23ff6e4ceb9486d213401eae6431ccb256d17a54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.2"
+    },
+    "ACH_Practice_Makes_Perfect": {
+      "name": "Mastery",
+      "description": "Level up one Swordmastery, Witchcraft, or Vampiric Ability to its full potential.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/eef7a9dea9110e6822fc651b4acd4c4f68cd7714.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.5"
+    },
+    "ACH_The_Unquenchable_Thirst": {
+      "name": "The Unquenchable Thirst",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/f3891b97d75130d914b96f25415e050cba756408.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "ACH_The_Outcast": {
+      "name": "The Outcast",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/5dd1b89303ea7ce9689fe20391bf795591ac5489.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ACH_Eternal_Bliss": {
+      "name": "Together Forever",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/e03a3e887ba20ab629048141ca1d06598ac4037e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACH_Tsarinas_Pet": {
+      "name": "The Tsarina's Favourite Human",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/37679c5e661c0f9a961577cf8ee855ed7c1b6d85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ACH_Where_am_I": {
+      "name": "Realmwalker",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/cd5ee7ba9d20130b7e557868f79e2717b097d3b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.0"
+    },
+    "ACH_Antiquarian": {
+      "name": "Antique Aficionado",
+      "description": "Discover Ancient Ruins.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/5f900988b6d6dc25cec40b2076348bee352c8dcf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.3"
+    },
+    "ACH_Metropolitan": {
+      "name": "Big-City Living",
+      "description": "Visit the City of Svartrau.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/99686c96cf0b0f97b497b109bf2e670e5ed6458b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "ACH_Valley_Trotter": {
+      "name": "Tour Guide Training",
+      "description": "Visit all of Vale Sangora's villages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/505b0372f9a1c36b584d360f2f3769c8e8ab6f6a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.1"
+    },
+    "ACH_Smuggler": {
+      "name": "Smuggler",
+      "description": "Earn 1000 denarii selling silver.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/07d66fca7bdd227d6b4e2f459d9f29911f39c36b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.7"
+    }
+  },
+  "platform": "Steam",
+  "blacklist": [],
+  "uses_db": false
+}
