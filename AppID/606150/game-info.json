@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/3c300f8e5d7768099f37977d7b45d4f8a67d41b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "PERFECT_FOREST_BOSS": {
       "name": "Perfect Carnivurous Mutae",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/6c1941759bb32c0ddf3a3cfb21232cd349450bd5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "PERFECT_TECH_BOSS": {
       "name": "Perfect Energy Flux",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/b6902e515b9a210fb9c9b283968c973243c8c667.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "ALL_CRAZY_PETE_NOTES": {
       "name": "Archeologist",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/97dd977629c815a88b9aeed10a9eeccbf5bc0aa1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "CRAFT_ALL_SHORT_SWORDS": {
       "name": "Balanced Warrior",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/8280533599092b0b3e4f8cedfec9678123d65a66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.4"
+      "percent": "2.5"
     },
     "CRAFT_ALL_BOWS": {
       "name": "Distant Warrior",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/a3aa15579320834ba5065f2c241f6a3a922f95fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "COMPLETE_GAME_UNDER_DEATHS": {
       "name": "Careful Merchant",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/00f0d9eed16a12ed0cf2e201078d2d79654c2d3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "ALL_ACHIEVEMENTS": {
       "name": "100%",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/12da6910e5e54a5aa79aefd914d8c5e868fca7f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "GOLEM_THIRD_FLOOR_TIMES": {
       "name": "Golem Apasionate",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/34e9f4d4ce4804d41e86272b216a1722505138d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "FOREST_THIRD_FLOOR_TIMES": {
       "name": "Forest Apasionate",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/232dc3d0376fe77b9d7f0020f0fd290ce2eb8364.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.3"
     },
     "FIND_SECRET_ROOM_TIMES": {
       "name": "No Secrets",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/1c8c100164a1dd24be728917f32f4ab07b880458.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "KILL_DESERT_ENEMIES_TIMES": {
       "name": "Rage against the Desert",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/192cb811b99f9f1c26d176281c09bf3511dd2915.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "KILL_BUGS_TIMES": {
       "name": "Exterminator",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/606150/3570682414b25b499a111cdfec4f397990036609.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "21.8"
     },
     "BEAT_GAME_UNDER_TIME": {
       "name": "Gotta go fast!",
