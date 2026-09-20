@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/adcfd45f1f9a5b166810bcde765b296bd7aa6307.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "TrailblazerBadge": {
       "name": "Trailblazer Badge",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/08c7c216ca0c200944c175bc1f03cc11f97aa327.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.9"
+      "percent": "63.0"
     },
     "HappyCamperBadge": {
       "name": "Happy Camper Badge",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/b6352212350b1281e5949a6524009ecfaffd303a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "ToxicologyBadge": {
       "name": "Toxicology Badge",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/f3b16344af02078e58510412f68f07f5a3bef554.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.1"
+      "percent": "36.2"
     },
     "EsotericaBadge": {
       "name": "Esoterica Badge",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/5f6f1907569a33eb62aebf8d0c75e66db5509549.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "LeaveNoTraceBadge": {
       "name": "Leave No Trace Badge",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/ee86200b7333f439d40a1c15ca6551f5fa02e1bb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "MentorshipBadge": {
       "name": "Mentorship Badge",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/623990845edc6b7e7a3591a543923a0507356490.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.0"
+      "percent": "48.1"
     },
     "PlundererBadge": {
       "name": "Plunderer Badge",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/7e2752b0fd334c62fa8e9c33f94ff148900c1310.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "EnduranceBadge": {
       "name": "Endurance Badge",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/bb7847efa4f3fdc753bd30688f557afb3b5a9b07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "AeronauticsBadge": {
       "name": "Aeronautics Badge",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/3d4ac6ffb9a3c7b1d802b91aebde66e0e7450b74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "TreadLightlyBadge": {
       "name": "Tread Lightly Badge",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/35c2dd94aee952a32c1650bffc2684e21c945db7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.4"
     },
     "WebSecurityBadge": {
       "name": "Web Security Badge",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/47b8812963924cf383a430b301edd08051a088a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "MedievalHistoryBadge": {
       "name": "Medieval History Badge",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/14958804648cb06089a15eefe8c7886e5c91b637.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "RuleZeroBadge": {
       "name": "Rule Zero Badge",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/f1042e3ea764304f067022ad8658c79b20cb8a38.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.7"
     }
   },
   "platform": "Steam",
