@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/836f170ff56ce64f1a7cefb49bad442b96835797.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "FirstSpirit": {
       "name": "First Spirit",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/4f65b8e269576295915837b672eb4890c71b81e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.0"
     },
     "MotherMary": {
       "name": "Mother Mary",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/fec979b9691b08496b1d062b3e789c960c6147cb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "29.9"
     },
     "SandSurvivor": {
       "name": "Sand Survivor",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/d38a33913c93aad6a176dfbf7a13912b980664b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.7"
     },
     "BirthofHope": {
       "name": "Birth of Hope",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/c2e0da9bfb5b070a11e42a36af20556349db0e02.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "GuardiansofMorta": {
       "name": "Guardians of Morta",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/9855f9ae76e5e197544034c79e4cd4a1cd10a68b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "Stargazer": {
       "name": "Stargazer",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/879405faad6fad1b3fe5d5f92e7411cd23205941.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "Explorer": {
       "name": "Explorer",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/ec2238ec0d2cc2b0a2e1e07a966a73df14c645d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "Bargainer": {
       "name": "Bargainer",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/7bf1923200d34ac6815bcddfb57befc9bacc90ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.8"
+      "percent": "63.7"
     },
     "Runemender": {
       "name": "Runemender",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/0242ebb2a7f42f877d95c0a2ffbc9f4c4b9c25fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.0"
     },
     "Well-equipped": {
       "name": "Well-equipped",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/ee5619fbad28734c97eec35cb7c4b977d5509a48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "GearMastery": {
       "name": "Gear Mastery",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/f38793bf43b8cdd04cc844b39a6149150fde6f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "ArmedtotheTeeth": {
       "name": "Armed to the Teeth",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/2fcbf95230c2dd30e8fccf762d271a755121a716.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "UnusproOmnibus": {
       "name": "Unus pro Omnibus",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/506aa3b1f036e776eda5516e47298fc53066d139.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.1"
     },
     "CreamoftheCrop": {
       "name": "Cream of the Crop",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/ae381443854d13ecbcf8b743a5eaeaf8aed26040.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "Faithful": {
       "name": "Faithful",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/212bd37e6fc4b68181243d910a6c84c4fedf0ac9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.3"
     },
     "CharmingBergson": {
       "name": "Charming Bergson",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/4744a9f993bb6269fc7868f02d7612065f20f10a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.2"
     },
     "MasteroftheObelisk": {
       "name": "Master of the Obelisk",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/05c78672952db23fce706c7899673398d2582df3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "Trickster": {
       "name": "Trickster",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/ffbc75b08284d40560de74594e6e46c738d1b373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "UnstoppableFamily": {
       "name": "Unstoppable Family",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/43edf96b7a2f2716905bb9babc83f640ae57a27e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "FerocityShutDown": {
       "name": "Ferocity Shut Down",
