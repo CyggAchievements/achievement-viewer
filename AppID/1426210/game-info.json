@@ -1,7 +1,7 @@
 {
   "appid": "1426210",
   "name": "It Takes Two",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_latam.jpg?t=1777395376",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
   "achievements": {
     "Achievement_GOSCC_1": {
       "name": "It Took Two",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/54c32a0e1d356d903b0805097467c973bf699163.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "Achievement_GOSCC_2": {
       "name": "Minigame Megalomania",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/ee54eaa5b1926576d66646f71472990812b4f653.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.5"
     },
     "Achievement_GOSCC_8": {
       "name": "Break the Bank",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/a3359834bd68316371f0a4f8056c682a117f16bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.6"
     },
     "Achievement_GOSCC_13": {
       "name": "Platforming Prodigy",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/ca4a692728541f0f34767b73d64788cc2993c703.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "Achievement_GOSCC_14": {
       "name": "Force Triangulated",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/4f006b10ad8858ab324c4a8fa4e316849e871651.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "Achievement_GOSCC_20": {
       "name": "Meditation Maestro",
