@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ec32aefa5f078d841df83e7f889365811f7bf29f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "fish_2": {
       "name": "Fish collector",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/bf10b5e2778f729bbe07fc09242f39fa568d4f3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "cook_3": {
       "name": "Chef",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/a668db3b8c23a55e4bdbac5756f9c750213b66e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "dungeon_1": {
       "name": "Not far from the ground",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/9a3fde5c1c9233c9e8913b4e5023ba037a6b3da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "dungeon_2": {
       "name": "Scary dungeon depths",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/9c3a430c6a30f759220d9ffe9f8f5d303032c36e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "ideal_song": {
       "name": "Ideal song",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/a91549e6f54d407b19c14572e19f5e9d9703d9b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "tech_r": {
       "name": "Just red points",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/85a416834d843b0009209a36c517e8fc886d92b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "dlc_refugees_s5": {
       "name": "Vampires in the Village",
@@ -784,7 +784,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/05a60b1f5271501457ba17765c89157a3e088a5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.3"
     },
     "dlc_refugees_s15_1": {
       "name": "One more inquisitor",
@@ -919,7 +919,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/646e3c65c27f62b5df095393ee00371b439057da.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.1"
     },
     "dlc_refugees_city_1_fin": {
       "name": "Camp",
@@ -991,7 +991,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/eb641a92880d790fcb6efe09e8493fdc31de38f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "dlc_souls_s_s_4_3": {
       "name": "A locked ghost from the past",
@@ -1072,7 +1072,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/c86abd242142044b8e8883e752f6b244b6eda80e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "dlc_souls_s_s_31": {
       "name": "The birth of passion",
@@ -1090,7 +1090,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/38da56fa243f58faaf458ec6ff707f4974edc0ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "dlc_souls_s_s_34": {
       "name": "The third session of curing therapy",
@@ -1099,7 +1099,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/599140/ae36f5999d747e37538b371b62eb83ce038fe6af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "4.8"
     },
     "dlc_souls_s_s_35": {
       "name": "Dissatisfied villagers",
