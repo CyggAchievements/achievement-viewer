@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/181727b3c73b9359c4ac521cd660e556bc59c2c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "SIDE_FEED_SNARK": {
       "name": "Good Grub",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/d4b52a114047aa1aec28f77f3978d387285100e3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "TRACK_A2_HIDEOUT": {
       "name": "Sustenance",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/b7f2fb2aa8af45e8b15e1a3c742360cd31ec3bd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.2"
     },
     "SIDE_SQUEEZE_HC_HEART": {
       "name": "Freshly Squeezed",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/4f15ccb8a67926c571b1d65627d6c540ea994e00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "TRACK_A3_STATION_STREET": {
       "name": "Checking In",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/6af964487e7612a0518d2b8bfacc1d321623ac07.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "TRACK_A4_C17_ZOO": {
       "name": "Sea Level",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/d4ae23fdd653cb564328fe9f654304152386b3b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "TRACK_A4_C17_TANKER_YARD": {
       "name": "Triple Bypass",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/3ea8b7ec21b953a173cefc0cea78fbedebca1058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.6"
+      "percent": "87.7"
     }
   },
   "platform": "Steam",
