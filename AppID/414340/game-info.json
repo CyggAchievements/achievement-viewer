@@ -1,7 +1,7 @@
 {
   "appid": "414340",
-  "name": "Hellblade: Senua's Sacrifice",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/header.jpg?t=1776350290",
+  "name": "Game 414340",
+  "icon": "",
   "achievements": {
     "GATE": {
       "name": "The Fight Begins",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/414340/99350a2e58536988ee5ca4309b16fcd0757108d5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "VALRAVN": {
       "name": "Master of Illusion",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/414340/1168de86b5b8c42ff1b9456c6ee8277715e16e3e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "HELHEIM": {
       "name": "Into the Mountain",

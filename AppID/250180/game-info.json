@@ -1,7 +1,7 @@
 {
   "appid": "250180",
-  "name": "METAL SLUG 3",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250180/header.jpg?t=1727159336",
+  "name": "Game 250180",
+  "icon": "",
   "achievements": {
     "MS3_001": {
       "name": "CHARACTER MASTER",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250180/8c25abd651e7ae8a070a22508eeabfacafab791f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "MS3_013": {
       "name": "TEAMWORK",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250180/6006ecdd639260e589a7e137e0f8b3bcbb56e200.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.8"
+      "percent": "85.9"
     },
     "MS3_024": {
       "name": "OASIS OF THE BATTLEFIELD (MADOKA)",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250180/db3ee0aed88b467ea3337cf16db88c5ca9caa6a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "MS3_030": {
       "name": "MASTER OF METAL SLUG",

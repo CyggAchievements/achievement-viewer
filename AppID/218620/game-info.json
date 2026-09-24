@@ -1,7 +1,7 @@
 {
   "appid": "218620",
-  "name": "PAYDAY 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789555107",
+  "name": "Game 218620",
+  "icon": "",
   "achievements": {
     "hot_wheels": {
       "name": "Coming in Hot",
@@ -2800,7 +2800,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b377bcafc5bbb65251f4d1f21093547f96826d52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "melt_4": {
       "name": "There Was a Car?!",
@@ -5563,7 +5563,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e4b09295b6384a24c5f7975f6f662afda5d7bbaf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "trk_af_2": {
       "name": "A Safe Drive to L.A.",
@@ -7957,7 +7957,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b1c6020b2dfec701c0b6adf2d6352080dfe731fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "trk_th_3": {
       "name": "Criminal Waters",
@@ -8056,7 +8056,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/f0d6a22d0f68753d20a8b809fcbde2821fe32673.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.7"
     },
     "trk_tu_2": {
       "name": "Hazy Heisters",

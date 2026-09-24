@@ -1,7 +1,7 @@
 {
   "appid": "774361",
-  "name": "Blasphemous",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774361/header.jpg?t=1780479368",
+  "name": "Game 774361",
+  "icon": "",
   "achievements": {
     "AC01": {
       "name": "A Long Path Ahead",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/774361/bc0bfc77dcf0666db855d3c2a242aebf71894fc6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "AC14": {
       "name": "Last Words",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/774361/87461fd368e1854e43495e8913219cbbe54ca708.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "AC18": {
       "name": "Mysteria Lucis",

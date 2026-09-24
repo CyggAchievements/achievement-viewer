@@ -1,7 +1,7 @@
 {
   "appid": "2515020",
-  "name": "FINAL FANTASY XVI",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg?t=1773294537",
+  "name": "Game 2515020",
+  "icon": "",
   "achievements": {
     "1000": {
       "name": "The Chronicler",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.2"
+      "percent": "74.1"
     },
     "1003": {
       "name": "Acceptance",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.3"
+      "percent": "64.2"
     },
     "1004": {
       "name": "Lawless",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.0"
     },
     "1005": {
       "name": "Legacy",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.0"
     },
     "1006": {
       "name": "Twilight Rose",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "1007": {
       "name": "From Stone to Sand",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "1008": {
       "name": "Twin Flames",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "1009": {
       "name": "The Promise",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "1010": {
       "name": "A Vessel Complete",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.7"
+      "percent": "35.6"
     },
     "1011": {
       "name": "Ashes to Ashes",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/ddd944bafb49b5f7f13dd8333a4e5add32828825.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "1012": {
       "name": "Falling Star",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/49290fb439b9cec624f808daf8e3c028d808b4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.3"
     },
     "1016": {
       "name": "You're Not the Boss of Me",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/49290fb439b9cec624f808daf8e3c028d808b4b7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.5"
     },
     "1018": {
       "name": "It's Over 50,000",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/49290fb439b9cec624f808daf8e3c028d808b4b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.2"
+      "percent": "39.1"
     },
     "1019": {
       "name": "Sheeeeeeeeeeeeeeeift",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/a0f784aff731e07e712a8aa61c0f8a6145f87841.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.2"
+      "percent": "87.1"
     },
     "1020": {
       "name": "Packing Heat",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/d6be0dba1be29adbee96e23e5fe56bbb7c463e74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "1024": {
       "name": "Rod to Redemption",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/5c7b250cfbb2f2649c15ab2c476330d58b8770d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.6"
     },
     "1026": {
       "name": "Beat Rocking Blocks",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/b41e632cca920c6abf92b7f4bf9cca264035bf3b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "1032": {
       "name": "Fistful of Steel",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/97842eab26b9d655a97f052d821e21c85a099a21.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "32.8"
     },
     "1041": {
       "name": "Hunter, Hunted",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/b0449b2e0b3bb2d9b99c8359b5514886d7474819.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.7"
+      "percent": "67.6"
     },
     "1014": {
       "name": "Half Past Twilight",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/cf118c9601e07800322c826b8f7a1307e128b617.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "1037": {
       "name": "The More You Know",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/f3e42a53db2c3007c1dd3301fc5f306ecba4605b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.0"
+      "percent": "47.9"
     },
     "1046": {
       "name": "A Fine Hound",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/f3e42a53db2c3007c1dd3301fc5f306ecba4605b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.5"
     },
     "1047": {
       "name": "When You Ride Alone",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/e3e87dfdac876ebfbfe6d5ad982fc86d312b8926.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.4"
     },
     "1035": {
       "name": "Here Be Rosfields",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6a47671dc125252f283a666ceadec41aa6060aec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "2000": {
       "name": "A Crystal Darkly",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6a47671dc125252f283a666ceadec41aa6060aec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "2003": {
       "name": "OMG",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "3003": {
       "name": "Flood",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2515020/6b0367390d7d12df0cf43fa42503453a299028db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "3004": {
       "name": "Explain That",

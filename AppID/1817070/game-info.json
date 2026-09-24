@@ -1,7 +1,7 @@
 {
   "appid": "1817070",
-  "name": "Marvel’s Spider-Man Remastered",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+  "name": "Game 1817070",
+  "icon": "",
   "achievements": {
     "superiorspiderman": {
       "name": "Superior Spider-Man",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817070/8eb6a104ba45fdca9a8d5e828a8d356c109bfa0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "asuitforallseasons": {
       "name": "A Suit For All Seasons",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817070/4f614094fbaf7e837a525092d6e60fc06a5991f4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "crossingthethinblueline": {
       "name": "Crossing the Thin Blue Line",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817070/d6068bded4ade3c381bd6bdcc3c2614d4e945726.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "prohibition": {
       "name": "Prohibition",

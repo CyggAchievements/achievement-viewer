@@ -1,7 +1,7 @@
 {
   "appid": "1941540",
-  "name": "Mafia: The Old Country",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/d06980bb8f41737ca68da8eed40079347db09c84/header.jpg?t=1788898865",
+  "name": "Game 1941540",
+  "icon": "",
   "achievements": {
     "Achievement_1_Id": {
       "name": "The Carusu",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "88.9"
+      "percent": "89.0"
     },
     "Achievement_4_Id": {
       "name": "The Family Business",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.1"
+      "percent": "78.2"
     },
     "Achievement_7_Id": {
       "name": "Lira for Lira",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.3"
     },
     "Achievement_12_Id": {
       "name": "Neutral Ground",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.0"
+      "percent": "65.1"
     },
     "Achievement_13_Id": {
       "name": "Most Dutiful Soldier",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "64.0"
     },
     "Achievement_14_Id": {
       "name": "Everything you Deserve",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.5"
     },
     "Achievement_15_Id": {
       "name": "Only One Way Out",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "Achievement_19_Id": {
       "name": "Fantasma",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     },
     "Achievement_23_Id": {
       "name": "Worthy Opponent",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "Achievement_28_Id": {
       "name": "Driving in Style",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "58.0"
     },
     "Achievement_32_Id": {
       "name": "Live by the Blade",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.8"
     },
     "Achievement_39_Id": {
       "name": "Rare Weapons Expert: Vendetti",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "Achievement_40_Id": {
       "name": "Secret Assassin",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "26.0"
     },
     "Achievement_41_Id": {
       "name": "Rare Weapons Expert: Modello",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "Achievement_42_Id": {
       "name": "Cold-Blooded",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.1"
+      "percent": "76.2"
     },
     "Achievement_43_Id": {
       "name": "Rare Weapons Expert: Repeater",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.1"
+      "percent": "61.2"
     },
     "Achievement_44_Id": {
       "name": "Salvatore's Apprentice",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.2"
+      "percent": "25.3"
     },
     "Achievement_45_Id": {
       "name": "Mystery Fox Domination",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "Achievement_48_Id": {
       "name": "Daredevil",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "Achievement_50_Id": {
       "name": "Getaway Driver",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "Achievement_60_Id": {
       "name": "Against All Odds",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     }
   },
   "platform": "Steam",

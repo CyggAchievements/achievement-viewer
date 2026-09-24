@@ -1,7 +1,7 @@
 {
   "appid": "883710",
-  "name": "Resident Evil 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1779433152",
+  "name": "Game 883710",
+  "icon": "",
   "achievements": {
     "NEW_ACHIEVEMENT_1_1": {
       "name": "Welcome to the City of the Dead",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/344901183389ff857a45107de3db2392a78c54df.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.6"
+      "percent": "73.5"
     },
     "NEW_ACHIEVEMENT_1_3": {
       "name": "Never-Ending Rain",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/f70fb485b16f860001f46b601010274e6e77203f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "A Hero Emerges",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/aec9f3abc08a82e4c9fef76857cc4c24a2816bf8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.0"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "A Heroine Emerges",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/de5f3ab49300507accbc11e6d9e12916d38a2d13.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "NEW_ACHIEVEMENT_1_9": {
       "name": "Broken Umbrella",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/097e7946db247778282a711f9a57d3425f9c0b7e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.3"
+      "percent": "85.2"
     },
     "NEW_ACHIEVEMENT_1_15": {
       "name": "That'll Hold 'Em",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/c7b4314571a1c614e8a2f3c29e017f13e55ca70b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "NEW_ACHIEVEMENT_1_21": {
       "name": "Like Skeet Shooting",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/b1095159ee98ebb69ebb698d4911cffbb66d509a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "Lore Explorer",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/883710/41aa26da4c071e0304e1909825b37f65c347d394.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "NEW_ACHIEVEMENT_1_36": {
       "name": "Hardcore Rookie",

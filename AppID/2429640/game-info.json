@@ -1,7 +1,7 @@
 {
   "appid": "2429640",
-  "name": "Throne and Liberty",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429640/497cc638fa3186f1aeefddaff89eaaf6f0c2e7dd/header.jpg?t=1787851215",
+  "name": "Game 2429640",
+  "icon": "",
   "achievements": {
     "T_CodexAdventure_001": {
       "name": "Island of the Star-Born",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2429640/302acd6e331719efa4036bdce96517070c8c7902.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "T_DefeatedNpc_FB_002": {
       "name": "Lost Test Subject \"Excavator-9\"",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2429640/accbbe69eadeb45dd9548a3df7f4a286f6907abc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "T_DefeatedNpc_FB_004": {
       "name": "Eternal Guardian \"Talus\"",

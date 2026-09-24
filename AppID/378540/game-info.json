@@ -1,7 +1,7 @@
 {
   "appid": "378540",
-  "name": "The Surge",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/header.jpg?t=1727864911",
+  "name": "Game 378540",
+  "icon": "",
   "achievements": {
     "ID_ACHIEV_48": {
       "name": "The Surge",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/378540/3761d28755e7d8e322233856367882395cdc05ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "ID_ACHIEV_66": {
       "name": "Gramophone Enthusiast",

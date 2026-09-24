@@ -1,7 +1,7 @@
 {
   "appid": "1794680",
-  "name": "Vampire Survivors",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2e4de652ebe9d4136a989571d207cd0b0e019985/header_alt_assets_10.jpg?t=1787911678",
+  "name": "Game 1794680",
+  "icon": "",
   "achievements": {
     "ReachLV5": {
       "name": "Wings",
@@ -1063,7 +1063,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/3d4f1178bf2df3018c28ff1fe56e10a40fcfafd5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "ReachLV100WithAmbrojoe": {
       "name": "Reroll 5",
@@ -1810,7 +1810,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/7a3f776cfad4a4abd249f829ae494f364145688b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "FindBraveStory": {
       "name": "EXTRA: Brave Story",
@@ -1873,7 +1873,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/aded8a07bc3dc8ce73f5336a6687130e5b41ccff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "FindAnArmaDio": {
       "name": "EXTRA: Arma Dio",

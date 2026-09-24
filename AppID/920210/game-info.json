@@ -1,7 +1,7 @@
 {
   "appid": "920210",
-  "name": "LEGO® Star Wars™: The Skywalker Saga",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg?t=1747346983",
+  "name": "Game 920210",
+  "icon": "",
   "achievements": {
     "COMPLETE_EPISODE_1": {
       "name": "The Phantom Menace",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/920210/c41a7fcf411d57ec381d8b6c311974247df9b108.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.9"
     },
     "JEDI_MIND_TRICKS_CANTINA": {
       "name": "''Jedi Business''",

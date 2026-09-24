@@ -1,7 +1,7 @@
 {
   "appid": "493340",
-  "name": "Planet Coaster",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg?t=1782480201",
+  "name": "Game 493340",
+  "icon": "",
   "achievements": {
     "CreatedAvatar": {
       "name": "Welcome to Planet Coaster.",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493340/43ca00dd64acac9dc962b3bd25646f6cb4a98668.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.0"
     },
     "SaltOnFries": {
       "name": "Salt on the Senses ",

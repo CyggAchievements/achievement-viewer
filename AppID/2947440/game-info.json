@@ -1,7 +1,7 @@
 {
   "appid": "2947440",
-  "name": "SILENT HILL f",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+  "name": "Game 2947440",
+  "icon": "",
   "achievements": {
     "0001": {
       "name": "Surrounded by Fog",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/834599a8b0bab8877aa5bc0a3c2a4ffce724cfe7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.5"
+      "percent": "84.6"
     },
     "0002": {
       "name": "The Fox's Guidance",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/9dd61e039db84c31fc4776a7ba747231c633973b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "75.1"
     },
     "0003": {
       "name": "Scarecrows' Whispers",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/d388a852ee3a70926a5236c967c0c60b0c9834f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.8"
     },
     "0006": {
       "name": "Shell of the Past",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/435953f1cb10cf374c94e5fb9330240ea6b82643.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "0007": {
       "name": "The Farewell Party",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/a205ce74f96e913ddec28911ac519fcab5edacd9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "0008": {
       "name": "A Dangerous Path",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/6b7f97272ab72b184aafb02db7581f93593230db.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "0010": {
       "name": "Parting on Good Terms",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/649e25382c8c67b22b6d37b9b79f86e8cd914aad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "0011": {
       "name": "Solar & Lunar Eclipse",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/f4cc2aaf089d944ba98db0d51a4884df25e931a0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.8"
     },
     "0012": {
       "name": "The Path of Self-Preservation",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/8f862c37d9fd61a07344342001094cf8e28d02c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "0016": {
       "name": "The Fox Wets Its Tail",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/1f106b204c41bf20f37c2615f87d058cf1f224af.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "0027": {
       "name": "Acupuncture Specialist",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/3d059e041d6d0b29a4f221e280da858d52923547.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.8"
     },
     "0035": {
       "name": "Just Shut Up for Once, Dad!",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2947440/9b730ab8df2aaf795683aaf969e7b02c8738e3bb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "0040": {
       "name": "Puppetmaster",

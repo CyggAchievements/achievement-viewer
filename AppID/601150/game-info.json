@@ -1,7 +1,7 @@
 {
   "appid": "601150",
-  "name": "Devil May Cry 5",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg?t=1790215341",
+  "name": "Game 601150",
+  "icon": "",
   "achievements": {
     "Achievements_00": {
       "name": "Let's Rock!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/601150/e438d4d914a42d141bf41be011e27fce8bc50a2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "Achievements_19": {
       "name": "Each In His Own Way",

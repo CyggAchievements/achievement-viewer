@@ -1,7 +1,7 @@
 {
   "appid": "2215200",
-  "name": "LEGO® Batman™: Legacy of the Dark Knight",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1789746326",
+  "name": "Game 2215200",
+  "icon": "",
   "achievements": {
     "Achievement_0_Id": {
       "name": "\"I am Batman.\"",
@@ -477,7 +477,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/0abc70895507ec3789b8600998b117c578cd0ce4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/5ae7c2db80772a84257e28126cd6408a797356dd.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_53_Id": {
       "name": "Absolute Mayhem",
@@ -485,7 +486,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/c1b294b74d7e3df8190c31e82ef0ed7194a9f8ba.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/6018d1945bc58455fc45745e4ce679d7dd231c1f.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_54_Id": {
       "name": "Welcome to the Crew",
@@ -493,7 +495,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/62d9bd13b0af49c17f25f6b276bee8864bc12be5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/c74c3d91521531761730d48413ac49f8ef810eb9.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_55_Id": {
       "name": "Bargain",
@@ -501,7 +504,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/06d304c2ba4a7aa5f54dacc78630d65fd94ad361.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/5d2b99fd610daa738346a53e499e167c5b9eaa5c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_56_Id": {
       "name": "Lost a Wheel",
@@ -509,7 +513,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/000c3154536dbc8ccbe5237215c21c94211a8460.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/3fbb7299b15fd100ad7a10247937a154a398c757.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_57_Id": {
       "name": "Lacking Agency",
@@ -517,7 +522,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/b4a634070b3d79d4a13bfe98c27c9d44253330c5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/d8d56bb8c697f37b8ae3c62b47b3f799a0e6490c.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_58_Id": {
       "name": "Full House",
@@ -525,7 +531,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/a297dfed04b4d0173fc48f7f70350cef29cf5ace.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/47269f627bd0931467514933223d9e4d52032af6.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_59_Id": {
       "name": "Well Equipped",
@@ -533,7 +540,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/81816a35f588e4376fc7ca6f8064d0aee60fcd17.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/f85d369e4221b063b92c1c551d8c8a2236e09b52.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_60_Id": {
       "name": "Base of Operations",
@@ -541,7 +549,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/494bb92f7a71b9c1b84c81d2a92e0cb32d960a48.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/eba895fd1ae677a660886bb265f0589f80b742b1.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_61_Id": {
       "name": "Villified",
@@ -549,7 +558,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/3f35889cb64503f6913b81a2e34d589842879d1e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/c69fe8619699c81225b0b0bc635be649129b8c62.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_62_Id": {
       "name": "All Pipes Lead to Home",
@@ -557,7 +567,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/9af9e401ba32626faa5a9a393e8571057997fee2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/a55b324d6dc409971029a485da637d13d753427d.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     },
     "Achievement_63_Id": {
       "name": "Part of the Plan",
@@ -565,7 +576,8 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/bd8eb5e76afa9446af0b01a583a4ff44d683f4a4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2215200/03af54d32d98b419aa9a09441dbcfc9d83e874e7.jpg",
       "hidden": false,
-      "group": "Base Game"
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": "Steam",

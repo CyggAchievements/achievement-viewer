@@ -1,7 +1,7 @@
 {
   "appid": "424370",
-  "name": "Wolcen: Lords of Mayhem",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424370/header.jpg?t=1773238074",
+  "name": "Game 424370",
+  "icon": "",
   "achievements": {
     "ACH_FINISH_ACT1_SOFTCORE": {
       "name": "Children’s Trial",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/26f83726f2bc6ffa95a703febcd0661e336a9bb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "59.9"
     },
     "ACH_FINISH_ACT2_SOFTCORE": {
       "name": "Aberration Purified",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/424370/9d9e80cde282e2d22ed65673cffbc7012e718451.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "ACH_SARISEL_S_PLUS": {
       "name": "Counterpurge",

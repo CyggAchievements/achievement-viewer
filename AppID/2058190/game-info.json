@@ -1,7 +1,7 @@
 {
   "appid": "2058190",
-  "name": "Lost Judgment",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/header.jpg?t=1781263270",
+  "name": "Game 2058190",
+  "icon": "",
   "achievements": {
     "COYOTE_PLATINUM": {
       "name": "Master Detective",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058190/22ad2fde6d26689a5eebe228088898b3bf0b265a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.4"
     },
     "COYOTE_MAIN_STORY_07": {
       "name": "The Mole",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058190/66948a904ec8de3593d00868279e0a29a3ac4e99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "COYOTE_MOST_DIFFICULT_CLEAR": {
       "name": "Legendary Detective",

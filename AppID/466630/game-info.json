@@ -1,7 +1,7 @@
 {
   "appid": "466630",
-  "name": "The Pedestrian",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466630/6f45f5b694e99499b0e74e51eed8bac63baedaea/header.jpg?t=1765919336",
+  "name": "Game 466630",
+  "icon": "",
   "achievements": {
     "Warehouse": {
       "name": "I knew I'd find it here in the warehouse",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/466630/9ecaaa1dc6fb0f49c2206ed1742f0ff9fcfe5ac7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "InnerCity": {
       "name": "If this works, I plan to set sail tonight",

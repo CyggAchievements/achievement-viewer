@@ -1,7 +1,7 @@
 {
   "appid": "1551360",
-  "name": "Forza Horizon 5",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+  "name": "Game 1551360",
+  "icon": "",
   "achievements": {
     "ACHIEVEMENT_1": {
       "name": "Welcome to México",
@@ -937,7 +937,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1551360/e439b7e459fb504e4db333ebd87e71a91fe6042c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "ACHIEVEMENT_109": {
       "name": "Picking Up The Tab",

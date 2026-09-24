@@ -1,7 +1,7 @@
 {
   "appid": "269270",
-  "name": "LOVE",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269270/header.jpg?t=1604288906",
+  "name": "Game 269270",
+  "icon": "",
   "achievements": {
     "ach_bouncer": {
       "name": "Bouncer",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/269270/d76e794f1fbc0e3efa78db69311b8e749121e8da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "ach_yotht": {
       "name": "YOLNHNNT",

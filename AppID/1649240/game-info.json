@@ -1,7 +1,7 @@
 {
   "appid": "1649240",
-  "name": "Returnal™",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649240/header.jpg?t=1750956860",
+  "name": "Game 1649240",
+  "icon": "",
   "achievements": {
     "OnboardingComplete": {
       "name": "Atropian Survival",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/4d1f7782f54a5531cff4be8fb6601dcb693aedec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "FirstDeath": {
       "name": "Eternal Return",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/3c929f8a45a403bfed427b0089fa7ed362e8071f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "AllTrophies": {
       "name": "Helios",

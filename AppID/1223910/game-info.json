@@ -1,7 +1,7 @@
 {
   "appid": "1223910",
-  "name": "Tennis World Tour 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1223910/header.jpg?t=1725352603",
+  "name": "Game 1223910",
+  "icon": "",
   "achievements": {
     "Matchmaker": {
       "name": "Matchmaker",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1223910/1c198a924c31c263d7c5842346e5da4b6bda8cd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.1"
+      "percent": "39.2"
     },
     "SkillsPayTheBills": {
       "name": "Skills pay the bills",

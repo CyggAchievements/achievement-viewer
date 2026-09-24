@@ -1,7 +1,7 @@
 {
   "appid": "1030300",
-  "name": "Hollow Knight: Silksong",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+  "name": "Game 1030300",
+  "icon": "",
   "achievements": {
     "FIRST_TOOL": {
       "name": "Equipped",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/690e5d5768fad49f0f6f5dbc0ea803429030173f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "FIRST_SILK_SKILL": {
       "name": "Bound",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/eba7fea6222d407924726fb352b2231a751f4e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "BELLWAYS_FULL": {
       "name": "Connected",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/0e3f76a3dd29bfd2171d42e0232eebc4404f0522.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "FLEAS_ALL": {
       "name": "Fleafriend",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/092e058a946972dd5ba3b895f6a98cede60f069a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.0"
     },
     "DEFEATED_LACE_2": {
       "name": "White Knight",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/d4906884adf278b18b730b6adab7888a6170b5d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "WHITE_FLOWER_GAINED": {
       "name": "Remembrance",
