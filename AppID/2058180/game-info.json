@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/df61363a0b57684e199f399fa1f444c38c1178a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "JUDGE_MAIN_STORY_03_HIDDEN": {
       "name": "The Art of Conversation",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/b8c39ab1d7bb555f52383d6218400b3c060b92ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "JUDGE_MAIN_STORY_06_HIDDEN": {
       "name": "The Final Nail",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2058180/c21c34b88878adf9602eea87336d8443a73a2e0d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "JUDGE_CLEAR": {
       "name": "Thank You!",
