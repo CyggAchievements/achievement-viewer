@@ -443,13 +443,21 @@ def fetch_steam_store_info(appid):
         if response.ok:
             data = response.json().get(appid, {})
             if data.get("success"):
+                store_data = data.get("data") or {}
                 return {
-                    "name": data["data"].get("name", f"Game {appid}"),
-                    "icon": data["data"].get("header_image", ""),
+                    key: value
+                    for key, value in (
+                        ("name", store_data.get("name")),
+                        ("icon", store_data.get("header_image")),
+                    )
+                    if value
                 }
+            print(f"Steam Store returned no data for {appid}")
+        else:
+            print(f"Steam Store returned HTTP {response.status_code} for {appid}")
     except Exception as e:
         print(f"Error fetching store info for {appid}: {e}")
-    return {"name": f"Game {appid}", "icon": ""}
+    return {}
 
 
 def fetch_steam_schema_achievements(appid):
@@ -748,8 +756,8 @@ for appid in appids:
 
     game_info = {
         "appid": appid,
-        "name": f"Game {appid}",
-        "icon": "",
+        "name": existing_info.get("name") or f"Game {appid}",
+        "icon": existing_info.get("icon") or "",
         "achievements": {},
         "platform": current_platform,
         "blacklist": current_blacklist,
