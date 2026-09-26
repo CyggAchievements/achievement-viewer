@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/e0fa1228facadf5572826fddae6f736a67ae286e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.3"
     },
     "TRACK_A2_DRAINAGE": {
       "name": "Xen Garden",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/7dc3893c2f8a1fd2dce44d898731ac0de2270ce0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "TRACK_A3_HOTEL_LOBBY_BASEMENT": {
       "name": "Heart-Breaker Hotel",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/7abd414cd9c3265136ab4ed84d6a430bc2e92528.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "TRAINING_LOOT_LIVING_SOLDIER": {
       "name": "Combine Harvester",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/716bd07a1c733709b3d40b28a015237e20f51385.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "SIDE_HACK_TRIPMINE": {
       "name": "Safe Trip",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/d24c20461e377f319d694e6ca1b2eef02eadff70.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.7"
     },
     "SKILL_GGENEMY_GRENADE_MID_FLIGHT": {
       "name": "Deadliest Catch",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/3ea8b7ec21b953a173cefc0cea78fbedebca1058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.6"
+      "percent": "87.5"
     }
   },
   "platform": "Steam",
