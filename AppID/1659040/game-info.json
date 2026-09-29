@@ -1,7 +1,7 @@
 {
   "appid": "1659040",
   "name": "HITMAN World of Assassination",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/c62446d5c95f583a296d7f1b99045a61e2f81dea/header.jpg?t=1790337871",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/c62446d5c95f583a296d7f1b99045a61e2f81dea/header.jpg?t=1790674941",
   "achievements": {
     "ACH_1": {
       "name": "The Result of Previous Training",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/b46e3b11d5247b775df746ee5613857904f58a3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACH_19": {
       "name": "Master of the Household",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1659040/8c5e79b5b086c1234ede7811c13ef65586a389db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "28.1"
     },
     "ACH_81": {
       "name": "Mission Complete",

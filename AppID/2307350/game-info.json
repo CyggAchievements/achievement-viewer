@@ -1,7 +1,7 @@
 {
   "appid": "2307350",
   "name": "Into the Radius 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2307350/c392da3c356501b682aca2645f990f14d39bfea4/header.jpg?t=1784737193",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2307350/c392da3c356501b682aca2645f990f14d39bfea4/header.jpg?t=1790683018",
   "achievements": {
     "ACH_FIRST_WEAPON": {
       "name": "My New Toy",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/b47b3aedeab41e1065afe8ca1c9297274c7e0082.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "ACH_STARTED_COOP": {
       "name": "Teamwork",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/74e33ee06b1e44e3018320e30455bf8c88600ec0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACH_PLAYERS_3_COOP": {
       "name": "Changing Faces",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/7f8a7c7c09af3f1d9a57d3fa15aef2653368f5c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.8"
     },
     "ACH_STORY_MISSION_2_SINGLE": {
       "name": "Finding the First Artifact",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/9bb21ac85e2ae21d0e8c3218ef82143a11a7c74d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "ACH_STORY_MISSION_3_SINGLE": {
       "name": "Into the In-Between",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/5682e4c1953c29eab185f9eb030ae03dcd1d2340.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ACH_STORY_MISSION_5_SINGLE": {
       "name": "Unexpected Vacation",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/caba75ae846f7190a6223b7f75a87b79cac8ffc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACH_STORY_MISSION_6_SINGLE": {
       "name": "Diving Deep",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/de85f08eb13e343fbcbad511d293eb1e7dca4e9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "ACH_STORY_MISSION_8_SINGLE": {
       "name": "Opening the Door",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/30faddd8240075b8099f9ff58934c9306dbb3963.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACH_STORY_MISSION_2_COOP": {
       "name": "Finding the First Artifact Together",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/a7a96a2649dc1ee2489b1aad5aeaf40eae9c46f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACH_STORY_MISSION_7_COOP": {
       "name": "Heading to Town Together",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/f9bc5b223203e78e457186f2d0612acd8a9c381c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "ACH_GLUTTONY": {
       "name": "Gluttony",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2307350/d5131e155c4ed4073c91dcc637a642c6b7da8afb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ACH_ARTIST": {
       "name": "Artist",
