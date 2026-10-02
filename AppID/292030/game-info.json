@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "The Witcher 3: Wild Hunt — Remastered",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg?t=1790845156",
+  "name": "Zaklínač 3: Divoký Hon – Remaster",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/49e4b8a02a3a3790886acf86ef0a6344e1fc9e63/header_alt_assets_1_czech.jpg?t=1790845156",
   "achievements": {
     "LILAC": {
       "name": "Lilac and Gooseberries",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/b62989d97d6a7ba6a6665b1fbb5a51d4aa9b93dc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "SOMETHING_MORE": {
       "name": "Something More",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/ff1d6abba9cc160bca253bf104cee24f3729bbb4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "18.9"
     },
     "DENDROLOGIST": {
       "name": "Dendrologist",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/93ae2c276206d0996af7642447937edfb61b72d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "ENEMY_OF_MY_ENEMY": {
       "name": "The Enemy of My Enemy",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/36fa5a81136a14965f000e734e639be8183b180b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "MUNCHKIN": {
       "name": "Munchkin",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/0893476fe864c5188cc76d03e1a8ace517ac7f24.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "FIRE_IN_THE_HOLE": {
       "name": "Fire in the Hole",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/da7760f5c0118845af6eca7636efa740bc31dc2e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "FIST_OF_THE_SOUTH_STAR": {
       "name": "Fist of the South Star",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/aff73f99607bef4a7af5b13cfe9e36486ff1dc06.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "EP1_2": {
       "name": "Let the Good Times Roll!",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/ffaba1163ccf7d4e843f565fdb92a871ea40b15a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "EP2_7": {
       "name": "Turned Every Stone",
