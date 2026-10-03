@@ -1,6 +1,6 @@
 {
   "appid": "870780",
-  "name": "控制 - 终极合辑 / Control Ultimate Edition",
+  "name": "CONTROL Ultimate Edition",
   "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969",
   "achievements": {
     "HILT_OF_CALIBURN_ACHIEVEMENT": {
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/ad48f7bfedd991a6e78b69854ce860ecc43b5673.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "51.8"
     },
     "MARSHALL_MARSHALL_MARSHALL_ACHIEVEMENT": {
       "name": "Old Boys' Club",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/925dee7d8c6a7132b54764c526a90c444192a7e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "38.1"
     },
     "URBAN_SPELUNKER_ACHIEVEMENT": {
       "name": "Niche Position",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/870780/71ef865dcfdef564c26cba399f0251bf6dca9175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.0"
+      "percent": "61.9"
     },
     "UNRIVALED_ACHIEVEMENT": {
       "name": "Expert Parautilitarian",
