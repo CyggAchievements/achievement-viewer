@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/5209d2bff32b938bba7537f7be82ae41693047f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "76.3"
+      "percent": "76.2"
     },
     "SIDE_GLOBAL_BREAK_BOTTLES": {
       "name": "Mazel Tov",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/648968d6c2b86c3c1b8e2325e0565cc0a3937fcf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "SIDE_GEIGER_COUNTER": {
       "name": "Eye of the Geiger",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/b7f2fb2aa8af45e8b15e1a3c742360cd31ec3bd2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.0"
     },
     "SIDE_SQUEEZE_HC_HEART": {
       "name": "Freshly Squeezed",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/f33e68eb8f213212a92641d2195937a73489c552.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "TRACK_A2_TRAIN_YARD": {
       "name": "Off the Rails",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/4f15ccb8a67926c571b1d65627d6c540ea994e00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "45.9"
     },
     "TRACK_A3_STATION_STREET": {
       "name": "Checking In",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/f2973a4d9d3f22c1cc16c13816efa76d05c4cf51.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.7"
+      "percent": "39.6"
     },
     "TRACK_A3_HOTEL_UNDERGROUND_PIT": {
       "name": "Surface Tension",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/0187b5e51a5a4946cd4ee869d366ad0f81e98e67.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "TRACK_A3_HOTEL_INTERIOR_ROOFTOP": {
       "name": "Unbonded",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/87d3a32ffa34fba7b4024e80ce6bb4ed8ad3044a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "TRACK_A3_DISTILLERY_NOKILLBZ": {
       "name": "Sound Strategy",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/a81efb7caa4e74406fbc1312719a1eb5914427c6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "TRACK_A4_C17_WATER_TOWER": {
       "name": "High Water March",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/4db9660b6a4bc48350b7eeb7440fc5ad7f6bde66.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "TRACK_A5_ENDING": {
       "name": "Consequences",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/387729b58c4f2fa95a65975ccb528488bb2e1db8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.1"
+      "percent": "82.0"
     },
     "TRAINING_BREAK_ITEM_CRATE": {
       "name": "Smash and Grab",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/aaee312cd61b46fc970932764893dda21aa1fd9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.0"
     },
     "TRAINING_KILL_SOLDIER_WITH_GASTANK": {
       "name": "Pro-Pain",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/df5f35a8a8e5f1856640888dc430a6931c5d4cc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "SKILL_KILL_CHARGER_WHILE_SHIELD_UP": {
       "name": "Indirect Approach",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/f8c2b317f1b8d99dd888ccaa0e2a3c9a4244a816.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "TRAINING_STEAL_XEN_GRENADE": {
       "name": "Xen Lootism",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/3ea8b7ec21b953a173cefc0cea78fbedebca1058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.3"
+      "percent": "87.1"
     }
   },
   "platform": "Steam",
