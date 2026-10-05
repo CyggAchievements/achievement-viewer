@@ -1,7 +1,7 @@
 {
   "appid": "292030",
-  "name": "Відьмак 3: Дикий гін — Перевидання",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3df06a1feaf21de75a39314b12d36dace46c8704/header_alt_assets_1_ukrainian.jpg?t=1790845156",
+  "name": "The Witcher 3: Wild Hunt — Remastered",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg?t=1790845156",
   "achievements": {
     "LILAC": {
       "name": "Lilac and Gooseberries",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/8246dc3a496e13c058572dab37099e76a6cd0b77.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "60.1"
     },
     "FRIEND_IN_NEED": {
       "name": "A Friend in Need",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/70ea4796b6417e7789792f8a94cc22072a9a9a3f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.9"
+      "percent": "28.8"
     },
     "FAMILY_COUNSELOR": {
       "name": "Family Counselor",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/623f3f8eca35da6aba96d116a5e4ad23e654a3ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "XENONAUT": {
       "name": "Xenonaut",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/a78968ba3078d80101eeba100efa26bb96c90f0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "THE_KING": {
       "name": "The King is Dead",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/244c4f4a34a6b52fa21fdbe5d063fe03f67ab690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "21.8"
     },
     "RAN_THE_GAUNTLET": {
       "name": "Ran the Gauntlet",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/de338575f9e854352f4fc2704e0c0c76f005d2f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "MAKER": {
       "name": "Kingmaker",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/369497d2df3dc73a08f7e7ec865b0a2dd7ff13ad.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.6"
+      "percent": "24.5"
     },
     "ASSASSIN": {
       "name": "Assassin of Kings",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/641d653a10a2e36148b18f3ff211fc4fbf6cce56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.6"
     },
     "THE_EVILEST_THING": {
       "name": "That Is the Evilest Thing",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/5c617bc94010e4bb7d23eb0db50108a5f2cf233e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.9"
     },
     "TRIPLE_THREAT": {
       "name": "Triple Threat",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/a597bfce83b9a58db9a1cd93cf11568c8e279d51.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "BRAWLER": {
       "name": "Brawler",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/6076b7237efe8831282a7af7943465d75552c081.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "OVERKILL": {
       "name": "Overkill",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/97a340c08bc669b8e6a19c427ee6e700b27064b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "CARD_COLLECTOR": {
       "name": "Card Collector",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/47c15cc475e18c34d369d531a9abfb6bfbd99cc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "BOMBARDIER": {
       "name": "Bombardier",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/c832391d5119195c559a5018c74e709ede2ed1e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.8"
+      "percent": "39.9"
     },
     "ARMED_AND_DANGEROUS": {
       "name": "Armed and Dangerous",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/44632cb7a7e765e3196b841dd80eb05a88addd8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "BRAWL_MASTER": {
       "name": "Brawl Master",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/a43d3ba006f02649a549f949480f39ac2620d7d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "GERALT_AND_FRIENDS": {
       "name": "Geralt and Friends",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/a2e317a26669fdde2a4469bf2279a969863196e9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "THE_DOPPLER_EFFECT": {
       "name": "The Doppler Effect",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/10486fe97262caae2a7cbde9ad925dce48b1edc1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "EP2_3": {
       "name": "Kling of the Clink",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/292030/488f075e0a75a607ba3c156112140baa7ada14b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "EP2_12": {
       "name": "Hasta la Vista™",
