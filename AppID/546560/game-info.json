@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/c065fab009812c0f7446ab9455f80dd41becdc77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.5"
     },
     "SIDE_HL2_PLAYGROUND": {
       "name": "On a Roll",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/e0fa1228facadf5572826fddae6f736a67ae286e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "TRACK_A2_DRAINAGE": {
       "name": "Xen Garden",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/7dc3893c2f8a1fd2dce44d898731ac0de2270ce0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.7"
     },
     "TRACK_A3_HOTEL_LOBBY_BASEMENT": {
       "name": "Heart-Breaker Hotel",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/ff52a5f70f6a0104e81af7f9ee4558dd78a50e53.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.7"
+      "percent": "4.6"
     },
     "SIDE_CATCH_FALLING_BOTTLE": {
       "name": "Hold Your Liquor",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/d4ae23fdd653cb564328fe9f654304152386b3b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "TRACK_A4_C17_TANKER_YARD": {
       "name": "Triple Bypass",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/2c06c4483e9d8fcd90801c98e9d3d70b24915d3b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "TRAINING_LOOT_ZOMBIE": {
       "name": "Dead Giveaway",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/3ea8b7ec21b953a173cefc0cea78fbedebca1058.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.1"
+      "percent": "86.9"
     }
   },
   "platform": "Steam",
