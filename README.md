@@ -129,13 +129,40 @@ These are detected automatically from your repository URL!
 2. Commit and push changes
 3. Site updates automatically within minutes
 
+This requires Actions to be enabled and `.github/workflows/run-main.yml` to be
+present on the `user` branch. GitHub uses the workflow from the branch receiving
+the push. Keep the caller identical on `main` and `user`; it invokes the maintained
+fetch workflow on `main`. Only changed games are refreshed after a push. Commits
+that only update generated `game-info.json` files do not trigger another run.
+
+After deploying these workflow changes to `main`, copy only the caller to `user`
+using a clean checkout (preserve any local work first):
+
+```sh
+git fetch origin main user
+git switch user
+git restore --source=origin/main -- .github/workflows/run-main.yml
+git add .github/workflows/run-main.yml
+git commit -m "Enable achievement refresh after user branch pushes"
+git push origin user
+```
+
+The caller references `CyggAchievements/achievement-viewer` explicitly. If you
+fork this repository, update that reference to your own `OWNER/REPOSITORY`.
+
 ### Automatic Update (for all games)
 
-The workflow runs daily at midnight UTC, or manually:
+The full refresh runs once a week, on Sundays at 03:17 UTC, or manually:
 
 1. Go to **Actions** tab
-2. Select **Fetch Steam Game Data**
+2. Select **Update Achievement Data**
 3. Click **Run workflow**
+
+If GitHub displays **Workflows on this fork have been disabled**, click
+**I understand my workflows, go ahead and re-enable them** first, then run the
+workflow on `main` once to refresh existing data. Reducing the schedule saves
+Actions runs but does not exempt a public repository from GitHub's automatic
+disabling of scheduled workflows after 60 days without repository activity.
 
 ## 📊 What You Need vs What's Optional
 

@@ -1,15 +1,24 @@
-name: Scheduled or Manual Trigger
+name: Update Achievement Data
 
 on:
+  push:
+    branches:
+      - user
+    paths:
+      - 'AppID/**'
+      - '!AppID/**/game-info.json'
+      - '!AppID/**/missing hidden achievements'
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours (UTC)
+    - cron: '17 3 * * 0' # Sundays at 03:17 UTC
   workflow_dispatch:
 
 jobs:
   call-main:
     permissions:
       contents: write
-    uses: ./.github/workflows/fetch-game-data.yml
+    # Keep this caller on both main (schedule/manual) and user (push).
+    # Always use the maintained workflow and Python scripts from main.
+    uses: CyggAchievements/achievement-viewer/.github/workflows/fetch-game-data.yml@main
     secrets: inherit
     with:
-      trigger_source: ${{ github.event_name == 'schedule' && 'scheduled' || 'manual' }}
+      trigger_source: ${{ github.event_name == 'push' && 'push' || (github.event_name == 'schedule' && 'scheduled' || 'manual') }}
