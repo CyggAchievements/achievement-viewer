@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/ad57b51a4b9965cccc9759b08495d3fd721739a9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "blastoff": {
       "name": "Blast-Off!",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/05d4a8db603b9bc14e364a959cc8638d47ce5815.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "bucketlist": {
       "name": "Bucket List",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/903e8d625176c82cb9dd2b22a4174140df6bc2db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.9"
     },
     "piratelad": {
       "name": "Pirate Lad",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/98e645e3e7ee4f065b9b43b4a17eebdbd03fb9d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.4"
+      "percent": "4.5"
     },
     "stickadventurer": {
       "name": "Stick-Adventurer",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/ad44d6bee500a5b3868ccaa21d1b3319ebf7b9c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "stickdaredevil": {
       "name": "Stick-Daredevil",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/54e457170f54ff977efe9cd284ce4575d3ea9102.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "stormynights": {
       "name": "Stormy Nights",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/1016095f6d227ec4933765a740990ea60b20c0a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "heartless": {
       "name": "Heartless",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/248650/a0de386051560a8610cb37dc405de79fe5a0d3fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "2.1"
     }
   },
   "platform": "Steam",

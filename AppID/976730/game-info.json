@@ -1,7 +1,7 @@
 {
   "appid": "976730",
   "name": "Halo: The Master Chief Collection",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1774466074",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1791569963",
   "achievements": {
     "1_0_LIFE_STORY": {
       "name": "Life Story",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/5c47584e5821d4d6d405b8e0abc0cb8f5fa341d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "1_6_HUNTERS_HUNTED": {
       "name": "Hunters Hunted",
@@ -2089,7 +2089,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/1047d5bc2aa327dde022eb2ba7f988bb5dea3d8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "8_9_BACK_FOR_MORE": {
       "name": "Back for More",
@@ -2161,7 +2161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/1dbff8c7a353cc080e92f889069a5da7625431f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "8_17_LAST_STAND": {
       "name": "Last Stand",
@@ -2692,7 +2692,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/e617db8be45017c137ff9829414fc83eb39e96a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "10_12_ZOMBIE_REPELLER": {
       "name": "Zombie Repeller",
@@ -2737,7 +2737,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/e80a25ed72c0c5a1518a05eb7c7f2f85f42487e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "10_17_REQUIEM": {
       "name": "Requiem",
@@ -4438,7 +4438,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/17286a5d22515e851626bd2c7011b8e895d97ae0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "16_14_CHECKING_OUT_YOUR_OPTIONS": {
       "name": "Checking Out Your Options",
@@ -6085,7 +6085,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/379c3ec9cf1b1ff51d1ead82ff053211a34eb391.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "22_5_WHO_NEEDS_RED_FLAG?": {
       "name": "Who Needs Red Flag?",
