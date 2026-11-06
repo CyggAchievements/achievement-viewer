@@ -1,5 +1,5 @@
 {
-  "last_updated": 1794000045,
+  "last_updated": 1794003645,
   "total_games": 295,
   "games": [
     {
@@ -70831,7 +70831,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.2"
+            "percent": "39.1"
           },
           "ACH_The_Blood_of_Dawnwalker": {
             "name": "The Blood of Dawnwalker",
@@ -70858,7 +70858,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.7"
+            "percent": "20.6"
           },
           "ACH_Overkill": {
             "name": "Better Safe than Sorry",
@@ -70903,7 +70903,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "27.0"
+            "percent": "26.9"
           },
           "ACH_Golden": {
             "name": "Gear of the Gods",
@@ -71020,7 +71020,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751260/fa012336173174504dadca51815242f45fe94bd2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.6"
+            "percent": "39.5"
           },
           "ACH_The_Unquenchable_Thirst": {
             "name": "The Unquenchable Thirst",
@@ -71250,8 +71250,8 @@
           "earned_time": 1790365673
         },
         "ACH_The_Folk_Hero": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1794002830
         },
         "ACH_The_Knyazmaker": {
           "earned": false,
