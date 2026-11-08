@@ -167,10 +167,10 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
                     <img src="${window.githubAvatarUrl}" 
                          alt="Profile" 
                          class="profile-icon"
-                         onerror="this.src='https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg'">
+                         onerror="this.onerror=null; this.src='default_icon.png'">
                     
                     <h2 style="color: #66c0f4; margin: 0;">
-                        <span>${window.githubUsername}</span>'s summary
+                        <span>${window.githubSummaryTitle || `${window.githubUsername}'s summary`}</span>
                     </h2>
                 </div>
 

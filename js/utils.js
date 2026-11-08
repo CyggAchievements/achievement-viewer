@@ -8,11 +8,17 @@ export function getGitHubUserInfo() {
   const repoMatch = currentUrl.match(/github\.io\/([^\/]+)/);
   if (repoMatch) {
     githubUsername = currentUrl.split('.github.io')[0].split('//')[1];
-    githubAvatarUrl = `https://github.com/${githubUsername.toLowerCase()}.png`;
+    githubAvatarUrl = `https://avatars.githubusercontent.com/${githubUsername}?s=128`;
     githubRepo = repoMatch[1];
   }
 
-  return { username: githubUsername, avatarUrl: githubAvatarUrl, repo: githubRepo };
+  const isCyggProfile = githubUsername.toLowerCase() === 'cyggachievements';
+  return {
+    username: githubUsername,
+    avatarUrl: isCyggProfile ? 'profile-avatar.jpg' : githubAvatarUrl,
+    repo: githubRepo,
+    summaryTitle: isCyggProfile ? 'Cygg Achievements summary' : `${githubUsername}'s summary`
+  };
 }
 
 // Percentage calculation

@@ -290,6 +290,7 @@ export async function init() {
     
     window.githubUsername = userInfo.username;
     window.githubAvatarUrl = userInfo.avatarUrl;
+    window.githubSummaryTitle = userInfo.summaryTitle;
 
     try {
         const cardResponse = await fetch(baseUrl + 'gamercard.html');
