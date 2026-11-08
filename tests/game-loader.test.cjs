@@ -55,8 +55,22 @@ async function setup(handler, storage = new Map()) {
     });
     await loader.link(() => utils);
     await loader.evaluate();
-    return { loader: loader.namespace, module: loader, context, requests, elements, document };
+    return { loader: loader.namespace, module: loader, utils: utils.namespace, context, requests, elements, document };
 }
+
+test('migrates legacy Steam icon URLs while preserving modern and custom images', async () => {
+    const env = await setup(() => response(data));
+    const normalize = env.utils.normalizeAchievementIconUrl;
+    const suffix = '4115450/b87e7283d3006cba458d80bdf5d3b5b2fe5b402c.jpg';
+    const modern = 'https://shared.fastly.steamstatic.com/community_assets/images/apps/' + suffix;
+    for (const host of ['steamcdn-a.akamaihd.net', 'cdn.steamstatic.com', 'cdn.akamai.steamstatic.com', 'cdn.cloudflare.steamstatic.com']) {
+        assert.equal(normalize(`https://${host}/steamcommunity/public/images/apps/${suffix}`), modern);
+    }
+    for (const url of [modern, 'default_icon.png', 'https://example.com/custom.jpg', 'data:image/png;base64,abc', '']) {
+        assert.equal(normalize(url), url);
+    }
+    assert.equal(normalize(null), '');
+});
 
 test('loads achievements without contacting an unavailable GitHub API', async () => {
     const env = await setup((url) => {

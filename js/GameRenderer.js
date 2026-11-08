@@ -1,5 +1,5 @@
 import { gamesData } from './GameLoader.js';
-import { calculatePercentage, formatUnlockDate } from './utils.js';
+import { calculatePercentage, formatUnlockDate, normalizeAchievementIconUrl } from './utils.js';
 import { 
     isOwnProfile, 
     loadOwnGameData, 
@@ -617,10 +617,11 @@ function renderAchievement(ach, isUnlocked) {
         groupHTML = `<div class="achievement-group">${ach.group}</div>`;
     }
 
+    const iconSrc = normalizeAchievementIconUrl(isUnlocked ? (ach.icon || ach.icongray) : (ach.icongray || ach.icon));
     return `
         <div class="achievement ${isUnlocked ? 'unlocked' : 'locked'}">
-            ${ach.icon || ach.icongray ? 
-                `<img src="${isUnlocked ? ach.icon : (ach.icongray || ach.icon)}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` : 
+            ${iconSrc ?
+                `<img src="${iconSrc}" alt="${ach.name}" class="achievement-icon ${isRare ? 'rare-glow' : ''}" onerror="this.style.display='none'">` :
                 `<div class="achievement-icon ${isRare ? 'rare-glow' : ''}"></div>`}
             <div class="achievement-info">
                 <div class="achievement-name">${ach.name}</div>

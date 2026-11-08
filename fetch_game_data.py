@@ -571,6 +571,19 @@ def fetch_community_achievements(appid):
     return achievements
 
 
+def normalize_achievement_icon_url(icon, appid):
+    if not icon:
+        return FALLBACK_ICON_URL
+    if not icon.startswith(("http://", "https://", "data:")):
+        return f"https://shared.fastly.steamstatic.com/community_assets/images/apps/{appid}/{icon}.jpg"
+    return re.sub(
+        r"^https?://(?:steamcdn-a\.akamaihd\.net|[^/]+\.steamstatic\.com)/steamcommunity/public/images/apps/",
+        "https://shared.fastly.steamstatic.com/community_assets/images/apps/",
+        icon,
+        flags=re.IGNORECASE,
+    )
+
+
 def fetch_achievements(appid, existing_info, achievements_from_xml):
     hidden_achievements = []
     achievement_names_map = {}
@@ -609,17 +622,8 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
             if not ach.get("name"):
                 continue
 
-            if ach.get("icon"):
-                if not ach["icon"].startswith("http"):
-                    ach["icon"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icon"]}.jpg'
-            else:
-                ach["icon"] = FALLBACK_ICON_URL
-
-            if ach.get("icongray"):
-                if not ach["icongray"].startswith("http"):
-                    ach["icongray"] = f'https://cdn.steamstatic.com/steamcommunity/public/images/apps/{appid}/{ach["icongray"]}.jpg'
-            else:
-                ach["icongray"] = FALLBACK_ICON_URL
+            ach["icon"] = normalize_achievement_icon_url(ach.get("icon"), appid)
+            ach["icongray"] = normalize_achievement_icon_url(ach.get("icongray"), appid)
 
         for ach in achievements:
             api_name = ach.get("name")

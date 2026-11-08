@@ -21,6 +21,14 @@ export function getGitHubUserInfo() {
   };
 }
 
+// New Steam assets are only available under the community_assets path.
+export function normalizeAchievementIconUrl(iconUrl) {
+  return (iconUrl || '').replace(
+    /^https?:\/\/(?:steamcdn-a\.akamaihd\.net|[^/]+\.steamstatic\.com)\/steamcommunity\/public\/images\/apps\//i,
+    'https://shared.fastly.steamstatic.com/community_assets/images/apps/'
+  );
+}
+
 // Percentage calculation
 export function calculatePercentage(unlocked, total) {
     return total > 0 ? Math.round((unlocked / total) * 100) : 0;

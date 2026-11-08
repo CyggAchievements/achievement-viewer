@@ -1,3 +1,5 @@
+import { normalizeAchievementIconUrl } from './utils.js';
+
 // Cache for loaded comparison data
 const comparisonCache = new Map();
 
@@ -278,7 +280,7 @@ function renderComparisonAchievement(ach) {
     }
 
     const showColor = ach.status !== 'both-locked';
-    const iconSrc = showColor ? ach.icon : (ach.icongray || ach.icon);
+    const iconSrc = normalizeAchievementIconUrl(showColor ? (ach.icon || ach.icongray) : (ach.icongray || ach.icon));
 
     return `
         <div class="comparison-achievement ${statusClass}" data-status="${ach.status}">
