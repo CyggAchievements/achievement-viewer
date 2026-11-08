@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/ad295818fa12e1b35645386d25e01917adf877f4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "CI_Mastery": {
       "name": "Through the Forgotten City",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/1b16e0bdc16568aa8c4477d6693dcec8b9a509c5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "FifthBoss": {
       "name": "Inner Darkness",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/cf41d94caa29f6265ab4720a75eaefcfa97d67f4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "Act1Complete": {
       "name": "Failed Escape",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/25d6ab45badc8ab00186ee119ab1bb349648b2ff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "Act2Complete": {
       "name": "Last Drive",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/dae66774cbeea488401ef1f84b71e31d01d88279.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.2"
     },
     "ReloadCombo": {
       "name": "Surgical Precision",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/1ed9aa6799d620864580be2d37c4c131654bac30.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "DailyChallenge": {
       "name": "In-Field Training",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/8aebc3c882d16d72ded52d7b850e71e23e144e21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "MaxHP": {
       "name": "Hardened Shell",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/0960c8912c1456b4010564684560990ab1b31762.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.0"
     },
     "CurseActivity": {
       "name": "Risk Assessment",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/68ce40f99bfc28bdd0dad8280069ea1a5971e273.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "MaxAdrenaline": {
       "name": "Adrenaline Spike",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/87f36f3de9755e0918c99598bfa046d291f677be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "93.7"
+      "percent": "93.6"
     },
     "FindLogs": {
       "name": "Alternate Fates",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/91939753278e41f8cbc965181066eb9d175f7fe7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "FirstDeathInTower": {
       "name": "Eternal Ascent",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/07a5e9a2f784e392b2b8df11dcc7f15b860e3a7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "SinglePhaseBoss": {
       "name": "The Watcher",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/e08b484774d93a717a720744417e0afae0cdc0bd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "ThreePhaseBoss": {
       "name": "Eyes Closed",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1649240/33dae8e55a14e4408f287e8afc5d209bff32cb88.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "DLCEnding": {
       "name": "Empty Embrace",

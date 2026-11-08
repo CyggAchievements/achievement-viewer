@@ -1,7 +1,7 @@
 {
   "appid": "238960",
   "name": "Path of Exile",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/177c953b362c5a6221f9c15d340a0b1e2b8bfab8/header.jpg?t=1784681738",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/19a8acaddb5659ef3c1c91e5d6beb89abf10718d/header.jpg?t=1794003950",
   "achievements": {
     "FinishNormal": {
       "name": "Challenger",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/1c9fae11ce542819c1864f6fde719f3444e02bcd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.4"
     },
     "KillPiety": {
       "name": "Rest for the Wicked",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/aa5ed1c120be0349c3638b2c1922028b4a96c465.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.4"
+      "percent": "7.5"
     },
     "Level60HC": {
       "name": "Survivor",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/002880083e910b60945eb51266d9a42097411327.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "AllEnvironmentLore": {
       "name": "No Stone Unturned",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/dcebdca4b76cf5c0010b8b19cb569f8ce2ac4ca6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "ChanceUnique": {
       "name": "Left to Chance",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/9141420495caaaf7739f7aa5aa3b2997f23081cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "CaptureAFlag": {
       "name": "Capture the Flag",
@@ -712,7 +712,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/b959f19955c455d644f38a264a46f879ca19b779.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "OpenAVaalVessel": {
       "name": "Time Capsule",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/d9a7e58d916a4a217fd6cd6fec743c69c414f8a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "FindAllShaperMemoryFragments": {
       "name": "Unforgettable",
@@ -802,7 +802,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/6695950b80da0baa33e5fe9246cd71a217307abe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "KillUnholyTrio": {
       "name": "Rule of Three",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/9a25e3fa08aa46be4a266c71813c4e02df08dfb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.7"
+      "percent": "3.8"
     },
     "ChooseAscendancyClass": {
       "name": "Ascendancy",
@@ -973,7 +973,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/7d0dd8113ca073631fc4751a39e17695c82f5506.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.1"
     },
     "EquipTwoOfTheSameUnique": {
       "name": "Two of a Kind",
@@ -1081,7 +1081,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/238960/4c9f1b198d21ec6d6b3a579dc4fb1a509cde21b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "UpgradeAllCountriesTier5": {
       "name": "King Cartographer",

@@ -1,7 +1,7 @@
 {
   "appid": "1363080",
   "name": "Manor Lords",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1791279229",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1793270840",
   "achievements": {
     "ACH_SURVIVE_YEAR": {
       "name": "Survive the first year",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/486d48b0aed12ad401c14ece42258ec23fea5a1d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "ACH_BELLS": {
       "name": "For Whom the Bell Tolls",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/256cb5e52b92308ed861d0a559c4e3ec038d5f4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.3"
     },
     "ACH_LARGE_TOWN": {
       "name": "Cheerful Metropolis",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1363080/4afe8e111587767f07e55caa6790361bc6a0615a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ACH_MERCENARY_CAPTAIN": {
       "name": "Mercenary Captain",

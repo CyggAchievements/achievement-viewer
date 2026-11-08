@@ -1,7 +1,7 @@
 {
   "appid": "677160",
   "name": "We Were Here Too",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677160/header.jpg?t=1764329780",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677160/header.jpg?t=1792412300",
   "achievements": {
     "SLOTMACHINE_PUZZLE_COMPLETED_PEASANT": {
       "name": "Big Hit",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "RITUAL_PUZZLE_COMPLETED_ROYALTY": {
       "name": "Esoteric Etymology",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.8"
     }
   },
   "platform": "Steam",

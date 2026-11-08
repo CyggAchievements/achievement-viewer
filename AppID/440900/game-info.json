@@ -1,7 +1,7 @@
 {
   "appid": "440900",
   "name": "Conan Exiles Enhanced",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/bae6def963ca0dbf5ee4b7768f3fcc0e99458380/header_alt_assets_9.jpg?t=1791363787",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/710f42dec831fa88bcf736d0715152822231505f/header.jpg?t=1791363787",
   "achievements": {
     "ACH_ReachLevel10": {
       "name": "Hither Came the Exile…",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/7681a5b799671aa63d2942b61c9b6f4606f5c386.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.3"
+      "percent": "79.4"
     },
     "ACH_ReachLevel20": {
       "name": "…A Scavenger…",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/25dc340e854e7a2b36ef249fe2a4c7ab2a77e4f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.4"
+      "percent": "79.5"
     },
     "ACH_CreateAHome": {
       "name": "The Scarlet Citadel",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/9860691ac84a8d2e7742b1895cf21e9af039afe9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.2"
+      "percent": "78.3"
     },
     "ACH_VenerateTheGods": {
       "name": "The God in the Bowl",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/de134dd8ea51122898f2ef0a71e292e7033a7f38.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "50.0"
     },
     "ACH_CraftExceptional": {
       "name": "The Gilt, The Craft and the Lie",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/0ecc3aefdde12355074d7aaa886f97b4b11f34a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "ACH_DefeatUndeadDragon": {
       "name": "The Hour of the Dragon",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/3ce96a6beb62ea7bc17e7427bc4edad61152b338.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "ACH_PeerPressure": {
       "name": "The Tower of the Elephant",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/8442e7c70ce2ef3bd4d50e8b9649b808b79c1030.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.7"
     },
     "ACH_Siptah_FindVault": {
       "name": "In the Vault",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/e2015245355dcd7737c46c77d050b25574ddcebf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.5"
+      "percent": "4.6"
     },
     "ACH_Siptah_StackSigils": {
       "name": "From Beyond",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440900/700690f3bbeb1c1184eeab8c40bf9a41cb9217e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "ACH_Siptah_SummonTopTierSurge": {
       "name": "The Other Gods",

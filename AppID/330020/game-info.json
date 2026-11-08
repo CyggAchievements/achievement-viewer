@@ -1,7 +1,7 @@
 {
   "appid": "330020",
   "name": "Children of Morta",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330020/header.jpg?t=1765218667",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330020/header.jpg?t=1793636900",
   "achievements": {
     "ItHasBegun": {
       "name": "It Has Begun",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/4f65b8e269576295915837b672eb4890c71b81e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "MotherMary": {
       "name": "Mother Mary",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/735a341fc42ed29d676d10a4168830c7671ef26b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "Adventurer": {
       "name": "Adventurer",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/7bf1923200d34ac6815bcddfb57befc9bacc90ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.5"
     },
     "Runemender": {
       "name": "Runemender",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/2a9ef28e28d11fbe6a2392c7af395694adcbf4a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "Gambler": {
       "name": "Gambler",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/506aa3b1f036e776eda5516e47298fc53066d139.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "CreamoftheCrop": {
       "name": "Cream of the Crop",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/2d9a2195f6acf3067d66a05c3a5788be1a0949de.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "TogetherWeStand": {
       "name": "Together We Stand",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/5c010e19a933411fc9bde9f035b6325e9c8d0f3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ItRunsintheFamily": {
       "name": "It Runs in the Family",

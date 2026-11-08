@@ -1,7 +1,7 @@
 {
   "appid": "206440",
   "name": "To the Moon",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/header.jpg?t=1780927584",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/header.jpg?t=1792212569",
   "achievements": {
     "ACH_DEBUG_MOON": {
       "name": "\"Wish Granted\"",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/206440/e9690592d6392489585fd2731661c417af47f573.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.9"
     }
   },
   "platform": "Steam",

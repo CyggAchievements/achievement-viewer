@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/503580/2d9020591adb228ebdc2995e219d702c5e8e50ba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACH_DUCK_CHAMPION": {
       "name": "Duck Champion",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/503580/7176b69fcc57df38d89664612a3e06f1c11a03ca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.0"
     },
     "ACH_TV": {
       "name": "TV",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/503580/7fed2c549f1911fff6b6be7bf65fb20f3b8d168c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "ACH_CATTAILS": {
       "name": "Cat Tails",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/503580/89d25913df6e1158a0589c78aa568ae3e188f158.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "ACH_RABBIT_SEASON": {
       "name": "Rabbit Season!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/503580/ac3683ab148d1bb845837b38241326669d05a4cb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.3"
+      "percent": "87.2"
     },
     "ACH_DONT_SHOOT_DOG": {
       "name": "Let's Be Friends",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/503580/9061591a126e7d03beda4f1b06f712dbcf3f7190.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.0"
     },
     "ACH_HOME_RUN": {
       "name": "Home Run",

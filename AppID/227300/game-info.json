@@ -1,7 +1,7 @@
 {
   "appid": "227300",
   "name": "Euro Truck Simulator 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
   "achievements": {
     "map_discover_60": {
       "name": "I Am a GPS",
@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/b7fe3cf312c787636c943e55de2698c1ded1ce68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.2"
     },
     "map_discover_100": {
       "name": "Pathfinder",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/fee51cadc8479083df200d37f887232d5a46f2a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "use_train": {
       "name": "Choo-Choo",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/dffb49fba01caf2825abdba0b234101b37d33ec7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "use_boat": {
       "name": "Sardine",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a7544f36f31ad1fa7c4d6049afaea7b99ad472e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "use_all_ports": {
       "name": "Successfully Docked",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/12f9259ddcc241a424e9d975f1f6ffcc19d16c52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.8"
     },
     "buy_truck_online": {
       "name": "From the Comfort of Your Home",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/fa3f88a2692d267806190aeb87bfe57e8f30f5a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.4"
+      "percent": "46.5"
     },
     "metallic_multi_color_paint": {
       "name": "My Precious",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/c6f3ca8c04628f1b0360d0b54caf0289b7e56968.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "999_km_with_each_brand": {
       "name": "Test Drive Limited",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/8894916bb93b49cc699c4f59289bef5ba6b652d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.5"
+      "percent": "17.6"
     },
     "job_15_companies": {
       "name": "Reliable Contractor",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/b529dac93dc6afed5cf74b172d0fc8f78f063d3f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "job_no_ferry": {
       "name": "Profit Hunter",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/c28f1566d9a57f7f347af20ead5fc3bec14f667a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     },
     "perfect_delivery": {
       "name": "Job Is Only Worth It If It's Done Well!",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/757e79d5e537981dd0eeb1924b7f3e959c817625.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "5_jobs_in_a_row": {
       "name": "Careerist",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/b53c0c2582e741d2dd83dde2ab339821adff0025.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.1"
+      "percent": "83.2"
     },
     "jobs_30_cargo": {
       "name": "All Is Possible",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/7497bde2844b7d9207abc343fa95f4c90f110624.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.9"
     },
     "jobs_20k_xp": {
       "name": "Minimaxer",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/bc315959f5b1b89d7fe3f489d2563d03cf255c3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "garages_in_hq_country": {
       "name": "National Company",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/bff48025d0d4e9f4d1d7c4fb46b9320737138a81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.6"
     },
     "garage_in_every_city": {
       "name": "Property Magnate",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/626521967822c6cf5e42cb6ce160ef4d09c2d749.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "large_garage_productivity": {
       "name": "Working with the Elite",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/e892327fd386818043a509b51d0aa6707766b35e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.4"
+      "percent": "66.5"
     },
     "use_gas_station": {
       "name": "Diesel, No Petrol!",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/cf908744566baa65c1c42fae1b7eeecda9bd1d35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.0"
+      "percent": "71.1"
     },
     "sc_volvo_cargo": {
       "name": "Volvo Trucks Lover",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/281bbd0f106ee5bf6f933f31ae740dccf865c174.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "12.0"
     },
     "sc_scania_cargo": {
       "name": "Scania Trucks Lover",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/a52382d337f7965094b6a0d11d353bdd48f9b678.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "10.7"
     },
     "sc_deliver_marinas": {
       "name": "Sailor",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/165e49e14de2556ffa329063a405ea12f6631be0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "9.7"
     },
     "sc_cows_to_farm": {
       "name": "Cattle Drive",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/2501400297a9e413c5e3f47e82ac9e3c5f0c1118.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "10.8"
     },
     "sc_visit_cities": {
       "name": "Sightseer",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/faac1025311266e6e9846776a3f02a8e024abf91.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "33.6"
     },
     "sc_quarries_cargo": {
       "name": "Miner",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/af79ebbf9fbd3f2f05ff88a2ae556204cb9b95f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "6.8"
     },
     "sc_oresund_bridge": {
       "name": "Aquaphobia",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/414e4d7f322a2488d7a33d9a91a4eece09b5f587.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "65.7"
     },
     "fr_visit_cities": {
       "name": "Bon Voyage!",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/873c18109e0c57c58b96efe5a316b26a367b961b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "31.3"
     },
     "fr_landmarks": {
       "name": "Landmark Tour",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/23cb3e9f51ed9cf6fae127fea5c1414bd176ec21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "9.2"
     },
     "fr_nucplants": {
       "name": "Go Nuclear!",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/78037ff2ef9ee92680c9676023a5d98cad3f7861.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "10.5"
     },
     "fr_airports": {
       "name": "Check-in, Check-out",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/3a2b4313f2491a12a713f4a2a881c2f6a65f9e8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "10.3"
     },
     "fr_truckstop": {
       "name": "Gas Must Flow!",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/bbe362f342ce40a55c08a97486ddade5e485b5b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "8.3"
     },
     "hc_firstjob": {
       "name": "Time for Big Hauling",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/b53c01ce7631740ca64ba449f126d2b4e0d06d6d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "77.8"
     },
     "hc_threeperf": {
       "name": "Keep Calm and Haul Heavy",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/fee1d60dd9ccef4abc6f0824dcbd100e51833a9c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "12.5"
     },
     "hc_1000xps": {
       "name": "You Bet I Can Park It!",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/3411b91cf9864d694c55862d7e9f55f376d98c42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "21.8"
     },
     "hc_250t5jobs": {
       "name": "No Pain No Gain",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/d54f76ec8eac72f4ab776ff6f3f9fa83e4e09a09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "9.7"
     },
     "hc_allcargos": {
       "name": "I Thought This Should Be Heavy?!",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/d969b1e0d6f53a361ce5056ac0088f777a948e5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.0"
+      "percent": "12.9"
     },
     "it_visit_cities": {
       "name": "Imperator",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/2ea56204aea8f8e4a9647b3dd3a72d3e3671f78a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.3"
+      "percent": "31.2"
     },
     "it_garages": {
       "name": "True Sicilian",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/c09c094b45a7ed172adc82f3eaaafa831b83248a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "23.3"
     },
     "it_shipyards": {
       "name": "Captain",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/923bf4ca01301d59dc1e1e15b6cf6b7f2270099d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "11.5"
     },
     "it_volcanoes": {
       "name": "Mind the Lava",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/cec6150065a7c11e2434a0db6337302c1d4ca248.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "29.8"
     },
     "it_roads_to_rome": {
       "name": "Many Roads Lead to Rome",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/a63f6bc515bcd4549cd49df8a87c3955655d85ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "16.4"
     },
     "it_quarry": {
       "name": "Michelangelo",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/25a57779819aea787239b086552d90160f87cc0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "10.9"
     },
     "st_first_cargo": {
       "name": "Size Matters",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/e91ab29964438cc91f117d21c49d4ee23d63f070.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "76.1"
     },
     "st_all_cargos": {
       "name": "The Bigger the Better",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/e3d8f4e1acd0b37a013da207a5e24001cd35f323.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "9.0"
     },
     "st_all_routes": {
       "name": "Driver Exceptionnel",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/826551496bbe2428fa15772dce51ab403dbb5858.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.7"
+      "percent": "16.3"
     },
     "st_no_damage": {
       "name": "Not a Big Problem",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/05ba7b08d2ef855fead43296fb952e00a5997938.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "18.5"
     },
     "st_silo": {
       "name": "Giant",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/f79dde6bad7a2721ff3c562ea8c1a34139972af8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "21.5"
     },
     "st_cat_785c": {
       "name": "Big Brother",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/e2f4a1c3c4425d8cb24e6137ed0a33ef6ff17115.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "29.9"
     },
     "st_pilot_boat": {
       "name": "Not a Canoe",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/cdbcc045a05fb07a9ebf755efc26c2f747d9a5d2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "17.8"
     },
     "st_mass": {
       "name": "Mass-to-don",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/4779fa1be32b5b5836a477b8307dd9c9122e780b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "9.2"
     },
     "ba_visit_cities": {
       "name": "Baltic Tourist",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/69eeeafd1866bcfab20e53f78ef53cb5e9d03276.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "31.6"
     },
     "ba_job_countries": {
       "name": "Grand Tour",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/f5e654bcbd7a3d092650ce2c934291ac506b51ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "9.9"
     },
     "ba_to_russia": {
       "name": "Exclave Transit",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/a582c64bb361865b3d414c6d067825d9a5069062.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "6.9"
     },
     "ba_concrete": {
       "name": "Concrete Jungle",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/c14ef1c17d2f76ff94552df36d6a2c2e722d53d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "6.9"
     },
     "ba_industry": {
       "name": "Industry Standard",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/1e43c9646579a434b642d6da8cad56a8de3017df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "6.7"
     },
     "ba_farm": {
       "name": "Like a Farmer",
@@ -595,7 +595,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/3b13e0feeea373d859ad5a0409c7822e8ad0c020.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "7.3"
     },
     "it_visit_sardinia": {
       "name": "All Around the Blue Island",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/144924b280742f9e64a9a55745bd56ae08ed3750.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "46.9"
     },
     "fr_visit_corsica": {
       "name": "All Around the Isle of Beauty",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/b2d7b8348833414e5080470f0f85dd58f7a32ee1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "29.6"
     },
     "be_visit_cities": {
       "name": "Balkan Explorer",
@@ -622,7 +622,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/0798a5f60bd9be43d4c72d333045ed0a695c08ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "26.7"
     },
     "be_border_crossings": {
       "name": "Ranger",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6657b9f4c9a41b9fa6c5281a40f81eacebba9b3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.6"
+      "percent": "23.2"
     },
     "be_blke_ferry": {
       "name": "Ferryman",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/856f09405c6468f970d6bf2a57729d7ebebdd1d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.8"
+      "percent": "18.2"
     },
     "be_landmarks": {
       "name": "Taking the Scenic Route",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/496b737cb0d0b639f164edd8ab8713c4654f87ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "12.3"
     },
     "be_istanbul_jobs": {
       "name": "Turkish Delight",
@@ -667,7 +667,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/5fd19ac04d3c019aad551f8e90373843c072d750.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "6.5"
     },
     "be_express": {
       "name": "Orient Express",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/456e4b1f4ad67435be3fd24e5089075f657f8def.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "27.0"
     },
     "ib_container_ports": {
       "name": "Let's Get Shipping",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/9bca8f819a500f80f86d65e8ec74133de555bb78.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "7.3"
     },
     "ib_solar_power_plants": {
       "name": "Taste the Sun",
@@ -703,7 +703,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/7e4938d9d2ff1b124c58ab6d2f56176ae5bfb2b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "6.9"
     },
     "ib_shipyards": {
       "name": "Fleet Builder",
@@ -712,7 +712,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6877c988b7911ada24b6b0f9a41d5f87f3d6941c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "7.0"
     },
     "ib_a_coruna": {
       "name": "Iberian Pilgrimage",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/927c74ad125e33845756548c0d5d9aa284649455.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "7.0"
     },
     "ib_cutscenes": {
       "name": "Grand Tour Guide",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/229eb8f75c012b574b85742f08d54c23742a6109.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "8.9"
     },
     "unload_difficulty": {
       "name": "Parking Challenge",
@@ -739,7 +739,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/bdca7e2d44ac74e6d1a8c5e9d1d4a421f46b9d81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "12.0"
     },
     "bw_visit_cities": {
       "name": "Road to the Adriatics",
@@ -748,7 +748,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/bbebc8f4e91f76eb0a107c780b5cbbe3405c2917.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "26.1"
     },
     "bw_cutscenes": {
       "name": "Grand Adventurer",
@@ -757,7 +757,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a23877f305124fd07c992bbec2840a1cabc6dc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "9.4"
     },
     "bw_pristina_bijelo_polje": {
       "name": "Through the Serpentines",
@@ -766,7 +766,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/c7c40efdc35a33e55c18a1a125706f0d207c09e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "6.9"
     },
     "bw_coastline": {
       "name": "Holiday Coastline",
@@ -775,7 +775,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/070351e0a263d9978389128d4bcb487ced22f1dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "6.0"
     },
     "bw_ore_caravans": {
       "name": "Going Camping",
@@ -784,7 +784,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/58bac9feeaa0f5763a64b9925ec0df6ad62922c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.4"
+      "percent": "5.6"
     },
     "aca_first": {
       "name": "Get the Ball Rollin'",
@@ -793,7 +793,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/5d7023b5911f3a9c91dbcf7a6890b449d94c5e4e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "aca_interior": {
       "name": "Professional Driver",
@@ -847,7 +847,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/bb2400bb25bbe1723e5319ab7788868a510d1807.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.6"
+      "percent": "26.1"
     },
     "gr_cutscenes": {
       "name": "Sights and Legends",
@@ -856,7 +856,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/fe9fbaf597dfe6c4d60d5b06e60387b7c0ccfbc0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.5"
+      "percent": "8.3"
     },
     "gr_hotels": {
       "name": "All Inclusive",
@@ -865,7 +865,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/2e4ffac40e3bd1db153484f68455a568b1fa724c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "6.0"
     },
     "gr_olive": {
       "name": "Gift of Athena",
@@ -874,7 +874,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/3a08c3e42622e1b81570a5b5db1095e961aa2049.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "5.1"
     },
     "gr_marble": {
       "name": "Temple Worthy",
@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/10ef7fc6ad7ff14d0778562f7e392a2031464782.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "5.1"
     },
     "aca_pass_conditions": {
       "name": "Advanced Student",
@@ -919,7 +919,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/64fea80bef78b4a3b3c4adf31bf0c32f52d85f90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "43.7"
     },
     "pc_cutscenes": {
       "name": "Northern Secrets",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/00d833289e46cac704c0da070dfa16b8b2b67d68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "9.9"
     },
     "pc_salm_fillet": {
       "name": "Salmon Run",
@@ -937,7 +937,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/7ad2d365ee81ad76b96cc18c8e1ccaf5d9ef2461.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "5.8"
     },
     "pc_polar_circle": {
       "name": "Above the Arctic Circle",
@@ -946,7 +946,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/518a8a1f523f186815c411bb643056c4d9663b2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "6.1"
     },
     "aca_book3": {
       "name": "Double Trouble",
@@ -956,6 +956,78 @@
       "hidden": false,
       "group": "Base Game",
       "percent": "0.2"
+    },
+    "is_visit_cities": {
+      "name": "Land of Fire and Ice (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "is_cutscenes": {
+      "name": "Saga Sights (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "is_ringroad": {
+      "name": "Lord of the Ringroad (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "is_sheep": {
+      "name": "Outrun the Yule Cat (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "bus_job_satisfaction": {
+      "name": "Smooth Start (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "bus_jobs_owned_distance": {
+      "name": "Seasoned Traveller (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "bus_skills": {
+      "name": "Multitalented Driver (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "bus_jobs_consecutive": {
+      "name": "Rule of Threes (Upcoming)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/227300/6a9bfef2de1e523509511388dc57fc80b7e834cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": "Steam",
