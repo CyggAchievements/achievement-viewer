@@ -65,7 +65,8 @@
         window.setSortMode = setSortMode;
         window.setGridSortMode = setGridSortMode;
         
-        init().then(() => {
+        init().then((loaded) => {
+            if (!loaded) return;
             displayGames();
             handleDeepLink();
         });

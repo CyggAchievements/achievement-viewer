@@ -11,11 +11,20 @@ const CACHE_TIMESTAMP_KEY = `game-data-last-updated-${CACHE_VERSION}-${userInfo.
 const CACHE_DATA_KEY = `game-data-cache-${CACHE_VERSION}-${userInfo.username}`;
 const CACHE_MAX_AGE = 60 * 60 * 1000; // 1 hour - fallback if fetch fails
 
-async function loadGameDataWithCache() {
+function readGameDataCache() {
     try {
-        const cachedTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
-        const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
-        
+        const timestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
+        const games = JSON.parse(localStorage.getItem(CACHE_DATA_KEY));
+        if (Array.isArray(games)) return { timestamp, games };
+    } catch (error) {
+        console.warn('Game data cache unavailable; fetching fresh data.', error);
+    }
+    return { timestamp: null, games: null };
+}
+
+async function loadGameDataWithCache() {
+    const { timestamp: cachedTimestamp, games: cachedGames } = readGameDataCache();
+    try {
         let data = null;
         let needsFullFetch = true;
 
@@ -35,7 +44,7 @@ async function loadGameDataWithCache() {
                     
                     if (cachedTimestamp && cachedGames && serverTimestamp === cachedTimestamp) {
                         console.log(`✓ Smart check: Timestamp unchanged for ${userInfo.username}, using cache.`);
-                        return JSON.parse(cachedGames);
+                        return cachedGames;
                     }
                     console.log(`✓ Smart check: Update detected for ${userInfo.username} (Old: ${cachedTimestamp}, New: ${serverTimestamp})`);
                 }
@@ -70,7 +79,7 @@ async function loadGameDataWithCache() {
             games = data;
             lastUpdated = null;
             isNewFormat = false;
-        } else if (data.games && Array.isArray(data.games)) {
+        } else if (data && Array.isArray(data.games)) {
             games = data.games;
             lastUpdated = data.last_updated;
             isNewFormat = true;
@@ -86,8 +95,8 @@ async function loadGameDataWithCache() {
         // Update Cache (Safely)
         if (isNewFormat && lastUpdated) {
             try {
-                localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
                 localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
+                localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
                 console.log(`✓ Cache updated successfully for ${userInfo.username}`);
             } catch (e) {
                 if (e.name === 'QuotaExceededError' || e.name === 'NS_ERROR_DOM_QUOTA_REACHED') {
@@ -106,9 +115,6 @@ async function loadGameDataWithCache() {
         console.error(`Error loading game data for ${userInfo.username}:`, error);
         
         // Fallback to cached data if available and not too old
-        const cachedGames = localStorage.getItem(CACHE_DATA_KEY);
-        const cachedTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
-        
         if (cachedGames && cachedTimestamp) {
             const now = Math.floor(Date.now() / 1000);
             const cacheAge = (now - parseInt(cachedTimestamp)) * 1000;
@@ -116,7 +122,7 @@ async function loadGameDataWithCache() {
             if (cacheAge < CACHE_MAX_AGE) {
                 console.log(`⚠ Using fallback cached data for ${userInfo.username} due to error (cache age: ` + 
                             Math.round(cacheAge / 60000) + ' minutes)');
-                return JSON.parse(cachedGames);
+                return cachedGames;
             }
         }
         
@@ -282,20 +288,6 @@ export async function init() {
         console.log('Cache cleanup skipped:', e);
     }
     
-    try {
-        if (userInfo.username !== 'User') {
-            const repoResponse = await fetch(`https://api.github.com/repos/${userInfo.username}/${userInfo.repo}`);
-            if (repoResponse.ok) {
-                const repoData = await repoResponse.json();
-                userInfo.username = repoData.owner.login;
-                userInfo.repo = repoData.name;
-                baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
-            }
-        }
-    } catch (e) {
-        console.log('Could not fetch repo info for casing correction', e);
-    }
-
     window.githubUsername = userInfo.username;
     window.githubAvatarUrl = userInfo.avatarUrl;
 
@@ -309,30 +301,36 @@ export async function init() {
     }
     
     try {
+        // The generated data works independently of GitHub's repository API.
+        const gameData = await loadGameDataWithCache();
+        await loadGamesFromData(gameData);
+        return true;
+    } catch (error) {
+        console.warn('Combined game data unavailable; trying AppID folders.', error);
+    }
+
+    // Scan the data branch only when the combined data could not be loaded.
+    try {
         const currentUrl = window.location.href;
         const repoMatch = currentUrl.match(/github\.io\/([^\/]+)/);
 
         if (repoMatch) {
-            const apiUrl = `https://api.github.com/repos/${userInfo.username}/${userInfo.repo}/contents/AppID`;
+            const apiUrl = `https://api.github.com/repos/${userInfo.username}/${userInfo.repo}/contents/AppID?ref=user`;
             const response = await fetch(apiUrl);
 
-            if (response.ok) {
-                const contents = await response.json();
-                const appIds = contents
-                    .filter((item) => item.type === 'dir')
-                    .map((item) => item.name)
-                    .filter((name) => /^\d+$/.test(name));
+            if (!response.ok) throw new Error(`AppID scan failed (HTTP ${response.status})`);
 
-                if (appIds.length > 0) {
-                    await loadGamesFromAppIds(appIds);
-                    return;
-                }
-            }
+            const contents = await response.json();
+            const appIds = contents
+                .filter((item) => item.type === 'dir')
+                .map((item) => item.name)
+                .filter((name) => /^\d+$/.test(name));
+
+            await loadGamesFromAppIds(appIds);
+            if (gamesData.size > 0) return true;
         }
 
-        const gameData = await loadGameDataWithCache();
-        await loadGamesFromData(gameData);
-        return;
+        throw new Error('No achievement data could be loaded');
 
     } catch (error) {
         console.error('Error scanning folders:', error);
@@ -340,8 +338,9 @@ export async function init() {
         document.getElementById('info').style.display = 'block';
         document.getElementById('results').innerHTML = `
             <div class="error">
-                <h3>⚠️ Could not auto-scan folders</h3>
-                <p style="margin-top: 15px;">Make sure you have:</p>
+                <h3>⚠️ Could not load achievements</h3>
+                <p style="margin-top: 15px;">Your achievement files may still be available. Reload the page to retry.</p>
+                <p style="margin-top: 15px;">If the problem continues, check that you have:</p>
                 <ol style="text-align: left; margin: 15px auto; max-width: 500px;">
                     <li>Created folders in <code>AppID/</code> with game AppIDs as names</li>
                     <li>Added <code>achievements.json</code> or <code>.db</code> files</li>
@@ -349,5 +348,6 @@ export async function init() {
                 </ol>
             </div>
         `;
+        return false;
     }
 }
